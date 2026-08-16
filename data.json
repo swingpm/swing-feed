@@ -1,153 +1,153 @@
 {
-  "lastUpdate": "2026-08-16 18:15:01 UTC",
+  "lastUpdate": "2026-08-16 18:30:01 UTC",
   "swings": [
     {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: Levante UD 1st Half O/U 1.5",
+      "market": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+      "prev": 0.3035,
+      "now": 0.9995,
+      "delta": 0.696,
+      "url": "https://polymarket.com/event/wta-tjen-golubic-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 520808.5,
+      "liquidity": 493553.36
+    },
+    {
+      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner",
+      "prev": 0.715,
+      "now": 0.115,
+      "delta": -0.6,
+      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 163056.59,
+      "liquidity": 195191.84
+    },
+    {
+      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season \u2014 Games Total: O/U 2.5",
+      "prev": 0.72,
+      "now": 0.135,
+      "delta": -0.585,
+      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 10998.83,
+      "liquidity": 118306.89
+    },
+    {
+      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season \u2014 First Blood in Game 2?",
+      "prev": 0.565,
+      "now": 0.01,
+      "delta": -0.555,
+      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 272.98,
+      "liquidity": 235.82
+    },
+    {
+      "market": "Cincinnati Open: Joao Fonseca vs Botic van de Zandschulp \u2014 Fonseca vs. Zandschulp: Match O/U 22.5",
+      "prev": 0.095,
+      "now": 0.61,
+      "delta": 0.515,
+      "url": "https://polymarket.com/event/atp-fonseca-zandsch-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 641.08,
+      "liquidity": 562.02
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Viktorija Golubic \u2014 Cincinnati Open: Completed Match: Janice Tjen vs Viktorija Golubic",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-tjen-golubic-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 528609.05,
+      "liquidity": 1615.92
+    },
+    {
+      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season",
+      "prev": 0.545,
+      "now": 0.055,
+      "delta": -0.49,
+      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 394948.88,
+      "liquidity": 218667.1
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays \u2014 Spread: Baltimore Orioles (-3.5)",
+      "prev": 0.5,
+      "now": 0.955,
+      "delta": 0.455,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "La Liga"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 3369.93
+      "volume24hr": 592576.71,
+      "liquidity": 10.39
     },
     {
-      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Tsitsipas vs. Auger-Aliassime: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Set Handicap: Auger-Aliassime (-1.5) vs Tsitsipas (+1.5)",
+      "prev": 0.525,
+      "now": 0.945,
+      "delta": 0.42,
       "url": "https://polymarket.com/event/atp-tsitsip-augeral-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 393513.5,
-      "liquidity": 7101.12
+      "volume24hr": 243.81,
+      "liquidity": 364.0
     },
     {
-      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Tsitsipas vs. Auger-Aliassime: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Set 2 Winner: Tsitsipas vs Auger-Aliassime",
+      "prev": 0.47,
+      "now": 0.06,
+      "delta": -0.41,
       "url": "https://polymarket.com/event/atp-tsitsip-augeral-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 393513.5,
-      "liquidity": 6852.83
-    },
-    {
-      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Tsitsipas vs. Auger-Aliassime: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tsitsip-augeral-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 5.1,
-      "liquidity": 6852.83
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Emiliana Arango \u2014 Set Handicap: Swiatek (-1.5) vs Arango (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-swiatek-arango-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 506.42,
-      "liquidity": 5388.61
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Emiliana Arango \u2014 Swiatek vs. Arango: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-swiatek-arango-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 196164.3,
-      "liquidity": 3233.01
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Emiliana Arango \u2014 Swiatek vs. Arango: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-swiatek-arango-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 196164.3,
-      "liquidity": 3265.97
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Emiliana Arango \u2014 Swiatek vs. Arango: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/wta-swiatek-arango-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 20.0,
-      "liquidity": 6302.88
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Emiliana Arango \u2014 Swiatek vs. Arango: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/wta-swiatek-arango-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 196164.3,
-      "liquidity": 6376.0
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Emiliana Arango \u2014 Swiatek vs. Arango: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/wta-swiatek-arango-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 196164.3,
-      "liquidity": 3215.02
+      "volume24hr": 309.43,
+      "liquidity": 3612.55
     }
   ],
   "log": [
-    {
-      "ts": "11:00:01",
-      "text": " poll complete \u2014 1845 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:15:01",
       "text": " poll complete \u2014 1837 markets scanned, 10 flagged"
@@ -263,6 +263,10 @@
     {
       "ts": "18:15:01",
       "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:30:01",
+      "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
     }
   ]
 }
