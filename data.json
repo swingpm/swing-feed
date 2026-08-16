@@ -1,161 +1,154 @@
 {
-  "lastUpdate": "2026-08-16 19:30:01 UTC",
+  "lastUpdate": "2026-08-16 19:45:02 UTC",
   "swings": [
     {
-      "market": "Boston Red Sox vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-bos-pit-2026-08-16",
+      "market": "Arizona Diamondbacks vs. Atlanta Braves \u2014 Spread: Atlanta Braves (-2.5)",
+      "prev": 0.175,
+      "now": 0.785,
+      "delta": 0.61,
+      "url": "https://polymarket.com/event/mlb-ari-atl-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 82.24,
-      "liquidity": 1362.79
+      "volume24hr": 28822.19,
+      "liquidity": 82334.51
     },
     {
-      "market": "Boston Red Sox vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Boston Red Sox (-1.5)",
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Both Teams to Score in First Half",
+      "prev": 0.575,
+      "now": 0.005,
+      "delta": -0.57,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 61.98,
+      "liquidity": 2982.62
+    },
+    {
+      "market": "Arizona Diamondbacks vs. Atlanta Braves \u2014 Spread: Atlanta Braves (-1.5)",
+      "prev": 0.335,
+      "now": 0.875,
+      "delta": 0.54,
+      "url": "https://polymarket.com/event/mlb-ari-atl-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 6972.75,
+      "liquidity": 142.9
+    },
+    {
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: 1st Half O/U 2.5",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 467.29,
+      "liquidity": 4740.35
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Aleksandar Kovacevic \u2014 Nakashima vs. Kovacevic: Set 1 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-bos-pit-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 328026.21,
-      "liquidity": 1518.54
-    },
-    {
-      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Racing Club De Lens 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.996,
-      "delta": 0.496,
-      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Trophee des Champions"
-      ],
-      "volume24hr": 5737.61,
-      "liquidity": 12111.67
-    },
-    {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays: O/U 12.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 1601.63
-    },
-    {
-      "market": "Will the game go to extra innings?: Baltimore Orioles vs. Tampa Bay Rays",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.31,
-      "liquidity": 12291.11
-    },
-    {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays \u2014 Spread: Baltimore Orioles (-7.5)",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 14454.68,
-      "liquidity": 29115.68
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: St. Louis Cardinals vs. Chicago Cubs",
-      "prev": 0.51,
-      "now": 0.9995,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/mlb-stl-chc-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 869.33,
-      "liquidity": 9016.43
-    },
-    {
-      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Racing Club De Lens O/U 0.5",
-      "prev": 0.54,
-      "now": 0.9995,
-      "delta": 0.4595,
-      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Trophee des Champions"
-      ],
-      "volume24hr": 86.6,
-      "liquidity": 5388.31
-    },
-    {
-      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Racing Club De Lens O/U 2.5",
-      "prev": 0.035,
-      "now": 0.4905,
-      "delta": 0.4555,
-      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Trophee des Champions"
-      ],
-      "volume24hr": 35.16,
-      "liquidity": 73.33
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Aleksandar Kovacevic \u2014 Set Handicap: Nakashima (-1.5) vs Kovacevic (+1.5)",
-      "prev": 0.295,
-      "now": 0.74,
-      "delta": 0.445,
       "url": "https://polymarket.com/event/atp-nakashi-kovacev-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1332.45,
-      "liquidity": 470.19
+      "volume24hr": 162768.3,
+      "liquidity": 6896.48
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Aleksandar Kovacevic \u2014 Nakashima vs. Kovacevic: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-nakashi-kovacev-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 162768.3,
+      "liquidity": 6518.64
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Aleksandar Kovacevic \u2014 Nakashima vs. Kovacevic: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-nakashi-kovacev-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 10.98,
+      "liquidity": 6507.4
+    },
+    {
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Racing Club De Lens 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.004,
+      "delta": -0.496,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 173202.13,
+      "liquidity": 4644.44
+    },
+    {
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Paris Saint-Germain 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 4.17,
+      "liquidity": 3124.19
+    },
+    {
+      "market": "FC Slovan Liberec vs. SK Slavia Praha \u2014 Will SK Slavia Praha win on 2026-08-16?",
+      "prev": 0.725,
+      "now": 0.24,
+      "delta": -0.485,
+      "url": "https://polymarket.com/event/cze1-fsl-ssp-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer"
+      ],
+      "volume24hr": 91266.93,
+      "liquidity": 63324.67
     }
   ],
   "log": [
-    {
-      "ts": "12:15:01",
-      "text": " poll complete \u2014 1800 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:30:01",
       "text": " poll complete \u2014 1856 markets scanned, 10 flagged"
@@ -271,6 +264,10 @@
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 2026 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:45:02",
+      "text": " poll complete \u2014 2001 markets scanned, 10 flagged"
     }
   ]
 }
