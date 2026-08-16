@@ -1,158 +1,158 @@
 {
-  "lastUpdate": "2026-08-16 22:45:01 UTC",
+  "lastUpdate": "2026-08-16 23:00:01 UTC",
   "swings": [
     {
-      "market": "Texas Rangers vs. Athletics: O/U 6.5",
-      "prev": 0.46,
-      "now": 0.9995,
-      "delta": 0.5395,
-      "url": "https://polymarket.com/event/mlb-tex-oak-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 230.9,
-      "liquidity": 1250.49
-    },
-    {
-      "market": "Cincinnati Open: Katerina Siniakova vs Jessica Bouzas Maneiro \u2014 Cincinnati Open: Completed Match: Katerina Siniakova vs Jessica Bouzas Maneiro",
-      "prev": 0.5,
+      "market": "Mirassol FC vs. CR Flamengo - More Markets \u2014 Mirassol FC vs. CR Flamengo: O/U 3.5",
+      "prev": 0.165,
       "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-siniako-maneiro-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 559219.01,
-      "liquidity": 1964.67
-    },
-    {
-      "market": "Colorado Rockies vs. San Francisco Giants: O/U 19.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-col-sf-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 24.27,
-      "liquidity": 1028.42
-    },
-    {
-      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: 1st Half O/U 0.5",
-      "prev": 0.9995,
-      "now": 0.5045,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
+      "delta": 0.83,
+      "url": "https://polymarket.com/event/bra-mir-fla-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Brazil Serie A"
       ],
-      "volume24hr": 5869.05,
-      "liquidity": 12.87
+      "volume24hr": 7762.86,
+      "liquidity": 87612.91
     },
     {
-      "market": "Indiana Fever vs. Atlanta Dream \u2014 Allisha Gray: Assists O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wnba-ind-atl-2026-08-16",
+      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 LoL: LYON vs Sentinels - Game 1 Winner",
+      "prev": 0.985,
+      "now": 0.172,
+      "delta": -0.813,
+      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 228751.99,
+      "liquidity": 158784.34
+    },
+    {
+      "market": "CA River Plate vs. AA Argentinos Juniors - More Markets \u2014 Spread: CA River Plate (-1.5)",
+      "prev": 0.2,
+      "now": 0.985,
+      "delta": 0.785,
+      "url": "https://polymarket.com/event/arg-riv-aaj-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA"
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 284.22,
-      "liquidity": 11.7
+      "volume24hr": 9938.93,
+      "liquidity": 22895.19
     },
     {
-      "market": "Cincinnati Open: Katerina Siniakova vs Jessica Bouzas Maneiro \u2014 Katerina Siniakova vs. Jessica Bouzas Maneiro: Total Sets O/U 2.5",
-      "prev": 0.505,
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers: O/U 6.5",
+      "prev": 0.245,
       "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-siniako-maneiro-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 100.0,
-      "liquidity": 6398.11
-    },
-    {
-      "market": "Chicago Sky vs. Seattle Storm \u2014 Ezi Magbegor: Points O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wnba-chi-sea-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 256938.63,
-      "liquidity": 310.69
-    },
-    {
-      "market": "Texas Rangers vs. Athletics \u2014 Spread: Athletics (-2.5)",
-      "prev": 0.225,
-      "now": 0.705,
-      "delta": 0.48,
-      "url": "https://polymarket.com/event/mlb-tex-oak-2026-08-16",
+      "delta": 0.7545,
+      "url": "https://polymarket.com/event/mlb-mil-lad-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1760.87,
-      "liquidity": 2192.54
+      "volume24hr": 24975.58,
+      "liquidity": 25470.43
     },
     {
-      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Botafogo FR O/U 2.5",
-      "prev": 0.5,
-      "now": 0.039,
-      "delta": -0.461,
-      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
+      "market": "Mirassol FC vs. CR Flamengo - More Markets \u2014 Spread: CR Flamengo (-2.5)",
+      "prev": 0.27,
+      "now": 0.93,
+      "delta": 0.66,
+      "url": "https://polymarket.com/event/bra-mir-fla-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Brazil Serie A"
       ],
-      "volume24hr": 150010.98,
-      "liquidity": 1696.89
+      "volume24hr": 174.41,
+      "liquidity": 2215.15
     },
     {
-      "market": "Colorado Rockies vs. San Francisco Giants: O/U 18.5",
-      "prev": 0.565,
+      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 Game Handicap: LY (-1.5) vs Sentinels (+1.5)",
+      "prev": 0.75,
+      "now": 0.15,
+      "delta": -0.6,
+      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 79046.82,
+      "liquidity": 114765.02
+    },
+    {
+      "market": "CA River Plate vs. AA Argentinos Juniors - More Markets \u2014 CA River Plate vs. AA Argentinos Juniors: O/U 1.5",
+      "prev": 0.405,
       "now": 0.9995,
-      "delta": 0.4345,
-      "url": "https://polymarket.com/event/mlb-col-sf-2026-08-16",
+      "delta": 0.5945,
+      "url": "https://polymarket.com/event/arg-riv-aaj-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 22687.53,
+      "liquidity": 129956.54
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers: O/U 5.5",
+      "prev": 0.41,
+      "now": 0.9995,
+      "delta": 0.5895,
+      "url": "https://polymarket.com/event/mlb-mil-lad-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 506.34,
-      "liquidity": 2057.63
+      "volume24hr": 3198.33,
+      "liquidity": 23749.58
+    },
+    {
+      "market": "Mirassol FC vs. CR Flamengo - More Markets \u2014 Mirassol FC vs. CR Flamengo: O/U 2.5",
+      "prev": 0.415,
+      "now": 0.9995,
+      "delta": 0.5845,
+      "url": "https://polymarket.com/event/bra-mir-fla-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 17632.43,
+      "liquidity": 124568.7
+    },
+    {
+      "market": "Mirassol FC vs. CR Flamengo - More Markets \u2014 Spread: CR Flamengo (-1.5)",
+      "prev": 0.415,
+      "now": 0.995,
+      "delta": 0.58,
+      "url": "https://polymarket.com/event/bra-mir-fla-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 5259.88,
+      "liquidity": 41454.35
     }
   ],
   "log": [
-    {
-      "ts": "15:30:01",
-      "text": " poll complete \u2014 1960 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:45:01",
       "text": " poll complete \u2014 1975 markets scanned, 10 flagged"
@@ -268,6 +268,10 @@
     {
       "ts": "22:45:01",
       "text": " poll complete \u2014 2010 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:00:01",
+      "text": " poll complete \u2014 1987 markets scanned, 10 flagged"
     }
   ]
 }
