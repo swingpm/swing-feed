@@ -126,6 +126,7 @@
   .up { color: var(--fg); }
   .down { color: var(--red); text-shadow: 0 0 4px var(--red); }
   .delta { font-weight: bold; }
+  .num-val { color: #e8e8e8; }
 
   .market-link { color: var(--fg); text-decoration: none; border-bottom: 1px dotted var(--fg-dim); }
   .market-link:hover { text-decoration: none; border-bottom-style: solid; }
@@ -261,8 +262,8 @@
 
         return `<tr>
           <td data-label="Market">${marketCell}${tagsLine}${volLine}</td>
-          <td data-label="Prev">${(s.prev * 100).toFixed(0)}%</td>
-          <td data-label="Now">${(s.now * 100).toFixed(0)}%</td>
+          <td data-label="Prev" class="num-val">${(s.prev * 100).toFixed(0)}%</td>
+          <td data-label="Now" class="num-val">${(s.now * 100).toFixed(0)}%</td>
           <td data-label="Δ (1h)" class="delta ${cls}">${sign}${deltaPct}%</td>
         </tr>`;
       }).join('');
