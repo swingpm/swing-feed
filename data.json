@@ -1,26 +1,11 @@
 {
-  "lastUpdate": "2026-08-16 22:30:01 UTC",
+  "lastUpdate": "2026-08-16 22:45:01 UTC",
   "swings": [
     {
-      "market": "St. Louis Cardinals vs. Chicago Cubs: O/U 14.5",
-      "prev": 0.23,
+      "market": "Texas Rangers vs. Athletics: O/U 6.5",
+      "prev": 0.46,
       "now": 0.9995,
-      "delta": 0.7695,
-      "url": "https://polymarket.com/event/mlb-stl-chc-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4196.58,
-      "liquidity": 18254.04
-    },
-    {
-      "market": "Texas Rangers vs. Athletics \u2014 Spread: Athletics (-1.5)",
-      "prev": 0.225,
-      "now": 0.785,
-      "delta": 0.56,
+      "delta": 0.5395,
       "url": "https://polymarket.com/event/mlb-tex-oak-2026-08-16",
       "tags": [
         "Sports",
@@ -28,128 +13,142 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1281.59,
-      "liquidity": 15659.67
+      "volume24hr": 230.9,
+      "liquidity": 1250.49
     },
     {
-      "market": "Chicago Fire FC vs. Portland Timbers - More Markets \u2014 Chicago Fire FC vs. Portland Timbers: 1st Half O/U 1.5",
-      "prev": 0.475,
+      "market": "Cincinnati Open: Katerina Siniakova vs Jessica Bouzas Maneiro \u2014 Cincinnati Open: Completed Match: Katerina Siniakova vs Jessica Bouzas Maneiro",
+      "prev": 0.5,
       "now": 0.995,
-      "delta": 0.52,
-      "url": "https://polymarket.com/event/mls-chi-por-2026-08-16-more-markets",
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-siniako-maneiro-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 559219.01,
+      "liquidity": 1964.67
+    },
+    {
+      "market": "Colorado Rockies vs. San Francisco Giants: O/U 19.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-col-sf-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 24.27,
+      "liquidity": 1028.42
+    },
+    {
+      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: 1st Half O/U 0.5",
+      "prev": 0.9995,
+      "now": 0.5045,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "MLS"
+        "Brazil Serie A"
       ],
-      "volume24hr": 985.16,
-      "liquidity": 9012.89
+      "volume24hr": 5869.05,
+      "liquidity": 12.87
     },
     {
-      "market": "Cincinnati Open: Leylah Fernandez vs Xiyu Wang \u2014 Leylah Fernandez vs. Xiyu Wang: Total Sets O/U 2.5",
-      "prev": 0.26,
-      "now": 0.78,
-      "delta": 0.52,
-      "url": "https://polymarket.com/event/wta-fernand-wan-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 101552.78,
-      "liquidity": 168.0
-    },
-    {
-      "market": "Cincinnati Open: Anna Blinkova vs Ekaterina Alexandrova \u2014 Set 2 Winner: Blinkova vs Alexandrova",
-      "prev": 0.51,
-      "now": 0.0005,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/wta-blinkov-alexand-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 142.73,
-      "liquidity": 14533.92
-    },
-    {
-      "market": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs \u2014 Aguilar vs. Bergs: Set 2 Games O/U 8.5",
+      "market": "Indiana Fever vs. Atlanta Dream \u2014 Allisha Gray: Assists O/U 2.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-aguilar-bergs-2026-08-16",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-ind-atl-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA"
       ],
-      "volume24hr": 458735.44,
-      "liquidity": 2835.82
+      "volume24hr": 284.22,
+      "liquidity": 11.7
     },
     {
-      "market": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs \u2014 Aguilar vs. Bergs: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-aguilar-bergs-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 458735.44,
-      "liquidity": 2176.99
-    },
-    {
-      "market": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs \u2014 Aguilar vs. Bergs: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-aguilar-bergs-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 458735.44,
-      "liquidity": 2155.49
-    },
-    {
-      "market": "Cincinnati Open: Anna Blinkova vs Ekaterina Alexandrova \u2014 Blinkova vs. Alexandrova: Set 2 Games O/U 8.5",
-      "prev": 0.5,
+      "market": "Cincinnati Open: Katerina Siniakova vs Jessica Bouzas Maneiro \u2014 Katerina Siniakova vs. Jessica Bouzas Maneiro: Total Sets O/U 2.5",
+      "prev": 0.505,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-blinkov-alexand-2026-08-16",
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wta-siniako-maneiro-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 161246.67,
-      "liquidity": 1776.6
+      "volume24hr": 100.0,
+      "liquidity": 6398.11
     },
     {
-      "market": "Cincinnati Open: Anna Blinkova vs Ekaterina Alexandrova \u2014 Blinkova vs. Alexandrova: Set 2 Games O/U 9.5",
+      "market": "Chicago Sky vs. Seattle Storm \u2014 Ezi Magbegor: Points O/U 8.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-blinkov-alexand-2026-08-16",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-chi-sea-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA"
       ],
-      "volume24hr": 161246.67,
-      "liquidity": 1775.6
+      "volume24hr": 256938.63,
+      "liquidity": 310.69
+    },
+    {
+      "market": "Texas Rangers vs. Athletics \u2014 Spread: Athletics (-2.5)",
+      "prev": 0.225,
+      "now": 0.705,
+      "delta": 0.48,
+      "url": "https://polymarket.com/event/mlb-tex-oak-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1760.87,
+      "liquidity": 2192.54
+    },
+    {
+      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Botafogo FR O/U 2.5",
+      "prev": 0.5,
+      "now": 0.039,
+      "delta": -0.461,
+      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 150010.98,
+      "liquidity": 1696.89
+    },
+    {
+      "market": "Colorado Rockies vs. San Francisco Giants: O/U 18.5",
+      "prev": 0.565,
+      "now": 0.9995,
+      "delta": 0.4345,
+      "url": "https://polymarket.com/event/mlb-col-sf-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 506.34,
+      "liquidity": 2057.63
     }
   ],
   "log": [
-    {
-      "ts": "15:15:01",
-      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:30:01",
       "text": " poll complete \u2014 1960 markets scanned, 10 flagged"
@@ -265,6 +264,10 @@
     {
       "ts": "22:30:01",
       "text": " poll complete \u2014 1962 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:45:01",
+      "text": " poll complete \u2014 2010 markets scanned, 10 flagged"
     }
   ]
 }
