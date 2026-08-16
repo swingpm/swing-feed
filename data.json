@@ -1,154 +1,149 @@
 {
-  "lastUpdate": "2026-08-16 16:30:01 UTC",
+  "lastUpdate": "2026-08-16 16:45:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Match O/U 21.5",
-      "prev": 0.64,
-      "now": 0.085,
-      "delta": -0.555,
+      "market": "AFC Ajax vs. SC Heerenveen - More Markets \u2014 AFC Ajax vs. SC Heerenveen: AFC Ajax O/U 2.5",
+      "prev": 0.635,
+      "now": 0.005,
+      "delta": -0.63,
+      "url": "https://polymarket.com/event/ere-aja-her1-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 6.0,
+      "liquidity": 12193.8
+    },
+    {
+      "market": "Cincinnati Open: Marco Trungelliti vs Daniil Medvedev \u2014 Set Handicap: Medvedev (-1.5) vs Trungelliti (+1.5)",
+      "prev": 0.195,
+      "now": 0.785,
+      "delta": 0.59,
+      "url": "https://polymarket.com/event/atp-trungel-medvede-2026-08-15",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1214.87,
+      "liquidity": 384.15
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Viktorija Golubic \u2014 Tjen vs. Golubic: Match O/U 22.5",
+      "prev": 0.66,
+      "now": 0.14,
+      "delta": -0.52,
+      "url": "https://polymarket.com/event/wta-tjen-golubic-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 120146.31,
+      "liquidity": 165.0
+    },
+    {
+      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/wta-townsen-rybakin-2026-08-15",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 96.15,
-      "liquidity": 175.0
+      "volume24hr": 322492.4,
+      "liquidity": 2651.88
     },
     {
-      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Set 2 Games O/U 8.5",
+      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Match O/U 23.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
+      "url": "https://polymarket.com/event/wta-townsen-rybakin-2026-08-15",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 126334.54,
-      "liquidity": 3662.47
+      "volume24hr": 322492.4,
+      "liquidity": 5980.52
     },
     {
-      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Match O/U 21.5",
+      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Set 2 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
+      "url": "https://polymarket.com/event/wta-townsen-rybakin-2026-08-15",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 108.83,
-      "liquidity": 6985.15
+      "volume24hr": 322492.4,
+      "liquidity": 2662.44
     },
     {
-      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Set 2 Games O/U 9.5",
+      "market": "Cincinnati Open: Ugo Humbert vs Michael Zheng \u2014 Humbert vs. Zheng: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-humbert-zheng-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 267423.11,
+      "liquidity": 3953.74
+    },
+    {
+      "market": "Cincinnati Open: Ugo Humbert vs Michael Zheng \u2014 Humbert vs. Zheng: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
+      "url": "https://polymarket.com/event/atp-humbert-zheng-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 126334.54,
-      "liquidity": 3642.96
+      "volume24hr": 267423.11,
+      "liquidity": 3667.39
     },
     {
-      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Match O/U 22.5",
+      "market": "Cincinnati Open: Ugo Humbert vs Michael Zheng \u2014 Humbert vs. Zheng: Set 2 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
+      "url": "https://polymarket.com/event/atp-humbert-zheng-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 46.0,
-      "liquidity": 6755.86
+      "volume24hr": 267423.11,
+      "liquidity": 3242.36
     },
     {
-      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
+      "market": "Cincinnati Open: Barbora Krejcikova vs Sara Bejlek \u2014 Krejcikova vs. Bejlek: Match O/U 21.5",
+      "prev": 0.485,
+      "now": 0.9845,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-krejcik-bejlek-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 126334.54,
-      "liquidity": 3665.3
-    },
-    {
-      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 126334.54,
-      "liquidity": 6736.47
-    },
-    {
-      "market": "Kalmar FF vs. Hammarby IF - More Markets \u2014 Kalmar FF vs. Hammarby IF: Kalmar FF O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-kal-hif-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 93635.5,
-      "liquidity": 10885.29
-    },
-    {
-      "market": "Kalmar FF vs. Hammarby IF - More Markets \u2014 Kalmar FF vs. Hammarby IF: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-kal-hif-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 93635.5,
-      "liquidity": 3518.8
-    },
-    {
-      "market": "Cincinnati Open: Christopher O'Connell vs Casper Ruud \u2014 Cincinnati Open: Completed Match: Christopher O'Connell vs Casper Ruud",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-oconnel-ruud-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1015402.11,
-      "liquidity": 22039.72
+      "volume24hr": 102.06,
+      "liquidity": 8924.5
     }
   ],
   "log": [
-    {
-      "ts": "09:44:54",
-      "text": " poll complete \u2014 1886 markets scanned, 0 flagged"
-    },
     {
       "ts": "09:45:01",
       "text": " poll complete \u2014 1886 markets scanned, 0 flagged"
@@ -264,6 +259,10 @@
     {
       "ts": "16:30:01",
       "text": " poll complete \u2014 1932 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:45:01",
+      "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
     }
   ]
 }
