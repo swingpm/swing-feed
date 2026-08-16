@@ -1,155 +1,154 @@
 {
-  "lastUpdate": "2026-08-16 23:30:01 UTC",
+  "lastUpdate": "2026-08-16 23:45:02 UTC",
   "swings": [
     {
-      "market": "Indiana Fever vs. Atlanta Dream",
-      "prev": 0.335,
-      "now": 0.905,
-      "delta": 0.57,
-      "url": "https://polymarket.com/event/wnba-ind-atl-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 433239.21,
-      "liquidity": 186996.52
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Seattle Mariners vs. Houston Astros",
-      "prev": 0.445,
-      "now": 0.9995,
-      "delta": 0.5545,
-      "url": "https://polymarket.com/event/mlb-sea-hou-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 3666.45,
-      "liquidity": 24713.7
-    },
-    {
-      "market": "Cincinnati Open: Anna Blinkova vs Ekaterina Alexandrova \u2014 Set Handicap: Alexandrova (-1.5) vs Blinkova (+1.5)",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/wta-blinkov-alexand-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 751.15,
-      "liquidity": 2729.45
-    },
-    {
-      "market": "Cincinnati Open: Tamara Korpatsch vs Iva Jovic \u2014 Korpatsch vs. Jovic: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-korpats-jovic-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 84.57,
-      "liquidity": 1538.03
-    },
-    {
-      "market": "Cincinnati Open: Tamara Korpatsch vs Iva Jovic \u2014 Korpatsch vs. Jovic: Set 2 Games O/U 8.5",
+      "market": "Cincinnati Open: Sloane Stephens vs Anastasia Potapova \u2014 Stephens vs. Potapova: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-korpats-jovic-2026-08-16",
+      "url": "https://polymarket.com/event/wta-stephen-potapov-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 159687.54,
-      "liquidity": 1144.82
+      "volume24hr": 182584.48,
+      "liquidity": 2161.69
     },
     {
-      "market": "Cincinnati Open: Tamara Korpatsch vs Iva Jovic \u2014 Set Handicap: Jovic (-1.5) vs Korpatsch (+1.5)",
+      "market": "Cincinnati Open: Sloane Stephens vs Anastasia Potapova \u2014 Stephens vs. Potapova: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-korpats-jovic-2026-08-16",
+      "url": "https://polymarket.com/event/wta-stephen-potapov-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 6.38,
-      "liquidity": 1467.73
+      "volume24hr": 182584.48,
+      "liquidity": 2188.81
     },
     {
-      "market": "Cincinnati Open: Tamara Korpatsch vs Iva Jovic \u2014 Korpatsch vs. Jovic: Match O/U 22.5",
+      "market": "Cincinnati Open: Sloane Stephens vs Anastasia Potapova \u2014 Stephens vs. Potapova: Match O/U 22.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-korpats-jovic-2026-08-16",
+      "url": "https://polymarket.com/event/wta-stephen-potapov-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 50.0,
-      "liquidity": 1697.67
+      "volume24hr": 90.61,
+      "liquidity": 2179.44
     },
     {
-      "market": "Cincinnati Open: Tamara Korpatsch vs Iva Jovic \u2014 Korpatsch vs. Jovic: Set 2 Games O/U 10.5",
+      "market": "Cincinnati Open: Sloane Stephens vs Anastasia Potapova \u2014 Stephens vs. Potapova: Set 2 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-korpats-jovic-2026-08-16",
+      "url": "https://polymarket.com/event/wta-stephen-potapov-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 159687.54,
-      "liquidity": 1398.38
+      "volume24hr": 182584.48,
+      "liquidity": 2193.76
     },
     {
-      "market": "CA River Plate vs. AA Argentinos Juniors - More Markets \u2014 CA River Plate vs. AA Argentinos Juniors: Both Teams to Score in Second Half",
+      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Botafogo FR O/U 2.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-riv-aaj-2026-08-16-more-markets",
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Brazil Serie A"
       ],
-      "volume24hr": 150547.07,
-      "liquidity": 1087.86
+      "volume24hr": 229421.74,
+      "liquidity": 14.94
     },
     {
-      "market": "Chicago Fire FC vs. Portland Timbers - More Markets \u2014 Chicago Fire FC vs. Portland Timbers: Portland Timbers 1st Half O/U 1.5",
-      "prev": 0.4995,
-      "now": 0.0005,
-      "delta": -0.499,
-      "url": "https://polymarket.com/event/mls-chi-por-2026-08-16-more-markets",
+      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: EC Vit\u00f3ria 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "MLS"
+        "Brazil Serie A"
       ],
-      "volume24hr": 49.0,
-      "liquidity": 59.88
+      "volume24hr": 229421.74,
+      "liquidity": 14.94
+    },
+    {
+      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Botafogo FR 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 46.34,
+      "liquidity": 14.94
+    },
+    {
+      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Botafogo FR 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 229421.74,
+      "liquidity": 14.94
+    },
+    {
+      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 229421.74,
+      "liquidity": 14.94
+    },
+    {
+      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 229421.74,
+      "liquidity": 14.94
     }
   ],
   "log": [
-    {
-      "ts": "16:15:01",
-      "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:30:01",
       "text": " poll complete \u2014 1932 markets scanned, 10 flagged"
@@ -265,6 +264,10 @@
     {
       "ts": "23:30:01",
       "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:45:02",
+      "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
     }
   ]
 }
