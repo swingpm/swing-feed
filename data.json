@@ -1,158 +1,155 @@
 {
-  "lastUpdate": "2026-08-16 19:45:02 UTC",
+  "lastUpdate": "2026-08-16 20:00:02 UTC",
   "swings": [
     {
-      "market": "Arizona Diamondbacks vs. Atlanta Braves \u2014 Spread: Atlanta Braves (-2.5)",
-      "prev": 0.175,
-      "now": 0.785,
-      "delta": 0.61,
-      "url": "https://polymarket.com/event/mlb-ari-atl-2026-08-16",
+      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 Spread: CA Sarmiento (-1.5)",
+      "prev": 0.14,
+      "now": 0.965,
+      "delta": 0.825,
+      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 28822.19,
-      "liquidity": 82334.51
+      "volume24hr": 165594.97,
+      "liquidity": 583.99
     },
     {
-      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Both Teams to Score in First Half",
-      "prev": 0.575,
+      "market": "Cincinnati Open: Shuai Zhang vs Ann Li \u2014 Shuai Zhang vs. Ann Li: Total Sets O/U 2.5",
+      "prev": 0.595,
       "now": 0.005,
+      "delta": -0.59,
+      "url": "https://polymarket.com/event/wta-zhang-annli-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 20.0,
+      "liquidity": 7459.08
+    },
+    {
+      "market": "Philadelphia Phillies vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-2.5)",
+      "prev": 0.795,
+      "now": 0.225,
       "delta": -0.57,
-      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Trophee des Champions"
-      ],
-      "volume24hr": 61.98,
-      "liquidity": 2982.62
-    },
-    {
-      "market": "Arizona Diamondbacks vs. Atlanta Braves \u2014 Spread: Atlanta Braves (-1.5)",
-      "prev": 0.335,
-      "now": 0.875,
-      "delta": 0.54,
-      "url": "https://polymarket.com/event/mlb-ari-atl-2026-08-16",
+      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 6972.75,
-      "liquidity": 142.9
+      "volume24hr": 2021.99,
+      "liquidity": 17157.27
     },
     {
-      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: 1st Half O/U 2.5",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "market": "Philadelphia Phillies vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-3.5)",
+      "prev": 0.685,
+      "now": 0.135,
+      "delta": -0.55,
+      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Trophee des Champions"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 467.29,
-      "liquidity": 4740.35
+      "volume24hr": 5.0,
+      "liquidity": 55.04
     },
     {
-      "market": "Cincinnati Open: Brandon Nakashima vs Aleksandar Kovacevic \u2014 Nakashima vs. Kovacevic: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-nakashi-kovacev-2026-08-16",
+      "market": "Philadelphia Phillies vs. Minnesota Twins: O/U 10.5",
+      "prev": 0.285,
+      "now": 0.82,
+      "delta": 0.535,
+      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 6885.76,
+      "liquidity": 66619.27
+    },
+    {
+      "market": "Cincinnati Open: Shuai Zhang vs Ann Li \u2014 Set Handicap: Li (-1.5) vs Zhang (+1.5)",
+      "prev": 0.465,
+      "now": 0.9995,
+      "delta": 0.5345,
+      "url": "https://polymarket.com/event/wta-zhang-annli-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 162768.3,
-      "liquidity": 6896.48
+      "volume24hr": 134.27,
+      "liquidity": 4526.47
     },
     {
-      "market": "Cincinnati Open: Brandon Nakashima vs Aleksandar Kovacevic \u2014 Nakashima vs. Kovacevic: Set 1 Games O/U 9.5",
-      "prev": 0.5,
+      "market": "Philadelphia Phillies vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-1.5)",
+      "prev": 0.875,
+      "now": 0.345,
+      "delta": -0.53,
+      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 4198.49,
+      "liquidity": 19632.21
+    },
+    {
+      "market": "Philadelphia Phillies vs. Minnesota Twins: O/U 9.5",
+      "prev": 0.375,
+      "now": 0.895,
+      "delta": 0.52,
+      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 79892.66,
+      "liquidity": 29085.75
+    },
+    {
+      "market": "CA Mineiro vs. Gr\u00eamio FBPA - More Markets \u2014 CA Mineiro vs. Gr\u00eamio FBPA: Both Teams to Score in First Half",
+      "prev": 0.52,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-nakashi-kovacev-2026-08-16",
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/bra-cam-gre-2026-08-15-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 1028.38,
+      "liquidity": 14854.52
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Alex Michelsen \u2014 Cincinnati Open: Completed Match: Taylor Fritz vs Alex Michelsen",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-michels-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 162768.3,
-      "liquidity": 6518.64
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Aleksandar Kovacevic \u2014 Nakashima vs. Kovacevic: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-nakashi-kovacev-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 10.98,
-      "liquidity": 6507.4
-    },
-    {
-      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Racing Club De Lens 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Trophee des Champions"
-      ],
-      "volume24hr": 173202.13,
-      "liquidity": 4644.44
-    },
-    {
-      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Paris Saint-Germain 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Trophee des Champions"
-      ],
-      "volume24hr": 4.17,
-      "liquidity": 3124.19
-    },
-    {
-      "market": "FC Slovan Liberec vs. SK Slavia Praha \u2014 Will SK Slavia Praha win on 2026-08-16?",
-      "prev": 0.725,
-      "now": 0.24,
-      "delta": -0.485,
-      "url": "https://polymarket.com/event/cze1-fsl-ssp-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer"
-      ],
-      "volume24hr": 91266.93,
-      "liquidity": 63324.67
+      "volume24hr": 2322.0,
+      "liquidity": 13694.86
     }
   ],
   "log": [
-    {
-      "ts": "12:30:01",
-      "text": " poll complete \u2014 1856 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1857 markets scanned, 10 flagged"
@@ -268,6 +265,10 @@
     {
       "ts": "19:45:02",
       "text": " poll complete \u2014 2001 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:00:02",
+      "text": " poll complete \u2014 2041 markets scanned, 10 flagged"
     }
   ]
 }
