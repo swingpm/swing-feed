@@ -1,85 +1,41 @@
 {
-  "lastUpdate": "2026-08-16 19:00:01 UTC",
+  "lastUpdate": "2026-08-16 19:15:01 UTC",
   "swings": [
     {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 Spread: RCD Espanyol de Barcelona (-2.5)",
-      "prev": 0.125,
-      "now": 0.94,
-      "delta": 0.815,
-      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 4329.31,
-      "liquidity": 5082.11
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - Exact Score \u2014 Exact Score: RCD Espanyol de Barcelona 3 - 0 Levante UD?",
-      "prev": 0.1285,
-      "now": 0.859,
-      "delta": 0.7305,
-      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 3790.98,
-      "liquidity": 2273.06
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: RCD Espanyol de Barcelona O/U 2.5",
-      "prev": 0.27,
-      "now": 0.9955,
-      "delta": 0.7255,
-      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 1728.02,
-      "liquidity": 3554.35
-    },
-    {
-      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: 1st Half O/U 1.5",
-      "prev": 0.595,
-      "now": 0.0005,
-      "delta": -0.5945,
-      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 10324.62,
-      "liquidity": 67489.36
-    },
-    {
-      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Tsitsipas vs. Auger-Aliassime: Match O/U 22.5",
-      "prev": 0.57,
-      "now": 0.0005,
-      "delta": -0.5695,
-      "url": "https://polymarket.com/event/atp-tsitsip-augeral-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 239.07,
-      "liquidity": 7236.97
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: O/U 2.5",
-      "prev": 0.475,
+      "market": "Washington Nationals vs. New York Mets \u2014 1st 5 Innings Spread: New York Mets (-1.5)",
+      "prev": 0.275,
       "now": 0.9995,
-      "delta": 0.5245,
+      "delta": 0.7245,
+      "url": "https://polymarket.com/event/mlb-wsh-nym-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 118904.48,
+      "liquidity": 1713.71
+    },
+    {
+      "market": "Washington Nationals vs. New York Mets: 1st 5 Innings O/U 5.5",
+      "prev": 0.285,
+      "now": 0.9955,
+      "delta": 0.7105,
+      "url": "https://polymarket.com/event/mlb-wsh-nym-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 118904.48,
+      "liquidity": 1366.11
+    },
+    {
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: 2nd Half O/U 1.5",
+      "prev": 0.545,
+      "now": 0.0045,
+      "delta": -0.5405,
       "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -87,57 +43,71 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 244527.56,
-      "liquidity": 144909.95
+      "volume24hr": 99.82,
+      "liquidity": 3485.0
     },
     {
-      "market": "Cincinnati Open: Arthur Rinderknech vs Juan Manuel Cerundolo \u2014 Set 2 Winner: Rinderknech vs Cerundolo",
-      "prev": 0.525,
-      "now": 0.005,
-      "delta": -0.52,
-      "url": "https://polymarket.com/event/atp-rinderk-cerund-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1228.24,
-      "liquidity": 26304.07
-    },
-    {
-      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Tsitsipas vs. Auger-Aliassime: Match O/U 21.5",
-      "prev": 0.52,
+      "market": "Chicago White Sox vs. Detroit Tigers \u2014 1st 5 Innings Spread: Chicago White Sox (-1.5)",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.5195,
-      "url": "https://polymarket.com/event/atp-tsitsip-augeral-2026-08-16",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-cws-det-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 67.76,
+      "liquidity": 753.06
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Alex Michelsen \u2014 Fritz vs. Michelsen: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-michels-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 354.53,
-      "liquidity": 6738.71
+      "volume24hr": 202883.83,
+      "liquidity": 5868.34
     },
     {
-      "market": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B \u2014 Map 3 Rounds Handicap: Astralis (-3.5) vs NIP (+3.5)",
-      "prev": 0.495,
-      "now": 0.9965,
-      "delta": 0.5015,
-      "url": "https://polymarket.com/event/cs2-ast10-nip-2026-08-16",
+      "market": "Cincinnati Open: Taylor Fritz vs Alex Michelsen \u2014 Fritz vs. Michelsen: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-michels-2026-08-16",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 344.98,
-      "liquidity": 2045.78
+      "volume24hr": 202883.83,
+      "liquidity": 5835.27
     },
     {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: Levante UD O/U 0.5",
-      "prev": 0.555,
-      "now": 0.055,
-      "delta": -0.5,
+      "market": "Cincinnati Open: Taylor Fritz vs Alex Michelsen \u2014 Fritz vs. Michelsen: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-michels-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 202883.83,
+      "liquidity": 5873.29
+    },
+    {
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: RCD Espanyol de Barcelona 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -145,15 +115,41 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 3728.23,
-      "liquidity": 1543.13
+      "volume24hr": 699950.83,
+      "liquidity": 3461.99
+    },
+    {
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: Levante UD 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 699950.83,
+      "liquidity": 3481.81
+    },
+    {
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: Levante UD 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 699950.83,
+      "liquidity": 3481.81
     }
   ],
   "log": [
-    {
-      "ts": "11:45:01",
-      "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:00:01",
       "text": " poll complete \u2014 1855 markets scanned, 10 flagged"
@@ -269,6 +265,10 @@
     {
       "ts": "19:00:01",
       "text": " poll complete \u2014 1944 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:15:01",
+      "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
     }
   ]
 }
