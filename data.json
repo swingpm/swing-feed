@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-16 14:00:01 UTC",
+  "lastUpdate": "2026-08-16 14:15:01 UTC",
   "swings": [
     {
-      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: Odense BK O/U 1.5",
-      "prev": 0.595,
+      "market": "LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 1?",
+      "prev": 0.675,
       "now": 0.005,
-      "delta": -0.59,
-      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
+      "delta": -0.67,
+      "url": "https://polymarket.com/event/lol-tes-edg-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 410.22,
+      "liquidity": 1123.09
+    },
+    {
+      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: Arsenal FC 1st Half O/U 0.5",
+      "prev": 0.455,
+      "now": 0.9995,
+      "delta": 0.5445,
+      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Denmark Superliga"
+        "FA Community Shield"
       ],
-      "volume24hr": 100.31,
-      "liquidity": 11248.59
+      "volume24hr": 4172139.35,
+      "liquidity": 8345.34
     },
     {
-      "market": "Degerfors IF vs. IFK Goteborg - More Markets \u2014 Degerfors IF vs. IFK Goteborg: IFK Goteborg O/U 0.5",
-      "prev": 0.575,
-      "now": 0.0045,
-      "delta": -0.5705,
-      "url": "https://polymarket.com/event/swe-deg-ifk-2026-08-16-more-markets",
+      "market": "Valorant: Eternal Fire vs Eintracht Frankfurt (BO3) - VCT EMEA Play-Ins \u2014 Valorant: Eternal Fire vs Eintracht Frankfurt - Map 1 Winner",
+      "prev": 0.54,
+      "now": 0.0005,
+      "delta": -0.5395,
+      "url": "https://polymarket.com/event/val-ef-sge-2026-08-16",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
+        "Sports"
       ],
-      "volume24hr": 38.78,
-      "liquidity": 11880.18
+      "volume24hr": 89217.26,
+      "liquidity": 87966.05
     },
     {
-      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: Odense BK 2nd Half O/U 0.5",
-      "prev": 0.56,
-      "now": 0.005,
-      "delta": -0.555,
-      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 227612.53,
-      "liquidity": 2864.49
-    },
-    {
-      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Both Teams to Score",
-      "prev": 0.445,
+      "market": "Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C \u2014 Map 1 Rounds Handicap: MOUZ (-3.5) vs PARIVISION (+3.5)",
+      "prev": 0.49,
       "now": 0.995,
-      "delta": 0.55,
-      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
+      "delta": 0.505,
+      "url": "https://polymarket.com/event/cs2-mouz-prv-2026-08-16",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "Eredivisie"
+        "Sports"
       ],
-      "volume24hr": 3313.84,
-      "liquidity": 9978.49
+      "volume24hr": 192.51,
+      "liquidity": 1129.37
     },
     {
-      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Go Ahead Eagles 2nd Half O/U 0.5",
-      "prev": 0.47,
-      "now": 0.995,
-      "delta": 0.525,
-      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
+      "market": "Valorant: Eternal Fire vs Eintracht Frankfurt (BO3) - VCT EMEA Play-Ins \u2014 Map 1 Total Rounds: Over/Under 22.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/val-ef-sge-2026-08-16",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "Eredivisie"
+        "Sports"
       ],
-      "volume24hr": 159315.84,
-      "liquidity": 1329.57
+      "volume24hr": 25.0,
+      "liquidity": 504.2
     },
     {
-      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 227612.53,
-      "liquidity": 2864.49
-    },
-    {
-      "market": "Degerfors IF vs. IFK Goteborg - More Markets \u2014 Degerfors IF vs. IFK Goteborg: IFK Goteborg O/U 1.5",
+      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: Djurgardens IF O/U 1.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-deg-ifk-2026-08-16-more-markets",
+      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Sweden Allsvenskan"
       ],
-      "volume24hr": 17.63,
-      "liquidity": 11809.22
+      "volume24hr": 30.57,
+      "liquidity": 11841.92
     },
     {
-      "market": "Degerfors IF vs. IFK Goteborg - More Markets \u2014 Degerfors IF vs. IFK Goteborg: IFK Goteborg O/U 2.5",
+      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: Djurgardens IF O/U 2.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-deg-ifk-2026-08-16-more-markets",
+      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Sweden Allsvenskan"
       ],
-      "volume24hr": 5.86,
-      "liquidity": 11862.83
+      "volume24hr": 887.09,
+      "liquidity": 12190.31
     },
     {
-      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: 2nd Half O/U 1.5",
+      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: Both Teams to Score in Second Half",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Denmark Superliga"
+        "Sweden Allsvenskan"
       ],
-      "volume24hr": 227612.53,
-      "liquidity": 2864.49
+      "volume24hr": 1107.99,
+      "liquidity": 3539.99
     },
     {
-      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: 2nd Half O/U 2.5",
+      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Denmark Superliga"
+        "Sweden Allsvenskan"
       ],
-      "volume24hr": 227612.53,
-      "liquidity": 2864.49
+      "volume24hr": 138516.39,
+      "liquidity": 3591.72
+    },
+    {
+      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Sweden Allsvenskan"
+      ],
+      "volume24hr": 138516.39,
+      "liquidity": 3776.61
     }
   ],
   "log": [
-    {
-      "ts": "08:30:01",
-      "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:45:02",
       "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "14:00:01",
       "text": " poll complete \u2014 1959 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:15:01",
+      "text": " poll complete \u2014 1947 markets scanned, 10 flagged"
     }
   ]
 }
