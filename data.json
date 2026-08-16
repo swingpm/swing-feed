@@ -1,162 +1,162 @@
 {
-  "lastUpdate": "2026-08-16 14:15:01 UTC",
+  "lastUpdate": "2026-08-16 14:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 1?",
-      "prev": 0.675,
-      "now": 0.005,
-      "delta": -0.67,
-      "url": "https://polymarket.com/event/lol-tes-edg-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 410.22,
-      "liquidity": 1123.09
-    },
-    {
-      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: Arsenal FC 1st Half O/U 0.5",
-      "prev": 0.455,
-      "now": 0.9995,
-      "delta": 0.5445,
-      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "FA Community Shield"
-      ],
-      "volume24hr": 4172139.35,
-      "liquidity": 8345.34
-    },
-    {
-      "market": "Valorant: Eternal Fire vs Eintracht Frankfurt (BO3) - VCT EMEA Play-Ins \u2014 Valorant: Eternal Fire vs Eintracht Frankfurt - Map 1 Winner",
-      "prev": 0.54,
-      "now": 0.0005,
-      "delta": -0.5395,
-      "url": "https://polymarket.com/event/val-ef-sge-2026-08-16",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 89217.26,
-      "liquidity": 87966.05
-    },
-    {
-      "market": "Counter-Strike: MOUZ vs PARIVISION (BO3) - Esports World Cup Group C \u2014 Map 1 Rounds Handicap: MOUZ (-3.5) vs PARIVISION (+3.5)",
-      "prev": 0.49,
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: Both Teams to Score in First Half",
+      "prev": 0.17,
       "now": 0.995,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/cs2-mouz-prv-2026-08-16",
+      "delta": 0.825,
+      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Brazil Serie A"
       ],
-      "volume24hr": 192.51,
-      "liquidity": 1129.37
+      "volume24hr": 754.53,
+      "liquidity": 1632.96
     },
     {
-      "market": "Valorant: Eternal Fire vs Eintracht Frankfurt (BO3) - VCT EMEA Play-Ins \u2014 Map 1 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: 1st Half O/U 1.5",
+      "prev": 0.305,
+      "now": 0.995,
+      "delta": 0.69,
+      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 104.23,
+      "liquidity": 2129.38
+    },
+    {
+      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Feyenoord Rotterdam O/U 2.5",
+      "prev": 0.63,
+      "now": 0.005,
+      "delta": -0.625,
+      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 190.71,
+      "liquidity": 12916.49
+    },
+    {
+      "market": "Highest temperature in Munich on August 16? \u2014 Will the highest temperature in Munich be 31\u00b0C on August 16?",
+      "prev": 0.595,
+      "now": 0.0005,
+      "delta": -0.5945,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-16-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 12392.98,
+      "liquidity": 16945.61
+    },
+    {
+      "market": "Highest temperature in Munich on August 16? \u2014 Will the highest temperature in Munich be 32\u00b0C on August 16?",
+      "prev": 0.39,
+      "now": 0.96,
+      "delta": 0.57,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-16-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 14696.6,
+      "liquidity": 801.04
+    },
+    {
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: Both Teams to Score",
+      "prev": 0.495,
+      "now": 0.995,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 2775.97,
+      "liquidity": 4716.15
+    },
+    {
+      "market": "Will Feyenoord Rotterdam vs. Go Ahead Eagles end in a draw?",
+      "prev": 0.501,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/val-ef-sge-2026-08-16",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 25.0,
-      "liquidity": 504.2
-    },
-    {
-      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: Djurgardens IF O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
+      "delta": 0.4985,
+      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Sweden Allsvenskan"
+        "Eredivisie"
       ],
-      "volume24hr": 30.57,
-      "liquidity": 11841.92
+      "volume24hr": 12673.31,
+      "liquidity": 213579.78
     },
     {
-      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: Djurgardens IF O/U 2.5",
+      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Go Ahead Eagles O/U 2.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
+      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Sweden Allsvenskan"
+        "Eredivisie"
       ],
-      "volume24hr": 887.09,
-      "liquidity": 12190.31
+      "volume24hr": 1608.46,
+      "liquidity": 18590.86
     },
     {
-      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: Both Teams to Score in Second Half",
+      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Both Teams to Score in Second Half",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Sweden Allsvenskan"
+        "Eredivisie"
       ],
-      "volume24hr": 1107.99,
-      "liquidity": 3539.99
+      "volume24hr": 198868.72,
+      "liquidity": 2980.54
     },
     {
-      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: 2nd Half O/U 1.5",
+      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Sweden Allsvenskan"
+        "Eredivisie"
       ],
-      "volume24hr": 138516.39,
-      "liquidity": 3591.72
-    },
-    {
-      "market": "Djurgardens IF vs. AIK - More Markets \u2014 Djurgardens IF vs. AIK: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-dju-aik-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 138516.39,
-      "liquidity": 3776.61
+      "volume24hr": 198868.72,
+      "liquidity": 3556.49
     }
   ],
   "log": [
-    {
-      "ts": "08:45:02",
-      "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:00:01",
       "text": " poll complete \u2014 1827 markets scanned, 10 flagged"
@@ -272,6 +272,10 @@
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1947 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:30:01",
+      "text": " poll complete \u2014 1953 markets scanned, 10 flagged"
     }
   ]
 }
