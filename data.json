@@ -1,71 +1,71 @@
 {
-  "lastUpdate": "2026-08-16 12:45:01 UTC",
+  "lastUpdate": "2026-08-16 13:00:01 UTC",
   "swings": [
     {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
-      "prev": 0.785,
-      "now": 0.065,
-      "delta": -0.72,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
+      "market": "Will Tottenham Hotspur vs. TSG Hoffenheim end in a draw?",
+      "prev": 0.375,
+      "now": 0.9995,
+      "delta": 0.6245,
+      "url": "https://polymarket.com/event/clf-tot-tsg-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 32031.79,
+      "liquidity": 153208.58
+    },
+    {
+      "market": "Valorant: Trace Esports vs All Gamers (BO3) - VCT China Stage 2 Playoffs \u2014 Valorant: Trace Esports vs All Gamers - Map 2 Winner",
+      "prev": 0.9,
+      "now": 0.295,
+      "delta": -0.605,
+      "url": "https://polymarket.com/event/val-te-ag1-2026-08-16",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 996893.44,
-      "liquidity": 200010.43
+      "volume24hr": 11695.53,
+      "liquidity": 9712.89
     },
     {
-      "market": "Ulsan HD FC vs. Gangwon FC \u2014 Will Gangwon FC win on 2026-08-16?",
-      "prev": 0.39,
-      "now": 0.9995,
-      "delta": 0.6095,
-      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16",
+      "market": "Valorant: Trace Esports vs All Gamers (BO3) - VCT China Stage 2 Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.1,
+      "now": 0.7,
+      "delta": 0.6,
+      "url": "https://polymarket.com/event/val-te-ag1-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 148.73,
+      "liquidity": 41.53
+    },
+    {
+      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Go Ahead Eagles 1st Half O/U 1.5",
+      "prev": 0.52,
+      "now": 0.016,
+      "delta": -0.504,
+      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "K-league"
+        "Eredivisie"
       ],
-      "volume24hr": 11800.82,
-      "liquidity": 108361.75
+      "volume24hr": 141253.06,
+      "liquidity": 423.31
     },
     {
-      "market": "Will Ulsan HD FC vs. Gangwon FC end in a draw?",
-      "prev": 0.58,
-      "now": 0.0005,
-      "delta": -0.5795,
-      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 15337.12,
-      "liquidity": 93981.63
-    },
-    {
-      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: O/U 5.5",
-      "prev": 0.54,
-      "now": 0.0005,
-      "delta": -0.5395,
-      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 2783.89,
-      "liquidity": 39512.46
-    },
-    {
-      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: 1st Half O/U 1.5",
-      "prev": 0.485,
-      "now": 0.995,
-      "delta": 0.51,
+      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: Odense BK 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
       "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -73,80 +73,82 @@
         "Soccer",
         "Denmark Superliga"
       ],
-      "volume24hr": 930.6,
-      "liquidity": 1899.18
+      "volume24hr": 193973.72,
+      "liquidity": 2615.91
     },
     {
-      "market": "Hamburg: Jan Kumstat vs Marvin Moeller \u2014 Kumstat vs. Moeller: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-moelle-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 12.0,
-      "liquidity": 5873.79
-    },
-    {
-      "market": "Hamburg: Jan Kumstat vs Marvin Moeller \u2014 Kumstat vs. Moeller: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-moelle-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 104744.82,
-      "liquidity": 5857.78
-    },
-    {
-      "market": "Hamburg: Jan Kumstat vs Marvin Moeller \u2014 Kumstat vs. Moeller: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-moelle-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 104744.82,
-      "liquidity": 5878.9
-    },
-    {
-      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: 2nd Half O/U 2.5",
+      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: Odense BK 1st Half O/U 1.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
+      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "K-league"
+        "Denmark Superliga"
       ],
-      "volume24hr": 138171.01,
-      "liquidity": 3566.37
+      "volume24hr": 193973.72,
+      "liquidity": 2684.66
     },
     {
-      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: Ulsan HD FC 2nd Half O/U 1.5",
+      "market": "Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D \u2014 Map 2 Rounds Handicap: TheMongolz (-3.5) vs paiN (+3.5)",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/cs2-mglz-pain-2026-08-16",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 82.09,
+      "liquidity": 759.41
+    },
+    {
+      "market": "Tottenham Hotspur vs. TSG Hoffenheim - More Markets \u2014 Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/clf-tot-tsg-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "K-league"
+        "Club Friendlies"
       ],
-      "volume24hr": 138171.01,
-      "liquidity": 3566.37
+      "volume24hr": 47.6,
+      "liquidity": 6372.09
+    },
+    {
+      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: AC Horsens 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 193973.72,
+      "liquidity": 2650.85
+    },
+    {
+      "market": "Sion: Alex Marti Pujolras vs Maximilian Neuchrist",
+      "prev": 0.395,
+      "now": 0.885,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/atp-pujolra-neuchri-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 108457.88,
+      "liquidity": 250693.51
     }
   ],
   "log": [
@@ -253,6 +255,10 @@
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1857 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:00:01",
+      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
     }
   ]
 }
