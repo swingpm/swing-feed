@@ -1,161 +1,155 @@
 {
-  "lastUpdate": "2026-08-16 18:45:01 UTC",
+  "lastUpdate": "2026-08-16 19:00:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B \u2014 Counter-Strike: Legacy vs MIBR - Map 1 Winner",
-      "prev": 0.355,
-      "now": 0.9995,
-      "delta": 0.6445,
-      "url": "https://polymarket.com/event/cs2-lgc-mibr-2026-08-16",
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 Spread: RCD Espanyol de Barcelona (-2.5)",
+      "prev": 0.125,
+      "now": 0.94,
+      "delta": 0.815,
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 428639.67,
-      "liquidity": 863111.35
+      "volume24hr": 4329.31,
+      "liquidity": 5082.11
     },
     {
-      "market": "Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B \u2014 Map 1 Rounds Handicap: Legacy (-3.5) vs MIBR (+3.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-lgc-mibr-2026-08-16",
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - Exact Score \u2014 Exact Score: RCD Espanyol de Barcelona 3 - 0 Levante UD?",
+      "prev": 0.1285,
+      "now": 0.859,
+      "delta": 0.7305,
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-exact-score",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 700.0,
-      "liquidity": 498.82
+      "volume24hr": 3790.98,
+      "liquidity": 2273.06
     },
     {
-      "market": "Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-lgc-mibr-2026-08-16",
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: RCD Espanyol de Barcelona O/U 2.5",
+      "prev": 0.27,
+      "now": 0.9955,
+      "delta": 0.7255,
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 9.58,
-      "liquidity": 839.75
+      "volume24hr": 1728.02,
+      "liquidity": 3554.35
     },
     {
-      "market": "Cincinnati Open: Daria Snigur vs Madison Keys \u2014 Cincinnati Open: Completed Match: Daria Snigur vs Madison Keys",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-snigur-keys-2026-08-16",
+      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: 1st Half O/U 1.5",
+      "prev": 0.595,
+      "now": 0.0005,
+      "delta": -0.5945,
+      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 10324.62,
+      "liquidity": 67489.36
+    },
+    {
+      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Tsitsipas vs. Auger-Aliassime: Match O/U 22.5",
+      "prev": 0.57,
+      "now": 0.0005,
+      "delta": -0.5695,
+      "url": "https://polymarket.com/event/atp-tsitsip-augeral-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 255446.5,
-      "liquidity": 1960.52
+      "volume24hr": 239.07,
+      "liquidity": 7236.97
     },
     {
-      "market": "Miami Marlins vs. Cincinnati Reds: 1st 5 Innings O/U 3.5",
-      "prev": 0.575,
-      "now": 0.125,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: O/U 2.5",
+      "prev": 0.475,
+      "now": 0.9995,
+      "delta": 0.5245,
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 140.0,
-      "liquidity": 3.75
+      "volume24hr": 244527.56,
+      "liquidity": 144909.95
     },
     {
-      "market": "Miami Marlins vs. Cincinnati Reds: 1st 5 Innings O/U 5.5",
-      "prev": 0.53,
-      "now": 0.08,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
+      "market": "Cincinnati Open: Arthur Rinderknech vs Juan Manuel Cerundolo \u2014 Set 2 Winner: Rinderknech vs Cerundolo",
+      "prev": 0.525,
+      "now": 0.005,
+      "delta": -0.52,
+      "url": "https://polymarket.com/event/atp-rinderk-cerund-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 472828.14,
-      "liquidity": 4.2
+      "volume24hr": 1228.24,
+      "liquidity": 26304.07
     },
     {
-      "market": "Boston Red Sox vs. Pittsburgh Pirates: O/U 7.5",
-      "prev": 0.515,
-      "now": 0.965,
-      "delta": 0.45,
-      "url": "https://polymarket.com/event/mlb-bos-pit-2026-08-16",
+      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Tsitsipas vs. Auger-Aliassime: Match O/U 21.5",
+      "prev": 0.52,
+      "now": 0.0005,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/atp-tsitsip-augeral-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 4854.46,
-      "liquidity": 13230.59
+      "volume24hr": 354.53,
+      "liquidity": 6738.71
     },
     {
-      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season \u2014 Game Handicap: FNC (-1.5) vs G2 Esports (+1.5)",
-      "prev": 0.55,
-      "now": 0.995,
-      "delta": 0.445,
-      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
+      "market": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B \u2014 Map 3 Rounds Handicap: Astralis (-3.5) vs NIP (+3.5)",
+      "prev": 0.495,
+      "now": 0.9965,
+      "delta": 0.5015,
+      "url": "https://polymarket.com/event/cs2-ast10-nip-2026-08-16",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 4025.4
+      "volume24hr": 344.98,
+      "liquidity": 2045.78
     },
     {
-      "market": "Miami Marlins vs. Cincinnati Reds: 1st 5 Innings O/U 2.5",
-      "prev": 0.66,
-      "now": 0.215,
-      "delta": -0.445,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: Levante UD O/U 0.5",
+      "prev": 0.555,
+      "now": 0.055,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 14.87,
-      "liquidity": 3.75
-    },
-    {
-      "market": "Miami Marlins vs. Cincinnati Reds: 1st 5 Innings O/U 6.5",
-      "prev": 0.515,
-      "now": 0.07,
-      "delta": -0.445,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 18.0,
-      "liquidity": 7.3
+      "volume24hr": 3728.23,
+      "liquidity": 1543.13
     }
   ],
   "log": [
-    {
-      "ts": "11:30:01",
-      "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
@@ -271,6 +265,10 @@
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 1951 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:00:01",
+      "text": " poll complete \u2014 1944 markets scanned, 10 flagged"
     }
   ]
 }
