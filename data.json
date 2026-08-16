@@ -1,65 +1,65 @@
 {
-  "lastUpdate": "2026-08-16 09:15:01 UTC",
+  "lastUpdate": "2026-08-16 09:16:09 UTC",
   "swings": [
     {
-      "market": "Map 1 Total Rounds: Over/Under 22.5",
+      "market": "Set 2 Winner: Dougaz vs Matsuoka",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4
+      "now": 0.0005,
+      "delta": -0.4995
     },
     {
-      "market": "Map 1 Total Rounds: Over/Under 21.5",
+      "market": "Dougaz vs. Matsuoka: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4
+      "now": 0.0005,
+      "delta": -0.4995
     },
     {
-      "market": "Map 1 Total Rounds: Over/Under 20.5",
+      "market": "Dougaz vs. Matsuoka: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4
+      "now": 0.0005,
+      "delta": -0.4995
     },
     {
-      "market": "Map 1 Rounds Handicap: Nova Esports (-2.5) vs TEC Esports (+2.5)",
+      "market": "Dougaz vs. Matsuoka: Set 2 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4
+      "now": 0.005,
+      "delta": -0.495
     },
     {
-      "market": "Valorant: Nova Esports vs TEC Esports - Map 1 Winner",
-      "prev": 0.64,
-      "now": 0.9995,
-      "delta": 0.3595
+      "market": "Prague, Czech Republic, Qualifying: Completed Match: Eduardo Ribeiro vs Andrew Paulson",
+      "prev": 0.005,
+      "now": 0.5,
+      "delta": 0.495
     },
     {
-      "market": "Arsenal FC vs. Manchester City: Manchester City 2nd Half O/U 0.5",
-      "prev": 0.35,
-      "now": 0.54,
-      "delta": 0.19
-    },
-    {
-      "market": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend",
-      "prev": 0.465,
-      "now": 0.31,
-      "delta": -0.155
-    },
-    {
-      "market": "Counter-Strike: RoundsGG vs Vexar (BO3) - Exort Fiesta Closed Qualifier: Series #1 Group A",
-      "prev": 0.265,
-      "now": 0.11,
-      "delta": -0.155
+      "market": "Dougaz vs. Matsuoka: Match O/U 23.5",
+      "prev": 0.55,
+      "now": 0.185,
+      "delta": -0.365
     },
     {
       "market": "Games Total: O/U 2.5",
-      "prev": 0.5,
-      "now": 0.355,
-      "delta": -0.145
+      "prev": 0.77,
+      "now": 0.5,
+      "delta": -0.27
     },
     {
-      "market": "Map Handicap: NOVA (-1.5) vs TEC Esports (+1.5)",
-      "prev": 0.5,
-      "now": 0.645,
-      "delta": 0.145
+      "market": "Total Kills Over/Under 55.5 in Game 2?",
+      "prev": 0.61,
+      "now": 0.375,
+      "delta": -0.235
+    },
+    {
+      "market": "Aziz Dougaz vs. Hayato Matsuoka: Total Sets O/U 2.5",
+      "prev": 0.505,
+      "now": 0.735,
+      "delta": 0.23
+    },
+    {
+      "market": "Total Kills Over/Under 50.5 in Game 2?",
+      "prev": 0.685,
+      "now": 0.48,
+      "delta": -0.205
     }
   ],
   "log": [
@@ -85,6 +85,10 @@
     },
     {
       "ts": "09:15:01",
+      "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:16:09",
       "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
     }
   ]
