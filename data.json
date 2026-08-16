@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-16 11:30:01 UTC",
+  "lastUpdate": "2026-08-16 11:45:01 UTC",
   "swings": [
     {
       "market": "LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - LCP Group Stage \u2014 LoL: Team Secret Whales vs CTBC Flying Oyster - Game 3 Winner",
-      "prev": 0.945,
-      "now": 0.1065,
-      "delta": -0.8385,
+      "prev": 0.1065,
+      "now": 0.9995,
+      "delta": 0.893,
       "url": "https://polymarket.com/event/lol-tsw-cfo-2026-08-16",
       "tags": [
         "Esports",
@@ -13,26 +13,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 46412.96,
-      "liquidity": 149435.43
+      "volume24hr": 95887.98,
+      "liquidity": 279435.85
     },
     {
-      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: 1st Half O/U 2.5",
-      "prev": 0.455,
-      "now": 0.9995,
-      "delta": 0.5445,
-      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 237.48,
-      "liquidity": 17149.06
-    },
-    {
-      "market": "Tottenham Hotspur vs. TSG Hoffenheim - More Markets \u2014 Tottenham Hotspur vs. TSG Hoffenheim: 1st Half O/U 0.5",
+      "market": "Tottenham Hotspur vs. TSG Hoffenheim - More Markets \u2014 Tottenham Hotspur vs. TSG Hoffenheim: Both Teams to Score in First Half",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
@@ -43,11 +28,56 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 1910.75,
-      "liquidity": 9259.41
+      "volume24hr": 90.0,
+      "liquidity": 11542.48
     },
     {
-      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 ADO Den Haag vs. FC Groningen: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9975,
+      "delta": 0.4975,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 132366.1,
+      "liquidity": 1188.23
+    },
+    {
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 ADO Den Haag vs. FC Groningen: ADO Den Haag 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9975,
+      "delta": 0.4975,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 132366.1,
+      "liquidity": 1199.67
+    },
+    {
+      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1046417.76,
+      "liquidity": 806.42
+    },
+    {
+      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 36.5 in Game 1?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
@@ -58,98 +88,68 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 12549.15,
-      "liquidity": 4709.05
+      "volume24hr": 1046417.76,
+      "liquidity": 736.0
     },
     {
-      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "market": "Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C \u2014 Map 1 Rounds Handicap: Vitality (-6.5) vs Lynn Vision (+6.5)",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
+      "url": "https://polymarket.com/event/cs2-vit-lvg-2026-08-16",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 984.61,
-      "liquidity": 1519.1
+      "volume24hr": 275.05,
+      "liquidity": 555.91
     },
     {
-      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "market": "Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C \u2014 Map 1 Total Rounds: Over/Under 18.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 875881.24,
-      "liquidity": 709.0
-    },
-    {
-      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: Ulsan HD FC 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 112252.29,
-      "liquidity": 2685.84
-    },
-    {
-      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: Gangwon FC 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 112252.29,
-      "liquidity": 3180.85
-    },
-    {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 First Blood in Game 2?",
-      "prev": 0.48,
       "now": 0.005,
-      "delta": -0.475,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-vit-lvg-2026-08-16",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 308.11,
-      "liquidity": 239.99
+      "volume24hr": 187.29,
+      "liquidity": 563.6
     },
     {
-      "market": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
-      "prev": 0.635,
-      "now": 0.235,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16",
+      "market": "Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-vit-lvg-2026-08-16",
       "tags": [
         "Esports",
-        "Dota 2",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1876080.76,
-      "liquidity": 164845.99
+      "volume24hr": 34.01,
+      "liquidity": 541.91
+    },
+    {
+      "market": "Valorant: Nongshim RedForce vs Team Secret (BO3) - VCT Pacific Play-In \u2014 Map 2 Rounds Handicap: Nongshim RedForce (-3.5) vs Team Secret (+3.5)",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/val-ns1-ts3-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 58959.79,
+      "liquidity": 773.61
     }
   ],
   "log": [
@@ -236,6 +236,10 @@
     {
       "ts": "11:30:01",
       "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:45:01",
+      "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
     }
   ]
 }
