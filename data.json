@@ -1,55 +1,11 @@
 {
-  "lastUpdate": "2026-08-16 22:15:01 UTC",
+  "lastUpdate": "2026-08-16 22:30:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Learner Tien vs Sebastian Baez \u2014 Learner Tien vs. Sebastian Baez: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tien-baez-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 141737.41,
-      "liquidity": 2302.07
-    },
-    {
-      "market": "CA River Plate vs. AA Argentinos Juniors - More Markets \u2014 CA River Plate vs. AA Argentinos Juniors: 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/arg-riv-aaj-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 10960.91,
-      "liquidity": 14.94
-    },
-    {
-      "market": "CA River Plate vs. AA Argentinos Juniors - More Markets \u2014 CA River Plate vs. AA Argentinos Juniors: 1st Half O/U 2.5",
-      "prev": 0.4995,
-      "now": 0.0025,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/arg-riv-aaj-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 35.11,
-      "liquidity": 14.93
-    },
-    {
-      "market": "St. Louis Cardinals vs. Chicago Cubs: O/U 13.5",
-      "prev": 0.5,
-      "now": 0.996,
-      "delta": 0.496,
+      "market": "St. Louis Cardinals vs. Chicago Cubs: O/U 14.5",
+      "prev": 0.23,
+      "now": 0.9995,
+      "delta": 0.7695,
       "url": "https://polymarket.com/event/mlb-stl-chc-2026-08-16",
       "tags": [
         "Sports",
@@ -57,102 +13,139 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 13.0,
-      "liquidity": 9832.28
+      "volume24hr": 4196.58,
+      "liquidity": 18254.04
     },
     {
-      "market": "Valorant: FURIA Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
+      "market": "Texas Rangers vs. Athletics \u2014 Spread: Athletics (-1.5)",
+      "prev": 0.225,
+      "now": 0.785,
+      "delta": 0.56,
+      "url": "https://polymarket.com/event/mlb-tex-oak-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1281.59,
+      "liquidity": 15659.67
+    },
+    {
+      "market": "Chicago Fire FC vs. Portland Timbers - More Markets \u2014 Chicago Fire FC vs. Portland Timbers: 1st Half O/U 1.5",
+      "prev": 0.475,
       "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/val-fur-g21-2026-08-16",
+      "delta": 0.52,
+      "url": "https://polymarket.com/event/mls-chi-por-2026-08-16-more-markets",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 204178.5,
-      "liquidity": 1244.34
+      "volume24hr": 985.16,
+      "liquidity": 9012.89
     },
     {
-      "market": "Valorant: FURIA Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: G2 Esports (-2.5) vs FURIA Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-fur-g21-2026-08-16",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1117.98,
-      "liquidity": 1167.78
-    },
-    {
-      "market": "Valorant: FURIA Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: G2 Esports (-3.5) vs FURIA Esports (+3.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-fur-g21-2026-08-16",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 204178.5,
-      "liquidity": 1126.03
-    },
-    {
-      "market": "Cincinnati Open: Learner Tien vs Sebastian Baez \u2014 Cincinnati Open: Completed Match: Learner Tien vs Sebastian Baez",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-tien-baez-2026-08-16",
+      "market": "Cincinnati Open: Leylah Fernandez vs Xiyu Wang \u2014 Leylah Fernandez vs. Xiyu Wang: Total Sets O/U 2.5",
+      "prev": 0.26,
+      "now": 0.78,
+      "delta": 0.52,
+      "url": "https://polymarket.com/event/wta-fernand-wan-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 141737.41,
-      "liquidity": 1474.62
+      "volume24hr": 101552.78,
+      "liquidity": 168.0
     },
     {
-      "market": "Cincinnati Open: Learner Tien vs Sebastian Baez \u2014 Tien vs. Baez: Set 2 Games O/U 8.5",
-      "prev": 0.505,
+      "market": "Cincinnati Open: Anna Blinkova vs Ekaterina Alexandrova \u2014 Set 2 Winner: Blinkova vs Alexandrova",
+      "prev": 0.51,
+      "now": 0.0005,
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/wta-blinkov-alexand-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 142.73,
+      "liquidity": 14533.92
+    },
+    {
+      "market": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs \u2014 Aguilar vs. Bergs: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-aguilar-bergs-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 458735.44,
+      "liquidity": 2835.82
+    },
+    {
+      "market": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs \u2014 Aguilar vs. Bergs: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-aguilar-bergs-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 458735.44,
+      "liquidity": 2176.99
+    },
+    {
+      "market": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs \u2014 Aguilar vs. Bergs: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-aguilar-bergs-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 458735.44,
+      "liquidity": 2155.49
+    },
+    {
+      "market": "Cincinnati Open: Anna Blinkova vs Ekaterina Alexandrova \u2014 Blinkova vs. Alexandrova: Set 2 Games O/U 8.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-tien-baez-2026-08-16",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-blinkov-alexand-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 141737.41,
-      "liquidity": 2165.21
+      "volume24hr": 161246.67,
+      "liquidity": 1776.6
     },
     {
-      "market": "Cincinnati Open: Learner Tien vs Sebastian Baez \u2014 Tien vs. Baez: Set 2 Games O/U 9.5",
-      "prev": 0.505,
+      "market": "Cincinnati Open: Anna Blinkova vs Ekaterina Alexandrova \u2014 Blinkova vs. Alexandrova: Set 2 Games O/U 9.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-tien-baez-2026-08-16",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-blinkov-alexand-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 141737.41,
-      "liquidity": 2167.05
+      "volume24hr": 161246.67,
+      "liquidity": 1775.6
     }
   ],
   "log": [
-    {
-      "ts": "15:00:01",
-      "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:15:01",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
@@ -268,6 +261,10 @@
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1978 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:30:01",
+      "text": " poll complete \u2014 1962 markets scanned, 10 flagged"
     }
   ]
 }
