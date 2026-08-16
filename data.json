@@ -1,162 +1,155 @@
 {
-  "lastUpdate": "2026-08-16 15:45:01 UTC",
+  "lastUpdate": "2026-08-16 16:00:01 UTC",
   "swings": [
     {
-      "market": "AFC Ajax vs. SC Heerenveen - More Markets \u2014 AFC Ajax vs. SC Heerenveen: 1st Half O/U 2.5",
-      "prev": 0.28,
-      "now": 0.9995,
-      "delta": 0.7195,
-      "url": "https://polymarket.com/event/ere-aja-her1-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 98.88,
-      "liquidity": 8057.47
-    },
-    {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: O/U 5.5",
-      "prev": 0.3355,
-      "now": 0.9995,
-      "delta": 0.664,
-      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 11341.19,
-      "liquidity": 118331.59
-    },
-    {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: Associa\u00e7\u00e3o Chapecoense de Futebol O/U 2.5",
-      "prev": 0.375,
-      "now": 0.9985,
-      "delta": 0.6235,
-      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 12.45,
-      "liquidity": 2366.72
-    },
-    {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: EC Bahia O/U 2.5",
-      "prev": 0.46,
+      "market": "Real Racing Club vs. Villarreal CF - More Markets \u2014 Real Racing Club vs. Villarreal CF: Both Teams to Score in First Half",
+      "prev": 0.195,
       "now": 0.9955,
-      "delta": 0.5355,
-      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
+      "delta": 0.8005,
+      "url": "https://polymarket.com/event/lal-rrc-vil-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "La Liga"
       ],
-      "volume24hr": 22.59,
-      "liquidity": 2748.95
+      "volume24hr": 17.0,
+      "liquidity": 6116.29
     },
     {
-      "market": "AFC Ajax vs. SC Heerenveen - More Markets \u2014 AFC Ajax vs. SC Heerenveen: SC Heerenveen 1st Half O/U 0.5",
-      "prev": 0.495,
+      "market": "Real Racing Club vs. Villarreal CF - More Markets \u2014 Real Racing Club vs. Villarreal CF: 1st Half O/U 2.5",
+      "prev": 0.315,
       "now": 0.9995,
-      "delta": 0.5045,
-      "url": "https://polymarket.com/event/ere-aja-her1-2026-08-16-more-markets",
+      "delta": 0.6845,
+      "url": "https://polymarket.com/event/lal-rrc-vil-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Eredivisie"
+        "La Liga"
       ],
-      "volume24hr": 1256.18,
-      "liquidity": 11131.53
+      "volume24hr": 3293.14,
+      "liquidity": 19339.33
     },
     {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 185726.6,
-      "liquidity": 1164.51
-    },
-    {
-      "market": "AFC Ajax vs. SC Heerenveen - More Markets \u2014 AFC Ajax vs. SC Heerenveen: SC Heerenveen 1st Half O/U 1.5",
-      "prev": 0.5,
+      "market": "Schalke 04 vs. Real Madrid - More Markets \u2014 Schalke 04 vs. Real Madrid: 1st Half O/U 2.5",
+      "prev": 0.59,
       "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/ere-aja-her1-2026-08-16-more-markets",
+      "delta": -0.5855,
+      "url": "https://polymarket.com/event/clf-sch-rma-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Eredivisie"
+        "Club Friendlies"
       ],
-      "volume24hr": 88074.24,
-      "liquidity": 2620.92
+      "volume24hr": 123.98,
+      "liquidity": 2693.81
     },
     {
-      "market": "AFC Ajax vs. SC Heerenveen - More Markets \u2014 AFC Ajax vs. SC Heerenveen: AFC Ajax 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/ere-aja-her1-2026-08-16-more-markets",
+      "market": "Real Racing Club vs. Villarreal CF - More Markets \u2014 Real Racing Club vs. Villarreal CF: Villarreal CF O/U 1.5",
+      "prev": 0.42,
+      "now": 0.9955,
+      "delta": 0.5755,
+      "url": "https://polymarket.com/event/lal-rrc-vil-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Eredivisie"
+        "La Liga"
       ],
-      "volume24hr": 307.51,
-      "liquidity": 5284.27
+      "volume24hr": 2055.98,
+      "liquidity": 6392.13
     },
     {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
+      "market": "Cincinnati Open: Janice Tjen vs Viktorija Golubic \u2014 Set 1 Winner: Tjen vs Golubic",
+      "prev": 0.145,
+      "now": 0.695,
+      "delta": 0.55,
+      "url": "https://polymarket.com/event/wta-tjen-golubic-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
+        "Games"
       ],
-      "volume24hr": 185726.6,
-      "liquidity": 621.7
+      "volume24hr": 2177.78,
+      "liquidity": 12382.26
     },
     {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: Associa\u00e7\u00e3o Chapecoense de Futebol 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
+      "market": "Real Racing Club vs. Villarreal CF - More Markets \u2014 Real Racing Club vs. Villarreal CF: Villarreal CF O/U 2.5",
+      "prev": 0.165,
+      "now": 0.695,
+      "delta": 0.53,
+      "url": "https://polymarket.com/event/lal-rrc-vil-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "La Liga"
       ],
-      "volume24hr": 185726.6,
-      "liquidity": 614.0
+      "volume24hr": 1840.84,
+      "liquidity": 8316.32
+    },
+    {
+      "market": "Schalke 04 vs. Real Madrid - More Markets \u2014 Schalke 04 vs. Real Madrid: Both Teams to Score in First Half",
+      "prev": 0.525,
+      "now": 0.0055,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/clf-sch-rma-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 46.84,
+      "liquidity": 2706.84
+    },
+    {
+      "market": "Real Racing Club vs. Villarreal CF \u2014 Will Real Racing Club win on 2026-08-16?",
+      "prev": 0.735,
+      "now": 0.225,
+      "delta": -0.51,
+      "url": "https://polymarket.com/event/lal-rrc-vil-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 127002.89,
+      "liquidity": 168655.91
+    },
+    {
+      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-townsen-rybakin-2026-08-15",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 171487.04,
+      "liquidity": 6095.38
+    },
+    {
+      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-townsen-rybakin-2026-08-15",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 171487.04,
+      "liquidity": 6120.31
     }
   ],
   "log": [
-    {
-      "ts": "09:30:01",
-      "text": " poll complete \u2014 1810 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:33:21",
       "text": " poll complete \u2014 1810 markets scanned, 10 flagged"
@@ -272,6 +265,10 @@
     {
       "ts": "15:45:01",
       "text": " poll complete \u2014 1975 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:00:01",
+      "text": " poll complete \u2014 1912 markets scanned, 10 flagged"
     }
   ]
 }
