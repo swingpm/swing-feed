@@ -1,161 +1,150 @@
 {
-  "lastUpdate": "2026-08-16 16:15:01 UTC",
+  "lastUpdate": "2026-08-16 16:30:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Barbora Krejcikova vs Sara Bejlek \u2014 Set 1 Winner: Krejcikova vs Bejlek",
-      "prev": 0.715,
-      "now": 0.005,
-      "delta": -0.71,
-      "url": "https://polymarket.com/event/wta-krejcik-bejlek-2026-08-16",
+      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Match O/U 21.5",
+      "prev": 0.64,
+      "now": 0.085,
+      "delta": -0.555,
+      "url": "https://polymarket.com/event/wta-townsen-rybakin-2026-08-15",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1618.84,
-      "liquidity": 27481.56
+      "volume24hr": 96.15,
+      "liquidity": 175.0
     },
     {
-      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: Manchester City O/U 0.5",
+      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.0035,
-      "delta": -0.4965,
-      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "FA Community Shield"
+        "Games"
       ],
-      "volume24hr": 3557.49,
-      "liquidity": 34038.14
+      "volume24hr": 126334.54,
+      "liquidity": 3662.47
     },
     {
-      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: Manchester City O/U 2.5",
+      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Match O/U 21.5",
       "prev": 0.5,
-      "now": 0.0035,
-      "delta": -0.4965,
-      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "FA Community Shield"
+        "Games"
       ],
-      "volume24hr": 2325.93,
-      "liquidity": 34934.61
+      "volume24hr": 108.83,
+      "liquidity": 6985.15
     },
     {
-      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: Both Teams to Score in Second Half",
+      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 126334.54,
+      "liquidity": 3642.96
+    },
+    {
+      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 46.0,
+      "liquidity": 6755.86
+    },
+    {
+      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 126334.54,
+      "liquidity": 3665.3
+    },
+    {
+      "market": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva \u2014 Oliynykova vs. Andreeva: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-oliynyk-andreev-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 126334.54,
+      "liquidity": 6736.47
+    },
+    {
+      "market": "Kalmar FF vs. Hammarby IF - More Markets \u2014 Kalmar FF vs. Hammarby IF: Kalmar FF O/U 2.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
+      "url": "https://polymarket.com/event/swe-kal-hif-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "FA Community Shield"
+        "Sweden Allsvenskan"
       ],
-      "volume24hr": 286.27,
-      "liquidity": 5090.61
+      "volume24hr": 93635.5,
+      "liquidity": 10885.29
     },
     {
-      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: Arsenal FC 2nd Half O/U 1.5",
+      "market": "Kalmar FF vs. Hammarby IF - More Markets \u2014 Kalmar FF vs. Hammarby IF: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
+      "url": "https://polymarket.com/event/swe-kal-hif-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "FA Community Shield"
+        "Sweden Allsvenskan"
       ],
-      "volume24hr": 409.8,
-      "liquidity": 5090.61
+      "volume24hr": 93635.5,
+      "liquidity": 3518.8
     },
     {
-      "market": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D \u2014 Map Handicap: MGC (-1.5) vs 9z (+1.5)",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/cs2-9z-mgc-2026-08-16",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1509177.08,
-      "liquidity": 3337.33
-    },
-    {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: EC Bahia 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 214953.84,
-      "liquidity": 2586.67
-    },
-    {
-      "market": "Arsenal FC vs. Manchester City - Exact Score \u2014 Exact Score: Any Other Score?",
+      "market": "Cincinnati Open: Christopher O'Connell vs Casper Ruud \u2014 Cincinnati Open: Completed Match: Christopher O'Connell vs Casper Ruud",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-exact-score",
+      "url": "https://polymarket.com/event/atp-oconnel-ruud-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "FA Community Shield"
+        "Games"
       ],
-      "volume24hr": 2061.22,
-      "liquidity": 1900.21
-    },
-    {
-      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "FA Community Shield"
-      ],
-      "volume24hr": 4875851.92,
-      "liquidity": 5070.67
-    },
-    {
-      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: Manchester City 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "FA Community Shield"
-      ],
-      "volume24hr": 20.0,
-      "liquidity": 5070.71
+      "volume24hr": 1015402.11,
+      "liquidity": 22039.72
     }
   ],
   "log": [
-    {
-      "ts": "09:41:03",
-      "text": " poll complete \u2014 1886 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:44:54",
       "text": " poll complete \u2014 1886 markets scanned, 0 flagged"
@@ -271,6 +260,10 @@
     {
       "ts": "16:15:01",
       "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:30:01",
+      "text": " poll complete \u2014 1932 markets scanned, 10 flagged"
     }
   ]
 }
