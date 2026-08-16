@@ -1,161 +1,154 @@
 {
-  "lastUpdate": "2026-08-16 20:30:01 UTC",
+  "lastUpdate": "2026-08-16 20:45:01 UTC",
   "swings": [
     {
-      "market": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
-      "prev": 0.12,
+      "market": "Philadelphia Phillies vs. Minnesota Twins",
+      "prev": 0.285,
+      "now": 0.865,
+      "delta": 0.58,
+      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 49493.33,
+      "liquidity": 191430.86
+    },
+    {
+      "market": "CA Mineiro vs. Gr\u00eamio FBPA - More Markets \u2014 Spread: CA Mineiro (-2.5)",
+      "prev": 0.3,
+      "now": 0.87,
+      "delta": 0.57,
+      "url": "https://polymarket.com/event/bra-cam-gre-2026-08-15-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 1849.16,
+      "liquidity": 8070.01
+    },
+    {
+      "market": "CA Mineiro vs. Gr\u00eamio FBPA - More Markets \u2014 CA Mineiro vs. Gr\u00eamio FBPA: CA Mineiro O/U 2.5",
+      "prev": 0.41,
+      "now": 0.98,
+      "delta": 0.57,
+      "url": "https://polymarket.com/event/bra-cam-gre-2026-08-15-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 72.63,
+      "liquidity": 1153.08
+    },
+    {
+      "market": "New York Yankees vs. Toronto Blue Jays: O/U 6.5",
+      "prev": 0.44,
+      "now": 0.9995,
+      "delta": 0.5595,
+      "url": "https://polymarket.com/event/mlb-nyy-tor-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 83084.2,
+      "liquidity": 98889.17
+    },
+    {
+      "market": "Philadelphia Phillies vs. Minnesota Twins: O/U 11.5",
+      "prev": 0.44,
       "now": 0.995,
-      "delta": 0.875,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
+      "delta": 0.555,
+      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 444.31,
-      "liquidity": 1730.05
+      "volume24hr": 4.89,
+      "liquidity": 9284.83
     },
     {
-      "market": "Miami Marlins vs. Cincinnati Reds \u2014 Spread: Miami Marlins (-2.5)",
-      "prev": 0.125,
-      "now": 0.965,
-      "delta": 0.84,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1548.71,
-      "liquidity": 370.19
-    },
-    {
-      "market": "Miami Marlins vs. Cincinnati Reds: O/U 6.5",
+      "market": "Philadelphia Phillies vs. Minnesota Twins \u2014 Spread: Philadelphia Phillies (-1.5)",
       "prev": 0.165,
-      "now": 0.995,
-      "delta": 0.83,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
+      "now": 0.675,
+      "delta": 0.51,
+      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 444.36,
-      "liquidity": 736.21
+      "volume24hr": 2180.55,
+      "liquidity": 22251.95
     },
     {
-      "market": "New York Yankees vs. Toronto Blue Jays: O/U 4.5",
-      "prev": 0.225,
-      "now": 0.9945,
-      "delta": 0.7695,
-      "url": "https://polymarket.com/event/mlb-nyy-tor-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 635.69,
-      "liquidity": 832.69
-    },
-    {
-      "market": "Miami Marlins vs. Cincinnati Reds \u2014 Spread: Miami Marlins (-1.5)",
-      "prev": 0.265,
-      "now": 0.975,
-      "delta": 0.71,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4237.64,
-      "liquidity": 8373.96
-    },
-    {
-      "market": "Miami Marlins vs. Cincinnati Reds: O/U 4.5",
-      "prev": 0.35,
+      "market": "Cincinnati Open: Marta Kostyuk vs Sofia Kenin \u2014 Kostyuk vs. Kenin: Set 2 Games O/U 8.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.6495,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1206.3,
-      "liquidity": 1542.86
-    },
-    {
-      "market": "Chicago White Sox vs. Detroit Tigers \u2014 Spread: Chicago White Sox (-1.5)",
-      "prev": 0.235,
-      "now": 0.755,
-      "delta": 0.52,
-      "url": "https://polymarket.com/event/mlb-cws-det-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10289.73,
-      "liquidity": 53200.91
-    },
-    {
-      "market": "Miami Marlins vs. Cincinnati Reds: O/U 3.5",
-      "prev": 0.48,
-      "now": 0.9995,
-      "delta": 0.5195,
-      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5194.2,
-      "liquidity": 30786.33
-    },
-    {
-      "market": "New York Yankees vs. Toronto Blue Jays: O/U 3.5",
-      "prev": 0.495,
-      "now": 0.995,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/mlb-nyy-tor-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6.25,
-      "liquidity": 1742.38
-    },
-    {
-      "market": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta \u2014 Set 1 Winner: Rublev vs Busta",
-      "prev": 0.495,
-      "now": 0.995,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/atp-rublev-busta-2026-08-16",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-kostyuk-kenin-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 975.25,
-      "liquidity": 19619.77
+      "volume24hr": 331336.29,
+      "liquidity": 4325.85
+    },
+    {
+      "market": "Cincinnati Open: Marta Kostyuk vs Sofia Kenin \u2014 Kostyuk vs. Kenin: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-kostyuk-kenin-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 331336.29,
+      "liquidity": 3803.76
+    },
+    {
+      "market": "Cincinnati Open: Nuno Borges vs Francisco Cerundolo \u2014 Borges vs. Cerundolo: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-borges-cerundo-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 99989.74,
+      "liquidity": 3685.53
+    },
+    {
+      "market": "Cincinnati Open: Nuno Borges vs Francisco Cerundolo \u2014 Borges vs. Cerundolo: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-borges-cerundo-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 99989.74,
+      "liquidity": 3787.46
     }
   ],
   "log": [
-    {
-      "ts": "13:15:01",
-      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:30:01",
       "text": " poll complete \u2014 1963 markets scanned, 10 flagged"
@@ -271,6 +264,10 @@
     {
       "ts": "20:30:01",
       "text": " poll complete \u2014 1993 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:45:01",
+      "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
     }
   ]
 }
