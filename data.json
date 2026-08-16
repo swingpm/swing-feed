@@ -1,11 +1,56 @@
 {
-  "lastUpdate": "2026-08-16 20:00:02 UTC",
+  "lastUpdate": "2026-08-16 20:15:02 UTC",
   "swings": [
     {
-      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 Spread: CA Sarmiento (-1.5)",
-      "prev": 0.14,
-      "now": 0.965,
-      "delta": 0.825,
+      "market": "Arizona Diamondbacks vs. Atlanta Braves: O/U 7.5",
+      "prev": 0.34,
+      "now": 0.9995,
+      "delta": 0.6595,
+      "url": "https://polymarket.com/event/mlb-ari-atl-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 14390.97,
+      "liquidity": 33160.14
+    },
+    {
+      "market": "Arizona Diamondbacks vs. Atlanta Braves \u2014 Spread: Atlanta Braves (-2.5)",
+      "prev": 0.545,
+      "now": 0.0005,
+      "delta": -0.5445,
+      "url": "https://polymarket.com/event/mlb-ari-atl-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 31780.29,
+      "liquidity": 60648.37
+    },
+    {
+      "market": "Miami Marlins vs. Cincinnati Reds: O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 662258.77,
+      "liquidity": 60.0
+    },
+    {
+      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Hurac\u00e1n O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -13,147 +58,101 @@
         "Soccer",
         "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 165594.97,
-      "liquidity": 583.99
+      "volume24hr": 180150.88,
+      "liquidity": 21479.41
     },
     {
-      "market": "Cincinnati Open: Shuai Zhang vs Ann Li \u2014 Shuai Zhang vs. Ann Li: Total Sets O/U 2.5",
-      "prev": 0.595,
-      "now": 0.005,
-      "delta": -0.59,
-      "url": "https://polymarket.com/event/wta-zhang-annli-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 20.0,
-      "liquidity": 7459.08
-    },
-    {
-      "market": "Philadelphia Phillies vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-2.5)",
-      "prev": 0.795,
-      "now": 0.225,
-      "delta": -0.57,
-      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2021.99,
-      "liquidity": 17157.27
-    },
-    {
-      "market": "Philadelphia Phillies vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-3.5)",
-      "prev": 0.685,
-      "now": 0.135,
-      "delta": -0.55,
-      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 55.04
-    },
-    {
-      "market": "Philadelphia Phillies vs. Minnesota Twins: O/U 10.5",
-      "prev": 0.285,
-      "now": 0.82,
-      "delta": 0.535,
-      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6885.76,
-      "liquidity": 66619.27
-    },
-    {
-      "market": "Cincinnati Open: Shuai Zhang vs Ann Li \u2014 Set Handicap: Li (-1.5) vs Zhang (+1.5)",
-      "prev": 0.465,
-      "now": 0.9995,
-      "delta": 0.5345,
-      "url": "https://polymarket.com/event/wta-zhang-annli-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 134.27,
-      "liquidity": 4526.47
-    },
-    {
-      "market": "Philadelphia Phillies vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-1.5)",
-      "prev": 0.875,
-      "now": 0.345,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4198.49,
-      "liquidity": 19632.21
-    },
-    {
-      "market": "Philadelphia Phillies vs. Minnesota Twins: O/U 9.5",
-      "prev": 0.375,
-      "now": 0.895,
-      "delta": 0.52,
-      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 79892.66,
-      "liquidity": 29085.75
-    },
-    {
-      "market": "CA Mineiro vs. Gr\u00eamio FBPA - More Markets \u2014 CA Mineiro vs. Gr\u00eamio FBPA: Both Teams to Score in First Half",
-      "prev": 0.52,
+      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Hurac\u00e1n O/U 1.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.5195,
-      "url": "https://polymarket.com/event/bra-cam-gre-2026-08-15-more-markets",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 1028.38,
-      "liquidity": 14854.52
+      "volume24hr": 261.26,
+      "liquidity": 20407.78
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Alex Michelsen \u2014 Cincinnati Open: Completed Match: Taylor Fritz vs Alex Michelsen",
+      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Hurac\u00e1n O/U 2.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-michels-2026-08-16",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 2322.0,
-      "liquidity": 13694.86
+      "volume24hr": 936.33,
+      "liquidity": 23269.36
+    },
+    {
+      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: 2nd Half O/U 0.5",
+      "prev": 0.5005,
+      "now": 0.9995,
+      "delta": 0.499,
+      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 3808.61
+    },
+    {
+      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Sarmiento 2nd Half O/U 0.5",
+      "prev": 0.5005,
+      "now": 0.9995,
+      "delta": 0.499,
+      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 3815.5
+    },
+    {
+      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Sarmiento O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0035,
+      "delta": -0.4965,
+      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 416.21,
+      "liquidity": 13537.52
+    },
+    {
+      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.004,
+      "delta": -0.496,
+      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 180150.88,
+      "liquidity": 3812.85
     }
   ],
   "log": [
-    {
-      "ts": "12:45:01",
-      "text": " poll complete \u2014 1857 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:00:01",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
@@ -269,6 +268,10 @@
     {
       "ts": "20:00:02",
       "text": " poll complete \u2014 2041 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:15:02",
+      "text": " poll complete \u2014 2014 markets scanned, 10 flagged"
     }
   ]
 }
