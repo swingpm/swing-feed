@@ -1,153 +1,157 @@
 {
-  "lastUpdate": "2026-08-16 21:15:02 UTC",
+  "lastUpdate": "2026-08-16 21:30:02 UTC",
   "swings": [
     {
-      "market": "St. Louis Cardinals vs. Chicago Cubs \u2014 1st 5 Innings Spread: St. Louis Cardinals (-1.5)",
-      "prev": 0.5,
+      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: O/U 1.5",
+      "prev": 0.085,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-stl-chc-2026-08-16",
+      "delta": 0.9145,
+      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 71671.72,
+      "liquidity": 43713.98
+    },
+    {
+      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 Spread: Mantova 1911 (-1.5)",
+      "prev": 0.1595,
+      "now": 0.9965,
+      "delta": 0.837,
+      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 356.24,
+      "liquidity": 12400.98
+    },
+    {
+      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: Mantova 1911 O/U 1.5",
+      "prev": 0.3425,
+      "now": 0.9995,
+      "delta": 0.657,
+      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 951.93,
+      "liquidity": 3359.93
+    },
+    {
+      "market": "Kansas City Royals vs. Los Angeles Angels: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-kc-laa-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 1508.72
+      "volume24hr": 246.45,
+      "liquidity": 1854.83
     },
     {
-      "market": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta \u2014 Andrey Rublev vs. Pablo Carreno Busta: Total Sets O/U 2.5",
+      "market": "Kansas City Royals vs. Los Angeles Angels: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-rublev-busta-2026-08-16",
+      "url": "https://polymarket.com/event/mlb-kc-laa-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 97.57,
-      "liquidity": 6414.49
+      "volume24hr": 375.96,
+      "liquidity": 2218.73
     },
     {
-      "market": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta \u2014 Rublev vs. Busta: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-rublev-busta-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 380318.36,
-      "liquidity": 3212.68
-    },
-    {
-      "market": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta \u2014 Set Handicap: Rublev (-1.5) vs Busta (+1.5)",
+      "market": "Cincinnati Open: Katerina Siniakova vs Jessica Bouzas Maneiro \u2014 Siniakova vs. Maneiro: Set 1 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-rublev-busta-2026-08-16",
+      "url": "https://polymarket.com/event/wta-siniako-maneiro-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 933.14,
-      "liquidity": 5431.38
+      "volume24hr": 267399.17,
+      "liquidity": 6551.14
     },
     {
-      "market": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta \u2014 Rublev vs. Busta: Set 2 Games O/U 10.5",
+      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: Mantova 1911 O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-rublev-busta-2026-08-16",
+      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Coppa Italia"
       ],
-      "volume24hr": 380318.36,
-      "liquidity": 3683.72
+      "volume24hr": 184852.09,
+      "liquidity": 5250.72
     },
     {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Talia Gibson \u2014 Aryna Sabalenka vs. Talia Gibson: Total Sets O/U 2.5",
-      "prev": 0.5,
+      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: SS Lazio O/U 2.5",
+      "prev": 0.4995,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sabalen-gibson-2026-08-16",
+      "delta": -0.499,
+      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Coppa Italia"
       ],
-      "volume24hr": 273858.89,
-      "liquidity": 7215.03
+      "volume24hr": 3192.67,
+      "liquidity": 15767.36
     },
     {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Talia Gibson \u2014 Set Handicap: Sabalenka (-1.5) vs Gibson (+1.5)",
+      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: SS Lazio O/U 0.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-sabalen-gibson-2026-08-16",
+      "now": 0.004,
+      "delta": -0.496,
+      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Coppa Italia"
       ],
-      "volume24hr": 1404.76,
-      "liquidity": 10882.81
+      "volume24hr": 1650.92,
+      "liquidity": 7334.39
     },
     {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Talia Gibson \u2014 Sabalenka vs. Gibson: Match O/U 21.5",
+      "market": "Kansas City Royals vs. Los Angeles Angels \u2014 1st 5 Innings Spread: Kansas City Royals (-1.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sabalen-gibson-2026-08-16",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-kc-laa-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 273858.89,
-      "liquidity": 7110.75
-    },
-    {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Talia Gibson \u2014 Sabalenka vs. Gibson: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sabalen-gibson-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 273858.89,
-      "liquidity": 6773.62
-    },
-    {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Talia Gibson \u2014 Sabalenka vs. Gibson: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sabalen-gibson-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 273858.89,
-      "liquidity": 6112.56
+      "volume24hr": 427683.89,
+      "liquidity": 2844.37
     }
   ],
   "log": [
-    {
-      "ts": "14:00:01",
-      "text": " poll complete \u2014 1959 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1947 markets scanned, 10 flagged"
@@ -263,6 +267,10 @@
     {
       "ts": "21:15:02",
       "text": " poll complete \u2014 2037 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:30:02",
+      "text": " poll complete \u2014 1991 markets scanned, 10 flagged"
     }
   ]
 }
