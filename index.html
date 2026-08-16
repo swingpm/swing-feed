@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>$SWING // odds anomaly feed</title>
+<meta name="description" content="Live prediction-market odds-swing radar. Raw, unedited, publicly logged.">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+  :root {
+    --bg: #060a06;
+    --fg: #33ff33;
+    --fg-dim: #1c661c;
+    --fg-mid: #227722;
+    --red: #ff5533;
+    --border: #123312;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    margin: 0;
+    padding: 32px 16px 60px;
+    min-height: 100vh;
+    position: relative;
+    overflow-x: hidden;
+    line-height: 1.5;
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(0,0,0,0.15),
+      rgba(0,0,0,0.15) 1px,
+      transparent 1px,
+      transparent 2px
+    );
+    pointer-events: none;
+    z-index: 2;
+  }
+
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,0.6) 100%);
+    pointer-events: none;
+    z-index: 3;
+  }
+
+  .screen {
+    max-width: 860px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+  }
+
+  .glow { text-shadow: 0 0 4px var(--fg), 0 0 10px rgba(51,255,51,0.35); }
+
+  .header-bar {
+    background: var(--fg);
+    color: #000;
+    padding: 7px 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    box-shadow: 0 0 12px rgba(51,255,51,0.55);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .header-bar .ticker { font-size: 13px; opacity: 0.8; }
+
+  .subhead {
+    margin: 18px 0 26px;
+    opacity: 0.85;
+    font-size: 13px;
+  }
+
+  .subhead a { color: var(--fg); }
+
+  .subhead .row { margin-bottom: 4px; }
+
+  .divider {
+    border: none;
+    border-top: 1px dashed var(--fg-dim);
+    margin: 20px 0;
+  }
+
+  h2.section-label {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 0.7;
+    font-weight: normal;
+    margin: 0 0 10px;
+  }
+
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+
+  th {
+    text-align: left;
+    border-bottom: 1px solid var(--fg-dim);
+    padding: 6px 8px;
+    opacity: 0.7;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 1px;
+  }
+
+  td { padding: 8px; border-bottom: 1px solid var(--border); }
+  tr:hover td { background: rgba(51,255,51,0.04); }
+
+  .up { color: var(--fg); }
+  .down { color: var(--red); text-shadow: 0 0 4px var(--red); }
+  .delta { font-weight: bold; }
+
+  .log { font-size: 13px; opacity: 0.8; max-height: 260px; overflow-y: auto; }
+  .log-line { margin: 3px 0; }
+  .log-line .ts { opacity: 0.55; margin-right: 8px; }
+
+  .cursor {
+    display: inline-block;
+    width: 9px; height: 15px;
+    background: var(--fg);
+    box-shadow: 0 0 6px var(--fg);
+    animation: blink 1s step-start infinite;
+    vertical-align: middle;
+    margin-left: 4px;
+  }
+  @keyframes blink { 50% { opacity: 0; } }
+
+  .empty-state {
+    border: 1px dashed var(--fg-dim);
+    padding: 18px;
+    font-size: 13px;
+    opacity: 0.75;
+  }
+
+  .footer {
+    margin-top: 34px;
+    font-size: 11px;
+    opacity: 0.5;
+    line-height: 1.6;
+  }
+
+  ::-webkit-scrollbar { width: 8px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--fg-dim); }
+
+  @media (prefers-reduced-motion: reduce) {
+    .cursor { animation: none; opacity: 1; }
+  }
+
+  @media (max-width: 480px) {
+    table, thead, tbody, th, td, tr { display: block; }
+    thead { display: none; }
+    tr { border-bottom: 1px solid var(--fg-dim); padding: 6px 0; margin-bottom: 6px; }
+    td { border: none; padding: 2px 8px; }
+    td::before { content: attr(data-label); opacity: 0.55; display: inline-block; width: 90px; }
+  }
+</style>
+</head>
+<body>
+  <div class="screen glow">
+    <div class="header-bar">
+      <span>$SWING // live odds-anomaly feed</span>
+      <span class="ticker" id="statusTicker">connecting&hellip;</span>
+    </div>
+
+    <div class="subhead">
+      <div class="row">SOURCE: polymarket gamma api &nbsp;|&nbsp; POLL INTERVAL: 15m</div>
+      <div class="row">LAST UPDATE: <span id="lastUpdate">—</span></div>
+      <div class="row">METHODOLOGY &amp; RAW DATA: <a href="#" id="repoLink">github.com/[repo]</a></div>
+      <div class="row">ALL READINGS COMMITTED PUBLICLY, UNEDITED.</div>
+    </div>
+
+    <hr class="divider">
+
+    <h2 class="section-label">biggest swings, last hour</h2>
+    <div id="tableWrap">
+      <div class="empty-state">
+        NO DATA YET. Feed goes live once the polling pipeline starts pushing to <code>data.json</code>.
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <h2 class="section-label">poll log</h2>
+    <div class="log" id="logWrap">
+      <div class="log-line"><span class="ts">[--:--:--]</span> awaiting first poll<span class="cursor"></span></div>
+    </div>
+
+    <div class="footer">
+      $SWING is a data feed, not financial advice. Odds reflect Polymarket trader sentiment,
+      not verified outcomes, and can move for reasons unrelated to the underlying event.
+      This page has no custody of funds and makes no predictions of its own.
+    </div>
+  </div>
+
+<script>
+  // Reads /data.json, written by the polling script on each run. Shape:
+  // {
+  //   "lastUpdate": "2026-08-16T12:45:03Z",
+  //   "swings": [ { "market": "...", "prev": 0.41, "now": 0.58, "delta": 0.17 }, ... ],
+  //   "log": [ { "ts": "12:45:03", "text": "poll complete — 100 markets scanned, 4 flagged" }, ... ]
+  // }
+
+  async function loadData() {
+    const ticker = document.getElementById('statusTicker');
+    try {
+      const res = await fetch('data.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('no data.json yet');
+      const data = await res.json();
+      render(data);
+      ticker.textContent = 'live';
+    } catch (e) {
+      ticker.textContent = 'awaiting first poll';
+    }
+  }
+
+  function render(data) {
+    if (data.lastUpdate) {
+      document.getElementById('lastUpdate').textContent = data.lastUpdate;
+    }
+
+    const tableWrap = document.getElementById('tableWrap');
+    if (data.swings && data.swings.length) {
+      let rows = data.swings.map(s => {
+        const deltaPct = (s.delta * 100).toFixed(0);
+        const cls = s.delta >= 0 ? 'up' : 'down';
+        const sign = s.delta >= 0 ? '+' : '';
+        return `<tr>
+          <td data-label="Market">${escapeHtml(s.market)}</td>
+          <td data-label="Prev">${(s.prev * 100).toFixed(0)}%</td>
+          <td data-label="Now">${(s.now * 100).toFixed(0)}%</td>
+          <td data-label="Δ (1h)" class="delta ${cls}">${sign}${deltaPct}%</td>
+        </tr>`;
+      }).join('');
+
+      tableWrap.innerHTML = `<table>
+        <tr><th>Market</th><th>Prev</th><th>Now</th><th>Δ (1h)</th></tr>
+        ${rows}
+      </table>`;
+    }
+
+    const logWrap = document.getElementById('logWrap');
+    if (data.log && data.log.length) {
+      logWrap.innerHTML = data.log.map((l, i) => {
+        const isLast = i === data.log.length - 1;
+        return `<div class="log-line"><span class="ts">[${escapeHtml(l.ts)}]</span>${escapeHtml(l.text)}${isLast ? '<span class="cursor"></span>' : ''}</div>`;
+      }).join('');
+    }
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  loadData();
+  setInterval(loadData, 60000); // re-check every minute for fresh data.json
+</script>
+</body>
+</html>
