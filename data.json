@@ -1,11 +1,41 @@
 {
-  "lastUpdate": "2026-08-16 09:47:11 UTC",
+  "lastUpdate": "2026-08-16 10:00:01 UTC",
   "swings": [
     {
-      "market": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Game 3: Odd/Even Total Kills?",
+      "market": "Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs \u2014 Map 2 Total Rounds: Over/Under 20.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.99,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/val-nova-tec-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 171081.85,
+      "liquidity": 9.8
+    },
+    {
+      "market": "Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs \u2014 Map 2 Total Rounds: Over/Under 19.5",
+      "prev": 0.5,
+      "now": 0.99,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/val-nova-tec-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 171081.85,
+      "liquidity": 9.8
+    },
+    {
+      "market": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
       "url": "https://polymarket.com/event/lol-lgd-jdg-2026-08-16",
       "tags": [
         "Esports",
@@ -13,29 +43,74 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3082757.63,
-      "liquidity": 799.0
+      "volume24hr": 3297893.01,
+      "liquidity": 116.12
     },
     {
-      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: Ulsan HD FC 2nd Half O/U 1.5",
-      "prev": 0.565,
-      "now": 0.195,
-      "delta": -0.37,
-      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
+      "market": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-lgd-jdg-2026-08-16",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 63443.32,
-      "liquidity": 64.67
+      "volume24hr": 3297893.01,
+      "liquidity": 116.12
+    },
+    {
+      "market": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-lgd-jdg-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 150.0,
+      "liquidity": 116.12
+    },
+    {
+      "market": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-lgd-jdg-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 102.96,
+      "liquidity": 116.12
+    },
+    {
+      "market": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.4635,
+      "now": 0.1,
+      "delta": -0.3635,
+      "url": "https://polymarket.com/event/lol-lgd-jdg-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 297.2,
+      "liquidity": 450.25
     },
     {
       "market": "LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - LCP Group Stage \u2014 Games Total: O/U 4.5",
-      "prev": 0.39,
-      "now": 0.12,
-      "delta": -0.27,
+      "prev": 0.12,
+      "now": 0.435,
+      "delta": 0.315,
       "url": "https://polymarket.com/event/lol-tsw-cfo-2026-08-16",
       "tags": [
         "Esports",
@@ -44,28 +119,13 @@
         "Sports"
       ],
       "volume24hr": 240.0,
-      "liquidity": 24.15
+      "liquidity": 241.04
     },
     {
-      "market": "Counter-Strike: RoundsGG vs Vexar (BO3) - Exort Fiesta Closed Qualifier: Series #1 Group A",
-      "prev": 0.105,
-      "now": 0.37,
-      "delta": 0.265,
-      "url": "https://polymarket.com/event/cs2-rgg-vex1-2026-08-16",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 80939.55,
-      "liquidity": 1922.18
-    },
-    {
-      "market": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 LoL: T1 vs Gen.G - Game 2 Winner",
-      "prev": 0.52,
-      "now": 0.29,
-      "delta": -0.23,
+      "market": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: GEN (-1.5) vs T1 (+1.5)",
+      "prev": 0.685,
+      "now": 0.9355,
+      "delta": 0.2505,
       "url": "https://polymarket.com/event/lol-t1-gen-2026-08-16",
       "tags": [
         "Esports",
@@ -73,14 +133,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 640776.23,
-      "liquidity": 150161.7
+      "volume24hr": 24269.7,
+      "liquidity": 109849.37
     },
     {
-      "market": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round \u2014 Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
-      "prev": 0.575,
-      "now": 0.345,
-      "delta": -0.23,
+      "market": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round \u2014 Games Total: O/U 2.5",
+      "prev": 0.46,
+      "now": 0.71,
+      "delta": 0.25,
       "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16",
       "tags": [
         "Esports",
@@ -88,68 +148,8 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 645515.17,
-      "liquidity": 177768.42
-    },
-    {
-      "market": "Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.425,
-      "now": 0.24,
-      "delta": -0.185,
-      "url": "https://polymarket.com/event/val-nova-tec-2026-08-16",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 100.5,
-      "liquidity": 50.86
-    },
-    {
-      "market": "Valorant: Nova Esports vs TEC Esports (BO3) - VCT China Stage 2 Playoffs \u2014 Map Handicap: NOVA (-1.5) vs TEC Esports (+1.5)",
-      "prev": 0.575,
-      "now": 0.755,
-      "delta": 0.18,
-      "url": "https://polymarket.com/event/val-nova-tec-2026-08-16",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 768.99,
-      "liquidity": 44.3
-    },
-    {
-      "market": "LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - LCP Group Stage \u2014 LoL: Team Secret Whales vs CTBC Flying Oyster - Game 1 Winner",
-      "prev": 0.795,
-      "now": 0.975,
-      "delta": 0.18,
-      "url": "https://polymarket.com/event/lol-tsw-cfo-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 16665.38,
-      "liquidity": 156850.15
-    },
-    {
-      "market": "LoL: Team Secret Whales vs CTBC Flying Oyster (BO5) - LCP Group Stage \u2014 Games Total: O/U 3.5",
-      "prev": 0.44,
-      "now": 0.28,
-      "delta": -0.16,
-      "url": "https://polymarket.com/event/lol-tsw-cfo-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2687.33,
-      "liquidity": 57.75
+      "volume24hr": 11395.84,
+      "liquidity": 64821.5
     }
   ],
   "log": [
@@ -208,6 +208,10 @@
     {
       "ts": "09:47:11",
       "text": " poll complete \u2014 1886 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:00:01",
+      "text": " poll complete \u2014 1855 markets scanned, 10 flagged"
     }
   ]
 }
