@@ -1,11 +1,41 @@
 {
-  "lastUpdate": "2026-08-16 17:45:01 UTC",
+  "lastUpdate": "2026-08-16 18:00:01 UTC",
   "swings": [
     {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays: 1st 5 Innings O/U 3.5",
-      "prev": 0.085,
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: 1st Half O/U 1.5",
+      "prev": 0.27,
       "now": 0.9995,
-      "delta": 0.9145,
+      "delta": 0.7295,
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 5588.28,
+      "liquidity": 20157.78
+    },
+    {
+      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season \u2014 LoL: G2 Esports vs Fnatic - Game 1 Winner",
+      "prev": 0.665,
+      "now": 0.0005,
+      "delta": -0.6645,
+      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 535931.75,
+      "liquidity": 1448908.2
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays: O/U 7.5",
+      "prev": 0.435,
+      "now": 0.9995,
+      "delta": 0.5645,
       "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
       "tags": [
         "Sports",
@@ -13,146 +43,115 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 5448.2,
-      "liquidity": 20428.29
+      "volume24hr": 163809.14,
+      "liquidity": 150728.88
     },
     {
-      "market": "Counter-Strike: BASEMENT BOYS vs INOX Division (BO3) - ESL Challenger League Europe Cup #3 Playoffs",
-      "prev": 0.32,
-      "now": 0.9995,
-      "delta": 0.6795,
-      "url": "https://polymarket.com/event/cs2-bmb-inox-2026-08-16",
+      "market": "Baltimore Orioles vs. Tampa Bay Rays \u2014 Spread: Baltimore Orioles (-2.5)",
+      "prev": 0.36,
+      "now": 0.92,
+      "delta": 0.56,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 72786.18,
-      "liquidity": 209327.99
+      "volume24hr": 988.89,
+      "liquidity": 337.27
     },
     {
-      "market": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B \u2014 Games Total: O/U 2.5",
-      "prev": 0.25,
-      "now": 0.83,
-      "delta": 0.58,
-      "url": "https://polymarket.com/event/cs2-ast10-nip-2026-08-16",
+      "market": "Baltimore Orioles vs. Tampa Bay Rays: O/U 8.5",
+      "prev": 0.325,
+      "now": 0.875,
+      "delta": 0.55,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 4192.98,
-      "liquidity": 273.77
+      "volume24hr": 7098.86,
+      "liquidity": 6132.06
     },
     {
-      "market": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B \u2014 Counter-Strike: Astralis vs NIP - Map 2 Winner",
-      "prev": 0.76,
-      "now": 0.19,
-      "delta": -0.57,
-      "url": "https://polymarket.com/event/cs2-ast10-nip-2026-08-16",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 650613.69,
-      "liquidity": 83589.2
-    },
-    {
-      "market": "Cincinnati Open: Joao Fonseca vs Botic van de Zandschulp \u2014 Set 1 Winner: Fonseca vs Zandschulp",
-      "prev": 0.465,
-      "now": 0.995,
-      "delta": 0.53,
-      "url": "https://polymarket.com/event/atp-fonseca-zandsch-2026-08-16",
+      "market": "Cincinnati Open: Daria Snigur vs Madison Keys \u2014 Set 2 Winner: Snigur vs Keys",
+      "prev": 0.54,
+      "now": 0.0005,
+      "delta": -0.5395,
+      "url": "https://polymarket.com/event/wta-snigur-keys-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 5121.07,
-      "liquidity": 139852.75
+      "volume24hr": 149.41,
+      "liquidity": 7899.9
     },
     {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays \u2014 1st 5 Innings Spread: Baltimore Orioles (-1.5)",
+      "market": "Will there be a run scored in the first inning?: Boston Red Sox vs. Pittsburgh Pirates",
       "prev": 0.475,
-      "now": 0.995,
-      "delta": 0.52,
-      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
+      "now": 0.9995,
+      "delta": 0.5245,
+      "url": "https://polymarket.com/event/mlb-bos-pit-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 1511.63
+      "volume24hr": 5033.67,
+      "liquidity": 93709.9
     },
     {
-      "market": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-ast10-nip-2026-08-16",
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: Both Teams to Score in First Half",
+      "prev": 0.52,
+      "now": 0.0135,
+      "delta": -0.5065,
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 533.73,
-      "liquidity": 2082.0
+      "volume24hr": 253.82,
+      "liquidity": 588.1
     },
     {
-      "market": "Cincinnati Open: Iga Swiatek vs Emiliana Arango \u2014 Swiatek vs. Arango: Set 1 Games O/U 8.5",
+      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: RCD Espanyol de Barcelona 1st Half O/U 1.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-swiatek-arango-2026-08-16",
+      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 54.68,
-      "liquidity": 6755.77
+      "volume24hr": 394898.12,
+      "liquidity": 6168.46
     },
     {
-      "market": "Cincinnati Open: Iga Swiatek vs Emiliana Arango \u2014 Swiatek vs. Arango: Set 1 Games O/U 9.5",
+      "market": "Will there be a run scored in the first inning?: Arizona Diamondbacks vs. Atlanta Braves",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-swiatek-arango-2026-08-16",
+      "url": "https://polymarket.com/event/mlb-ari-atl-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 167011.66,
-      "liquidity": 6767.76
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Emiliana Arango \u2014 Swiatek vs. Arango: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-swiatek-arango-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 167011.66,
-      "liquidity": 6767.76
+      "volume24hr": 706.26,
+      "liquidity": 2907.06
     }
   ],
   "log": [
-    {
-      "ts": "10:30:02",
-      "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:45:01",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
@@ -268,6 +267,10 @@
     {
       "ts": "17:45:01",
       "text": " poll complete \u2014 1908 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:00:01",
+      "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
     }
   ]
 }
