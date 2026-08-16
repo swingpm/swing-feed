@@ -1,153 +1,154 @@
 {
-  "lastUpdate": "2026-08-16 16:45:01 UTC",
+  "lastUpdate": "2026-08-16 17:00:01 UTC",
   "swings": [
     {
-      "market": "AFC Ajax vs. SC Heerenveen - More Markets \u2014 AFC Ajax vs. SC Heerenveen: AFC Ajax O/U 2.5",
-      "prev": 0.635,
-      "now": 0.005,
-      "delta": -0.63,
-      "url": "https://polymarket.com/event/ere-aja-her1-2026-08-16-more-markets",
+      "market": "Burnley FC vs. West Ham United FC \u2014 Will West Ham United FC win on 2026-08-16?",
+      "prev": 0.968,
+      "now": 0.014,
+      "delta": -0.954,
+      "url": "https://polymarket.com/event/elc-bur-whu-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Eredivisie"
+        "EFL Championship"
       ],
-      "volume24hr": 6.0,
-      "liquidity": 12193.8
+      "volume24hr": 157859.16,
+      "liquidity": 138290.02
     },
     {
-      "market": "Cincinnati Open: Marco Trungelliti vs Daniil Medvedev \u2014 Set Handicap: Medvedev (-1.5) vs Trungelliti (+1.5)",
-      "prev": 0.195,
-      "now": 0.785,
-      "delta": 0.59,
-      "url": "https://polymarket.com/event/atp-trungel-medvede-2026-08-15",
+      "market": "Will Burnley FC vs. West Ham United FC end in a draw?",
+      "prev": 0.0265,
+      "now": 0.9335,
+      "delta": 0.907,
+      "url": "https://polymarket.com/event/elc-bur-whu-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "EFL Championship"
       ],
-      "volume24hr": 1214.87,
-      "liquidity": 384.15
+      "volume24hr": 10526.57,
+      "liquidity": 153724.46
     },
     {
-      "market": "Cincinnati Open: Janice Tjen vs Viktorija Golubic \u2014 Tjen vs. Golubic: Match O/U 22.5",
-      "prev": 0.66,
-      "now": 0.14,
-      "delta": -0.52,
+      "market": "Cincinnati Open: Janice Tjen vs Viktorija Golubic \u2014 Tjen vs. Golubic: Match O/U 21.5",
+      "prev": 0.265,
+      "now": 0.9945,
+      "delta": 0.7295,
       "url": "https://polymarket.com/event/wta-tjen-golubic-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 120146.31,
-      "liquidity": 165.0
+      "volume24hr": 133547.29,
+      "liquidity": 4950.65
     },
     {
-      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-townsen-rybakin-2026-08-15",
+      "market": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D",
+      "prev": 0.155,
+      "now": 0.805,
+      "delta": 0.65,
+      "url": "https://polymarket.com/event/cs2-9z-mgc-2026-08-16",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1069302.21,
+      "liquidity": 119216.74
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Viktorija Golubic \u2014 Tjen vs. Golubic: Match O/U 22.5",
+      "prev": 0.14,
+      "now": 0.75,
+      "delta": 0.61,
+      "url": "https://polymarket.com/event/wta-tjen-golubic-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 322492.4,
-      "liquidity": 2651.88
+      "volume24hr": 133547.29,
+      "liquidity": 4865.5
     },
     {
-      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-townsen-rybakin-2026-08-15",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 322492.4,
-      "liquidity": 5980.52
-    },
-    {
-      "market": "Cincinnati Open: Taylor Townsend vs Elena Rybakina \u2014 Townsend vs. Rybakina: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-townsen-rybakin-2026-08-15",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 322492.4,
-      "liquidity": 2662.44
-    },
-    {
-      "market": "Cincinnati Open: Ugo Humbert vs Michael Zheng \u2014 Humbert vs. Zheng: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-humbert-zheng-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267423.11,
-      "liquidity": 3953.74
-    },
-    {
-      "market": "Cincinnati Open: Ugo Humbert vs Michael Zheng \u2014 Humbert vs. Zheng: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-humbert-zheng-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267423.11,
-      "liquidity": 3667.39
-    },
-    {
-      "market": "Cincinnati Open: Ugo Humbert vs Michael Zheng \u2014 Humbert vs. Zheng: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-humbert-zheng-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267423.11,
-      "liquidity": 3242.36
-    },
-    {
-      "market": "Cincinnati Open: Barbora Krejcikova vs Sara Bejlek \u2014 Krejcikova vs. Bejlek: Match O/U 21.5",
-      "prev": 0.485,
-      "now": 0.9845,
-      "delta": 0.4995,
+      "market": "Cincinnati Open: Barbora Krejcikova vs Sara Bejlek \u2014 Set 2 Winner: Krejcikova vs Bejlek",
+      "prev": 0.605,
+      "now": 0.045,
+      "delta": -0.56,
       "url": "https://polymarket.com/event/wta-krejcik-bejlek-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 102.06,
-      "liquidity": 8924.5
+      "volume24hr": 103.92,
+      "liquidity": 885.07
+    },
+    {
+      "market": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D \u2014 Map 3 Total Rounds: Over/Under 21.5",
+      "prev": 0.42,
+      "now": 0.975,
+      "delta": 0.555,
+      "url": "https://polymarket.com/event/cs2-9z-mgc-2026-08-16",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 28.29,
+      "liquidity": 1900.91
+    },
+    {
+      "market": "Schalke 04 vs. Real Madrid - More Markets \u2014 Schalke 04 vs. Real Madrid: Both Teams to Score",
+      "prev": 0.53,
+      "now": 0.0005,
+      "delta": -0.5295,
+      "url": "https://polymarket.com/event/clf-sch-rma-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 1203.46,
+      "liquidity": 16433.76
+    },
+    {
+      "market": "Cincinnati Open: Barbora Krejcikova vs Sara Bejlek \u2014 Barbora Krejcikova vs. Sara Bejlek: Total Sets O/U 2.5",
+      "prev": 0.615,
+      "now": 0.09,
+      "delta": -0.525,
+      "url": "https://polymarket.com/event/wta-krejcik-bejlek-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 138.0,
+      "liquidity": 164.0
+    },
+    {
+      "market": "Schalke 04 vs. Real Madrid - More Markets \u2014 Schalke 04 vs. Real Madrid: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.0045,
+      "delta": -0.5005,
+      "url": "https://polymarket.com/event/clf-sch-rma-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 20.0,
+      "liquidity": 4411.56
     }
   ],
   "log": [
-    {
-      "ts": "09:45:01",
-      "text": " poll complete \u2014 1886 markets scanned, 0 flagged"
-    },
     {
       "ts": "09:47:11",
       "text": " poll complete \u2014 1886 markets scanned, 10 flagged"
@@ -263,6 +264,10 @@
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:00:01",
+      "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
     }
   ]
 }
