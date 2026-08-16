@@ -1,56 +1,11 @@
 {
-  "lastUpdate": "2026-08-16 13:00:01 UTC",
+  "lastUpdate": "2026-08-16 13:15:01 UTC",
   "swings": [
     {
-      "market": "Will Tottenham Hotspur vs. TSG Hoffenheim end in a draw?",
-      "prev": 0.375,
-      "now": 0.9995,
-      "delta": 0.6245,
-      "url": "https://polymarket.com/event/clf-tot-tsg-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 32031.79,
-      "liquidity": 153208.58
-    },
-    {
-      "market": "Valorant: Trace Esports vs All Gamers (BO3) - VCT China Stage 2 Playoffs \u2014 Valorant: Trace Esports vs All Gamers - Map 2 Winner",
-      "prev": 0.9,
-      "now": 0.295,
-      "delta": -0.605,
-      "url": "https://polymarket.com/event/val-te-ag1-2026-08-16",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 11695.53,
-      "liquidity": 9712.89
-    },
-    {
-      "market": "Valorant: Trace Esports vs All Gamers (BO3) - VCT China Stage 2 Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.1,
-      "now": 0.7,
-      "delta": 0.6,
-      "url": "https://polymarket.com/event/val-te-ag1-2026-08-16",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 148.73,
-      "liquidity": 41.53
-    },
-    {
-      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Go Ahead Eagles 1st Half O/U 1.5",
-      "prev": 0.52,
-      "now": 0.016,
-      "delta": -0.504,
+      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Feyenoord Rotterdam 1st Half O/U 1.5",
+      "prev": 0.165,
+      "now": 0.995,
+      "delta": 0.83,
       "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -58,97 +13,142 @@
         "Soccer",
         "Eredivisie"
       ],
-      "volume24hr": 141253.06,
-      "liquidity": 423.31
+      "volume24hr": 58.9,
+      "liquidity": 933.03
     },
     {
-      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: Odense BK 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 193973.72,
-      "liquidity": 2615.91
-    },
-    {
-      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: Odense BK 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 193973.72,
-      "liquidity": 2684.66
-    },
-    {
-      "market": "Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D \u2014 Map 2 Rounds Handicap: TheMongolz (-3.5) vs paiN (+3.5)",
-      "prev": 0.5,
+      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: 1st Half O/U 1.5",
+      "prev": 0.24,
       "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-mglz-pain-2026-08-16",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 82.09,
-      "liquidity": 759.41
-    },
-    {
-      "market": "Tottenham Hotspur vs. TSG Hoffenheim - More Markets \u2014 Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/clf-tot-tsg-2026-08-16-more-markets",
+      "delta": 0.755,
+      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Club Friendlies"
+        "Eredivisie"
       ],
-      "volume24hr": 47.6,
-      "liquidity": 6372.09
+      "volume24hr": 272.4,
+      "liquidity": 6021.73
     },
     {
-      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: AC Horsens 1st Half O/U 1.5",
+      "market": "Sion: Alex Marti Pujolras vs Maximilian Neuchrist \u2014 Sion, Switzerland, Qualifying: Completed Match: Alex Marti Pujolras vs Maximilian Neuchrist",
       "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 193973.72,
-      "liquidity": 2650.85
-    },
-    {
-      "market": "Sion: Alex Marti Pujolras vs Maximilian Neuchrist",
-      "prev": 0.395,
-      "now": 0.885,
-      "delta": 0.49,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-pujolra-neuchri-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 108457.88,
-      "liquidity": 250693.51
+      "volume24hr": 1195.0,
+      "liquidity": 6116.61
+    },
+    {
+      "market": "Valorant: Trace Esports vs All Gamers (BO3) - VCT China Stage 2 Playoffs \u2014 Map Handicap: TE (-1.5) vs All Gamers (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-te-ag1-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 3293.32
+    },
+    {
+      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game 3: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3737743.4,
+      "liquidity": 824.0
+    },
+    {
+      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game Handicap: WB (-1.5) vs Invictus Gaming (+1.5)",
+      "prev": 0.495,
+      "now": 0.0045,
+      "delta": -0.4905,
+      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 2795.33
+    },
+    {
+      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Go Ahead Eagles 1st Half O/U 1.5",
+      "prev": 0.016,
+      "now": 0.5,
+      "delta": 0.484,
+      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 145437.39,
+      "liquidity": 0.01
+    },
+    {
+      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Feyenoord Rotterdam 1st Half O/U 0.5",
+      "prev": 0.535,
+      "now": 0.9945,
+      "delta": 0.4595,
+      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 145437.39,
+      "liquidity": 1206.86
+    },
+    {
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: Hannover 96 O/U 0.5",
+      "prev": 0.74,
+      "now": 0.295,
+      "delta": -0.445,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Bundesliga 2"
+      ],
+      "volume24hr": 62.37,
+      "liquidity": 1533.66
+    },
+    {
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: Hannover 96 O/U 1.5",
+      "prev": 0.44,
+      "now": 0.025,
+      "delta": -0.415,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Bundesliga 2"
+      ],
+      "volume24hr": 29.13,
+      "liquidity": 1733.31
     }
   ],
   "log": [
@@ -259,6 +259,10 @@
     {
       "ts": "13:00:01",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:15:01",
+      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
     }
   ]
 }
