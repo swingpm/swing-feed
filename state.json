@@ -285,7 +285,7 @@
   },
   "3328557": {
     "question": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend",
-    "price": 0.12
+    "price": 0.505
   },
   "3328558": {
     "question": "Games Total: O/U 2.5",
@@ -433,15 +433,15 @@
   },
   "3434739": {
     "question": "LoL: T1 vs Gen.G - Game 2 Winner",
-    "price": 0.495
+    "price": 0.645
   },
   "3434740": {
     "question": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
-    "price": 0.255
+    "price": 0.345
   },
   "3434741": {
     "question": "Games Total: O/U 2.5",
-    "price": 0.495
+    "price": 0.675
   },
   "3434742": {
     "question": "Game Handicap: T1 (-1.5) vs Gen.G (+1.5)",
@@ -521,7 +521,7 @@
   },
   "3600485": {
     "question": "Game Handicap: GEN (-1.5) vs T1 (+1.5)",
-    "price": 0.505
+    "price": 0.355
   },
   "3600486": {
     "question": "First Blood in Game 1?",
@@ -529,7 +529,7 @@
   },
   "3600487": {
     "question": "First Blood in Game 2?",
-    "price": 0.995
+    "price": 0.9965
   },
   "3600488": {
     "question": "Total Kills Over/Under 30.5 in Game 1?",
@@ -537,7 +537,7 @@
   },
   "3600489": {
     "question": "Total Kills Over/Under 27.5 in Game 2?",
-    "price": 0.38
+    "price": 0.44
   },
   "3600490": {
     "question": "Total Kills Over/Under 27.5 in Game 1?",
@@ -577,15 +577,15 @@
   },
   "3606110": {
     "question": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
-    "price": 0.385
+    "price": 0.4
   },
   "3606111": {
     "question": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
-    "price": 0.585
+    "price": 0.605
   },
   "3606112": {
     "question": "Games Total: O/U 2.5",
-    "price": 0.5
+    "price": 0.51
   },
   "3606113": {
     "question": "Game Handicap: TY (-1.5) vs LGD Gaming (+1.5)",
@@ -661,15 +661,15 @@
   },
   "3610017": {
     "question": "Total Kills Over/Under 55.5 in Game 2?",
-    "price": 0.365
+    "price": 0.5
   },
   "3610016": {
     "question": "Total Kills Over/Under 55.5 in Game 1?",
-    "price": 0.0065
+    "price": 0.0045
   },
   "3626011": {
     "question": "Total Kills Over/Under 50.5 in Game 2?",
-    "price": 0.46
+    "price": 0.445
   },
   "3626012": {
     "question": "Total Kills Over/Under 50.5 in Game 1?",
@@ -677,7 +677,7 @@
   },
   "3627373": {
     "question": "Total Kills Over/Under 60.5 in Game 1?",
-    "price": 0.005
+    "price": 0.0005
   },
   "3627795": {
     "question": "Total Kills Over/Under 45.5 in Game 1?",
@@ -1061,7 +1061,7 @@
   },
   "601825": {
     "question": "Will Renan Santos win the 2026 Brazilian presidential election?",
-    "price": 0.0455
+    "price": 0.0475
   },
   "601826": {
     "question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
@@ -1125,7 +1125,7 @@
   },
   "2063134": {
     "question": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
-    "price": 0.004
+    "price": 0.0045
   },
   "2063135": {
     "question": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
@@ -1145,11 +1145,11 @@
   },
   "3451188": {
     "question": "Will the price of Bitcoin be above $62,000 on August 16?",
-    "price": 0.9905
+    "price": 0.9935
   },
   "3451191": {
     "question": "Will the price of Bitcoin be above $64,000 on August 16?",
-    "price": 0.006
+    "price": 0.004
   },
   "3451194": {
     "question": "Will the price of Bitcoin be above $66,000 on August 16?",
@@ -1853,7 +1853,7 @@
   },
   "3257340": {
     "question": "Will Bitcoin reach $77,500 in August?",
-    "price": 0.0085
+    "price": 0.008
   },
   "3257342": {
     "question": "Will Bitcoin reach $75,000 in August?",
@@ -1893,7 +1893,7 @@
   },
   "3257360": {
     "question": "Will Bitcoin dip to $52,500 in August?",
-    "price": 0.038
+    "price": 0.0375
   },
   "3257362": {
     "question": "Will Bitcoin dip to $50,000 in August?",
@@ -2185,7 +2185,7 @@
   },
   "3494222": {
     "question": "Will FUT Esports Win the CS2 EWC 2026?",
-    "price": 0.025
+    "price": 0.027
   },
   "3494223": {
     "question": "Will G2 Esports Win the CS2 EWC 2026?",
@@ -2301,7 +2301,7 @@
   },
   "3332802": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: O/U 1.5",
-    "price": 0.915
+    "price": 0.905
   },
   "3332803": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: O/U 2.5",
@@ -2321,7 +2321,7 @@
   },
   "3332807": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: Both Teams to Score",
-    "price": 0.635
+    "price": 0.625
   },
   "3332808": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: Both Teams to Score in First Half",
@@ -2333,31 +2333,31 @@
   },
   "3332810": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: 1st Half O/U 1.5",
-    "price": 0.475
+    "price": 0.43
   },
   "3332811": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: 1st Half O/U 2.5",
-    "price": 0.515
+    "price": 0.56
   },
   "3332812": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur O/U 0.5",
-    "price": 0.911
+    "price": 0.9105
   },
   "3332813": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur O/U 1.5",
-    "price": 0.655
+    "price": 0.65
   },
   "3332814": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur O/U 2.5",
-    "price": 0.29
+    "price": 0.28
   },
   "3332815": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: TSG Hoffenheim O/U 0.5",
-    "price": 0.76
+    "price": 0.835
   },
   "3332816": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: TSG Hoffenheim O/U 1.5",
-    "price": 0.34
+    "price": 0.33
   },
   "3332817": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: TSG Hoffenheim O/U 2.5",
@@ -2365,7 +2365,7 @@
   },
   "3332818": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur 1st Half O/U 0.5",
-    "price": 0.645
+    "price": 0.63
   },
   "3332819": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur 1st Half O/U 1.5",
@@ -2373,15 +2373,15 @@
   },
   "3332820": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: TSG Hoffenheim 1st Half O/U 0.5",
-    "price": 0.37
+    "price": 0.375
   },
   "3332821": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: TSG Hoffenheim 1st Half O/U 1.5",
-    "price": 0.49
+    "price": 0.495
   },
   "3332822": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: Both Teams to Score in Second Half",
-    "price": 0.4
+    "price": 0.38
   },
   "3332823": {
     "question": "Tottenham Hotspur vs. TSG Hoffenheim: 2nd Half O/U 0.5",
@@ -2457,7 +2457,7 @@
   },
   "3450027": {
     "question": "Arsenal FC vs. Manchester City: Both Teams to Score in First Half",
-    "price": 0.21
+    "price": 0.205
   },
   "3450029": {
     "question": "Arsenal FC vs. Manchester City: 1st Half O/U 0.5",
@@ -2493,7 +2493,7 @@
   },
   "3450040": {
     "question": "Arsenal FC vs. Manchester City: Manchester City O/U 2.5",
-    "price": 0.16
+    "price": 0.155
   },
   "3450042": {
     "question": "Arsenal FC vs. Manchester City: Arsenal FC 1st Half O/U 0.5",
@@ -2505,7 +2505,7 @@
   },
   "3450044": {
     "question": "Arsenal FC vs. Manchester City: Manchester City 1st Half O/U 0.5",
-    "price": 0.445
+    "price": 0.45
   },
   "3450045": {
     "question": "Arsenal FC vs. Manchester City: Manchester City 1st Half O/U 1.5",
@@ -2521,15 +2521,15 @@
   },
   "3450049": {
     "question": "Arsenal FC vs. Manchester City: 2nd Half O/U 1.5",
-    "price": 0.445
+    "price": 0.44
   },
   "3450051": {
     "question": "Arsenal FC vs. Manchester City: 2nd Half O/U 2.5",
-    "price": 0.2
+    "price": 0.195
   },
   "3450053": {
     "question": "Arsenal FC vs. Manchester City: Arsenal FC 2nd Half O/U 0.5",
-    "price": 0.51
+    "price": 0.495
   },
   "3450054": {
     "question": "Arsenal FC vs. Manchester City: Arsenal FC 2nd Half O/U 1.5",
@@ -2557,11 +2557,11 @@
   },
   "2736048": {
     "question": "Will Team Liquid Win The International 2026?",
-    "price": 0.11
+    "price": 0.115
   },
   "2736049": {
     "question": "Will 1w Team Win The International 2026?",
-    "price": 0.0885
+    "price": 0.09
   },
   "2736050": {
     "question": "Will Xtreme Gaming Win The International 2026?",
@@ -2569,19 +2569,19 @@
   },
   "2736051": {
     "question": "Will Team Yandex Win The International 2026?",
-    "price": 0.0485
+    "price": 0.0355
   },
   "2736052": {
     "question": "Will Team Spirit Win The International 2026?",
-    "price": 0.115
+    "price": 0.15
   },
   "2736053": {
     "question": "Will TEAM VISION Win The International 2026?",
-    "price": 0.41
+    "price": 0.4
   },
   "2736054": {
     "question": "Will Nigma Galaxy Win The International 2026?",
-    "price": 0.0775
+    "price": 0.078
   },
   "2736055": {
     "question": "Will HULIGANI Win The International 2026?",
@@ -2605,7 +2605,7 @@
   },
   "2736060": {
     "question": "Will LGD Gaming Win The International 2026?",
-    "price": 0.0435
+    "price": 0.0455
   },
   "2736061": {
     "question": "Will A Win The International 2026?",
@@ -2645,7 +2645,7 @@
   },
   "608545": {
     "question": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-    "price": 0.1525
+    "price": 0.152
   },
   "608546": {
     "question": "Will Vin\u00edcius J\u00fanior win the 2026 Ballon d'Or?",
@@ -2905,7 +2905,7 @@
   },
   "2820206": {
     "question": "Will Iran announce withdrawal from MOU negotiations by August 15?",
-    "price": 0.0185
+    "price": 0.0145
   },
   "2849065": {
     "question": "Will Iran announce withdrawal from MOU negotiations by July 10?",
@@ -2921,7 +2921,7 @@
   },
   "3332187": {
     "question": "Will Tottenham Hotspur win on 2026-08-16?",
-    "price": 0.635
+    "price": 0.615
   },
   "3332188": {
     "question": "Will Tottenham Hotspur vs. TSG Hoffenheim end in a draw?",
@@ -2953,11 +2953,11 @@
   },
   "3505966": {
     "question": "Will Elon Musk post 100-119 tweets from August 14 to August 21, 2026?",
-    "price": 0.0205
+    "price": 0.0215
   },
   "3505976": {
     "question": "Will Elon Musk post 120-139 tweets from August 14 to August 21, 2026?",
-    "price": 0.0815
+    "price": 0.081
   },
   "3505989": {
     "question": "Will Elon Musk post 140-159 tweets from August 14 to August 21, 2026?",
@@ -3037,7 +3037,7 @@
   },
   "3601582": {
     "question": "Astana: Aziz Dougaz vs Hayato Matsuoka",
-    "price": 0.31
+    "price": 0.385
   },
   "3601583": {
     "question": "Astana: Completed Match: Aziz Dougaz vs Hayato Matsuoka",
@@ -3057,7 +3057,7 @@
   },
   "3602392": {
     "question": "Dougaz vs. Matsuoka: Match O/U 21.5",
-    "price": 0.5
+    "price": 0.505
   },
   "3602391": {
     "question": "Set 1 Winner: Dougaz vs Matsuoka",
@@ -3077,7 +3077,7 @@
   },
   "3602396": {
     "question": "Dougaz vs. Matsuoka: Match O/U 22.5",
-    "price": 0.55
+    "price": 0.66
   },
   "3602398": {
     "question": "Set Handicap: Matsuoka (-1.5) vs Dougaz (+1.5)",
@@ -3089,7 +3089,7 @@
   },
   "3602399": {
     "question": "Dougaz vs. Matsuoka: Match O/U 23.5",
-    "price": 0.185
+    "price": 0.395
   },
   "3602400": {
     "question": "Dougaz vs. Matsuoka: Set 1 Games O/U 10.5",
@@ -3133,7 +3133,7 @@
   },
   "3474250": {
     "question": "Will Bitcoin dip to $60,000 August 10-16?",
-    "price": 0.004
+    "price": 0.0035
   },
   "3474258": {
     "question": "Will Bitcoin dip to $58,000 August 10-16?",
@@ -3169,11 +3169,11 @@
   },
   "3583387": {
     "question": "Games Total: O/U 2.5",
-    "price": 0.24
+    "price": 0.25
   },
   "3583388": {
     "question": "Map Handicap: NOVA (-1.5) vs TEC Esports (+1.5)",
-    "price": 0.76
+    "price": 0.775
   },
   "3583389": {
     "question": "Map 1 Total Rounds: Over/Under 22.5",
@@ -3237,7 +3237,7 @@
   },
   "704475": {
     "question": "Will James Fishback be the Republican nominee for Florida Governor?",
-    "price": 0.0105
+    "price": 0.0115
   },
   "704476": {
     "question": "Will Wilton Simpson be the Republican nominee for Florida Governor?",
@@ -3245,7 +3245,7 @@
   },
   "704477": {
     "question": "Will Jay Collins be the Republican nominee for Florida Governor?",
-    "price": 0.0025
+    "price": 0.002
   },
   "704478": {
     "question": "Will Casey DeSantis be the Republican nominee for Florida Governor?",
@@ -3281,11 +3281,11 @@
   },
   "3577298": {
     "question": "Will the highest temperature in Seoul (Incheon) be 27\u00b0C on August 16?",
-    "price": 0.9915
+    "price": 0.9875
   },
   "3577299": {
     "question": "Will the highest temperature in Seoul (Incheon) be 28\u00b0C on August 16?",
-    "price": 0.009
+    "price": 0.0095
   },
   "3577300": {
     "question": "Will the highest temperature in Seoul (Incheon) be 29\u00b0C on August 16?",
@@ -3321,7 +3321,7 @@
   },
   "1235551": {
     "question": "Will the Boston Red Sox win the 2026 World Series?",
-    "price": 0.057
+    "price": 0.0565
   },
   "1235552": {
     "question": "Will the Cleveland Guardians win the 2026 World Series?",
@@ -3433,7 +3433,7 @@
   },
   "3607406": {
     "question": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D",
-    "price": 0.645
+    "price": 0.635
   },
   "3607407": {
     "question": "Games Total: O/U 2.5",
@@ -3445,7 +3445,7 @@
   },
   "3607409": {
     "question": "Map 1 Total Rounds: Over/Under 21.5",
-    "price": 0.38
+    "price": 0.375
   },
   "3607410": {
     "question": "Map 1 Rounds Handicap: 9z (-3.5) vs magic (+3.5)",
@@ -3453,19 +3453,19 @@
   },
   "3607411": {
     "question": "Map 2 Rounds Handicap: 9z (-3.5) vs magic (+3.5)",
-    "price": 0.455
+    "price": 0.46
   },
   "3607412": {
     "question": "Map 2 Total Rounds: Over/Under 21.5",
-    "price": 0.495
+    "price": 0.5
   },
   "3607413": {
     "question": "Map 3 Total Rounds: Over/Under 21.5",
-    "price": 0.5
+    "price": 0.485
   },
   "3607414": {
     "question": "Map 3 Rounds Handicap: 9z (-3.5) vs magic (+3.5)",
-    "price": 0.5
+    "price": 0.515
   },
   "3449516": {
     "question": "Will Arsenal FC win on 2026-08-16?",
@@ -3703,6 +3703,150 @@
     "question": "Will Marion Mar\u00e9chal win the 2027 French presidential election?",
     "price": 0.0015
   },
+  "3257382": {
+    "question": "Will Ethereum reach $3,000 in August?",
+    "price": 0.0045
+  },
+  "3257384": {
+    "question": "Will Ethereum reach $2,700 in August?",
+    "price": 0.0045
+  },
+  "3257386": {
+    "question": "Will Ethereum reach $2,600 in August?",
+    "price": 0.0065
+  },
+  "3257388": {
+    "question": "Will Ethereum reach $2,500 in August?",
+    "price": 0.01
+  },
+  "3257389": {
+    "question": "Will Ethereum reach $2,400 in August?",
+    "price": 0.0155
+  },
+  "3257390": {
+    "question": "Will Ethereum reach $2,300 in August?",
+    "price": 0.027
+  },
+  "3257391": {
+    "question": "Will Ethereum reach $2,200 in August?",
+    "price": 0.065
+  },
+  "3257392": {
+    "question": "Will Ethereum reach $2,100 in August?",
+    "price": 0.175
+  },
+  "3257393": {
+    "question": "Will Ethereum reach $2,000 in August?",
+    "price": 0.465
+  },
+  "3257395": {
+    "question": "Will Ethereum reach $1,900 in August?",
+    "price": 1.0
+  },
+  "3257397": {
+    "question": "Will Ethereum dip to $1,800 in August?",
+    "price": 0.56
+  },
+  "3257399": {
+    "question": "Will Ethereum dip to $1,700 in August?",
+    "price": 0.195
+  },
+  "3257401": {
+    "question": "Will Ethereum dip to $1,600 in August?",
+    "price": 0.075
+  },
+  "3257403": {
+    "question": "Will Ethereum dip to $1,500 in August?",
+    "price": 0.045
+  },
+  "3257405": {
+    "question": "Will Ethereum dip to $1,400 in August?",
+    "price": 0.0235
+  },
+  "3257407": {
+    "question": "Will Ethereum dip to $1,300 in August?",
+    "price": 0.005
+  },
+  "3257409": {
+    "question": "Will Ethereum dip to $1,200 in August?",
+    "price": 0.008
+  },
+  "3257411": {
+    "question": "Will Ethereum dip to $1,100 in August?",
+    "price": 0.0055
+  },
+  "3257413": {
+    "question": "Will Ethereum dip to $1,000 in August?",
+    "price": 0.0035
+  },
+  "3257416": {
+    "question": "Will Ethereum dip to $900 in August?",
+    "price": 0.0015
+  },
+  "3383229": {
+    "question": "Will Ethereum dip to $1,900 in August?",
+    "price": 1.0
+  },
+  "3402349": {
+    "question": "Will Ethereum dip to $1,900 in August?",
+    "price": 1.0
+  },
+  "3492744": {
+    "question": "Will Ethereum reach $1,900 in August?",
+    "price": 1.0
+  },
+  "3542316": {
+    "question": "Will Ethereum reach $1,900 in August?",
+    "price": 1.0
+  },
+  "3565575": {
+    "question": "Will Ethereum reach $1,900 in August?",
+    "price": 0.921
+  },
+  "3451138": {
+    "question": "Will the price of Bitcoin be less than $56,000 on August 16?",
+    "price": 0.0005
+  },
+  "3451140": {
+    "question": "Will the price of Bitcoin be between $56,000 and $58,000 on August 16?",
+    "price": 0.0005
+  },
+  "3451143": {
+    "question": "Will the price of Bitcoin be between $58,000 and $60,000 on August 16?",
+    "price": 0.001
+  },
+  "3451144": {
+    "question": "Will the price of Bitcoin be between $60,000 and $62,000 on August 16?",
+    "price": 0.0085
+  },
+  "3451147": {
+    "question": "Will the price of Bitcoin be between $62,000 and $64,000 on August 16?",
+    "price": 0.9875
+  },
+  "3451150": {
+    "question": "Will the price of Bitcoin be between $64,000 and $66,000 on August 16?",
+    "price": 0.0045
+  },
+  "3451154": {
+    "question": "Will the price of Bitcoin be between $66,000 and $68,000 on August 16?",
+    "price": 0.0005
+  },
+  "3451158": {
+    "question": "Will the price of Bitcoin be between $68,000 and $70,000 on August 16?",
+    "price": 0.0005
+  },
+  "3451160": {
+    "question": "Will the price of Bitcoin be between $70,000 and $72,000 on August 16?",
+    "price": 0.0005
+  },
+  "3451163": {
+    "question": "Will the price of Bitcoin be between $72,000 and $74,000 on August 16?",
+    "price": 0.0005
+  },
+  "3451165": {
+    "question": "Will the price of Bitcoin be greater than $74,000 on August 16?",
+    "price": 0.0005
+  },
   "2243296": {
     "question": "Will Atlanta Hawks win the 2027 NBA Finals?",
     "price": 0.0095
@@ -3823,153 +3967,9 @@
     "question": "Will Utah Jazz win the 2027 NBA Finals?",
     "price": 0.0075
   },
-  "3257382": {
-    "question": "Will Ethereum reach $3,000 in August?",
-    "price": 0.0045
-  },
-  "3257384": {
-    "question": "Will Ethereum reach $2,700 in August?",
-    "price": 0.0045
-  },
-  "3257386": {
-    "question": "Will Ethereum reach $2,600 in August?",
-    "price": 0.0065
-  },
-  "3257388": {
-    "question": "Will Ethereum reach $2,500 in August?",
-    "price": 0.01
-  },
-  "3257389": {
-    "question": "Will Ethereum reach $2,400 in August?",
-    "price": 0.0155
-  },
-  "3257390": {
-    "question": "Will Ethereum reach $2,300 in August?",
-    "price": 0.027
-  },
-  "3257391": {
-    "question": "Will Ethereum reach $2,200 in August?",
-    "price": 0.065
-  },
-  "3257392": {
-    "question": "Will Ethereum reach $2,100 in August?",
-    "price": 0.175
-  },
-  "3257393": {
-    "question": "Will Ethereum reach $2,000 in August?",
-    "price": 0.465
-  },
-  "3257395": {
-    "question": "Will Ethereum reach $1,900 in August?",
-    "price": 1.0
-  },
-  "3257397": {
-    "question": "Will Ethereum dip to $1,800 in August?",
-    "price": 0.565
-  },
-  "3257399": {
-    "question": "Will Ethereum dip to $1,700 in August?",
-    "price": 0.195
-  },
-  "3257401": {
-    "question": "Will Ethereum dip to $1,600 in August?",
-    "price": 0.075
-  },
-  "3257403": {
-    "question": "Will Ethereum dip to $1,500 in August?",
-    "price": 0.045
-  },
-  "3257405": {
-    "question": "Will Ethereum dip to $1,400 in August?",
-    "price": 0.0235
-  },
-  "3257407": {
-    "question": "Will Ethereum dip to $1,300 in August?",
-    "price": 0.005
-  },
-  "3257409": {
-    "question": "Will Ethereum dip to $1,200 in August?",
-    "price": 0.008
-  },
-  "3257411": {
-    "question": "Will Ethereum dip to $1,100 in August?",
-    "price": 0.0055
-  },
-  "3257413": {
-    "question": "Will Ethereum dip to $1,000 in August?",
-    "price": 0.0035
-  },
-  "3257416": {
-    "question": "Will Ethereum dip to $900 in August?",
-    "price": 0.0015
-  },
-  "3383229": {
-    "question": "Will Ethereum dip to $1,900 in August?",
-    "price": 1.0
-  },
-  "3402349": {
-    "question": "Will Ethereum dip to $1,900 in August?",
-    "price": 1.0
-  },
-  "3492744": {
-    "question": "Will Ethereum reach $1,900 in August?",
-    "price": 1.0
-  },
-  "3542316": {
-    "question": "Will Ethereum reach $1,900 in August?",
-    "price": 1.0
-  },
-  "3565575": {
-    "question": "Will Ethereum reach $1,900 in August?",
-    "price": 0.921
-  },
-  "3451138": {
-    "question": "Will the price of Bitcoin be less than $56,000 on August 16?",
-    "price": 0.0005
-  },
-  "3451140": {
-    "question": "Will the price of Bitcoin be between $56,000 and $58,000 on August 16?",
-    "price": 0.0005
-  },
-  "3451143": {
-    "question": "Will the price of Bitcoin be between $58,000 and $60,000 on August 16?",
-    "price": 0.001
-  },
-  "3451144": {
-    "question": "Will the price of Bitcoin be between $60,000 and $62,000 on August 16?",
-    "price": 0.0085
-  },
-  "3451147": {
-    "question": "Will the price of Bitcoin be between $62,000 and $64,000 on August 16?",
-    "price": 0.9875
-  },
-  "3451150": {
-    "question": "Will the price of Bitcoin be between $64,000 and $66,000 on August 16?",
-    "price": 0.0045
-  },
-  "3451154": {
-    "question": "Will the price of Bitcoin be between $66,000 and $68,000 on August 16?",
-    "price": 0.0005
-  },
-  "3451158": {
-    "question": "Will the price of Bitcoin be between $68,000 and $70,000 on August 16?",
-    "price": 0.0005
-  },
-  "3451160": {
-    "question": "Will the price of Bitcoin be between $70,000 and $72,000 on August 16?",
-    "price": 0.0005
-  },
-  "3451163": {
-    "question": "Will the price of Bitcoin be between $72,000 and $74,000 on August 16?",
-    "price": 0.0005
-  },
-  "3451165": {
-    "question": "Will the price of Bitcoin be greater than $74,000 on August 16?",
-    "price": 0.0005
-  },
   "3565497": {
     "question": "Will Elon Musk post <40 tweets from August 15 to August 17, 2026?",
-    "price": 0.17
+    "price": 0.165
   },
   "3565498": {
     "question": "Will Elon Musk post 40-64 tweets from August 15 to August 17, 2026?",
@@ -4073,7 +4073,7 @@
   },
   "3451148": {
     "question": "Will the price of Ethereum be above $1,900 on August 16?",
-    "price": 0.0225
+    "price": 0.0215
   },
   "3451153": {
     "question": "Will the price of Ethereum be above $2,000 on August 16?",
@@ -4209,7 +4209,7 @@
   },
   "3577378": {
     "question": "Will the highest temperature in Hong Kong be 33\u00b0C on August 16?",
-    "price": 0.9975
+    "price": 0.998
   },
   "3577379": {
     "question": "Will the highest temperature in Hong Kong be 34\u00b0C on August 16?",
@@ -4229,7 +4229,7 @@
   },
   "3096407": {
     "question": "Will WTI Crude Oil (WTI) hit (HIGH) $150 in August?",
-    "price": 0.0035
+    "price": 0.004
   },
   "3096408": {
     "question": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in August?",
@@ -4317,7 +4317,7 @@
   },
   "3310013": {
     "question": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in August?",
-    "price": 0.635
+    "price": 0.645
   },
   "3340541": {
     "question": "Will WTI Crude Oil (WTI) hit (HIGH) $80 in August?",
@@ -4349,7 +4349,7 @@
   },
   "1088475": {
     "question": "Will Alexander Zverev win the 2026 Men's US Open?",
-    "price": 0.1315
+    "price": 0.132
   },
   "1088476": {
     "question": "Will Ben Shelton win the 2026 Men's US Open?",
@@ -4481,7 +4481,7 @@
   },
   "3617666": {
     "question": "Map Handicap: JL (-1.5) vs Fire Flux Esports (+1.5)",
-    "price": 0.26
+    "price": 0.255
   },
   "3617667": {
     "question": "Map 1 Total Rounds: Over/Under 20.5",
@@ -4517,15 +4517,15 @@
   },
   "3617675": {
     "question": "Map 3 Total Rounds: Over/Under 20.5",
-    "price": 0.505
+    "price": 0.49
   },
   "3617676": {
     "question": "Map 3 Total Rounds: Over/Under 22.5",
-    "price": 0.505
+    "price": 0.5
   },
   "3617677": {
     "question": "Map 3 Total Rounds: Over/Under 21.5",
-    "price": 0.485
+    "price": 0.49
   },
   "3617678": {
     "question": "Map 3 Rounds Handicap: Joblife (-2.5) vs Fire Flux Esports (+2.5)",
@@ -4545,7 +4545,7 @@
   },
   "3626652": {
     "question": "Map 3 Rounds Handicap: Fire Flux Esports (-2.5) vs Joblife (+2.5)",
-    "price": 0.51
+    "price": 0.495
   },
   "2771489": {
     "question": "Will Alav\u00e9s win the 2026-27 LALIGA Championship?",
@@ -4649,7 +4649,7 @@
   },
   "3582697": {
     "question": "Counter-Strike: Astralis vs NIP - Map 2 Winner",
-    "price": 0.545
+    "price": 0.555
   },
   "3582698": {
     "question": "Counter-Strike: Astralis vs NIP (BO3) - Esports World Cup Group B",
@@ -4677,7 +4677,7 @@
   },
   "3582704": {
     "question": "Map 2 Rounds Handicap: Astralis (-3.5) vs NIP (+3.5)",
-    "price": 0.415
+    "price": 0.42
   },
   "3582705": {
     "question": "Map 3 Rounds Handicap: Astralis (-3.5) vs NIP (+3.5)",
@@ -4685,7 +4685,7 @@
   },
   "3582706": {
     "question": "Map 3 Total Rounds: Over/Under 21.5",
-    "price": 0.505
+    "price": 0.51
   },
   "2941315": {
     "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
@@ -5025,7 +5025,7 @@
   },
   "3604349": {
     "question": "Map 3 Total Rounds: Over/Under 21.5",
-    "price": 0.38
+    "price": 0.395
   },
   "3604348": {
     "question": "Map 2 Rounds Handicap: Vitality (-6.5) vs Lynn Vision (+6.5)",
@@ -5037,7 +5037,7 @@
   },
   "3604351": {
     "question": "Map 3 Total Rounds: Over/Under 18.5",
-    "price": 0.38
+    "price": 0.385
   },
   "3604352": {
     "question": "Map 1 Total Rounds: Over/Under 21.5",
@@ -5057,7 +5057,7 @@
   },
   "3419367": {
     "question": "Will Real Madrid win on 2026-08-16?",
-    "price": 0.72
+    "price": 0.715
   },
   "3618048": {
     "question": "Counter-Strike: RoundsGG vs Vexar - Map 1 Winner",
@@ -5065,11 +5065,11 @@
   },
   "3618049": {
     "question": "Counter-Strike: RoundsGG vs Vexar - Map 2 Winner",
-    "price": 0.055
+    "price": 0.06
   },
   "3618050": {
     "question": "Counter-Strike: RoundsGG vs Vexar (BO3) - Exort Fiesta Closed Qualifier: Series #1 Group A",
-    "price": 0.12
+    "price": 0.115
   },
   "3618051": {
     "question": "Games Total: O/U 2.5",
@@ -5101,7 +5101,7 @@
   },
   "3577573": {
     "question": "Will the highest temperature in Kuala Lumpur be 33\u00b0C on August 16?",
-    "price": 0.998
+    "price": 0.9975
   },
   "3577574": {
     "question": "Will the highest temperature in Kuala Lumpur be 34\u00b0C on August 16?",
@@ -5157,11 +5157,11 @@
   },
   "3604519": {
     "question": "Map 3 Rounds Handicap: TheMongolz (-3.5) vs paiN (+3.5)",
-    "price": 0.475
+    "price": 0.515
   },
   "3604520": {
     "question": "Map 3 Total Rounds: Over/Under 21.5",
-    "price": 0.495
+    "price": 0.505
   },
   "3474287": {
     "question": "Will Ethereum reach $2,600 August 10-16?",
@@ -5189,7 +5189,7 @@
   },
   "3474302": {
     "question": "Will Ethereum reach $2,000 August 10-16?",
-    "price": 0.0035
+    "price": 0.005
   },
   "3474306": {
     "question": "Will Ethereum dip to $1,800 August 10-16?",
@@ -5653,7 +5653,7 @@
   },
   "3577508": {
     "question": "Will the highest temperature in Shenzhen be 34\u00b0C on August 16?",
-    "price": 0.001
+    "price": 0.0015
   },
   "3577509": {
     "question": "Will the highest temperature in Shenzhen be 35\u00b0C on August 16?",
@@ -5665,7 +5665,7 @@
   },
   "3577511": {
     "question": "Will the highest temperature in Shenzhen be 37\u00b0C or higher on August 16?",
-    "price": 0.004
+    "price": 0.0025
   },
   "3526959": {
     "question": "LoL: Movistar KOI vs Natus Vincere - Game 1 Winner",
@@ -5705,7 +5705,7 @@
   },
   "3526968": {
     "question": "Game 1: Any Player Penta Kill?",
-    "price": 0.47
+    "price": 0.5
   },
   "3526969": {
     "question": "Game 1: Odd/Even Total Kills?",
@@ -5729,7 +5729,7 @@
   },
   "3526974": {
     "question": "Game 2: Any Player Penta Kill?",
-    "price": 0.47
+    "price": 0.5
   },
   "3526975": {
     "question": "Game 2: Odd/Even Total Kills?",
@@ -5737,11 +5737,11 @@
   },
   "3526976": {
     "question": "Game 3: Both Teams Slay Baron Nashor?",
-    "price": 0.52
+    "price": 0.5
   },
   "3526977": {
     "question": "Game 3: Both Teams Slay a Dragon?",
-    "price": 0.48
+    "price": 0.5
   },
   "3526978": {
     "question": "Game 3: Both Teams Destroy Inhibitors?",
@@ -5793,7 +5793,7 @@
   },
   "3626016": {
     "question": "Game Handicap: MKOI (-1.5) vs Natus Vincere (+1.5)",
-    "price": 0.285
+    "price": 0.28
   },
   "2774057": {
     "question": "Strait of Hormuz traffic returns to normal by September 30?",
@@ -6081,7 +6081,7 @@
   },
   "3619259": {
     "question": "Sion: Daniel Salazar Martinez vs Lorenzo Bocchi",
-    "price": 0.475
+    "price": 0.22
   },
   "3619260": {
     "question": "Sion, Switzerland, Qualifying: Completed Match: Daniel Salazar Martinez vs Lorenzo Bocchi",
@@ -6101,7 +6101,7 @@
   },
   "3577364": {
     "question": "Will the highest temperature in Tokyo be 27\u00b0C on August 16?",
-    "price": 0.005
+    "price": 0.0055
   },
   "3577365": {
     "question": "Will the highest temperature in Tokyo be 28\u00b0C on August 16?",
@@ -6301,19 +6301,19 @@
   },
   "3577339": {
     "question": "Will the highest temperature in Munich be 28\u00b0C or below on August 16?",
-    "price": 0.023
+    "price": 0.0245
   },
   "3577340": {
     "question": "Will the highest temperature in Munich be 29\u00b0C on August 16?",
-    "price": 0.115
+    "price": 0.105
   },
   "3577341": {
     "question": "Will the highest temperature in Munich be 30\u00b0C on August 16?",
-    "price": 0.155
+    "price": 0.205
   },
   "3577342": {
     "question": "Will the highest temperature in Munich be 31\u00b0C on August 16?",
-    "price": 0.475
+    "price": 0.465
   },
   "3577343": {
     "question": "Will the highest temperature in Munich be 32\u00b0C on August 16?",
@@ -6321,11 +6321,11 @@
   },
   "3577344": {
     "question": "Will the highest temperature in Munich be 33\u00b0C on August 16?",
-    "price": 0.055
+    "price": 0.045
   },
   "3577345": {
     "question": "Will the highest temperature in Munich be 34\u00b0C on August 16?",
-    "price": 0.015
+    "price": 0.014
   },
   "3577346": {
     "question": "Will the highest temperature in Munich be 35\u00b0C on August 16?",
@@ -6425,7 +6425,7 @@
   },
   "3589363": {
     "question": "Map 3 Total Rounds: Over/Under 21.5",
-    "price": 0.49
+    "price": 0.495
   },
   "3589364": {
     "question": "Map 3 Rounds Handicap: MOUZ (-3.5) vs PARIVISION (+3.5)",
@@ -6441,7 +6441,7 @@
   },
   "3335369": {
     "question": "Spread: Associa\u00e7\u00e3o Chapecoense de Futebol (-2.5)",
-    "price": 0.0255
+    "price": 0.0265
   },
   "3335370": {
     "question": "Spread: EC Bahia (-2.5)",
@@ -6481,7 +6481,7 @@
   },
   "3335380": {
     "question": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: 1st Half O/U 0.5",
-    "price": 0.685
+    "price": 0.695
   },
   "3335381": {
     "question": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: 1st Half O/U 1.5",
@@ -6545,7 +6545,7 @@
   },
   "3335398": {
     "question": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: 2nd Half O/U 2.5",
-    "price": 0.19
+    "price": 0.185
   },
   "3335399": {
     "question": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: Associa\u00e7\u00e3o Chapecoense de Futebol 2nd Half O/U 0.5",
@@ -6553,15 +6553,15 @@
   },
   "3335400": {
     "question": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: Associa\u00e7\u00e3o Chapecoense de Futebol 2nd Half O/U 1.5",
-    "price": 0.125
+    "price": 0.13
   },
   "3335402": {
     "question": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: EC Bahia 2nd Half O/U 0.5",
-    "price": 0.585
+    "price": 0.58
   },
   "3335403": {
     "question": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: EC Bahia 2nd Half O/U 1.5",
-    "price": 0.215
+    "price": 0.21
   },
   "3328578": {
     "question": "LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner",
@@ -6585,11 +6585,11 @@
   },
   "3328583": {
     "question": "Game 1: Both Teams Slay Baron Nashor?",
-    "price": 0.495
+    "price": 0.5
   },
   "3328584": {
     "question": "Game 1: Both Teams Slay a Dragon?",
-    "price": 0.495
+    "price": 0.5
   },
   "3328585": {
     "question": "Game 1: Both Teams Destroy Inhibitors?",
@@ -6601,7 +6601,7 @@
   },
   "3328587": {
     "question": "Game 1: Any Player Penta Kill?",
-    "price": 0.2
+    "price": 0.205
   },
   "3328588": {
     "question": "Game 1: Odd/Even Total Kills?",
@@ -6613,7 +6613,7 @@
   },
   "3328590": {
     "question": "Game 2: Both Teams Slay a Dragon?",
-    "price": 0.505
+    "price": 0.495
   },
   "3328591": {
     "question": "Game 2: Both Teams Destroy Inhibitors?",
@@ -6625,7 +6625,7 @@
   },
   "3328593": {
     "question": "Game 2: Any Player Penta Kill?",
-    "price": 0.2
+    "price": 0.205
   },
   "3328594": {
     "question": "Game 2: Odd/Even Total Kills?",
@@ -6657,7 +6657,7 @@
   },
   "3600771": {
     "question": "First Blood in Game 1?",
-    "price": 0.5
+    "price": 0.49
   },
   "3600772": {
     "question": "First Blood in Game 2?",
@@ -6673,7 +6673,7 @@
   },
   "3600775": {
     "question": "Total Kills Over/Under 30.5 in Game 1?",
-    "price": 0.475
+    "price": 0.47
   },
   "3600776": {
     "question": "Total Kills Over/Under 30.5 in Game 2?",
@@ -6729,15 +6729,15 @@
   },
   "3421358": {
     "question": "Will Bud Cauley win the 2026 FedEx St. Jude Championship?",
-    "price": 0.003
+    "price": 0.005
   },
   "3421360": {
     "question": "Will Wyndham Clark win the 2026 FedEx St. Jude Championship?",
-    "price": 0.005
+    "price": 0.004
   },
   "3421362": {
     "question": "Will Eric Cole win the 2026 FedEx St. Jude Championship?",
-    "price": 0.005
+    "price": 0.004
   },
   "3421364": {
     "question": "Will Corey Conners win the 2026 FedEx St. Jude Championship?",
@@ -6757,7 +6757,7 @@
   },
   "3421375": {
     "question": "Will Steven Fisk win the 2026 FedEx St. Jude Championship?",
-    "price": 0.053
+    "price": 0.0585
   },
   "3421378": {
     "question": "Will Alex Fitzpatrick win the 2026 FedEx St. Jude Championship?",
@@ -6765,7 +6765,7 @@
   },
   "3421382": {
     "question": "Will Matt Fitzpatrick win the 2026 FedEx St. Jude Championship?",
-    "price": 0.0055
+    "price": 0.0045
   },
   "3421388": {
     "question": "Will Tommy Fleetwood win the 2026 FedEx St. Jude Championship?",
@@ -6785,7 +6785,7 @@
   },
   "3421399": {
     "question": "Will Chris Gotterup win the 2026 FedEx St. Jude Championship?",
-    "price": 0.005
+    "price": 0.0035
   },
   "3421402": {
     "question": "Will Ben Griffin win the 2026 FedEx St. Jude Championship?",
@@ -6793,11 +6793,11 @@
   },
   "3421404": {
     "question": "Will Harry Hall win the 2026 FedEx St. Jude Championship?",
-    "price": 0.003
+    "price": 0.005
   },
   "3421406": {
     "question": "Will Brian Harman win the 2026 FedEx St. Jude Championship?",
-    "price": 0.0055
+    "price": 0.005
   },
   "3421408": {
     "question": "Will Russell Henley win the 2026 FedEx St. Jude Championship?",
@@ -6813,7 +6813,7 @@
   },
   "3421416": {
     "question": "Will Max Homa win the 2026 FedEx St. Jude Championship?",
-    "price": 0.005
+    "price": 0.004
   },
   "3421418": {
     "question": "Will Viktor Hovland win the 2026 FedEx St. Jude Championship?",
@@ -6833,15 +6833,15 @@
   },
   "3421428": {
     "question": "Will Tom Kim win the 2026 FedEx St. Jude Championship?",
-    "price": 0.0035
+    "price": 0.0065
   },
   "3421431": {
     "question": "Will Kurt Kitayama win the 2026 FedEx St. Jude Championship?",
-    "price": 0.0055
+    "price": 0.005
   },
   "3421434": {
     "question": "Will Jake Knapp win the 2026 FedEx St. Jude Championship?",
-    "price": 0.0135
+    "price": 0.013
   },
   "3421438": {
     "question": "Will Jackson Koivun win the 2026 FedEx St. Jude Championship?",
@@ -6877,7 +6877,7 @@
   },
   "3421460": {
     "question": "Will Keith Mitchell win the 2026 FedEx St. Jude Championship?",
-    "price": 0.003
+    "price": 0.005
   },
   "3421464": {
     "question": "Will Collin Morikawa win the 2026 FedEx St. Jude Championship?",
@@ -6897,11 +6897,11 @@
   },
   "3421475": {
     "question": "Will Aaron Rai win the 2026 FedEx St. Jude Championship?",
-    "price": 0.005
+    "price": 0.004
   },
   "3421478": {
     "question": "Will Kristoffer Reitan win the 2026 FedEx St. Jude Championship?",
-    "price": 0.003
+    "price": 0.0045
   },
   "3421480": {
     "question": "Will Patrick Rodgers win the 2026 FedEx St. Jude Championship?",
@@ -6933,7 +6933,7 @@
   },
   "3421492": {
     "question": "Will Jordan L. Smith win the 2026 FedEx St. Jude Championship?",
-    "price": 0.004
+    "price": 0.003
   },
   "3421495": {
     "question": "Will J.J. Spaun win the 2026 FedEx St. Jude Championship?",
@@ -6941,19 +6941,19 @@
   },
   "3421498": {
     "question": "Will Jordan Spieth win the 2026 FedEx St. Jude Championship?",
-    "price": 0.0045
+    "price": 0.005
   },
   "3421500": {
     "question": "Will Sam Stevens win the 2026 FedEx St. Jude Championship?",
-    "price": 0.0025
+    "price": 0.0055
   },
   "3421503": {
     "question": "Will Sepp Straka win the 2026 FedEx St. Jude Championship?",
-    "price": 0.005
+    "price": 0.004
   },
   "3421506": {
     "question": "Will Nick Taylor win the 2026 FedEx St. Jude Championship?",
-    "price": 0.003
+    "price": 0.005
   },
   "3421509": {
     "question": "Will Sahith Theegala win the 2026 FedEx St. Jude Championship?",
@@ -6961,19 +6961,19 @@
   },
   "3421511": {
     "question": "Will Justin Thomas win the 2026 FedEx St. Jude Championship?",
-    "price": 0.006
+    "price": 0.0055
   },
   "3421513": {
     "question": "Will Michael Thorbjornsen win the 2026 FedEx St. Jude Championship?",
-    "price": 0.0045
+    "price": 0.0035
   },
   "3421515": {
     "question": "Will Gary Woodland win the 2026 FedEx St. Jude Championship?",
-    "price": 0.0025
+    "price": 0.006
   },
   "3421517": {
     "question": "Will Sudarshan Yellamaraju win the 2026 FedEx St. Jude Championship?",
-    "price": 0.005
+    "price": 0.004
   },
   "3421519": {
     "question": "Will Cameron Young win the 2026 FedEx St. Jude Championship?",
@@ -7057,7 +7057,7 @@
   },
   "2364950": {
     "question": "Will Trump and Putin meet next in Turkey?",
-    "price": 0.006
+    "price": 0.0055
   },
   "2364951": {
     "question": "Will Trump and Putin meet next in Finland?",
@@ -7129,7 +7129,7 @@
   },
   "3328605": {
     "question": "Game Handicap: TES (-1.5) vs EDward Gaming (+1.5)",
-    "price": 0.585
+    "price": 0.595
   },
   "3328606": {
     "question": "Game 1: Both Teams Slay Baron Nashor?",
@@ -7209,23 +7209,23 @@
   },
   "3601610": {
     "question": "First Blood in Game 1?",
-    "price": 0.63
+    "price": 0.64
   },
   "3601612": {
     "question": "Total Kills Over/Under 33.5 in Game 2?",
-    "price": 0.385
+    "price": 0.375
   },
   "3601613": {
     "question": "Total Kills Over/Under 30.5 in Game 1?",
-    "price": 0.52
+    "price": 0.53
   },
   "3601615": {
     "question": "Total Kills Over/Under 30.5 in Game 2?",
-    "price": 0.51
+    "price": 0.515
   },
   "3601614": {
     "question": "Total Kills Over/Under 33.5 in Game 1?",
-    "price": 0.375
+    "price": 0.38
   },
   "3527829": {
     "question": "Will Paju Frontier FC win on 2026-08-16?",
