@@ -1,85 +1,101 @@
 {
-  "lastUpdate": "2026-08-16 14:45:01 UTC",
+  "lastUpdate": "2026-08-16 15:00:01 UTC",
   "swings": [
     {
-      "market": "Hamburg: Jan Kumstat vs Marvin Moeller",
-      "prev": 0.415,
-      "now": 0.9995,
-      "delta": 0.5845,
-      "url": "https://polymarket.com/event/atp-kumstat-moelle-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 386880.04,
-      "liquidity": 493758.54
-    },
-    {
-      "market": "Watford FC vs. Southampton FC - More Markets \u2014 Watford FC vs. Southampton FC: 2nd Half O/U 1.5",
-      "prev": 0.57,
-      "now": 0.0045,
-      "delta": -0.5655,
-      "url": "https://polymarket.com/event/elc-wat-sot-2026-08-16-more-markets",
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: EC Bahia 1st Half O/U 1.5",
+      "prev": 0.165,
+      "now": 0.9945,
+      "delta": 0.8295,
+      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "Brazil Serie A"
       ],
-      "volume24hr": 152524.35,
-      "liquidity": 3453.78
+      "volume24hr": 129.46,
+      "liquidity": 2545.86
     },
     {
-      "market": "Watford FC vs. Southampton FC - More Markets \u2014 Watford FC vs. Southampton FC: Both Teams to Score in Second Half",
-      "prev": 0.515,
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. EC Bahia: 1st Half O/U 2.5",
+      "prev": 0.255,
+      "now": 0.9955,
+      "delta": 0.7405,
+      "url": "https://polymarket.com/event/bra-cha-bah-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 112.51,
+      "liquidity": 6279.59
+    },
+    {
+      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: 1st Half O/U 2.5",
+      "prev": 0.615,
       "now": 0.005,
-      "delta": -0.51,
-      "url": "https://polymarket.com/event/elc-wat-sot-2026-08-16-more-markets",
+      "delta": -0.61,
+      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "FA Community Shield"
       ],
-      "volume24hr": 152524.35,
-      "liquidity": 4493.59
+      "volume24hr": 5970.54,
+      "liquidity": 35810.27
     },
     {
-      "market": "Watford FC vs. Southampton FC - More Markets \u2014 Watford FC vs. Southampton FC: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/elc-wat-sot-2026-08-16-more-markets",
+      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: Both Teams to Score in First Half",
+      "prev": 0.565,
+      "now": 0.0055,
+      "delta": -0.5595,
+      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "FA Community Shield"
       ],
-      "volume24hr": 152524.35,
-      "liquidity": 3466.75
+      "volume24hr": 537.11,
+      "liquidity": 9999.7
     },
     {
-      "market": "Watford FC vs. Southampton FC - More Markets \u2014 Watford FC vs. Southampton FC: Watford FC 2nd Half O/U 0.5",
+      "market": "Arsenal FC vs. Manchester City - More Markets \u2014 Arsenal FC vs. Manchester City: Manchester City 1st Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/elc-wat-sot-2026-08-16-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/ecs-ars-mci-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "FA Community Shield"
       ],
-      "volume24hr": 152524.35,
-      "liquidity": 3536.47
+      "volume24hr": 357.3,
+      "liquidity": 10032.43
     },
     {
-      "market": "LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 2?",
+      "market": "Valorant: Eternal Fire vs Eintracht Frankfurt (BO3) - VCT EMEA Play-Ins \u2014 Map 2 Total Rounds: Over/Under 22.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-ef-sge-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 199782.91,
+      "liquidity": 116.12
+    },
+    {
+      "market": "LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
       "url": "https://polymarket.com/event/lol-tes-edg-2026-08-16",
       "tags": [
         "Esports",
@@ -87,74 +103,56 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 365.11,
-      "liquidity": 880.28
+      "volume24hr": 1851683.15,
+      "liquidity": 736.01
     },
     {
-      "market": "Hamburg: Jan Kumstat vs Marvin Moeller \u2014 Hamburg: Completed Match: Jan Kumstat vs Marvin Moeller",
-      "prev": 0.5,
+      "market": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.505,
       "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-kumstat-moelle-2026-08-16",
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/cs2-9z-mgc-2026-08-16",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 387912.77,
-      "liquidity": 945.52
+      "volume24hr": 5.0,
+      "liquidity": 1229.16
     },
     {
-      "market": "Watford FC vs. Southampton FC - More Markets \u2014 Watford FC vs. Southampton FC: Watford FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/elc-wat-sot-2026-08-16-more-markets",
+      "market": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D \u2014 Map 1 Total Rounds: Over/Under 24.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/cs2-9z-mgc-2026-08-16",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "EFL Championship"
+        "Sports"
       ],
-      "volume24hr": 152524.35,
-      "liquidity": 4055.43
+      "volume24hr": 807763.98,
+      "liquidity": 1087.47
     },
     {
-      "market": "Watford FC vs. Southampton FC - More Markets \u2014 Watford FC vs. Southampton FC: Southampton FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/elc-wat-sot-2026-08-16-more-markets",
+      "market": "LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.515,
+      "now": 0.995,
+      "delta": 0.48,
+      "url": "https://polymarket.com/event/lol-tes-edg-2026-08-16",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "EFL Championship"
+        "Sports"
       ],
-      "volume24hr": 152524.35,
-      "liquidity": 4493.59
-    },
-    {
-      "market": "Watford FC vs. Southampton FC - More Markets \u2014 Watford FC vs. Southampton FC: Watford FC O/U 2.5",
-      "prev": 0.495,
-      "now": 0.0045,
-      "delta": -0.4905,
-      "url": "https://polymarket.com/event/elc-wat-sot-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "EFL Championship"
-      ],
-      "volume24hr": 152524.35,
-      "liquidity": 12061.54
+      "volume24hr": 695.69,
+      "liquidity": 723.69
     }
   ],
   "log": [
-    {
-      "ts": "09:09:40",
-      "text": " poll complete \u2014 1834 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:15:01",
       "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
@@ -270,6 +268,10 @@
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:00:01",
+      "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
     }
   ]
 }
