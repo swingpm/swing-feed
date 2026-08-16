@@ -1,159 +1,157 @@
 {
-  "lastUpdate": "2026-08-16 19:15:01 UTC",
+  "lastUpdate": "2026-08-16 19:30:01 UTC",
   "swings": [
     {
-      "market": "Washington Nationals vs. New York Mets \u2014 1st 5 Innings Spread: New York Mets (-1.5)",
-      "prev": 0.275,
-      "now": 0.9995,
-      "delta": 0.7245,
-      "url": "https://polymarket.com/event/mlb-wsh-nym-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 118904.48,
-      "liquidity": 1713.71
-    },
-    {
-      "market": "Washington Nationals vs. New York Mets: 1st 5 Innings O/U 5.5",
-      "prev": 0.285,
-      "now": 0.9955,
-      "delta": 0.7105,
-      "url": "https://polymarket.com/event/mlb-wsh-nym-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 118904.48,
-      "liquidity": 1366.11
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: 2nd Half O/U 1.5",
-      "prev": 0.545,
-      "now": 0.0045,
-      "delta": -0.5405,
-      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 99.82,
-      "liquidity": 3485.0
-    },
-    {
-      "market": "Chicago White Sox vs. Detroit Tigers \u2014 1st 5 Innings Spread: Chicago White Sox (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-cws-det-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 67.76,
-      "liquidity": 753.06
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Alex Michelsen \u2014 Fritz vs. Michelsen: Set 1 Games O/U 8.5",
+      "market": "Boston Red Sox vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-michels-2026-08-16",
+      "url": "https://polymarket.com/event/mlb-bos-pit-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 202883.83,
-      "liquidity": 5868.34
+      "volume24hr": 82.24,
+      "liquidity": 1362.79
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Alex Michelsen \u2014 Fritz vs. Michelsen: Set 1 Games O/U 9.5",
+      "market": "Boston Red Sox vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Boston Red Sox (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-michels-2026-08-16",
+      "url": "https://polymarket.com/event/mlb-bos-pit-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 202883.83,
-      "liquidity": 5835.27
+      "volume24hr": 328026.21,
+      "liquidity": 1518.54
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Alex Michelsen \u2014 Fritz vs. Michelsen: Set 1 Games O/U 10.5",
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Racing Club De Lens 1st Half O/U 0.5",
       "prev": 0.5,
+      "now": 0.996,
+      "delta": 0.496,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 5737.61,
+      "liquidity": 12111.67
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays: O/U 12.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 15.0,
+      "liquidity": 1601.63
+    },
+    {
+      "market": "Will the game go to extra innings?: Baltimore Orioles vs. Tampa Bay Rays",
+      "prev": 0.495,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-michels-2026-08-16",
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.31,
+      "liquidity": 12291.11
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays \u2014 Spread: Baltimore Orioles (-7.5)",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 14454.68,
+      "liquidity": 29115.68
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: St. Louis Cardinals vs. Chicago Cubs",
+      "prev": 0.51,
+      "now": 0.9995,
+      "delta": 0.4895,
+      "url": "https://polymarket.com/event/mlb-stl-chc-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 869.33,
+      "liquidity": 9016.43
+    },
+    {
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Racing Club De Lens O/U 0.5",
+      "prev": 0.54,
+      "now": 0.9995,
+      "delta": 0.4595,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 86.6,
+      "liquidity": 5388.31
+    },
+    {
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Racing Club De Lens O/U 2.5",
+      "prev": 0.035,
+      "now": 0.4905,
+      "delta": 0.4555,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 35.16,
+      "liquidity": 73.33
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Aleksandar Kovacevic \u2014 Set Handicap: Nakashima (-1.5) vs Kovacevic (+1.5)",
+      "prev": 0.295,
+      "now": 0.74,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/atp-nakashi-kovacev-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 202883.83,
-      "liquidity": 5873.29
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: RCD Espanyol de Barcelona 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 699950.83,
-      "liquidity": 3461.99
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: Levante UD 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 699950.83,
-      "liquidity": 3481.81
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Levante UD - More Markets \u2014 RCD Espanyol de Barcelona vs. Levante UD: Levante UD 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-esp-lev-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 699950.83,
-      "liquidity": 3481.81
+      "volume24hr": 1332.45,
+      "liquidity": 470.19
     }
   ],
   "log": [
-    {
-      "ts": "12:00:01",
-      "text": " poll complete \u2014 1855 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:15:01",
       "text": " poll complete \u2014 1800 markets scanned, 10 flagged"
@@ -269,6 +267,10 @@
     {
       "ts": "19:15:01",
       "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:30:01",
+      "text": " poll complete \u2014 2026 markets scanned, 10 flagged"
     }
   ]
 }
