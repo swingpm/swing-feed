@@ -1,155 +1,155 @@
 {
-  "lastUpdate": "2026-08-16 12:00:01 UTC",
+  "lastUpdate": "2026-08-16 12:15:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.325,
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 Spread: FC Groningen (-2.5)",
+      "prev": 0.33,
       "now": 0.995,
-      "delta": 0.67,
-      "url": "https://polymarket.com/event/cs2-mglz-pain-2026-08-16",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 510.96,
-      "liquidity": 1210.43
-    },
-    {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 LoL: Weibo Gaming vs Invictus Gaming - Game 2 Winner",
-      "prev": 0.365,
-      "now": 0.9995,
-      "delta": 0.6345,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 675555.0,
-      "liquidity": 515115.06
-    },
-    {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Games Total: O/U 2.5",
-      "prev": 0.37,
-      "now": 0.9995,
-      "delta": 0.6295,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3310.55,
-      "liquidity": 30578.44
-    },
-    {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game Handicap: IG (-1.5) vs Weibo Gaming (+1.5)",
-      "prev": 0.63,
-      "now": 0.0005,
-      "delta": -0.6295,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 15032.1,
-      "liquidity": 212868.36
-    },
-    {
-      "market": "Tottenham Hotspur vs. TSG Hoffenheim - More Markets \u2014 Tottenham Hotspur vs. TSG Hoffenheim: Tottenham Hotspur O/U 1.5",
-      "prev": 0.38,
-      "now": 0.975,
-      "delta": 0.595,
-      "url": "https://polymarket.com/event/clf-tot-tsg-2026-08-16-more-markets",
+      "delta": 0.665,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Club Friendlies"
+        "Eredivisie"
       ],
-      "volume24hr": 3806.36,
-      "liquidity": 796.87
+      "volume24hr": 6339.65,
+      "liquidity": 98948.01
     },
     {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2115094.82,
-      "liquidity": 729.56
-    },
-    {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 204.99,
-      "liquidity": 781.1
-    },
-    {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 36.5 in Game 2?",
-      "prev": 0.5,
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 ADO Den Haag vs. FC Groningen: ADO Den Haag O/U 1.5",
+      "prev": 0.615,
       "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2115094.82,
-      "liquidity": 708.0
-    },
-    {
-      "market": "Tottenham Hotspur vs. TSG Hoffenheim - More Markets \u2014 Tottenham Hotspur vs. TSG Hoffenheim: TSG Hoffenheim 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/clf-tot-tsg-2026-08-16-more-markets",
+      "delta": -0.61,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Club Friendlies"
+        "Eredivisie"
       ],
-      "volume24hr": 334377.45,
-      "liquidity": 2678.84
+      "volume24hr": 31.7,
+      "liquidity": 11298.57
     },
     {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 33.5 in Game 2?",
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 ADO Den Haag vs. FC Groningen: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 184614.59,
+      "liquidity": 3683.75
+    },
+    {
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 ADO Den Haag vs. FC Groningen: FC Groningen 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 184614.59,
+      "liquidity": 3649.38
+    },
+    {
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 ADO Den Haag vs. FC Groningen: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 184614.59,
+      "liquidity": 3371.28
+    },
+    {
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 ADO Den Haag vs. FC Groningen: ADO Den Haag 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 184614.59,
+      "liquidity": 2913.48
+    },
+    {
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 ADO Den Haag vs. FC Groningen: FC Groningen 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 184614.59,
+      "liquidity": 2878.48
+    },
+    {
+      "market": "Incheon United FC vs. Gimcheon Sangmu FC \u2014 Will Incheon United FC win on 2026-08-16?",
+      "prev": 0.335,
+      "now": 0.83,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/kor-inc-san-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 143649.71,
+      "liquidity": 2544.56
+    },
+    {
+      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 2?",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 2115094.82,
-      "liquidity": 715.01
+      "volume24hr": 173.49,
+      "liquidity": 658.28
+    },
+    {
+      "market": "ADO Den Haag vs. FC Groningen - More Markets \u2014 ADO Den Haag vs. FC Groningen: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.9975,
+      "delta": 0.4925,
+      "url": "https://polymarket.com/event/ere-ado-gro-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 3661.56
     }
   ],
   "log": [
@@ -244,6 +244,10 @@
     {
       "ts": "12:00:01",
       "text": " poll complete \u2014 1855 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:15:01",
+      "text": " poll complete \u2014 1800 markets scanned, 10 flagged"
     }
   ]
 }
