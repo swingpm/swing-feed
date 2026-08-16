@@ -1,157 +1,157 @@
 {
-  "lastUpdate": "2026-08-16 18:30:01 UTC",
+  "lastUpdate": "2026-08-16 18:45:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
-      "prev": 0.3035,
+      "market": "Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B \u2014 Counter-Strike: Legacy vs MIBR - Map 1 Winner",
+      "prev": 0.355,
       "now": 0.9995,
-      "delta": 0.696,
-      "url": "https://polymarket.com/event/wta-tjen-golubic-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 520808.5,
-      "liquidity": 493553.36
-    },
-    {
-      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season \u2014 LoL: G2 Esports vs Fnatic - Game 2 Winner",
-      "prev": 0.715,
-      "now": 0.115,
-      "delta": -0.6,
-      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
+      "delta": 0.6445,
+      "url": "https://polymarket.com/event/cs2-lgc-mibr-2026-08-16",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 163056.59,
-      "liquidity": 195191.84
+      "volume24hr": 428639.67,
+      "liquidity": 863111.35
     },
     {
-      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season \u2014 Games Total: O/U 2.5",
-      "prev": 0.72,
-      "now": 0.135,
-      "delta": -0.585,
-      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
+      "market": "Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B \u2014 Map 1 Rounds Handicap: Legacy (-3.5) vs MIBR (+3.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-lgc-mibr-2026-08-16",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 10998.83,
-      "liquidity": 118306.89
+      "volume24hr": 700.0,
+      "liquidity": 498.82
     },
     {
-      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season \u2014 First Blood in Game 2?",
-      "prev": 0.565,
-      "now": 0.01,
-      "delta": -0.555,
-      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 272.98,
-      "liquidity": 235.82
-    },
-    {
-      "market": "Cincinnati Open: Joao Fonseca vs Botic van de Zandschulp \u2014 Fonseca vs. Zandschulp: Match O/U 22.5",
-      "prev": 0.095,
-      "now": 0.61,
-      "delta": 0.515,
-      "url": "https://polymarket.com/event/atp-fonseca-zandsch-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 641.08,
-      "liquidity": 562.02
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Viktorija Golubic \u2014 Cincinnati Open: Completed Match: Janice Tjen vs Viktorija Golubic",
+      "market": "Counter-Strike: Legacy vs MIBR (BO3) - Esports World Cup Group B \u2014 Map 1 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-tjen-golubic-2026-08-16",
+      "url": "https://polymarket.com/event/cs2-lgc-mibr-2026-08-16",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 9.58,
+      "liquidity": 839.75
+    },
+    {
+      "market": "Cincinnati Open: Daria Snigur vs Madison Keys \u2014 Cincinnati Open: Completed Match: Daria Snigur vs Madison Keys",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-snigur-keys-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 528609.05,
-      "liquidity": 1615.92
+      "volume24hr": 255446.5,
+      "liquidity": 1960.52
     },
     {
-      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season",
-      "prev": 0.545,
-      "now": 0.055,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 394948.88,
-      "liquidity": 218667.1
-    },
-    {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays \u2014 Spread: Baltimore Orioles (-3.5)",
-      "prev": 0.5,
-      "now": 0.955,
-      "delta": 0.455,
-      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-16",
+      "market": "Miami Marlins vs. Cincinnati Reds: 1st 5 Innings O/U 3.5",
+      "prev": 0.575,
+      "now": 0.125,
+      "delta": -0.45,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 592576.71,
-      "liquidity": 10.39
+      "volume24hr": 140.0,
+      "liquidity": 3.75
     },
     {
-      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Set Handicap: Auger-Aliassime (-1.5) vs Tsitsipas (+1.5)",
-      "prev": 0.525,
-      "now": 0.945,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/atp-tsitsip-augeral-2026-08-16",
+      "market": "Miami Marlins vs. Cincinnati Reds: 1st 5 Innings O/U 5.5",
+      "prev": 0.53,
+      "now": 0.08,
+      "delta": -0.45,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 243.81,
-      "liquidity": 364.0
+      "volume24hr": 472828.14,
+      "liquidity": 4.2
     },
     {
-      "market": "Cincinnati Open: Stefanos Tsitsipas vs Felix Auger-Aliassime \u2014 Set 2 Winner: Tsitsipas vs Auger-Aliassime",
-      "prev": 0.47,
-      "now": 0.06,
-      "delta": -0.41,
-      "url": "https://polymarket.com/event/atp-tsitsip-augeral-2026-08-16",
+      "market": "Boston Red Sox vs. Pittsburgh Pirates: O/U 7.5",
+      "prev": 0.515,
+      "now": 0.965,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/mlb-bos-pit-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 309.43,
-      "liquidity": 3612.55
+      "volume24hr": 4854.46,
+      "liquidity": 13230.59
+    },
+    {
+      "market": "LoL: G2 Esports vs Fnatic (BO3) - LEC Regular Season \u2014 Game Handicap: FNC (-1.5) vs G2 Esports (+1.5)",
+      "prev": 0.55,
+      "now": 0.995,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/lol-g2-fnc-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 4025.4
+    },
+    {
+      "market": "Miami Marlins vs. Cincinnati Reds: 1st 5 Innings O/U 2.5",
+      "prev": 0.66,
+      "now": 0.215,
+      "delta": -0.445,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 14.87,
+      "liquidity": 3.75
+    },
+    {
+      "market": "Miami Marlins vs. Cincinnati Reds: 1st 5 Innings O/U 6.5",
+      "prev": 0.515,
+      "now": 0.07,
+      "delta": -0.445,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 18.0,
+      "liquidity": 7.3
     }
   ],
   "log": [
-    {
-      "ts": "11:15:01",
-      "text": " poll complete \u2014 1837 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:30:01",
       "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
@@ -267,6 +267,10 @@
     {
       "ts": "18:30:01",
       "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:45:01",
+      "text": " poll complete \u2014 1951 markets scanned, 10 flagged"
     }
   ]
 }
