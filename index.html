@@ -127,6 +127,12 @@
   .down { color: var(--red); text-shadow: 0 0 4px var(--red); }
   .delta { font-weight: bold; }
 
+  .market-link { color: var(--fg); text-decoration: none; border-bottom: 1px dotted var(--fg-dim); }
+  .market-link:hover { text-decoration: none; border-bottom-style: solid; }
+
+  .tag-line { font-size: 11px; opacity: 0.6; margin-top: 3px; letter-spacing: 0.5px; }
+  .vol-line { font-size: 11px; opacity: 0.45; margin-top: 2px; }
+
   .log { font-size: 13px; opacity: 0.8; max-height: 260px; overflow-y: auto; }
   .log-line { margin: 3px 0; }
   .log-line .ts { opacity: 0.55; margin-right: 8px; }
@@ -242,8 +248,19 @@
         const deltaPct = (s.delta * 100).toFixed(0);
         const cls = s.delta >= 0 ? 'up' : 'down';
         const sign = s.delta >= 0 ? '+' : '';
+
+        const marketCell = s.url
+          ? `<a href="${escapeAttr(s.url)}" target="_blank" rel="noopener noreferrer" class="market-link">${escapeHtml(s.market)}</a>`
+          : escapeHtml(s.market);
+
+        const tagsLine = (s.tags && s.tags.length)
+          ? `<div class="tag-line">${s.tags.map(t => `[${escapeHtml(t)}]`).join(' ')}</div>`
+          : '';
+
+        const volLine = `<div class="vol-line">vol 24h: ${formatUsd(s.volume24hr)} &nbsp;|&nbsp; liq: ${formatUsd(s.liquidity)}</div>`;
+
         return `<tr>
-          <td data-label="Market">${escapeHtml(s.market)}</td>
+          <td data-label="Market">${marketCell}${tagsLine}${volLine}</td>
           <td data-label="Prev">${(s.prev * 100).toFixed(0)}%</td>
           <td data-label="Now">${(s.now * 100).toFixed(0)}%</td>
           <td data-label="Δ (1h)" class="delta ${cls}">${sign}${deltaPct}%</td>
@@ -269,6 +286,17 @@
     const div = document.createElement('div');
     div.textContent = str;
     return div.innerHTML;
+  }
+
+  function escapeAttr(str) {
+    return String(str).replace(/"/g, '&quot;');
+  }
+
+  function formatUsd(n) {
+    if (!n) return '$0';
+    if (n >= 1000000) return '$' + (n / 1000000).toFixed(1) + 'M';
+    if (n >= 1000) return '$' + (n / 1000).toFixed(1) + 'K';
+    return '$' + n.toFixed(0);
   }
 
   loadData();
