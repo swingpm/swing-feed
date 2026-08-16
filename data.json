@@ -1,130 +1,71 @@
 {
-  "lastUpdate": "2026-08-16 13:15:01 UTC",
+  "lastUpdate": "2026-08-16 13:30:01 UTC",
   "swings": [
     {
-      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Feyenoord Rotterdam 1st Half O/U 1.5",
-      "prev": 0.165,
+      "market": "Hannover 96 vs. VfL Wolfsburg \u2014 Will VfL Wolfsburg win on 2026-08-16?",
+      "prev": 0.145,
       "now": 0.995,
-      "delta": 0.83,
-      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
+      "delta": 0.85,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Eredivisie"
+        "Bundesliga 2"
       ],
-      "volume24hr": 58.9,
-      "liquidity": 933.03
+      "volume24hr": 30386.51,
+      "liquidity": 187700.08
     },
     {
-      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: 1st Half O/U 1.5",
-      "prev": 0.24,
-      "now": 0.995,
-      "delta": 0.755,
-      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: VfL Wolfsburg O/U 0.5",
+      "prev": 0.19,
+      "now": 0.9995,
+      "delta": 0.8095,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Eredivisie"
+        "Bundesliga 2"
       ],
-      "volume24hr": 272.4,
-      "liquidity": 6021.73
+      "volume24hr": 1018.77,
+      "liquidity": 23522.09
     },
     {
-      "market": "Sion: Alex Marti Pujolras vs Maximilian Neuchrist \u2014 Sion, Switzerland, Qualifying: Completed Match: Alex Marti Pujolras vs Maximilian Neuchrist",
+      "market": "Will Hannover 96 vs. VfL Wolfsburg end in a draw?",
+      "prev": 0.615,
+      "now": 0.005,
+      "delta": -0.61,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Bundesliga 2"
+      ],
+      "volume24hr": 11923.65,
+      "liquidity": 171402.71
+    },
+    {
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: O/U 0.5",
+      "prev": 0.424,
+      "now": 0.9995,
+      "delta": 0.5755,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Bundesliga 2"
+      ],
+      "volume24hr": 2031.15,
+      "liquidity": 54438.75
+    },
+    {
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: VfL Wolfsburg 2nd Half O/U 0.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-pujolra-neuchri-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1195.0,
-      "liquidity": 6116.61
-    },
-    {
-      "market": "Valorant: Trace Esports vs All Gamers (BO3) - VCT China Stage 2 Playoffs \u2014 Map Handicap: TE (-1.5) vs All Gamers (+1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-te-ag1-2026-08-16",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 3293.32
-    },
-    {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game 3: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3737743.4,
-      "liquidity": 824.0
-    },
-    {
-      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game Handicap: WB (-1.5) vs Invictus Gaming (+1.5)",
-      "prev": 0.495,
-      "now": 0.0045,
-      "delta": -0.4905,
-      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 2795.33
-    },
-    {
-      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Go Ahead Eagles 1st Half O/U 1.5",
-      "prev": 0.016,
-      "now": 0.5,
-      "delta": 0.484,
-      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 145437.39,
-      "liquidity": 0.01
-    },
-    {
-      "market": "Feyenoord Rotterdam vs. Go Ahead Eagles - More Markets \u2014 Feyenoord Rotterdam vs. Go Ahead Eagles: Feyenoord Rotterdam 1st Half O/U 0.5",
-      "prev": 0.535,
-      "now": 0.9945,
-      "delta": 0.4595,
-      "url": "https://polymarket.com/event/ere-fey-goa-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 145437.39,
-      "liquidity": 1206.86
-    },
-    {
-      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: Hannover 96 O/U 0.5",
-      "prev": 0.74,
-      "now": 0.295,
-      "delta": -0.445,
       "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -132,14 +73,14 @@
         "Soccer",
         "Bundesliga 2"
       ],
-      "volume24hr": 62.37,
-      "liquidity": 1533.66
+      "volume24hr": 114216.88,
+      "liquidity": 5228.07
     },
     {
-      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: Hannover 96 O/U 1.5",
-      "prev": 0.44,
-      "now": 0.025,
-      "delta": -0.415,
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -147,8 +88,68 @@
         "Soccer",
         "Bundesliga 2"
       ],
-      "volume24hr": 29.13,
-      "liquidity": 1733.31
+      "volume24hr": 114216.88,
+      "liquidity": 2867.11
+    },
+    {
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Bundesliga 2"
+      ],
+      "volume24hr": 114216.88,
+      "liquidity": 2867.11
+    },
+    {
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Bundesliga 2"
+      ],
+      "volume24hr": 114216.88,
+      "liquidity": 2756.23
+    },
+    {
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: Hannover 96 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Bundesliga 2"
+      ],
+      "volume24hr": 114216.88,
+      "liquidity": 2867.11
+    },
+    {
+      "market": "Hannover 96 vs. VfL Wolfsburg - More Markets \u2014 Hannover 96 vs. VfL Wolfsburg: Hannover 96 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/bl2-h96-wob-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Bundesliga 2"
+      ],
+      "volume24hr": 114216.88,
+      "liquidity": 2867.11
     }
   ],
   "log": [
@@ -263,6 +264,10 @@
     {
       "ts": "13:15:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:30:01",
+      "text": " poll complete \u2014 1963 markets scanned, 10 flagged"
     }
   ]
 }
