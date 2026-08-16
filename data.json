@@ -1,26 +1,55 @@
 {
-  "lastUpdate": "2026-08-16 20:45:01 UTC",
+  "lastUpdate": "2026-08-16 21:00:01 UTC",
   "swings": [
     {
-      "market": "Philadelphia Phillies vs. Minnesota Twins",
-      "prev": 0.285,
-      "now": 0.865,
-      "delta": 0.58,
-      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
+      "market": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta \u2014 Rublev vs. Busta: Match O/U 22.5",
+      "prev": 0.935,
+      "now": 0.19,
+      "delta": -0.745,
+      "url": "https://polymarket.com/event/atp-rublev-busta-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 496.49,
+      "liquidity": 643.34
+    },
+    {
+      "market": "LoL: FlyQuest vs Cloud9 (BO3) - LCS Regular Season \u2014 LoL: FlyQuest vs Cloud9 - Game 1 Winner",
+      "prev": 0.615,
+      "now": 0.0005,
+      "delta": -0.6145,
+      "url": "https://polymarket.com/event/lol-fly-c9-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 413475.77,
+      "liquidity": 517177.02
+    },
+    {
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Paris Saint-Germain O/U 0.5",
+      "prev": 0.525,
+      "now": 0.0005,
+      "delta": -0.5245,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Trophee des Champions"
       ],
-      "volume24hr": 49493.33,
-      "liquidity": 191430.86
+      "volume24hr": 3298.25,
+      "liquidity": 31016.33
     },
     {
-      "market": "CA Mineiro vs. Gr\u00eamio FBPA - More Markets \u2014 Spread: CA Mineiro (-2.5)",
-      "prev": 0.3,
-      "now": 0.87,
-      "delta": 0.57,
+      "market": "CA Mineiro vs. Gr\u00eamio FBPA - More Markets \u2014 CA Mineiro vs. Gr\u00eamio FBPA: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
       "url": "https://polymarket.com/event/bra-cam-gre-2026-08-15-more-markets",
       "tags": [
         "Sports",
@@ -28,131 +57,101 @@
         "Soccer",
         "Brazil Serie A"
       ],
-      "volume24hr": 1849.16,
-      "liquidity": 8070.01
+      "volume24hr": 149339.66,
+      "liquidity": 2913.99
     },
     {
-      "market": "CA Mineiro vs. Gr\u00eamio FBPA - More Markets \u2014 CA Mineiro vs. Gr\u00eamio FBPA: CA Mineiro O/U 2.5",
-      "prev": 0.41,
-      "now": 0.98,
-      "delta": 0.57,
-      "url": "https://polymarket.com/event/bra-cam-gre-2026-08-15-more-markets",
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Paris Saint-Germain O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "Trophee des Champions"
       ],
-      "volume24hr": 72.63,
-      "liquidity": 1153.08
+      "volume24hr": 11007.5,
+      "liquidity": 46170.21
     },
     {
-      "market": "New York Yankees vs. Toronto Blue Jays: O/U 6.5",
-      "prev": 0.44,
-      "now": 0.9995,
-      "delta": 0.5595,
-      "url": "https://polymarket.com/event/mlb-nyy-tor-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 83084.2,
-      "liquidity": 98889.17
-    },
-    {
-      "market": "Philadelphia Phillies vs. Minnesota Twins: O/U 11.5",
-      "prev": 0.44,
-      "now": 0.995,
-      "delta": 0.555,
-      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4.89,
-      "liquidity": 9284.83
-    },
-    {
-      "market": "Philadelphia Phillies vs. Minnesota Twins \u2014 Spread: Philadelphia Phillies (-1.5)",
-      "prev": 0.165,
-      "now": 0.675,
-      "delta": 0.51,
-      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2180.55,
-      "liquidity": 22251.95
-    },
-    {
-      "market": "Cincinnati Open: Marta Kostyuk vs Sofia Kenin \u2014 Kostyuk vs. Kenin: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-kostyuk-kenin-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 331336.29,
-      "liquidity": 4325.85
-    },
-    {
-      "market": "Cincinnati Open: Marta Kostyuk vs Sofia Kenin \u2014 Kostyuk vs. Kenin: Set 2 Games O/U 10.5",
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-kostyuk-kenin-2026-08-16",
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
       ],
-      "volume24hr": 331336.29,
-      "liquidity": 3803.76
+      "volume24hr": 5.0,
+      "liquidity": 3782.92
     },
     {
-      "market": "Cincinnati Open: Nuno Borges vs Francisco Cerundolo \u2014 Borges vs. Cerundolo: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-borges-cerundo-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 99989.74,
-      "liquidity": 3685.53
-    },
-    {
-      "market": "Cincinnati Open: Nuno Borges vs Francisco Cerundolo \u2014 Borges vs. Cerundolo: Set 2 Games O/U 10.5",
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: 2nd Half O/U 0.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-borges-cerundo-2026-08-16",
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
       ],
-      "volume24hr": 99989.74,
-      "liquidity": 3787.46
+      "volume24hr": 293081.59,
+      "liquidity": 3806.88
+    },
+    {
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 293081.59,
+      "liquidity": 3854.54
+    },
+    {
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 293081.59,
+      "liquidity": 4064.51
+    },
+    {
+      "market": "Racing Club De Lens vs. Paris Saint-Germain - More Markets \u2014 Racing Club De Lens vs. Paris Saint-Germain: Racing Club De Lens 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/frtc-rcl-psg-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Trophee des Champions"
+      ],
+      "volume24hr": 293081.59,
+      "liquidity": 3715.36
     }
   ],
   "log": [
-    {
-      "ts": "13:30:01",
-      "text": " poll complete \u2014 1963 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:45:01",
       "text": " poll complete \u2014 1969 markets scanned, 10 flagged"
@@ -268,6 +267,10 @@
     {
       "ts": "20:45:01",
       "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:00:01",
+      "text": " poll complete \u2014 2009 markets scanned, 10 flagged"
     }
   ]
 }
