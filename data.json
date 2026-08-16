@@ -1,161 +1,155 @@
 {
-  "lastUpdate": "2026-08-16 21:30:02 UTC",
+  "lastUpdate": "2026-08-16 21:45:02 UTC",
   "swings": [
     {
-      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: O/U 1.5",
-      "prev": 0.085,
-      "now": 0.9995,
-      "delta": 0.9145,
-      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 71671.72,
-      "liquidity": 43713.98
-    },
-    {
-      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 Spread: Mantova 1911 (-1.5)",
-      "prev": 0.1595,
-      "now": 0.9965,
-      "delta": 0.837,
-      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 356.24,
-      "liquidity": 12400.98
-    },
-    {
-      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: Mantova 1911 O/U 1.5",
-      "prev": 0.3425,
-      "now": 0.9995,
-      "delta": 0.657,
-      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 951.93,
-      "liquidity": 3359.93
-    },
-    {
-      "market": "Kansas City Royals vs. Los Angeles Angels: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-kc-laa-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 246.45,
-      "liquidity": 1854.83
-    },
-    {
-      "market": "Kansas City Royals vs. Los Angeles Angels: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-kc-laa-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 375.96,
-      "liquidity": 2218.73
-    },
-    {
-      "market": "Cincinnati Open: Katerina Siniakova vs Jessica Bouzas Maneiro \u2014 Siniakova vs. Maneiro: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "market": "Cincinnati Open: Katerina Siniakova vs Jessica Bouzas Maneiro \u2014 Siniakova vs. Maneiro: Match O/U 23.5",
+      "prev": 0.465,
+      "now": 0.965,
+      "delta": 0.5,
       "url": "https://polymarket.com/event/wta-siniako-maneiro-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 267399.17,
-      "liquidity": 6551.14
+      "volume24hr": 281426.91,
+      "liquidity": 10.0
     },
     {
-      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: Mantova 1911 O/U 2.5",
+      "market": "Cincinnati Open: Marta Kostyuk vs Sofia Kenin \u2014 Cincinnati Open: Completed Match: Marta Kostyuk vs Sofia Kenin",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-kostyuk-kenin-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2692.0,
+      "liquidity": 13125.86
+    },
+    {
+      "market": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs \u2014 Aguilar vs. Bergs: Set 1 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
+      "url": "https://polymarket.com/event/atp-aguilar-bergs-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
+        "Games"
       ],
-      "volume24hr": 184852.09,
-      "liquidity": 5250.72
+      "volume24hr": 370956.67,
+      "liquidity": 2595.27
     },
     {
-      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: SS Lazio O/U 2.5",
-      "prev": 0.4995,
-      "now": 0.0005,
-      "delta": -0.499,
-      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 3192.67,
-      "liquidity": 15767.36
-    },
-    {
-      "market": "SS Lazio vs. Mantova 1911 - More Markets \u2014 SS Lazio vs. Mantova 1911: SS Lazio O/U 0.5",
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers \u2014 1st 5 Innings Spread: Los Angeles Dodgers (-1.5)",
       "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/itc-laz-man-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 1650.92,
-      "liquidity": 7334.39
-    },
-    {
-      "market": "Kansas City Royals vs. Los Angeles Angels \u2014 1st 5 Innings Spread: Kansas City Royals (-1.5)",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/mlb-kc-laa-2026-08-16",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-mil-lad-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 427683.89,
-      "liquidity": 2844.37
+      "volume24hr": 10.0,
+      "liquidity": 1679.24
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers \u2014 1st 5 Innings Spread: Milwaukee Brewers (-1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-mil-lad-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 41.0,
+      "liquidity": 1756.64
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-mil-lad-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 376.92,
+      "liquidity": 1747.17
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-mil-lad-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 680.77,
+      "liquidity": 2187.98
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-mil-lad-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 315.0,
+      "liquidity": 2195.75
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-mil-lad-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 44.09,
+      "liquidity": 2196.36
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-mil-lad-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 103.55,
+      "liquidity": 2145.74
     }
   ],
   "log": [
-    {
-      "ts": "14:15:01",
-      "text": " poll complete \u2014 1947 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:30:01",
       "text": " poll complete \u2014 1953 markets scanned, 10 flagged"
@@ -271,6 +265,10 @@
     {
       "ts": "21:30:02",
       "text": " poll complete \u2014 1991 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:45:02",
+      "text": " poll complete \u2014 1975 markets scanned, 10 flagged"
     }
   ]
 }
