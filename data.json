@@ -1,41 +1,11 @@
 {
-  "lastUpdate": "2026-08-16 20:15:02 UTC",
+  "lastUpdate": "2026-08-16 20:30:01 UTC",
   "swings": [
     {
-      "market": "Arizona Diamondbacks vs. Atlanta Braves: O/U 7.5",
-      "prev": 0.34,
-      "now": 0.9995,
-      "delta": 0.6595,
-      "url": "https://polymarket.com/event/mlb-ari-atl-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 14390.97,
-      "liquidity": 33160.14
-    },
-    {
-      "market": "Arizona Diamondbacks vs. Atlanta Braves \u2014 Spread: Atlanta Braves (-2.5)",
-      "prev": 0.545,
-      "now": 0.0005,
-      "delta": -0.5445,
-      "url": "https://polymarket.com/event/mlb-ari-atl-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 31780.29,
-      "liquidity": 60648.37
-    },
-    {
-      "market": "Miami Marlins vs. Cincinnati Reds: O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "market": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
+      "prev": 0.12,
+      "now": 0.995,
+      "delta": 0.875,
       "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
       "tags": [
         "Sports",
@@ -43,120 +13,145 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 662258.77,
-      "liquidity": 60.0
+      "volume24hr": 444.31,
+      "liquidity": 1730.05
     },
     {
-      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Hurac\u00e1n O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "market": "Miami Marlins vs. Cincinnati Reds \u2014 Spread: Miami Marlins (-2.5)",
+      "prev": 0.125,
+      "now": 0.965,
+      "delta": 0.84,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 180150.88,
-      "liquidity": 21479.41
+      "volume24hr": 1548.71,
+      "liquidity": 370.19
     },
     {
-      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Hurac\u00e1n O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "market": "Miami Marlins vs. Cincinnati Reds: O/U 6.5",
+      "prev": 0.165,
+      "now": 0.995,
+      "delta": 0.83,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 261.26,
-      "liquidity": 20407.78
+      "volume24hr": 444.36,
+      "liquidity": 736.21
     },
     {
-      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Hurac\u00e1n O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "market": "New York Yankees vs. Toronto Blue Jays: O/U 4.5",
+      "prev": 0.225,
+      "now": 0.9945,
+      "delta": 0.7695,
+      "url": "https://polymarket.com/event/mlb-nyy-tor-2026-08-16",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 936.33,
-      "liquidity": 23269.36
+      "volume24hr": 635.69,
+      "liquidity": 832.69
     },
     {
-      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: 2nd Half O/U 0.5",
-      "prev": 0.5005,
+      "market": "Miami Marlins vs. Cincinnati Reds \u2014 Spread: Miami Marlins (-1.5)",
+      "prev": 0.265,
+      "now": 0.975,
+      "delta": 0.71,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 4237.64,
+      "liquidity": 8373.96
+    },
+    {
+      "market": "Miami Marlins vs. Cincinnati Reds: O/U 4.5",
+      "prev": 0.35,
       "now": 0.9995,
-      "delta": 0.499,
-      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "delta": 0.6495,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 3808.61
+      "volume24hr": 1206.3,
+      "liquidity": 1542.86
     },
     {
-      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Sarmiento 2nd Half O/U 0.5",
-      "prev": 0.5005,
+      "market": "Chicago White Sox vs. Detroit Tigers \u2014 Spread: Chicago White Sox (-1.5)",
+      "prev": 0.235,
+      "now": 0.755,
+      "delta": 0.52,
+      "url": "https://polymarket.com/event/mlb-cws-det-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10289.73,
+      "liquidity": 53200.91
+    },
+    {
+      "market": "Miami Marlins vs. Cincinnati Reds: O/U 3.5",
+      "prev": 0.48,
       "now": 0.9995,
-      "delta": 0.499,
-      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "delta": 0.5195,
+      "url": "https://polymarket.com/event/mlb-mia-cin-2026-08-16",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 3815.5
+      "volume24hr": 5194.2,
+      "liquidity": 30786.33
     },
     {
-      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: CA Sarmiento O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0035,
-      "delta": -0.4965,
-      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "market": "New York Yankees vs. Toronto Blue Jays: O/U 3.5",
+      "prev": 0.495,
+      "now": 0.995,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/mlb-nyy-tor-2026-08-16",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 416.21,
-      "liquidity": 13537.52
+      "volume24hr": 6.25,
+      "liquidity": 1742.38
     },
     {
-      "market": "CA Sarmiento vs. CA Hurac\u00e1n - More Markets \u2014 CA Sarmiento vs. CA Hurac\u00e1n: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/arg-cas-cah-2026-08-16-more-markets",
+      "market": "Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta \u2014 Set 1 Winner: Rublev vs Busta",
+      "prev": 0.495,
+      "now": 0.995,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/atp-rublev-busta-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Games"
       ],
-      "volume24hr": 180150.88,
-      "liquidity": 3812.85
+      "volume24hr": 975.25,
+      "liquidity": 19619.77
     }
   ],
   "log": [
-    {
-      "ts": "13:00:01",
-      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:15:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
@@ -272,6 +267,10 @@
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 2014 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:30:01",
+      "text": " poll complete \u2014 1993 markets scanned, 10 flagged"
     }
   ]
 }
