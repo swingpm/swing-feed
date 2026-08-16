@@ -1,41 +1,56 @@
 {
-  "lastUpdate": "2026-08-16 12:30:01 UTC",
+  "lastUpdate": "2026-08-16 12:45:01 UTC",
   "swings": [
     {
-      "market": "Incheon United FC vs. Gimcheon Sangmu FC \u2014 Will Incheon United FC win on 2026-08-16?",
-      "prev": 0.83,
-      "now": 0.115,
-      "delta": -0.715,
-      "url": "https://polymarket.com/event/kor-inc-san-2026-08-16",
+      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
+      "prev": 0.785,
+      "now": 0.065,
+      "delta": -0.72,
+      "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 144416.02,
-      "liquidity": 8044.52
+      "volume24hr": 996893.44,
+      "liquidity": 200010.43
     },
     {
-      "market": "Will Incheon United FC vs. Gimcheon Sangmu FC end in a draw?",
-      "prev": 0.165,
-      "now": 0.805,
-      "delta": 0.64,
-      "url": "https://polymarket.com/event/kor-inc-san-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 10141.86,
-      "liquidity": 3953.85
-    },
-    {
-      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: O/U 4.5",
-      "prev": 0.455,
+      "market": "Ulsan HD FC vs. Gangwon FC \u2014 Will Gangwon FC win on 2026-08-16?",
+      "prev": 0.39,
       "now": 0.9995,
-      "delta": 0.5445,
+      "delta": 0.6095,
+      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 11800.82,
+      "liquidity": 108361.75
+    },
+    {
+      "market": "Will Ulsan HD FC vs. Gangwon FC end in a draw?",
+      "prev": 0.58,
+      "now": 0.0005,
+      "delta": -0.5795,
+      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 15337.12,
+      "liquidity": 93981.63
+    },
+    {
+      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: O/U 5.5",
+      "prev": 0.54,
+      "now": 0.0005,
+      "delta": -0.5395,
       "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -43,112 +58,95 @@
         "Soccer",
         "K-league"
       ],
-      "volume24hr": 6832.72,
-      "liquidity": 101636.64
+      "volume24hr": 2783.89,
+      "liquidity": 39512.46
     },
     {
-      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 20.93,
-      "liquidity": 778.7
-    },
-    {
-      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 21.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1898454.03,
-      "liquidity": 771.0
-    },
-    {
-      "market": "Sion: Michael Zhu vs Thiago Cigarran \u2014 Sion, Switzerland, Qualifying: Completed Match: Michael Zhu vs Thiago Cigarran",
-      "prev": 0.5,
+      "market": "Odense BK vs. AC Horsens - More Markets \u2014 Odense BK vs. AC Horsens: 1st Half O/U 1.5",
+      "prev": 0.485,
       "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-zhu-cigarra-2026-08-16",
+      "delta": 0.51,
+      "url": "https://polymarket.com/event/den-ode-hor-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 930.6,
+      "liquidity": 1899.18
+    },
+    {
+      "market": "Hamburg: Jan Kumstat vs Marvin Moeller \u2014 Kumstat vs. Moeller: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-kumstat-moelle-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 423.77,
-      "liquidity": 940.72
+      "volume24hr": 12.0,
+      "liquidity": 5873.79
     },
     {
-      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Odd/Even Total Kills?",
+      "market": "Hamburg: Jan Kumstat vs Marvin Moeller \u2014 Kumstat vs. Moeller: Set 1 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-kumstat-moelle-2026-08-16",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 1898454.03,
-      "liquidity": 764.7
+      "volume24hr": 104744.82,
+      "liquidity": 5857.78
     },
     {
-      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "market": "Hamburg: Jan Kumstat vs Marvin Moeller \u2014 Kumstat vs. Moeller: Set 1 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-kumstat-moelle-2026-08-16",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 30.05,
-      "liquidity": 777.31
+      "volume24hr": 104744.82,
+      "liquidity": 5878.9
     },
     {
-      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 33.5 in Game 2?",
+      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: 2nd Half O/U 2.5",
       "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 1898454.03,
-      "liquidity": 749.37
+      "volume24hr": 138171.01,
+      "liquidity": 3566.37
     },
     {
-      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 24.5 in Game 2?",
+      "market": "Ulsan HD FC vs. Gangwon FC - More Markets \u2014 Ulsan HD FC vs. Gangwon FC: Ulsan HD FC 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/lol-drx-bro2-2026-08-16",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/kor-uls-gwo-2026-08-16-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 1898454.03,
-      "liquidity": 771.01
+      "volume24hr": 138171.01,
+      "liquidity": 3566.37
     }
   ],
   "log": [
@@ -251,6 +249,10 @@
     {
       "ts": "12:30:01",
       "text": " poll complete \u2014 1856 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:45:01",
+      "text": " poll complete \u2014 1857 markets scanned, 10 flagged"
     }
   ]
 }
