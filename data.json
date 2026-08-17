@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 10:30:02 UTC",
+  "lastUpdate": "2026-08-17 10:45:01 UTC",
   "swings": [
     {
       "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 1 Winner",
-      "prev": 0.57,
-      "now": 0.255,
-      "delta": -0.315,
+      "prev": 0.255,
+      "now": 0.88,
+      "delta": 0.625,
       "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
       "tags": [
         "Esports",
@@ -13,96 +13,61 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 31903.68,
-      "liquidity": 138616.98
+      "volume24hr": 89926.31,
+      "liquidity": 126778.38
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: KRX.C (-1.5) vs Hanwha Life Esports Challengers (+1.5)",
-      "prev": 0.4,
-      "now": 0.215,
-      "delta": -0.185,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3071.29,
-      "liquidity": 10647.82
-    },
-    {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
-      "prev": 0.635,
-      "now": 0.465,
-      "delta": -0.17,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 42813.17,
-      "liquidity": 173197.24
-    },
-    {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season",
-      "prev": 0.555,
-      "now": 0.71,
-      "delta": 0.155,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 139163.27,
-      "liquidity": 9006.54
-    },
-    {
-      "market": "Prague: Andrew Paulson vs Norbert Gombos",
-      "prev": 0.195,
-      "now": 0.065,
-      "delta": -0.13,
+      "market": "Prague: Andrew Paulson vs Norbert Gombos \u2014 Prague, Czech Republic, Qualifying: Completed Match: Andrew Paulson vs Norbert Gombos",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/atp-paulson-gombos-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 68162.02,
-      "liquidity": 232861.31
+      "volume24hr": 81941.26,
+      "liquidity": 1058.94
     },
     {
-      "market": "Who will be removed from Chinese Military Companies list by June 30, 2027? \u2014 Will BYD be removed from Chinese Military Companies list by June 30, 2027?",
-      "prev": 0.5,
-      "now": 0.595,
-      "delta": 0.095,
-      "url": "https://polymarket.com/event/who-will-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230550",
+      "market": "Ethereum above ___ on August 17? \u2014 Will the price of Ethereum be above $1,900 on August 17?",
+      "prev": 0.315,
+      "now": 0.65,
+      "delta": 0.335,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-17-2026",
       "tags": [
-        "AI",
-        "USA",
-        "Tech",
-        "list",
-        "China",
-        "Trump",
-        "Alibaba",
-        "Big Tech",
-        "military",
-        "Geopolitics",
-        "AI Regulation",
-        "United States"
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 8813.44,
-      "liquidity": 328.33
+      "volume24hr": 13727.57,
+      "liquidity": 19242.37
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 3.5",
-      "prev": 0.82,
-      "now": 0.74,
-      "delta": -0.08,
+      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+      "prev": 0.465,
+      "now": 0.785,
+      "delta": 0.32,
+      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 48413.83,
+      "liquidity": 131589.28
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 LoL: T1 vs DN SOOPers - Game 2 Winner",
+      "prev": 0.465,
+      "now": 0.77,
+      "delta": 0.305,
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
@@ -110,64 +75,89 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 9297.95,
-      "liquidity": 125260.86
+      "volume24hr": 395393.13,
+      "liquidity": 167045.83
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: T1 (-2.5) vs DN SOOPers (+2.5)",
-      "prev": 0.27,
-      "now": 0.345,
-      "delta": 0.075,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5949.89,
-      "liquidity": 57652.25
-    },
-    {
-      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Masoud Pezeshkian attend a US x Iran diplomatic meeting by December 31, 2026?",
-      "prev": 0.23,
-      "now": 0.305,
-      "delta": 0.075,
-      "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
+      "market": "US-Iran 60 day negotiation period extended?",
+      "prev": 0.041,
+      "now": 0.286,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448",
       "tags": [
         "Iran",
-        "Trump",
-        "US-Iran",
         "Politics",
         "Peace Deal",
         "Geopolitics",
-        "Israel x Iran",
-        "Iran Ceasefire"
+        "U.S. x Iran"
       ],
-      "volume24hr": 7894.76,
-      "liquidity": 409.11
+      "volume24hr": 135823.46,
+      "liquidity": 63249.32
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 LoL: Bulldog Esports vs LEO - Game 1 Winner",
-      "prev": 0.505,
-      "now": 0.575,
-      "delta": 0.07,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: KRX.C (-1.5) vs Hanwha Life Esports Challengers (+1.5)",
+      "prev": 0.215,
+      "now": 0.435,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 139163.27,
-      "liquidity": 436.36
+      "volume24hr": 3577.91,
+      "liquidity": 3240.34
+    },
+    {
+      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 1 Rounds Handicap: ENCE (-3.5) vs Esport BERG (+3.5)",
+      "prev": 0.469,
+      "now": 0.2505,
+      "delta": -0.2185,
+      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 5.41
+    },
+    {
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 28\u00b0C on August 17?",
+      "prev": 0.272,
+      "now": 0.4735,
+      "delta": 0.2015,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
+      ],
+      "volume24hr": 10828.9,
+      "liquidity": 567.41
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: T1 (-1.5) vs DN SOOPers (+1.5)",
+      "prev": 0.405,
+      "now": 0.605,
+      "delta": 0.2,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 9633.13,
+      "liquidity": 5658.71
     }
   ],
   "log": [
-    {
-      "ts": "03:15:02",
-      "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:30:02",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
@@ -283,6 +273,10 @@
     {
       "ts": "10:30:02",
       "text": " poll complete \u2014 1601 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:45:01",
+      "text": " poll complete \u2014 1591 markets scanned, 10 flagged"
     }
   ]
 }
