@@ -1,70 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 18:00:02 UTC",
+  "lastUpdate": "2026-08-17 18:15:01 UTC",
   "swings": [
     {
-      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Pisa SC O/U 1.5",
-      "prev": 0.6,
-      "now": 0.0055,
-      "delta": -0.5945,
-      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 451.48,
-      "liquidity": 10901.98
-    },
-    {
-      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Empoli FC O/U 1.5",
-      "prev": 0.545,
-      "now": 0.0055,
-      "delta": -0.5395,
-      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 45.0,
-      "liquidity": 10901.96
-    },
-    {
-      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Cincinnati Open: Completed Match: Diane Parry vs Lois Boisson",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 575134.11,
-      "liquidity": 2165.02
-    },
-    {
-      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: 2nd Half O/U 1.5",
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 33.5 in Game 2?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 155195.1,
-      "liquidity": 3635.9
-    },
-    {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 First Blood in Game 2?",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
       "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
       "tags": [
         "Esports",
@@ -72,90 +13,146 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 108.53,
-      "liquidity": 65.97
+      "volume24hr": 1007192.52,
+      "liquidity": 563.45
     },
     {
-      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Halmstads BK 1st Half O/U 1.5",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 26.72,
-      "liquidity": 5254.78
-    },
-    {
-      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Both Teams to Score in Second Half",
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1007192.52,
+      "liquidity": 329.67
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 21.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1007192.52,
+      "liquidity": 329.67
+    },
+    {
+      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Coppa Italia"
       ],
-      "volume24hr": 155195.1,
-      "liquidity": 3593.74
+      "volume24hr": 118808.19,
+      "liquidity": 985.16
     },
     {
-      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: 2nd Half O/U 2.5",
+      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: US Sassuolo Calcio 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Coppa Italia"
       ],
-      "volume24hr": 155195.1,
-      "liquidity": 3655.71
+      "volume24hr": 118808.19,
+      "liquidity": 964.97
     },
     {
-      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Pisa SC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.485,
+      "now": 0.005,
+      "delta": -0.48,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1223.65,
+      "liquidity": 353.37
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.465,
+      "now": 0.005,
+      "delta": -0.46,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 617.0,
+      "liquidity": 590.45
+    },
+    {
+      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: US Sassuolo Calcio O/U 2.5",
+      "prev": 0.665,
+      "now": 0.9955,
+      "delta": 0.3305,
+      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Coppa Italia"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 3608.94
+      "volume24hr": 2075.93,
+      "liquidity": 8364.64
     },
     {
-      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Pisa SC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
+      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 Spread: US Sassuolo Calcio (-1.5)",
+      "prev": 0.63,
+      "now": 0.9595,
+      "delta": 0.3295,
+      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Coppa Italia"
       ],
-      "volume24hr": 155195.1,
-      "liquidity": 3593.74
+      "volume24hr": 31842.64,
+      "liquidity": 3998.6
+    },
+    {
+      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: O/U 2.5",
+      "prev": 0.685,
+      "now": 0.9995,
+      "delta": 0.3145,
+      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 22729.34,
+      "liquidity": 125124.22
     }
   ],
   "log": [
-    {
-      "ts": "10:45:01",
-      "text": " poll complete \u2014 1591 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:00:01",
       "text": " poll complete \u2014 1592 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "18:00:02",
       "text": " poll complete \u2014 1698 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:15:01",
+      "text": " poll complete \u2014 1700 markets scanned, 10 flagged"
     }
   ]
 }
