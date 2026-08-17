@@ -1,152 +1,163 @@
 {
-  "lastUpdate": "2026-08-17 14:45:01 UTC",
+  "lastUpdate": "2026-08-17 15:00:02 UTC",
   "swings": [
     {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Set 2 Winner: Ribeiro vs Nagal",
-      "prev": 0.5,
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 29\u00b0C on August 17?",
+      "prev": 0.8565,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
+      "delta": -0.856,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
+      ],
+      "volume24hr": 16194.23,
+      "liquidity": 21954.89
+    },
+    {
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 30\u00b0C on August 17?",
+      "prev": 0.125,
+      "now": 0.82,
+      "delta": 0.695,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
+      ],
+      "volume24hr": 15180.28,
+      "liquidity": 382.08
+    },
+    {
+      "market": "Prague: Nerman Fatic vs Matthew William Donald",
+      "prev": 0.6,
+      "now": 0.975,
+      "delta": 0.375,
+      "url": "https://polymarket.com/event/atp-fatic-donald-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 164350.83,
-      "liquidity": 2673.84
+      "volume24hr": 88341.23,
+      "liquidity": 231999.52
     },
     {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Eduardo Ribeiro vs. Sumit Nagal: Total Sets O/U 2.5",
+      "market": "Ethereum above ___ on August 17? \u2014 Will the price of Ethereum be above $1,900 on August 17?",
+      "prev": 0.57,
+      "now": 0.845,
+      "delta": 0.275,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-17-2026",
+      "tags": [
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 18183.99,
+      "liquidity": 15617.71
+    },
+    {
+      "market": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In \u2014 Counter-Strike: Raccoons vs Fire Flux Esports - Map 1 Winner",
+      "prev": 0.39,
+      "now": 0.655,
+      "delta": 0.265,
+      "url": "https://polymarket.com/event/cs2-raccoo-ff-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 9193.8,
+      "liquidity": 4438.3
+    },
+    {
+      "market": "Counter-Strike: LPH Gaming vs SAW Youngsters (BO3) - CCT Europe Challengers Series Playoffs \u2014 Counter-Strike: LPH Gaming vs SAW Youngsters - Map 2 Winner",
+      "prev": 0.255,
+      "now": 0.52,
+      "delta": 0.265,
+      "url": "https://polymarket.com/event/cs2-lph-sawy-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4707.11,
+      "liquidity": 3475.5
+    },
+    {
+      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Radulov vs. Monday: Match O/U 22.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
+      "now": 0.75,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 164350.83,
-      "liquidity": 5792.42
+      "volume24hr": 9.52,
+      "liquidity": 4140.5
     },
     {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Set 2 Games O/U 9.5",
-      "prev": 0.5,
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
+      "prev": 0.215,
+      "now": 0.455,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 392632.16,
+      "liquidity": 27085.28
+    },
+    {
+      "market": "Counter-Strike: LPH Gaming vs SAW Youngsters (BO3) - CCT Europe Challengers Series Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.735,
+      "now": 0.52,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/cs2-lph-sawy-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 240.29,
+      "liquidity": 17.58
+    },
+    {
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Games Total: O/U 2.5",
+      "prev": 0.8,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
+      "delta": 0.1995,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 164350.83,
-      "liquidity": 2662.14
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Set Handicap: Nagal (-1.5) vs Ribeiro (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 6.0,
-      "liquidity": 4388.56
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 164350.83,
-      "liquidity": 2672.7
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 164350.83,
-      "liquidity": 5792.42
-    },
-    {
-      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Set 2 Winner: Radulov vs Monday",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 74577.58,
-      "liquidity": 2487.13
-    },
-    {
-      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Radulov vs. Monday: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 74577.58,
-      "liquidity": 2798.16
-    },
-    {
-      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Radulov vs. Monday: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 74577.58,
-      "liquidity": 2317.14
-    },
-    {
-      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Radulov vs. Monday: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 74577.58,
-      "liquidity": 2742.17
+      "volume24hr": 12850.03,
+      "liquidity": 62069.25
     }
   ],
   "log": [
-    {
-      "ts": "07:30:01",
-      "text": " poll complete \u2014 1697 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:45:01",
       "text": " poll complete \u2014 1692 markets scanned, 10 flagged"
@@ -262,6 +273,10 @@
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1610 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:00:02",
+      "text": " poll complete \u2014 1595 markets scanned, 10 flagged"
     }
   ]
 }
