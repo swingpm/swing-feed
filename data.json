@@ -1,53 +1,101 @@
 {
-  "lastUpdate": "2026-08-17 16:00:02 UTC",
+  "lastUpdate": "2026-08-17 16:15:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Parry vs. Boisson: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
+      "market": "Counter-Strike: Bushido Wildcats vs Inner Circle Academy (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/cs2-bw-innerc-2026-08-17",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 56.59,
-      "liquidity": 6879.11
+      "volume24hr": 103834.42,
+      "liquidity": 621.52
     },
     {
-      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Parry vs. Boisson: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
+      "market": "Counter-Strike: Nexus vs G2 Ares (BO3) - NODWIN Clutch Series Play-In Group C \u2014 Counter-Strike: Nexus vs G2 Ares - Map 2 Winner",
+      "prev": 0.29,
+      "now": 0.71,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/cs2-nxs1-g2a-2026-08-17",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 6281.32
+      "volume24hr": 17521.04,
+      "liquidity": 4261.28
     },
     {
-      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Parry vs. Boisson: Set 1 Games O/U 10.5",
+      "market": "Counter-Strike: Bushido Wildcats vs Inner Circle Academy (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 1 Rounds Handicap: Bushido Wildcats (-3.5) vs Inner Circle Academy (+3.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-bw-innerc-2026-08-17",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 150129.12,
-      "liquidity": 6894.64
+      "volume24hr": 103834.42,
+      "liquidity": 445.07
     },
     {
-      "market": "IF Gnistan vs. Tampereen Ilves - More Markets \u2014 IF Gnistan vs. Tampereen Ilves: IF Gnistan 1st Half O/U 1.5",
+      "market": "Counter-Strike: Bushido Wildcats vs Inner Circle Academy (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 1 Rounds Handicap: Bushido Wildcats (-6.5) vs Inner Circle Academy (+6.5)",
       "prev": 0.5,
-      "now": 0.9965,
-      "delta": 0.4965,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-bw-innerc-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 103834.42,
+      "liquidity": 115.47
+    },
+    {
+      "market": "Counter-Strike: Bushido Wildcats vs Inner Circle Academy (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 1 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-bw-innerc-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 103834.42,
+      "liquidity": 115.47
+    },
+    {
+      "market": "Counter-Strike: Bushido Wildcats vs Inner Circle Academy (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 1 Rounds Handicap: Bushido Wildcats (-9.5) vs Inner Circle Academy (+9.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-bw-innerc-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 103834.42,
+      "liquidity": 115.47
+    },
+    {
+      "market": "IF Gnistan vs. Tampereen Ilves - More Markets \u2014 Spread: IF Gnistan (-2.5)",
+      "prev": 0.09,
+      "now": 0.48,
+      "delta": 0.39,
       "url": "https://polymarket.com/event/fin1-gni-ilv-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -55,99 +103,56 @@
         "Soccer",
         "Veikkausliiga"
       ],
-      "volume24hr": 10.94,
-      "liquidity": 4672.71
+      "volume24hr": 90.05,
+      "liquidity": 0.56
     },
     {
-      "market": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli \u2014 Blockx vs. Cobolli: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-blockx-cobolli-2026-08-17",
+      "market": "Counter-Strike: Nexus vs G2 Ares (BO3) - NODWIN Clutch Series Play-In Group C \u2014 Games Total: O/U 2.5",
+      "prev": 0.37,
+      "now": 0.73,
+      "delta": 0.36,
+      "url": "https://polymarket.com/event/cs2-nxs1-g2a-2026-08-17",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 2453.91,
-      "liquidity": 12277.55
+      "volume24hr": 778.68,
+      "liquidity": 667.78
     },
     {
-      "market": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli \u2014 Blockx vs. Cobolli: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-blockx-cobolli-2026-08-17",
+      "market": "Counter-Strike: Nexus vs G2 Ares (BO3) - NODWIN Clutch Series Play-In Group C \u2014 Map Handicap: G2.A (-1.5) vs Nexus (+1.5)",
+      "prev": 0.625,
+      "now": 0.275,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/cs2-nxs1-g2a-2026-08-17",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 9.28,
-      "liquidity": 10369.85
+      "volume24hr": 470.29,
+      "liquidity": 76.79
     },
     {
-      "market": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli \u2014 Blockx vs. Cobolli: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-blockx-cobolli-2026-08-17",
+      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.215,
+      "now": 0.485,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 276101.96,
-      "liquidity": 10932.32
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Swiatek vs. Sakkari: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 35.09,
-      "liquidity": 6485.06
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Swiatek vs. Sakkari: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 250405.98,
-      "liquidity": 6436.09
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Swiatek vs. Sakkari: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 250405.98,
-      "liquidity": 5109.39
+      "volume24hr": 2.08,
+      "liquidity": 3.19
     }
   ],
   "log": [
-    {
-      "ts": "08:45:01",
-      "text": " poll complete \u2014 1655 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:00:01",
       "text": " poll complete \u2014 1649 markets scanned, 10 flagged"
@@ -263,6 +268,10 @@
     {
       "ts": "16:00:02",
       "text": " poll complete \u2014 1661 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:15:01",
+      "text": " poll complete \u2014 1662 markets scanned, 10 flagged"
     }
   ]
 }
