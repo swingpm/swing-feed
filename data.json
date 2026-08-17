@@ -1,26 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 19:30:01 UTC",
+  "lastUpdate": "2026-08-17 19:45:01 UTC",
   "swings": [
     {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: RC Deportivo A Coru\u00f1a 1st Half O/U 0.5",
-      "prev": 0.355,
-      "now": 0.995,
-      "delta": 0.64,
-      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 351.44,
-      "liquidity": 1769.23
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: O/U 0.5",
-      "prev": 0.425,
-      "now": 0.9995,
-      "delta": 0.5745,
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: Both Teams to Score in Second Half",
+      "prev": 0.535,
+      "now": 0.0045,
+      "delta": -0.5305,
       "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -28,14 +13,14 @@
         "Soccer",
         "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 42317.42,
-      "liquidity": 113149.56
+      "volume24hr": 130758.36,
+      "liquidity": 3762.88
     },
     {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: RC Deportivo A Coru\u00f1a 1st Half O/U 1.5",
-      "prev": 0.065,
-      "now": 0.58,
-      "delta": 0.515,
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Elche CF 1st Half O/U 0.5",
+      "prev": 0.58,
+      "now": 0.07,
+      "delta": -0.51,
       "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -43,29 +28,14 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 8.33,
-      "liquidity": 340.72
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 123315.84,
-      "liquidity": 1219.81
+      "volume24hr": 687.52,
+      "liquidity": 338.41
     },
     {
       "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Both Teams to Score in First Half",
-      "prev": 0.11,
-      "now": 0.595,
-      "delta": 0.485,
+      "prev": 0.595,
+      "now": 0.09,
+      "delta": -0.505,
       "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -73,29 +43,14 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 2391.99,
-      "liquidity": 919.18
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 1.5",
-      "prev": 0.0205,
-      "now": 0.5,
-      "delta": 0.4795,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 1467.22,
-      "liquidity": 0.01
+      "volume24hr": 2430.99,
+      "liquidity": 4287.45
     },
     {
       "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: 1st Half O/U 2.5",
-      "prev": 0.04,
-      "now": 0.5185,
-      "delta": 0.4785,
+      "prev": 0.5185,
+      "now": 0.0135,
+      "delta": -0.505,
       "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -104,13 +59,13 @@
         "La Liga"
       ],
       "volume24hr": 37.78,
-      "liquidity": 652.49
+      "liquidity": 9140.99
     },
     {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Elche CF 1st Half O/U 1.5",
-      "prev": 0.04,
-      "now": 0.5055,
-      "delta": 0.4655,
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: RC Deportivo A Coru\u00f1a 1st Half O/U 1.5",
+      "prev": 0.58,
+      "now": 0.08,
+      "delta": -0.5,
       "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -118,45 +73,86 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 164.2,
-      "liquidity": 331.95
+      "volume24hr": 8.33,
+      "liquidity": 338.73
     },
     {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: RC Deportivo A Coru\u00f1a O/U 1.5",
-      "prev": 0.295,
-      "now": 0.755,
-      "delta": 0.46,
-      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 1346.37,
-      "liquidity": 2347.77
-    },
-    {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: 1st Half O/U 0.5",
-      "prev": 0.54,
+      "market": "Counter-Strike: ENJOY vs HAVU (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 2 Rounds Handicap: ENJOY (-6.5) vs HAVU (+6.5)",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.4595,
-      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-enjoy-havu-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 133484.18,
+      "liquidity": 491.62
+    },
+    {
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: AA Estudiantes O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 7120.7,
-      "liquidity": 99460.52
+      "volume24hr": 237.6,
+      "liquidity": 12209.69
+    },
+    {
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: AA Estudiantes O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 130758.36,
+      "liquidity": 13045.88
+    },
+    {
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 29.85,
+      "liquidity": 14428.1
+    },
+    {
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 1467.22,
+      "liquidity": 25730.12
     }
   ],
   "log": [
-    {
-      "ts": "12:15:01",
-      "text": " poll complete \u2014 1591 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:30:01",
       "text": " poll complete \u2014 1508 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:45:01",
+      "text": " poll complete \u2014 1714 markets scanned, 10 flagged"
     }
   ]
 }
