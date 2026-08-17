@@ -1,53 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 14:00:01 UTC",
+  "lastUpdate": "2026-08-17 14:15:01 UTC",
   "swings": [
     {
-      "market": "ITF W50 Prague Women: Beatrise Zeltina vs Barbora Palicova \u2014 ITF W50 Prague Women: Completed Match: Beatrise Zeltina vs Barbora Palicova",
-      "prev": 0.495,
-      "now": 0.1,
-      "delta": -0.395,
-      "url": "https://polymarket.com/event/itf-zeltina-palicov-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 53268.28,
-      "liquidity": 125.47
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 21.5",
-      "prev": 0.81,
-      "now": 0.5,
-      "delta": -0.31,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 7.89,
-      "liquidity": 210948.72
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 22.5",
-      "prev": 0.745,
-      "now": 0.48,
-      "delta": -0.265,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 38.98,
-      "liquidity": 1618.0
-    },
-    {
-      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
-      "prev": 0.815,
-      "now": 0.565,
-      "delta": -0.25,
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Games Total: O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
       "tags": [
         "Esports",
@@ -55,90 +13,73 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 208750.8,
-      "liquidity": 40841.98
+      "volume24hr": 10250.21,
+      "liquidity": 7502.94
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
-      "prev": 0.61,
-      "now": 0.855,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 49343.17,
-      "liquidity": 462.95
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.76,
-      "now": 0.9945,
-      "delta": 0.2345,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 104.41,
-      "liquidity": 50.57
-    },
-    {
-      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: DK (-1.5) vs Hanwha Life Esports (+1.5)",
-      "prev": 0.31,
-      "now": 0.465,
-      "delta": 0.155,
-      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 200.0,
-      "liquidity": 5571.69
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 23.5",
+      "market": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans \u2014 ITF M25 Idanha-a-Nova 2 Men, Qualifying: Completed Match: Artem Alekseychuk vs Tiago Boschmans",
       "prev": 0.5,
-      "now": 0.37,
-      "delta": -0.13,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/itf-aleksey-boschma-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 114031.76,
-      "liquidity": 1622.0
+      "volume24hr": 466150.0,
+      "liquidity": 115.47
     },
     {
-      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 30\u00b0C on August 17?",
-      "prev": 0.19,
-      "now": 0.06,
-      "delta": -0.13,
-      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 LoL: Bulldog Esports vs LEO - Game 1 Winner",
+      "prev": 0.51,
+      "now": 0.79,
+      "delta": 0.28,
+      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Milan",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 13602.23,
-      "liquidity": 325.84
+      "volume24hr": 154700.36,
+      "liquidity": 2041.19
+    },
+    {
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map Handicap: Noir Verse (-1.5) vs ex-RUSTEC (+1.5)",
+      "prev": 0.5,
+      "now": 0.225,
+      "delta": -0.275,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 319847.27,
+      "liquidity": 1099.45
+    },
+    {
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 LoL: Bulldog Esports vs LEO - Game 2 Winner",
+      "prev": 0.51,
+      "now": 0.775,
+      "delta": 0.265,
+      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 154700.36,
+      "liquidity": 2072.58
     },
     {
       "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 4.5",
-      "prev": 0.33,
-      "now": 0.21,
-      "delta": -0.12,
+      "prev": 0.21,
+      "now": 0.0005,
+      "delta": -0.2095,
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
@@ -146,15 +87,71 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1726.86,
-      "liquidity": 1048.18
+      "volume24hr": 4318.49,
+      "liquidity": 63429.24
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 LoL: T1 vs DN SOOPers - Game 4 Winner",
+      "prev": 0.205,
+      "now": 0.0005,
+      "delta": -0.2045,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 595157.09,
+      "liquidity": 1298767.39
+    },
+    {
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
+      "prev": 0.565,
+      "now": 0.42,
+      "delta": -0.145,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 245305.25,
+      "liquidity": 99184.82
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
+      "prev": 0.855,
+      "now": 0.9995,
+      "delta": 0.1445,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 50624.14,
+      "liquidity": 151227.53
+    },
+    {
+      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.51,
+      "now": 0.38,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 156650.29,
+      "liquidity": 221.75
     }
   ],
   "log": [
-    {
-      "ts": "06:45:01",
-      "text": " poll complete \u2014 1720 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
@@ -270,6 +267,10 @@
     {
       "ts": "14:00:01",
       "text": " poll complete \u2014 1602 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:15:01",
+      "text": " poll complete \u2014 1593 markets scanned, 10 flagged"
     }
   ]
 }
