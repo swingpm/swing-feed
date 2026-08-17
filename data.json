@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 00:45:01 UTC",
+  "lastUpdate": "2026-08-17 01:00:02 UTC",
   "swings": [
     {
       "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Both Teams to Score",
-      "prev": 0.19,
-      "now": 0.695,
-      "delta": 0.505,
+      "prev": 0.695,
+      "now": 0.06,
+      "delta": -0.635,
       "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -13,14 +13,14 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 34812.22,
-      "liquidity": 746.8
+      "volume24hr": 41182.72,
+      "liquidity": 9705.31
     },
     {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: CF Am\u00e9rica 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
+      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Atl\u00e9tico San Luis 1st Half O/U 1.5",
+      "prev": 0.0025,
+      "now": 0.5,
+      "delta": 0.4975,
       "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -28,132 +28,129 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 30.0,
-      "liquidity": 1234.59
+      "volume24hr": 340071.53,
+      "liquidity": 870139.65
     },
     {
-      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16-more-markets",
+      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: CF Am\u00e9rica 1st Half O/U 1.5",
+      "prev": 0.003,
+      "now": 0.5,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "Liga MX"
       ],
-      "volume24hr": 124684.0,
-      "liquidity": 2600.67
+      "volume24hr": 41.29,
+      "liquidity": 0.01
     },
     {
-      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: SC Corinthians Paulista 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16-more-markets",
+      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Atl\u00e9tico San Luis 1st Half O/U 0.5",
+      "prev": 0.003,
+      "now": 0.5,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "Liga MX"
       ],
-      "volume24hr": 124684.0,
-      "liquidity": 2600.67
+      "volume24hr": 640.14,
+      "liquidity": 0.01
     },
     {
-      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: Cruzeiro EC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16-more-markets",
+      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: CA Central C\u00f3rdoba O/U 2.5",
+      "prev": 0.004,
+      "now": 0.5,
+      "delta": 0.496,
+      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 124684.0,
-      "liquidity": 2600.63
+      "volume24hr": 231.55,
+      "liquidity": 464265.91
     },
     {
-      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria \u2014 Shelton vs. Faria: Set 1 Games O/U 8.5",
+      "market": "Portland Fire vs. Phoenix Mercury \u2014 Megan DiLeo: Points O/U 13.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-por-phx-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA"
       ],
-      "volume24hr": 106.85,
-      "liquidity": 5196.29
+      "volume24hr": 2.04,
+      "liquidity": 310.28
     },
     {
-      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria \u2014 Shelton vs. Faria: Set 1 Games O/U 9.5",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
+      "market": "Portland Fire vs. Phoenix Mercury \u2014 Megan DiLeo: Points O/U 14.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-por-phx-2026-08-16",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA"
       ],
-      "volume24hr": 35.0,
-      "liquidity": 5486.63
+      "volume24hr": 431330.75,
+      "liquidity": 310.28
     },
     {
-      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria \u2014 Shelton vs. Faria: Set 1 Games O/U 10.5",
+      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: Instituto AC C\u00f3rdoba O/U 2.5",
+      "prev": 0.007,
+      "now": 0.5,
+      "delta": 0.493,
+      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 66.8,
+      "liquidity": 0.01
+    },
+    {
+      "market": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In \u2014 Map Handicap: EG (-1.5) vs Cloud9 (+1.5)",
+      "prev": 0.56,
+      "now": 0.165,
+      "delta": -0.395,
+      "url": "https://polymarket.com/event/val-c9-eg2-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 81.36,
+      "liquidity": 4379.66
+    },
+    {
+      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 21.5 in Game 2?",
       "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
+      "now": 0.13,
+      "delta": -0.365,
+      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 14.5,
-      "liquidity": 5491.64
-    },
-    {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Atl\u00e9tico San Luis O/U 0.5",
-      "prev": 0.22,
-      "now": 0.705,
-      "delta": 0.485,
-      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Liga MX"
+        "Sports"
       ],
-      "volume24hr": 3329.35,
-      "liquidity": 39.14
-    },
-    {
-      "market": "Seattle Mariners vs. Houston Astros \u2014 1st 5 Innings Spread: Seattle Mariners (-1.5)",
-      "prev": 0.5,
-      "now": 0.05,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/mlb-sea-hou-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 15.12,
-      "liquidity": 5.19
+      "volume24hr": 1976391.44,
+      "liquidity": 153.9
     }
   ],
   "log": [
-    {
-      "ts": "17:30:01",
-      "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:45:01",
       "text": " poll complete \u2014 1908 markets scanned, 10 flagged"
@@ -269,6 +266,10 @@
     {
       "ts": "00:45:01",
       "text": " poll complete \u2014 1985 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:00:02",
+      "text": " poll complete \u2014 2010 markets scanned, 10 flagged"
     }
   ]
 }
