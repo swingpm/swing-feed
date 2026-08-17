@@ -1,71 +1,41 @@
 {
-  "lastUpdate": "2026-08-17 01:00:02 UTC",
+  "lastUpdate": "2026-08-17 01:15:01 UTC",
   "swings": [
     {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Both Teams to Score",
-      "prev": 0.695,
-      "now": 0.06,
-      "delta": -0.635,
-      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
+      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba \u2014 Will Instituto AC C\u00f3rdoba win on 2026-08-16?",
+      "prev": 0.19,
+      "now": 0.995,
+      "delta": 0.805,
+      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Liga MX"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 41182.72,
-      "liquidity": 9705.31
+      "volume24hr": 173544.7,
+      "liquidity": 166130.39
     },
     {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Atl\u00e9tico San Luis 1st Half O/U 1.5",
-      "prev": 0.0025,
-      "now": 0.5,
-      "delta": 0.4975,
-      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
+      "market": "Will CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba end in a draw?",
+      "prev": 0.65,
+      "now": 0.005,
+      "delta": -0.645,
+      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Liga MX"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 340071.53,
-      "liquidity": 870139.65
+      "volume24hr": 10491.39,
+      "liquidity": 157050.87
     },
     {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: CF Am\u00e9rica 1st Half O/U 1.5",
-      "prev": 0.003,
-      "now": 0.5,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 41.29,
-      "liquidity": 0.01
-    },
-    {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Atl\u00e9tico San Luis 1st Half O/U 0.5",
-      "prev": 0.003,
-      "now": 0.5,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 640.14,
-      "liquidity": 0.01
-    },
-    {
-      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: CA Central C\u00f3rdoba O/U 2.5",
-      "prev": 0.004,
-      "now": 0.5,
-      "delta": 0.496,
+      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: O/U 0.5",
+      "prev": 0.37,
+      "now": 0.9995,
+      "delta": 0.6295,
       "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -73,88 +43,114 @@
         "Soccer",
         "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 231.55,
-      "liquidity": 464265.91
+      "volume24hr": 7125.68,
+      "liquidity": 149544.88
     },
     {
-      "market": "Portland Fire vs. Phoenix Mercury \u2014 Megan DiLeo: Points O/U 13.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wnba-por-phx-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 2.04,
-      "liquidity": 310.28
-    },
-    {
-      "market": "Portland Fire vs. Phoenix Mercury \u2014 Megan DiLeo: Points O/U 14.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wnba-por-phx-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 431330.75,
-      "liquidity": 310.28
-    },
-    {
-      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: Instituto AC C\u00f3rdoba O/U 2.5",
-      "prev": 0.007,
-      "now": 0.5,
-      "delta": 0.493,
-      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16-more-markets",
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Austin FC 1st Half O/U 1.5",
+      "prev": 0.53,
+      "now": 0.0155,
+      "delta": -0.5145,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "MLS"
       ],
-      "volume24hr": 66.8,
-      "liquidity": 0.01
+      "volume24hr": 45.3,
+      "liquidity": 338.55
     },
     {
-      "market": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In \u2014 Map Handicap: EG (-1.5) vs Cloud9 (+1.5)",
-      "prev": 0.56,
-      "now": 0.165,
-      "delta": -0.395,
-      "url": "https://polymarket.com/event/val-c9-eg2-2026-08-16",
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: FC Dallas 1st Half O/U 1.5",
+      "prev": 0.545,
+      "now": 0.045,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 81.36,
-      "liquidity": 4379.66
+      "volume24hr": 85689.58,
+      "liquidity": 559.56
     },
     {
-      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 21.5 in Game 2?",
-      "prev": 0.495,
-      "now": 0.13,
-      "delta": -0.365,
-      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
+      "market": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova \u2014 Gauff vs. Samsonova: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-samsono-2026-08-16",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 1976391.44,
-      "liquidity": 153.9
+      "volume24hr": 379857.66,
+      "liquidity": 3303.16
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova \u2014 Gauff vs. Samsonova: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-samsono-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 379857.66,
+      "liquidity": 3304.59
+    },
+    {
+      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Atl\u00e9tico San Luis 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.004,
+      "delta": -0.496,
+      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 3869.22
+    },
+    {
+      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 28.0,
+      "liquidity": 3539.35
+    },
+    {
+      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 28.0,
+      "liquidity": 3539.35
     }
   ],
   "log": [
-    {
-      "ts": "17:45:01",
-      "text": " poll complete \u2014 1908 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:00:01",
       "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
@@ -270,6 +266,10 @@
     {
       "ts": "01:00:02",
       "text": " poll complete \u2014 2010 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:15:01",
+      "text": " poll complete \u2014 1946 markets scanned, 10 flagged"
     }
   ]
 }
