@@ -1,182 +1,158 @@
 {
-  "lastUpdate": "2026-08-17 10:00:01 UTC",
+  "lastUpdate": "2026-08-17 10:15:02 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 27\u00b0C on August 17?",
-      "prev": 0.2865,
-      "now": 0.8655,
-      "delta": 0.579,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 10927.88,
-      "liquidity": 195.93
-    },
-    {
-      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 26\u00b0C on August 17?",
-      "prev": 0.4925,
-      "now": 0.0005,
-      "delta": -0.492,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 12176.3,
-      "liquidity": 20095.77
-    },
-    {
-      "market": "Highest temperature in Busan on August 17? \u2014 Will the highest temperature in Busan be 26\u00b0C on August 17?",
-      "prev": 0.492,
-      "now": 0.94,
-      "delta": 0.448,
-      "url": "https://polymarket.com/event/highest-temperature-in-busan-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Busan",
-        "Highest temperature"
-      ],
-      "volume24hr": 5346.77,
-      "liquidity": 206.13
-    },
-    {
-      "market": "Highest temperature in Busan on August 17? \u2014 Will the highest temperature in Busan be 25\u00b0C on August 17?",
-      "prev": 0.446,
-      "now": 0.0005,
-      "delta": -0.4455,
-      "url": "https://polymarket.com/event/highest-temperature-in-busan-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Busan",
-        "Highest temperature"
-      ],
-      "volume24hr": 9925.17,
-      "liquidity": 23051.14
-    },
-    {
-      "market": "Counter-Strike: Vitality Academy vs  Phantom Academy (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Rounds Handicap: Vitality Academy (-3.5) vs  Phantom Academy (+3.5)",
-      "prev": 0.75,
-      "now": 0.5,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/cs2-vita-phanto-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 283.18,
-      "liquidity": 68764.96
-    },
-    {
-      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 25\u00b0C on August 17?",
-      "prev": 0.1865,
-      "now": 0.0005,
-      "delta": -0.186,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 10117.17,
-      "liquidity": 21794.37
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-2.5) vs T1 (+2.5)",
-      "prev": 0.155,
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
       "now": 0.005,
-      "delta": -0.15,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 2910.44,
-      "liquidity": 31888.27
+      "volume24hr": 724441.48,
+      "liquidity": 860.33
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 4.5",
-      "prev": 0.51,
-      "now": 0.415,
-      "delta": -0.095,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 249.78,
-      "liquidity": 6555.96
+      "volume24hr": 724441.48,
+      "liquidity": 860.53
     },
     {
-      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 29\u00b0C on August 17?",
-      "prev": 0.318,
-      "now": 0.232,
-      "delta": -0.086,
-      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Milan",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 9646.95,
-      "liquidity": 321.93
+      "volume24hr": 724441.48,
+      "liquidity": 860.33
     },
     {
-      "market": "Who will be removed from Chinese Military Companies list by June 30, 2027? \u2014 Will Baidu be removed from Chinese Military Companies list by June 30, 2027?",
-      "prev": 0.525,
-      "now": 0.595,
-      "delta": 0.07,
-      "url": "https://polymarket.com/event/who-will-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230550",
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
       "tags": [
-        "AI",
-        "USA",
-        "Tech",
-        "list",
-        "China",
-        "Trump",
-        "Alibaba",
-        "Big Tech",
-        "military",
-        "Geopolitics",
-        "AI Regulation",
-        "United States"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 6446.91,
-      "liquidity": 310.06
+      "volume24hr": 724441.48,
+      "liquidity": 860.53
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 724441.48,
+      "liquidity": 115.47
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 724441.48,
+      "liquidity": 115.47
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 724441.48,
+      "liquidity": 115.47
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1.89,
+      "liquidity": 115.47
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 724441.48,
+      "liquidity": 115.47
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 724441.48,
+      "liquidity": 115.47
     }
   ],
   "log": [
-    {
-      "ts": "02:45:02",
-      "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:00:01",
       "text": " poll complete \u2014 1900 markets scanned, 10 flagged"
@@ -292,6 +268,10 @@
     {
       "ts": "10:00:01",
       "text": " poll complete \u2014 1600 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:15:02",
+      "text": " poll complete \u2014 1612 markets scanned, 10 flagged"
     }
   ]
 }
