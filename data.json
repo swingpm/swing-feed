@@ -1,60 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 07:45:01 UTC",
+  "lastUpdate": "2026-08-17 08:00:01 UTC",
   "swings": [
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.255,
-      "now": 0.485,
-      "delta": 0.23,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 410283.61,
-      "liquidity": 291.38
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 28\u00b0C on August 17?",
-      "prev": 0.7805,
-      "now": 0.975,
-      "delta": 0.1945,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 18228.31,
-      "liquidity": 725.07
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 29\u00b0C on August 17?",
-      "prev": 0.1835,
-      "now": 0.0315,
-      "delta": -0.152,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 7390.69,
-      "liquidity": 512.13
-    },
-    {
-      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 24\u00b0C on August 17?",
-      "prev": 0.185,
-      "now": 0.28,
-      "delta": 0.095,
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 26\u00b0C on August 17?",
+      "prev": 0.2915,
+      "now": 0.444,
+      "delta": 0.1525,
       "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
       "tags": [
         "Weather",
@@ -64,48 +15,112 @@
         "Munich",
         "Highest temperature"
       ],
-      "volume24hr": 8854.9,
-      "liquidity": 366.62
+      "volume24hr": 11179.09,
+      "liquidity": 1667.7
     },
     {
-      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 30\u00b0C on August 17?",
-      "prev": 0.35,
-      "now": 0.265,
-      "delta": -0.085,
-      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Game Handicap: BRO (-1.5) vs DN SOOPers (+1.5)",
+      "prev": 0.38,
+      "now": 0.23,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 60535.68,
+      "liquidity": 1324.2
+    },
+    {
+      "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 28\u00b0C on August 17?",
+      "prev": 0.975,
+      "now": 0.8375,
+      "delta": -0.1375,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
       "tags": [
         "Weather",
         "Recurring",
         "Hide From New",
+        "Seoul",
         "Daily Temperature",
-        "Milan",
         "Highest temperature"
       ],
-      "volume24hr": 7674.95,
-      "liquidity": 242.17
+      "volume24hr": 19036.08,
+      "liquidity": 1119.58
     },
     {
-      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 27\u00b0C on August 17?",
-      "prev": 0.085,
-      "now": 0.17,
-      "delta": 0.085,
-      "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 24\u00b0C on August 17?",
+      "prev": 0.28,
+      "now": 0.155,
+      "delta": -0.125,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
       "tags": [
         "Weather",
         "Recurring",
         "Hide From New",
         "Daily Temperature",
-        "Hong Kong",
-        "Lowest temperature"
+        "Munich",
+        "Highest temperature"
       ],
-      "volume24hr": 6362.83,
-      "liquidity": 220.74
+      "volume24hr": 9080.92,
+      "liquidity": 451.41
     },
     {
-      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Steve Witkoff attend a US x Iran diplomatic meeting by December 31, 2026?",
-      "prev": 0.395,
-      "now": 0.46,
-      "delta": 0.065,
+      "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 29\u00b0C on August 17?",
+      "prev": 0.0315,
+      "now": 0.152,
+      "delta": 0.1205,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 7592.24,
+      "liquidity": 508.5
+    },
+    {
+      "market": "Highest temperature in London on August 17? \u2014 Will the highest temperature in London be 27\u00b0C on August 17?",
+      "prev": 0.145,
+      "now": 0.2,
+      "delta": 0.055,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 5393.69,
+      "liquidity": 911.4
+    },
+    {
+      "market": "\"Spider-Man: Brand New Day\" 3rd Weekend Box Office (Lower Strikes) \u2014 Will \"Spider-Man: Brand New Day\" 3rd Weekend Box Office be between 70m and 72m?",
+      "prev": 0.8605,
+      "now": 0.8155,
+      "delta": -0.045,
+      "url": "https://polymarket.com/event/spider-man-brand-new-day-3rd-weekend-box-office-lower-strikes",
+      "tags": [
+        "Movies",
+        "Culture",
+        "Box Office",
+        "Spider-Man"
+      ],
+      "volume24hr": 5696.89,
+      "liquidity": 801.71
+    },
+    {
+      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Majid Takht-Ravanchi attend a US x Iran diplomatic meeting by December 31, 2026?",
+      "prev": 0.48,
+      "now": 0.44,
+      "delta": -0.04,
       "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
       "tags": [
         "Iran",
@@ -117,46 +132,29 @@
         "Israel x Iran",
         "Iran Ceasefire"
       ],
-      "volume24hr": 6005.2,
-      "liquidity": 757.98
+      "volume24hr": 6964.64,
+      "liquidity": 342.48
     },
     {
-      "market": "Highest temperature in Madrid on August 17? \u2014 Will the highest temperature in Madrid be 37\u00b0C on August 17?",
-      "prev": 0.555,
-      "now": 0.495,
-      "delta": -0.06,
-      "url": "https://polymarket.com/event/highest-temperature-in-madrid-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Madrid",
-        "Highest temperature"
-      ],
-      "volume24hr": 8091.39,
-      "liquidity": 448.25
-    },
-    {
-      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Game Handicap: BRO (-1.5) vs DN SOOPers (+1.5)",
-      "prev": 0.435,
-      "now": 0.38,
-      "delta": -0.055,
-      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: DK (-1.5) vs Hanwha Life Esports (+1.5)",
+      "prev": 0.48,
+      "now": 0.44,
+      "delta": -0.04,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 60535.68,
-      "liquidity": 722.7
+      "volume24hr": 200.0,
+      "liquidity": 10055.5
     },
     {
       "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 28\u00b0C on August 17?",
-      "prev": 0.83,
-      "now": 0.775,
-      "delta": -0.055,
+      "prev": 0.775,
+      "now": 0.815,
+      "delta": 0.04,
       "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
       "tags": [
         "Weather",
@@ -166,15 +164,11 @@
         "Hong Kong",
         "Lowest temperature"
       ],
-      "volume24hr": 11234.87,
-      "liquidity": 742.26
+      "volume24hr": 11400.35,
+      "liquidity": 705.32
     }
   ],
   "log": [
-    {
-      "ts": "00:30:02",
-      "text": " poll complete \u2014 1995 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:45:01",
       "text": " poll complete \u2014 1985 markets scanned, 10 flagged"
@@ -290,6 +284,10 @@
     {
       "ts": "07:45:01",
       "text": " poll complete \u2014 1692 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:00:01",
+      "text": " poll complete \u2014 1700 markets scanned, 10 flagged"
     }
   ]
 }
