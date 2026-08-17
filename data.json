@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-17 18:30:01 UTC",
+  "lastUpdate": "2026-08-17 18:45:01 UTC",
   "swings": [
     {
-      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold: S\u00f8nderjyske Fodbold O/U 1.5",
-      "prev": 0.08,
-      "now": 0.995,
-      "delta": 0.915,
-      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Denmark Superliga"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 70.09,
-      "liquidity": 1856.41
+      "volume24hr": 1849.93,
+      "liquidity": 13493.09
     },
     {
-      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Spread: Br\u00f8ndby IF (-2.5)",
-      "prev": 0.855,
-      "now": 0.11,
-      "delta": -0.745,
-      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 698.03,
-      "liquidity": 9823.97
-    },
-    {
-      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold: Both Teams to Score",
-      "prev": 0.365,
-      "now": 0.9995,
-      "delta": 0.6345,
-      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 17592.95,
-      "liquidity": 96918.94
-    },
-    {
-      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold: S\u00f8nderjyske Fodbold O/U 0.5",
-      "prev": 0.365,
-      "now": 0.996,
-      "delta": 0.631,
-      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 97.81,
-      "liquidity": 3171.76
-    },
-    {
-      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Spread: Br\u00f8ndby IF (-1.5)",
-      "prev": 0.965,
-      "now": 0.377,
-      "delta": -0.588,
-      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 9622.96,
-      "liquidity": 50247.67
-    },
-    {
-      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
-      "prev": 0.495,
-      "now": 0.9995,
-      "delta": 0.5045,
-      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 12314.26,
-      "liquidity": 149408.92
-    },
-    {
-      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: Both Teams to Score in Second Half",
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: Both Teams to Score in First Half",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Coppa Italia"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 150462.5,
-      "liquidity": 2977.85
+      "volume24hr": 77098.82,
+      "liquidity": 2740.58
     },
     {
-      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: 2nd Half O/U 1.5",
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: 1st Half O/U 0.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Coppa Italia"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 150462.5,
-      "liquidity": 3039.36
+      "volume24hr": 17.4,
+      "liquidity": 2684.54
     },
     {
-      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: 2nd Half O/U 2.5",
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: 1st Half O/U 1.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Coppa Italia"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 150462.5,
-      "liquidity": 3005.56
+      "volume24hr": 134.39,
+      "liquidity": 2740.61
     },
     {
-      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: US Sassuolo Calcio 2nd Half O/U 1.5",
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: AA Estudiantes 1st Half O/U 1.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Coppa Italia"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 150462.5,
-      "liquidity": 3040.27
+      "volume24hr": 11.83,
+      "liquidity": 2768.65
+    },
+    {
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: 1st Half O/U 2.5",
+      "prev": 0.4995,
+      "now": 0.0045,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 15.0,
+      "liquidity": 2677.67
+    },
+    {
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n 1st Half O/U 1.5",
+      "prev": 0.4995,
+      "now": 0.0045,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 2721.71
+    },
+    {
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 2.5",
+      "prev": 0.5025,
+      "now": 0.016,
+      "delta": -0.4865,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 77098.82,
+      "liquidity": 1123.57
+    },
+    {
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 1.5",
+      "prev": 0.545,
+      "now": 0.105,
+      "delta": -0.44,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 110.0,
+      "liquidity": 1736.73
+    },
+    {
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: Cincinnati Reds (-3.5)",
+      "prev": 0.485,
+      "now": 0.05,
+      "delta": -0.435,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-05-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 15.12,
+      "liquidity": 16.02
     }
   ],
   "log": [
-    {
-      "ts": "11:15:01",
-      "text": " poll complete \u2014 1593 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:30:01",
       "text": " poll complete \u2014 1602 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "18:30:01",
       "text": " poll complete \u2014 1724 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:45:01",
+      "text": " poll complete \u2014 1738 markets scanned, 10 flagged"
     }
   ]
 }
