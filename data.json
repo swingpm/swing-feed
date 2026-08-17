@@ -1,162 +1,167 @@
 {
-  "lastUpdate": "2026-08-17 12:15:01 UTC",
+  "lastUpdate": "2026-08-17 12:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 28\u00b0C on August 17?",
+      "prev": 0.675,
+      "now": 0.905,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
       ],
-      "volume24hr": 137.5,
-      "liquidity": 445.07
+      "volume24hr": 12907.44,
+      "liquidity": 157.63
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.25,
+      "now": 0.055,
+      "delta": -0.195,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 486144.7,
-      "liquidity": 115.47
+      "volume24hr": 83238.47,
+      "liquidity": 892.53
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.495,
-      "now": 0.095,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Counter-Strike: ENCE vs Esport BERG - Map 2 Winner",
+      "prev": 0.465,
+      "now": 0.635,
+      "delta": 0.17,
+      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 623.09,
-      "liquidity": 123.59
+      "volume24hr": 15322.91,
+      "liquidity": 45267.25
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 LoL: T1 vs DN SOOPers - Game 3 Winner",
+      "prev": 0.29,
+      "now": 0.125,
+      "delta": -0.165,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1.01,
-      "liquidity": 445.07
+      "volume24hr": 440934.41,
+      "liquidity": 178483.57
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 30\u00b0C on August 17?",
+      "prev": 0.175,
+      "now": 0.04,
+      "delta": -0.135,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
       ],
-      "volume24hr": 486144.7,
-      "liquidity": 115.47
+      "volume24hr": 9519.17,
+      "liquidity": 332.25
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "market": "Ethereum above ___ on August 17? \u2014 Will the price of Ethereum be above $1,900 on August 17?",
+      "prev": 0.61,
+      "now": 0.49,
+      "delta": -0.12,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 1.96,
-      "liquidity": 115.47
+      "volume24hr": 16725.67,
+      "liquidity": 10787.46
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Counter-Strike: Noir Verse vs ex-RUSTEC - Map 1 Winner",
+      "prev": 0.485,
+      "now": 0.6,
+      "delta": 0.115,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 486144.7,
-      "liquidity": 438.0
+      "volume24hr": 1767.14,
+      "liquidity": 1109.9
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 29\u00b0C on August 17?",
+      "prev": 0.1715,
+      "now": 0.066,
+      "delta": -0.1055,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
       ],
-      "volume24hr": 486144.7,
-      "liquidity": 108.4
+      "volume24hr": 10176.62,
+      "liquidity": 296.59
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+      "prev": 0.305,
+      "now": 0.205,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 102.0,
-      "liquidity": 108.4
+      "volume24hr": 2040922.1,
+      "liquidity": 164309.52
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Quadra Kill?",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "now": 0.415,
+      "delta": -0.085,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 486144.7,
-      "liquidity": 115.47
+      "volume24hr": 47772.99,
+      "liquidity": 13072.94
     }
   ],
   "log": [
-    {
-      "ts": "05:00:01",
-      "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:15:01",
       "text": " poll complete \u2014 1753 markets scanned, 10 flagged"
@@ -272,6 +277,10 @@
     {
       "ts": "12:15:01",
       "text": " poll complete \u2014 1591 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:30:01",
+      "text": " poll complete \u2014 1508 markets scanned, 10 flagged"
     }
   ]
 }
