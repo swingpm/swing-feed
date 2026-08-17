@@ -1,41 +1,82 @@
 {
-  "lastUpdate": "2026-08-17 01:15:01 UTC",
+  "lastUpdate": "2026-08-17 01:30:02 UTC",
   "swings": [
     {
-      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba \u2014 Will Instituto AC C\u00f3rdoba win on 2026-08-16?",
-      "prev": 0.19,
-      "now": 0.995,
-      "delta": 0.805,
-      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16",
+      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria \u2014 Shelton vs. Faria: Match O/U 22.5",
+      "prev": 0.9,
+      "now": 0.0005,
+      "delta": -0.8995,
+      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Games"
       ],
-      "volume24hr": 173544.7,
-      "liquidity": 166130.39
+      "volume24hr": 1692.01,
+      "liquidity": 15187.02
     },
     {
-      "market": "Will CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba end in a draw?",
-      "prev": 0.65,
+      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria \u2014 Set 2 Winner: Shelton vs Faria",
+      "prev": 0.7445,
+      "now": 0.0005,
+      "delta": -0.744,
+      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 103.09,
+      "liquidity": 7626.69
+    },
+    {
+      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria \u2014 Shelton vs. Faria: Match O/U 23.5",
+      "prev": 0.63,
       "now": 0.005,
-      "delta": -0.645,
-      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16",
+      "delta": -0.625,
+      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Games"
       ],
-      "volume24hr": 10491.39,
-      "liquidity": 157050.87
+      "volume24hr": 1759.96,
+      "liquidity": 7254.59
     },
     {
-      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: O/U 0.5",
-      "prev": 0.37,
-      "now": 0.9995,
-      "delta": 0.6295,
+      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria",
+      "prev": 0.595,
+      "now": 0.005,
+      "delta": -0.59,
+      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 410760.84,
+      "liquidity": 295570.58
+    },
+    {
+      "market": "Valorant: FURIA Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: FURIA Esports (-3.5) vs G2 Esports (+3.5)",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/val-fur-g21-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 651386.85,
+      "liquidity": 0.0
+    },
+    {
+      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: CA Central C\u00f3rdoba O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -43,118 +84,70 @@
         "Soccer",
         "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 7125.68,
-      "liquidity": 149544.88
+      "volume24hr": 128.01,
+      "liquidity": 12657.96
     },
     {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Austin FC 1st Half O/U 1.5",
-      "prev": 0.53,
-      "now": 0.0155,
-      "delta": -0.5145,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 45.3,
-      "liquidity": 338.55
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: FC Dallas 1st Half O/U 1.5",
-      "prev": 0.545,
-      "now": 0.045,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 85689.58,
-      "liquidity": 559.56
-    },
-    {
-      "market": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova \u2014 Gauff vs. Samsonova: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-gauff-samsono-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 379857.66,
-      "liquidity": 3303.16
-    },
-    {
-      "market": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova \u2014 Gauff vs. Samsonova: Set 2 Games O/U 10.5",
+      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: CA Central C\u00f3rdoba O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-gauff-samsono-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 379857.66,
-      "liquidity": 3304.59
-    },
-    {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Atl\u00e9tico San Luis 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
+      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Liga MX"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 3869.22
+      "volume24hr": 251.55,
+      "liquidity": 12707.94
     },
     {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Both Teams to Score in Second Half",
+      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: Instituto AC C\u00f3rdoba O/U 2.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Liga MX"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 28.0,
-      "liquidity": 3539.35
+      "volume24hr": 81.8,
+      "liquidity": 12532.79
     },
     {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: 2nd Half O/U 2.5",
+      "market": "CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba - More Markets \u2014 CA Central C\u00f3rdoba vs. Instituto AC C\u00f3rdoba: 2nd Half O/U 2.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/arg-cac-iac-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Liga MX"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 28.0,
-      "liquidity": 3539.35
+      "volume24hr": 95946.27,
+      "liquidity": 3906.48
+    },
+    {
+      "market": "Portland Fire vs. Phoenix Mercury \u2014 DeWanna Bonner: Points O/U 11.5",
+      "prev": 0.5005,
+      "now": 0.9995,
+      "delta": 0.499,
+      "url": "https://polymarket.com/event/wnba-por-phx-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA"
+      ],
+      "volume24hr": 391.38,
+      "liquidity": 792.06
     }
   ],
   "log": [
-    {
-      "ts": "18:00:01",
-      "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:15:01",
       "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
@@ -270,6 +263,10 @@
     {
       "ts": "01:15:01",
       "text": " poll complete \u2014 1946 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:30:02",
+      "text": " poll complete \u2014 1973 markets scanned, 10 flagged"
     }
   ]
 }
