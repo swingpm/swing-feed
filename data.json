@@ -1,140 +1,130 @@
 {
-  "lastUpdate": "2026-08-17 23:30:02 UTC",
+  "lastUpdate": "2026-08-17 23:45:01 UTC",
   "swings": [
     {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays: 1st 5 Innings O/U 4.5",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 1st 5 Innings Spread: Cincinnati Reds (-1.5)",
+      "prev": 0.66,
+      "now": 0.075,
+      "delta": -0.585,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 6.0,
+      "liquidity": 4.94
+    },
+    {
+      "market": "Cincinnati Open: Linda Noskova vs Clara Tauson \u2014 Set 1 Winner: Noskova vs Tauson",
+      "prev": 0.165,
+      "now": 0.725,
+      "delta": 0.56,
+      "url": "https://polymarket.com/event/wta-noskova-tauson-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2885.69,
+      "liquidity": 5326.43
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: SC Internacional 1st Half O/U 1.5",
+      "prev": 0.645,
+      "now": 0.09,
+      "delta": -0.555,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 448.78,
+      "liquidity": 679.85
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: 1st Half O/U 2.5",
+      "prev": 0.53,
+      "now": 0.0105,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 532.8,
+      "liquidity": 532.55
+    },
+    {
+      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 3.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 3408.17,
-      "liquidity": 18105.15
+      "volume24hr": 138.0,
+      "liquidity": 1577.0
     },
     {
-      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Cincinnati Open: Completed Match: Rafael Jodar vs Alejandro Tabilo",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 898034.93,
-      "liquidity": 1985.86
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Jodar vs. Tabilo: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 898034.93,
-      "liquidity": 3714.65
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Jodar vs. Tabilo: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 374.7,
-      "liquidity": 6789.77
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Jodar vs. Tabilo: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 898034.93,
-      "liquidity": 3688.68
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Jodar vs. Tabilo: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 898034.93,
-      "liquidity": 3704.09
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Jodar vs. Tabilo: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 898034.93,
-      "liquidity": 6812.47
-    },
-    {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays: 1st 5 Innings O/U 5.5",
+      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 2.5",
       "prev": 0.5,
       "now": 0.9955,
       "delta": 0.4955,
-      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1132495.98,
-      "liquidity": 1803.13
+      "volume24hr": 86.43,
+      "liquidity": 1981.53
     },
     {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
+      "market": "Will there be a run scored in the first inning?: Athletics vs. Kansas City Royals",
+      "prev": 0.515,
+      "now": 0.9945,
+      "delta": 0.4795,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 1463.01
+      "volume24hr": 43.81,
+      "liquidity": 2386.73
     },
     {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays: O/U 5.5",
+      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: CSyD Defensa y Justicia O/U 1.5",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
+      "now": 0.05,
+      "delta": -0.45,
+      "url": "https://polymarket.com/event/arg-vel-def-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 82.11,
+      "liquidity": 1467.58
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays",
+      "prev": 0.275,
+      "now": 0.715,
+      "delta": 0.44,
       "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
       "tags": [
         "Sports",
@@ -142,15 +132,26 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 60.0,
-      "liquidity": 5255.23
+      "volume24hr": 895537.48,
+      "liquidity": 185936.01
+    },
+    {
+      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: CA V\u00e9lez Sarsfield O/U 2.5",
+      "prev": 0.5,
+      "now": 0.065,
+      "delta": -0.435,
+      "url": "https://polymarket.com/event/arg-vel-def-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 90.32,
+      "liquidity": 1570.25
     }
   ],
   "log": [
-    {
-      "ts": "16:15:01",
-      "text": " poll complete \u2014 1662 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:30:01",
       "text": " poll complete \u2014 1708 markets scanned, 10 flagged"
@@ -265,6 +266,10 @@
     },
     {
       "ts": "23:30:02",
+      "text": " poll complete \u2014 1619 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:45:01",
       "text": " poll complete \u2014 1619 markets scanned, 10 flagged"
     }
   ]
