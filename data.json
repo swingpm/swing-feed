@@ -1,105 +1,25 @@
 {
-  "lastUpdate": "2026-08-17 09:30:01 UTC",
+  "lastUpdate": "2026-08-17 09:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: T1 (-1.5) vs DN SOOPers (+1.5)",
-      "prev": 0.12,
-      "now": 0.43,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "market": "Prague: Jakub Paul vs Rudolf Molleker \u2014 Prague, Czech Republic, Qualifying: Completed Match: Jakub Paul vs Rudolf Molleker",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-pau-molleke-2026-08-17",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 9097.88,
-      "liquidity": 6771.24
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 2 Winner",
-      "prev": 0.3,
-      "now": 0.015,
-      "delta": -0.285,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 146427.16,
-      "liquidity": 188055.58
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Games Total: O/U 2.5",
-      "prev": 0.3,
-      "now": 0.03,
-      "delta": -0.27,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3914.04,
-      "liquidity": 14470.58
-    },
-    {
-      "market": "Highest temperature in Busan on August 17? \u2014 Will the highest temperature in Busan be 26\u00b0C on August 17?",
-      "prev": 0.1455,
-      "now": 0.396,
-      "delta": 0.2505,
-      "url": "https://polymarket.com/event/highest-temperature-in-busan-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Busan",
-        "Highest temperature"
-      ],
-      "volume24hr": 4998.14,
-      "liquidity": 196.78
-    },
-    {
-      "market": "Highest temperature in Busan on August 17? \u2014 Will the highest temperature in Busan be 25\u00b0C on August 17?",
-      "prev": 0.8125,
-      "now": 0.5755,
-      "delta": -0.237,
-      "url": "https://polymarket.com/event/highest-temperature-in-busan-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Busan",
-        "Highest temperature"
-      ],
-      "volume24hr": 8483.8,
-      "liquidity": 169.89
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
-      "prev": 0.645,
-      "now": 0.425,
-      "delta": -0.22,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 34885.47,
-      "liquidity": 63874.52
+      "volume24hr": 506.0,
+      "liquidity": 1552.66
     },
     {
       "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 LoL: T1 vs DN SOOPers - Game 1 Winner",
-      "prev": 0.335,
-      "now": 0.55,
-      "delta": 0.215,
+      "prev": 0.55,
+      "now": 0.93,
+      "delta": 0.38,
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
@@ -107,29 +27,63 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 61112.54,
-      "liquidity": 182146.08
+      "volume24hr": 532373.0,
+      "liquidity": 211009.09
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prev": 0.165,
-      "now": 0.014,
-      "delta": -0.151,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 25\u00b0C on August 17?",
+      "prev": 0.4355,
+      "now": 0.1865,
+      "delta": -0.249,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 9216.15,
+      "liquidity": 413.26
+    },
+    {
+      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Game Handicap: BRO (-1.5) vs DN SOOPers (+1.5)",
+      "prev": 0.47,
+      "now": 0.235,
+      "delta": -0.235,
+      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 149171.77,
-      "liquidity": 177345.14
+      "volume24hr": 61185.82,
+      "liquidity": 1402.08
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: T1 (-2.5) vs DN SOOPers (+2.5)",
-      "prev": 0.485,
-      "now": 0.335,
-      "delta": -0.15,
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 27\u00b0C on August 17?",
+      "prev": 0.06,
+      "now": 0.2865,
+      "delta": 0.2265,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 10692.49,
+      "liquidity": 268.28
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
+      "prev": 0.425,
+      "now": 0.235,
+      "delta": -0.19,
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
@@ -137,38 +91,71 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5829.02,
-      "liquidity": 11465.2
+      "volume24hr": 36508.63,
+      "liquidity": 101151.34
     },
     {
-      "market": "Who will be removed from Chinese Military Companies list by June 30, 2027? \u2014 Will Tencent be removed from Chinese Military Companies list by June 30, 2027?",
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map Handicap: ex-RUSTEC (-1.5) vs Noir Verse (+1.5)",
+      "prev": 0.365,
+      "now": 0.555,
+      "delta": 0.19,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1211.22,
+      "liquidity": 45.9
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+      "prev": 0.345,
+      "now": 0.505,
+      "delta": 0.16,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1188746.97,
+      "liquidity": 198157.99
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 4.5",
       "prev": 0.355,
-      "now": 0.46,
-      "delta": 0.105,
-      "url": "https://polymarket.com/event/who-will-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230550",
+      "now": 0.51,
+      "delta": 0.155,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
-        "AI",
-        "USA",
-        "Tech",
-        "list",
-        "China",
-        "Trump",
-        "Alibaba",
-        "Big Tech",
-        "military",
-        "Geopolitics",
-        "AI Regulation",
-        "United States"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 2811.98,
-      "liquidity": 176.35
+      "volume24hr": 244.2,
+      "liquidity": 4634.44
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.245,
+      "now": 0.09,
+      "delta": -0.155,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 57144.43,
+      "liquidity": 438.68
     }
   ],
   "log": [
-    {
-      "ts": "02:15:02",
-      "text": " poll complete \u2014 1933 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:30:02",
       "text": " poll complete \u2014 1888 markets scanned, 10 flagged"
@@ -284,6 +271,10 @@
     {
       "ts": "09:30:01",
       "text": " poll complete \u2014 1644 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:45:01",
+      "text": " poll complete \u2014 1607 markets scanned, 10 flagged"
     }
   ]
 }
