@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-17 02:00:02 UTC",
+  "lastUpdate": "2026-08-17 02:15:02 UTC",
   "swings": [
     {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central O/U 2.5",
+      "market": "Club Santos Laguna vs. CD Guadalajara - More Markets \u2014 Club Santos Laguna vs. CD Guadalajara: Club Santos Laguna 1st Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/mex-san-gua-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Liga MX"
       ],
-      "volume24hr": 5942.93,
-      "liquidity": 24963.32
+      "volume24hr": 39.0,
+      "liquidity": 2734.58
     },
     {
-      "market": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.4995,
-      "now": 0.0005,
-      "delta": -0.499,
-      "url": "https://polymarket.com/event/val-c9-eg2-2026-08-16",
+      "market": "Club Santos Laguna vs. CD Guadalajara - More Markets \u2014 Club Santos Laguna vs. CD Guadalajara: Club Santos Laguna 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/mex-san-gua-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 87.75,
+      "liquidity": 2706.58
+    },
+    {
+      "market": "Club Santos Laguna vs. CD Guadalajara - More Markets \u2014 Club Santos Laguna vs. CD Guadalajara: CD Guadalajara 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/mex-san-gua-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 22.31,
+      "liquidity": 2713.52
+    },
+    {
+      "market": "Club Santos Laguna vs. CD Guadalajara - More Markets \u2014 Club Santos Laguna vs. CD Guadalajara: CD Guadalajara 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/mex-san-gua-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 8.69,
+      "liquidity": 2734.54
+    },
+    {
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 132138.79,
+      "liquidity": 671.42
+    },
+    {
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Austin FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 132138.79,
+      "liquidity": 691.85
+    },
+    {
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Both Teams to Score",
+      "prev": 0.525,
+      "now": 0.9995,
+      "delta": 0.4745,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 20800.88,
+      "liquidity": 109888.88
+    },
+    {
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Austin FC O/U 0.5",
+      "prev": 0.53,
+      "now": 0.9975,
+      "delta": 0.4675,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 171.65,
+      "liquidity": 6294.75
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.935,
+      "now": 0.505,
+      "delta": -0.43,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
-        "Valorant",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 450.06
+      "volume24hr": 120.0,
+      "liquidity": 8.2
     },
     {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
+      "market": "Austin FC vs. FC Dallas \u2014 Will FC Dallas win on 2026-08-16?",
+      "prev": 0.69,
+      "now": 0.275,
+      "delta": -0.415,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "MLS"
       ],
-      "volume24hr": 77965.93,
-      "liquidity": 10933.61
-    },
-    {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 77965.93,
-      "liquidity": 2674.35
-    },
-    {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 77965.93,
-      "liquidity": 2649.6
-    },
-    {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 77965.93,
-      "liquidity": 2649.63
-    },
-    {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Rosario Central 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 2649.42
-    },
-    {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Rosario Central 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 77965.93,
-      "liquidity": 2642.63
-    },
-    {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 3.7,
-      "liquidity": 10935.07
-    },
-    {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Rosario Central O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 6.32,
-      "liquidity": 10933.62
+      "volume24hr": 53297.55,
+      "liquidity": 119934.86
     }
   ],
   "log": [
-    {
-      "ts": "18:45:01",
-      "text": " poll complete \u2014 1951 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:00:01",
       "text": " poll complete \u2014 1944 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "02:00:02",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:15:02",
+      "text": " poll complete \u2014 1933 markets scanned, 10 flagged"
     }
   ]
 }
