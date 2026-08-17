@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-17 04:30:01 UTC",
+  "lastUpdate": "2026-08-17 04:45:01 UTC",
   "swings": [
     {
-      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: Vancouver Whitecaps FC O/U 1.5",
-      "prev": 0.125,
-      "now": 0.985,
-      "delta": 0.86,
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: Club Tijuana O/U 1.5",
+      "prev": 0.475,
+      "now": 0.999,
+      "delta": 0.524,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 450.5,
+      "liquidity": 4593.37
+    },
+    {
+      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.0045,
+      "delta": -0.5005,
       "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -13,59 +28,104 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 2006.81,
-      "liquidity": 4349.89
+      "volume24hr": 21.71,
+      "liquidity": 3588.39
     },
     {
-      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: O/U 1.5",
-      "prev": 0.215,
+      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 326333.81,
+      "liquidity": 3613.14
+    },
+    {
+      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: Seattle Sounders FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 326333.81,
+      "liquidity": 3620.34
+    },
+    {
+      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: Seattle Sounders FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 326333.81,
+      "liquidity": 3601.55
+    },
+    {
+      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: Vancouver Whitecaps FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 326333.81,
+      "liquidity": 4096.41
+    },
+    {
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: 2nd Half O/U 0.5",
+      "prev": 0.5,
       "now": 0.995,
-      "delta": 0.78,
-      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "MLS"
+        "Liga MX"
       ],
-      "volume24hr": 33168.38,
-      "liquidity": 94309.24
+      "volume24hr": 95142.98,
+      "liquidity": 1227.51
     },
     {
-      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Spread: Vancouver Whitecaps FC (-1.5)",
-      "prev": 0.105,
-      "now": 0.86,
-      "delta": 0.755,
-      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: Club Tijuana 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "MLS"
+        "Liga MX"
       ],
-      "volume24hr": 78543.67,
-      "liquidity": 5890.85
+      "volume24hr": 95142.98,
+      "liquidity": 1226.82
     },
     {
-      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC \u2014 Will Vancouver Whitecaps FC win on 2026-08-16?",
-      "prev": 0.385,
-      "now": 0.985,
-      "delta": 0.6,
-      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 499155.11,
-      "liquidity": 151217.62
-    },
-    {
-      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - Exact Score \u2014 Exact Score: Seattle Sounders FC 0 - 2 Vancouver Whitecaps FC?",
-      "prev": 0.065,
-      "now": 0.625,
-      "delta": 0.56,
+      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - Exact Score \u2014 Exact Score: Any Other Score?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-exact-score",
       "tags": [
         "Sports",
@@ -73,89 +133,26 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 3467.09,
-      "liquidity": 360.09
+      "volume24hr": 62.59,
+      "liquidity": 717.24
     },
     {
-      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
+      "market": "Club Tijuana vs. CF Cruz Azul \u2014 Will Club Tijuana win on 2026-08-16?",
+      "prev": 0.285,
+      "now": 0.695,
+      "delta": 0.41,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "MLS"
+        "Liga MX"
       ],
-      "volume24hr": 1.23,
-      "liquidity": 719.51
-    },
-    {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Cincinnati Open: Completed Match: Tereza Valentova vs Elina Svitolina",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 518.0,
-      "liquidity": 972.17
-    },
-    {
-      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: Vancouver Whitecaps FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 270849.3,
-      "liquidity": 3880.0
-    },
-    {
-      "market": "Will Seattle Sounders FC vs. Vancouver Whitecaps FC end in a draw?",
-      "prev": 0.485,
-      "now": 0.015,
-      "delta": -0.47,
-      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 27392.83,
-      "liquidity": 140646.63
-    },
-    {
-      "market": "Seattle Sounders FC vs. Vancouver Whitecaps FC - More Markets \u2014 Seattle Sounders FC vs. Vancouver Whitecaps FC: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.95,
-      "delta": 0.45,
-      "url": "https://polymarket.com/event/mls-sea-vwh-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 270849.3,
-      "liquidity": 5.56
+      "volume24hr": 167636.12,
+      "liquidity": 134924.66
     }
   ],
   "log": [
-    {
-      "ts": "21:15:02",
-      "text": " poll complete \u2014 2037 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:30:02",
       "text": " poll complete \u2014 1991 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "04:30:01",
       "text": " poll complete \u2014 1881 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:45:01",
+      "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
     }
   ]
 }
