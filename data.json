@@ -1,11 +1,60 @@
 {
-  "lastUpdate": "2026-08-17 08:30:01 UTC",
+  "lastUpdate": "2026-08-17 08:45:01 UTC",
   "swings": [
     {
+      "market": "Counter-Strike: Vitality Academy vs  Phantom Academy (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Rounds Handicap: Vitality Academy (-3.5) vs  Phantom Academy (+3.5)",
+      "prev": 0.5,
+      "now": 0.75,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/cs2-vita-phanto-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 283.18,
+      "liquidity": 55.0
+    },
+    {
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 26\u00b0C on August 17?",
+      "prev": 0.216,
+      "now": 0.4025,
+      "delta": 0.1865,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 11811.02,
+      "liquidity": 513.51
+    },
+    {
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 24\u00b0C on August 17?",
+      "prev": 0.36,
+      "now": 0.205,
+      "delta": -0.155,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 9972.97,
+      "liquidity": 503.18
+    },
+    {
       "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 1 Winner",
-      "prev": 0.535,
-      "now": 0.165,
-      "delta": -0.37,
+      "prev": 0.165,
+      "now": 0.017,
+      "delta": -0.148,
       "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
       "tags": [
         "Esports",
@@ -13,150 +62,121 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 85065.74,
-      "liquidity": 164960.59
+      "volume24hr": 146480.64,
+      "liquidity": 167912.97
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.285,
-      "now": 0.54,
-      "delta": 0.255,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: DK (-1.5) vs Hanwha Life Esports (+1.5)",
+      "prev": 0.495,
+      "now": 0.37,
+      "delta": -0.125,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 132021.8,
-      "liquidity": 26.18
+      "volume24hr": 200.0,
+      "liquidity": 10798.79
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.285,
-      "now": 0.54,
-      "delta": 0.255,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "market": "Who will be removed from Chinese Military Companies list by June 30, 2027? \u2014 Will BYD be removed from Chinese Military Companies list by June 30, 2027?",
+      "prev": 0.495,
+      "now": 0.595,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/who-will-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230550",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "AI",
+        "USA",
+        "Tech",
+        "list",
+        "China",
+        "Trump",
+        "Alibaba",
+        "Big Tech",
+        "military",
+        "Geopolitics",
+        "AI Regulation",
+        "United States"
       ],
-      "volume24hr": 132021.8,
-      "liquidity": 26.18
+      "volume24hr": 10687.06,
+      "liquidity": 426.51
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.25,
-      "now": 0.5,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 28\u00b0C on August 17?",
+      "prev": 0.1475,
+      "now": 0.2385,
+      "delta": 0.091,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
       ],
-      "volume24hr": 132021.8,
-      "liquidity": 0.1
+      "volume24hr": 9965.79,
+      "liquidity": 765.43
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.25,
-      "now": 0.5,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "market": "Who will be removed from Chinese Military Companies list by June 30, 2027? \u2014 Will Tencent be removed from Chinese Military Companies list by June 30, 2027?",
+      "prev": 0.43,
+      "now": 0.345,
+      "delta": -0.085,
+      "url": "https://polymarket.com/event/who-will-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230550",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "AI",
+        "USA",
+        "Tech",
+        "list",
+        "China",
+        "Trump",
+        "Alibaba",
+        "Big Tech",
+        "military",
+        "Geopolitics",
+        "AI Regulation",
+        "United States"
       ],
-      "volume24hr": 132021.8,
-      "liquidity": 0.1
+      "volume24hr": 2081.76,
+      "liquidity": 116.88
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.275,
-      "now": 0.505,
-      "delta": 0.23,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "market": "Test Match: Sri Lanka vs India \u2014 Will the match end in a draw?",
+      "prev": 0.14,
+      "now": 0.22,
+      "delta": 0.08,
+      "url": "https://polymarket.com/event/crint-lka-ind-2026-08-15",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Cricket",
+        "International Cricket"
       ],
-      "volume24hr": 132021.8,
-      "liquidity": 20.18
+      "volume24hr": 5615.97,
+      "liquidity": 2218.25
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.275,
-      "now": 0.505,
-      "delta": 0.23,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "market": "Highest temperature in Busan on August 17? \u2014 Will the highest temperature in Busan be 25\u00b0C on August 17?",
+      "prev": 0.783,
+      "now": 0.861,
+      "delta": 0.078,
+      "url": "https://polymarket.com/event/highest-temperature-in-busan-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Busan",
+        "Highest temperature"
       ],
-      "volume24hr": 132021.8,
-      "liquidity": 20.18
-    },
-    {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.28,
-      "now": 0.505,
-      "delta": 0.225,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 132021.8,
-      "liquidity": 20.2
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.3,
-      "now": 0.5,
-      "delta": 0.2,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 252.49,
-      "liquidity": 2.0
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prev": 0.575,
-      "now": 0.385,
-      "delta": -0.19,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 89756.43,
-      "liquidity": 102836.5
+      "volume24hr": 7660.56,
+      "liquidity": 189.63
     }
   ],
   "log": [
-    {
-      "ts": "01:15:01",
-      "text": " poll complete \u2014 1946 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:30:02",
       "text": " poll complete \u2014 1973 markets scanned, 10 flagged"
@@ -272,6 +292,10 @@
     {
       "ts": "08:30:01",
       "text": " poll complete \u2014 1679 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:45:01",
+      "text": " poll complete \u2014 1655 markets scanned, 10 flagged"
     }
   ]
 }
