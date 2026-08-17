@@ -1,162 +1,154 @@
 {
-  "lastUpdate": "2026-08-17 16:30:01 UTC",
+  "lastUpdate": "2026-08-17 16:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Nexus vs G2 Ares (BO3) - NODWIN Clutch Series Play-In Group C \u2014 Games Total: O/U 2.5",
-      "prev": 0.73,
-      "now": 0.0005,
-      "delta": -0.7295,
-      "url": "https://polymarket.com/event/cs2-nxs1-g2a-2026-08-17",
+      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: 1st Half O/U 0.5",
+      "prev": 0.695,
+      "now": 0.195,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Coppa Italia"
       ],
-      "volume24hr": 1294.18,
-      "liquidity": 17256.88
+      "volume24hr": 392.92,
+      "liquidity": 1305.09
     },
     {
-      "market": "Counter-Strike: Nexus vs G2 Ares (BO3) - NODWIN Clutch Series Play-In Group C \u2014 Map Handicap: G2.A (-1.5) vs Nexus (+1.5)",
-      "prev": 0.275,
-      "now": 0.9995,
-      "delta": 0.7245,
-      "url": "https://polymarket.com/event/cs2-nxs1-g2a-2026-08-17",
+      "market": "IF Gnistan vs. Tampereen Ilves \u2014 Will IF Gnistan win on 2026-08-17?",
+      "prev": 0.405,
+      "now": 0.905,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/fin1-gni-ilv-2026-08-17",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Veikkausliiga"
       ],
-      "volume24hr": 533.14,
-      "liquidity": 12843.21
+      "volume24hr": 42098.79,
+      "liquidity": 72151.05
     },
     {
-      "market": "Counter-Strike: Nexus vs G2 Ares (BO3) - NODWIN Clutch Series Play-In Group C \u2014 Counter-Strike: Nexus vs G2 Ares - Map 2 Winner",
-      "prev": 0.71,
-      "now": 0.0005,
-      "delta": -0.7095,
-      "url": "https://polymarket.com/event/cs2-nxs1-g2a-2026-08-17",
+      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Parry vs. Boisson: Match O/U 21.5",
+      "prev": 0.485,
+      "now": 0.9835,
+      "delta": 0.4985,
+      "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 23957.06,
-      "liquidity": 270804.84
+      "volume24hr": 935.5,
+      "liquidity": 5570.36
     },
     {
-      "market": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In \u2014 Games Total: O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-raccoo-ff-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 26.02,
-      "liquidity": 11356.86
-    },
-    {
-      "market": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In \u2014 Map Handicap: RAC (-1.5) vs Fire Flux Esports (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-raccoo-ff-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 100.0,
-      "liquidity": 6841.38
-    },
-    {
-      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 2?",
+      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Swiatek vs. Sakkari: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
+      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 1163256.27,
-      "liquidity": 744.1
+      "volume24hr": 586001.21,
+      "liquidity": 3642.66
     },
     {
-      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 39.5 in Game 1?",
+      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Swiatek vs. Sakkari: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
+      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 1163256.27,
-      "liquidity": 1369.12
+      "volume24hr": 586001.21,
+      "liquidity": 3642.66
     },
     {
-      "market": "Counter-Strike: Nexus vs G2 Ares (BO3) - NODWIN Clutch Series Play-In Group C \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Swiatek vs. Sakkari: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 586001.21,
+      "liquidity": 3632.1
+    },
+    {
+      "market": "IF Gnistan vs. Tampereen Ilves - More Markets \u2014 IF Gnistan vs. Tampereen Ilves: IF Gnistan O/U 2.5",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-nxs1-g2a-2026-08-17",
+      "url": "https://polymarket.com/event/fin1-gni-ilv-2026-08-17-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Veikkausliiga"
       ],
-      "volume24hr": 88655.94,
-      "liquidity": 454.97
+      "volume24hr": 196.47,
+      "liquidity": 1599.32
     },
     {
-      "market": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "market": "IF Gnistan vs. Tampereen Ilves - More Markets \u2014 IF Gnistan vs. Tampereen Ilves: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9805,
-      "delta": 0.4805,
-      "url": "https://polymarket.com/event/cs2-raccoo-ff-2026-08-17",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/fin1-gni-ilv-2026-08-17-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Veikkausliiga"
       ],
-      "volume24hr": 89681.46,
-      "liquidity": 573.56
+      "volume24hr": 215255.65,
+      "liquidity": 1539.33
     },
     {
-      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.485,
-      "now": 0.005,
-      "delta": -0.48,
-      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
+      "market": "IF Gnistan vs. Tampereen Ilves - More Markets \u2014 IF Gnistan vs. Tampereen Ilves: IF Gnistan 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/fin1-gni-ilv-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Veikkausliiga"
+      ],
+      "volume24hr": 215255.65,
+      "liquidity": 1582.13
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 37.64,
-      "liquidity": 657.75
+      "volume24hr": 6262437.33,
+      "liquidity": 115.47
     }
   ],
   "log": [
-    {
-      "ts": "09:15:01",
-      "text": " poll complete \u2014 1640 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:30:01",
       "text": " poll complete \u2014 1644 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "16:30:01",
       "text": " poll complete \u2014 1708 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:45:01",
+      "text": " poll complete \u2014 1723 markets scanned, 10 flagged"
     }
   ]
 }
