@@ -1,158 +1,156 @@
 {
-  "lastUpdate": "2026-08-16 23:45:02 UTC",
+  "lastUpdate": "2026-08-17 00:00:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Sloane Stephens vs Anastasia Potapova \u2014 Stephens vs. Potapova: Set 2 Games O/U 8.5",
-      "prev": 0.5,
+      "market": "New York City FC vs. Philadelphia Union - More Markets \u2014 New York City FC vs. Philadelphia Union: Philadelphia Union O/U 2.5",
+      "prev": 0.125,
+      "now": 0.9885,
+      "delta": 0.8635,
+      "url": "https://polymarket.com/event/mls-nyc-phi-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 54.0,
+      "liquidity": 5503.44
+    },
+    {
+      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 Games Total: O/U 2.5",
+      "prev": 0.19,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-stephen-potapov-2026-08-16",
+      "delta": 0.8095,
+      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 182584.48,
-      "liquidity": 2161.69
+      "volume24hr": 6673.3,
+      "liquidity": 217581.73
     },
     {
-      "market": "Cincinnati Open: Sloane Stephens vs Anastasia Potapova \u2014 Stephens vs. Potapova: Set 2 Games O/U 9.5",
-      "prev": 0.5,
+      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 LoL: LYON vs Sentinels - Game 2 Winner",
+      "prev": 0.2,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-stephen-potapov-2026-08-16",
+      "delta": 0.7995,
+      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 565546.35,
+      "liquidity": 452744.16
+    },
+    {
+      "market": "New York City FC vs. Philadelphia Union \u2014 Will Philadelphia Union win on 2026-08-16?",
+      "prev": 0.086,
+      "now": 0.8215,
+      "delta": 0.7355,
+      "url": "https://polymarket.com/event/mls-nyc-phi-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 496793.41,
+      "liquidity": 115126.97
+    },
+    {
+      "market": "New York City FC vs. Philadelphia Union - More Markets \u2014 New York City FC vs. Philadelphia Union: O/U 4.5",
+      "prev": 0.29,
+      "now": 0.995,
+      "delta": 0.705,
+      "url": "https://polymarket.com/event/mls-nyc-phi-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 9666.78,
+      "liquidity": 94331.83
+    },
+    {
+      "market": "Cincinnati Open: Adam Walton vs Ignacio Buse \u2014 Walton vs. Buse: Match O/U 21.5",
+      "prev": 0.655,
+      "now": 0.005,
+      "delta": -0.65,
+      "url": "https://polymarket.com/event/atp-walton-buse-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 182584.48,
-      "liquidity": 2188.81
+      "volume24hr": 59.45,
+      "liquidity": 1346.19
     },
     {
-      "market": "Cincinnati Open: Sloane Stephens vs Anastasia Potapova \u2014 Stephens vs. Potapova: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-stephen-potapov-2026-08-16",
+      "market": "New York City FC vs. Philadelphia Union \u2014 Will New York City FC win on 2026-08-16?",
+      "prev": 0.655,
+      "now": 0.022,
+      "delta": -0.633,
+      "url": "https://polymarket.com/event/mls-nyc-phi-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 247602.78,
+      "liquidity": 159467.75
+    },
+    {
+      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season",
+      "prev": 0.13,
+      "now": 0.745,
+      "delta": 0.615,
+      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 304114.54,
+      "liquidity": 251182.91
+    },
+    {
+      "market": "Chicago Fire FC vs. Portland Timbers - More Markets \u2014 Chicago Fire FC vs. Portland Timbers: Both Teams to Score",
+      "prev": 0.355,
+      "now": 0.95,
+      "delta": 0.595,
+      "url": "https://polymarket.com/event/mls-chi-por-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 11168.31,
+      "liquidity": 210.87
+    },
+    {
+      "market": "Cincinnati Open: Adam Walton vs Ignacio Buse \u2014 Walton vs. Buse: Match O/U 22.5",
+      "prev": 0.585,
+      "now": 0.005,
+      "delta": -0.58,
+      "url": "https://polymarket.com/event/atp-walton-buse-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 90.61,
-      "liquidity": 2179.44
-    },
-    {
-      "market": "Cincinnati Open: Sloane Stephens vs Anastasia Potapova \u2014 Stephens vs. Potapova: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-stephen-potapov-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 182584.48,
-      "liquidity": 2193.76
-    },
-    {
-      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Botafogo FR O/U 2.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 229421.74,
-      "liquidity": 14.94
-    },
-    {
-      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: EC Vit\u00f3ria 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 229421.74,
-      "liquidity": 14.94
-    },
-    {
-      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Botafogo FR 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 46.34,
-      "liquidity": 14.94
-    },
-    {
-      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Botafogo FR 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 229421.74,
-      "liquidity": 14.94
-    },
-    {
-      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 229421.74,
-      "liquidity": 14.94
-    },
-    {
-      "market": "EC Vit\u00f3ria vs. Botafogo FR - More Markets \u2014 EC Vit\u00f3ria vs. Botafogo FR: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/bra-vit-bot-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 229421.74,
-      "liquidity": 14.94
+      "volume24hr": 137480.83,
+      "liquidity": 1370.94
     }
   ],
   "log": [
-    {
-      "ts": "16:30:01",
-      "text": " poll complete \u2014 1932 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
@@ -268,6 +266,10 @@
     {
       "ts": "23:45:02",
       "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:00:02",
+      "text": " poll complete \u2014 1905 markets scanned, 10 flagged"
     }
   ]
 }
