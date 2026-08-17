@@ -1,85 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 01:45:02 UTC",
+  "lastUpdate": "2026-08-17 02:00:02 UTC",
   "swings": [
     {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: FC Dallas 1st Half O/U 0.5",
-      "prev": 0.08,
-      "now": 0.997,
-      "delta": 0.917,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 108365.13,
-      "liquidity": 3229.53
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: 1st Half O/U 0.5",
-      "prev": 0.155,
-      "now": 0.9995,
-      "delta": 0.8445,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 4082.44,
-      "liquidity": 44033.03
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: FC Dallas 1st Half O/U 1.5",
+      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central O/U 2.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 108365.13,
-      "liquidity": 2782.61
-    },
-    {
-      "market": "Cincinnati Open: Coco Gauff vs Liudmila Samsonova \u2014 Cincinnati Open: Completed Match: Coco Gauff vs Liudmila Samsonova",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-gauff-samsono-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 472819.11,
-      "liquidity": 1865.74
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Austin FC 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 45.3,
-      "liquidity": 2775.83
-    },
-    {
-      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Rosario Central O/U 2.5",
-      "prev": 0.0085,
-      "now": 0.5,
-      "delta": 0.4915,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -87,14 +13,119 @@
         "Soccer",
         "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 41.09,
-      "liquidity": 0.02
+      "volume24hr": 5942.93,
+      "liquidity": 24963.32
+    },
+    {
+      "market": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.4995,
+      "now": 0.0005,
+      "delta": -0.499,
+      "url": "https://polymarket.com/event/val-c9-eg2-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 450.06
+    },
+    {
+      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 77965.93,
+      "liquidity": 10933.61
+    },
+    {
+      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 77965.93,
+      "liquidity": 2674.35
+    },
+    {
+      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 77965.93,
+      "liquidity": 2649.6
+    },
+    {
+      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 77965.93,
+      "liquidity": 2649.63
+    },
+    {
+      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Rosario Central 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 2649.42
+    },
+    {
+      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Rosario Central 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 77965.93,
+      "liquidity": 2642.63
     },
     {
       "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Barracas Central O/U 1.5",
-      "prev": 0.02,
-      "now": 0.5,
-      "delta": 0.48,
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -103,56 +134,25 @@
         "Argentina Primera Divisi\u00f3n"
       ],
       "volume24hr": 3.7,
-      "liquidity": 0.02
+      "liquidity": 10935.07
     },
     {
-      "market": "Indiana Fever vs. Atlanta Dream \u2014 Rhyne Howard: Points O/U 17.5",
-      "prev": 0.495,
-      "now": 0.1,
-      "delta": -0.395,
-      "url": "https://polymarket.com/event/wnba-ind-atl-2026-08-16",
+      "market": "CA Barracas Central vs. CA Rosario Central - More Markets \u2014 CA Barracas Central vs. CA Rosario Central: CA Rosario Central O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/arg-bar-ros-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA"
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 933464.79,
-      "liquidity": 115.47
-    },
-    {
-      "market": "Indiana Fever vs. Atlanta Dream \u2014 Rhyne Howard: Rebounds O/U 3.5",
-      "prev": 0.495,
-      "now": 0.1,
-      "delta": -0.395,
-      "url": "https://polymarket.com/event/wnba-ind-atl-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 933464.79,
-      "liquidity": 115.47
-    },
-    {
-      "market": "Indiana Fever vs. Atlanta Dream \u2014 Rhyne Howard: Assists O/U 4.5",
-      "prev": 0.505,
-      "now": 0.9,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/wnba-ind-atl-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 262.39,
-      "liquidity": 115.47
+      "volume24hr": 6.32,
+      "liquidity": 10933.62
     }
   ],
   "log": [
-    {
-      "ts": "18:30:01",
-      "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 1951 markets scanned, 10 flagged"
@@ -268,6 +268,10 @@
     {
       "ts": "01:45:02",
       "text": " poll complete \u2014 1968 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:00:02",
+      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
     }
   ]
 }
