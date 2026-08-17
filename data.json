@@ -1,119 +1,76 @@
 {
-  "lastUpdate": "2026-08-17 07:15:02 UTC",
+  "lastUpdate": "2026-08-17 07:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Games Total: O/U 2.5",
-      "prev": 0.285,
-      "now": 0.475,
-      "delta": 0.19,
-      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.255,
+      "delta": -0.245,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 60535.68,
-      "liquidity": 18802.2
+      "volume24hr": 395139.05,
+      "liquidity": 35.25
     },
     {
-      "market": "\"Spider-Man: Brand New Day\" total domestic gross by August 31? \u2014 Will the total domestic gross for Spider-Man: Brand New Day be between 800m and 900m by August 31?",
-      "prev": 0.62,
-      "now": 0.445,
-      "delta": -0.175,
-      "url": "https://polymarket.com/event/spider-man-brand-new-day-total-domestic-gross-by-august-31-20260716181307512",
+      "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 28\u00b0C on August 17?",
+      "prev": 0.993,
+      "now": 0.7805,
+      "delta": -0.2125,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
       "tags": [
-        "Movies",
-        "Culture",
-        "Box Office",
-        "Spider-Man"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 14169.51,
-      "liquidity": 8844.46
+      "volume24hr": 16438.19,
+      "liquidity": 267.08
     },
     {
-      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: DK (-1.5) vs Hanwha Life Esports (+1.5)",
-      "prev": 0.31,
-      "now": 0.46,
-      "delta": 0.15,
-      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 29\u00b0C on August 17?",
+      "prev": 0.004,
+      "now": 0.1835,
+      "delta": 0.1795,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 200.0,
-      "liquidity": 11098.02
+      "volume24hr": 6630.9,
+      "liquidity": 126.1
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.14,
-      "now": 0.055,
-      "delta": -0.085,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 82833.76,
-      "liquidity": 329.0
-    },
-    {
-      "market": "\"Spider-Man: Brand New Day\" total domestic gross by August 31? \u2014 Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?",
-      "prev": 0.3745,
-      "now": 0.4595,
-      "delta": 0.085,
-      "url": "https://polymarket.com/event/spider-man-brand-new-day-total-domestic-gross-by-august-31-20260716181307512",
-      "tags": [
-        "Movies",
-        "Culture",
-        "Box Office",
-        "Spider-Man"
-      ],
-      "volume24hr": 26495.49,
-      "liquidity": 20227.67
-    },
-    {
-      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 27\u00b0C on August 17?",
-      "prev": 0.162,
-      "now": 0.0805,
-      "delta": -0.0815,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
+      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 28\u00b0C on August 17?",
+      "prev": 0.9,
+      "now": 0.83,
+      "delta": -0.07,
+      "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
       "tags": [
         "Weather",
         "Recurring",
         "Hide From New",
         "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Hong Kong",
+        "Lowest temperature"
       ],
-      "volume24hr": 8571.06,
-      "liquidity": 836.6
+      "volume24hr": 11015.97,
+      "liquidity": 301.17
     },
     {
-      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 24\u00b0C on August 17?",
-      "prev": 0.155,
-      "now": 0.215,
-      "delta": 0.06,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 8573.28,
-      "liquidity": 620.85
-    },
-    {
-      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Mohammad Bagher Ghalibaf attend a US x Iran diplomatic meeting by December 31, 2026?",
-      "prev": 0.445,
-      "now": 0.505,
+      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Nick Stewart attend a US x Iran diplomatic meeting by December 31, 2026?",
+      "prev": 0.175,
+      "now": 0.235,
       "delta": 0.06,
       "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
       "tags": [
@@ -126,49 +83,86 @@
         "Israel x Iran",
         "Iran Ceasefire"
       ],
-      "volume24hr": 10282.24,
-      "liquidity": 747.32
+      "volume24hr": 1020.16,
+      "liquidity": 619.18
     },
     {
-      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 23\u00b0C on August 17?",
-      "prev": 0.116,
-      "now": 0.0565,
-      "delta": -0.0595,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 18254.68,
-      "liquidity": 1530.58
-    },
-    {
-      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 28\u00b0C on August 17?",
-      "prev": 0.845,
-      "now": 0.9,
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: T1 (-2.5) vs DN SOOPers (+2.5)",
+      "prev": 0.135,
+      "now": 0.19,
       "delta": 0.055,
-      "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Lowest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 10833.15,
-      "liquidity": 577.8
+      "volume24hr": 4997.47,
+      "liquidity": 10013.12
+    },
+    {
+      "market": "\"Spider-Man: Brand New Day\" total domestic gross by August 31? \u2014 Will the total domestic gross for Spider-Man: Brand New Day be between 800m and 900m by August 31?",
+      "prev": 0.445,
+      "now": 0.5,
+      "delta": 0.055,
+      "url": "https://polymarket.com/event/spider-man-brand-new-day-total-domestic-gross-by-august-31-20260716181307512",
+      "tags": [
+        "Movies",
+        "Culture",
+        "Box Office",
+        "Spider-Man"
+      ],
+      "volume24hr": 24571.7,
+      "liquidity": 9124.59
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.055,
+      "now": 0.105,
+      "delta": 0.05,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 82848.91,
+      "liquidity": 290.97
+    },
+    {
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: DK (-1.5) vs Hanwha Life Esports (+1.5)",
+      "prev": 0.46,
+      "now": 0.51,
+      "delta": 0.05,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 200.0,
+      "liquidity": 9866.21
+    },
+    {
+      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Game Handicap: BRO (-1.5) vs DN SOOPers (+1.5)",
+      "prev": 0.485,
+      "now": 0.435,
+      "delta": -0.05,
+      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 60535.68,
+      "liquidity": 135.78
     }
   ],
   "log": [
-    {
-      "ts": "00:00:02",
-      "text": " poll complete \u2014 1905 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:15:02",
       "text": " poll complete \u2014 1933 markets scanned, 10 flagged"
@@ -284,6 +278,10 @@
     {
       "ts": "07:15:02",
       "text": " poll complete \u2014 1719 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:30:01",
+      "text": " poll complete \u2014 1697 markets scanned, 10 flagged"
     }
   ]
 }
