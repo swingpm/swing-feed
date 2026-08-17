@@ -1,101 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 02:15:02 UTC",
+  "lastUpdate": "2026-08-17 02:30:02 UTC",
   "swings": [
     {
-      "market": "Club Santos Laguna vs. CD Guadalajara - More Markets \u2014 Club Santos Laguna vs. CD Guadalajara: Club Santos Laguna 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/mex-san-gua-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 39.0,
-      "liquidity": 2734.58
-    },
-    {
-      "market": "Club Santos Laguna vs. CD Guadalajara - More Markets \u2014 Club Santos Laguna vs. CD Guadalajara: Club Santos Laguna 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/mex-san-gua-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 87.75,
-      "liquidity": 2706.58
-    },
-    {
-      "market": "Club Santos Laguna vs. CD Guadalajara - More Markets \u2014 Club Santos Laguna vs. CD Guadalajara: CD Guadalajara 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/mex-san-gua-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 22.31,
-      "liquidity": 2713.52
-    },
-    {
-      "market": "Club Santos Laguna vs. CD Guadalajara - More Markets \u2014 Club Santos Laguna vs. CD Guadalajara: CD Guadalajara 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/mex-san-gua-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 8.69,
-      "liquidity": 2734.54
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 132138.79,
-      "liquidity": 671.42
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Austin FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 132138.79,
-      "liquidity": 691.85
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Both Teams to Score",
-      "prev": 0.525,
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: FC Dallas O/U 1.5",
+      "prev": 0.405,
       "now": 0.9995,
-      "delta": 0.4745,
+      "delta": 0.5945,
       "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -103,44 +13,14 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 20800.88,
-      "liquidity": 109888.88
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Austin FC O/U 0.5",
-      "prev": 0.53,
-      "now": 0.9975,
-      "delta": 0.4675,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 171.65,
-      "liquidity": 6294.75
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.935,
-      "now": 0.505,
-      "delta": -0.43,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 120.0,
-      "liquidity": 8.2
+      "volume24hr": 2076.75,
+      "liquidity": 19774.15
     },
     {
       "market": "Austin FC vs. FC Dallas \u2014 Will FC Dallas win on 2026-08-16?",
-      "prev": 0.69,
-      "now": 0.275,
-      "delta": -0.415,
+      "prev": 0.275,
+      "now": 0.82,
+      "delta": 0.545,
       "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16",
       "tags": [
         "Sports",
@@ -148,15 +28,127 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 53297.55,
-      "liquidity": 119934.86
+      "volume24hr": 56426.85,
+      "liquidity": 24707.35
+    },
+    {
+      "market": "Will the game go to extra innings?: Seattle Mariners vs. Houston Astros",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-sea-hou-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1229249.37,
+      "liquidity": 1547.2
+    },
+    {
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 145053.62,
+      "liquidity": 720.1
+    },
+    {
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: FC Dallas 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 145053.62,
+      "liquidity": 719.85
+    },
+    {
+      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.9945,
+      "delta": 0.4895,
+      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 145053.62,
+      "liquidity": 720.28
+    },
+    {
+      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Set 1 Winner: Valentova vs Svitolina",
+      "prev": 0.375,
+      "now": 0.855,
+      "delta": 0.48,
+      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 912.81,
+      "liquidity": 4366.12
+    },
+    {
+      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Set Handicap: Svitolina (-1.5) vs Valentova (+1.5)",
+      "prev": 0.56,
+      "now": 0.15,
+      "delta": -0.41,
+      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1196.85,
+      "liquidity": 585.6
+    },
+    {
+      "market": "Portland Fire vs. Phoenix Mercury \u2014 Bridget Carleton: Rebounds O/U 5.5",
+      "prev": 0.495,
+      "now": 0.095,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/wnba-por-phx-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA"
+      ],
+      "volume24hr": 559785.04,
+      "liquidity": 415.47
+    },
+    {
+      "market": "Portland Fire vs. Phoenix Mercury \u2014 Alyssa Thomas: Assists O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/wnba-por-phx-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA"
+      ],
+      "volume24hr": 559785.04,
+      "liquidity": 115.47
     }
   ],
   "log": [
-    {
-      "ts": "19:00:01",
-      "text": " poll complete \u2014 1944 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:15:01",
       "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "02:15:02",
       "text": " poll complete \u2014 1933 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:30:02",
+      "text": " poll complete \u2014 1888 markets scanned, 10 flagged"
     }
   ]
 }
