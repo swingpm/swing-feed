@@ -1,25 +1,26 @@
 {
-  "lastUpdate": "2026-08-17 19:15:01 UTC",
+  "lastUpdate": "2026-08-17 19:30:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Magdalena Frech vs Elena Rybakina \u2014 Frech vs. Rybakina: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-frech-rybakin-2026-08-17",
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: RC Deportivo A Coru\u00f1a 1st Half O/U 0.5",
+      "prev": 0.355,
+      "now": 0.995,
+      "delta": 0.64,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 220988.23,
-      "liquidity": 6250.5
+      "volume24hr": 351.44,
+      "liquidity": 1769.23
     },
     {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 2.5",
-      "prev": 0.008,
-      "now": 0.5,
-      "delta": 0.492,
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: O/U 0.5",
+      "prev": 0.425,
+      "now": 0.9995,
+      "delta": 0.5745,
       "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -27,135 +28,131 @@
         "Soccer",
         "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 600.43,
-      "liquidity": 0.08
+      "volume24hr": 42317.42,
+      "liquidity": 113149.56
     },
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: St. Louis Cardinals (-4.5)",
-      "prev": 0.53,
-      "now": 0.1,
-      "delta": -0.43,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-05-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 69.37
-    },
-    {
-      "market": "Cardiff City FC vs. Wrexham AFC - Exact Score \u2014 Exact Score: Cardiff City FC 3 - 0 Wrexham AFC?",
-      "prev": 0.028,
-      "now": 0.4335,
-      "delta": 0.4055,
-      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-exact-score",
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: RC Deportivo A Coru\u00f1a 1st Half O/U 1.5",
+      "prev": 0.065,
+      "now": 0.58,
+      "delta": 0.515,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "La Liga"
       ],
-      "volume24hr": 3078.03,
-      "liquidity": 2184.85
+      "volume24hr": 8.33,
+      "liquidity": 340.72
     },
     {
-      "market": "Cardiff City FC vs. Wrexham AFC - Exact Score \u2014 Exact Score: Any Other Score?",
-      "prev": 0.095,
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 123315.84,
+      "liquidity": 1219.81
+    },
+    {
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Both Teams to Score in First Half",
+      "prev": 0.11,
+      "now": 0.595,
+      "delta": 0.485,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 2391.99,
+      "liquidity": 919.18
+    },
+    {
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 1.5",
+      "prev": 0.0205,
       "now": 0.5,
-      "delta": 0.405,
-      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-exact-score",
+      "delta": 0.4795,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 209906.28
+      "volume24hr": 1467.22,
+      "liquidity": 0.01
     },
     {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: 1st Half O/U 2.5",
+      "prev": 0.04,
+      "now": 0.5185,
+      "delta": 0.4785,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 1161031.88,
-      "liquidity": 115.47
+      "volume24hr": 37.78,
+      "liquidity": 652.49
     },
     {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Elche CF 1st Half O/U 1.5",
+      "prev": 0.04,
+      "now": 0.5055,
+      "delta": 0.4655,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 1161031.88,
-      "liquidity": 115.47
+      "volume24hr": 164.2,
+      "liquidity": 331.95
     },
     {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: RC Deportivo A Coru\u00f1a O/U 1.5",
+      "prev": 0.295,
+      "now": 0.755,
+      "delta": 0.46,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 1161031.88,
-      "liquidity": 115.47
+      "volume24hr": 1346.37,
+      "liquidity": 2347.77
     },
     {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: 1st Half O/U 0.5",
+      "prev": 0.54,
+      "now": 0.9995,
+      "delta": 0.4595,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 56.75,
-      "liquidity": 115.47
-    },
-    {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1161031.88,
-      "liquidity": 115.47
+      "volume24hr": 7120.7,
+      "liquidity": 99460.52
     }
   ],
   "log": [
-    {
-      "ts": "12:00:02",
-      "text": " poll complete \u2014 1562 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:15:01",
       "text": " poll complete \u2014 1591 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "19:15:01",
       "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:30:01",
+      "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
     }
   ]
 }
