@@ -1,30 +1,26 @@
 {
-  "lastUpdate": "2026-08-17 06:30:01 UTC",
+  "lastUpdate": "2026-08-17 06:45:01 UTC",
   "swings": [
     {
-      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Steve Witkoff attend a US x Iran diplomatic meeting by December 31, 2026?",
-      "prev": 0.63,
-      "now": 0.425,
-      "delta": -0.205,
-      "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: DK (-1.5) vs Hanwha Life Esports (+1.5)",
+      "prev": 0.515,
+      "now": 0.35,
+      "delta": -0.165,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
       "tags": [
-        "Iran",
-        "Trump",
-        "US-Iran",
-        "Politics",
-        "Peace Deal",
-        "Geopolitics",
-        "Israel x Iran",
-        "Iran Ceasefire"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 6005.2,
-      "liquidity": 709.86
+      "volume24hr": 63945.28,
+      "liquidity": 5750.32
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.245,
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
+      "prev": 0.215,
       "now": 0.055,
-      "delta": -0.19,
+      "delta": -0.16,
       "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
         "Esports",
@@ -32,31 +28,44 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 82587.1,
-      "liquidity": 437.81
+      "volume24hr": 82734.81,
+      "liquidity": 274.64
     },
     {
-      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 27\u00b0C on August 17?",
-      "prev": 0.215,
-      "now": 0.375,
-      "delta": 0.16,
-      "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
+      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
+      "prev": 0.245,
+      "now": 0.115,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Lowest temperature"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 5476.1,
-      "liquidity": 195.26
+      "volume24hr": 38276.37,
+      "liquidity": 190.51
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.245,
+      "now": 0.115,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 38276.37,
+      "liquidity": 429.76
     },
     {
       "market": "Highest temperature in NYC on August 17? \u2014 Will the highest temperature in New York City be between 82-83\u00b0F on August 17?",
-      "prev": 0.345,
-      "now": 0.485,
-      "delta": 0.14,
+      "prev": 0.485,
+      "now": 0.365,
+      "delta": -0.12,
       "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-17-2026",
       "tags": [
         "Weather",
@@ -66,14 +75,14 @@
         "Daily Temperature",
         "Highest temperature"
       ],
-      "volume24hr": 7367.47,
-      "liquidity": 801.58
+      "volume24hr": 8758.89,
+      "liquidity": 1562.99
     },
     {
       "market": "Highest temperature in NYC on August 17? \u2014 Will the highest temperature in New York City be between 84-85\u00b0F on August 17?",
-      "prev": 0.465,
-      "now": 0.33,
-      "delta": -0.135,
+      "prev": 0.33,
+      "now": 0.435,
+      "delta": 0.105,
       "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-17-2026",
       "tags": [
         "Weather",
@@ -83,50 +92,43 @@
         "Daily Temperature",
         "Highest temperature"
       ],
-      "volume24hr": 4096.49,
-      "liquidity": 762.85
+      "volume24hr": 4351.52,
+      "liquidity": 1213.31
     },
     {
-      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 28\u00b0C on August 17?",
-      "prev": 0.685,
-      "now": 0.585,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
+      "market": "Elon Musk # tweets August 15 - August 17, 2026? \u2014 Will Elon Musk post 40-64 tweets from August 15 to August 17, 2026?",
+      "prev": 0.54,
+      "now": 0.455,
+      "delta": -0.085,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-15-august-17",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Lowest temperature"
-      ],
-      "volume24hr": 10867.79,
-      "liquidity": 174.29
-    },
-    {
-      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Majid Takht-Ravanchi attend a US x Iran diplomatic meeting by December 31, 2026?",
-      "prev": 0.505,
-      "now": 0.425,
-      "delta": -0.08,
-      "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
-      "tags": [
-        "Iran",
-        "Trump",
-        "US-Iran",
+        "Culture",
         "Politics",
-        "Peace Deal",
-        "Geopolitics",
-        "Israel x Iran",
-        "Iran Ceasefire"
+        "Tweet Markets"
       ],
-      "volume24hr": 6964.64,
-      "liquidity": 328.9
+      "volume24hr": 43529.6,
+      "liquidity": 5329.18
     },
     {
-      "market": "Highest temperature in Tokyo on August 17? \u2014 Will the highest temperature in Tokyo be 30\u00b0C on August 17?",
-      "prev": 0.09,
-      "now": 0.165,
-      "delta": 0.075,
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+      "prev": 0.415,
+      "now": 0.495,
+      "delta": 0.08,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 243605.93,
+      "liquidity": 205019.29
+    },
+    {
+      "market": "Highest temperature in Tokyo on August 17? \u2014 Will the highest temperature in Tokyo be 29\u00b0C on August 17?",
+      "prev": 0.83,
+      "now": 0.91,
+      "delta": 0.08,
       "url": "https://polymarket.com/event/highest-temperature-in-tokyo-on-august-17-2026",
       "tags": [
         "Weather",
@@ -136,43 +138,25 @@
         "Tokyo",
         "Highest temperature"
       ],
-      "volume24hr": 4352.75,
-      "liquidity": 341.57
+      "volume24hr": 5365.49,
+      "liquidity": 346.31
     },
     {
-      "market": "Who will visit Ukraine by December 31? \u2014 Will Friedrich Merz visit Ukraine by December 31, 2026?",
-      "prev": 0.405,
-      "now": 0.34,
-      "delta": -0.065,
-      "url": "https://polymarket.com/event/who-will-visit-ukraine-by-december-31-20260729205841876",
+      "market": "Elon Musk # tweets August 15 - August 17, 2026? \u2014 Will Elon Musk post <40 tweets from August 15 to August 17, 2026?",
+      "prev": 0.465,
+      "now": 0.54,
+      "delta": 0.075,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-15-august-17",
       "tags": [
-        "Ukraine",
-        "Geopolitics"
+        "Culture",
+        "Politics",
+        "Tweet Markets"
       ],
-      "volume24hr": 5509.86,
-      "liquidity": 537.93
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-      "prev": 0.475,
-      "now": 0.415,
-      "delta": -0.06,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 233857.43,
-      "liquidity": 211931.22
+      "volume24hr": 73581.34,
+      "liquidity": 6140.62
     }
   ],
   "log": [
-    {
-      "ts": "23:15:01",
-      "text": " poll complete \u2014 1966 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:30:01",
       "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
@@ -288,6 +272,10 @@
     {
       "ts": "06:30:01",
       "text": " poll complete \u2014 1724 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:45:01",
+      "text": " poll complete \u2014 1720 markets scanned, 10 flagged"
     }
   ]
 }
