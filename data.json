@@ -1,43 +1,53 @@
 {
-  "lastUpdate": "2026-08-17 13:45:01 UTC",
+  "lastUpdate": "2026-08-17 14:00:01 UTC",
   "swings": [
     {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Set 1 Winner: Ribeiro vs Nagal",
-      "prev": 0.505,
-      "now": 0.0005,
-      "delta": -0.5045,
+      "market": "ITF W50 Prague Women: Beatrise Zeltina vs Barbora Palicova \u2014 ITF W50 Prague Women: Completed Match: Beatrise Zeltina vs Barbora Palicova",
+      "prev": 0.495,
+      "now": 0.1,
+      "delta": -0.395,
+      "url": "https://polymarket.com/event/itf-zeltina-palicov-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 53268.28,
+      "liquidity": 125.47
+    },
+    {
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 21.5",
+      "prev": 0.81,
+      "now": 0.5,
+      "delta": -0.31,
       "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1116.8,
-      "liquidity": 20343.2
+      "volume24hr": 7.89,
+      "liquidity": 210948.72
     },
     {
-      "market": "Ethereum above ___ on August 17? \u2014 Will the price of Ethereum be above $1,900 on August 17?",
-      "prev": 0.415,
-      "now": 0.775,
-      "delta": 0.36,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-17-2026",
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 22.5",
+      "prev": 0.745,
+      "now": 0.48,
+      "delta": -0.265,
+      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
       "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 18275.66,
-      "liquidity": 12949.23
+      "volume24hr": 38.98,
+      "liquidity": 1618.0
     },
     {
-      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Counter-Strike: Noir Verse vs ex-RUSTEC - Map 2 Winner",
-      "prev": 0.415,
-      "now": 0.7,
-      "delta": 0.285,
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
+      "prev": 0.815,
+      "now": 0.565,
+      "delta": -0.25,
       "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
       "tags": [
         "Esports",
@@ -45,125 +55,102 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5910.0,
-      "liquidity": 85074.79
+      "volume24hr": 208750.8,
+      "liquidity": 40841.98
     },
     {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Set Handicap: Ribeiro (-1.5) vs Nagal (+1.5)",
-      "prev": 0.5,
-      "now": 0.25,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 6.0,
-      "liquidity": 3490.5
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Set 1 Games O/U 8.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 108986.37,
-      "liquidity": 10383.23
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Set 1 Games O/U 10.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 6.0,
-      "liquidity": 10645.73
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Set 1 Games O/U 9.5",
-      "prev": 0.75,
-      "now": 0.995,
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
+      "prev": 0.61,
+      "now": 0.855,
       "delta": 0.245,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 49343.17,
+      "liquidity": 462.95
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.76,
+      "now": 0.9945,
+      "delta": 0.2345,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 104.41,
+      "liquidity": 50.57
+    },
+    {
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: DK (-1.5) vs Hanwha Life Esports (+1.5)",
+      "prev": 0.31,
+      "now": 0.465,
+      "delta": 0.155,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 200.0,
+      "liquidity": 5571.69
+    },
+    {
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.37,
+      "delta": -0.13,
       "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 108986.37,
-      "liquidity": 9886.88
+      "volume24hr": 114031.76,
+      "liquidity": 1622.0
     },
     {
-      "market": "Bitcoin price on August 17? \u2014 Will the price of Bitcoin be between $62,000 and $64,000 on August 17?",
-      "prev": 0.925,
-      "now": 0.74,
-      "delta": -0.185,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-17-2026",
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 30\u00b0C on August 17?",
+      "prev": 0.19,
+      "now": 0.06,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
+        "Weather",
         "Recurring",
-        "Hide From New"
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
       ],
-      "volume24hr": 19056.13,
-      "liquidity": 16038.73
+      "volume24hr": 13602.23,
+      "liquidity": 325.84
     },
     {
-      "market": "Bitcoin price on August 17? \u2014 Will the price of Bitcoin be between $64,000 and $66,000 on August 17?",
-      "prev": 0.0665,
-      "now": 0.247,
-      "delta": 0.1805,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-17-2026",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 4.5",
+      "prev": 0.33,
+      "now": 0.21,
+      "delta": -0.12,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 11839.76,
-      "liquidity": 12353.21
-    },
-    {
-      "market": "Bitcoin above ___ on August 17? \u2014 Will the price of Bitcoin be above $64,000 on August 17?",
-      "prev": 0.0745,
-      "now": 0.2515,
-      "delta": 0.177,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-17-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 145561.42,
-      "liquidity": 28050.12
+      "volume24hr": 1726.86,
+      "liquidity": 1048.18
     }
   ],
   "log": [
-    {
-      "ts": "06:30:01",
-      "text": " poll complete \u2014 1724 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:45:01",
       "text": " poll complete \u2014 1720 markets scanned, 10 flagged"
@@ -279,6 +266,10 @@
     {
       "ts": "13:45:01",
       "text": " poll complete \u2014 1577 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:00:01",
+      "text": " poll complete \u2014 1602 markets scanned, 10 flagged"
     }
   ]
 }
