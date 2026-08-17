@@ -1,73 +1,56 @@
 {
-  "lastUpdate": "2026-08-17 11:15:01 UTC",
+  "lastUpdate": "2026-08-17 11:30:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
-      "prev": 0.5,
-      "now": 0.27,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 83137.3,
-      "liquidity": 356.1
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
-      "prev": 0.5,
-      "now": 0.27,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 83137.3,
-      "liquidity": 356.1
-    },
-    {
-      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 30\u00b0C on August 17?",
-      "prev": 0.055,
-      "now": 0.285,
-      "delta": 0.23,
-      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Milan",
-        "Highest temperature"
-      ],
-      "volume24hr": 8906.63,
-      "liquidity": 101.52
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
-      "prev": 0.09,
-      "now": 0.315,
-      "delta": 0.225,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 2 Winner",
+      "prev": 0.735,
+      "now": 0.48,
+      "delta": -0.255,
+      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 42175.62,
-      "liquidity": 22993.72
+      "volume24hr": 76041.28,
+      "liquidity": 52775.67
     },
     {
-      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Counter-Strike: ENCE vs Esport BERG - Map 1 Winner",
-      "prev": 0.685,
-      "now": 0.91,
-      "delta": 0.225,
+      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: KRX.C (-1.5) vs Hanwha Life Esports Challengers (+1.5)",
+      "prev": 0.74,
+      "now": 0.495,
+      "delta": -0.245,
+      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3732.9,
+      "liquidity": 3661.99
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Games Total: O/U 2.5",
+      "prev": 0.265,
+      "now": 0.505,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3290.85,
+      "liquidity": 4473.57
+    },
+    {
+      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.49,
+      "now": 0.335,
+      "delta": -0.155,
       "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
       "tags": [
         "Esports",
@@ -75,44 +58,91 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 806.39,
-      "liquidity": 3094.6
+      "volume24hr": 2032.8,
+      "liquidity": 284.65
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
-      "prev": 0.505,
-      "now": 0.295,
-      "delta": -0.21,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 LoL: T1 vs DN SOOPers - Game 2 Winner",
+      "prev": 0.685,
+      "now": 0.535,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 83137.3,
-      "liquidity": 463.56
+      "volume24hr": 566924.5,
+      "liquidity": 175416.4
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.505,
-      "now": 0.295,
-      "delta": -0.21,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 3.5",
+      "prev": 0.685,
+      "now": 0.785,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 83137.3,
-      "liquidity": 463.56
+      "volume24hr": 10280.56,
+      "liquidity": 60021.29
     },
     {
-      "market": "Who will be removed from Chinese Military Companies list by June 30, 2027? \u2014 Will BYD be removed from Chinese Military Companies list by June 30, 2027?",
-      "prev": 0.61,
-      "now": 0.43,
-      "delta": -0.18,
+      "market": "Highest temperature in London on August 17? \u2014 Will the highest temperature in London be 27\u00b0C on August 17?",
+      "prev": 0.185,
+      "now": 0.085,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 6883.61,
+      "liquidity": 450.05
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+      "prev": 0.685,
+      "now": 0.605,
+      "delta": -0.08,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1761677.47,
+      "liquidity": 177184.21
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 4.5",
+      "prev": 0.32,
+      "now": 0.4,
+      "delta": 0.08,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 284.7,
+      "liquidity": 7267.99
+    },
+    {
+      "market": "Who will be removed from Chinese Military Companies list by June 30, 2027? \u2014 Will Tencent be removed from Chinese Military Companies list by June 30, 2027?",
+      "prev": 0.435,
+      "now": 0.355,
+      "delta": -0.08,
       "url": "https://polymarket.com/event/who-will-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230550",
       "tags": [
         "AI",
@@ -128,44 +158,11 @@
         "AI Regulation",
         "United States"
       ],
-      "volume24hr": 8813.44,
-      "liquidity": 263.83
-    },
-    {
-      "market": "Prague: Andrej Martin vs Javier Barranco Cosano",
-      "prev": 0.195,
-      "now": 0.03,
-      "delta": -0.165,
-      "url": "https://polymarket.com/event/atp-mar-cosano-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 72381.33,
-      "liquidity": 308844.35
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Both Teams Beat Roshan?",
-      "prev": 0.5,
-      "now": 0.34,
-      "delta": -0.16,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 83137.3,
-      "liquidity": 358.74
+      "volume24hr": 5154.6,
+      "liquidity": 300.4
     }
   ],
   "log": [
-    {
-      "ts": "04:00:01",
-      "text": " poll complete \u2014 1869 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:15:01",
       "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
@@ -281,6 +278,10 @@
     {
       "ts": "11:15:01",
       "text": " poll complete \u2014 1593 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:30:01",
+      "text": " poll complete \u2014 1602 markets scanned, 10 flagged"
     }
   ]
 }
