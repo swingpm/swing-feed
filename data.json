@@ -1,25 +1,90 @@
 {
-  "lastUpdate": "2026-08-17 12:45:01 UTC",
+  "lastUpdate": "2026-08-17 13:00:01 UTC",
   "swings": [
     {
-      "market": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans \u2014 Set 1 Winner: Alekseychuk vs Boschmans",
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 28\u00b0C on August 17?",
+      "prev": 0.831,
+      "now": 0.0005,
+      "delta": -0.8305,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
+      ],
+      "volume24hr": 14723.64,
+      "liquidity": 25246.46
+    },
+    {
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 29\u00b0C on August 17?",
+      "prev": 0.0655,
+      "now": 0.8865,
+      "delta": 0.821,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
+      ],
+      "volume24hr": 11286.4,
+      "liquidity": 625.95
+    },
+    {
+      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113822.25,
+      "liquidity": 2772.94
+    },
+    {
+      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 2 Rounds Handicap: ENCE (-6.5) vs Esport BERG (+6.5)",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113822.25,
+      "liquidity": 2686.9
+    },
+    {
+      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113822.25,
+      "liquidity": 2707.5
+    },
+    {
+      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 2 Rounds Handicap: ENCE (-3.5) vs Esport BERG (+3.5)",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/itf-aleksey-boschma-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 107762.41,
-      "liquidity": 207.9
-    },
-    {
-      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.56,
-      "now": 0.08,
-      "delta": -0.48,
       "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
       "tags": [
         "Esports",
@@ -27,133 +92,68 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 2082.55,
-      "liquidity": 94.37
+      "volume24hr": 5.0,
+      "liquidity": 2911.51
     },
     {
-      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map Handicap: ENCE (-1.5) vs Esport BERG (+1.5)",
-      "prev": 0.455,
-      "now": 0.915,
-      "delta": 0.46,
-      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 16834.24,
-      "liquidity": 75.7
-    },
-    {
-      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Counter-Strike: ENCE vs Esport BERG - Map 2 Winner",
-      "prev": 0.635,
-      "now": 0.925,
-      "delta": 0.29,
-      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 21848.97,
-      "liquidity": 112226.55
-    },
-    {
-      "market": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans",
-      "prev": 0.435,
-      "now": 0.165,
-      "delta": -0.27,
-      "url": "https://polymarket.com/event/itf-aleksey-boschma-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 107762.41,
-      "liquidity": 61998.4
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.505,
-      "now": 0.755,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 104.41,
-      "liquidity": 26.16
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Set 1 Games O/U 10.5",
+      "market": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans \u2014 Alekseychuk vs. Boschmans: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/itf-aleksey-boschma-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 6.0,
-      "liquidity": 106.0
+      "volume24hr": 191894.94,
+      "liquidity": 1118.26
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: T1 (-1.5) vs DN SOOPers (+1.5)",
-      "prev": 0.215,
-      "now": 0.0005,
-      "delta": -0.2145,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "market": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans \u2014 Alekseychuk vs. Boschmans: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/itf-aleksey-boschma-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 191894.94,
+      "liquidity": 1118.26
+    },
+    {
+      "market": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans \u2014 Alekseychuk vs. Boschmans: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/itf-aleksey-boschma-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 191894.94,
+      "liquidity": 595.09
+    },
+    {
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Counter-Strike: Noir Verse vs ex-RUSTEC - Map 1 Winner",
+      "prev": 0.465,
+      "now": 0.095,
+      "delta": -0.37,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 11062.9,
-      "liquidity": 242846.38
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.055,
-      "now": 0.25,
-      "delta": 0.195,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 9.57,
-      "liquidity": 869.14
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
-      "prev": 0.415,
-      "now": 0.605,
-      "delta": 0.19,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 48081.97,
-      "liquidity": 117399.87
+      "volume24hr": 3602.84,
+      "liquidity": 9051.01
     }
   ],
   "log": [
-    {
-      "ts": "05:30:01",
-      "text": " poll complete \u2014 1741 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1712 markets scanned, 10 flagged"
@@ -269,6 +269,10 @@
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1511 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:00:01",
+      "text": " poll complete \u2014 1513 markets scanned, 10 flagged"
     }
   ]
 }
