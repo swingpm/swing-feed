@@ -1,158 +1,150 @@
 {
-  "lastUpdate": "2026-08-17 02:30:02 UTC",
+  "lastUpdate": "2026-08-17 02:45:02 UTC",
   "swings": [
     {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: FC Dallas O/U 1.5",
-      "prev": 0.405,
-      "now": 0.9995,
-      "delta": 0.5945,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 2076.75,
-      "liquidity": 19774.15
-    },
-    {
-      "market": "Austin FC vs. FC Dallas \u2014 Will FC Dallas win on 2026-08-16?",
-      "prev": 0.275,
-      "now": 0.82,
-      "delta": 0.545,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 56426.85,
-      "liquidity": 24707.35
-    },
-    {
-      "market": "Will the game go to extra innings?: Seattle Mariners vs. Houston Astros",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-sea-hou-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1229249.37,
-      "liquidity": 1547.2
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 145053.62,
-      "liquidity": 720.1
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: FC Dallas 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 145053.62,
-      "liquidity": 719.85
-    },
-    {
-      "market": "Austin FC vs. FC Dallas - More Markets \u2014 Austin FC vs. FC Dallas: Both Teams to Score in Second Half",
+      "market": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe \u2014 Sonego vs. Tiafoe: Set 1 Games O/U 9.5",
       "prev": 0.505,
-      "now": 0.9945,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/mls-aus-dal-2026-08-16-more-markets",
+      "now": 0.0005,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/atp-sonego-tiafoe-2026-08-16",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
+        "Games"
       ],
-      "volume24hr": 145053.62,
-      "liquidity": 720.28
+      "volume24hr": 396034.43,
+      "liquidity": 5872.64
     },
     {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Set 1 Winner: Valentova vs Svitolina",
-      "prev": 0.375,
-      "now": 0.855,
-      "delta": 0.48,
+      "market": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe \u2014 Sonego vs. Tiafoe: Set 1 Games O/U 10.5",
+      "prev": 0.505,
+      "now": 0.0005,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/atp-sonego-tiafoe-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 250.79,
+      "liquidity": 5800.88
+    },
+    {
+      "market": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe \u2014 Sonego vs. Tiafoe: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-sonego-tiafoe-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 396034.43,
+      "liquidity": 5552.43
+    },
+    {
+      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Valentova vs. Svitolina: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 912.81,
-      "liquidity": 4366.12
+      "volume24hr": 314008.69,
+      "liquidity": 5552.72
     },
     {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Set Handicap: Svitolina (-1.5) vs Valentova (+1.5)",
-      "prev": 0.56,
-      "now": 0.15,
-      "delta": -0.41,
+      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Valentova vs. Svitolina: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1196.85,
-      "liquidity": 585.6
+      "volume24hr": 314008.69,
+      "liquidity": 5877.11
     },
     {
-      "market": "Portland Fire vs. Phoenix Mercury \u2014 Bridget Carleton: Rebounds O/U 5.5",
-      "prev": 0.495,
-      "now": 0.095,
-      "delta": -0.4,
+      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Valentova vs. Svitolina: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 314008.69,
+      "liquidity": 5873.59
+    },
+    {
+      "market": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe \u2014 Set 1 Winner: Sonego vs Tiafoe",
+      "prev": 0.435,
+      "now": 0.0005,
+      "delta": -0.4345,
+      "url": "https://polymarket.com/event/atp-sonego-tiafoe-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 47.12,
+      "liquidity": 11175.61
+    },
+    {
+      "market": "Portland Fire vs. Phoenix Mercury \u2014 Megan DiLeo: Rebounds O/U 4.5",
+      "prev": 0.5,
+      "now": 0.905,
+      "delta": 0.405,
       "url": "https://polymarket.com/event/wnba-por-phx-2026-08-16",
       "tags": [
         "Sports",
         "Games",
         "WNBA"
       ],
-      "volume24hr": 559785.04,
+      "volume24hr": 559484.24,
       "liquidity": 415.47
     },
     {
-      "market": "Portland Fire vs. Phoenix Mercury \u2014 Alyssa Thomas: Assists O/U 8.5",
+      "market": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Evil Geniuses (-2.5) vs Cloud9 (+2.5)",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/wnba-por-phx-2026-08-16",
+      "url": "https://polymarket.com/event/val-c9-eg2-2026-08-16",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "WNBA"
+        "Sports"
       ],
-      "volume24hr": 559785.04,
-      "liquidity": 115.47
+      "volume24hr": 491702.63,
+      "liquidity": 445.07
+    },
+    {
+      "market": "Valorant: Cloud9 vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 23.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/val-c9-eg2-2026-08-16",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 491702.63,
+      "liquidity": 445.07
     }
   ],
   "log": [
-    {
-      "ts": "19:15:01",
-      "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 2026 markets scanned, 10 flagged"
@@ -268,6 +260,10 @@
     {
       "ts": "02:30:02",
       "text": " poll complete \u2014 1888 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:45:02",
+      "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
     }
   ]
 }
