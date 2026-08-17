@@ -1,157 +1,151 @@
 {
-  "lastUpdate": "2026-08-17 22:00:01 UTC",
+  "lastUpdate": "2026-08-17 22:15:01 UTC",
   "swings": [
     {
-      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 Spread: CA Independiente (-1.5)",
-      "prev": 0.1035,
-      "now": 0.9995,
-      "delta": 0.896,
-      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 2880.02,
-      "liquidity": 44800.61
-    },
-    {
-      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 CA Lan\u00fas vs. CA Independiente: CA Independiente O/U 2.5",
-      "prev": 0.146,
-      "now": 0.9995,
-      "delta": 0.8535,
-      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 634.1,
-      "liquidity": 22027.6
-    },
-    {
-      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 CA Lan\u00fas vs. CA Independiente: O/U 3.5",
-      "prev": 0.315,
-      "now": 0.9995,
-      "delta": 0.6845,
-      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 65217.34,
-      "liquidity": 186445.08
-    },
-    {
-      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 CA Lan\u00fas vs. CA Independiente: CA Independiente 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 180043.34,
-      "liquidity": 8282.13
-    },
-    {
-      "market": "Quebec City: Stefanos Sakellaridis vs Karl Poling \u2014 Quebec City, Canada, Qualifying: Completed Match: Stefanos Sakellaridis vs Karl Poling",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-sakella-poling-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 91596.75,
-      "liquidity": 970.99
-    },
-    {
-      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 CA Lan\u00fas vs. CA Independiente: CA Lan\u00fas 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 180043.34,
-      "liquidity": 3757.91
-    },
-    {
-      "market": "Kingston: Dan Martin vs Lautaro Midon \u2014 Kingston: Completed Match: Dan Martin vs Lautaro Midon",
-      "prev": 0.5,
+      "market": "Cincinnati Open: Arthur Fery vs Alex de Minaur \u2014 Fery vs. Minaur: Match O/U 21.5",
+      "prev": 0.285,
       "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-mart-midon-2026-08-17",
+      "delta": 0.71,
+      "url": "https://polymarket.com/event/atp-fery-minaur-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 70900.95,
-      "liquidity": 846.93
+      "volume24hr": 694.03,
+      "liquidity": 755.68
     },
     {
-      "market": "Kingston: Dan Martin vs Lautaro Midon \u2014 Set Handicap: Martin (-1.5) vs Midon (+1.5)",
-      "prev": 0.5,
-      "now": 0.005,
+      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Jodar vs. Tabilo: Set 1 Games O/U 8.5",
+      "prev": 0.91,
+      "now": 0.415,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-mart-midon-2026-08-17",
+      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1.09,
-      "liquidity": 4010.02
+      "volume24hr": 278.95,
+      "liquidity": 76.5
     },
     {
-      "market": "Kingston: Dan Martin vs Lautaro Midon \u2014 Set Handicap: Midon (-1.5) vs Martin (+1.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-mart-midon-2026-08-17",
+      "market": "Will the game go to extra innings?: Baltimore Orioles vs. Tampa Bay Rays",
+      "prev": 0.095,
+      "now": 0.5,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 72.87,
-      "liquidity": 4056.55
+      "volume24hr": 421570.55,
+      "liquidity": 411562.46
     },
     {
-      "market": "Kingston: Dan Martin vs Lautaro Midon \u2014 Dan Martin vs. Lautaro Midon: Total Sets O/U 2.5",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/atp-mart-midon-2026-08-17",
+      "market": "Cincinnati Open: Arthur Fery vs Alex de Minaur \u2014 Arthur Fery vs. Alex de Minaur: Total Sets O/U 2.5",
+      "prev": 0.465,
+      "now": 0.12,
+      "delta": -0.345,
+      "url": "https://polymarket.com/event/atp-fery-minaur-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 70900.95,
-      "liquidity": 5498.62
+      "volume24hr": 953.65,
+      "liquidity": 620.0
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays: 1st 5 Innings O/U 6.5",
+      "prev": 0.245,
+      "now": 0.575,
+      "delta": 0.33,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 45.0
+    },
+    {
+      "market": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska \u2014 Set 2 Winner: Shnaider vs Chwalinska",
+      "prev": 0.12,
+      "now": 0.45,
+      "delta": 0.33,
+      "url": "https://polymarket.com/event/wta-shnaide-chwalin-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1260.86,
+      "liquidity": 933.42
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays \u2014 1st 5 Innings Spread: Baltimore Orioles (-1.5)",
+      "prev": 0.23,
+      "now": 0.495,
+      "delta": 0.265,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 0.56
+    },
+    {
+      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Set 2 Winner: Jodar vs Tabilo",
+      "prev": 0.395,
+      "now": 0.645,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 494267.24,
+      "liquidity": 1588.76
+    },
+    {
+      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Set 1 Winner: Jodar vs Tabilo",
+      "prev": 0.605,
+      "now": 0.855,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 4032.79,
+      "liquidity": 11564.93
+    },
+    {
+      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
+      "prev": 0.585,
+      "now": 0.815,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/wta-cirstea-kalinsk-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 716862.5,
+      "liquidity": 220253.52
     }
   ],
   "log": [
-    {
-      "ts": "14:45:01",
-      "text": " poll complete \u2014 1610 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:00:02",
       "text": " poll complete \u2014 1595 markets scanned, 10 flagged"
@@ -267,6 +261,10 @@
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 1637 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:15:01",
+      "text": " poll complete \u2014 1662 markets scanned, 10 flagged"
     }
   ]
 }
