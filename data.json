@@ -1,162 +1,153 @@
 {
-  "lastUpdate": "2026-08-17 19:45:01 UTC",
+  "lastUpdate": "2026-08-17 20:00:01 UTC",
   "swings": [
     {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: Both Teams to Score in Second Half",
+      "market": "Cardiff City FC vs. Wrexham AFC - More Markets \u2014 Cardiff City FC vs. Wrexham AFC: Both Teams to Score in First Half",
       "prev": 0.535,
-      "now": 0.0045,
-      "delta": -0.5305,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "now": 0.0005,
+      "delta": -0.5345,
+      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "EFL Championship"
       ],
-      "volume24hr": 130758.36,
-      "liquidity": 3762.88
+      "volume24hr": 35.2,
+      "liquidity": 8472.77
     },
     {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Elche CF 1st Half O/U 0.5",
-      "prev": 0.58,
-      "now": 0.07,
-      "delta": -0.51,
-      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 687.52,
-      "liquidity": 338.41
-    },
-    {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Both Teams to Score in First Half",
-      "prev": 0.595,
-      "now": 0.09,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 2430.99,
-      "liquidity": 4287.45
-    },
-    {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: 1st Half O/U 2.5",
-      "prev": 0.5185,
-      "now": 0.0135,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 37.78,
-      "liquidity": 9140.99
-    },
-    {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: RC Deportivo A Coru\u00f1a 1st Half O/U 1.5",
-      "prev": 0.58,
-      "now": 0.08,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 8.33,
-      "liquidity": 338.73
-    },
-    {
-      "market": "Counter-Strike: ENJOY vs HAVU (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 2 Rounds Handicap: ENJOY (-6.5) vs HAVU (+6.5)",
+      "market": "Cincinnati Open: Arthur Fery vs Alex de Minaur \u2014 Fery vs. Minaur: Set 1 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-enjoy-havu-2026-08-17",
+      "url": "https://polymarket.com/event/atp-fery-minaur-2026-08-17",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 133484.18,
-      "liquidity": 491.62
+      "volume24hr": 415746.01,
+      "liquidity": 6730.89
     },
     {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: AA Estudiantes O/U 0.5",
+      "market": "Cardiff City FC vs. Wrexham AFC - More Markets \u2014 Cardiff City FC vs. Wrexham AFC: Cardiff City FC 1st Half O/U 0.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "EFL Championship"
       ],
-      "volume24hr": 237.6,
-      "liquidity": 12209.69
+      "volume24hr": 6.0,
+      "liquidity": 8026.13
     },
     {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: AA Estudiantes O/U 2.5",
+      "market": "Cardiff City FC vs. Wrexham AFC - More Markets \u2014 Cardiff City FC vs. Wrexham AFC: Cardiff City FC 1st Half O/U 1.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "EFL Championship"
       ],
-      "volume24hr": 130758.36,
-      "liquidity": 13045.88
+      "volume24hr": 145593.46,
+      "liquidity": 7963.71
     },
     {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 0.5",
+      "market": "Cardiff City FC vs. Wrexham AFC - More Markets \u2014 Cardiff City FC vs. Wrexham AFC: Wrexham AFC 1st Half O/U 1.5",
       "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 6.67,
+      "liquidity": 6392.86
+    },
+    {
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Elche CF 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0035,
+      "delta": -0.4965,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 164.2,
+      "liquidity": 4010.88
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fery vs Alex de Minaur \u2014 Fery vs. Minaur: Set 1 Games O/U 8.5",
+      "prev": 0.505,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-fery-minaur-2026-08-17",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Games"
       ],
-      "volume24hr": 29.85,
-      "liquidity": 14428.1
+      "volume24hr": 415746.01,
+      "liquidity": 6730.89
     },
     {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "market": "Cincinnati Open: Arthur Fery vs Alex de Minaur \u2014 Fery vs. Minaur: Set 1 Games O/U 9.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-fery-minaur-2026-08-17",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Games"
       ],
-      "volume24hr": 1467.22,
-      "liquidity": 25730.12
+      "volume24hr": 35.0,
+      "liquidity": 6985.59
+    },
+    {
+      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya \u2014 Cirstea vs. Kalinskaya: Set 1 Games O/U 8.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wta-cirstea-kalinsk-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 59.9,
+      "liquidity": 7356.24
+    },
+    {
+      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya \u2014 Cirstea vs. Kalinskaya: Set 1 Games O/U 9.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wta-cirstea-kalinsk-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 195964.38,
+      "liquidity": 7149.96
     }
   ],
   "log": [
-    {
-      "ts": "12:30:01",
-      "text": " poll complete \u2014 1508 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1511 markets scanned, 10 flagged"
@@ -272,6 +263,10 @@
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 1714 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:00:01",
+      "text": " poll complete \u2014 1730 markets scanned, 10 flagged"
     }
   ]
 }
