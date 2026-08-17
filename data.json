@@ -1,162 +1,153 @@
 {
-  "lastUpdate": "2026-08-17 21:45:01 UTC",
+  "lastUpdate": "2026-08-17 22:00:01 UTC",
   "swings": [
     {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense O/U 2.5",
-      "prev": 0.5005,
-      "now": 0.0005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
+      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 Spread: CA Independiente (-1.5)",
+      "prev": 0.1035,
+      "now": 0.9995,
+      "delta": 0.896,
+      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga 2"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 1045.87,
-      "liquidity": 22166.2
+      "volume24hr": 2880.02,
+      "liquidity": 44800.61
     },
     {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: Both Teams to Score in Second Half",
+      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 CA Lan\u00fas vs. CA Independiente: CA Independiente O/U 2.5",
+      "prev": 0.146,
+      "now": 0.9995,
+      "delta": 0.8535,
+      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 634.1,
+      "liquidity": 22027.6
+    },
+    {
+      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 CA Lan\u00fas vs. CA Independiente: O/U 3.5",
+      "prev": 0.315,
+      "now": 0.9995,
+      "delta": 0.6845,
+      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 65217.34,
+      "liquidity": 186445.08
+    },
+    {
+      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 CA Lan\u00fas vs. CA Independiente: CA Independiente 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga 2"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 95544.84,
-      "liquidity": 3877.94
+      "volume24hr": 180043.34,
+      "liquidity": 8282.13
     },
     {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: 2nd Half O/U 0.5",
+      "market": "Quebec City: Stefanos Sakellaridis vs Karl Poling \u2014 Quebec City, Canada, Qualifying: Completed Match: Stefanos Sakellaridis vs Karl Poling",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-sakella-poling-2026-08-17",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
+        "Games"
       ],
-      "volume24hr": 95544.84,
-      "liquidity": 3869.21
+      "volume24hr": 91596.75,
+      "liquidity": 970.99
     },
     {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
-      ],
-      "volume24hr": 95544.84,
-      "liquidity": 3859.45
-    },
-    {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: UD Almer\u00eda 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
-      ],
-      "volume24hr": 95544.84,
-      "liquidity": 3852.66
-    },
-    {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
-      ],
-      "volume24hr": 95544.84,
-      "liquidity": 4235.73
-    },
-    {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
-      ],
-      "volume24hr": 95544.84,
-      "liquidity": 5550.53
-    },
-    {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense O/U 0.5",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
-      ],
-      "volume24hr": 42.29,
-      "liquidity": 13002.63
-    },
-    {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense O/U 1.5",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
-      ],
-      "volume24hr": 131.0,
-      "liquidity": 12891.93
-    },
-    {
-      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: 2nd Half O/U 1.5",
+      "market": "CA Lan\u00fas vs. CA Independiente - More Markets \u2014 CA Lan\u00fas vs. CA Independiente: CA Lan\u00fas 2nd Half O/U 1.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/arg-lan-ind-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga 2"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 95544.84,
-      "liquidity": 4289.44
+      "volume24hr": 180043.34,
+      "liquidity": 3757.91
+    },
+    {
+      "market": "Kingston: Dan Martin vs Lautaro Midon \u2014 Kingston: Completed Match: Dan Martin vs Lautaro Midon",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-mart-midon-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 70900.95,
+      "liquidity": 846.93
+    },
+    {
+      "market": "Kingston: Dan Martin vs Lautaro Midon \u2014 Set Handicap: Martin (-1.5) vs Midon (+1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-mart-midon-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1.09,
+      "liquidity": 4010.02
+    },
+    {
+      "market": "Kingston: Dan Martin vs Lautaro Midon \u2014 Set Handicap: Midon (-1.5) vs Martin (+1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-mart-midon-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 72.87,
+      "liquidity": 4056.55
+    },
+    {
+      "market": "Kingston: Dan Martin vs Lautaro Midon \u2014 Dan Martin vs. Lautaro Midon: Total Sets O/U 2.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/atp-mart-midon-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 70900.95,
+      "liquidity": 5498.62
     }
   ],
   "log": [
-    {
-      "ts": "14:30:01",
-      "text": " poll complete \u2014 1628 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1610 markets scanned, 10 flagged"
@@ -272,6 +263,10 @@
     {
       "ts": "21:45:01",
       "text": " poll complete \u2014 1639 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:00:01",
+      "text": " poll complete \u2014 1637 markets scanned, 10 flagged"
     }
   ]
 }
