@@ -1,152 +1,158 @@
 {
-  "lastUpdate": "2026-08-17 21:30:02 UTC",
+  "lastUpdate": "2026-08-17 21:45:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Magdalena Frech vs Elena Rybakina \u2014 Set Handicap: Rybakina (-1.5) vs Frech (+1.5)",
-      "prev": 0.385,
-      "now": 0.9995,
-      "delta": 0.6145,
-      "url": "https://polymarket.com/event/wta-frech-rybakin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 3517.44,
-      "liquidity": 20163.82
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska \u2014 Set 2 Winner: Shnaider vs Chwalinska",
-      "prev": 0.63,
-      "now": 0.07,
-      "delta": -0.56,
-      "url": "https://polymarket.com/event/wta-shnaide-chwalin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 695.11,
-      "liquidity": 217.07
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska \u2014 Set Handicap: Shnaider (-1.5) vs Chwalinska (+1.5)",
-      "prev": 0.615,
-      "now": 0.105,
-      "delta": -0.51,
-      "url": "https://polymarket.com/event/wta-shnaide-chwalin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 3574.15,
-      "liquidity": 418.31
-    },
-    {
-      "market": "Cincinnati Open: Magdalena Frech vs Elena Rybakina \u2014 Cincinnati Open: Completed Match: Magdalena Frech vs Elena Rybakina",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-frech-rybakin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 378629.63,
-      "liquidity": 2124.94
-    },
-    {
-      "market": "Cincinnati Open: Magdalena Frech vs Elena Rybakina \u2014 Magdalena Frech vs. Elena Rybakina: Total Sets O/U 2.5",
-      "prev": 0.5,
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense O/U 2.5",
+      "prev": 0.5005,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-frech-rybakin-2026-08-17",
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga 2"
       ],
-      "volume24hr": 24.57,
-      "liquidity": 6904.89
+      "volume24hr": 1045.87,
+      "liquidity": 22166.2
     },
     {
-      "market": "Cincinnati Open: Magdalena Frech vs Elena Rybakina \u2014 Frech vs. Rybakina: Match O/U 22.5",
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: Both Teams to Score in Second Half",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-frech-rybakin-2026-08-17",
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga 2"
       ],
-      "volume24hr": 19.46,
-      "liquidity": 6767.85
+      "volume24hr": 95544.84,
+      "liquidity": 3877.94
     },
     {
-      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya \u2014 Cirstea vs. Kalinskaya: Set 2 Games O/U 8.5",
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-cirstea-kalinsk-2026-08-17",
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga 2"
       ],
-      "volume24hr": 370816.71,
-      "liquidity": 3398.14
+      "volume24hr": 95544.84,
+      "liquidity": 3869.21
     },
     {
-      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya \u2014 Cirstea vs. Kalinskaya: Set 2 Games O/U 9.5",
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: 2nd Half O/U 2.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-cirstea-kalinsk-2026-08-17",
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga 2"
       ],
-      "volume24hr": 370816.71,
-      "liquidity": 3813.16
+      "volume24hr": 95544.84,
+      "liquidity": 3859.45
     },
     {
-      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya \u2014 Cirstea vs. Kalinskaya: Set 2 Games O/U 10.5",
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: UD Almer\u00eda 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-cirstea-kalinsk-2026-08-17",
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga 2"
       ],
-      "volume24hr": 370816.71,
-      "liquidity": 3813.67
+      "volume24hr": 95544.84,
+      "liquidity": 3852.66
     },
     {
-      "market": "Cincinnati Open: Magdalena Frech vs Elena Rybakina \u2014 Frech vs. Rybakina: Match O/U 21.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-frech-rybakin-2026-08-17",
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga 2"
       ],
-      "volume24hr": 1262.19,
-      "liquidity": 8262.49
+      "volume24hr": 95544.84,
+      "liquidity": 4235.73
+    },
+    {
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga 2"
+      ],
+      "volume24hr": 95544.84,
+      "liquidity": 5550.53
+    },
+    {
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense O/U 0.5",
+      "prev": 0.5,
+      "now": 0.004,
+      "delta": -0.496,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga 2"
+      ],
+      "volume24hr": 42.29,
+      "liquidity": 13002.63
+    },
+    {
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: CD Eldense O/U 1.5",
+      "prev": 0.5,
+      "now": 0.004,
+      "delta": -0.496,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga 2"
+      ],
+      "volume24hr": 131.0,
+      "liquidity": 12891.93
+    },
+    {
+      "market": "UD Almer\u00eda vs. CD Eldense - More Markets \u2014 UD Almer\u00eda vs. CD Eldense: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/es2-alm-eld-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga 2"
+      ],
+      "volume24hr": 95544.84,
+      "liquidity": 4289.44
     }
   ],
   "log": [
-    {
-      "ts": "14:15:01",
-      "text": " poll complete \u2014 1593 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:30:01",
       "text": " poll complete \u2014 1628 markets scanned, 10 flagged"
@@ -262,6 +268,10 @@
     {
       "ts": "21:30:02",
       "text": " poll complete \u2014 1650 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:45:01",
+      "text": " poll complete \u2014 1639 markets scanned, 10 flagged"
     }
   ]
 }
