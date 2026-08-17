@@ -1,56 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 00:30:02 UTC",
+  "lastUpdate": "2026-08-17 00:45:01 UTC",
   "swings": [
     {
-      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: Cruzeiro EC O/U 1.5",
-      "prev": 0.225,
-      "now": 0.9995,
-      "delta": 0.7745,
-      "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 429.55,
-      "liquidity": 7940.47
-    },
-    {
-      "market": "SC Corinthians Paulista vs. Cruzeiro EC \u2014 Will Cruzeiro EC win on 2026-08-16?",
-      "prev": 0.175,
-      "now": 0.935,
-      "delta": 0.76,
-      "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 198608.99,
-      "liquidity": 4957.14
-    },
-    {
-      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: O/U 2.5",
-      "prev": 0.41,
-      "now": 0.9995,
-      "delta": 0.5895,
-      "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 28394.57,
-      "liquidity": 122426.6
-    },
-    {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 Spread: CF Am\u00e9rica (-2.5)",
-      "prev": 0.265,
-      "now": 0.85,
-      "delta": 0.585,
+      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Both Teams to Score",
+      "prev": 0.19,
+      "now": 0.695,
+      "delta": 0.505,
       "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -58,59 +13,14 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 3207.97,
-      "liquidity": 8693.12
+      "volume24hr": 34812.22,
+      "liquidity": 746.8
     },
     {
-      "market": "Will SC Corinthians Paulista vs. Cruzeiro EC end in a draw?",
-      "prev": 0.63,
-      "now": 0.065,
-      "delta": -0.565,
-      "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 42771.9,
-      "liquidity": 6544.9
-    },
-    {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: CF Am\u00e9rica O/U 2.5",
-      "prev": 0.415,
-      "now": 0.93,
-      "delta": 0.515,
-      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 860.97,
-      "liquidity": 933.49
-    },
-    {
-      "market": "New York City FC vs. Philadelphia Union - More Markets \u2014 New York City FC vs. Philadelphia Union: Both Teams to Score in Second Half",
+      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: CF Am\u00e9rica 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/mls-nyc-phi-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 102697.77,
-      "liquidity": 0.0
-    },
-    {
-      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: CF Am\u00e9rica 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
+      "now": 0.9955,
+      "delta": 0.4955,
       "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -118,14 +28,14 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 239509.16,
-      "liquidity": 14.94
+      "volume24hr": 30.0,
+      "liquidity": 1234.59
     },
     {
-      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: SC Corinthians Paulista 1st Half O/U 0.5",
-      "prev": 0.003,
-      "now": 0.5,
-      "delta": 0.497,
+      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -133,14 +43,14 @@
         "Soccer",
         "Brazil Serie A"
       ],
-      "volume24hr": 131.18,
-      "liquidity": 0.01
+      "volume24hr": 124684.0,
+      "liquidity": 2600.67
     },
     {
-      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: SC Corinthians Paulista 1st Half O/U 1.5",
-      "prev": 0.003,
-      "now": 0.5,
-      "delta": 0.497,
+      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: SC Corinthians Paulista 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +58,98 @@
         "Soccer",
         "Brazil Serie A"
       ],
-      "volume24hr": 103364.66,
-      "liquidity": 0.01
+      "volume24hr": 124684.0,
+      "liquidity": 2600.67
+    },
+    {
+      "market": "SC Corinthians Paulista vs. Cruzeiro EC - More Markets \u2014 SC Corinthians Paulista vs. Cruzeiro EC: Cruzeiro EC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/bra-cor1-cru-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 124684.0,
+      "liquidity": 2600.63
+    },
+    {
+      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria \u2014 Shelton vs. Faria: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 106.85,
+      "liquidity": 5196.29
+    },
+    {
+      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria \u2014 Shelton vs. Faria: Set 1 Games O/U 9.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 35.0,
+      "liquidity": 5486.63
+    },
+    {
+      "market": "Cincinnati Open: Ben Shelton vs Jaime Faria \u2014 Shelton vs. Faria: Set 1 Games O/U 10.5",
+      "prev": 0.495,
+      "now": 0.005,
+      "delta": -0.49,
+      "url": "https://polymarket.com/event/atp-shelton-faria-2026-08-16",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 14.5,
+      "liquidity": 5491.64
+    },
+    {
+      "market": "CF Am\u00e9rica vs. Atl\u00e9tico San Luis - More Markets \u2014 CF Am\u00e9rica vs. Atl\u00e9tico San Luis: Atl\u00e9tico San Luis O/U 0.5",
+      "prev": 0.22,
+      "now": 0.705,
+      "delta": 0.485,
+      "url": "https://polymarket.com/event/mex-ame-asl-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 3329.35,
+      "liquidity": 39.14
+    },
+    {
+      "market": "Seattle Mariners vs. Houston Astros \u2014 1st 5 Innings Spread: Seattle Mariners (-1.5)",
+      "prev": 0.5,
+      "now": 0.05,
+      "delta": -0.45,
+      "url": "https://polymarket.com/event/mlb-sea-hou-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 15.12,
+      "liquidity": 5.19
     }
   ],
   "log": [
-    {
-      "ts": "17:15:01",
-      "text": " poll complete \u2014 1956 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:30:01",
       "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
@@ -272,6 +265,10 @@
     {
       "ts": "00:30:02",
       "text": " poll complete \u2014 1995 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:45:01",
+      "text": " poll complete \u2014 1985 markets scanned, 10 flagged"
     }
   ]
 }
