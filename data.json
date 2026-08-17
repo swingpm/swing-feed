@@ -1,41 +1,116 @@
 {
-  "lastUpdate": "2026-08-17 20:30:02 UTC",
+  "lastUpdate": "2026-08-17 20:45:02 UTC",
   "swings": [
     {
-      "market": "Samsunspor vs. G\u00f6ztepe SK \u2014 Will G\u00f6ztepe SK win on 2026-08-17?",
-      "prev": 0.755,
-      "now": 0.025,
-      "delta": -0.73,
-      "url": "https://polymarket.com/event/tur-sam-goz-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "S\u00fcper Lig"
-      ],
-      "volume24hr": 155339.67,
-      "liquidity": 130388.62
-    },
-    {
-      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: O/U 5.5",
-      "prev": 0.125,
-      "now": 0.83,
-      "delta": 0.705,
-      "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 5595.03,
-      "liquidity": 78853.88
-    },
-    {
-      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: O/U 4.5",
-      "prev": 0.305,
+      "market": "US Cremonese vs. UC Sampdoria - More Markets \u2014 Spread: US Cremonese (-1.5)",
+      "prev": 0.145,
       "now": 0.995,
-      "delta": 0.69,
+      "delta": 0.85,
+      "url": "https://polymarket.com/event/itc-cre-sam-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 307.49,
+      "liquidity": 21489.1
+    },
+    {
+      "market": "US Cremonese vs. UC Sampdoria - More Markets \u2014 US Cremonese vs. UC Sampdoria: US Cremonese O/U 1.5",
+      "prev": 0.165,
+      "now": 0.9995,
+      "delta": 0.8345,
+      "url": "https://polymarket.com/event/itc-cre-sam-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 494.68,
+      "liquidity": 12017.79
+    },
+    {
+      "market": "Counter-Strike: ENJOY vs HAVU (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
+      "prev": 0.73,
+      "now": 0.0005,
+      "delta": -0.7295,
+      "url": "https://polymarket.com/event/cs2-enjoy-havu-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 124122.14,
+      "liquidity": 292476.8
+    },
+    {
+      "market": "US Cremonese vs. UC Sampdoria - More Markets \u2014 US Cremonese vs. UC Sampdoria: O/U 1.5",
+      "prev": 0.29,
+      "now": 0.9995,
+      "delta": 0.7095,
+      "url": "https://polymarket.com/event/itc-cre-sam-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 42699.87,
+      "liquidity": 111525.84
+    },
+    {
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Both Teams to Score",
+      "prev": 0.325,
+      "now": 0.9995,
+      "delta": 0.6745,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 56550.57,
+      "liquidity": 161698.33
+    },
+    {
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Elche CF O/U 0.5",
+      "prev": 0.325,
+      "now": 0.9995,
+      "delta": 0.6745,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 7894.14,
+      "liquidity": 102152.53
+    },
+    {
+      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF \u2014 Will RC Deportivo A Coru\u00f1a win on 2026-08-17?",
+      "prev": 0.755,
+      "now": 0.165,
+      "delta": -0.59,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 1327402.73,
+      "liquidity": 151414.53
+    },
+    {
+      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: Casa Pia AC O/U 0.5",
+      "prev": 0.635,
+      "now": 0.115,
+      "delta": -0.52,
       "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -43,29 +118,29 @@
         "Soccer",
         "Primeira Liga"
       ],
-      "volume24hr": 7511.63,
-      "liquidity": 100311.58
+      "volume24hr": 2259.37,
+      "liquidity": 677.6
     },
     {
-      "market": "Will Samsunspor vs. G\u00f6ztepe SK end in a draw?",
+      "market": "Will RC Deportivo A Coru\u00f1a vs. Elche CF end in a draw?",
       "prev": 0.205,
-      "now": 0.885,
-      "delta": 0.68,
-      "url": "https://polymarket.com/event/tur-sam-goz-2026-08-17",
+      "now": 0.715,
+      "delta": 0.51,
+      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "S\u00fcper Lig"
+        "La Liga"
       ],
-      "volume24hr": 39495.15,
-      "liquidity": 7433.44
+      "volume24hr": 295982.25,
+      "liquidity": 165481.69
     },
     {
-      "market": "Samsunspor vs. G\u00f6ztepe SK - More Markets \u2014 Samsunspor vs. G\u00f6ztepe SK: O/U 5.5",
-      "prev": 0.475,
-      "now": 0.9995,
-      "delta": 0.5245,
+      "market": "Samsunspor vs. G\u00f6ztepe SK - More Markets \u2014 Samsunspor vs. G\u00f6ztepe SK: Samsunspor 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/tur-sam-goz-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -73,90 +148,11 @@
         "Soccer",
         "S\u00fcper Lig"
       ],
-      "volume24hr": 8890.51,
-      "liquidity": 131293.2
-    },
-    {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-05-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1023415.44,
-      "liquidity": 3911.27
-    },
-    {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 4.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-05-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1023415.44,
-      "liquidity": 3912.17
-    },
-    {
-      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 158411.84,
-      "liquidity": 1566.56
-    },
-    {
-      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 48.7,
-      "liquidity": 1234.5
-    },
-    {
-      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: Sport Lisboa e Benfica 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 158411.84,
-      "liquidity": 1518.25
+      "volume24hr": 141167.22,
+      "liquidity": 3550.84
     }
   ],
   "log": [
-    {
-      "ts": "13:15:01",
-      "text": " poll complete \u2014 1522 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:30:01",
       "text": " poll complete \u2014 1612 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "20:30:02",
       "text": " poll complete \u2014 1736 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:45:02",
+      "text": " poll complete \u2014 1705 markets scanned, 10 flagged"
     }
   ]
 }
