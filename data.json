@@ -1,121 +1,55 @@
 {
-  "lastUpdate": "2026-08-17 15:00:02 UTC",
+  "lastUpdate": "2026-08-17 15:15:02 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 29\u00b0C on August 17?",
-      "prev": 0.8565,
-      "now": 0.0005,
-      "delta": -0.856,
-      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 3 Total Rounds: Over/Under 21.5",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Milan",
-        "Highest temperature"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 16194.23,
-      "liquidity": 21954.89
+      "volume24hr": 2258.59,
+      "liquidity": 9852.72
     },
     {
-      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 30\u00b0C on August 17?",
-      "prev": 0.125,
-      "now": 0.82,
-      "delta": 0.695,
-      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Milan",
-        "Highest temperature"
-      ],
-      "volume24hr": 15180.28,
-      "liquidity": 382.08
-    },
-    {
-      "market": "Prague: Nerman Fatic vs Matthew William Donald",
-      "prev": 0.6,
-      "now": 0.975,
-      "delta": 0.375,
+      "market": "Prague: Nerman Fatic vs Matthew William Donald \u2014 Prague, Czech Republic, Qualifying: Completed Match: Nerman Fatic vs Matthew William Donald",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/atp-fatic-donald-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 88341.23,
-      "liquidity": 231999.52
+      "volume24hr": 103903.99,
+      "liquidity": 940.07
     },
     {
-      "market": "Ethereum above ___ on August 17? \u2014 Will the price of Ethereum be above $1,900 on August 17?",
-      "prev": 0.57,
-      "now": 0.845,
-      "delta": 0.275,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-17-2026",
-      "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 18183.99,
-      "liquidity": 15617.71
-    },
-    {
-      "market": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In \u2014 Counter-Strike: Raccoons vs Fire Flux Esports - Map 1 Winner",
-      "prev": 0.39,
-      "now": 0.655,
-      "delta": 0.265,
-      "url": "https://polymarket.com/event/cs2-raccoo-ff-2026-08-17",
+      "market": "Counter-Strike: Bushido Wildcats vs Inner Circle Academy (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map Handicap: BW (-1.5) vs Inner Circle Academy (+1.5)",
+      "prev": 0.2,
+      "now": 0.68,
+      "delta": 0.48,
+      "url": "https://polymarket.com/event/cs2-bw-innerc-2026-08-17",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 9193.8,
-      "liquidity": 4438.3
-    },
-    {
-      "market": "Counter-Strike: LPH Gaming vs SAW Youngsters (BO3) - CCT Europe Challengers Series Playoffs \u2014 Counter-Strike: LPH Gaming vs SAW Youngsters - Map 2 Winner",
-      "prev": 0.255,
-      "now": 0.52,
-      "delta": 0.265,
-      "url": "https://polymarket.com/event/cs2-lph-sawy-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4707.11,
-      "liquidity": 3475.5
-    },
-    {
-      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Radulov vs. Monday: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 9.52,
-      "liquidity": 4140.5
+      "volume24hr": 44610.26,
+      "liquidity": 266.42
     },
     {
       "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
-      "prev": 0.215,
-      "now": 0.455,
-      "delta": 0.24,
+      "prev": 0.455,
+      "now": 0.0005,
+      "delta": -0.4545,
       "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
       "tags": [
         "Esports",
@@ -123,29 +57,44 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 392632.16,
-      "liquidity": 27085.28
+      "volume24hr": 420240.7,
+      "liquidity": 270578.26
     },
     {
-      "market": "Counter-Strike: LPH Gaming vs SAW Youngsters (BO3) - CCT Europe Challengers Series Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.735,
-      "now": 0.52,
-      "delta": -0.215,
-      "url": "https://polymarket.com/event/cs2-lph-sawy-2026-08-17",
+      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 240.29,
-      "liquidity": 17.58
+      "volume24hr": 306487.12,
+      "liquidity": 767495.81
     },
     {
-      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Games Total: O/U 2.5",
-      "prev": 0.8,
-      "now": 0.9995,
-      "delta": 0.1995,
+      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 306487.12,
+      "liquidity": 767495.81
+    },
+    {
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 3 Rounds Handicap: ex-RUSTEC (-3.5) vs Noir Verse (+3.5)",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
       "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
       "tags": [
         "Esports",
@@ -153,15 +102,56 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 12850.03,
-      "liquidity": 62069.25
+      "volume24hr": 536138.55,
+      "liquidity": 115.47
+    },
+    {
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 3 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 536138.55,
+      "liquidity": 115.47
+    },
+    {
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 3 Rounds Handicap: ex-RUSTEC (-9.5) vs Noir Verse (+9.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 536138.55,
+      "liquidity": 115.47
+    },
+    {
+      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 3 Rounds Handicap: ex-RUSTEC (-6.5) vs Noir Verse (+6.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 536138.55,
+      "liquidity": 115.47
     }
   ],
   "log": [
-    {
-      "ts": "07:45:01",
-      "text": " poll complete \u2014 1692 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:00:01",
       "text": " poll complete \u2014 1700 markets scanned, 10 flagged"
@@ -276,6 +266,10 @@
     },
     {
       "ts": "15:00:02",
+      "text": " poll complete \u2014 1595 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:15:02",
       "text": " poll complete \u2014 1595 markets scanned, 10 flagged"
     }
   ]
