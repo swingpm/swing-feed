@@ -1,26 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 08:15:01 UTC",
+  "lastUpdate": "2026-08-17 08:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.54,
-      "now": 0.105,
-      "delta": -0.435,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 57.22
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 1 Winner",
+      "prev": 0.535,
+      "now": 0.165,
+      "delta": -0.37,
       "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
       "tags": [
         "Esports",
@@ -28,59 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 80244.29,
-      "liquidity": 345773.16
+      "volume24hr": 85065.74,
+      "liquidity": 164960.59
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 80244.29,
-      "liquidity": 345773.16
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.485,
-      "now": 0.105,
-      "delta": -0.38,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 27.67
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.255,
-      "now": 0.5,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 80244.29,
-      "liquidity": 345773.16
-    },
-    {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.65,
-      "now": 0.41,
-      "delta": -0.24,
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.285,
+      "now": 0.54,
+      "delta": 0.255,
       "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
       "tags": [
         "Esports",
@@ -88,14 +28,89 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 132020.02,
-      "liquidity": 8.51
+      "volume24hr": 132021.8,
+      "liquidity": 26.18
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.285,
+      "now": 0.54,
+      "delta": 0.255,
+      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 132021.8,
+      "liquidity": 26.18
+    },
+    {
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.25,
+      "now": 0.5,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 132021.8,
+      "liquidity": 0.1
+    },
+    {
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.25,
+      "now": 0.5,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 132021.8,
+      "liquidity": 0.1
+    },
+    {
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.275,
+      "now": 0.505,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 132021.8,
+      "liquidity": 20.18
+    },
+    {
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.275,
+      "now": 0.505,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 132021.8,
+      "liquidity": 20.18
+    },
+    {
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 2: Both Teams Slay Baron Nashor?",
       "prev": 0.28,
-      "now": 0.515,
-      "delta": 0.235,
+      "now": 0.505,
+      "delta": 0.225,
       "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
       "tags": [
         "Esports",
@@ -103,44 +118,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 132020.02,
-      "liquidity": 17.46
-    },
-    {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 Game 3: Both Teams Slay a Dragon?",
-      "prev": 0.645,
-      "now": 0.41,
-      "delta": -0.235,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 132020.02,
-      "liquidity": 8.51
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: T1 (-1.5) vs DN SOOPers (+1.5)",
-      "prev": 0.335,
-      "now": 0.12,
-      "delta": -0.215,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 6854.28,
-      "liquidity": 138708.4
+      "volume24hr": 132021.8,
+      "liquidity": 20.2
     },
     {
       "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.3,
-      "delta": -0.2,
+      "prev": 0.3,
+      "now": 0.5,
+      "delta": 0.2,
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
@@ -148,15 +133,26 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 120.0,
-      "liquidity": 143.25
+      "volume24hr": 252.49,
+      "liquidity": 2.0
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prev": 0.575,
+      "now": 0.385,
+      "delta": -0.19,
+      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 89756.43,
+      "liquidity": 102836.5
     }
   ],
   "log": [
-    {
-      "ts": "01:00:02",
-      "text": " poll complete \u2014 2010 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:15:01",
       "text": " poll complete \u2014 1946 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "08:15:01",
       "text": " poll complete \u2014 1702 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:30:01",
+      "text": " poll complete \u2014 1679 markets scanned, 10 flagged"
     }
   ]
 }
