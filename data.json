@@ -1,39 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 23:00:02 UTC",
+  "lastUpdate": "2026-08-17 23:15:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska \u2014 Diana Shnaider vs. Maja Chwalinska: Total Sets O/U 2.5",
-      "prev": 0.625,
-      "now": 0.0005,
-      "delta": -0.6245,
-      "url": "https://polymarket.com/event/wta-shnaide-chwalin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 394779.72,
-      "liquidity": 4401.64
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska \u2014 Set 2 Winner: Shnaider vs Chwalinska",
-      "prev": 0.445,
-      "now": 0.9995,
-      "delta": 0.5545,
-      "url": "https://polymarket.com/event/wta-shnaide-chwalin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 4644.64,
-      "liquidity": 26575.32
-    },
-    {
-      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: CA V\u00e9lez Sarsfield 1st Half O/U 1.5",
-      "prev": 0.61,
-      "now": 0.065,
-      "delta": -0.545,
+      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: CA V\u00e9lez Sarsfield 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
       "url": "https://polymarket.com/event/arg-vel-def-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -41,14 +13,14 @@
         "Soccer",
         "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 10.71,
-      "liquidity": 513.53
+      "volume24hr": 107.67,
+      "liquidity": 2776.85
     },
     {
-      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: CSyD Defensa y Justicia 1st Half O/U 0.5",
-      "prev": 0.585,
-      "now": 0.045,
-      "delta": -0.54,
+      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: CSyD Defensa y Justicia 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/arg-vel-def-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -56,100 +28,129 @@
         "Soccer",
         "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 71.43,
-      "liquidity": 338.52
+      "volume24hr": 206.74,
+      "liquidity": 2791.22
     },
     {
-      "market": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska \u2014 Set Handicap: Shnaider (-1.5) vs Chwalinska (+1.5)",
-      "prev": 0.465,
-      "now": 0.9995,
-      "delta": 0.5345,
-      "url": "https://polymarket.com/event/wta-shnaide-chwalin-2026-08-17",
+      "market": "Baltimore Orioles vs. Tampa Bay Rays: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 3926.88,
-      "liquidity": 17712.9
+      "volume24hr": 74.64,
+      "liquidity": 1809.35
     },
     {
-      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: Both Teams to Score in First Half",
-      "prev": 0.575,
-      "now": 0.045,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/arg-vel-def-2026-08-17-more-markets",
+      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 6.5",
+      "prev": 0.55,
+      "now": 0.12,
+      "delta": -0.43,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 350608.83,
+      "liquidity": 139.55
+    },
+    {
+      "market": "Will the game go to extra innings?: Detroit Tigers vs. Pittsburgh Pirates",
+      "prev": 0.115,
+      "now": 0.52,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 539.64,
+      "liquidity": 1.68
+    },
+    {
+      "market": "Will the game go to extra innings?: San Diego Padres vs. New York Mets",
+      "prev": 0.1,
+      "now": 0.5,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.64,
+      "liquidity": 1.12
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays: 1st 5 Innings O/U 2.5",
+      "prev": 0.62,
+      "now": 0.9955,
+      "delta": 0.3755,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1101057.1,
+      "liquidity": 1713.64
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - Exact Score \u2014 Exact Score: Any Other Score?",
+      "prev": 0.145,
+      "now": 0.485,
+      "delta": 0.34,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-exact-score",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Brazil Serie A"
       ],
-      "volume24hr": 1013.25,
-      "liquidity": 338.52
+      "volume24hr": 133.64,
+      "liquidity": 2.72
     },
     {
-      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Jodar vs. Tabilo: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Set Handicap: Jodar (-1.5) vs Tabilo (+1.5)",
+      "prev": 0.635,
+      "now": 0.95,
+      "delta": 0.315,
       "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 828.95,
-      "liquidity": 6907.46
+      "volume24hr": 16224.93,
+      "liquidity": 124269.91
     },
     {
-      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Jodar vs. Tabilo: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Set 2 Winner: Jodar vs Tabilo",
+      "prev": 0.66,
+      "now": 0.97,
+      "delta": 0.31,
       "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 8.0,
-      "liquidity": 6861.95
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Alejandro Tabilo \u2014 Jodar vs. Tabilo: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-jodar-tabilo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1004.13,
-      "liquidity": 7071.6
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska \u2014 Shnaider vs. Chwalinska: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-shnaide-chwalin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 125.1,
-      "liquidity": 4282.84
+      "volume24hr": 965.79,
+      "liquidity": 5134.17
     }
   ],
   "log": [
-    {
-      "ts": "15:45:02",
-      "text": " poll complete \u2014 1648 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:00:02",
       "text": " poll complete \u2014 1661 markets scanned, 10 flagged"
@@ -265,6 +266,10 @@
     {
       "ts": "23:00:02",
       "text": " poll complete \u2014 1657 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:15:02",
+      "text": " poll complete \u2014 1642 markets scanned, 10 flagged"
     }
   ]
 }
