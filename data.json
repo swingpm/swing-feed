@@ -1,162 +1,169 @@
 {
-  "lastUpdate": "2026-08-17 10:15:02 UTC",
+  "lastUpdate": "2026-08-17 10:30:02 UTC",
   "swings": [
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 1 Winner",
+      "prev": 0.57,
+      "now": 0.255,
+      "delta": -0.315,
+      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 724441.48,
-      "liquidity": 860.33
+      "volume24hr": 31903.68,
+      "liquidity": 138616.98
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: KRX.C (-1.5) vs Hanwha Life Esports Challengers (+1.5)",
+      "prev": 0.4,
+      "now": 0.215,
+      "delta": -0.185,
+      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 724441.48,
-      "liquidity": 860.53
+      "volume24hr": 3071.29,
+      "liquidity": 10647.82
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+      "prev": 0.635,
+      "now": 0.465,
+      "delta": -0.17,
+      "url": "https://polymarket.com/event/lol-drxc-hle-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 724441.48,
-      "liquidity": 860.33
+      "volume24hr": 42813.17,
+      "liquidity": 173197.24
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season",
+      "prev": 0.555,
+      "now": 0.71,
+      "delta": 0.155,
+      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 724441.48,
-      "liquidity": 860.53
+      "volume24hr": 139163.27,
+      "liquidity": 9006.54
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "Prague: Andrew Paulson vs Norbert Gombos",
+      "prev": 0.195,
+      "now": 0.065,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/atp-paulson-gombos-2026-08-17",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 724441.48,
-      "liquidity": 115.47
+      "volume24hr": 68162.02,
+      "liquidity": 232861.31
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay a Dragon?",
+      "market": "Who will be removed from Chinese Military Companies list by June 30, 2027? \u2014 Will BYD be removed from Chinese Military Companies list by June 30, 2027?",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "now": 0.595,
+      "delta": 0.095,
+      "url": "https://polymarket.com/event/who-will-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230550",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "AI",
+        "USA",
+        "Tech",
+        "list",
+        "China",
+        "Trump",
+        "Alibaba",
+        "Big Tech",
+        "military",
+        "Geopolitics",
+        "AI Regulation",
+        "United States"
       ],
-      "volume24hr": 724441.48,
-      "liquidity": 115.47
+      "volume24hr": 8813.44,
+      "liquidity": 328.33
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 3.5",
+      "prev": 0.82,
+      "now": 0.74,
+      "delta": -0.08,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 724441.48,
-      "liquidity": 115.47
+      "volume24hr": 9297.95,
+      "liquidity": 125260.86
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: T1 (-2.5) vs DN SOOPers (+2.5)",
+      "prev": 0.27,
+      "now": 0.345,
+      "delta": 0.075,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1.89,
-      "liquidity": 115.47
+      "volume24hr": 5949.89,
+      "liquidity": 57652.25
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Masoud Pezeshkian attend a US x Iran diplomatic meeting by December 31, 2026?",
+      "prev": 0.23,
+      "now": 0.305,
+      "delta": 0.075,
+      "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Iran",
+        "Trump",
+        "US-Iran",
+        "Politics",
+        "Peace Deal",
+        "Geopolitics",
+        "Israel x Iran",
+        "Iran Ceasefire"
       ],
-      "volume24hr": 724441.48,
-      "liquidity": 115.47
+      "volume24hr": 7894.76,
+      "liquidity": 409.11
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-dkc-ktc-2026-08-17",
+      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 LoL: Bulldog Esports vs LEO - Game 1 Winner",
+      "prev": 0.505,
+      "now": 0.575,
+      "delta": 0.07,
+      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 724441.48,
-      "liquidity": 115.47
+      "volume24hr": 139163.27,
+      "liquidity": 436.36
     }
   ],
   "log": [
-    {
-      "ts": "03:00:01",
-      "text": " poll complete \u2014 1900 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:15:02",
       "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
@@ -272,6 +279,10 @@
     {
       "ts": "10:15:02",
       "text": " poll complete \u2014 1612 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:30:02",
+      "text": " poll complete \u2014 1601 markets scanned, 10 flagged"
     }
   ]
 }
