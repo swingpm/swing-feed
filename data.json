@@ -1,162 +1,157 @@
 {
-  "lastUpdate": "2026-08-17 19:00:01 UTC",
+  "lastUpdate": "2026-08-17 19:15:01 UTC",
   "swings": [
     {
-      "market": "Real Sporting de Gij\u00f3n vs. CE Sabadell FC - More Markets \u2014 Real Sporting de Gij\u00f3n vs. CE Sabadell FC: O/U 0.5",
-      "prev": 0.585,
-      "now": 0.0005,
-      "delta": -0.5845,
-      "url": "https://polymarket.com/event/es2-spo-sab-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
-      ],
-      "volume24hr": 25744.0,
-      "liquidity": 61902.72
-    },
-    {
-      "market": "Real Sporting de Gij\u00f3n vs. CE Sabadell FC - More Markets \u2014 Real Sporting de Gij\u00f3n vs. CE Sabadell FC: 2nd Half O/U 0.5",
-      "prev": 0.58,
-      "now": 0.0045,
-      "delta": -0.5755,
-      "url": "https://polymarket.com/event/es2-spo-sab-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
-      ],
-      "volume24hr": 77833.25,
-      "liquidity": 4104.35
-    },
-    {
-      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: BK Hacken O/U 1.5",
-      "prev": 0.575,
-      "now": 0.0005,
-      "delta": -0.5745,
-      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 379.49,
-      "liquidity": 11923.18
-    },
-    {
-      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Both Teams to Score",
-      "prev": 0.54,
-      "now": 0.0035,
-      "delta": -0.5365,
-      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 29627.25,
-      "liquidity": 32282.21
-    },
-    {
-      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Halmstads BK O/U 0.5",
-      "prev": 0.535,
-      "now": 0.0045,
-      "delta": -0.5305,
-      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 273.29,
-      "liquidity": 12106.82
-    },
-    {
-      "market": "Real Sporting de Gij\u00f3n vs. CE Sabadell FC - More Markets \u2014 Real Sporting de Gij\u00f3n vs. CE Sabadell FC: CE Sabadell FC 2nd Half O/U 1.5",
-      "prev": 0.525,
-      "now": 0.0045,
-      "delta": -0.5205,
-      "url": "https://polymarket.com/event/es2-spo-sab-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga 2"
-      ],
-      "volume24hr": 77833.25,
-      "liquidity": 4023.13
-    },
-    {
-      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: 2nd Half O/U 0.5",
-      "prev": 0.505,
-      "now": 0.0005,
-      "delta": -0.5045,
-      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 232588.4,
-      "liquidity": 3959.09
-    },
-    {
-      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Both Teams to Score in Second Half",
+      "market": "Cincinnati Open: Magdalena Frech vs Elena Rybakina \u2014 Frech vs. Rybakina: Set 1 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/wta-frech-rybakin-2026-08-17",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
+        "Games"
       ],
-      "volume24hr": 232588.4,
-      "liquidity": 3604.1
+      "volume24hr": 220988.23,
+      "liquidity": 6250.5
     },
     {
-      "market": "Real Sporting de Gij\u00f3n vs. CE Sabadell FC - More Markets \u2014 Real Sporting de Gij\u00f3n vs. CE Sabadell FC: CE Sabadell FC O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/es2-spo-sab-2026-08-17-more-markets",
+      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 2.5",
+      "prev": 0.008,
+      "now": 0.5,
+      "delta": 0.492,
+      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga 2"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 932.37,
-      "liquidity": 23366.73
+      "volume24hr": 600.43,
+      "liquidity": 0.08
     },
     {
-      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Halmstads BK O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: St. Louis Cardinals (-4.5)",
+      "prev": 0.53,
+      "now": 0.1,
+      "delta": -0.43,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-05-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 69.37
+    },
+    {
+      "market": "Cardiff City FC vs. Wrexham AFC - Exact Score \u2014 Exact Score: Cardiff City FC 3 - 0 Wrexham AFC?",
+      "prev": 0.028,
+      "now": 0.4335,
+      "delta": 0.4055,
+      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-exact-score",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Sweden Allsvenskan"
+        "EFL Championship"
       ],
-      "volume24hr": 2144.47,
-      "liquidity": 14733.81
+      "volume24hr": 3078.03,
+      "liquidity": 2184.85
+    },
+    {
+      "market": "Cardiff City FC vs. Wrexham AFC - Exact Score \u2014 Exact Score: Any Other Score?",
+      "prev": 0.095,
+      "now": 0.5,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 209906.28
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1161031.88,
+      "liquidity": 115.47
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1161031.88,
+      "liquidity": 115.47
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1161031.88,
+      "liquidity": 115.47
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 56.75,
+      "liquidity": 115.47
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1161031.88,
+      "liquidity": 115.47
     }
   ],
   "log": [
-    {
-      "ts": "11:45:01",
-      "text": " poll complete \u2014 1562 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:00:02",
       "text": " poll complete \u2014 1562 markets scanned, 10 flagged"
@@ -272,6 +267,10 @@
     {
       "ts": "19:00:01",
       "text": " poll complete \u2014 1707 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:15:01",
+      "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
     }
   ]
 }
