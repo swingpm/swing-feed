@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 07:30:01 UTC",
+  "lastUpdate": "2026-08-17 07:45:01 UTC",
   "swings": [
     {
       "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.255,
-      "delta": -0.245,
+      "prev": 0.255,
+      "now": 0.485,
+      "delta": 0.23,
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
@@ -13,14 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 395139.05,
-      "liquidity": 35.25
+      "volume24hr": 410283.61,
+      "liquidity": 291.38
     },
     {
       "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 28\u00b0C on August 17?",
-      "prev": 0.993,
-      "now": 0.7805,
-      "delta": -0.2125,
+      "prev": 0.7805,
+      "now": 0.975,
+      "delta": 0.1945,
       "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
       "tags": [
         "Weather",
@@ -30,14 +30,14 @@
         "Daily Temperature",
         "Highest temperature"
       ],
-      "volume24hr": 16438.19,
-      "liquidity": 267.08
+      "volume24hr": 18228.31,
+      "liquidity": 725.07
     },
     {
       "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 29\u00b0C on August 17?",
-      "prev": 0.004,
-      "now": 0.1835,
-      "delta": 0.1795,
+      "prev": 0.1835,
+      "now": 0.0315,
+      "delta": -0.152,
       "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
       "tags": [
         "Weather",
@@ -47,14 +47,48 @@
         "Daily Temperature",
         "Highest temperature"
       ],
-      "volume24hr": 6630.9,
-      "liquidity": 126.1
+      "volume24hr": 7390.69,
+      "liquidity": 512.13
     },
     {
-      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 28\u00b0C on August 17?",
-      "prev": 0.9,
-      "now": 0.83,
-      "delta": -0.07,
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 24\u00b0C on August 17?",
+      "prev": 0.185,
+      "now": 0.28,
+      "delta": 0.095,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 8854.9,
+      "liquidity": 366.62
+    },
+    {
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 30\u00b0C on August 17?",
+      "prev": 0.35,
+      "now": 0.265,
+      "delta": -0.085,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
+      ],
+      "volume24hr": 7674.95,
+      "liquidity": 242.17
+    },
+    {
+      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 27\u00b0C on August 17?",
+      "prev": 0.085,
+      "now": 0.17,
+      "delta": 0.085,
       "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
       "tags": [
         "Weather",
@@ -64,14 +98,14 @@
         "Hong Kong",
         "Lowest temperature"
       ],
-      "volume24hr": 11015.97,
-      "liquidity": 301.17
+      "volume24hr": 6362.83,
+      "liquidity": 220.74
     },
     {
-      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Nick Stewart attend a US x Iran diplomatic meeting by December 31, 2026?",
-      "prev": 0.175,
-      "now": 0.235,
-      "delta": 0.06,
+      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Steve Witkoff attend a US x Iran diplomatic meeting by December 31, 2026?",
+      "prev": 0.395,
+      "now": 0.46,
+      "delta": 0.065,
       "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
       "tags": [
         "Iran",
@@ -83,74 +117,31 @@
         "Israel x Iran",
         "Iran Ceasefire"
       ],
-      "volume24hr": 1020.16,
-      "liquidity": 619.18
+      "volume24hr": 6005.2,
+      "liquidity": 757.98
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: T1 (-2.5) vs DN SOOPers (+2.5)",
-      "prev": 0.135,
-      "now": 0.19,
-      "delta": 0.055,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "market": "Highest temperature in Madrid on August 17? \u2014 Will the highest temperature in Madrid be 37\u00b0C on August 17?",
+      "prev": 0.555,
+      "now": 0.495,
+      "delta": -0.06,
+      "url": "https://polymarket.com/event/highest-temperature-in-madrid-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Madrid",
+        "Highest temperature"
       ],
-      "volume24hr": 4997.47,
-      "liquidity": 10013.12
-    },
-    {
-      "market": "\"Spider-Man: Brand New Day\" total domestic gross by August 31? \u2014 Will the total domestic gross for Spider-Man: Brand New Day be between 800m and 900m by August 31?",
-      "prev": 0.445,
-      "now": 0.5,
-      "delta": 0.055,
-      "url": "https://polymarket.com/event/spider-man-brand-new-day-total-domestic-gross-by-august-31-20260716181307512",
-      "tags": [
-        "Movies",
-        "Culture",
-        "Box Office",
-        "Spider-Man"
-      ],
-      "volume24hr": 24571.7,
-      "liquidity": 9124.59
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.055,
-      "now": 0.105,
-      "delta": 0.05,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 82848.91,
-      "liquidity": 290.97
-    },
-    {
-      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: DK (-1.5) vs Hanwha Life Esports (+1.5)",
-      "prev": 0.46,
-      "now": 0.51,
-      "delta": 0.05,
-      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 200.0,
-      "liquidity": 9866.21
+      "volume24hr": 8091.39,
+      "liquidity": 448.25
     },
     {
       "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Game Handicap: BRO (-1.5) vs DN SOOPers (+1.5)",
-      "prev": 0.485,
-      "now": 0.435,
-      "delta": -0.05,
+      "prev": 0.435,
+      "now": 0.38,
+      "delta": -0.055,
       "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
       "tags": [
         "Esports",
@@ -159,14 +150,27 @@
         "Sports"
       ],
       "volume24hr": 60535.68,
-      "liquidity": 135.78
+      "liquidity": 722.7
+    },
+    {
+      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 28\u00b0C on August 17?",
+      "prev": 0.83,
+      "now": 0.775,
+      "delta": -0.055,
+      "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Lowest temperature"
+      ],
+      "volume24hr": 11234.87,
+      "liquidity": 742.26
     }
   ],
   "log": [
-    {
-      "ts": "00:15:02",
-      "text": " poll complete \u2014 1933 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:30:02",
       "text": " poll complete \u2014 1995 markets scanned, 10 flagged"
@@ -282,6 +286,10 @@
     {
       "ts": "07:30:01",
       "text": " poll complete \u2014 1697 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:45:01",
+      "text": " poll complete \u2014 1692 markets scanned, 10 flagged"
     }
   ]
 }
