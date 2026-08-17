@@ -1,168 +1,148 @@
 {
-  "lastUpdate": "2026-08-17 14:30:01 UTC",
+  "lastUpdate": "2026-08-17 14:45:01 UTC",
   "swings": [
     {
-      "market": "Prague: Nerman Fatic vs Matthew William Donald",
-      "prev": 0.545,
-      "now": 0.25,
-      "delta": -0.295,
-      "url": "https://polymarket.com/event/atp-fatic-donald-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 78555.42,
-      "liquidity": 164550.56
-    },
-    {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 21.5",
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Set 2 Winner: Ribeiro vs Nagal",
       "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 16.03,
-      "liquidity": 4142.95
+      "volume24hr": 164350.83,
+      "liquidity": 2673.84
     },
     {
-      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 22.5",
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Eduardo Ribeiro vs. Sumit Nagal: Total Sets O/U 2.5",
       "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 39.99,
-      "liquidity": 3490.5
+      "volume24hr": 164350.83,
+      "liquidity": 5792.42
     },
     {
-      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 3 Total Rounds: Over/Under 21.5",
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.745,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 125803.76,
-      "liquidity": 980.0
+      "volume24hr": 164350.83,
+      "liquidity": 2662.14
     },
     {
-      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 3 Rounds Handicap: ENCE (-3.5) vs Esport BERG (+3.5)",
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Set Handicap: Nagal (-1.5) vs Ribeiro (+1.5)",
       "prev": 0.5,
-      "now": 0.255,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 125803.76,
-      "liquidity": 980.0
+      "volume24hr": 6.0,
+      "liquidity": 4388.56
     },
     {
-      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Jared Kushner attend a US x Iran diplomatic meeting by December 31, 2026?",
-      "prev": 0.605,
-      "now": 0.405,
-      "delta": -0.2,
-      "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
       "tags": [
-        "Iran",
-        "Trump",
-        "US-Iran",
-        "Politics",
-        "Peace Deal",
-        "Geopolitics",
-        "Israel x Iran",
-        "Iran Ceasefire"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 6054.94,
-      "liquidity": 325.99
+      "volume24hr": 164350.83,
+      "liquidity": 2672.7
     },
     {
-      "market": "Ethereum above ___ on August 17? \u2014 Will the price of Ethereum be above $1,900 on August 17?",
-      "prev": 0.665,
-      "now": 0.48,
-      "delta": -0.185,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-17-2026",
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
       "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 18862.95,
-      "liquidity": 16182.32
+      "volume24hr": 164350.83,
+      "liquidity": 5792.42
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.18,
-      "now": 0.065,
-      "delta": -0.115,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Set 2 Winner: Radulov vs Monday",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 9.57,
-      "liquidity": 579.43
+      "volume24hr": 74577.58,
+      "liquidity": 2487.13
     },
     {
-      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map Handicap: Noir Verse (-1.5) vs ex-RUSTEC (+1.5)",
-      "prev": 0.225,
-      "now": 0.125,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
+      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Radulov vs. Monday: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 406.77,
-      "liquidity": 4401.25
+      "volume24hr": 74577.58,
+      "liquidity": 2798.16
     },
     {
-      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 29\u00b0C on August 17?",
-      "prev": 0.9435,
-      "now": 0.8505,
-      "delta": -0.093,
-      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
+      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Radulov vs. Monday: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Milan",
-        "Highest temperature"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 14804.3,
-      "liquidity": 251.48
+      "volume24hr": 74577.58,
+      "liquidity": 2317.14
+    },
+    {
+      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Radulov vs. Monday: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 74577.58,
+      "liquidity": 2742.17
     }
   ],
   "log": [
-    {
-      "ts": "07:15:02",
-      "text": " poll complete \u2014 1719 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:30:01",
       "text": " poll complete \u2014 1697 markets scanned, 10 flagged"
@@ -278,6 +258,10 @@
     {
       "ts": "14:30:01",
       "text": " poll complete \u2014 1628 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:45:01",
+      "text": " poll complete \u2014 1610 markets scanned, 10 flagged"
     }
   ]
 }
