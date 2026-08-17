@@ -1,146 +1,101 @@
 {
-  "lastUpdate": "2026-08-17 18:15:01 UTC",
+  "lastUpdate": "2026-08-17 18:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 33.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1007192.52,
-      "liquidity": 563.45
-    },
-    {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1007192.52,
-      "liquidity": 329.67
-    },
-    {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 21.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1007192.52,
-      "liquidity": 329.67
-    },
-    {
-      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: 2nd Half O/U 0.5",
-      "prev": 0.5,
+      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold: S\u00f8nderjyske Fodbold O/U 1.5",
+      "prev": 0.08,
       "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "delta": 0.915,
+      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Coppa Italia"
+        "Denmark Superliga"
       ],
-      "volume24hr": 118808.19,
-      "liquidity": 985.16
+      "volume24hr": 70.09,
+      "liquidity": 1856.41
     },
     {
-      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: US Sassuolo Calcio 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Spread: Br\u00f8ndby IF (-2.5)",
+      "prev": 0.855,
+      "now": 0.11,
+      "delta": -0.745,
+      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Coppa Italia"
+        "Denmark Superliga"
       ],
-      "volume24hr": 118808.19,
-      "liquidity": 964.97
+      "volume24hr": 698.03,
+      "liquidity": 9823.97
     },
     {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 2?",
-      "prev": 0.485,
-      "now": 0.005,
-      "delta": -0.48,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1223.65,
-      "liquidity": 353.37
-    },
-    {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.465,
-      "now": 0.005,
-      "delta": -0.46,
-      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 617.0,
-      "liquidity": 590.45
-    },
-    {
-      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: US Sassuolo Calcio O/U 2.5",
-      "prev": 0.665,
-      "now": 0.9955,
-      "delta": 0.3305,
-      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 2075.93,
-      "liquidity": 8364.64
-    },
-    {
-      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 Spread: US Sassuolo Calcio (-1.5)",
-      "prev": 0.63,
-      "now": 0.9595,
-      "delta": 0.3295,
-      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Coppa Italia"
-      ],
-      "volume24hr": 31842.64,
-      "liquidity": 3998.6
-    },
-    {
-      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: O/U 2.5",
-      "prev": 0.685,
+      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold: Both Teams to Score",
+      "prev": 0.365,
       "now": 0.9995,
-      "delta": 0.3145,
+      "delta": 0.6345,
+      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 17592.95,
+      "liquidity": 96918.94
+    },
+    {
+      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold: S\u00f8nderjyske Fodbold O/U 0.5",
+      "prev": 0.365,
+      "now": 0.996,
+      "delta": 0.631,
+      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 97.81,
+      "liquidity": 3171.76
+    },
+    {
+      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Spread: Br\u00f8ndby IF (-1.5)",
+      "prev": 0.965,
+      "now": 0.377,
+      "delta": -0.588,
+      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 9622.96,
+      "liquidity": 50247.67
+    },
+    {
+      "market": "Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold - More Markets \u2014 Br\u00f8ndby IF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/den-bro-sjs-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 12314.26,
+      "liquidity": 149408.92
+    },
+    {
+      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +103,56 @@
         "Soccer",
         "Coppa Italia"
       ],
-      "volume24hr": 22729.34,
-      "liquidity": 125124.22
+      "volume24hr": 150462.5,
+      "liquidity": 2977.85
+    },
+    {
+      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 150462.5,
+      "liquidity": 3039.36
+    },
+    {
+      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 150462.5,
+      "liquidity": 3005.56
+    },
+    {
+      "market": "US Sassuolo Calcio vs. Cesena FC - More Markets \u2014 US Sassuolo Calcio vs. Cesena FC: US Sassuolo Calcio 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/itc-sas-ces-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 150462.5,
+      "liquidity": 3040.27
     }
   ],
   "log": [
-    {
-      "ts": "11:00:01",
-      "text": " poll complete \u2014 1592 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:15:01",
       "text": " poll complete \u2014 1593 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "18:15:01",
       "text": " poll complete \u2014 1700 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:30:01",
+      "text": " poll complete \u2014 1724 markets scanned, 10 flagged"
     }
   ]
 }
