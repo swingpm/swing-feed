@@ -1,72 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 09:45:01 UTC",
+  "lastUpdate": "2026-08-17 10:00:01 UTC",
   "swings": [
     {
-      "market": "Prague: Jakub Paul vs Rudolf Molleker \u2014 Prague, Czech Republic, Qualifying: Completed Match: Jakub Paul vs Rudolf Molleker",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-pau-molleke-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 506.0,
-      "liquidity": 1552.66
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 LoL: T1 vs DN SOOPers - Game 1 Winner",
-      "prev": 0.55,
-      "now": 0.93,
-      "delta": 0.38,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 532373.0,
-      "liquidity": 211009.09
-    },
-    {
-      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 25\u00b0C on August 17?",
-      "prev": 0.4355,
-      "now": 0.1865,
-      "delta": -0.249,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 9216.15,
-      "liquidity": 413.26
-    },
-    {
-      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Game Handicap: BRO (-1.5) vs DN SOOPers (+1.5)",
-      "prev": 0.47,
-      "now": 0.235,
-      "delta": -0.235,
-      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 61185.82,
-      "liquidity": 1402.08
-    },
-    {
       "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 27\u00b0C on August 17?",
-      "prev": 0.06,
-      "now": 0.2865,
-      "delta": 0.2265,
+      "prev": 0.2865,
+      "now": 0.8655,
+      "delta": 0.579,
       "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
       "tags": [
         "Weather",
@@ -76,44 +15,97 @@
         "Munich",
         "Highest temperature"
       ],
-      "volume24hr": 10692.49,
-      "liquidity": 268.28
+      "volume24hr": 10927.88,
+      "liquidity": 195.93
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
-      "prev": 0.425,
-      "now": 0.235,
-      "delta": -0.19,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 26\u00b0C on August 17?",
+      "prev": 0.4925,
+      "now": 0.0005,
+      "delta": -0.492,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
       ],
-      "volume24hr": 36508.63,
-      "liquidity": 101151.34
+      "volume24hr": 12176.3,
+      "liquidity": 20095.77
     },
     {
-      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map Handicap: ex-RUSTEC (-1.5) vs Noir Verse (+1.5)",
-      "prev": 0.365,
-      "now": 0.555,
-      "delta": 0.19,
-      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
+      "market": "Highest temperature in Busan on August 17? \u2014 Will the highest temperature in Busan be 26\u00b0C on August 17?",
+      "prev": 0.492,
+      "now": 0.94,
+      "delta": 0.448,
+      "url": "https://polymarket.com/event/highest-temperature-in-busan-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Busan",
+        "Highest temperature"
+      ],
+      "volume24hr": 5346.77,
+      "liquidity": 206.13
+    },
+    {
+      "market": "Highest temperature in Busan on August 17? \u2014 Will the highest temperature in Busan be 25\u00b0C on August 17?",
+      "prev": 0.446,
+      "now": 0.0005,
+      "delta": -0.4455,
+      "url": "https://polymarket.com/event/highest-temperature-in-busan-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Busan",
+        "Highest temperature"
+      ],
+      "volume24hr": 9925.17,
+      "liquidity": 23051.14
+    },
+    {
+      "market": "Counter-Strike: Vitality Academy vs  Phantom Academy (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Rounds Handicap: Vitality Academy (-3.5) vs  Phantom Academy (+3.5)",
+      "prev": 0.75,
+      "now": 0.5,
+      "delta": -0.25,
+      "url": "https://polymarket.com/event/cs2-vita-phanto-2026-08-17",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1211.22,
-      "liquidity": 45.9
+      "volume24hr": 283.18,
+      "liquidity": 68764.96
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-      "prev": 0.345,
-      "now": 0.505,
-      "delta": 0.16,
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 25\u00b0C on August 17?",
+      "prev": 0.1865,
+      "now": 0.0005,
+      "delta": -0.186,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 10117.17,
+      "liquidity": 21794.37
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-2.5) vs T1 (+2.5)",
+      "prev": 0.155,
+      "now": 0.005,
+      "delta": -0.15,
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
@@ -121,14 +113,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1188746.97,
-      "liquidity": 198157.99
+      "volume24hr": 2910.44,
+      "liquidity": 31888.27
     },
     {
       "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 4.5",
-      "prev": 0.355,
-      "now": 0.51,
-      "delta": 0.155,
+      "prev": 0.51,
+      "now": 0.415,
+      "delta": -0.095,
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
@@ -136,30 +128,51 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 244.2,
-      "liquidity": 4634.44
+      "volume24hr": 249.78,
+      "liquidity": 6555.96
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.245,
-      "now": 0.09,
-      "delta": -0.155,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 29\u00b0C on August 17?",
+      "prev": 0.318,
+      "now": 0.232,
+      "delta": -0.086,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
       ],
-      "volume24hr": 57144.43,
-      "liquidity": 438.68
+      "volume24hr": 9646.95,
+      "liquidity": 321.93
+    },
+    {
+      "market": "Who will be removed from Chinese Military Companies list by June 30, 2027? \u2014 Will Baidu be removed from Chinese Military Companies list by June 30, 2027?",
+      "prev": 0.525,
+      "now": 0.595,
+      "delta": 0.07,
+      "url": "https://polymarket.com/event/who-will-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230550",
+      "tags": [
+        "AI",
+        "USA",
+        "Tech",
+        "list",
+        "China",
+        "Trump",
+        "Alibaba",
+        "Big Tech",
+        "military",
+        "Geopolitics",
+        "AI Regulation",
+        "United States"
+      ],
+      "volume24hr": 6446.91,
+      "liquidity": 310.06
     }
   ],
   "log": [
-    {
-      "ts": "02:30:02",
-      "text": " poll complete \u2014 1888 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:45:02",
       "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
@@ -275,6 +288,10 @@
     {
       "ts": "09:45:01",
       "text": " poll complete \u2014 1607 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:00:01",
+      "text": " poll complete \u2014 1600 markets scanned, 10 flagged"
     }
   ]
 }
