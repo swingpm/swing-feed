@@ -1,157 +1,157 @@
 {
-  "lastUpdate": "2026-08-17 20:00:01 UTC",
+  "lastUpdate": "2026-08-17 20:15:02 UTC",
   "swings": [
     {
-      "market": "Cardiff City FC vs. Wrexham AFC - More Markets \u2014 Cardiff City FC vs. Wrexham AFC: Both Teams to Score in First Half",
-      "prev": 0.535,
-      "now": 0.0005,
-      "delta": -0.5345,
-      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-more-markets",
+      "market": "Samsunspor vs. G\u00f6ztepe SK - More Markets \u2014 Samsunspor vs. G\u00f6ztepe SK: G\u00f6ztepe SK O/U 2.5",
+      "prev": 0.37,
+      "now": 0.9955,
+      "delta": 0.6255,
+      "url": "https://polymarket.com/event/tur-sam-goz-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "S\u00fcper Lig"
       ],
-      "volume24hr": 35.2,
-      "liquidity": 8472.77
+      "volume24hr": 671.49,
+      "liquidity": 2803.62
     },
     {
-      "market": "Cincinnati Open: Arthur Fery vs Alex de Minaur \u2014 Fery vs. Minaur: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fery-minaur-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 415746.01,
-      "liquidity": 6730.89
-    },
-    {
-      "market": "Cardiff City FC vs. Wrexham AFC - More Markets \u2014 Cardiff City FC vs. Wrexham AFC: Cardiff City FC 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-more-markets",
+      "market": "Samsunspor vs. G\u00f6ztepe SK \u2014 Will G\u00f6ztepe SK win on 2026-08-17?",
+      "prev": 0.225,
+      "now": 0.755,
+      "delta": 0.53,
+      "url": "https://polymarket.com/event/tur-sam-goz-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "S\u00fcper Lig"
       ],
-      "volume24hr": 6.0,
-      "liquidity": 8026.13
+      "volume24hr": 141354.58,
+      "liquidity": 131651.95
     },
     {
-      "market": "Cardiff City FC vs. Wrexham AFC - More Markets \u2014 Cardiff City FC vs. Wrexham AFC: Cardiff City FC 1st Half O/U 1.5",
+      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: Casa Pia AC 1st Half O/U 0.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "Primeira Liga"
       ],
-      "volume24hr": 145593.46,
-      "liquidity": 7963.71
+      "volume24hr": 2604.12,
+      "liquidity": 19440.17
     },
     {
-      "market": "Cardiff City FC vs. Wrexham AFC - More Markets \u2014 Cardiff City FC vs. Wrexham AFC: Wrexham AFC 1st Half O/U 1.5",
+      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: Sport Lisboa e Benfica 1st Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-more-markets",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "Primeira Liga"
       ],
-      "volume24hr": 6.67,
-      "liquidity": 6392.86
+      "volume24hr": 112.65,
+      "liquidity": 2997.08
     },
     {
-      "market": "RC Deportivo A Coru\u00f1a vs. Elche CF - More Markets \u2014 RC Deportivo A Coru\u00f1a vs. Elche CF: Elche CF 1st Half O/U 1.5",
+      "market": "Samsunspor vs. G\u00f6ztepe SK - More Markets \u2014 Samsunspor vs. G\u00f6ztepe SK: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0035,
-      "delta": -0.4965,
-      "url": "https://polymarket.com/event/lal-dep-elc-2026-08-17-more-markets",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/tur-sam-goz-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga"
+        "S\u00fcper Lig"
       ],
-      "volume24hr": 164.2,
-      "liquidity": 4010.88
+      "volume24hr": 130853.91,
+      "liquidity": 2311.26
     },
     {
-      "market": "Cincinnati Open: Arthur Fery vs Alex de Minaur \u2014 Fery vs. Minaur: Set 1 Games O/U 8.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-fery-minaur-2026-08-17",
+      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: Both Teams to Score in First Half",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Primeira Liga"
       ],
-      "volume24hr": 415746.01,
-      "liquidity": 6730.89
+      "volume24hr": 231.27,
+      "liquidity": 2984.08
     },
     {
-      "market": "Cincinnati Open: Arthur Fery vs Alex de Minaur \u2014 Fery vs. Minaur: Set 1 Games O/U 9.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-fery-minaur-2026-08-17",
+      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: Casa Pia AC 1st Half O/U 1.5",
+      "prev": 0.4995,
+      "now": 0.005,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Primeira Liga"
       ],
-      "volume24hr": 35.0,
-      "liquidity": 6985.59
+      "volume24hr": 31.09,
+      "liquidity": 2935.71
     },
     {
-      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya \u2014 Cirstea vs. Kalinskaya: Set 1 Games O/U 8.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
+      "market": "Casa Pia AC vs. Sport Lisboa e Benfica - More Markets \u2014 Casa Pia AC vs. Sport Lisboa e Benfica: 1st Half O/U 2.5",
+      "prev": 0.46,
+      "now": 0.0025,
+      "delta": -0.4575,
+      "url": "https://polymarket.com/event/por-cas-ben-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 1283.52,
+      "liquidity": 4812.39
+    },
+    {
+      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya \u2014 Set Handicap: Cirstea (-1.5) vs Kalinskaya (+1.5)",
+      "prev": 0.5,
+      "now": 0.045,
+      "delta": -0.455,
       "url": "https://polymarket.com/event/wta-cirstea-kalinsk-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 59.9,
-      "liquidity": 7356.24
+      "volume24hr": 182.85,
+      "liquidity": 364.0
     },
     {
-      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya \u2014 Cirstea vs. Kalinskaya: Set 1 Games O/U 9.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-cirstea-kalinsk-2026-08-17",
+      "market": "Cardiff City FC vs. Wrexham AFC - Exact Score \u2014 Exact Score: Cardiff City FC 3 - 2 Wrexham AFC?",
+      "prev": 0.0165,
+      "now": 0.4495,
+      "delta": 0.433,
+      "url": "https://polymarket.com/event/elc-car-wre-2026-08-17-exact-score",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "EFL Championship"
       ],
-      "volume24hr": 195964.38,
-      "liquidity": 7149.96
+      "volume24hr": 2459.36,
+      "liquidity": 266.29
     }
   ],
   "log": [
-    {
-      "ts": "12:45:01",
-      "text": " poll complete \u2014 1511 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:00:01",
       "text": " poll complete \u2014 1513 markets scanned, 10 flagged"
@@ -266,6 +266,10 @@
     },
     {
       "ts": "20:00:01",
+      "text": " poll complete \u2014 1730 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:15:02",
       "text": " poll complete \u2014 1730 markets scanned, 10 flagged"
     }
   ]
