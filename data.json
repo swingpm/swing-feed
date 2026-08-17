@@ -1,55 +1,135 @@
 {
-  "lastUpdate": "2026-08-17 14:15:01 UTC",
+  "lastUpdate": "2026-08-17 14:30:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Games Total: O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10250.21,
-      "liquidity": 7502.94
-    },
-    {
-      "market": "ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans \u2014 ITF M25 Idanha-a-Nova 2 Men, Qualifying: Completed Match: Artem Alekseychuk vs Tiago Boschmans",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/itf-aleksey-boschma-2026-08-17",
+      "market": "Prague: Nerman Fatic vs Matthew William Donald",
+      "prev": 0.545,
+      "now": 0.25,
+      "delta": -0.295,
+      "url": "https://polymarket.com/event/atp-fatic-donald-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 466150.0,
-      "liquidity": 115.47
+      "volume24hr": 78555.42,
+      "liquidity": 164550.56
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 LoL: Bulldog Esports vs LEO - Game 1 Winner",
-      "prev": 0.51,
-      "now": 0.79,
-      "delta": 0.28,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.75,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 16.03,
+      "liquidity": 4142.95
+    },
+    {
+      "market": "Prague 2: Eduardo Ribeiro vs Sumit Nagal \u2014 Ribeiro vs. Nagal: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.75,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/atp-ribeiro-nagal-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 39.99,
+      "liquidity": 3490.5
+    },
+    {
+      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 3 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.745,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 154700.36,
-      "liquidity": 2041.19
+      "volume24hr": 125803.76,
+      "liquidity": 980.0
+    },
+    {
+      "market": "Counter-Strike: ENCE vs Esport BERG (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 3 Rounds Handicap: ENCE (-3.5) vs Esport BERG (+3.5)",
+      "prev": 0.5,
+      "now": 0.255,
+      "delta": -0.245,
+      "url": "https://polymarket.com/event/cs2-ence-berg-2026-08-17",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 125803.76,
+      "liquidity": 980.0
+    },
+    {
+      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Jared Kushner attend a US x Iran diplomatic meeting by December 31, 2026?",
+      "prev": 0.605,
+      "now": 0.405,
+      "delta": -0.2,
+      "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
+      "tags": [
+        "Iran",
+        "Trump",
+        "US-Iran",
+        "Politics",
+        "Peace Deal",
+        "Geopolitics",
+        "Israel x Iran",
+        "Iran Ceasefire"
+      ],
+      "volume24hr": 6054.94,
+      "liquidity": 325.99
+    },
+    {
+      "market": "Ethereum above ___ on August 17? \u2014 Will the price of Ethereum be above $1,900 on August 17?",
+      "prev": 0.665,
+      "now": 0.48,
+      "delta": -0.185,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-17-2026",
+      "tags": [
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 18862.95,
+      "liquidity": 16182.32
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
+      "prev": 0.18,
+      "now": 0.065,
+      "delta": -0.115,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 9.57,
+      "liquidity": 579.43
     },
     {
       "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map Handicap: Noir Verse (-1.5) vs ex-RUSTEC (+1.5)",
-      "prev": 0.5,
-      "now": 0.225,
-      "delta": -0.275,
+      "prev": 0.225,
+      "now": 0.125,
+      "delta": -0.1,
       "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
       "tags": [
         "Esports",
@@ -57,105 +137,28 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 319847.27,
-      "liquidity": 1099.45
+      "volume24hr": 406.77,
+      "liquidity": 4401.25
     },
     {
-      "market": "LoL: Bulldog Esports vs LEO (BO3) - NLC Regular Season \u2014 LoL: Bulldog Esports vs LEO - Game 2 Winner",
-      "prev": 0.51,
-      "now": 0.775,
-      "delta": 0.265,
-      "url": "https://polymarket.com/event/lol-bld-leo-2026-08-17",
+      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 29\u00b0C on August 17?",
+      "prev": 0.9435,
+      "now": 0.8505,
+      "delta": -0.093,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
       ],
-      "volume24hr": 154700.36,
-      "liquidity": 2072.58
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 4.5",
-      "prev": 0.21,
-      "now": 0.0005,
-      "delta": -0.2095,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4318.49,
-      "liquidity": 63429.24
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 LoL: T1 vs DN SOOPers - Game 4 Winner",
-      "prev": 0.205,
-      "now": 0.0005,
-      "delta": -0.2045,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 595157.09,
-      "liquidity": 1298767.39
-    },
-    {
-      "market": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
-      "prev": 0.565,
-      "now": 0.42,
-      "delta": -0.145,
-      "url": "https://polymarket.com/event/cs2-noirve-rustec-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 245305.25,
-      "liquidity": 99184.82
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs T1 (+1.5)",
-      "prev": 0.855,
-      "now": 0.9995,
-      "delta": 0.1445,
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 50624.14,
-      "liquidity": 151227.53
-    },
-    {
-      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.51,
-      "now": 0.38,
-      "delta": -0.13,
-      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 156650.29,
-      "liquidity": 221.75
+      "volume24hr": 14804.3,
+      "liquidity": 251.48
     }
   ],
   "log": [
-    {
-      "ts": "07:00:01",
-      "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:15:02",
       "text": " poll complete \u2014 1719 markets scanned, 10 flagged"
@@ -271,6 +274,10 @@
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1593 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:30:01",
+      "text": " poll complete \u2014 1628 markets scanned, 10 flagged"
     }
   ]
 }
