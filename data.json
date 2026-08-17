@@ -1,11 +1,45 @@
 {
-  "lastUpdate": "2026-08-17 06:00:01 UTC",
+  "lastUpdate": "2026-08-17 06:15:01 UTC",
   "swings": [
     {
+      "market": "Highest temperature in Tokyo on August 17? \u2014 Will the highest temperature in Tokyo be 30\u00b0C on August 17?",
+      "prev": 0.3,
+      "now": 0.09,
+      "delta": -0.21,
+      "url": "https://polymarket.com/event/highest-temperature-in-tokyo-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Tokyo",
+        "Highest temperature"
+      ],
+      "volume24hr": 4106.92,
+      "liquidity": 822.09
+    },
+    {
+      "market": "Highest temperature in Tokyo on August 17? \u2014 Will the highest temperature in Tokyo be 29\u00b0C on August 17?",
+      "prev": 0.71,
+      "now": 0.885,
+      "delta": 0.175,
+      "url": "https://polymarket.com/event/highest-temperature-in-tokyo-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Tokyo",
+        "Highest temperature"
+      ],
+      "volume24hr": 5340.53,
+      "liquidity": 450.89
+    },
+    {
       "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.505,
-      "now": 0.64,
-      "delta": 0.135,
+      "prev": 0.64,
+      "now": 0.505,
+      "delta": -0.135,
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
         "Esports",
@@ -13,127 +47,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 233596.2,
-      "liquidity": 13.4
+      "volume24hr": 237629.49,
+      "liquidity": 11.4
     },
     {
-      "market": "Highest temperature in Tokyo on August 17? \u2014 Will the highest temperature in Tokyo be 30\u00b0C on August 17?",
-      "prev": 0.175,
-      "now": 0.3,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/highest-temperature-in-tokyo-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Tokyo",
-        "Highest temperature"
-      ],
-      "volume24hr": 3922.74,
-      "liquidity": 320.19
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 28\u00b0C on August 17?",
-      "prev": 0.855,
-      "now": 0.955,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 12619.67,
-      "liquidity": 1491.91
-    },
-    {
-      "market": "Highest temperature in Tokyo on August 17? \u2014 Will the highest temperature in Tokyo be 29\u00b0C on August 17?",
-      "prev": 0.81,
-      "now": 0.71,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/highest-temperature-in-tokyo-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Tokyo",
-        "Highest temperature"
-      ],
-      "volume24hr": 5095.61,
-      "liquidity": 292.14
-    },
-    {
-      "market": "Elon Musk # tweets August 15 - August 17, 2026? \u2014 Will Elon Musk post <40 tweets from August 15 to August 17, 2026?",
-      "prev": 0.37,
-      "now": 0.465,
-      "delta": 0.095,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-15-august-17",
-      "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
-      ],
-      "volume24hr": 60878.06,
-      "liquidity": 6837.11
-    },
-    {
-      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 28\u00b0C on August 17?",
-      "prev": 0.78,
-      "now": 0.685,
-      "delta": -0.095,
-      "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Lowest temperature"
-      ],
-      "volume24hr": 10557.2,
-      "liquidity": 584.65
-    },
-    {
-      "market": "Elon Musk # tweets August 15 - August 17, 2026? \u2014 Will Elon Musk post 40-64 tweets from August 15 to August 17, 2026?",
-      "prev": 0.615,
-      "now": 0.525,
-      "delta": -0.09,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-15-august-17",
-      "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
-      ],
-      "volume24hr": 36211.0,
-      "liquidity": 6137.03
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 17? \u2014 Will the highest temperature in Seoul (Incheon) be 29\u00b0C on August 17?",
-      "prev": 0.1,
-      "now": 0.035,
-      "delta": -0.065,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 5679.49,
-      "liquidity": 1401.76
-    },
-    {
-      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 26\u00b0C on August 17?",
-      "prev": 0.2475,
-      "now": 0.296,
-      "delta": 0.0485,
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 27\u00b0C on August 17?",
+      "prev": 0.074,
+      "now": 0.1955,
+      "delta": 0.1215,
       "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
       "tags": [
         "Weather",
@@ -143,32 +64,116 @@
         "Munich",
         "Highest temperature"
       ],
-      "volume24hr": 10200.03,
-      "liquidity": 997.17
+      "volume24hr": 8353.22,
+      "liquidity": 449.77
     },
     {
-      "market": "Highest temperature in Hong Kong on August 17? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 17?",
-      "prev": 0.95,
-      "now": 0.995,
-      "delta": 0.045,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-17-2026",
+      "market": "Highest temperature in Shanghai on August 17? \u2014 Will the highest temperature in Shanghai be 31\u00b0C on August 17?",
+      "prev": 0.83,
+      "now": 0.935,
+      "delta": 0.105,
+      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-17-2026",
       "tags": [
         "Weather",
         "Recurring",
         "Hide From New",
         "Daily Temperature",
-        "Hong Kong",
+        "Shanghai",
         "Highest temperature"
       ],
-      "volume24hr": 23221.89,
-      "liquidity": 5044.53
+      "volume24hr": 14996.06,
+      "liquidity": 1068.38
+    },
+    {
+      "market": "Highest temperature in Munich on August 17? \u2014 Will the highest temperature in Munich be 23\u00b0C on August 17?",
+      "prev": 0.208,
+      "now": 0.116,
+      "delta": -0.092,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 17652.79,
+      "liquidity": 1026.67
+    },
+    {
+      "market": "Highest temperature in Shanghai on August 17? \u2014 Will the highest temperature in Shanghai be 32\u00b0C on August 17?",
+      "prev": 0.155,
+      "now": 0.07,
+      "delta": -0.085,
+      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-17-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shanghai",
+        "Highest temperature"
+      ],
+      "volume24hr": 11398.1,
+      "liquidity": 1331.89
+    },
+    {
+      "market": "Who will attend a round of US-Iran peace talks by December 31? \u2014 Will Masoud Pezeshkian attend a US x Iran diplomatic meeting by December 31, 2026?",
+      "prev": 0.3,
+      "now": 0.35,
+      "delta": 0.05,
+      "url": "https://polymarket.com/event/who-will-attend-a-round-of-us-iran-peace-talks-by-december-31-20260812153824803",
+      "tags": [
+        "Iran",
+        "Trump",
+        "US-Iran",
+        "Politics",
+        "Peace Deal",
+        "Geopolitics",
+        "Israel x Iran",
+        "Iran Ceasefire"
+      ],
+      "volume24hr": 7357.34,
+      "liquidity": 695.27
+    },
+    {
+      "market": "Bitcoin Up or Down on August 17?",
+      "prev": 0.76,
+      "now": 0.805,
+      "delta": 0.045,
+      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-17-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Up or Down",
+        "Today \ud83d\ude80",
+        "Daily",
+        "Daily-Close"
+      ],
+      "volume24hr": 201231.9,
+      "liquidity": 23940.81
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+      "prev": 0.435,
+      "now": 0.475,
+      "delta": 0.04,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 200929.29,
+      "liquidity": 205242.08
     }
   ],
   "log": [
-    {
-      "ts": "22:45:01",
-      "text": " poll complete \u2014 2010 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:00:01",
       "text": " poll complete \u2014 1987 markets scanned, 10 flagged"
@@ -284,6 +289,10 @@
     {
       "ts": "06:00:01",
       "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:15:01",
+      "text": " poll complete \u2014 1711 markets scanned, 10 flagged"
     }
   ]
 }
