@@ -1,136 +1,53 @@
 {
-  "lastUpdate": "2026-08-17 15:45:02 UTC",
+  "lastUpdate": "2026-08-17 16:00:02 UTC",
   "swings": [
     {
-      "market": "Roehampton: Iliyan Radulov vs Johannus Monday",
-      "prev": 0.34,
-      "now": 0.995,
-      "delta": 0.655,
-      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 118987.5,
-      "liquidity": 216216.77
-    },
-    {
-      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Roehampton: Completed Match: Iliyan Radulov vs Johannus Monday",
+      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Parry vs. Boisson: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 119335.9,
-      "liquidity": 610.47
-    },
-    {
-      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
-      "prev": 0.495,
-      "now": 0.0055,
-      "delta": -0.4895,
-      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 429.98,
-      "liquidity": 467.17
-    },
-    {
-      "market": "Bitcoin price on August 17? \u2014 Will the price of Bitcoin be between $64,000 and $66,000 on August 17?",
-      "prev": 0.32,
-      "now": 0.7945,
-      "delta": 0.4745,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-17-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 22060.39,
-      "liquidity": 4302.73
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Set 1 Winner: Swiatek vs Sakkari",
-      "prev": 0.7,
-      "now": 0.265,
-      "delta": -0.435,
-      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1691.03,
-      "liquidity": 3609.14
-    },
-    {
-      "market": "Bitcoin price on August 17? \u2014 Will the price of Bitcoin be between $62,000 and $64,000 on August 17?",
-      "prev": 0.63,
-      "now": 0.195,
-      "delta": -0.435,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-17-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 30801.4,
-      "liquidity": 6481.35
-    },
-    {
-      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Set 1 Winner: Parry vs Boisson",
-      "prev": 0.555,
-      "now": 0.125,
-      "delta": -0.43,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 481.57,
-      "liquidity": 3952.64
+      "volume24hr": 56.59,
+      "liquidity": 6879.11
     },
     {
-      "market": "Bitcoin above ___ on August 17? \u2014 Will the price of Bitcoin be above $64,000 on August 17?",
-      "prev": 0.3525,
-      "now": 0.775,
-      "delta": 0.4225,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-17-2026",
+      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Parry vs. Boisson: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 207499.42,
-      "liquidity": 7380.43
+      "volume24hr": 5.0,
+      "liquidity": 6281.32
     },
     {
-      "market": "IF Gnistan vs. Tampereen Ilves - More Markets \u2014 IF Gnistan vs. Tampereen Ilves: Tampereen Ilves 1st Half O/U 1.5",
-      "prev": 0.605,
-      "now": 0.995,
-      "delta": 0.39,
+      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Parry vs. Boisson: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 150129.12,
+      "liquidity": 6894.64
+    },
+    {
+      "market": "IF Gnistan vs. Tampereen Ilves - More Markets \u2014 IF Gnistan vs. Tampereen Ilves: IF Gnistan 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9965,
+      "delta": 0.4965,
       "url": "https://polymarket.com/event/fin1-gni-ilv-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -138,29 +55,95 @@
         "Soccer",
         "Veikkausliiga"
       ],
-      "volume24hr": 91739.24,
-      "liquidity": 1450.33
+      "volume24hr": 10.94,
+      "liquidity": 4672.71
     },
     {
-      "market": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce \u2014 Set 1 Winner: Tirante vs Landaluce",
-      "prev": 0.255,
-      "now": 0.595,
-      "delta": 0.34,
-      "url": "https://polymarket.com/event/atp-tirante-landalu-2026-08-17",
+      "market": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli \u2014 Blockx vs. Cobolli: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-blockx-cobolli-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 525.17,
-      "liquidity": 75.74
+      "volume24hr": 2453.91,
+      "liquidity": 12277.55
+    },
+    {
+      "market": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli \u2014 Blockx vs. Cobolli: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-blockx-cobolli-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 9.28,
+      "liquidity": 10369.85
+    },
+    {
+      "market": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli \u2014 Blockx vs. Cobolli: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-blockx-cobolli-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 276101.96,
+      "liquidity": 10932.32
+    },
+    {
+      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Swiatek vs. Sakkari: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 35.09,
+      "liquidity": 6485.06
+    },
+    {
+      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Swiatek vs. Sakkari: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 250405.98,
+      "liquidity": 6436.09
+    },
+    {
+      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Swiatek vs. Sakkari: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 250405.98,
+      "liquidity": 5109.39
     }
   ],
   "log": [
-    {
-      "ts": "08:30:01",
-      "text": " poll complete \u2014 1679 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:45:01",
       "text": " poll complete \u2014 1655 markets scanned, 10 flagged"
@@ -276,6 +259,10 @@
     {
       "ts": "15:45:02",
       "text": " poll complete \u2014 1648 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:00:02",
+      "text": " poll complete \u2014 1661 markets scanned, 10 flagged"
     }
   ]
 }
