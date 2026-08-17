@@ -1,125 +1,85 @@
 {
-  "lastUpdate": "2026-08-17 17:45:01 UTC",
+  "lastUpdate": "2026-08-17 18:00:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli",
-      "prev": 0.565,
-      "now": 0.0005,
-      "delta": -0.5645,
-      "url": "https://polymarket.com/event/atp-blockx-cobolli-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 692629.87,
-      "liquidity": 636226.97
-    },
-    {
-      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: BK Hacken 1st Half O/U 0.5",
-      "prev": 0.435,
-      "now": 0.9995,
-      "delta": 0.5645,
-      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
+      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Pisa SC O/U 1.5",
+      "prev": 0.6,
+      "now": 0.0055,
+      "delta": -0.5945,
+      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Sweden Allsvenskan"
+        "Coppa Italia"
       ],
-      "volume24hr": 179.59,
-      "liquidity": 5305.25
+      "volume24hr": 451.48,
+      "liquidity": 10901.98
     },
     {
-      "market": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce \u2014 Cincinnati Open: Completed Match: Thiago Agustin Tirante vs Martin Landaluce",
+      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Empoli FC O/U 1.5",
+      "prev": 0.545,
+      "now": 0.0055,
+      "delta": -0.5395,
+      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 45.0,
+      "liquidity": 10901.96
+    },
+    {
+      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Cincinnati Open: Completed Match: Diane Parry vs Lois Boisson",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tirante-landalu-2026-08-17",
+      "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 250.0,
+      "volume24hr": 575134.11,
       "liquidity": 2165.02
     },
     {
-      "market": "Cincinnati Open: Alexander Blockx vs Flavio Cobolli \u2014 Cincinnati Open: Completed Match: Alexander Blockx vs Flavio Cobolli",
+      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-blockx-cobolli-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 702595.91,
-      "liquidity": 2261.94
-    },
-    {
-      "market": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce \u2014 Tirante vs. Landaluce: Set 2 Games O/U 8.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-tirante-landalu-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 735206.15,
-      "liquidity": 3700.98
-    },
-    {
-      "market": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce \u2014 Tirante vs. Landaluce: Set 2 Games O/U 10.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-tirante-landalu-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 735206.15,
-      "liquidity": 3682.99
-    },
-    {
-      "market": "Counter-Strike: Bushido Wildcats vs Inner Circle Academy (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 3 Total Rounds: Over/Under 21.5",
-      "prev": 0.495,
       "now": 0.005,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/cs2-bw-innerc-2026-08-17",
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 155195.1,
+      "liquidity": 3635.9
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season \u2014 First Blood in Game 2?",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/lol-gx-kc-2026-08-17",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 217066.96,
-      "liquidity": 454.97
+      "volume24hr": 108.53,
+      "liquidity": 65.97
     },
     {
-      "market": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce \u2014 Tirante vs. Landaluce: Set 2 Games O/U 9.5",
-      "prev": 0.51,
-      "now": 0.9995,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/atp-tirante-landalu-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 735206.15,
-      "liquidity": 3700.98
-    },
-    {
-      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: 1st Half O/U 0.5",
-      "prev": 0.53,
-      "now": 0.9995,
-      "delta": 0.4695,
+      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Halmstads BK 1st Half O/U 1.5",
+      "prev": 0.495,
+      "now": 0.0005,
+      "delta": -0.4945,
       "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -127,30 +87,71 @@
         "Soccer",
         "Sweden Allsvenskan"
       ],
-      "volume24hr": 101.88,
-      "liquidity": 6406.21
+      "volume24hr": 26.72,
+      "liquidity": 5254.78
     },
     {
-      "market": "Counter-Strike: Bushido Wildcats vs Inner Circle Academy (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In \u2014 Map 3 Rounds Handicap: Bushido Wildcats (-3.5) vs Inner Circle Academy (+3.5)",
+      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Both Teams to Score in Second Half",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-bw-innerc-2026-08-17",
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Coppa Italia"
       ],
-      "volume24hr": 217066.96,
-      "liquidity": 115.47
+      "volume24hr": 155195.1,
+      "liquidity": 3593.74
+    },
+    {
+      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 155195.1,
+      "liquidity": 3655.71
+    },
+    {
+      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Pisa SC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 3608.94
+    },
+    {
+      "market": "Pisa SC vs. Empoli FC - More Markets \u2014 Pisa SC vs. Empoli FC: Pisa SC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/itc-pis-emp-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Coppa Italia"
+      ],
+      "volume24hr": 155195.1,
+      "liquidity": 3593.74
     }
   ],
   "log": [
-    {
-      "ts": "10:30:02",
-      "text": " poll complete \u2014 1601 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:45:01",
       "text": " poll complete \u2014 1591 markets scanned, 10 flagged"
@@ -266,6 +267,10 @@
     {
       "ts": "17:45:01",
       "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:00:02",
+      "text": " poll complete \u2014 1698 markets scanned, 10 flagged"
     }
   ]
 }
