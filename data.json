@@ -1,155 +1,158 @@
 {
-  "lastUpdate": "2026-08-17 04:00:01 UTC",
+  "lastUpdate": "2026-08-17 04:15:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Set 2 Winner: Valentova vs Svitolina",
-      "prev": 0.87,
-      "now": 0.0005,
-      "delta": -0.8695,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1099.36,
-      "liquidity": 14412.12
-    },
-    {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Valentova vs. Svitolina: Match O/U 23.5",
-      "prev": 0.18,
-      "now": 0.865,
-      "delta": 0.685,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 54.04,
-      "liquidity": 6960.96
-    },
-    {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Valentova vs. Svitolina: Match O/U 22.5",
-      "prev": 0.205,
-      "now": 0.875,
-      "delta": 0.67,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 101.85,
-      "liquidity": 8987.95
-    },
-    {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
-      "prev": 0.62,
-      "now": 0.095,
-      "delta": -0.525,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 741644.14,
-      "liquidity": 379022.2
-    },
-    {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Valentova vs. Svitolina: Set 2 Games O/U 8.5",
-      "prev": 0.505,
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: Both Teams to Score in First Half",
+      "prev": 0.0055,
       "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
+      "delta": 0.994,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 749360.76,
-      "liquidity": 2799.31
+      "volume24hr": 84.61,
+      "liquidity": 6757.17
     },
     {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Valentova vs. Svitolina: Set 2 Games O/U 9.5",
-      "prev": 0.505,
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: 1st Half O/U 1.5",
+      "prev": 0.02,
       "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
+      "delta": 0.9795,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 749360.76,
-      "liquidity": 2794.36
+      "volume24hr": 1030.2,
+      "liquidity": 7623.77
     },
     {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Valentova vs. Svitolina: Set 2 Games O/U 10.5",
-      "prev": 0.505,
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: Club Tijuana 1st Half O/U 0.5",
+      "prev": 0.12,
       "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
+      "delta": 0.8795,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 749360.76,
-      "liquidity": 2794.36
+      "volume24hr": 10.15,
+      "liquidity": 6912.33
     },
     {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Tereza Valentova vs. Elina Svitolina: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: CF Cruz Azul 1st Half O/U 0.5",
+      "prev": 0.125,
+      "now": 0.9975,
+      "delta": 0.8725,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 749360.76,
-      "liquidity": 9061.47
+      "volume24hr": 66.02,
+      "liquidity": 6524.67
     },
     {
-      "market": "Highest temperature in Hong Kong on August 17? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 17?",
-      "prev": 0.625,
-      "now": 0.83,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-17-2026",
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: 1st Half O/U 0.5",
+      "prev": 0.22,
+      "now": 0.998,
+      "delta": 0.778,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 11357.04,
-      "liquidity": 2578.44
+      "volume24hr": 1182.96,
+      "liquidity": 7899.82
     },
     {
-      "market": "Cincinnati Open: Tereza Valentova vs Elina Svitolina \u2014 Set Handicap: Svitolina (-1.5) vs Valentova (+1.5)",
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: Both Teams to Score",
+      "prev": 0.355,
+      "now": 0.9995,
+      "delta": 0.6445,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 6899.21,
+      "liquidity": 102386.54
+    },
+    {
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: O/U 2.5",
       "prev": 0.245,
-      "now": 0.05,
-      "delta": -0.195,
-      "url": "https://polymarket.com/event/wta-valento-svitoli-2026-08-16",
+      "now": 0.785,
+      "delta": 0.54,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 1320.5,
-      "liquidity": 9717.9
+      "volume24hr": 25209.27,
+      "liquidity": 83021.14
+    },
+    {
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: CF Cruz Azul 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 254.46,
+      "liquidity": 5459.61
+    },
+    {
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: Club Tijuana 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 91.09,
+      "liquidity": 5535.77
+    },
+    {
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: O/U 1.5",
+      "prev": 0.515,
+      "now": 0.9995,
+      "delta": 0.4845,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 5992.96,
+      "liquidity": 134072.51
     }
   ],
   "log": [
-    {
-      "ts": "20:45:01",
-      "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:00:01",
       "text": " poll complete \u2014 2009 markets scanned, 10 flagged"
@@ -265,6 +268,10 @@
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1869 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:15:01",
+      "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
     }
   ]
 }
