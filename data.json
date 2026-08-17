@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-17 18:45:01 UTC",
+  "lastUpdate": "2026-08-17 19:00:01 UTC",
   "swings": [
     {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n 1st Half O/U 0.5",
+      "market": "Real Sporting de Gij\u00f3n vs. CE Sabadell FC - More Markets \u2014 Real Sporting de Gij\u00f3n vs. CE Sabadell FC: O/U 0.5",
+      "prev": 0.585,
+      "now": 0.0005,
+      "delta": -0.5845,
+      "url": "https://polymarket.com/event/es2-spo-sab-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga 2"
+      ],
+      "volume24hr": 25744.0,
+      "liquidity": 61902.72
+    },
+    {
+      "market": "Real Sporting de Gij\u00f3n vs. CE Sabadell FC - More Markets \u2014 Real Sporting de Gij\u00f3n vs. CE Sabadell FC: 2nd Half O/U 0.5",
+      "prev": 0.58,
+      "now": 0.0045,
+      "delta": -0.5755,
+      "url": "https://polymarket.com/event/es2-spo-sab-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga 2"
+      ],
+      "volume24hr": 77833.25,
+      "liquidity": 4104.35
+    },
+    {
+      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: BK Hacken O/U 1.5",
+      "prev": 0.575,
+      "now": 0.0005,
+      "delta": -0.5745,
+      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Sweden Allsvenskan"
+      ],
+      "volume24hr": 379.49,
+      "liquidity": 11923.18
+    },
+    {
+      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Both Teams to Score",
+      "prev": 0.54,
+      "now": 0.0035,
+      "delta": -0.5365,
+      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Sweden Allsvenskan"
+      ],
+      "volume24hr": 29627.25,
+      "liquidity": 32282.21
+    },
+    {
+      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Halmstads BK O/U 0.5",
+      "prev": 0.535,
+      "now": 0.0045,
+      "delta": -0.5305,
+      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Sweden Allsvenskan"
+      ],
+      "volume24hr": 273.29,
+      "liquidity": 12106.82
+    },
+    {
+      "market": "Real Sporting de Gij\u00f3n vs. CE Sabadell FC - More Markets \u2014 Real Sporting de Gij\u00f3n vs. CE Sabadell FC: CE Sabadell FC 2nd Half O/U 1.5",
+      "prev": 0.525,
+      "now": 0.0045,
+      "delta": -0.5205,
+      "url": "https://polymarket.com/event/es2-spo-sab-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga 2"
+      ],
+      "volume24hr": 77833.25,
+      "liquidity": 4023.13
+    },
+    {
+      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: 2nd Half O/U 0.5",
+      "prev": 0.505,
+      "now": 0.0005,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Sweden Allsvenskan"
+      ],
+      "volume24hr": 232588.4,
+      "liquidity": 3959.09
+    },
+    {
+      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Sweden Allsvenskan"
       ],
-      "volume24hr": 1849.93,
-      "liquidity": 13493.09
+      "volume24hr": 232588.4,
+      "liquidity": 3604.1
     },
     {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: Both Teams to Score in First Half",
+      "market": "Real Sporting de Gij\u00f3n vs. CE Sabadell FC - More Markets \u2014 Real Sporting de Gij\u00f3n vs. CE Sabadell FC: CE Sabadell FC O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/es2-spo-sab-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga 2"
+      ],
+      "volume24hr": 932.37,
+      "liquidity": 23366.73
+    },
+    {
+      "market": "BK Hacken vs. Halmstads BK - More Markets \u2014 BK Hacken vs. Halmstads BK: Halmstads BK O/U 2.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
+      "url": "https://polymarket.com/event/swe-hac-hal-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Sweden Allsvenskan"
       ],
-      "volume24hr": 77098.82,
-      "liquidity": 2740.58
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 17.4,
-      "liquidity": 2684.54
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 134.39,
-      "liquidity": 2740.61
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: AA Estudiantes 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 11.83,
-      "liquidity": 2768.65
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: 1st Half O/U 2.5",
-      "prev": 0.4995,
-      "now": 0.0045,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 2677.67
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n 1st Half O/U 1.5",
-      "prev": 0.4995,
-      "now": 0.0045,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 2721.71
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 2.5",
-      "prev": 0.5025,
-      "now": 0.016,
-      "delta": -0.4865,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 77098.82,
-      "liquidity": 1123.57
-    },
-    {
-      "market": "AA Estudiantes vs. CA Tucum\u00e1n - More Markets \u2014 AA Estudiantes vs. CA Tucum\u00e1n: CA Tucum\u00e1n O/U 1.5",
-      "prev": 0.545,
-      "now": 0.105,
-      "delta": -0.44,
-      "url": "https://polymarket.com/event/arg-aae-cat-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 110.0,
-      "liquidity": 1736.73
-    },
-    {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: Cincinnati Reds (-3.5)",
-      "prev": 0.485,
-      "now": 0.05,
-      "delta": -0.435,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-05-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 15.12,
-      "liquidity": 16.02
+      "volume24hr": 2144.47,
+      "liquidity": 14733.81
     }
   ],
   "log": [
-    {
-      "ts": "11:30:01",
-      "text": " poll complete \u2014 1602 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1562 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 1738 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:00:01",
+      "text": " poll complete \u2014 1707 markets scanned, 10 flagged"
     }
   ]
 }
