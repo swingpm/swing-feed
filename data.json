@@ -1,28 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 05:00:01 UTC",
+  "lastUpdate": "2026-08-17 05:15:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Shenzhen on August 17? \u2014 Will the highest temperature in Shenzhen be 35\u00b0C on August 17?",
-      "prev": 0.175,
-      "now": 0.33,
-      "delta": 0.155,
-      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Shenzhen",
-        "Highest temperature"
-      ],
-      "volume24hr": 7040.84,
-      "liquidity": 169.29
-    },
-    {
       "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: O/U 3.5",
-      "prev": 0.625,
-      "now": 0.475,
-      "delta": -0.15,
+      "prev": 0.475,
+      "now": 0.135,
+      "delta": -0.34,
       "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -30,14 +13,14 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 19642.64,
-      "liquidity": 23871.63
+      "volume24hr": 52612.88,
+      "liquidity": 3744.66
     },
     {
-      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: O/U 4.5",
-      "prev": 0.2495,
-      "now": 0.105,
-      "delta": -0.1445,
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: CF Cruz Azul O/U 2.5",
+      "prev": 0.34,
+      "now": 0.0205,
+      "delta": -0.3195,
       "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -45,14 +28,104 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 8057.1,
-      "liquidity": 26222.79
+      "volume24hr": 1111.4,
+      "liquidity": 148.2
+    },
+    {
+      "market": "Club Tijuana vs. CF Cruz Azul \u2014 Will Club Tijuana win on 2026-08-16?",
+      "prev": 0.735,
+      "now": 0.9705,
+      "delta": 0.2355,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 228588.13,
+      "liquidity": 123150.31
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.27,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 51730.0,
+      "liquidity": 361.02
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.27,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 51730.0,
+      "liquidity": 361.02
+    },
+    {
+      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: CF Cruz Azul O/U 1.5",
+      "prev": 0.31,
+      "now": 0.09,
+      "delta": -0.22,
+      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 4066.95,
+      "liquidity": 102.75
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.285,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 51730.0,
+      "liquidity": 361.02
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.285,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 51730.0,
+      "liquidity": 361.02
     },
     {
       "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: Club Tijuana O/U 2.5",
-      "prev": 0.345,
-      "now": 0.225,
-      "delta": -0.12,
+      "prev": 0.225,
+      "now": 0.43,
+      "delta": 0.205,
       "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
       "tags": [
         "Sports",
@@ -61,106 +134,25 @@
         "Liga MX"
       ],
       "volume24hr": 200.1,
-      "liquidity": 2512.2
+      "liquidity": 26.19
     },
     {
-      "market": "Lowest temperature in Hong Kong on August 17? \u2014 Will the lowest temperature in Hong Kong be 27\u00b0C on August 17?",
-      "prev": 0.275,
-      "now": 0.17,
-      "delta": -0.105,
-      "url": "https://polymarket.com/event/lowest-temperature-in-hong-kong-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Lowest temperature"
-      ],
-      "volume24hr": 5346.04,
-      "liquidity": 124.04
-    },
-    {
-      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 Game 3: Both Teams Slay Baron Nashor?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Both Teams Beat Roshan?",
+      "prev": 0.5,
+      "now": 0.315,
+      "delta": -0.185,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 2054136.78,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 Game 3: Both Teams Slay a Dragon?",
-      "prev": 0.9,
-      "now": 1.0,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2054136.78,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 Game 3: Both Teams Destroy Inhibitors?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2054136.78,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: LYON vs Sentinels (BO3) - LCS Regular Season \u2014 Game 3: Odd/Even Total Kills?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-ly-sen-2026-08-16",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2054136.78,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Club Tijuana vs. CF Cruz Azul - More Markets \u2014 Club Tijuana vs. CF Cruz Azul: CF Cruz Azul O/U 1.5",
-      "prev": 0.405,
-      "now": 0.31,
-      "delta": -0.095,
-      "url": "https://polymarket.com/event/mex-tij-caz-2026-08-16-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 3669.78,
-      "liquidity": 1822.46
+      "volume24hr": 51730.0,
+      "liquidity": 362.97
     }
   ],
   "log": [
-    {
-      "ts": "21:45:02",
-      "text": " poll complete \u2014 1975 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 1969 markets scanned, 10 flagged"
@@ -276,6 +268,10 @@
     {
       "ts": "05:00:01",
       "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:15:01",
+      "text": " poll complete \u2014 1753 markets scanned, 10 flagged"
     }
   ]
 }
