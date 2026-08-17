@@ -1,166 +1,162 @@
 {
-  "lastUpdate": "2026-08-17 15:30:02 UTC",
+  "lastUpdate": "2026-08-17 15:45:02 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 30\u00b0C on August 17?",
-      "prev": 0.82,
-      "now": 0.0005,
-      "delta": -0.8195,
-      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Milan",
-        "Highest temperature"
-      ],
-      "volume24hr": 17214.4,
-      "liquidity": 32513.07
-    },
-    {
-      "market": "Highest temperature in Milan on August 17? \u2014 Will the highest temperature in Milan be 31\u00b0C on August 17?",
-      "prev": 0.1685,
-      "now": 0.897,
-      "delta": 0.7285,
-      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Milan",
-        "Highest temperature"
-      ],
-      "volume24hr": 13903.37,
-      "liquidity": 475.6
-    },
-    {
-      "market": "Counter-Strike: LPH Gaming vs SAW Youngsters (BO3) - CCT Europe Challengers Series Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.69,
-      "now": 0.0005,
-      "delta": -0.6895,
-      "url": "https://polymarket.com/event/cs2-lph-sawy-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 348.39,
-      "liquidity": 12625.34
-    },
-    {
-      "market": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In \u2014 Counter-Strike: Raccoons vs Fire Flux Esports - Map 1 Winner",
-      "prev": 0.38,
-      "now": 0.9995,
-      "delta": 0.6195,
-      "url": "https://polymarket.com/event/cs2-raccoo-ff-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 13054.72,
-      "liquidity": 103656.02
-    },
-    {
-      "market": "Highest temperature in London on August 17? \u2014 Will the highest temperature in London be 27\u00b0C on August 17?",
-      "prev": 0.49,
-      "now": 0.993,
-      "delta": 0.503,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-17-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 14465.95,
-      "liquidity": 1032.74
-    },
-    {
-      "market": "Roehampton: Radu Albot vs Leonardo Rossi \u2014 Roehampton, Great Britain, Qualifying: Completed Match: Radu Albot vs Leonardo Rossi",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-albot-rossi-2026-08-17",
+      "market": "Roehampton: Iliyan Radulov vs Johannus Monday",
+      "prev": 0.34,
+      "now": 0.995,
+      "delta": 0.655,
+      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 193014.73,
-      "liquidity": 1140.07
+      "volume24hr": 118987.5,
+      "liquidity": 216216.77
     },
     {
-      "market": "Counter-Strike: LPH Gaming vs SAW Youngsters (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "market": "Roehampton: Iliyan Radulov vs Johannus Monday \u2014 Roehampton: Completed Match: Iliyan Radulov vs Johannus Monday",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-lph-sawy-2026-08-17",
+      "url": "https://polymarket.com/event/atp-radulov-monday-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 119335.9,
+      "liquidity": 610.47
+    },
+    {
+      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "prev": 0.495,
+      "now": 0.0055,
+      "delta": -0.4895,
+      "url": "https://polymarket.com/event/lol-navi-th-2026-08-17",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 104347.36,
-      "liquidity": 619.65
+      "volume24hr": 429.98,
+      "liquidity": 467.17
     },
     {
-      "market": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce \u2014 Set Handicap: Tirante (-1.5) vs Landaluce (+1.5)",
-      "prev": 0.65,
-      "now": 0.16,
-      "delta": -0.49,
+      "market": "Bitcoin price on August 17? \u2014 Will the price of Bitcoin be between $64,000 and $66,000 on August 17?",
+      "prev": 0.32,
+      "now": 0.7945,
+      "delta": 0.4745,
+      "url": "https://polymarket.com/event/bitcoin-price-on-august-17-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Neg Risk",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 22060.39,
+      "liquidity": 4302.73
+    },
+    {
+      "market": "Cincinnati Open: Iga Swiatek vs Maria Sakkari \u2014 Set 1 Winner: Swiatek vs Sakkari",
+      "prev": 0.7,
+      "now": 0.265,
+      "delta": -0.435,
+      "url": "https://polymarket.com/event/wta-swiatek-sakkari-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1691.03,
+      "liquidity": 3609.14
+    },
+    {
+      "market": "Bitcoin price on August 17? \u2014 Will the price of Bitcoin be between $62,000 and $64,000 on August 17?",
+      "prev": 0.63,
+      "now": 0.195,
+      "delta": -0.435,
+      "url": "https://polymarket.com/event/bitcoin-price-on-august-17-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Neg Risk",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 30801.4,
+      "liquidity": 6481.35
+    },
+    {
+      "market": "Cincinnati Open: Diane Parry vs Lois Boisson \u2014 Set 1 Winner: Parry vs Boisson",
+      "prev": 0.555,
+      "now": 0.125,
+      "delta": -0.43,
+      "url": "https://polymarket.com/event/wta-parry-boisson-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 481.57,
+      "liquidity": 3952.64
+    },
+    {
+      "market": "Bitcoin above ___ on August 17? \u2014 Will the price of Bitcoin be above $64,000 on August 17?",
+      "prev": 0.3525,
+      "now": 0.775,
+      "delta": 0.4225,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-17-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 207499.42,
+      "liquidity": 7380.43
+    },
+    {
+      "market": "IF Gnistan vs. Tampereen Ilves - More Markets \u2014 IF Gnistan vs. Tampereen Ilves: Tampereen Ilves 1st Half O/U 1.5",
+      "prev": 0.605,
+      "now": 0.995,
+      "delta": 0.39,
+      "url": "https://polymarket.com/event/fin1-gni-ilv-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Veikkausliiga"
+      ],
+      "volume24hr": 91739.24,
+      "liquidity": 1450.33
+    },
+    {
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce \u2014 Set 1 Winner: Tirante vs Landaluce",
+      "prev": 0.255,
+      "now": 0.595,
+      "delta": 0.34,
       "url": "https://polymarket.com/event/atp-tirante-landalu-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 18785.26,
-      "liquidity": 92189.68
-    },
-    {
-      "market": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.9795,
-      "delta": 0.4795,
-      "url": "https://polymarket.com/event/cs2-raccoo-ff-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 73428.52,
-      "liquidity": 1058.79
-    },
-    {
-      "market": "Counter-Strike: Raccoons vs Fire Flux Esports (BO3) - Exort Fiesta Closed Qualifier: Series #1 Play-In \u2014 Map 1 Rounds Handicap: Raccoons (-3.5) vs Fire Flux Esports (+3.5)",
-      "prev": 0.5,
-      "now": 0.0255,
-      "delta": -0.4745,
-      "url": "https://polymarket.com/event/cs2-raccoo-ff-2026-08-17",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 73428.52,
-      "liquidity": 1104.0
+      "volume24hr": 525.17,
+      "liquidity": 75.74
     }
   ],
   "log": [
-    {
-      "ts": "08:15:01",
-      "text": " poll complete \u2014 1702 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:30:01",
       "text": " poll complete \u2014 1679 markets scanned, 10 flagged"
@@ -276,6 +272,10 @@
     {
       "ts": "15:30:02",
       "text": " poll complete \u2014 1626 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:45:02",
+      "text": " poll complete \u2014 1648 markets scanned, 10 flagged"
     }
   ]
 }
