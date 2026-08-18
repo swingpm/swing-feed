@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 07:30:02 UTC",
+  "lastUpdate": "2026-08-18 07:45:01 UTC",
   "swings": [
     {
       "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 34\u00b0C on August 18?",
-      "prev": 0.8,
-      "now": 0.635,
-      "delta": -0.165,
+      "prev": 0.635,
+      "now": 0.285,
+      "delta": -0.35,
       "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
       "tags": [
         "Weather",
@@ -15,136 +15,146 @@
         "Shenzhen",
         "Highest temperature"
       ],
-      "volume24hr": 5657.11,
-      "liquidity": 115.3
+      "volume24hr": 5929.67,
+      "liquidity": 175.73
     },
     {
-      "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 35\u00b0C on August 18?",
-      "prev": 0.1775,
-      "now": 0.298,
-      "delta": 0.1205,
-      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.25,
+      "now": 0.5,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Shenzhen",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 9179.6,
-      "liquidity": 182.67
+      "volume24hr": 50781.75,
+      "liquidity": 0.1
     },
     {
-      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 20\u00b0C on August 18?",
-      "prev": 0.32,
-      "now": 0.215,
-      "delta": -0.105,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.25,
+      "now": 0.5,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 6262.01,
-      "liquidity": 914.67
+      "volume24hr": 50781.75,
+      "liquidity": 2.0
     },
     {
-      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 21\u00b0C on August 18?",
-      "prev": 0.39,
-      "now": 0.455,
-      "delta": 0.065,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.26,
+      "now": 0.5,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 8770.94,
-      "liquidity": 812.95
+      "volume24hr": 50781.75,
+      "liquidity": 2.02
     },
     {
-      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 22\u00b0C on August 18?",
-      "prev": 0.16,
-      "now": 0.225,
-      "delta": 0.065,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.26,
+      "now": 0.5,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 5376.71,
-      "liquidity": 919.73
+      "volume24hr": 50781.75,
+      "liquidity": 2.02
     },
     {
-      "market": "What will WTI Crude Oil (WTI) hit Week of August 17 2026? \u2014 Will WTI Crude Oil (WTI) hit (LOW) $80 Week of August 17 2026?",
-      "prev": 0.245,
-      "now": 0.28,
-      "delta": 0.035,
-      "url": "https://polymarket.com/event/will-wti-hit-week-of-august-17-2026",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.285,
+      "now": 0.5,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Finance",
-        "Weekly",
-        "Hit Price",
-        "Hide From New",
-        "Finance Updown",
-        "Pyth Finance",
-        "Commodities",
-        "Oil"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 2285.57,
-      "liquidity": 2629.55
+      "volume24hr": 342538.9,
+      "liquidity": 1.68
     },
     {
-      "market": "Highest temperature in London on August 18? \u2014 Will the highest temperature in London be 24\u00b0C on August 18?",
-      "prev": 0.281,
-      "now": 0.3125,
-      "delta": 0.0315,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-18-2026",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.285,
+      "now": 0.5,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 14866.26,
-      "liquidity": 2210.28
+      "volume24hr": 342538.9,
+      "liquidity": 0.2
     },
     {
-      "market": "Highest temperature in Chengdu on August 18? \u2014 Will the highest temperature in Chengdu be 24\u00b0C on August 18?",
-      "prev": 0.175,
-      "now": 0.145,
-      "delta": -0.03,
-      "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-18-2026",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.285,
+      "now": 0.5,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Chengdu",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 4248.83,
-      "liquidity": 253.55
+      "volume24hr": 342538.9,
+      "liquidity": 0.2
+    },
+    {
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.285,
+      "now": 0.495,
+      "delta": 0.21,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 342538.9,
+      "liquidity": 2.12
+    },
+    {
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
+      "prev": 0.29,
+      "now": 0.5,
+      "delta": 0.21,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 342538.9,
+      "liquidity": 2.04
     }
   ],
   "log": [
-    {
-      "ts": "00:15:01",
-      "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:30:01",
       "text": " poll complete \u2014 1687 markets scanned, 10 flagged"
@@ -260,6 +270,10 @@
     {
       "ts": "07:30:02",
       "text": " poll complete \u2014 1565 markets scanned, 8 flagged"
+    },
+    {
+      "ts": "07:45:01",
+      "text": " poll complete \u2014 1558 markets scanned, 10 flagged"
     }
   ]
 }
