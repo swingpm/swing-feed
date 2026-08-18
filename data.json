@@ -1,157 +1,148 @@
 {
-  "lastUpdate": "2026-08-18 18:30:01 UTC",
+  "lastUpdate": "2026-08-18 18:45:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Cincinnati Open: Completed Match: Taylor Fritz vs Daniel Merida Aguilar",
-      "prev": 0.5,
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Set Handicap: Andreeva (-1.5) vs Tjen (+1.5)",
+      "prev": 0.38,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
+      "delta": 0.6195,
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 500044.93,
-      "liquidity": 2008.68
+      "volume24hr": 2092.76,
+      "liquidity": 19297.04
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Fritz vs. Aguilar: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 500044.93,
-      "liquidity": 3722.11
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Fritz vs. Aguilar: Set 2 Games O/U 10.5",
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Match O/U 21.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 500044.93,
-      "liquidity": 3743.23
+      "volume24hr": 684740.74,
+      "liquidity": 6383.21
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Fritz vs. Aguilar: Match O/U 23.5",
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Janice Tjen vs. Mirra Andreeva: Total Sets O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 500044.93,
-      "liquidity": 6837.18
+      "volume24hr": 759.32,
+      "liquidity": 7323.78
     },
     {
-      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Game 1: Any Player Quadra Kill?",
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Match O/U 22.5",
       "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 684740.74,
+      "liquidity": 6826.37
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 684740.74,
+      "liquidity": 6393.6
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Cincinnati Open: Completed Match: Janice Tjen vs Mirra Andreeva",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 50.0,
+      "liquidity": 2057.11
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Set 2 Winner: Tjen vs Andreeva",
+      "prev": 0.36,
       "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
+      "delta": -0.355,
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 518605.31,
-      "liquidity": 858.3
+      "volume24hr": 1170.91,
+      "liquidity": 3724.93
     },
     {
-      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 518605.31,
-      "liquidity": 829.73
-    },
-    {
-      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 518605.31,
-      "liquidity": 858.73
-    },
-    {
-      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 518605.31,
-      "liquidity": 829.73
-    },
-    {
-      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 First Blood in Game 2?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 518605.31,
-      "liquidity": 800.95
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Fritz vs. Aguilar: Set 2 Games O/U 8.5",
-      "prev": 0.505,
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Set 2 Games O/U 8.5",
+      "prev": 0.75,
       "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
+      "delta": 0.2495,
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 500044.93,
-      "liquidity": 3718.31
+      "volume24hr": 684740.74,
+      "liquidity": 7189.55
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Set 2 Games O/U 9.5",
+      "prev": 0.75,
+      "now": 0.9995,
+      "delta": 0.2495,
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 684740.74,
+      "liquidity": 7251.21
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Set 2 Games O/U 10.5",
+      "prev": 0.755,
+      "now": 0.9995,
+      "delta": 0.2445,
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 684740.74,
+      "liquidity": 7196.18
     }
   ],
   "log": [
-    {
-      "ts": "11:15:01",
-      "text": " poll complete \u2014 1651 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:30:01",
       "text": " poll complete \u2014 1654 markets scanned, 10 flagged"
@@ -267,6 +258,10 @@
     {
       "ts": "18:30:01",
       "text": " poll complete \u2014 1749 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:45:02",
+      "text": " poll complete \u2014 1810 markets scanned, 10 flagged"
     }
   ]
 }
