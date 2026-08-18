@@ -1,125 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 16:45:02 UTC",
+  "lastUpdate": "2026-08-18 17:00:02 UTC",
   "swings": [
     {
-      "market": "Will Iran target a Arab country on...? \u2014 Will Iran target a Arab country on August 18, 2026?",
-      "prev": 0.121,
-      "now": 0.768,
-      "delta": 0.647,
-      "url": "https://polymarket.com/event/will-iran-target-a-arab-country-onptptpt-20260801004719118",
-      "tags": [
-        "Iran",
-        "Qatar",
-        "Geopolitics",
-        "Saudi Arabia",
-        "Iran Ceasefire"
-      ],
-      "volume24hr": 8612.04,
-      "liquidity": 6594.21
-    },
-    {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Rublev vs. Borges: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 290.59,
-      "liquidity": 7364.56
-    },
-    {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Rublev vs. Borges: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1350166.63,
-      "liquidity": 3678.16
-    },
-    {
-      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Cincinnati Open: Completed Match: Katerina Siniakova vs Madison Keys",
-      "prev": 0.5,
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 1st Half O/U 1.5",
+      "prev": 0.08,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 325.0,
-      "liquidity": 2143.07
-    },
-    {
-      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Siniakova vs. Keys: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 215430.01,
-      "liquidity": 3681.72
-    },
-    {
-      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Siniakova vs. Keys: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 215430.01,
-      "liquidity": 3346.35
-    },
-    {
-      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Siniakova vs. Keys: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 215430.01,
-      "liquidity": 3346.35
-    },
-    {
-      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Siniakova vs. Keys: Match O/U 22.5",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 215430.01,
-      "liquidity": 6776.26
-    },
-    {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Bayern Munich 1st Half O/U 1.5",
-      "prev": 0.665,
-      "now": 0.2,
-      "delta": -0.465,
+      "delta": 0.9195,
       "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -127,30 +13,143 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 291.29,
-      "liquidity": 431.24
+      "volume24hr": 115.76,
+      "liquidity": 5259.37
     },
     {
-      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 LoL: Solary vs TLN Pirates - Game 1 Winner",
-      "prev": 0.425,
-      "now": 0.0005,
-      "delta": -0.4245,
-      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1st Half O/U 2.5",
+      "prev": 0.305,
+      "now": 0.9995,
+      "delta": 0.6945,
+      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 5925.47,
+      "liquidity": 97468.92
+    },
+    {
+      "market": "Counter-Strike: Misa Esports vs Bushido Wildcats (BO3) - CCT Europe Challengers Series Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.485,
+      "now": 0.995,
+      "delta": 0.51,
+      "url": "https://polymarket.com/event/cs2-mis-bw-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 418.89,
+      "liquidity": 7501.69
+    },
+    {
+      "market": "Sion: Geoffrey Blancaneaux vs Juan Estevez \u2014 Sion: Completed Match: Geoffrey Blancaneaux vs Juan Estevez",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-blancan-estevez-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 126607.62,
+      "liquidity": 969.04
+    },
+    {
+      "market": "Counter-Strike: Misa Esports vs Bushido Wildcats (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 2 Rounds Handicap: Bushido Wildcats (-6.5) vs Misa Esports (+6.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-mis-bw-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 110251.6,
+      "liquidity": 118.8
+    },
+    {
+      "market": "Counter-Strike: Misa Esports vs Bushido Wildcats (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-mis-bw-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 110251.6,
+      "liquidity": 118.8
+    },
+    {
+      "market": "Sion: Geoffrey Blancaneaux vs Juan Estevez \u2014 Blancaneaux vs. Estevez: Match O/U 23.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-blancan-estevez-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 126607.62,
+      "liquidity": 9603.11
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim O/U 1.5",
+      "prev": 0.54,
+      "now": 0.995,
+      "delta": 0.455,
+      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 144.0,
+      "liquidity": 3239.65
+    },
+    {
+      "market": "Sion: Geoffrey Blancaneaux vs Juan Estevez",
+      "prev": 0.555,
+      "now": 0.9995,
+      "delta": 0.4445,
+      "url": "https://polymarket.com/event/atp-blancan-estevez-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 126188.65,
+      "liquidity": 838968.53
+    },
+    {
+      "market": "LoL: NightBirds vs CITA Kaizen (BO3) - Hitpoint Masters Regular Season \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-nbs-ckz-2026-08-18",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 65114.72,
-      "liquidity": 591726.43
+      "volume24hr": 71638.11,
+      "liquidity": 113.67
     }
   ],
   "log": [
-    {
-      "ts": "09:30:02",
-      "text": " poll complete \u2014 1619 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:45:02",
       "text": " poll complete \u2014 1640 markets scanned, 10 flagged"
@@ -266,6 +265,10 @@
     {
       "ts": "16:45:02",
       "text": " poll complete \u2014 1770 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:00:02",
+      "text": " poll complete \u2014 1790 markets scanned, 10 flagged"
     }
   ]
 }
