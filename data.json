@@ -1,26 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 01:45:01 UTC",
+  "lastUpdate": "2026-08-18 02:00:01 UTC",
   "swings": [
     {
-      "market": "Chicago White Sox vs. Chicago Cubs: 1st 5 Innings O/U 6.5",
-      "prev": 0.13,
-      "now": 0.9955,
-      "delta": 0.8655,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 312130.42,
-      "liquidity": 1574.4
-    },
-    {
-      "market": "Miami Marlins vs. Philadelphia Phillies: O/U 9.5",
-      "prev": 0.31,
-      "now": 0.995,
-      "delta": 0.685,
+      "market": "Miami Marlins vs. Philadelphia Phillies \u2014 Spread: Philadelphia Phillies (-1.5)",
+      "prev": 0.815,
+      "now": 0.0005,
+      "delta": -0.8145,
       "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-17",
       "tags": [
         "Sports",
@@ -28,29 +13,14 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 8148.83,
-      "liquidity": 114574.29
+      "volume24hr": 40729.07,
+      "liquidity": 64289.94
     },
     {
-      "market": "CA Gimnasia y Esgrima de Mendoza vs. CA Talleres - More Markets \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: CA Gimnasia y Esgrima de Mendoza O/U 2.5",
-      "prev": 0.465,
-      "now": 0.9955,
-      "delta": 0.5305,
-      "url": "https://polymarket.com/event/arg-gye-tal-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 19.0,
-      "liquidity": 2395.62
-    },
-    {
-      "market": "Atlanta Braves vs. Minnesota Twins: 1st 5 Innings O/U 6.5",
-      "prev": 0.665,
-      "now": 0.145,
-      "delta": -0.52,
+      "market": "Atlanta Braves vs. Minnesota Twins: 1st 5 Innings O/U 5.5",
+      "prev": 0.275,
+      "now": 0.9995,
+      "delta": 0.7245,
       "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
       "tags": [
         "Sports",
@@ -58,102 +28,133 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 315137.45,
-      "liquidity": 3.75
+      "volume24hr": 412.5,
+      "liquidity": 1530.95
     },
     {
-      "market": "San Diego Padres vs. New York Mets: O/U 6.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
+      "market": "Atlanta Braves vs. Minnesota Twins: 1st 5 Innings O/U 4.5",
+      "prev": 0.485,
+      "now": 0.9965,
+      "delta": 0.5115,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 48.39,
-      "liquidity": 6498.02
+      "volume24hr": 90.77,
+      "liquidity": 1519.06
     },
     {
-      "market": "San Diego Padres vs. New York Mets: O/U 4.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
+      "market": "Will the game go to extra innings?: Miami Marlins vs. Philadelphia Phillies",
+      "prev": 0.51,
+      "now": 0.005,
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 146.04,
-      "liquidity": 6488.31
+      "volume24hr": 167.0,
+      "liquidity": 1435.04
     },
     {
-      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Lehecka vs. Fils: Set 1 Games O/U 8.5",
+      "market": "What price will Ethereum hit in August? \u2014 Will Ethereum dip to $1,900 in August?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Ethereum",
+        "Monthly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring"
       ],
-      "volume24hr": 26.0,
-      "liquidity": 6922.63
+      "volume24hr": 221822.43,
+      "liquidity": 95340.09
     },
     {
-      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Lehecka vs. Fils: Set 1 Games O/U 9.5",
+      "market": "Miami Marlins vs. Philadelphia Phillies: O/U 10.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 319820.38,
-      "liquidity": 6912.01
-    },
-    {
-      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Lehecka vs. Fils: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 4.35,
-      "liquidity": 6912.01
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 312130.42,
-      "liquidity": 2073.56
+      "volume24hr": 588919.36,
+      "liquidity": 10874.62
+    },
+    {
+      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: Club Necaxa 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 20.0,
+      "liquidity": 2803.75
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies \u2014 Spread: Philadelphia Phillies (-3.5)",
+      "prev": 0.495,
+      "now": 0.0005,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 3421.88,
+      "liquidity": 21315.0
+    },
+    {
+      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 1st 5 Innings Spread: Colorado Rockies (-1.5)",
+      "prev": 0.055,
+      "now": 0.5,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 569042.25,
+      "liquidity": 302633.71
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins \u2014 1st 5 Innings Spread: Atlanta Braves (-1.5)",
+      "prev": 0.055,
+      "now": 0.5,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 322272.93,
+      "liquidity": 402971.79
     }
   ],
   "log": [
-    {
-      "ts": "18:30:01",
-      "text": " poll complete \u2014 1724 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 1738 markets scanned, 10 flagged"
@@ -269,6 +270,10 @@
     {
       "ts": "01:45:01",
       "text": " poll complete \u2014 1769 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:00:01",
+      "text": " poll complete \u2014 1772 markets scanned, 10 flagged"
     }
   ]
 }
