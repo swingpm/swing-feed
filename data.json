@@ -1,161 +1,148 @@
 {
-  "lastUpdate": "2026-08-18 09:15:02 UTC",
+  "lastUpdate": "2026-08-18 09:30:02 UTC",
   "swings": [
     {
-      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 506805.27,
-      "liquidity": 550619.37
-    },
-    {
-      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 506805.27,
-      "liquidity": 550619.37
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.08,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 73902.1,
-      "liquidity": 25.5
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.08,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 73902.1,
-      "liquidity": 25.5
-    },
-    {
-      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.205,
-      "now": 0.5,
-      "delta": 0.295,
-      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 506805.27,
-      "liquidity": 550619.37
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 2 Winner",
-      "prev": 0.455,
-      "now": 0.185,
-      "delta": -0.27,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 61017.0,
-      "liquidity": 129344.5
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Games Total: O/U 2.5",
-      "prev": 0.545,
-      "now": 0.815,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2432.54,
-      "liquidity": 3502.46
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.255,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 73902.1,
-      "liquidity": 2.6
-    },
-    {
-      "market": "Sion: Petr Nesterov vs Calvin Hemery \u2014 Set Handicap: Nesterov (-1.5) vs Hemery (+1.5)",
-      "prev": 0.41,
-      "now": 0.635,
-      "delta": 0.225,
-      "url": "https://polymarket.com/event/atp-nestero-hemery-2026-08-17",
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Prague 2: Completed Match: Florian Broska vs Sean Cuenin",
+      "prev": 0.45,
+      "now": 0.995,
+      "delta": 0.545,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 2.99,
-      "liquidity": 3.7
+      "volume24hr": 1592.14,
+      "liquidity": 1067.34
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prev": 0.655,
-      "now": 0.485,
-      "delta": -0.17,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Broska vs. Cuenin: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 176887.34,
-      "liquidity": 175035.49
+      "volume24hr": 70087.5,
+      "liquidity": 2620.33
+    },
+    {
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Broska vs. Cuenin: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 9.62,
+      "liquidity": 6674.29
+    },
+    {
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Set 2 Winner: Broska vs Cuenin",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 70087.5,
+      "liquidity": 2650.66
+    },
+    {
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Broska vs. Cuenin: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 70087.5,
+      "liquidity": 2607.26
+    },
+    {
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Set Handicap: Cuenin (-1.5) vs Broska (+1.5)",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 21.11,
+      "liquidity": 4382.61
+    },
+    {
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Broska vs. Cuenin: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 70087.5,
+      "liquidity": 2528.06
+    },
+    {
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Florian Broska vs. Sean Cuenin: Total Sets O/U 2.5",
+      "prev": 0.495,
+      "now": 0.005,
+      "delta": -0.49,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 235.0,
+      "liquidity": 6074.84
+    },
+    {
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Broska vs. Cuenin: Match O/U 22.5",
+      "prev": 0.495,
+      "now": 0.005,
+      "delta": -0.49,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 70087.5,
+      "liquidity": 5693.25
+    },
+    {
+      "market": "Prague 2: Florian Broska vs Sean Cuenin \u2014 Broska vs. Cuenin: Match O/U 23.5",
+      "prev": 0.495,
+      "now": 0.005,
+      "delta": -0.49,
+      "url": "https://polymarket.com/event/atp-broska-cuenin-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 70087.5,
+      "liquidity": 5474.24
     }
   ],
   "log": [
-    {
-      "ts": "02:00:01",
-      "text": " poll complete \u2014 1772 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:15:01",
       "text": " poll complete \u2014 1773 markets scanned, 10 flagged"
@@ -271,6 +258,10 @@
     {
       "ts": "09:15:02",
       "text": " poll complete \u2014 1636 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:30:02",
+      "text": " poll complete \u2014 1619 markets scanned, 10 flagged"
     }
   ]
 }
