@@ -1,158 +1,151 @@
 {
-  "lastUpdate": "2026-08-18 18:00:01 UTC",
+  "lastUpdate": "2026-08-18 18:15:01 UTC",
   "swings": [
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Both Teams to Score in Second Half",
+      "market": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti \u2014 Cincinnati Open: Completed Match: Michael Zheng vs Lorenzo Musetti",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-zheng-musetti-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
+        "Games"
       ],
-      "volume24hr": 353239.81,
-      "liquidity": 3880.87
+      "volume24hr": 350.0,
+      "liquidity": 2003.88
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 2nd Half O/U 0.5",
+      "market": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti \u2014 Zheng vs. Musetti: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-zheng-musetti-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
+        "Games"
       ],
-      "volume24hr": 353239.81,
-      "liquidity": 3887.19
+      "volume24hr": 246212.11,
+      "liquidity": 3671.16
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim O/U 2.5",
-      "prev": 0.495,
+      "market": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti \u2014 Zheng vs. Musetti: Set 2 Games O/U 9.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 23.5,
-      "liquidity": 12242.88
-    },
-    {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 2nd Half O/U 1.5",
-      "prev": 0.495,
-      "now": 0.0025,
-      "delta": -0.4925,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 353239.81,
-      "liquidity": 3902.16
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Set 2 Winner: Fritz vs Aguilar",
-      "prev": 0.695,
-      "now": 0.975,
-      "delta": 0.28,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-zheng-musetti-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 58.24,
-      "liquidity": 3044.69
+      "volume24hr": 246212.11,
+      "liquidity": 3710.08
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 Spread: Bayern Munich (-2.5)",
-      "prev": 0.2575,
-      "now": 0.0005,
-      "delta": -0.257,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 15595.03,
-      "liquidity": 61961.33
-    },
-    {
-      "market": "Indiana Fever vs. Toronto Tempo \u2014 Caitlin Clark: Assists O/U 9.5",
-      "prev": 0.555,
-      "now": 0.305,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/wnba-ind-tor-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 58.23,
-      "liquidity": 901.48
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Taylor Fritz vs. Daniel Merida Aguilar: Total Sets O/U 2.5",
-      "prev": 0.285,
-      "now": 0.055,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1707.51,
-      "liquidity": 757.0
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Set Handicap: Fritz (-1.5) vs Aguilar (+1.5)",
-      "prev": 0.69,
-      "now": 0.91,
-      "delta": 0.22,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 11989.91,
-      "liquidity": 109865.17
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Janice Tjen vs. Mirra Andreeva: Total Sets O/U 2.5",
+      "market": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti \u2014 Zheng vs. Musetti: Set 2 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.285,
-      "delta": -0.215,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-zheng-musetti-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 659.32,
-      "liquidity": 244.5
+      "volume24hr": 246212.11,
+      "liquidity": 3694.66
+    },
+    {
+      "market": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti \u2014 Zheng vs. Musetti: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-zheng-musetti-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 4.99,
+      "liquidity": 6818.4
+    },
+    {
+      "market": "Cincinnati Open: Xiyu Wang vs Elina Svitolina \u2014 Cincinnati Open: Completed Match: Xiyu Wang vs Elina Svitolina",
+      "prev": 0.005,
+      "now": 0.495,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/wta-wan-svitoli-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 260.0,
+      "liquidity": 0.06
+    },
+    {
+      "market": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti \u2014 Zheng vs. Musetti: Match O/U 21.5",
+      "prev": 0.49,
+      "now": 0.005,
+      "delta": -0.485,
+      "url": "https://polymarket.com/event/atp-zheng-musetti-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 82.17,
+      "liquidity": 6757.56
+    },
+    {
+      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 515116.19,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 515116.19,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.495,
+      "now": 0.095,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 515116.19,
+      "liquidity": 117.82
     }
   ],
   "log": [
-    {
-      "ts": "10:45:02",
-      "text": " poll complete \u2014 1616 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:00:02",
       "text": " poll complete \u2014 1636 markets scanned, 10 flagged"
@@ -268,6 +261,10 @@
     {
       "ts": "18:00:01",
       "text": " poll complete \u2014 1766 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:15:01",
+      "text": " poll complete \u2014 1802 markets scanned, 10 flagged"
     }
   ]
 }
