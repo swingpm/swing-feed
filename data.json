@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-18 01:00:01 UTC",
+  "lastUpdate": "2026-08-18 01:15:01 UTC",
   "swings": [
     {
-      "market": "Will SC Internacional vs. Clube do Remo end in a draw?",
-      "prev": 0.09,
-      "now": 0.9995,
-      "delta": 0.9095,
-      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 14958.02,
-      "liquidity": 291812.81
-    },
-    {
-      "market": "SC Internacional vs. Clube do Remo - Exact Score \u2014 Exact Score: SC Internacional 1 - 1 Clube do Remo?",
-      "prev": 0.09,
-      "now": 0.997,
-      "delta": 0.907,
-      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 3400.37,
-      "liquidity": 11675.52
-    },
-    {
-      "market": "SC Internacional vs. Clube do Remo \u2014 Will SC Internacional win on 2026-08-17?",
-      "prev": 0.905,
+      "market": "Baltimore Orioles vs. Tampa Bay Rays: O/U 13.5",
+      "prev": 0.505,
       "now": 0.0005,
-      "delta": -0.9045,
-      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 112962.33,
-      "liquidity": 258191.31
-    },
-    {
-      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: Clube do Remo O/U 0.5",
-      "prev": 0.11,
-      "now": 0.997,
-      "delta": 0.887,
-      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 378.17,
-      "liquidity": 17255.76
-    },
-    {
-      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: Both Teams to Score",
-      "prev": 0.12,
-      "now": 0.9995,
-      "delta": 0.8795,
-      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 40809.21,
-      "liquidity": 179091.9
-    },
-    {
-      "market": "SC Internacional vs. Clube do Remo - Exact Score \u2014 Exact Score: SC Internacional 1 - 0 Clube do Remo?",
-      "prev": 0.72,
-      "now": 0.003,
-      "delta": -0.717,
-      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 14231.34,
-      "liquidity": 90517.29
-    },
-    {
-      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: O/U 1.5",
-      "prev": 0.285,
-      "now": 0.9995,
-      "delta": 0.7145,
-      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 29879.87,
-      "liquidity": 162981.8
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Atlanta Braves vs. Minnesota Twins",
-      "prev": 0.3,
-      "now": 0.9995,
-      "delta": 0.6995,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 4598.16,
-      "liquidity": 40235.44
+      "volume24hr": 232.73,
+      "liquidity": 3932.36
     },
     {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
+      "market": "Will the game go to extra innings?: Baltimore Orioles vs. Tampa Bay Rays",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 450136.65,
-      "liquidity": 2221.89
+      "volume24hr": 1299787.47,
+      "liquidity": 1613.85
     },
     {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Detroit Tigers (-1.5)",
+      "market": "Chicago White Sox vs. Chicago Cubs: 1st 5 Innings O/U 2.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 450136.65,
-      "liquidity": 1947.71
+      "volume24hr": 264308.36,
+      "liquidity": 2317.53
+    },
+    {
+      "market": "Chicago White Sox vs. Chicago Cubs: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 264308.36,
+      "liquidity": 1950.05
+    },
+    {
+      "market": "Chicago White Sox vs. Chicago Cubs: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 180.0,
+      "liquidity": 1771.07
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays: O/U 14.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 163.57,
+      "liquidity": 3743.24
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays: O/U 15.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 34.15,
+      "liquidity": 3822.3
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals \u2014 1st 5 Innings Spread: Athletics (-1.5)",
+      "prev": 0.055,
+      "now": 0.5,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 313114.88,
+      "liquidity": 503398.59
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies \u2014 Spread: Philadelphia Phillies (-2.5)",
+      "prev": 0.615,
+      "now": 0.185,
+      "delta": -0.43,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5800.05,
+      "liquidity": 128.36
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals \u2014 1st 5 Innings Spread: Kansas City Royals (-1.5)",
+      "prev": 0.93,
+      "now": 0.5,
+      "delta": -0.43,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 313114.88,
+      "liquidity": 503398.59
     }
   ],
   "log": [
-    {
-      "ts": "17:45:01",
-      "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:00:02",
       "text": " poll complete \u2014 1698 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "01:00:01",
       "text": " poll complete \u2014 1742 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:15:01",
+      "text": " poll complete \u2014 1757 markets scanned, 10 flagged"
     }
   ]
 }
