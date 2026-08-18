@@ -1,152 +1,156 @@
 {
-  "lastUpdate": "2026-08-18 15:30:01 UTC",
+  "lastUpdate": "2026-08-18 15:45:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Set 1 Winner: Rublev vs Borges",
-      "prev": 0.59,
-      "now": 0.075,
-      "delta": -0.515,
-      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
+      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Map Handicap: FF (-1.5) vs Omega (+1.5)",
+      "prev": 0.485,
+      "now": 0.9995,
+      "delta": 0.5145,
+      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 1924.09,
-      "liquidity": 5471.35
+      "volume24hr": 446.81,
+      "liquidity": 8599.23
     },
     {
-      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Sion: Completed Match: Gerard Campana Lee vs Alex Marti Pujolras",
+      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Prague 2: Completed Match: Maxim Mrva vs Nerman Fatic",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
+      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 25.0,
-      "liquidity": 969.04
+      "volume24hr": 675.0,
+      "liquidity": 1405.6
     },
     {
-      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Set 2 Winner: Lee vs Pujolras",
+      "market": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe \u2014 Prague 2: Completed Match: Oriol Roca Batalla vs Radu Mihai Papoe",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/atp-batalla-papoe-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 101627.82,
-      "liquidity": 2651.34
+      "volume24hr": 545.0,
+      "liquidity": 1493.08
     },
     {
-      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 101627.82,
-      "liquidity": 2651.34
-    },
-    {
-      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Set Handicap: Pujolras (-1.5) vs Lee (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 101627.82,
-      "liquidity": 3940.84
-    },
-    {
-      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 101627.82,
-      "liquidity": 5746.08
-    },
-    {
-      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 101627.82,
-      "liquidity": 2651.34
-    },
-    {
-      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 101627.82,
-      "liquidity": 5746.08
-    },
-    {
-      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 101627.82,
-      "liquidity": 2661.9
-    },
-    {
-      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Gerard Campana Lee vs. Alex Marti Pujolras: Total Sets O/U 2.5",
+      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Games Total: O/U 2.5",
       "prev": 0.495,
       "now": 0.0005,
       "delta": -0.4945,
-      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
+      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 101627.82,
-      "liquidity": 5331.62
+      "volume24hr": 294.62,
+      "liquidity": 9304.83
+    },
+    {
+      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Map 2 Rounds Handicap: Omega (-6.5) vs Fire Flux Esports (+6.5)",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263484.33,
+      "liquidity": 117.72
+    },
+    {
+      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Map 2 Rounds Handicap: Fire Flux Esports (-6.5) vs Omega (+6.5)",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263484.33,
+      "liquidity": 117.72
+    },
+    {
+      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Map 2 Rounds Handicap: Fire Flux Esports (-9.5) vs Omega (+9.5)",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263484.33,
+      "liquidity": 117.72
+    },
+    {
+      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Map 2 Rounds Handicap: Omega (-3.5) vs Fire Flux Esports (+3.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263484.33,
+      "liquidity": 113.67
+    },
+    {
+      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Map 2 Rounds Handicap: Omega (-9.5) vs Fire Flux Esports (+9.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263484.33,
+      "liquidity": 113.67
+    },
+    {
+      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263484.33,
+      "liquidity": 113.67
     }
   ],
   "log": [
-    {
-      "ts": "08:15:01",
-      "text": " poll complete \u2014 1595 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:30:01",
       "text": " poll complete \u2014 1574 markets scanned, 10 flagged"
@@ -262,6 +266,10 @@
     {
       "ts": "15:30:01",
       "text": " poll complete \u2014 1723 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:45:01",
+      "text": " poll complete \u2014 1700 markets scanned, 10 flagged"
     }
   ]
 }
