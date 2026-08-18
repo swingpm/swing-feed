@@ -1,153 +1,158 @@
 {
-  "lastUpdate": "2026-08-18 17:30:01 UTC",
+  "lastUpdate": "2026-08-18 17:45:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Fritz vs. Aguilar: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 201.79,
-      "liquidity": 6903.7
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Fritz vs. Aguilar: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 55.12,
-      "liquidity": 6908.69
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Fritz vs. Aguilar: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 288877.41,
-      "liquidity": 6943.42
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 38.1,
-      "liquidity": 6932.65
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 271173.9,
-      "liquidity": 6943.21
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 271173.9,
-      "liquidity": 6943.21
-    },
-    {
-      "market": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti \u2014 Zheng vs. Musetti: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-zheng-musetti-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 29.5,
-      "liquidity": 6140.94
-    },
-    {
-      "market": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti \u2014 Zheng vs. Musetti: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-zheng-musetti-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 10.76,
-      "liquidity": 6140.94
-    },
-    {
-      "market": "Cincinnati Open: Michael Zheng vs Lorenzo Musetti \u2014 Zheng vs. Musetti: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-zheng-musetti-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 111764.54,
-      "liquidity": 6140.94
-    },
-    {
-      "market": "Los Angeles Sparks vs. Connecticut Sun \u2014 Brittney Griner: Rebounds O/U 5.5",
-      "prev": 0.435,
-      "now": 0.0015,
-      "delta": -0.4335,
-      "url": "https://polymarket.com/event/wnba-la-conn-2026-08-18",
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: O/U 5.5",
+      "prev": 0.325,
+      "now": 0.995,
+      "delta": 0.67,
+      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "Club Friendlies"
       ],
-      "volume24hr": 3562.07,
-      "liquidity": 7862.95
+      "volume24hr": 30822.1,
+      "liquidity": 106282.73
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 Spread: Bayern Munich (-1.5)",
+      "prev": 0.285,
+      "now": 0.915,
+      "delta": 0.63,
+      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 75679.74,
+      "liquidity": 82757.35
+    },
+    {
+      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.555,
+      "now": 0.0005,
+      "delta": -0.5545,
+      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1307.03,
+      "liquidity": 12820.54
+    },
+    {
+      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 LoL: Solary vs TLN Pirates - Game 2 Winner",
+      "prev": 0.55,
+      "now": 0.0005,
+      "delta": -0.5495,
+      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 143297.75,
+      "liquidity": 628039.09
+    },
+    {
+      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Game Handicap: TLNP (-1.5) vs Solary (+1.5)",
+      "prev": 0.495,
+      "now": 0.995,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 2155.28
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 26.13,
+      "liquidity": 683.95
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Bayern Munich 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 7.51,
+      "liquidity": 766.45
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 2nd Half O/U 2.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 145.96,
+      "liquidity": 2145.59
+    },
+    {
+      "market": "LoL: NightBirds vs CITA Kaizen (BO3) - Hitpoint Masters Regular Season \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-nbs-ckz-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 72060.01,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: NightBirds vs CITA Kaizen (BO3) - Hitpoint Masters Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-nbs-ckz-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 72060.01,
+      "liquidity": 113.67
     }
   ],
   "log": [
-    {
-      "ts": "10:15:01",
-      "text": " poll complete \u2014 1614 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:30:01",
       "text": " poll complete \u2014 1606 markets scanned, 10 flagged"
@@ -263,6 +268,10 @@
     {
       "ts": "17:30:01",
       "text": " poll complete \u2014 1733 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:45:02",
+      "text": " poll complete \u2014 1765 markets scanned, 10 flagged"
     }
   ]
 }
