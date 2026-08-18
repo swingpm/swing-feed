@@ -1,54 +1,56 @@
 {
-  "lastUpdate": "2026-08-18 19:30:01 UTC",
+  "lastUpdate": "2026-08-18 19:45:01 UTC",
   "swings": [
     {
-      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: GNK Dinamo Zagreb 1 - 3 Viking FK?",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
+      "market": "Counter-Strike: Donstu Esports vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map Handicap: MOUZ.N (-1.5) vs Donstu Esports (+1.5)",
+      "prev": 0.485,
+      "now": 0.9995,
+      "delta": 0.5145,
+      "url": "https://polymarket.com/event/cs2-don-mouzn-2026-08-18",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "UCL"
+        "Sports"
       ],
-      "volume24hr": 593.01,
-      "liquidity": 3543.63
+      "volume24hr": 4338.45,
+      "liquidity": 27880.95
     },
     {
-      "market": "Quebec City: Dusan Lajovic vs Taro Daniel \u2014 Quebec City, Canada, Qualifying: Completed Match: Dusan Lajovic vs Taro Daniel",
+      "market": "Counter-Strike: Donstu Esports vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Games Total: O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-don-mouzn-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 100.71,
+      "liquidity": 7793.53
+    },
+    {
+      "market": "Counter-Strike: Donstu Esports vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 2 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-lajovic-daniel-2026-08-18",
+      "url": "https://polymarket.com/event/cs2-don-mouzn-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 130.0,
-      "liquidity": 938.27
+      "volume24hr": 104853.85,
+      "liquidity": 475.17
     },
     {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev \u2014 Set 1 Winner: Nakashima vs Medvedev",
-      "prev": 0.545,
-      "now": 0.965,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 9700.34,
-      "liquidity": 146674.99
-    },
-    {
-      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - More Markets \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: Olympique Lyonnais 1st Half O/U 1.5",
-      "prev": 0.08,
-      "now": 0.4955,
-      "delta": 0.4155,
+      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - More Markets \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: 1st Half O/U 0.5",
+      "prev": 0.485,
+      "now": 0.975,
+      "delta": 0.49,
       "url": "https://polymarket.com/event/ucl-fen-lyo-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -56,14 +58,14 @@
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 219.24,
-      "liquidity": 0.96
+      "volume24hr": 9766.12,
+      "liquidity": 6016.01
     },
     {
-      "market": "GNK Dinamo Zagreb vs. Viking FK - More Markets \u2014 GNK Dinamo Zagreb vs. Viking FK: 1st Half O/U 1.5",
-      "prev": 0.585,
-      "now": 0.9995,
-      "delta": 0.4145,
+      "market": "GNK Dinamo Zagreb vs. Viking FK - More Markets \u2014 Spread: GNK Dinamo Zagreb (-1.5)",
+      "prev": 0.75,
+      "now": 0.27,
+      "delta": -0.48,
       "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -71,89 +73,85 @@
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 3770.08,
-      "liquidity": 21808.78
+      "volume24hr": 10699.37,
+      "liquidity": 7992.69
     },
     {
-      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: GNK Dinamo Zagreb 1 - 0 Viking FK?",
-      "prev": 0.41,
-      "now": 0.003,
-      "delta": -0.407,
-      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
+      "market": "GNK Dinamo Zagreb vs. Viking FK \u2014 Will GNK Dinamo Zagreb win on 2026-08-18?",
+      "prev": 0.915,
+      "now": 0.465,
+      "delta": -0.45,
+      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 1291.32,
-      "liquidity": 5118.6
+      "volume24hr": 362191.76,
+      "liquidity": 79180.1
     },
     {
-      "market": "PFK Levski Sofia vs. AEK - More Markets \u2014 PFK Levski Sofia vs. AEK: 1st Half O/U 1.5",
-      "prev": 0.455,
-      "now": 0.07,
-      "delta": -0.385,
-      "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-more-markets",
+      "market": "GNK Dinamo Zagreb vs. Viking FK - More Markets \u2014 GNK Dinamo Zagreb vs. Viking FK: 1st Half O/U 2.5",
+      "prev": 0.55,
+      "now": 0.9995,
+      "delta": 0.4495,
+      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 457.88,
-      "liquidity": 7608.88
+      "volume24hr": 5579.23,
+      "liquidity": 101091.63
     },
     {
-      "market": "Kingston: Garrett Johns vs Paulo Dos Santos",
-      "prev": 0.61,
-      "now": 0.995,
-      "delta": 0.385,
+      "market": "GNK Dinamo Zagreb vs. Viking FK - More Markets \u2014 GNK Dinamo Zagreb vs. Viking FK: Viking FK 1st Half O/U 0.5",
+      "prev": 0.565,
+      "now": 0.9995,
+      "delta": 0.4345,
+      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 796.6,
+      "liquidity": 8749.89
+    },
+    {
+      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - Exact Score \u2014 Exact Score: Any Other Score?",
+      "prev": 0.47,
+      "now": 0.055,
+      "delta": -0.415,
+      "url": "https://polymarket.com/event/ucl-fen-lyo-2026-08-18-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 1224.51,
+      "liquidity": 773.64
+    },
+    {
+      "market": "Kingston: Garrett Johns vs Paulo Dos Santos \u2014 Kingston: Completed Match: Garrett Johns vs Paulo Dos Santos",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/atp-johns-santos-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 153698.29,
-      "liquidity": 270023.78
-    },
-    {
-      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: GNK Dinamo Zagreb 0 - 0 Viking FK?",
-      "prev": 0.375,
-      "now": 0.0005,
-      "delta": -0.3745,
-      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 1851.09,
-      "liquidity": 8702.85
-    },
-    {
-      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: GNK Dinamo Zagreb 3 - 1 Viking FK?",
-      "prev": 0.495,
-      "now": 0.13,
-      "delta": -0.365,
-      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 12257.53,
-      "liquidity": 21706.77
+      "volume24hr": 25.0,
+      "liquidity": 114.22
     }
   ],
   "log": [
-    {
-      "ts": "12:15:01",
-      "text": " poll complete \u2014 1667 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:30:01",
       "text": " poll complete \u2014 1663 markets scanned, 10 flagged"
@@ -269,6 +267,10 @@
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 1829 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:45:01",
+      "text": " poll complete \u2014 1789 markets scanned, 10 flagged"
     }
   ]
 }
