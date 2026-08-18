@@ -1,115 +1,11 @@
 {
-  "lastUpdate": "2026-08-17 23:45:01 UTC",
+  "lastUpdate": "2026-08-18 00:00:02 UTC",
   "swings": [
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 1st 5 Innings Spread: Cincinnati Reds (-1.5)",
-      "prev": 0.66,
-      "now": 0.075,
-      "delta": -0.585,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6.0,
-      "liquidity": 4.94
-    },
-    {
-      "market": "Cincinnati Open: Linda Noskova vs Clara Tauson \u2014 Set 1 Winner: Noskova vs Tauson",
-      "prev": 0.165,
-      "now": 0.725,
-      "delta": 0.56,
-      "url": "https://polymarket.com/event/wta-noskova-tauson-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 2885.69,
-      "liquidity": 5326.43
-    },
-    {
-      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: SC Internacional 1st Half O/U 1.5",
-      "prev": 0.645,
-      "now": 0.09,
-      "delta": -0.555,
-      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 448.78,
-      "liquidity": 679.85
-    },
-    {
-      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: 1st Half O/U 2.5",
-      "prev": 0.53,
-      "now": 0.0105,
-      "delta": -0.5195,
-      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 532.8,
-      "liquidity": 532.55
-    },
-    {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
+      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: Both Teams to Score",
+      "prev": 0.31,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 138.0,
-      "liquidity": 1577.0
-    },
-    {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 86.43,
-      "liquidity": 1981.53
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Athletics vs. Kansas City Royals",
-      "prev": 0.515,
-      "now": 0.9945,
-      "delta": 0.4795,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 43.81,
-      "liquidity": 2386.73
-    },
-    {
-      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: CSyD Defensa y Justicia O/U 1.5",
-      "prev": 0.5,
-      "now": 0.05,
-      "delta": -0.45,
+      "delta": 0.6895,
       "url": "https://polymarket.com/event/arg-vel-def-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -117,14 +13,58 @@
         "Soccer",
         "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 82.11,
-      "liquidity": 1467.58
+      "volume24hr": 27605.49,
+      "liquidity": 107591.75
     },
     {
-      "market": "Baltimore Orioles vs. Tampa Bay Rays",
-      "prev": 0.275,
-      "now": 0.715,
-      "delta": 0.44,
+      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia \u2014 Will CA V\u00e9lez Sarsfield win on 2026-08-17?",
+      "prev": 0.775,
+      "now": 0.185,
+      "delta": -0.59,
+      "url": "https://polymarket.com/event/arg-vel-def-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 100455.61,
+      "liquidity": 132424.97
+    },
+    {
+      "market": "Cincinnati Open: Rinky Hijikata vs Jakub Mensik \u2014 Hijikata vs. Mensik: Set 1 Games O/U 9.5",
+      "prev": 0.505,
+      "now": 0.0005,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/atp-hijikat-mensik-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 180965.46,
+      "liquidity": 5841.44
+    },
+    {
+      "market": "Will CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia end in a draw?",
+      "prev": 0.185,
+      "now": 0.685,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/arg-vel-def-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 14565.79,
+      "liquidity": 132393.2
+    },
+    {
+      "market": "Baltimore Orioles vs. Tampa Bay Rays \u2014 1st 5 Innings Spread: Tampa Bay Rays (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-bal-tb-2026-08-17",
       "tags": [
         "Sports",
@@ -132,30 +72,84 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 895537.48,
-      "liquidity": 185936.01
+      "volume24hr": 1.52,
+      "liquidity": 2150.8
     },
     {
-      "market": "CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia - More Markets \u2014 CA V\u00e9lez Sarsfield vs. CSyD Defensa y Justicia: CA V\u00e9lez Sarsfield O/U 2.5",
+      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 2.5",
       "prev": 0.5,
-      "now": 0.065,
-      "delta": -0.435,
-      "url": "https://polymarket.com/event/arg-vel-def-2026-08-17-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 240612.94,
+      "liquidity": 1460.42
+    },
+    {
+      "market": "Cincinnati Open: Emma Navarro vs Jessica Pegula \u2014 Navarro vs. Pegula: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-navarro-pegula-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 193219.0,
+      "liquidity": 6877.5
+    },
+    {
+      "market": "Cincinnati Open: Rinky Hijikata vs Jakub Mensik \u2014 Hijikata vs. Mensik: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hijikat-mensik-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 95.95,
+      "liquidity": 6887.49
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: Both Teams to Score in First Half",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Brazil Serie A"
       ],
-      "volume24hr": 90.32,
-      "liquidity": 1570.25
+      "volume24hr": 573.55,
+      "liquidity": 18494.55
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: SC Internacional 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 17.71,
+      "liquidity": 2768.65
     }
   ],
   "log": [
-    {
-      "ts": "16:30:01",
-      "text": " poll complete \u2014 1708 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 1723 markets scanned, 10 flagged"
@@ -271,6 +265,10 @@
     {
       "ts": "23:45:01",
       "text": " poll complete \u2014 1619 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:00:02",
+      "text": " poll complete \u2014 1667 markets scanned, 10 flagged"
     }
   ]
 }
