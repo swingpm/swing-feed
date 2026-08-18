@@ -1,156 +1,155 @@
 {
-  "lastUpdate": "2026-08-18 04:30:01 UTC",
+  "lastUpdate": "2026-08-18 04:45:02 UTC",
   "swings": [
     {
-      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 131077.11,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 131077.11,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 3: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 131077.11,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 131077.11,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Jessica Shepard: Assists O/U 3.5",
-      "prev": 0.46,
-      "now": 0.09,
-      "delta": -0.37,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 74.61,
-      "liquidity": 437.11
+      "volume24hr": 306194.38,
+      "liquidity": 1239.82
     },
     {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Cecilia Zandalasini: Points O/U 9.5",
-      "prev": 0.45,
-      "now": 0.095,
-      "delta": -0.355,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca O/U 1.5",
+      "prev": 0.595,
+      "now": 0.9995,
+      "delta": 0.4045,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 888889.3,
-      "liquidity": 413.67
+      "volume24hr": 541.52,
+      "liquidity": 50107.58
     },
     {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Jessica Shepard: Rebounds O/U 10.5",
-      "prev": 0.45,
-      "now": 0.095,
-      "delta": -0.355,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "market": "CF Pachuca vs. Club Puebla \u2014 Will Club Puebla win on 2026-08-17?",
+      "prev": 0.535,
+      "now": 0.16,
+      "delta": -0.375,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
       "tags": [
         "Sports",
         "Games",
-        "WNBA"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 888889.3,
-      "liquidity": 413.67
+      "volume24hr": 217053.34,
+      "liquidity": 143865.86
     },
     {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Jessica Shepard: Rebounds O/U 9.5",
-      "prev": 0.45,
-      "now": 0.095,
-      "delta": -0.355,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 45.53,
-      "liquidity": 413.67
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Jessica Shepard: Assists O/U 4.5",
-      "prev": 0.451,
-      "now": 0.099,
-      "delta": -0.352,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 274.66,
-      "liquidity": 776.08
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-      "prev": 0.735,
-      "now": 0.485,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
+      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+      "prev": 0.53,
+      "now": 0.235,
+      "delta": -0.295,
+      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 359608.57,
-      "liquidity": 355873.01
+      "volume24hr": 1150319.33,
+      "liquidity": 446213.09
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca O/U 2.5",
+      "prev": 0.2,
+      "now": 0.495,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 661.46,
+      "liquidity": 3315.74
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: O/U 4.5",
+      "prev": 0.365,
+      "now": 0.635,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 34163.61,
+      "liquidity": 59485.5
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - Exact Score \u2014 Exact Score: CF Pachuca 1 - 2 Club Puebla?",
+      "prev": 0.2695,
+      "now": 0.0005,
+      "delta": -0.269,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 3409.33,
+      "liquidity": 27462.8
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: O/U 3.5",
+      "prev": 0.735,
+      "now": 0.9995,
+      "delta": 0.2645,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 59489.38,
+      "liquidity": 191906.36
+    },
+    {
+      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Eala vs. Anisimova: Match O/U 23.5",
+      "prev": 0.635,
+      "now": 0.865,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1167336.24,
+      "liquidity": 3074.4
+    },
+    {
+      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Eala vs. Anisimova: Match O/U 22.5",
+      "prev": 0.64,
+      "now": 0.865,
+      "delta": 0.225,
+      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 14.29,
+      "liquidity": 3074.4
     }
   ],
   "log": [
-    {
-      "ts": "21:15:02",
-      "text": " poll complete \u2014 1640 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:30:02",
       "text": " poll complete \u2014 1650 markets scanned, 10 flagged"
@@ -266,6 +265,10 @@
     {
       "ts": "04:30:01",
       "text": " poll complete \u2014 1677 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:45:02",
+      "text": " poll complete \u2014 1690 markets scanned, 10 flagged"
     }
   ]
 }
