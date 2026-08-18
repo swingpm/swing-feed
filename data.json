@@ -1,68 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 05:00:02 UTC",
+  "lastUpdate": "2026-08-18 05:15:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Cincinnati Open: Completed Match: Alexandra Eala vs Amanda Anisimova",
-      "prev": 0.5,
+      "market": "CF Pachuca vs. Club Puebla - Exact Score \u2014 Exact Score: CF Pachuca 2 - 3 Club Puebla?",
+      "prev": 0.094,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1269970.28,
-      "liquidity": 4635.74
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: O/U 4.5",
-      "prev": 0.635,
-      "now": 0.34,
-      "delta": -0.295,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 65251.12,
-      "liquidity": 55798.03
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-      "prev": 0.665,
-      "now": 0.935,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 435995.28,
-      "liquidity": 481639.95
-    },
-    {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Alexandra Eala vs. Amanda Anisimova: Total Sets O/U 2.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 959.03,
-      "liquidity": 9778.15
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla - Exact Score \u2014 Exact Score: CF Pachuca 2 - 2 Club Puebla?",
-      "prev": 0.3785,
-      "now": 0.624,
-      "delta": 0.2455,
+      "delta": 0.9055,
       "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-exact-score",
       "tags": [
         "Sports",
@@ -70,43 +13,117 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 1959.31,
-      "liquidity": 3201.69
+      "volume24hr": 2221.59,
+      "liquidity": 27888.09
     },
     {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-      "prev": 0.235,
+      "market": "CF Pachuca vs. Club Puebla \u2014 Will Club Puebla win on 2026-08-17?",
+      "prev": 0.095,
+      "now": 0.9995,
+      "delta": 0.9045,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 243535.36,
+      "liquidity": 610625.69
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: Club Puebla O/U 2.5",
+      "prev": 0.13,
+      "now": 0.9995,
+      "delta": 0.8695,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 2517.04,
+      "liquidity": 30686.45
+    },
+    {
+      "market": "Will CF Pachuca vs. Club Puebla end in a draw?",
+      "prev": 0.685,
       "now": 0.0005,
-      "delta": -0.2345,
-      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
+      "delta": -0.6845,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 64846.8,
+      "liquidity": 316028.61
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: O/U 4.5",
+      "prev": 0.34,
+      "now": 0.9995,
+      "delta": 0.6595,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 75483.3,
+      "liquidity": 223090.02
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - Exact Score \u2014 Exact Score: CF Pachuca 2 - 2 Club Puebla?",
+      "prev": 0.624,
+      "now": 0.0005,
+      "delta": -0.6235,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 1969.31,
+      "liquidity": 12572.71
+    },
+    {
+      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Cincinnati Open: Completed Match: Tommy Paul vs Adolfo Vallejo",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1252953.37,
-      "liquidity": 560667.56
+      "volume24hr": 565427.41,
+      "liquidity": 978.94
     },
     {
-      "market": "Will CF Pachuca vs. Club Puebla end in a draw?",
-      "prev": 0.455,
-      "now": 0.685,
-      "delta": 0.23,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
+      "market": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin \u2014 Set 1 Winner: Lu vs Osminkin",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/itf-hanleil-osminki-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
+        "Games"
       ],
-      "volume24hr": 54758.7,
-      "liquidity": 142120.31
+      "volume24hr": 377337.2,
+      "liquidity": 1555.07
     },
     {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca O/U 2.5",
-      "prev": 0.495,
-      "now": 0.28,
-      "delta": -0.215,
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -114,14 +131,14 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 797.85,
-      "liquidity": 1871.32
+      "volume24hr": 367906.6,
+      "liquidity": 3135.09
     },
     {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: O/U 5.5",
-      "prev": 0.215,
-      "now": 0.04,
-      "delta": -0.175,
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -129,30 +146,11 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 22947.75,
-      "liquidity": 89458.29
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla \u2014 Will CF Pachuca win on 2026-08-17?",
-      "prev": 0.385,
-      "now": 0.225,
-      "delta": -0.16,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 154144.1,
-      "liquidity": 125024.02
+      "volume24hr": 367906.6,
+      "liquidity": 3142.09
     }
   ],
   "log": [
-    {
-      "ts": "21:45:01",
-      "text": " poll complete \u2014 1639 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 1637 markets scanned, 10 flagged"
@@ -268,6 +266,10 @@
     {
       "ts": "05:00:02",
       "text": " poll complete \u2014 1687 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:15:01",
+      "text": " poll complete \u2014 1660 markets scanned, 10 flagged"
     }
   ]
 }
