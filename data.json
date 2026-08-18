@@ -1,125 +1,26 @@
 {
-  "lastUpdate": "2026-08-18 20:15:01 UTC",
+  "lastUpdate": "2026-08-18 20:30:01 UTC",
   "swings": [
     {
-      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - More Markets \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: 2nd Half O/U 0.5",
+      "market": "Counter-Strike: FORZE Reload vs 300FPS (BO3) - CCT Europe Contenders #8 Playoffs \u2014 Games Total: O/U 2.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/ucl-fen-lyo-2026-08-18-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-forzer-300fps-2026-08-18",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "UCL"
+        "Sports"
       ],
-      "volume24hr": 1.25,
-      "liquidity": 3365.23
+      "volume24hr": 27.52,
+      "liquidity": 3629.0
     },
     {
-      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - More Markets \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: Fenerbah\u00e7e SK 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/ucl-fen-lyo-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 728638.33,
-      "liquidity": 3676.7
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev \u2014 Nakashima vs. Medvedev: Set 1 Games O/U 9.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 971456.84,
-      "liquidity": 6898.42
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev \u2014 Nakashima vs. Medvedev: Set 1 Games O/U 10.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 971456.84,
-      "liquidity": 6859.15
-    },
-    {
-      "market": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens \u2014 Kostyuk vs. Stephens: Set 1 Games O/U 8.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-kostyuk-stephen-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 23.26,
-      "liquidity": 5912.51
-    },
-    {
-      "market": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens \u2014 Kostyuk vs. Stephens: Set 1 Games O/U 9.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-kostyuk-stephen-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 103798.87,
-      "liquidity": 5923.07
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev \u2014 Nakashima vs. Medvedev: Set 1 Games O/U 8.5",
-      "prev": 0.51,
-      "now": 0.9995,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 134.32,
-      "liquidity": 6898.6
-    },
-    {
-      "market": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens \u2014 Kostyuk vs. Stephens: Set 1 Games O/U 10.5",
-      "prev": 0.51,
-      "now": 0.9995,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/wta-kostyuk-stephen-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 103798.87,
-      "liquidity": 5912.51
-    },
-    {
-      "market": "PFK Levski Sofia vs. AEK - Exact Score \u2014 Exact Score: PFK Levski Sofia 3 - 1 AEK?",
-      "prev": 0.0035,
-      "now": 0.4615,
-      "delta": 0.458,
+      "market": "PFK Levski Sofia vs. AEK - Exact Score \u2014 Exact Score: PFK Levski Sofia 0 - 3 AEK?",
+      "prev": 0.407,
+      "now": 0.006,
+      "delta": -0.401,
       "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-exact-score",
       "tags": [
         "Sports",
@@ -127,14 +28,88 @@
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 1775.24,
-      "liquidity": 19.34
+      "volume24hr": 1339.18,
+      "liquidity": 1332.3
     },
     {
-      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - Exact Score \u2014 Exact Score: Any Other Score?",
-      "prev": 0.055,
-      "now": 0.485,
-      "delta": 0.43,
+      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - More Markets \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: Fenerbah\u00e7e SK O/U 2.5",
+      "prev": 0.485,
+      "now": 0.085,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/ucl-fen-lyo-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 2163.32,
+      "liquidity": 5934.79
+    },
+    {
+      "market": "Counter-Strike: Metizport vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 3 Rounds Handicap: SPARTA (-3.5) vs Metizport (+3.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-mzp-sparta-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 96464.12,
+      "liquidity": 113.67
+    },
+    {
+      "market": "Counter-Strike: Metizport vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 3 Rounds Handicap: Metizport (-3.5) vs SPARTA (+3.5)",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-mzp-sparta-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 96464.12,
+      "liquidity": 113.67
+    },
+    {
+      "market": "Counter-Strike: Metizport vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 3 Rounds Handicap: Metizport (-6.5) vs SPARTA (+6.5)",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-mzp-sparta-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 96464.12,
+      "liquidity": 113.67
+    },
+    {
+      "market": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens \u2014 Kostyuk vs. Stephens: Match O/U 23.5",
+      "prev": 0.265,
+      "now": 0.635,
+      "delta": 0.37,
+      "url": "https://polymarket.com/event/wta-kostyuk-stephen-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 113647.2,
+      "liquidity": 6082.5
+    },
+    {
+      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - Exact Score \u2014 Exact Score: Fenerbah\u00e7e SK 3 - 2 Olympique Lyonnais?",
+      "prev": 0.361,
+      "now": 0.0145,
+      "delta": -0.3465,
       "url": "https://polymarket.com/event/ucl-fen-lyo-2026-08-18-exact-score",
       "tags": [
         "Sports",
@@ -142,15 +117,40 @@
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 1232.11,
-      "liquidity": 3.12
+      "volume24hr": 2243.65,
+      "liquidity": 3668.88
+    },
+    {
+      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - More Markets \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: Olympique Lyonnais O/U 2.5",
+      "prev": 0.37,
+      "now": 0.027,
+      "delta": -0.343,
+      "url": "https://polymarket.com/event/ucl-fen-lyo-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 367.08,
+      "liquidity": 4590.1
+    },
+    {
+      "market": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens \u2014 Kostyuk vs. Stephens: Match O/U 22.5",
+      "prev": 0.285,
+      "now": 0.62,
+      "delta": 0.335,
+      "url": "https://polymarket.com/event/wta-kostyuk-stephen-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 7.32,
+      "liquidity": 120.0
     }
   ],
   "log": [
-    {
-      "ts": "13:00:02",
-      "text": " poll complete \u2014 1643 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:15:01",
       "text": " poll complete \u2014 1673 markets scanned, 10 flagged"
@@ -266,6 +266,10 @@
     {
       "ts": "20:15:01",
       "text": " poll complete \u2014 1775 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:30:01",
+      "text": " poll complete \u2014 1779 markets scanned, 10 flagged"
     }
   ]
 }
