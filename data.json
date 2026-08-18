@@ -1,160 +1,153 @@
 {
-  "lastUpdate": "2026-08-18 03:15:01 UTC",
+  "lastUpdate": "2026-08-18 03:30:01 UTC",
   "swings": [
     {
-      "market": "Chicago White Sox vs. Chicago Cubs: O/U 10.5",
-      "prev": 0.235,
-      "now": 0.9945,
-      "delta": 0.7595,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
+      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 14.5",
+      "prev": 0.16,
+      "now": 0.995,
+      "delta": 0.835,
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 3705.35,
-      "liquidity": 9582.82
+      "volume24hr": 2114.95,
+      "liquidity": 170.12
     },
     {
-      "market": "Chicago White Sox vs. Chicago Cubs: O/U 9.5",
-      "prev": 0.245,
-      "now": 0.9995,
-      "delta": 0.7545,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 9179.36,
-      "liquidity": 75666.56
-    },
-    {
-      "market": "Atlanta Braves vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-2.5)",
-      "prev": 0.735,
-      "now": 0.0005,
-      "delta": -0.7345,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6967.12,
-      "liquidity": 113657.43
-    },
-    {
-      "market": "Atlanta Braves vs. Minnesota Twins: O/U 7.5",
-      "prev": 0.585,
-      "now": 0.005,
-      "delta": -0.58,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 600585.68,
-      "liquidity": 2318.84
-    },
-    {
-      "market": "Atlanta Braves vs. Minnesota Twins: O/U 8.5",
-      "prev": 0.53,
-      "now": 0.005,
-      "delta": -0.525,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 31199.34,
-      "liquidity": 112775.7
-    },
-    {
-      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Cincinnati Open: Completed Match: Jiri Lehecka vs Arthur Fils",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
+      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Set 1 Winner: Eala vs Anisimova",
+      "prev": 0.22,
+      "now": 0.995,
+      "delta": 0.775,
+      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 55.0,
-      "liquidity": 1984.06
+      "volume24hr": 3377.62,
+      "liquidity": 32431.61
     },
     {
-      "market": "Atlanta Braves vs. Minnesota Twins: O/U 13.5",
+      "market": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago Cubs (-1.5)",
+      "prev": 0.289,
+      "now": 0.9995,
+      "delta": 0.7105,
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 32238.1,
+      "liquidity": 69573.12
+    },
+    {
+      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Set 1 Winner: Paul vs Vallejo",
+      "prev": 0.665,
+      "now": 0.0005,
+      "delta": -0.6645,
+      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 512.4,
+      "liquidity": 16217.34
+    },
+    {
+      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 13.5",
+      "prev": 0.45,
+      "now": 0.9995,
+      "delta": 0.5495,
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 7374.55,
+      "liquidity": 20630.94
+    },
+    {
+      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 Spread: Los Angeles Dodgers (-7.5)",
+      "prev": 0.55,
+      "now": 0.005,
+      "delta": -0.545,
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 197.94,
+      "liquidity": 344.85
+    },
+    {
+      "market": "Chicago White Sox vs. Chicago Cubs",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 594249.33,
+      "liquidity": 464736.84
+    },
+    {
+      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Paul vs. Vallejo: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 83357.37,
+      "liquidity": 6554.68
+    },
+    {
+      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Paul vs. Vallejo: Set 1 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 600585.68,
-      "liquidity": 2813.12
-    },
-    {
-      "market": "Cancun: Lloyd Harris vs Abdullah Shelbayh \u2014 Cancun, Mexico, Qualifying: Completed Match: Lloyd Harris vs Abdullah Shelbayh",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-harri-shelba-2026-08-17",
+      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 164042.26,
-      "liquidity": 964.24
+      "volume24hr": 5.0,
+      "liquidity": 6909.45
     },
     {
-      "market": "Will the game go to extra innings?: Atlanta Braves vs. Minnesota Twins",
+      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Paul vs. Vallejo: Set 1 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 600585.68,
-      "liquidity": 1037.07
-    },
-    {
-      "market": "Atlanta Braves vs. Minnesota Twins: O/U 6.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 18.93,
-      "liquidity": 1615.23
+      "volume24hr": 83357.37,
+      "liquidity": 6920.01
     }
   ],
   "log": [
-    {
-      "ts": "20:00:01",
-      "text": " poll complete \u2014 1730 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 1730 markets scanned, 10 flagged"
@@ -270,6 +263,10 @@
     {
       "ts": "03:15:01",
       "text": " poll complete \u2014 1757 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:30:01",
+      "text": " poll complete \u2014 1711 markets scanned, 10 flagged"
     }
   ]
 }
