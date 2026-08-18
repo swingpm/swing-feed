@@ -1,11 +1,68 @@
 {
-  "lastUpdate": "2026-08-18 20:45:02 UTC",
+  "lastUpdate": "2026-08-18 21:00:02 UTC",
   "swings": [
     {
+      "market": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens \u2014 Marta Kostyuk vs. Sloane Stephens: Total Sets O/U 2.5",
+      "prev": 0.635,
+      "now": 0.0005,
+      "delta": -0.6345,
+      "url": "https://polymarket.com/event/wta-kostyuk-stephen-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 361.86,
+      "liquidity": 7524.89
+    },
+    {
+      "market": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens \u2014 Set 2 Winner: Kostyuk vs Stephens",
+      "prev": 0.385,
+      "now": 0.9995,
+      "delta": 0.6145,
+      "url": "https://polymarket.com/event/wta-kostyuk-stephen-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 519.92,
+      "liquidity": 4857.58
+    },
+    {
+      "market": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens \u2014 Set Handicap: Kostyuk (-1.5) vs Stephens (+1.5)",
+      "prev": 0.39,
+      "now": 0.9995,
+      "delta": 0.6095,
+      "url": "https://polymarket.com/event/wta-kostyuk-stephen-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 909.31,
+      "liquidity": 9051.53
+    },
+    {
+      "market": "Fenerbah\u00e7e SK vs. Olympique Lyonnais - More Markets \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/ucl-fen-lyo-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 9.33,
+      "liquidity": 4150.41
+    },
+    {
       "market": "PFK Levski Sofia vs. AEK - Exact Score \u2014 Exact Score: PFK Levski Sofia 0 - 3 AEK?",
-      "prev": 0.006,
-      "now": 0.5005,
-      "delta": 0.4945,
+      "prev": 0.5005,
+      "now": 0.0005,
+      "delta": -0.5,
       "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-exact-score",
       "tags": [
         "Sports",
@@ -13,150 +70,86 @@
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 1339.18,
-      "liquidity": 0.02
+      "volume24hr": 1359.18,
+      "liquidity": 1656.87
     },
     {
-      "market": "PFK Levski Sofia vs. AEK - Exact Score \u2014 Exact Score: PFK Levski Sofia 3 - 0 AEK?",
-      "prev": 0.0305,
-      "now": 0.5,
-      "delta": 0.4695,
-      "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-exact-score",
+      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: Any Other Score?",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 12925.3,
-      "liquidity": 235482.96
+      "volume24hr": 186.11,
+      "liquidity": 2045.79
     },
     {
-      "market": "GNK Dinamo Zagreb vs. Viking FK - More Markets \u2014 GNK Dinamo Zagreb vs. Viking FK: Viking FK O/U 2.5",
-      "prev": 0.575,
-      "now": 0.15,
-      "delta": -0.425,
-      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-more-markets",
+      "market": "PFK Levski Sofia vs. AEK - More Markets \u2014 PFK Levski Sofia vs. AEK: PFK Levski Sofia O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 1743.2,
-      "liquidity": 1483.3
+      "volume24hr": 236.99,
+      "liquidity": 15433.93
     },
     {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "market": "PFK Levski Sofia vs. AEK - More Markets \u2014 PFK Levski Sofia vs. AEK: AEK O/U 0.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 220373.12,
-      "liquidity": 113.67
+      "volume24hr": 626.3,
+      "liquidity": 13171.14
     },
     {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
+      "market": "PFK Levski Sofia vs. AEK - More Markets \u2014 PFK Levski Sofia vs. AEK: Both Teams to Score in Second Half",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 220373.12,
-      "liquidity": 113.67
+      "volume24hr": 398122.6,
+      "liquidity": 4243.55
     },
     {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "market": "PFK Levski Sofia vs. AEK - More Markets \u2014 PFK Levski Sofia vs. AEK: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 2550.52,
-      "liquidity": 950.07
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 220373.12,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 220373.12,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 220373.12,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 220373.12,
-      "liquidity": 113.67
+      "volume24hr": 54.0,
+      "liquidity": 4264.9
     }
   ],
   "log": [
-    {
-      "ts": "13:30:01",
-      "text": " poll complete \u2014 1709 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:45:02",
       "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
@@ -272,6 +265,10 @@
     {
       "ts": "20:45:02",
       "text": " poll complete \u2014 1813 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:00:02",
+      "text": " poll complete \u2014 1815 markets scanned, 10 flagged"
     }
   ]
 }
