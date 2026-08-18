@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 08:30:01 UTC",
+  "lastUpdate": "2026-08-18 08:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game Handicap: NS.EA (-1.5) vs DN SOOPers Challengers (+1.5)",
-      "prev": 0.515,
-      "now": 0.395,
-      "delta": -0.12,
+      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 1 Winner",
+      "prev": 0.455,
+      "now": 0.9995,
+      "delta": 0.5445,
       "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
       "tags": [
         "Esports",
@@ -13,46 +13,70 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 2230.93,
-      "liquidity": 806.92
+      "volume24hr": 207228.32,
+      "liquidity": 1112374.23
     },
     {
-      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 19\u00b0C on August 18?",
-      "prev": 0.248,
-      "now": 0.3665,
-      "delta": 0.1185,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
+      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game Handicap: NS.EA (-1.5) vs DN SOOPers Challengers (+1.5)",
+      "prev": 0.395,
+      "now": 0.0005,
+      "delta": -0.3945,
+      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 13944.31,
-      "liquidity": 1172.89
+      "volume24hr": 2232.12,
+      "liquidity": 47363.34
     },
     {
-      "market": "Bitcoin price on August 18? \u2014 Will the price of Bitcoin be between $62,000 and $64,000 on August 18?",
-      "prev": 0.38,
-      "now": 0.275,
-      "delta": -0.105,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-18-2026",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.205,
+      "delta": -0.295,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 6394.5,
-      "liquidity": 19218.75
+      "volume24hr": 432980.83,
+      "liquidity": 3.2
     },
     {
-      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Any Player Penta Kill?",
+      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prev": 0.355,
+      "now": 0.635,
+      "delta": 0.28,
+      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 152890.14,
+      "liquidity": 174335.41
+    },
+    {
+      "market": "Sion: Petr Nesterov vs Calvin Hemery \u2014 Petr Nesterov vs. Calvin Hemery: Total Sets O/U 2.5",
+      "prev": 0.48,
+      "now": 0.65,
+      "delta": 0.17,
+      "url": "https://polymarket.com/event/atp-nestero-hemery-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 47275.2,
+      "liquidity": 97.39
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Quadra Kill?",
       "prev": 0.1,
       "now": 0.0,
       "delta": -0.1,
@@ -63,17 +87,62 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5747178.52,
+      "volume24hr": 5717749.77,
       "liquidity": 0.0
     },
     {
-      "market": "Bitcoin above ___ on August 18? \u2014 Will the price of Bitcoin be above $64,000 on August 18?",
-      "prev": 0.615,
-      "now": 0.705,
-      "delta": 0.09,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-18-2026",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
-        "Bitcoin",
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5717749.77,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5717749.77,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Any Player Quadra Kill?",
+      "prev": 0.1,
+      "now": 0.005,
+      "delta": -0.095,
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5717749.77,
+      "liquidity": 77.93
+    },
+    {
+      "market": "Ethereum above ___ on August 18? \u2014 Will the price of Ethereum be above $1,900 on August 18?",
+      "prev": 0.435,
+      "now": 0.53,
+      "delta": 0.095,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-18-2026",
+      "tags": [
+        "Ethereum",
         "Weekly",
         "Multi Strikes",
         "Crypto",
@@ -81,100 +150,11 @@
         "Recurring",
         "Hide From New"
       ],
-      "volume24hr": 45096.65,
-      "liquidity": 27178.61
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 1 Winner",
-      "prev": 0.545,
-      "now": 0.455,
-      "delta": -0.09,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 83622.2,
-      "liquidity": 128333.27
-    },
-    {
-      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 21\u00b0C on August 18?",
-      "prev": 0.295,
-      "now": 0.205,
-      "delta": -0.09,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 9032.8,
-      "liquidity": 439.43
-    },
-    {
-      "market": "Bitcoin Up or Down on August 18?",
-      "prev": 0.465,
-      "now": 0.545,
-      "delta": 0.08,
-      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-18-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Up or Down",
-        "Today \ud83d\ude80",
-        "Daily",
-        "Daily-Close"
-      ],
-      "volume24hr": 226529.88,
-      "liquidity": 30667.38
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prev": 0.435,
-      "now": 0.355,
-      "delta": -0.08,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 115725.43,
-      "liquidity": 131674.27
-    },
-    {
-      "market": "Bitcoin price on August 18? \u2014 Will the price of Bitcoin be between $64,000 and $66,000 on August 18?",
-      "prev": 0.635,
-      "now": 0.715,
-      "delta": 0.08,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-18-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 4099.82,
-      "liquidity": 18935.15
+      "volume24hr": 12514.01,
+      "liquidity": 19504.33
     }
   ],
   "log": [
-    {
-      "ts": "01:15:01",
-      "text": " poll complete \u2014 1757 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:30:01",
       "text": " poll complete \u2014 1760 markets scanned, 10 flagged"
@@ -290,6 +270,10 @@
     {
       "ts": "08:30:01",
       "text": " poll complete \u2014 1574 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:45:01",
+      "text": " poll complete \u2014 1601 markets scanned, 10 flagged"
     }
   ]
 }
