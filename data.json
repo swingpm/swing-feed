@@ -1,45 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 07:15:01 UTC",
+  "lastUpdate": "2026-08-18 07:30:02 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 18?",
-      "prev": 0.3,
-      "now": 0.0005,
-      "delta": -0.2995,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 28512.03,
-      "liquidity": 15830.38
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 18?",
-      "prev": 0.705,
-      "now": 0.97,
-      "delta": 0.265,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 24098.03,
-      "liquidity": 2389.0
-    },
-    {
       "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 34\u00b0C on August 18?",
-      "prev": 0.92,
-      "now": 0.8,
-      "delta": -0.12,
+      "prev": 0.8,
+      "now": 0.635,
+      "delta": -0.165,
       "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
       "tags": [
         "Weather",
@@ -49,31 +15,14 @@
         "Shenzhen",
         "Highest temperature"
       ],
-      "volume24hr": 4995.69,
-      "liquidity": 211.09
-    },
-    {
-      "market": "Highest temperature in Taipei on August 18? \u2014 Will the highest temperature in Taipei be 35\u00b0C on August 18?",
-      "prev": 0.125,
-      "now": 0.005,
-      "delta": -0.12,
-      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-18-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Taipei",
-        "Highest temperature"
-      ],
-      "volume24hr": 2383.23,
-      "liquidity": 469.12
+      "volume24hr": 5657.11,
+      "liquidity": 115.3
     },
     {
       "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 35\u00b0C on August 18?",
-      "prev": 0.0695,
-      "now": 0.1775,
-      "delta": 0.108,
+      "prev": 0.1775,
+      "now": 0.298,
+      "delta": 0.1205,
       "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
       "tags": [
         "Weather",
@@ -83,48 +32,14 @@
         "Shenzhen",
         "Highest temperature"
       ],
-      "volume24hr": 8150.99,
-      "liquidity": 213.94
+      "volume24hr": 9179.6,
+      "liquidity": 182.67
     },
     {
-      "market": "Highest temperature in Taipei on August 18? \u2014 Will the highest temperature in Taipei be 34\u00b0C on August 18?",
-      "prev": 0.88,
-      "now": 0.985,
-      "delta": 0.105,
-      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-18-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Taipei",
-        "Highest temperature"
-      ],
-      "volume24hr": 3901.06,
-      "liquidity": 424.54
-    },
-    {
-      "market": "Highest temperature in Chengdu on August 18? \u2014 Will the highest temperature in Chengdu be 24\u00b0C on August 18?",
-      "prev": 0.1,
-      "now": 0.175,
-      "delta": 0.075,
-      "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-18-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Chengdu",
-        "Highest temperature"
-      ],
-      "volume24hr": 4040.4,
-      "liquidity": 325.37
-    },
-    {
-      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 19\u00b0C on August 18?",
-      "prev": 0.1785,
-      "now": 0.1115,
-      "delta": -0.067,
+      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 20\u00b0C on August 18?",
+      "prev": 0.32,
+      "now": 0.215,
+      "delta": -0.105,
       "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
       "tags": [
         "Weather",
@@ -134,14 +49,84 @@
         "Munich",
         "Highest temperature"
       ],
-      "volume24hr": 11289.66,
-      "liquidity": 1286.61
+      "volume24hr": 6262.01,
+      "liquidity": 914.67
     },
     {
-      "market": "Highest temperature in Chengdu on August 18? \u2014 Will the highest temperature in Chengdu be 23\u00b0C on August 18?",
-      "prev": 0.87,
-      "now": 0.805,
-      "delta": -0.065,
+      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 21\u00b0C on August 18?",
+      "prev": 0.39,
+      "now": 0.455,
+      "delta": 0.065,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 8770.94,
+      "liquidity": 812.95
+    },
+    {
+      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 22\u00b0C on August 18?",
+      "prev": 0.16,
+      "now": 0.225,
+      "delta": 0.065,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 5376.71,
+      "liquidity": 919.73
+    },
+    {
+      "market": "What will WTI Crude Oil (WTI) hit Week of August 17 2026? \u2014 Will WTI Crude Oil (WTI) hit (LOW) $80 Week of August 17 2026?",
+      "prev": 0.245,
+      "now": 0.28,
+      "delta": 0.035,
+      "url": "https://polymarket.com/event/will-wti-hit-week-of-august-17-2026",
+      "tags": [
+        "Finance",
+        "Weekly",
+        "Hit Price",
+        "Hide From New",
+        "Finance Updown",
+        "Pyth Finance",
+        "Commodities",
+        "Oil"
+      ],
+      "volume24hr": 2285.57,
+      "liquidity": 2629.55
+    },
+    {
+      "market": "Highest temperature in London on August 18? \u2014 Will the highest temperature in London be 24\u00b0C on August 18?",
+      "prev": 0.281,
+      "now": 0.3125,
+      "delta": 0.0315,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 14866.26,
+      "liquidity": 2210.28
+    },
+    {
+      "market": "Highest temperature in Chengdu on August 18? \u2014 Will the highest temperature in Chengdu be 24\u00b0C on August 18?",
+      "prev": 0.175,
+      "now": 0.145,
+      "delta": -0.03,
       "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-18-2026",
       "tags": [
         "Weather",
@@ -151,15 +136,11 @@
         "Chengdu",
         "Highest temperature"
       ],
-      "volume24hr": 10819.95,
-      "liquidity": 315.43
+      "volume24hr": 4248.83,
+      "liquidity": 253.55
     }
   ],
   "log": [
-    {
-      "ts": "00:00:02",
-      "text": " poll complete \u2014 1667 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:15:01",
       "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
@@ -275,6 +256,10 @@
     {
       "ts": "07:15:01",
       "text": " poll complete \u2014 1582 markets scanned, 9 flagged"
+    },
+    {
+      "ts": "07:30:02",
+      "text": " poll complete \u2014 1565 markets scanned, 8 flagged"
     }
   ]
 }
