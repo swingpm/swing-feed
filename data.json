@@ -1,152 +1,152 @@
 {
-  "lastUpdate": "2026-08-18 04:15:01 UTC",
+  "lastUpdate": "2026-08-18 04:30:01 UTC",
   "swings": [
     {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Paige Bueckers: Points O/U 18.5",
+      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 2: Any Player Quadra Kill?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 131077.11,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 131077.11,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 3: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 131077.11,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 131077.11,
+      "liquidity": 113.67
+    },
+    {
+      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Jessica Shepard: Assists O/U 3.5",
+      "prev": 0.46,
+      "now": 0.09,
+      "delta": -0.37,
       "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "WNBA"
       ],
-      "volume24hr": 473.09,
-      "liquidity": 1306.15
+      "volume24hr": 74.61,
+      "liquidity": 437.11
     },
     {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Paul vs. Vallejo: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Cecilia Zandalasini: Points O/U 9.5",
+      "prev": 0.45,
+      "now": 0.095,
+      "delta": -0.355,
+      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA"
+      ],
+      "volume24hr": 888889.3,
+      "liquidity": 413.67
+    },
+    {
+      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Jessica Shepard: Rebounds O/U 10.5",
+      "prev": 0.45,
+      "now": 0.095,
+      "delta": -0.355,
+      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA"
+      ],
+      "volume24hr": 888889.3,
+      "liquidity": 413.67
+    },
+    {
+      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Jessica Shepard: Rebounds O/U 9.5",
+      "prev": 0.45,
+      "now": 0.095,
+      "delta": -0.355,
+      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA"
+      ],
+      "volume24hr": 45.53,
+      "liquidity": 413.67
+    },
+    {
+      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Jessica Shepard: Assists O/U 4.5",
+      "prev": 0.451,
+      "now": 0.099,
+      "delta": -0.352,
+      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA"
+      ],
+      "volume24hr": 274.66,
+      "liquidity": 776.08
+    },
+    {
+      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+      "prev": 0.735,
+      "now": 0.485,
+      "delta": -0.25,
       "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 330780.07,
-      "liquidity": 3436.58
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Paul vs. Vallejo: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 330780.07,
-      "liquidity": 3368.42
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Paul vs. Vallejo: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 330780.07,
-      "liquidity": 3441.53
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Arike Ogunbowale: Points O/U 15.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 857547.17,
-      "liquidity": 913.54
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Veronica Burton: Points O/U 13.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 26.32,
-      "liquidity": 498.44
-    },
-    {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Eala vs. Anisimova: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1000059.37,
-      "liquidity": 3106.55
-    },
-    {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Eala vs. Anisimova: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1000059.37,
-      "liquidity": 3090.55
-    },
-    {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Eala vs. Anisimova: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1000059.37,
-      "liquidity": 3115.3
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Paige Bueckers: Points O/U 19.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 6.34,
-      "liquidity": 243.95
+      "volume24hr": 359608.57,
+      "liquidity": 355873.01
     }
   ],
   "log": [
-    {
-      "ts": "21:00:02",
-      "text": " poll complete \u2014 1637 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:15:02",
       "text": " poll complete \u2014 1640 markets scanned, 10 flagged"
@@ -262,6 +262,10 @@
     {
       "ts": "04:15:01",
       "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:30:01",
+      "text": " poll complete \u2014 1677 markets scanned, 10 flagged"
     }
   ]
 }
