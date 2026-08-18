@@ -1,69 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 03:30:01 UTC",
+  "lastUpdate": "2026-08-18 03:45:01 UTC",
   "swings": [
     {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 14.5",
-      "prev": 0.16,
-      "now": 0.995,
-      "delta": 0.835,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2114.95,
-      "liquidity": 170.12
-    },
-    {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Set 1 Winner: Eala vs Anisimova",
-      "prev": 0.22,
-      "now": 0.995,
-      "delta": 0.775,
-      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 3377.62,
-      "liquidity": 32431.61
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago Cubs (-1.5)",
-      "prev": 0.289,
-      "now": 0.9995,
-      "delta": 0.7105,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 32238.1,
-      "liquidity": 69573.12
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Set 1 Winner: Paul vs Vallejo",
-      "prev": 0.665,
+      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 Spread: Los Angeles Dodgers (-6.5)",
+      "prev": 0.78,
       "now": 0.0005,
-      "delta": -0.6645,
-      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 512.4,
-      "liquidity": 16217.34
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 13.5",
-      "prev": 0.45,
-      "now": 0.9995,
-      "delta": 0.5495,
+      "delta": -0.7795,
       "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
       "tags": [
         "Sports",
@@ -71,87 +13,145 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 7374.55,
-      "liquidity": 20630.94
+      "volume24hr": 313.71,
+      "liquidity": 3873.92
     },
     {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 Spread: Los Angeles Dodgers (-7.5)",
-      "prev": 0.55,
-      "now": 0.005,
-      "delta": -0.545,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: Club Puebla 1st Half O/U 1.5",
+      "prev": 0.225,
+      "now": 0.9955,
+      "delta": 0.7705,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 197.94,
-      "liquidity": 344.85
+      "volume24hr": 141450.74,
+      "liquidity": 1430.58
     },
     {
-      "market": "Chicago White Sox vs. Chicago Cubs",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 594249.33,
-      "liquidity": 464736.84
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Paul vs. Vallejo: Set 1 Games O/U 8.5",
+      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 15.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
-      ],
-      "volume24hr": 83357.37,
-      "liquidity": 6554.68
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Paul vs. Vallejo: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
       "volume24hr": 5.0,
-      "liquidity": 6909.45
+      "liquidity": 7895.99
     },
     {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Paul vs. Vallejo: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: Club Puebla O/U 1.5",
+      "prev": 0.515,
+      "now": 0.9995,
+      "delta": 0.4845,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 83357.37,
-      "liquidity": 6920.01
+      "volume24hr": 445.49,
+      "liquidity": 12632.75
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: 1st Half O/U 1.5",
+      "prev": 0.555,
+      "now": 0.9995,
+      "delta": 0.4445,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 5519.8,
+      "liquidity": 132553.52
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca 1st Half O/U 1.5",
+      "prev": 0.115,
+      "now": 0.5,
+      "delta": 0.385,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 141450.74,
+      "liquidity": 838378.82
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla \u2014 Will Club Puebla win on 2026-08-17?",
+      "prev": 0.385,
+      "now": 0.685,
+      "delta": 0.3,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 58870.35,
+      "liquidity": 105355.38
+    },
+    {
+      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 Spread: Los Angeles Dodgers (-5.5)",
+      "prev": 0.7,
+      "now": 0.9995,
+      "delta": 0.2995,
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 4305.95,
+      "liquidity": 2821.69
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: Club Puebla O/U 2.5",
+      "prev": 0.155,
+      "now": 0.425,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 1610.85,
+      "liquidity": 1894.93
+    },
+    {
+      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Spread: Golden State Valkyries (-7.5)",
+      "prev": 0.635,
+      "now": 0.885,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA"
+      ],
+      "volume24hr": 27957.6,
+      "liquidity": 144705.34
     }
   ],
   "log": [
-    {
-      "ts": "20:15:02",
-      "text": " poll complete \u2014 1730 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:30:02",
       "text": " poll complete \u2014 1736 markets scanned, 10 flagged"
@@ -267,6 +267,10 @@
     {
       "ts": "03:30:01",
       "text": " poll complete \u2014 1711 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:45:01",
+      "text": " poll complete \u2014 1693 markets scanned, 10 flagged"
     }
   ]
 }
