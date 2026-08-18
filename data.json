@@ -1,165 +1,148 @@
 {
-  "lastUpdate": "2026-08-18 13:30:01 UTC",
+  "lastUpdate": "2026-08-18 13:45:02 UTC",
   "swings": [
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 1 Games O/U 9.5",
+      "market": "Roehampton: Alec Deckers vs Patrick Brady \u2014 Roehampton: Completed Match: Alec Deckers vs Patrick Brady",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "url": "https://polymarket.com/event/atp-deckers-brady-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 309058.11,
-      "liquidity": 5862.09
+      "volume24hr": 200.0,
+      "liquidity": 969.04
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 1 Games O/U 10.5",
+      "market": "Roehampton: Alec Deckers vs Patrick Brady \u2014 Alec Deckers vs. Patrick Brady: Total Sets O/U 2.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 309058.11,
-      "liquidity": 5253.74
-    },
-    {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Set 1 Winner: Brunclik vs Kumstat",
-      "prev": 0.49,
       "now": 0.0005,
-      "delta": -0.4895,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-deckers-brady-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 815.84,
-      "liquidity": 13255.2
+      "volume24hr": 106527.26,
+      "liquidity": 5779.05
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 3: Both Teams Destroy Inhibitors?",
+      "market": "Roehampton: Alec Deckers vs Patrick Brady \u2014 Set 2 Winner: Deckers vs Brady",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-deckers-brady-2026-08-18",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 1899989.23,
-      "liquidity": 113.67
+      "volume24hr": 106527.26,
+      "liquidity": 2668.33
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 1 Games O/U 8.5",
-      "prev": 0.645,
+      "market": "Roehampton: Alec Deckers vs Patrick Brady \u2014 Set Handicap: Brady (-1.5) vs Deckers (+1.5)",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.3545,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-deckers-brady-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 53.36,
-      "liquidity": 5869.58
+      "volume24hr": 14.14,
+      "liquidity": 4335.38
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat",
-      "prev": 0.44,
-      "now": 0.175,
-      "delta": -0.265,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "market": "Prague 2: Filip Jianu vs Andrej Martin \u2014 Prague 2: Completed Match: Filip Jianu vs Andrej Martin",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-jianu-mar-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 305870.27,
-      "liquidity": 437203.76
+      "volume24hr": 1095.0,
+      "liquidity": 3650.18
     },
     {
-      "market": "Highest temperature in London on August 18? \u2014 Will the highest temperature in London be 24\u00b0C on August 18?",
-      "prev": 0.1525,
-      "now": 0.0015,
-      "delta": -0.151,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-18-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 19520.22,
-      "liquidity": 6001.55
-    },
-    {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Rublev vs. Borges: Set 1 Games O/U 8.5",
-      "prev": 0.845,
-      "now": 0.7,
-      "delta": -0.145,
-      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
+      "market": "Prague 2: Filip Jianu vs Andrej Martin \u2014 Jianu vs. Martin: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jianu-mar-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 166346.34,
-      "liquidity": 2690.58
+      "volume24hr": 94936.8,
+      "liquidity": 5794.61
     },
     {
-      "market": "Highest temperature in London on August 18? \u2014 Will the highest temperature in London be 25\u00b0C on August 18?",
-      "prev": 0.645,
-      "now": 0.79,
-      "delta": 0.145,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-18-2026",
+      "market": "Prague 2: Filip Jianu vs Andrej Martin \u2014 Set Handicap: Jianu (-1.5) vs Martin (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-jianu-mar-2026-08-18",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 8820.59,
-      "liquidity": 432.75
+      "volume24hr": 196.09,
+      "liquidity": 4348.17
     },
     {
-      "market": "Bitcoin Up or Down on August 18?",
-      "prev": 0.495,
-      "now": 0.375,
-      "delta": -0.12,
-      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-18-2026",
+      "market": "Prague 2: Filip Jianu vs Andrej Martin \u2014 Jianu vs. Martin: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jianu-mar-2026-08-18",
       "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Up or Down",
-        "Today \ud83d\ude80",
-        "Daily",
-        "Daily-Close"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 252269.59,
-      "liquidity": 22289.81
+      "volume24hr": 94936.8,
+      "liquidity": 2694.87
+    },
+    {
+      "market": "Prague 2: Filip Jianu vs Andrej Martin \u2014 Jianu vs. Martin: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jianu-mar-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 94936.8,
+      "liquidity": 2684.31
+    },
+    {
+      "market": "Prague 2: Filip Jianu vs Andrej Martin \u2014 Jianu vs. Martin: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jianu-mar-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 94936.8,
+      "liquidity": 5784.05
     }
   ],
   "log": [
-    {
-      "ts": "06:15:01",
-      "text": " poll complete \u2014 1608 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:30:01",
       "text": " poll complete \u2014 1601 markets scanned, 10 flagged"
@@ -275,6 +258,10 @@
     {
       "ts": "13:30:01",
       "text": " poll complete \u2014 1709 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:45:02",
+      "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
     }
   ]
 }
