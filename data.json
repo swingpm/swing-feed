@@ -1,59 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 05:45:01 UTC",
+  "lastUpdate": "2026-08-18 06:00:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Seoul (Incheon) on August 18? \u2014 Will the highest temperature in Seoul (Incheon) be 31\u00b0C on August 18?",
-      "prev": 0.375,
-      "now": 0.97,
-      "delta": 0.595,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-18-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 9649.34,
-      "liquidity": 1153.13
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 18? \u2014 Will the highest temperature in Seoul (Incheon) be 30\u00b0C on August 18?",
-      "prev": 0.57,
-      "now": 0.0005,
-      "delta": -0.5695,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-18-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 10221.53,
-      "liquidity": 15831.48
-    },
-    {
-      "market": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin \u2014 ITF M15 Maanshan 7 Men, Qualifying: Completed Match: Hanlei Lu vs Vladimir Osminkin",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/itf-hanleil-osminki-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 418823.55,
-      "liquidity": 453.27
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 30\u00b0C on August 18?",
-      "prev": 0.5295,
-      "now": 0.085,
-      "delta": -0.4445,
+      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 18?",
+      "prev": 0.19,
+      "now": 0.605,
+      "delta": 0.415,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
       "tags": [
         "Weather",
@@ -63,14 +15,14 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 44836.07,
-      "liquidity": 1459.14
+      "volume24hr": 15270.4,
+      "liquidity": 388.83
     },
     {
       "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 18?",
-      "prev": 0.395,
-      "now": 0.655,
-      "delta": 0.26,
+      "prev": 0.655,
+      "now": 0.315,
+      "delta": -0.34,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
       "tags": [
         "Weather",
@@ -80,48 +32,45 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 18632.43,
-      "liquidity": 423.24
+      "volume24hr": 18391.44,
+      "liquidity": 321.72
     },
     {
-      "market": "Highest temperature in Tokyo on August 18? \u2014 Will the highest temperature in Tokyo be 31\u00b0C on August 18?",
-      "prev": 0.695,
-      "now": 0.89,
-      "delta": 0.195,
-      "url": "https://polymarket.com/event/highest-temperature-in-tokyo-on-august-18-2026",
+      "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 34\u00b0C on August 18?",
+      "prev": 0.94,
+      "now": 0.815,
+      "delta": -0.125,
+      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
       "tags": [
         "Weather",
         "Recurring",
         "Hide From New",
         "Daily Temperature",
-        "Tokyo",
+        "Shenzhen",
         "Highest temperature"
       ],
-      "volume24hr": 5698.56,
-      "liquidity": 182.09
+      "volume24hr": 2629.65,
+      "liquidity": 145.31
     },
     {
-      "market": "Highest temperature in Tokyo on August 18? \u2014 Will the highest temperature in Tokyo be 32\u00b0C on August 18?",
-      "prev": 0.28,
-      "now": 0.11,
-      "delta": -0.17,
-      "url": "https://polymarket.com/event/highest-temperature-in-tokyo-on-august-18-2026",
+      "market": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin \u2014 ITF M15 Maanshan 7 Men, Qualifying: Completed Match: Hanlei Lu vs Vladimir Osminkin",
+      "prev": 0.0005,
+      "now": 0.1,
+      "delta": 0.0995,
+      "url": "https://polymarket.com/event/itf-hanleil-osminki-2026-08-18",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Tokyo",
-        "Highest temperature"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 6240.36,
-      "liquidity": 498.24
+      "volume24hr": 419365.11,
+      "liquidity": 443.27
     },
     {
-      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 18?",
-      "prev": 0.08,
-      "now": 0.19,
-      "delta": 0.11,
+      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 18?",
+      "prev": 0.0245,
+      "now": 0.1205,
+      "delta": 0.096,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
       "tags": [
         "Weather",
@@ -131,43 +80,97 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 14879.13,
-      "liquidity": 459.76
+      "volume24hr": 15737.46,
+      "liquidity": 388.4
     },
     {
-      "market": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin \u2014 Lu vs. Osminkin: Set 1 Games O/U 8.5",
-      "prev": 0.905,
-      "now": 1.0,
-      "delta": 0.095,
-      "url": "https://polymarket.com/event/itf-hanleil-osminki-2026-08-18",
+      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 30\u00b0C on August 18?",
+      "prev": 0.085,
+      "now": 0.0015,
+      "delta": -0.0835,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
       ],
-      "volume24hr": 418823.55,
-      "liquidity": 0.0
+      "volume24hr": 50058.32,
+      "liquidity": 15476.4
     },
     {
-      "market": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
-      "prev": 0.915,
-      "now": 0.9955,
-      "delta": 0.0805,
-      "url": "https://polymarket.com/event/itf-hanleil-osminki-2026-08-18",
+      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 19\u00b0C on August 18?",
+      "prev": 0.1635,
+      "now": 0.0885,
+      "delta": -0.075,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
       ],
-      "volume24hr": 418561.55,
-      "liquidity": 15190.77
+      "volume24hr": 10233.83,
+      "liquidity": 1232.72
+    },
+    {
+      "market": "Ethereum above ___ on August 18? \u2014 Will the price of Ethereum be above $1,900 on August 18?",
+      "prev": 0.365,
+      "now": 0.43,
+      "delta": 0.065,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-18-2026",
+      "tags": [
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 5118.47,
+      "liquidity": 18871.07
+    },
+    {
+      "market": "Highest temperature in Shanghai on August 18? \u2014 Will the highest temperature in Shanghai be 32\u00b0C on August 18?",
+      "prev": 0.115,
+      "now": 0.05,
+      "delta": -0.065,
+      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shanghai",
+        "Highest temperature"
+      ],
+      "volume24hr": 12097.89,
+      "liquidity": 832.83
+    },
+    {
+      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 21\u00b0C on August 18?",
+      "prev": 0.355,
+      "now": 0.415,
+      "delta": 0.06,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 8554.37,
+      "liquidity": 598.92
     }
   ],
   "log": [
-    {
-      "ts": "22:30:01",
-      "text": " poll complete \u2014 1667 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:45:02",
       "text": " poll complete \u2014 1651 markets scanned, 10 flagged"
@@ -283,6 +286,10 @@
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1651 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:00:01",
+      "text": " poll complete \u2014 1655 markets scanned, 10 flagged"
     }
   ]
 }
