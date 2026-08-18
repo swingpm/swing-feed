@@ -1,41 +1,125 @@
 {
-  "lastUpdate": "2026-08-18 14:30:02 UTC",
+  "lastUpdate": "2026-08-18 14:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Counter-Strike: Omega vs Fire Flux Esports - Map 1 Winner",
-      "prev": 0.515,
-      "now": 0.0005,
-      "delta": -0.5145,
-      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
+      "market": "Thailand vs. Singapore \u2014 Will Singapore win on 2026-08-18?",
+      "prev": 0.195,
+      "now": 0.755,
+      "delta": 0.56,
+      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "ASEAN Championship"
       ],
-      "volume24hr": 81495.14,
-      "liquidity": 351073.12
+      "volume24hr": 83917.13,
+      "liquidity": 75403.52
     },
     {
-      "market": "Counter-Strike: Metizport vs Donstu Esports (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 1 Rounds Handicap: Metizport (-3.5) vs Donstu Esports (+3.5)",
+      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Thailand O/U 2.5",
+      "prev": 0.55,
+      "now": 0.045,
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "ASEAN Championship"
+      ],
+      "volume24hr": 14.42,
+      "liquidity": 594.62
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 110770.45,
+      "liquidity": 5430.24
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 110770.45,
+      "liquidity": 5503.36
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 110770.45,
+      "liquidity": 5576.47
+    },
+    {
+      "market": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe \u2014 Set 2 Winner: Batalla vs Papoe",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-mzp-don-2026-08-18",
+      "url": "https://polymarket.com/event/atp-batalla-papoe-2026-08-18",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 652.13
+      "volume24hr": 274709.0,
+      "liquidity": 2001.38
     },
     {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: 2nd Half O/U 0.5",
+      "market": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe \u2014 Batalla vs. Papoe: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-batalla-papoe-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 274709.0,
+      "liquidity": 1878.78
+    },
+    {
+      "market": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe \u2014 Batalla vs. Papoe: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-batalla-papoe-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 274709.0,
+      "liquidity": 1878.78
+    },
+    {
+      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -43,14 +127,14 @@
         "Soccer",
         "ASEAN Championship"
       ],
-      "volume24hr": 130921.45,
-      "liquidity": 1714.98
+      "volume24hr": 171079.95,
+      "liquidity": 2250.78
     },
     {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Thailand 2nd Half O/U 0.5",
+      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -58,105 +142,11 @@
         "Soccer",
         "ASEAN Championship"
       ],
-      "volume24hr": 130921.45,
-      "liquidity": 1721.98
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 3: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1026380.74,
-      "liquidity": 117.74
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1026380.74,
-      "liquidity": 117.74
-    },
-    {
-      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Map 1 Total Rounds: Over/Under 33.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 138643.06,
-      "liquidity": 212.67
-    },
-    {
-      "market": "Counter-Strike: Metizport vs Donstu Esports (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 1 Rounds Handicap: Donstu Esports (-3.5) vs Metizport (+3.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-mzp-don-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 443.32
-    },
-    {
-      "market": "Counter-Strike: Metizport vs Donstu Esports (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 1 Total Rounds: Over/Under 33.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-mzp-don-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 77357.96,
-      "liquidity": 213.67
-    },
-    {
-      "market": "Counter-Strike: Metizport vs Donstu Esports (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 1 Total Rounds: Over/Under 27.5",
-      "prev": 0.505,
-      "now": 0.9,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/cs2-mzp-don-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 77357.96,
-      "liquidity": 556.27
+      "volume24hr": 171079.95,
+      "liquidity": 2243.79
     }
   ],
   "log": [
-    {
-      "ts": "07:15:01",
-      "text": " poll complete \u2014 1582 markets scanned, 9 flagged"
-    },
     {
       "ts": "07:30:02",
       "text": " poll complete \u2014 1565 markets scanned, 8 flagged"
@@ -272,6 +262,10 @@
     {
       "ts": "14:30:02",
       "text": " poll complete \u2014 1679 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:45:01",
+      "text": " poll complete \u2014 1672 markets scanned, 10 flagged"
     }
   ]
 }
