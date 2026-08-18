@@ -1,152 +1,156 @@
 {
-  "lastUpdate": "2026-08-18 18:45:02 UTC",
+  "lastUpdate": "2026-08-18 19:00:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Set Handicap: Andreeva (-1.5) vs Tjen (+1.5)",
-      "prev": 0.38,
-      "now": 0.9995,
-      "delta": 0.6195,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 2092.76,
-      "liquidity": 19297.04
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 684740.74,
-      "liquidity": 6383.21
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Janice Tjen vs. Mirra Andreeva: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 759.32,
-      "liquidity": 7323.78
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 684740.74,
-      "liquidity": 6826.37
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 684740.74,
-      "liquidity": 6393.6
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Cincinnati Open: Completed Match: Janice Tjen vs Mirra Andreeva",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 50.0,
-      "liquidity": 2057.11
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Set 2 Winner: Tjen vs Andreeva",
-      "prev": 0.36,
+      "market": "Cincinnati Open: Xiyu Wang vs Elina Svitolina \u2014 Cincinnati Open: Completed Match: Xiyu Wang vs Elina Svitolina",
+      "prev": 0.495,
       "now": 0.005,
-      "delta": -0.355,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "delta": -0.49,
+      "url": "https://polymarket.com/event/wta-wan-svitoli-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1170.91,
-      "liquidity": 3724.93
+      "volume24hr": 260.0,
+      "liquidity": 1029.65
     },
     {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Set 2 Games O/U 8.5",
+      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 72468.98,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 72468.98,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 72468.98,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 72468.98,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 72468.98,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 72468.98,
+      "liquidity": 113.67
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev \u2014 Nakashima vs. Medvedev: Match O/U 21.5",
+      "prev": 0.795,
+      "now": 0.5,
+      "delta": -0.295,
+      "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 505.77,
+      "liquidity": 526600.05
+    },
+    {
+      "market": "LoL: BOMBA Team vs Lodis (BO3) - Rift Legends Regular Season \u2014 LoL: BOMBA Team vs Lodis - Game 2 Winner",
+      "prev": 0.715,
+      "now": 0.445,
+      "delta": -0.27,
+      "url": "https://polymarket.com/event/lol-bombat-lds-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 31285.07,
+      "liquidity": 134772.46
+    },
+    {
+      "market": "LoL: BOMBA Team vs Lodis (BO3) - Rift Legends Regular Season \u2014 Game Handicap: BOOM (-1.5) vs Lodis (+1.5)",
       "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "now": 0.5,
+      "delta": -0.25,
+      "url": "https://polymarket.com/event/lol-bombat-lds-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 684740.74,
-      "liquidity": 7189.55
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Set 2 Games O/U 9.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 684740.74,
-      "liquidity": 7251.21
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Tjen vs. Andreeva: Set 2 Games O/U 10.5",
-      "prev": 0.755,
-      "now": 0.9995,
-      "delta": 0.2445,
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 684740.74,
-      "liquidity": 7196.18
+      "volume24hr": 3.85,
+      "liquidity": 611407.96
     }
   ],
   "log": [
-    {
-      "ts": "11:30:01",
-      "text": " poll complete \u2014 1654 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1654 markets scanned, 10 flagged"
@@ -262,6 +266,10 @@
     {
       "ts": "18:45:02",
       "text": " poll complete \u2014 1810 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:00:01",
+      "text": " poll complete \u2014 1799 markets scanned, 10 flagged"
     }
   ]
 }
