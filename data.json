@@ -1,160 +1,171 @@
 {
-  "lastUpdate": "2026-08-18 05:15:01 UTC",
+  "lastUpdate": "2026-08-18 05:30:02 UTC",
   "swings": [
     {
-      "market": "CF Pachuca vs. Club Puebla - Exact Score \u2014 Exact Score: CF Pachuca 2 - 3 Club Puebla?",
-      "prev": 0.094,
-      "now": 0.9995,
-      "delta": 0.9055,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 2221.59,
-      "liquidity": 27888.09
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla \u2014 Will Club Puebla win on 2026-08-17?",
-      "prev": 0.095,
-      "now": 0.9995,
-      "delta": 0.9045,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 243535.36,
-      "liquidity": 610625.69
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: Club Puebla O/U 2.5",
-      "prev": 0.13,
-      "now": 0.9995,
-      "delta": 0.8695,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 2517.04,
-      "liquidity": 30686.45
-    },
-    {
-      "market": "Will CF Pachuca vs. Club Puebla end in a draw?",
-      "prev": 0.685,
-      "now": 0.0005,
-      "delta": -0.6845,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 64846.8,
-      "liquidity": 316028.61
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: O/U 4.5",
-      "prev": 0.34,
-      "now": 0.9995,
-      "delta": 0.6595,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 75483.3,
-      "liquidity": 223090.02
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla - Exact Score \u2014 Exact Score: CF Pachuca 2 - 2 Club Puebla?",
-      "prev": 0.624,
-      "now": 0.0005,
-      "delta": -0.6235,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 1969.31,
-      "liquidity": 12572.71
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo \u2014 Cincinnati Open: Completed Match: Tommy Paul vs Adolfo Vallejo",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 565427.41,
-      "liquidity": 978.94
-    },
-    {
-      "market": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin \u2014 Set 1 Winner: Lu vs Osminkin",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "market": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
+      "prev": 0.425,
+      "now": 0.915,
+      "delta": 0.49,
       "url": "https://polymarket.com/event/itf-hanleil-osminki-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 377337.2,
-      "liquidity": 1555.07
+      "volume24hr": 395084.2,
+      "liquidity": 45054.84
     },
     {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "market": "Highest temperature in Seoul (Incheon) on August 18? \u2014 Will the highest temperature in Seoul (Incheon) be 30\u00b0C on August 18?",
+      "prev": 0.735,
+      "now": 0.57,
+      "delta": -0.165,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-18-2026",
       "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 367906.6,
-      "liquidity": 3135.09
+      "volume24hr": 9184.51,
+      "liquidity": 192.84
     },
     {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
+      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 30\u00b0C on August 18?",
+      "prev": 0.677,
+      "now": 0.5295,
+      "delta": -0.1475,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
       "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
       ],
-      "volume24hr": 367906.6,
-      "liquidity": 3142.09
+      "volume24hr": 39710.61,
+      "liquidity": 885.69
+    },
+    {
+      "market": "Highest temperature in Seoul (Incheon) on August 18? \u2014 Will the highest temperature in Seoul (Incheon) be 31\u00b0C on August 18?",
+      "prev": 0.24,
+      "now": 0.375,
+      "delta": 0.135,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 9260.8,
+      "liquidity": 214.83
+    },
+    {
+      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 LoL: 3v Team vs LYON Academy - Game 4 Winner",
+      "prev": 0.385,
+      "now": 0.5,
+      "delta": 0.115,
+      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 491.4,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 3: Both Teams Slay a Dragon?",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 65.0,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Elon Musk # tweets August 11 - August 18, 2026? \u2014 Will Elon Musk post 160-179 tweets from August 11 to August 18, 2026?",
+      "prev": 0.775,
+      "now": 0.69,
+      "delta": -0.085,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-11-august-18",
+      "tags": [
+        "Culture",
+        "Politics",
+        "Tweet Markets"
+      ],
+      "volume24hr": 75907.19,
+      "liquidity": 7964.09
+    },
+    {
+      "market": "Elon Musk # tweets August 11 - August 18, 2026? \u2014 Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
+      "prev": 0.205,
+      "now": 0.287,
+      "delta": 0.082,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-11-august-18",
+      "tags": [
+        "Culture",
+        "Politics",
+        "Tweet Markets"
+      ],
+      "volume24hr": 157154.48,
+      "liquidity": 13120.0
+    },
+    {
+      "market": "Next round of US-Iran peace talks by...? \u2014 US x Iran diplomatic meeting by December 31, 2026?",
+      "prev": 0.685,
+      "now": 0.635,
+      "delta": -0.05,
+      "url": "https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+      "tags": [
+        "Iran",
+        "Trump",
+        "Vance",
+        "US-Iran",
+        "Politics",
+        "Peace Deal",
+        "Geopolitics",
+        "U.S. x Iran",
+        "Iran Ceasefire",
+        "meeting",
+        "meet",
+        "Diplomatic meeting"
+      ],
+      "volume24hr": 3265.94,
+      "liquidity": 40168.77
+    },
+    {
+      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 18?",
+      "prev": 0.035,
+      "now": 0.08,
+      "delta": 0.045,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 13388.35,
+      "liquidity": 396.43
     }
   ],
   "log": [
-    {
-      "ts": "22:00:01",
-      "text": " poll complete \u2014 1637 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1662 markets scanned, 10 flagged"
@@ -270,6 +281,10 @@
     {
       "ts": "05:15:01",
       "text": " poll complete \u2014 1660 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:30:02",
+      "text": " poll complete \u2014 1656 markets scanned, 10 flagged"
     }
   ]
 }
