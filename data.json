@@ -1,129 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 19:00:01 UTC",
+  "lastUpdate": "2026-08-18 19:15:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Xiyu Wang vs Elina Svitolina \u2014 Cincinnati Open: Completed Match: Xiyu Wang vs Elina Svitolina",
-      "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/wta-wan-svitoli-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 260.0,
-      "liquidity": 1029.65
-    },
-    {
-      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 72468.98,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 72468.98,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 72468.98,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 72468.98,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 72468.98,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: Bushido Wildcats vs Team Phoenix (BO5) - TCL Playoffs \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-bw-phx2-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 72468.98,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev \u2014 Nakashima vs. Medvedev: Match O/U 21.5",
-      "prev": 0.795,
-      "now": 0.5,
-      "delta": -0.295,
-      "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 505.77,
-      "liquidity": 526600.05
-    },
-    {
-      "market": "LoL: BOMBA Team vs Lodis (BO3) - Rift Legends Regular Season \u2014 LoL: BOMBA Team vs Lodis - Game 2 Winner",
-      "prev": 0.715,
-      "now": 0.445,
-      "delta": -0.27,
+      "market": "LoL: BOMBA Team vs Lodis (BO3) - Rift Legends Regular Season \u2014 Games Total: O/U 2.5",
+      "prev": 0.485,
+      "now": 0.9945,
+      "delta": 0.5095,
       "url": "https://polymarket.com/event/lol-bombat-lds-2026-08-18",
       "tags": [
         "Esports",
@@ -131,14 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 31285.07,
-      "liquidity": 134772.46
+      "volume24hr": 96.82,
+      "liquidity": 1056.18
     },
     {
       "market": "LoL: BOMBA Team vs Lodis (BO3) - Rift Legends Regular Season \u2014 Game Handicap: BOOM (-1.5) vs Lodis (+1.5)",
-      "prev": 0.75,
-      "now": 0.5,
-      "delta": -0.25,
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/lol-bombat-lds-2026-08-18",
       "tags": [
         "Esports",
@@ -147,14 +29,130 @@
         "Sports"
       ],
       "volume24hr": 3.85,
-      "liquidity": 611407.96
+      "liquidity": 1430.53
+    },
+    {
+      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: GNK Dinamo Zagreb 0 - 3 Viking FK?",
+      "prev": 0.0095,
+      "now": 0.5,
+      "delta": 0.4905,
+      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 524.0,
+      "liquidity": 1.13
+    },
+    {
+      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: GNK Dinamo Zagreb 1 - 3 Viking FK?",
+      "prev": 0.019,
+      "now": 0.5,
+      "delta": 0.481,
+      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 583.01,
+      "liquidity": 1.13
+    },
+    {
+      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: GNK Dinamo Zagreb 0 - 2 Viking FK?",
+      "prev": 0.0245,
+      "now": 0.5,
+      "delta": 0.4755,
+      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 3877.87,
+      "liquidity": 1.13
+    },
+    {
+      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: GNK Dinamo Zagreb 0 - 1 Viking FK?",
+      "prev": 0.043,
+      "now": 0.5,
+      "delta": 0.457,
+      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 451.92,
+      "liquidity": 1.13
+    },
+    {
+      "market": "PFK Levski Sofia vs. AEK - More Markets \u2014 PFK Levski Sofia vs. AEK: PFK Levski Sofia 1st Half O/U 1.5",
+      "prev": 0.07,
+      "now": 0.52,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 210.76,
+      "liquidity": 340.82
+    },
+    {
+      "market": "PFK Levski Sofia vs. AEK - Exact Score \u2014 Exact Score: Any Other Score?",
+      "prev": 0.0505,
+      "now": 0.5005,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/ucl-pls-aek1-2026-08-18-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 188.28,
+      "liquidity": 0.01
+    },
+    {
+      "market": "LoL: BOMBA Team vs Lodis (BO3) - Rift Legends Regular Season \u2014 LoL: BOMBA Team vs Lodis - Game 2 Winner",
+      "prev": 0.445,
+      "now": 0.0005,
+      "delta": -0.4445,
+      "url": "https://polymarket.com/event/lol-bombat-lds-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 144879.3,
+      "liquidity": 254438.08
+    },
+    {
+      "market": "GNK Dinamo Zagreb vs. Viking FK - Exact Score \u2014 Exact Score: GNK Dinamo Zagreb 2 - 3 Viking FK?",
+      "prev": 0.021,
+      "now": 0.4605,
+      "delta": 0.4395,
+      "url": "https://polymarket.com/event/ucl-din-vf-2026-08-18-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 758.61,
+      "liquidity": 24.13
     }
   ],
   "log": [
-    {
-      "ts": "11:45:01",
-      "text": " poll complete \u2014 1654 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:00:01",
       "text": " poll complete \u2014 1658 markets scanned, 10 flagged"
@@ -270,6 +268,10 @@
     {
       "ts": "19:00:01",
       "text": " poll complete \u2014 1799 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:15:01",
+      "text": " poll complete \u2014 1782 markets scanned, 10 flagged"
     }
   ]
 }
