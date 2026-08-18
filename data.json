@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 17:45:02 UTC",
+  "lastUpdate": "2026-08-18 18:00:01 UTC",
   "swings": [
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: O/U 5.5",
-      "prev": 0.325,
-      "now": 0.995,
-      "delta": 0.67,
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
       "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -13,14 +13,14 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 30822.1,
-      "liquidity": 106282.73
+      "volume24hr": 353239.81,
+      "liquidity": 3880.87
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 Spread: Bayern Munich (-1.5)",
-      "prev": 0.285,
-      "now": 0.915,
-      "delta": 0.63,
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
       "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -28,59 +28,14 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 75679.74,
-      "liquidity": 82757.35
+      "volume24hr": 353239.81,
+      "liquidity": 3887.19
     },
     {
-      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.555,
-      "now": 0.0005,
-      "delta": -0.5545,
-      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1307.03,
-      "liquidity": 12820.54
-    },
-    {
-      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 LoL: Solary vs TLN Pirates - Game 2 Winner",
-      "prev": 0.55,
-      "now": 0.0005,
-      "delta": -0.5495,
-      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 143297.75,
-      "liquidity": 628039.09
-    },
-    {
-      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 Game Handicap: TLNP (-1.5) vs Solary (+1.5)",
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim O/U 2.5",
       "prev": 0.495,
-      "now": 0.995,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 2155.28
-    },
-    {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.0005,
+      "delta": -0.4945,
       "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -88,14 +43,14 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 26.13,
-      "liquidity": 683.95
+      "volume24hr": 23.5,
+      "liquidity": 12242.88
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Bayern Munich 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 2nd Half O/U 1.5",
+      "prev": 0.495,
+      "now": 0.0025,
+      "delta": -0.4925,
       "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -103,14 +58,28 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 7.51,
-      "liquidity": 766.45
+      "volume24hr": 353239.81,
+      "liquidity": 3902.16
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 2nd Half O/U 2.5",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
+      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Set 2 Winner: Fritz vs Aguilar",
+      "prev": 0.695,
+      "now": 0.975,
+      "delta": 0.28,
+      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 58.24,
+      "liquidity": 3044.69
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 Spread: Bayern Munich (-2.5)",
+      "prev": 0.2575,
+      "now": 0.0005,
+      "delta": -0.257,
       "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -118,45 +87,68 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 145.96,
-      "liquidity": 2145.59
+      "volume24hr": 15595.03,
+      "liquidity": 61961.33
     },
     {
-      "market": "LoL: NightBirds vs CITA Kaizen (BO3) - Hitpoint Masters Regular Season \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-nbs-ckz-2026-08-18",
+      "market": "Indiana Fever vs. Toronto Tempo \u2014 Caitlin Clark: Assists O/U 9.5",
+      "prev": 0.555,
+      "now": 0.305,
+      "delta": -0.25,
+      "url": "https://polymarket.com/event/wnba-ind-tor-2026-08-18",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 72060.01,
-      "liquidity": 113.67
+      "volume24hr": 58.23,
+      "liquidity": 901.48
     },
     {
-      "market": "LoL: NightBirds vs CITA Kaizen (BO3) - Hitpoint Masters Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-nbs-ckz-2026-08-18",
+      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Taylor Fritz vs. Daniel Merida Aguilar: Total Sets O/U 2.5",
+      "prev": 0.285,
+      "now": 0.055,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 72060.01,
-      "liquidity": 113.67
+      "volume24hr": 1707.51,
+      "liquidity": 757.0
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar \u2014 Set Handicap: Fritz (-1.5) vs Aguilar (+1.5)",
+      "prev": 0.69,
+      "now": 0.91,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/atp-fritz-aguilar-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 11989.91,
+      "liquidity": 109865.17
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva \u2014 Janice Tjen vs. Mirra Andreeva: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.285,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 659.32,
+      "liquidity": 244.5
     }
   ],
   "log": [
-    {
-      "ts": "10:30:01",
-      "text": " poll complete \u2014 1606 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:45:02",
       "text": " poll complete \u2014 1616 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "17:45:02",
       "text": " poll complete \u2014 1765 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:00:01",
+      "text": " poll complete \u2014 1766 markets scanned, 10 flagged"
     }
   ]
 }
