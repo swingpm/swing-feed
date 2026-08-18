@@ -1,159 +1,153 @@
 {
-  "lastUpdate": "2026-08-18 22:45:01 UTC",
+  "lastUpdate": "2026-08-18 23:00:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Faria vs. Walton: Match O/U 21.5",
+      "market": "Recoleta FC vs. CA Boca Juniors - More Markets \u2014 Recoleta FC vs. CA Boca Juniors: CA Boca Juniors 1st Half O/U 1.5",
+      "prev": 0.175,
+      "now": 0.997,
+      "delta": 0.822,
+      "url": "https://polymarket.com/event/sud-rec1-boc-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 332.89,
+      "liquidity": 2777.54
+    },
+    {
+      "market": "Recoleta FC vs. CA Boca Juniors - More Markets \u2014 Recoleta FC vs. CA Boca Juniors: 1st Half O/U 1.5",
+      "prev": 0.235,
+      "now": 0.9995,
+      "delta": 0.7645,
+      "url": "https://polymarket.com/event/sud-rec1-boc-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 2102.04,
+      "liquidity": 9252.09
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: Toronto Blue Jays vs. Tampa Bay Rays",
+      "prev": 0.415,
+      "now": 0.9995,
+      "delta": 0.5845,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 20878.04,
+      "liquidity": 41720.33
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: Miami Marlins vs. Philadelphia Phillies",
+      "prev": 0.465,
+      "now": 0.9995,
+      "delta": 0.5345,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 2733.78,
+      "liquidity": 23407.64
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: San Francisco Giants vs. Cleveland Guardians",
+      "prev": 0.475,
+      "now": 0.9955,
+      "delta": 0.5205,
+      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 243.95,
+      "liquidity": 3310.85
+    },
+    {
+      "market": "Quebec City: Jesper de Jong vs Dane Sweeny \u2014 Set 2 Winner: Jong vs Sweeny",
       "prev": 0.5,
-      "now": 0.81,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-jong-sweeny-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 225.65,
-      "liquidity": 254.0
+      "volume24hr": 108890.83,
+      "liquidity": 3331.46
     },
     {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 24.5 in Game 2?",
-      "prev": 0.36,
-      "now": 0.615,
-      "delta": 0.255,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 144796.09,
-      "liquidity": 144.6
-    },
-    {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 24.5 in Game 1?",
-      "prev": 0.36,
-      "now": 0.615,
-      "delta": 0.255,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2.99,
-      "liquidity": 113.29
-    },
-    {
-      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.315,
-      "now": 0.51,
-      "delta": 0.195,
-      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 126.0,
-      "liquidity": 107.96
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.735,
-      "now": 0.545,
-      "delta": -0.19,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 95850.39,
-      "liquidity": 45.38
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Bejlek vs. Alexandrova: Match O/U 21.5",
+      "market": "Quebec City: Jesper de Jong vs Dane Sweeny \u2014 Jong vs. Sweeny: Match O/U 21.5",
       "prev": 0.5,
-      "now": 0.685,
-      "delta": 0.185,
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 652.88,
-      "liquidity": 27.75
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
-      "prev": 0.595,
-      "now": 0.765,
-      "delta": 0.17,
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 484785.27,
-      "liquidity": 433067.14
-    },
-    {
-      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game Handicap: KBM (-1.5) vs Vivo Keyd Stars Academy (+1.5)",
-      "prev": 0.16,
       "now": 0.0005,
-      "delta": -0.1595,
-      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jong-sweeny-2026-08-18",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3305.28,
-      "liquidity": 81303.92
-    },
-    {
-      "market": "Indiana Fever vs. Toronto Tempo \u2014 Aneesah Morrow: Rebounds O/U 6.5",
-      "prev": 0.32,
-      "now": 0.455,
-      "delta": 0.135,
-      "url": "https://polymarket.com/event/wnba-ind-tor-2026-08-18",
-      "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
+        "Games"
       ],
-      "volume24hr": 245262.65,
-      "liquidity": 10.35
+      "volume24hr": 44.0,
+      "liquidity": 6276.74
     },
     {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.195,
-      "now": 0.315,
-      "delta": 0.12,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "market": "Quebec City: Jesper de Jong vs Dane Sweeny \u2014 Jesper de Jong vs. Dane Sweeny: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jong-sweeny-2026-08-18",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 144796.09,
-      "liquidity": 526.65
+      "volume24hr": 108890.83,
+      "liquidity": 6414.59
+    },
+    {
+      "market": "Quebec City: Jesper de Jong vs Dane Sweeny \u2014 Jong vs. Sweeny: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jong-sweeny-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 108890.83,
+      "liquidity": 3181.24
+    },
+    {
+      "market": "Quebec City: Jesper de Jong vs Dane Sweeny \u2014 Jong vs. Sweeny: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jong-sweeny-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 17.42,
+      "liquidity": 6312.97
     }
   ],
   "log": [
-    {
-      "ts": "15:30:01",
-      "text": " poll complete \u2014 1723 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:45:01",
       "text": " poll complete \u2014 1700 markets scanned, 10 flagged"
@@ -269,6 +263,10 @@
     {
       "ts": "22:45:01",
       "text": " poll complete \u2014 1870 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:00:01",
+      "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
     }
   ]
 }
