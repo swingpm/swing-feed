@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 07:45:01 UTC",
+  "lastUpdate": "2026-08-18 08:00:01 UTC",
   "swings": [
     {
       "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 34\u00b0C on August 18?",
-      "prev": 0.635,
-      "now": 0.285,
-      "delta": -0.35,
+      "prev": 0.285,
+      "now": 0.93,
+      "delta": 0.645,
       "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
       "tags": [
         "Weather",
@@ -15,14 +15,14 @@
         "Shenzhen",
         "Highest temperature"
       ],
-      "volume24hr": 5929.67,
-      "liquidity": 175.73
+      "volume24hr": 7863.74,
+      "liquidity": 198.0
     },
     {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.25,
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.235,
       "now": 0.5,
-      "delta": 0.25,
+      "delta": 0.265,
       "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
       "tags": [
         "Esports",
@@ -30,11 +30,26 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 50781.75,
+      "volume24hr": 51826.14,
       "liquidity": 0.1
     },
     {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.24,
+      "now": 0.5,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 51826.14,
+      "liquidity": 0.1
+    },
+    {
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
       "prev": 0.25,
       "now": 0.5,
       "delta": 0.25,
@@ -45,101 +60,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 50781.75,
+      "volume24hr": 25.0,
       "liquidity": 2.0
     },
     {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.26,
-      "now": 0.5,
-      "delta": 0.24,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 50781.75,
-      "liquidity": 2.02
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.26,
-      "now": 0.5,
-      "delta": 0.24,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 50781.75,
-      "liquidity": 2.02
-    },
-    {
-      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.285,
-      "now": 0.5,
-      "delta": 0.215,
-      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 342538.9,
-      "liquidity": 1.68
-    },
-    {
-      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.285,
-      "now": 0.5,
-      "delta": 0.215,
-      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 342538.9,
-      "liquidity": 0.2
-    },
-    {
-      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.285,
-      "now": 0.5,
-      "delta": 0.215,
-      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 342538.9,
-      "liquidity": 0.2
-    },
-    {
-      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.285,
-      "now": 0.495,
-      "delta": 0.21,
-      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 342538.9,
-      "liquidity": 2.12
-    },
-    {
-      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Any Player Penta Kill?",
       "prev": 0.29,
       "now": 0.5,
       "delta": 0.21,
@@ -150,15 +75,88 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 342538.9,
-      "liquidity": 2.04
+      "volume24hr": 346388.76,
+      "liquidity": 0.2
+    },
+    {
+      "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 35\u00b0C on August 18?",
+      "prev": 0.2665,
+      "now": 0.0745,
+      "delta": -0.192,
+      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shenzhen",
+        "Highest temperature"
+      ],
+      "volume24hr": 10071.64,
+      "liquidity": 180.65
+    },
+    {
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.315,
+      "now": 0.5,
+      "delta": 0.185,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 51826.14,
+      "liquidity": 0.1
+    },
+    {
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.685,
+      "now": 0.5,
+      "delta": -0.185,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 51826.14,
+      "liquidity": 2.02
+    },
+    {
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.34,
+      "now": 0.5,
+      "delta": 0.16,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 346388.76,
+      "liquidity": 0.2
+    },
+    {
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.345,
+      "now": 0.5,
+      "delta": 0.155,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 346388.76,
+      "liquidity": 0.2
     }
   ],
   "log": [
-    {
-      "ts": "00:30:01",
-      "text": " poll complete \u2014 1687 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:45:01",
       "text": " poll complete \u2014 1689 markets scanned, 10 flagged"
@@ -274,6 +272,10 @@
     {
       "ts": "07:45:01",
       "text": " poll complete \u2014 1558 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:00:01",
+      "text": " poll complete \u2014 1568 markets scanned, 10 flagged"
     }
   ]
 }
