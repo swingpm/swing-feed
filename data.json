@@ -1,156 +1,151 @@
 {
-  "lastUpdate": "2026-08-18 12:00:01 UTC",
+  "lastUpdate": "2026-08-18 12:15:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Rounds Handicap: STATE (-6.5) vs Vitality Academy (+6.5)",
+      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Prague 2: Completed Match: Gilles Arnaud Bailly vs Norbert Gombos",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 62003.87,
-      "liquidity": 443.27
+      "volume24hr": 550.0,
+      "liquidity": 1169.04
     },
     {
-      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Rounds Handicap: STATE (-3.5) vs Vitality Academy (+3.5)",
+      "market": "Prague 2: Javier Barranco Cosano vs Martin Krumich \u2014 Prague 2: Completed Match: Javier Barranco Cosano vs Martin Krumich",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 62003.87,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Rounds Handicap: STATE (-9.5) vs Vitality Academy (+9.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 62003.87,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Total Rounds: Over/Under 24.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 62003.87,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Prague 2: Javier Barranco Cosano vs Martin Krumich",
-      "prev": 0.915,
-      "now": 0.605,
-      "delta": -0.31,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/atp-cosano-krumich-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 123335.78,
-      "liquidity": 411759.74
+      "volume24hr": 330.0,
+      "liquidity": 879.93
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 1 Games O/U 9.5",
-      "prev": 0.72,
-      "now": 0.47,
-      "delta": -0.25,
+      "market": "Prague 2: Javier Barranco Cosano vs Martin Krumich",
+      "prev": 0.605,
+      "now": 0.995,
+      "delta": 0.39,
+      "url": "https://polymarket.com/event/atp-cosano-krumich-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 156645.79,
+      "liquidity": 274003.42
+    },
+    {
+      "market": "Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.455,
+      "now": 0.8,
+      "delta": 0.345,
+      "url": "https://polymarket.com/event/cs2-msc-bbp-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 403.1,
+      "liquidity": 105.24
+    },
+    {
+      "market": "Prague 2: Max Hans Rehberg vs Jakub Nicod \u2014 Prague 2: Completed Match: Max Hans Rehberg vs Jakub Nicod",
+      "prev": 0.4,
+      "now": 0.08,
+      "delta": -0.32,
+      "url": "https://polymarket.com/event/atp-rehberg-nicod-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 106.0,
+      "liquidity": 1697.21
+    },
+    {
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: BRO (-1.5) vs Gen.G Global Academy (+1.5)",
+      "prev": 0.34,
+      "now": 0.655,
+      "delta": 0.315,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 7020.5,
+      "liquidity": 7098.22
+    },
+    {
+      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Petr Brunclik vs. Jan Kumstat: Total Sets O/U 2.5",
+      "prev": 0.38,
+      "now": 0.68,
+      "delta": 0.3,
       "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 102960.0,
-      "liquidity": 7.2
+      "volume24hr": 279.0,
+      "liquidity": 1400.53
     },
     {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Bailly vs. Gombos: Match O/U 21.5",
-      "prev": 0.7505,
-      "now": 0.9995,
-      "delta": 0.249,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
+      "market": "Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: MASONIC vs Bebop - Map 2 Winner",
+      "prev": 0.44,
+      "now": 0.165,
+      "delta": -0.275,
+      "url": "https://polymarket.com/event/cs2-msc-bbp-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 576.1,
-      "liquidity": 7456.51
+      "volume24hr": 10649.41,
+      "liquidity": 103669.91
     },
     {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Gilles Arnaud Bailly vs. Norbert Gombos: Total Sets O/U 2.5",
-      "prev": 0.755,
+      "market": "Prague 2: Javier Barranco Cosano vs Martin Krumich \u2014 Cosano vs. Krumich: Match O/U 21.5",
+      "prev": 0.75,
       "now": 0.995,
-      "delta": 0.24,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/atp-cosano-krumich-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 646.1,
-      "liquidity": 7452.9
+      "volume24hr": 157115.83,
+      "liquidity": 7424.74
     },
     {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Set Handicap: Bailly (-1.5) vs Gombos (+1.5)",
-      "prev": 0.245,
-      "now": 0.005,
-      "delta": -0.24,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
+      "market": "Prague 2: Javier Barranco Cosano vs Martin Krumich \u2014 Javier Barranco Cosano vs. Martin Krumich: Total Sets O/U 2.5",
+      "prev": 0.75,
+      "now": 0.995,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/atp-cosano-krumich-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 4.11,
-      "liquidity": 7445.45
-    },
-    {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Set Handicap: Gombos (-1.5) vs Bailly (+1.5)",
-      "prev": 0.245,
-      "now": 0.005,
-      "delta": -0.24,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 348635.93,
-      "liquidity": 7445.45
+      "volume24hr": 4.9,
+      "liquidity": 7524.73
     }
   ],
   "log": [
-    {
-      "ts": "04:45:02",
-      "text": " poll complete \u2014 1690 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:00:02",
       "text": " poll complete \u2014 1687 markets scanned, 10 flagged"
@@ -266,6 +261,10 @@
     {
       "ts": "12:00:01",
       "text": " poll complete \u2014 1658 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:15:01",
+      "text": " poll complete \u2014 1667 markets scanned, 10 flagged"
     }
   ]
 }
