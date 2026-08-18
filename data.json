@@ -1,82 +1,41 @@
 {
-  "lastUpdate": "2026-08-18 10:45:02 UTC",
+  "lastUpdate": "2026-08-18 11:00:02 UTC",
   "swings": [
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prev": 0.105,
-      "now": 0.9195,
-      "delta": 0.8145,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
+      "prev": 0.58,
+      "now": 0.0005,
+      "delta": -0.5795,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 383054.55,
-      "liquidity": 149758.69
+      "volume24hr": 855097.65,
+      "liquidity": 931246.04
     },
     {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Set 1 Winner: Bailly vs Gombos",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Games Total: O/U 3.5",
+      "prev": 0.77,
+      "now": 0.53,
+      "delta": -0.24,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 732.12,
-      "liquidity": 5640.95
+      "volume24hr": 32813.04,
+      "liquidity": 135045.82
     },
     {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Bailly vs. Gombos: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 29.0,
-      "liquidity": 5442.46
-    },
-    {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Bailly vs. Gombos: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 173761.67,
-      "liquidity": 5485.01
-    },
-    {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Bailly vs. Gombos: Set 1 Games O/U 9.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 173761.67,
-      "liquidity": 5503.36
-    },
-    {
-      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: SD Raiders FC O/U 2.5",
-      "prev": 0.01,
-      "now": 0.5025,
-      "delta": 0.4925,
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: Sydney FC O/U 1.5",
+      "prev": 0.74,
+      "now": 0.5,
+      "delta": -0.24,
       "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -84,75 +43,115 @@
         "Soccer",
         "Australia Cup"
       ],
-      "volume24hr": 145.25,
-      "liquidity": 34.16
+      "volume24hr": 603.19,
+      "liquidity": 344017.13
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-2.5) vs Nongshim Red Force (+2.5)",
+      "prev": 0.265,
+      "now": 0.5,
+      "delta": 0.235,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 949055.39,
-      "liquidity": 113.67
+      "volume24hr": 1284.95,
+      "liquidity": 21772.47
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: DNS (-1.5) vs Nongshim Red Force (+1.5)",
+      "prev": 0.505,
+      "now": 0.73,
+      "delta": 0.225,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 949055.39,
-      "liquidity": 113.67
+      "volume24hr": 216.87,
+      "liquidity": 14247.42
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Petr Brunclik vs. Jan Kumstat: Total Sets O/U 2.5",
+      "prev": 0.46,
+      "now": 0.68,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 279.0,
+      "liquidity": 2646.3
+    },
+    {
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game Handicap: NS (-1.5) vs DN SOOPers (+1.5)",
+      "prev": 0.22,
+      "now": 0.0005,
+      "delta": -0.2195,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 949055.39,
-      "liquidity": 113.67
+      "volume24hr": 23569.63,
+      "liquidity": 207492.72
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: SD Raiders FC O/U 0.5",
+      "prev": 0.34,
+      "now": 0.125,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Australia Cup"
+      ],
+      "volume24hr": 735.25,
+      "liquidity": 1227.39
+    },
+    {
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: O/U 2.5",
+      "prev": 0.515,
+      "now": 0.325,
+      "delta": -0.19,
+      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Australia Cup"
+      ],
+      "volume24hr": 17870.25,
+      "liquidity": 40052.7
+    },
+    {
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+      "prev": 0.335,
+      "now": 0.155,
+      "delta": -0.18,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 949055.39,
-      "liquidity": 113.67
+      "volume24hr": 748725.33,
+      "liquidity": 233584.38
     }
   ],
   "log": [
-    {
-      "ts": "03:30:01",
-      "text": " poll complete \u2014 1711 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:45:01",
       "text": " poll complete \u2014 1693 markets scanned, 10 flagged"
@@ -268,6 +267,10 @@
     {
       "ts": "10:45:02",
       "text": " poll complete \u2014 1616 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:00:02",
+      "text": " poll complete \u2014 1636 markets scanned, 10 flagged"
     }
   ]
 }
