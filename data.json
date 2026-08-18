@@ -1,154 +1,150 @@
 {
-  "lastUpdate": "2026-08-18 09:45:02 UTC",
+  "lastUpdate": "2026-08-18 10:00:01 UTC",
   "swings": [
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 2 Winner",
-      "prev": 0.54,
-      "now": 0.0005,
-      "delta": -0.5395,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "market": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang \u2014 ITF W50 Prague Women: Completed Match: Nastasja Schunk vs Gaeul Jang",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/itf-schunk-jang-2026-08-18",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 63183.41,
+      "liquidity": 351.27
+    },
+    {
+      "market": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang \u2014 Nastasja Schunk vs. Gaeul Jang: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/itf-schunk-jang-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 63183.41,
+      "liquidity": 644.25
+    },
+    {
+      "market": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang \u2014 Set Handicap: Schunk (-1.5) vs Jang (+1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/itf-schunk-jang-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 63183.41,
+      "liquidity": 351.27
+    },
+    {
+      "market": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang \u2014 Set Handicap: Jang (-1.5) vs Schunk (+1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/itf-schunk-jang-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 63183.41,
+      "liquidity": 351.27
+    },
+    {
+      "market": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang \u2014 Schunk vs. Jang: Match O/U 21.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/itf-schunk-jang-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 63183.41,
+      "liquidity": 654.67
+    },
+    {
+      "market": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang \u2014 Schunk vs. Jang: Match O/U 22.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/itf-schunk-jang-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 63183.41,
+      "liquidity": 647.37
+    },
+    {
+      "market": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang \u2014 Schunk vs. Jang: Match O/U 23.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/itf-schunk-jang-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 63183.41,
+      "liquidity": 647.37
+    },
+    {
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: SD Raiders FC 1st Half O/U 1.5",
+      "prev": 0.055,
+      "now": 0.504,
+      "delta": 0.449,
+      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Australia Cup"
       ],
-      "volume24hr": 206025.57,
-      "liquidity": 958808.34
+      "volume24hr": 60579.65,
+      "liquidity": 34.4
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Games Total: O/U 2.5",
-      "prev": 0.49,
-      "now": 0.9995,
-      "delta": 0.5095,
-      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: 1st Half O/U 1.5",
+      "prev": 0.4,
+      "now": 0.205,
+      "delta": -0.195,
+      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Australia Cup"
       ],
-      "volume24hr": 3674.76,
-      "liquidity": 51517.74
+      "volume24hr": 1622.57,
+      "liquidity": 611.86
     },
     {
-      "market": "Sion: Tommaso Compagnucci vs Max Dahlin \u2014 Sion: Completed Match: Tommaso Compagnucci vs Max Dahlin",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-compagn-dahlin-2026-08-17",
+      "market": "ITF W50 Prague Women: Nastasja Schunk vs Gaeul Jang",
+      "prev": 0.81,
+      "now": 0.995,
+      "delta": 0.185,
+      "url": "https://polymarket.com/event/itf-schunk-jang-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 238486.14,
-      "liquidity": 969.04
-    },
-    {
-      "market": "Sion: Tommaso Compagnucci vs Max Dahlin \u2014 Set 2 Winner: Compagnucci vs Dahlin",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-compagn-dahlin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 238486.14,
-      "liquidity": 2125.66
-    },
-    {
-      "market": "Sion: Tommaso Compagnucci vs Max Dahlin \u2014 Set Handicap: Compagnucci (-1.5) vs Dahlin (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-compagn-dahlin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 12.85,
-      "liquidity": 3654.38
-    },
-    {
-      "market": "Sion: Tommaso Compagnucci vs Max Dahlin \u2014 Compagnucci vs. Dahlin: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-compagn-dahlin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 238486.14,
-      "liquidity": 2024.84
-    },
-    {
-      "market": "Sion: Tommaso Compagnucci vs Max Dahlin \u2014 Tommaso Compagnucci vs. Max Dahlin: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-compagn-dahlin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 250.99,
-      "liquidity": 5243.38
-    },
-    {
-      "market": "Sion: Tommaso Compagnucci vs Max Dahlin \u2014 Compagnucci vs. Dahlin: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-compagn-dahlin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 98.18,
-      "liquidity": 5124.58
-    },
-    {
-      "market": "Sion: Tommaso Compagnucci vs Max Dahlin \u2014 Compagnucci vs. Dahlin: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-compagn-dahlin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 238486.14,
-      "liquidity": 2029.79
-    },
-    {
-      "market": "Sion: Tommaso Compagnucci vs Max Dahlin \u2014 Compagnucci vs. Dahlin: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-compagn-dahlin-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 238486.14,
-      "liquidity": 5124.58
+      "volume24hr": 63183.41,
+      "liquidity": 91182.24
     }
   ],
   "log": [
-    {
-      "ts": "02:30:01",
-      "text": " poll complete \u2014 1754 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:45:01",
       "text": " poll complete \u2014 1763 markets scanned, 10 flagged"
@@ -263,6 +259,10 @@
     },
     {
       "ts": "09:45:02",
+      "text": " poll complete \u2014 1640 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:00:01",
       "text": " poll complete \u2014 1640 markets scanned, 10 flagged"
     }
   ]
