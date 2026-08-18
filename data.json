@@ -1,26 +1,56 @@
 {
-  "lastUpdate": "2026-08-18 14:45:01 UTC",
+  "lastUpdate": "2026-08-18 15:00:01 UTC",
   "swings": [
     {
-      "market": "Thailand vs. Singapore \u2014 Will Singapore win on 2026-08-18?",
-      "prev": 0.195,
-      "now": 0.755,
-      "delta": 0.56,
-      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18",
+      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map Handicap: MOUZ.N (-1.5) vs SPARTA (+1.5)",
+      "prev": 0.505,
+      "now": 0.0045,
+      "delta": -0.5005,
+      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "ASEAN Championship"
+        "Sports"
       ],
-      "volume24hr": 83917.13,
-      "liquidity": 75403.52
+      "volume24hr": 89.97,
+      "liquidity": 2259.39
+    },
+    {
+      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 20.0,
+      "liquidity": 609.76
+    },
+    {
+      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 2 Rounds Handicap: SPARTA (-3.5) vs MOUZ NXT (+3.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1256.85,
+      "liquidity": 1082.15
     },
     {
       "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Thailand O/U 2.5",
-      "prev": 0.55,
-      "now": 0.045,
-      "delta": -0.505,
+      "prev": 0.045,
+      "now": 0.5,
+      "delta": 0.455,
       "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -28,98 +58,74 @@
         "Soccer",
         "ASEAN Championship"
       ],
-      "volume24hr": 14.42,
-      "liquidity": 594.62
+      "volume24hr": 539.42,
+      "liquidity": 0.52
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 1 Games O/U 8.5",
+      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 2 Rounds Handicap: SPARTA (-6.5) vs MOUZ NXT (+6.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 110770.45,
-      "liquidity": 5430.24
+      "volume24hr": 158316.07,
+      "liquidity": 113.67
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 1 Games O/U 9.5",
+      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 2 Rounds Handicap: MOUZ NXT (-3.5) vs SPARTA (+3.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 110770.45,
-      "liquidity": 5503.36
+      "volume24hr": 158316.07,
+      "liquidity": 113.67
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Counter-Strike: SPARTA vs MOUZ NXT - Map 2 Winner",
+      "prev": 0.645,
+      "now": 0.9995,
+      "delta": 0.3545,
+      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 110770.45,
-      "liquidity": 5576.47
+      "volume24hr": 73367.94,
+      "liquidity": 633197.53
     },
     {
-      "market": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe \u2014 Set 2 Winner: Batalla vs Papoe",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-batalla-papoe-2026-08-18",
+      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Games Total: O/U 2.5",
+      "prev": 0.66,
+      "now": 0.9995,
+      "delta": 0.3395,
+      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 274709.0,
-      "liquidity": 2001.38
+      "volume24hr": 188.41,
+      "liquidity": 7762.98
     },
     {
-      "market": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe \u2014 Batalla vs. Papoe: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-batalla-papoe-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 274709.0,
-      "liquidity": 1878.78
-    },
-    {
-      "market": "Prague 2: Oriol Roca Batalla vs Radu Mihai Papoe \u2014 Batalla vs. Papoe: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-batalla-papoe-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 274709.0,
-      "liquidity": 1878.78
-    },
-    {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: O/U 3.5",
+      "prev": 0.48,
+      "now": 0.15,
+      "delta": -0.33,
       "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -127,14 +133,14 @@
         "Soccer",
         "ASEAN Championship"
       ],
-      "volume24hr": 171079.95,
-      "liquidity": 2250.78
+      "volume24hr": 38748.87,
+      "liquidity": 761.93
     },
     {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Singapore O/U 2.5",
+      "prev": 0.19,
+      "now": 0.5,
+      "delta": 0.31,
       "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -142,15 +148,11 @@
         "Soccer",
         "ASEAN Championship"
       ],
-      "volume24hr": 171079.95,
-      "liquidity": 2243.79
+      "volume24hr": 24857.2,
+      "liquidity": 4.46
     }
   ],
   "log": [
-    {
-      "ts": "07:30:02",
-      "text": " poll complete \u2014 1565 markets scanned, 8 flagged"
-    },
     {
       "ts": "07:45:01",
       "text": " poll complete \u2014 1558 markets scanned, 10 flagged"
@@ -266,6 +268,10 @@
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1672 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:00:01",
+      "text": " poll complete \u2014 1666 markets scanned, 10 flagged"
     }
   ]
 }
