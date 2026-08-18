@@ -1,41 +1,40 @@
 {
-  "lastUpdate": "2026-08-18 02:30:01 UTC",
+  "lastUpdate": "2026-08-18 02:45:01 UTC",
   "swings": [
     {
-      "market": "Athletics vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-4.5)",
-      "prev": 0.665,
-      "now": 0.005,
-      "delta": -0.66,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1974.01,
-      "liquidity": 10398.12
-    },
-    {
-      "market": "CA Gimnasia y Esgrima de Mendoza vs. CA Talleres - More Markets \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: 2nd Half O/U 2.5",
-      "prev": 0.6,
-      "now": 0.0045,
-      "delta": -0.5955,
-      "url": "https://polymarket.com/event/arg-gye-tal-2026-08-17-more-markets",
+      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: Club Le\u00f3n FC O/U 1.5",
+      "prev": 0.28,
+      "now": 0.9995,
+      "delta": 0.7195,
+      "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Liga MX"
       ],
-      "volume24hr": 137424.95,
-      "liquidity": 3831.42
+      "volume24hr": 1384.13,
+      "liquidity": 6378.63
+    },
+    {
+      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Lehecka vs. Fils: Match O/U 23.5",
+      "prev": 0.32,
+      "now": 0.9795,
+      "delta": 0.6595,
+      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 619.88,
+      "liquidity": 9317.44
     },
     {
       "market": "Club Necaxa vs. Club Le\u00f3n FC \u2014 Will Club Le\u00f3n FC win on 2026-08-17?",
-      "prev": 0.635,
-      "now": 0.095,
-      "delta": -0.54,
+      "prev": 0.095,
+      "now": 0.695,
+      "delta": 0.6,
       "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17",
       "tags": [
         "Sports",
@@ -43,14 +42,43 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 118257.05,
-      "liquidity": 142516.01
+      "volume24hr": 143580.17,
+      "liquidity": 135844.05
     },
     {
-      "market": "Chicago White Sox vs. Chicago Cubs",
-      "prev": 0.15,
-      "now": 0.66,
-      "delta": 0.51,
+      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Set 2 Winner: Lehecka vs Fils",
+      "prev": 0.425,
+      "now": 0.9995,
+      "delta": 0.5745,
+      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2238.32,
+      "liquidity": 20709.84
+    },
+    {
+      "market": "Will the game go to extra innings?: Detroit Tigers vs. Pittsburgh Pirates",
+      "prev": 0.51,
+      "now": 0.005,
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 543.5,
+      "liquidity": 79.08
+    },
+    {
+      "market": "Chicago White Sox vs. Chicago Cubs: O/U 8.5",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
       "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
       "tags": [
         "Sports",
@@ -58,104 +86,68 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 265326.84,
-      "liquidity": 17265.29
+      "volume24hr": 40045.95,
+      "liquidity": 36239.9
     },
     {
-      "market": "LoL: 3v Team vs LYON Academy (BO5) - LRN Playoffs \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.49,
-      "now": 0.995,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/lol-3v-lyna-2026-08-17",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 128900.71,
-      "liquidity": 766.48
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Gabby Williams: Rebounds O/U 2.5",
-      "prev": 0.495,
-      "now": 0.995,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 116.78,
-      "liquidity": 100.0
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 1st 5 Innings Spread: Colorado Rockies (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 617099.93,
-      "liquidity": 2089.35
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 1st 5 Innings Spread: Los Angeles Dodgers (-1.5)",
-      "prev": 0.5,
+      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Lehecka vs. Fils: Set 2 Games O/U 9.5",
+      "prev": 0.505,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-17",
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 106.96,
-      "liquidity": 1821.78
+      "volume24hr": 733875.05,
+      "liquidity": 3829.09
     },
     {
-      "market": "CA Gimnasia y Esgrima de Mendoza vs. CA Talleres - More Markets \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: CA Talleres O/U 1.5",
-      "prev": 0.4995,
-      "now": 0.0005,
-      "delta": -0.499,
-      "url": "https://polymarket.com/event/arg-gye-tal-2026-08-17-more-markets",
+      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Lehecka vs. Fils: Set 2 Games O/U 10.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Games"
       ],
-      "volume24hr": 161.27,
-      "liquidity": 12150.94
+      "volume24hr": 733875.05,
+      "liquidity": 3829.09
     },
     {
-      "market": "CA Gimnasia y Esgrima de Mendoza vs. CA Talleres - More Markets \u2014 CA Gimnasia y Esgrima de Mendoza vs. CA Talleres: CA Talleres 2nd Half O/U 1.5",
+      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: Club Le\u00f3n FC 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/arg-gye-tal-2026-08-17-more-markets",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Liga MX"
       ],
-      "volume24hr": 137424.95,
-      "liquidity": 3865.84
+      "volume24hr": 219401.27,
+      "liquidity": 682.95
+    },
+    {
+      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Jiri Lehecka vs. Arthur Fils: Total Sets O/U 2.5",
+      "prev": 0.495,
+      "now": 0.9845,
+      "delta": 0.4895,
+      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1825.47,
+      "liquidity": 8710.35
     }
   ],
   "log": [
-    {
-      "ts": "19:15:01",
-      "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
@@ -271,6 +263,10 @@
     {
       "ts": "02:30:01",
       "text": " poll complete \u2014 1754 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:45:01",
+      "text": " poll complete \u2014 1763 markets scanned, 10 flagged"
     }
   ]
 }
