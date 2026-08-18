@@ -1,152 +1,155 @@
 {
-  "lastUpdate": "2026-08-18 22:30:01 UTC",
+  "lastUpdate": "2026-08-18 22:45:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Set 2 Winner: Faria vs Walton",
-      "prev": 0.15,
-      "now": 0.9995,
-      "delta": 0.8495,
+      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Faria vs. Walton: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.81,
+      "delta": 0.31,
       "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 490.91,
-      "liquidity": 14375.96
+      "volume24hr": 225.65,
+      "liquidity": 254.0
     },
     {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Faria vs. Walton: Match O/U 23.5",
-      "prev": 0.14,
-      "now": 0.9885,
-      "delta": 0.8485,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 24.5 in Game 2?",
+      "prev": 0.36,
+      "now": 0.615,
+      "delta": 0.255,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 267.64,
-      "liquidity": 638.04
+      "volume24hr": 144796.09,
+      "liquidity": 144.6
     },
     {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Jaime Faria vs. Adam Walton: Total Sets O/U 2.5",
-      "prev": 0.145,
-      "now": 0.735,
-      "delta": 0.59,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "prev": 0.36,
+      "now": 0.615,
+      "delta": 0.255,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 96.6,
-      "liquidity": 259.44
+      "volume24hr": 2.99,
+      "liquidity": 113.29
     },
     {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Set 2 Winner: Bejlek vs Alexandrova",
-      "prev": 0.48,
-      "now": 0.9995,
-      "delta": 0.5195,
+      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.315,
+      "now": 0.51,
+      "delta": 0.195,
+      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 126.0,
+      "liquidity": 107.96
+    },
+    {
+      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "prev": 0.735,
+      "now": 0.545,
+      "delta": -0.19,
+      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 95850.39,
+      "liquidity": 45.38
+    },
+    {
+      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Bejlek vs. Alexandrova: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.685,
+      "delta": 0.185,
       "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 313.36,
-      "liquidity": 5585.37
+      "volume24hr": 652.88,
+      "liquidity": 27.75
     },
     {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton",
-      "prev": 0.075,
-      "now": 0.585,
-      "delta": 0.51,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 437344.08,
-      "liquidity": 470225.49
-    },
-    {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Faria vs. Walton: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 453627.23,
-      "liquidity": 4191.79
-    },
-    {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Faria vs. Walton: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 453627.23,
-      "liquidity": 4256.53
-    },
-    {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Faria vs. Walton: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 453627.23,
-      "liquidity": 4272.04
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Bejlek vs. Alexandrova: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
+      "prev": 0.595,
+      "now": 0.765,
+      "delta": 0.17,
       "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 436534.27,
-      "liquidity": 3322.0
+      "volume24hr": 484785.27,
+      "liquidity": 433067.14
     },
     {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Bejlek vs. Alexandrova: Set 2 Games O/U 9.5",
-      "prev": 0.5,
+      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game Handicap: KBM (-1.5) vs Vivo Keyd Stars Academy (+1.5)",
+      "prev": 0.16,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
+      "delta": -0.1595,
+      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 436534.27,
-      "liquidity": 3322.0
+      "volume24hr": 3305.28,
+      "liquidity": 81303.92
+    },
+    {
+      "market": "Indiana Fever vs. Toronto Tempo \u2014 Aneesah Morrow: Rebounds O/U 6.5",
+      "prev": 0.32,
+      "now": 0.455,
+      "delta": 0.135,
+      "url": "https://polymarket.com/event/wnba-ind-tor-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 245262.65,
+      "liquidity": 10.35
+    },
+    {
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.195,
+      "now": 0.315,
+      "delta": 0.12,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 144796.09,
+      "liquidity": 526.65
     }
   ],
   "log": [
-    {
-      "ts": "15:15:02",
-      "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:30:01",
       "text": " poll complete \u2014 1723 markets scanned, 10 flagged"
@@ -262,6 +265,10 @@
     {
       "ts": "22:30:01",
       "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:45:01",
+      "text": " poll complete \u2014 1870 markets scanned, 10 flagged"
     }
   ]
 }
