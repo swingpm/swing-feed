@@ -1,155 +1,151 @@
 {
-  "lastUpdate": "2026-08-18 12:45:01 UTC",
+  "lastUpdate": "2026-08-18 13:00:02 UTC",
   "swings": [
     {
-      "market": "Sion: Ognjen Milic vs Lucio Ratti \u2014 Sion: Completed Match: Ognjen Milic vs Lucio Ratti",
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Games Total: O/U 2.5",
+      "prev": 0.28,
+      "now": 0.9995,
+      "delta": 0.7195,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1191.7,
+      "liquidity": 16987.91
+    },
+    {
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: BRO (-1.5) vs Gen.G Global Academy (+1.5)",
+      "prev": 0.65,
+      "now": 0.0005,
+      "delta": -0.6495,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 7051.76,
+      "liquidity": 104501.73
+    },
+    {
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: Gen.G Global Academy vs HANJIN BRION Challengers - Game 2 Winner",
+      "prev": 0.355,
+      "now": 0.9995,
+      "delta": 0.6445,
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 178255.69,
+      "liquidity": 662176.69
+    },
+    {
+      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Set 2 Winner: Kuzmanov vs Moeller",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-milic-ratti-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 75802.11,
-      "liquidity": 969.04
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.52,
-      "now": 0.1,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/cs2-msc-bbp-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 281.6,
-      "liquidity": 443.27
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: Bebop (-6.5) vs MASONIC (+6.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-msc-bbp-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 117442.36,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: Bebop (-3.5) vs MASONIC (+3.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-msc-bbp-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 117442.36,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller",
-      "prev": 0.655,
-      "now": 0.945,
-      "delta": 0.29,
       "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 98124.8,
-      "liquidity": 474202.68
+      "volume24hr": 142811.84,
+      "liquidity": 2093.94
     },
     {
-      "market": "Sion: Ognjen Milic vs Lucio Ratti \u2014 Ognjen Milic vs. Lucio Ratti: Total Sets O/U 2.5",
-      "prev": 0.75,
+      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Kuzmanov vs. Moeller: Set 2 Games O/U 8.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-milic-ratti-2026-08-17",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 2.56,
-      "liquidity": 11047.65
+      "volume24hr": 142811.84,
+      "liquidity": 2681.51
     },
     {
-      "market": "Sion: Ognjen Milic vs Lucio Ratti \u2014 Set Handicap: Milic (-1.5) vs Ratti (+1.5)",
-      "prev": 0.25,
+      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Dimitar Kuzmanov vs. Marvin Moeller: Total Sets O/U 2.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.2495,
-      "url": "https://polymarket.com/event/atp-milic-ratti-2026-08-17",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 75802.11,
-      "liquidity": 10492.15
+      "volume24hr": 5.0,
+      "liquidity": 5806.39
     },
     {
-      "market": "Sion: Ognjen Milic vs Lucio Ratti \u2014 Milic vs. Ratti: Match O/U 21.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-milic-ratti-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 75802.11,
-      "liquidity": 11056.26
-    },
-    {
-      "market": "Sion: Ognjen Milic vs Lucio Ratti \u2014 Set Handicap: Ratti (-1.5) vs Milic (+1.5)",
-      "prev": 0.25,
+      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Kuzmanov vs. Moeller: Match O/U 21.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.2495,
-      "url": "https://polymarket.com/event/atp-milic-ratti-2026-08-17",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 85.0,
-      "liquidity": 10469.98
+      "volume24hr": 142811.84,
+      "liquidity": 5732.25
     },
     {
-      "market": "Sion: Ognjen Milic vs Lucio Ratti \u2014 Milic vs. Ratti: Match O/U 22.5",
-      "prev": 0.75,
+      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Set Handicap: Kuzmanov (-1.5) vs Moeller (+1.5)",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-milic-ratti-2026-08-17",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 75802.11,
-      "liquidity": 11050.1
+      "volume24hr": 71.98,
+      "liquidity": 4349.17
+    },
+    {
+      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Kuzmanov vs. Moeller: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 142811.84,
+      "liquidity": 5784.89
+    },
+    {
+      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Kuzmanov vs. Moeller: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 142811.84,
+      "liquidity": 2695.87
     }
   ],
   "log": [
-    {
-      "ts": "05:30:02",
-      "text": " poll complete \u2014 1656 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1651 markets scanned, 10 flagged"
@@ -265,6 +261,10 @@
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1645 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:00:02",
+      "text": " poll complete \u2014 1643 markets scanned, 10 flagged"
     }
   ]
 }
