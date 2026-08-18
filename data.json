@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 07:00:01 UTC",
+  "lastUpdate": "2026-08-18 07:15:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 18?",
-      "prev": 0.205,
-      "now": 0.705,
-      "delta": 0.5,
+      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 18?",
+      "prev": 0.3,
+      "now": 0.0005,
+      "delta": -0.2995,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
       "tags": [
         "Weather",
@@ -15,14 +15,14 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 20218.42,
-      "liquidity": 495.12
+      "volume24hr": 28512.03,
+      "liquidity": 15830.38
     },
     {
-      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 18?",
-      "prev": 0.75,
-      "now": 0.3,
-      "delta": -0.45,
+      "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 18?",
+      "prev": 0.705,
+      "now": 0.97,
+      "delta": 0.265,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
       "tags": [
         "Weather",
@@ -32,14 +32,14 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 24743.31,
-      "liquidity": 221.9
+      "volume24hr": 24098.03,
+      "liquidity": 2389.0
     },
     {
       "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 34\u00b0C on August 18?",
-      "prev": 0.835,
-      "now": 0.92,
-      "delta": 0.085,
+      "prev": 0.92,
+      "now": 0.8,
+      "delta": -0.12,
       "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
       "tags": [
         "Weather",
@@ -49,34 +49,82 @@
         "Shenzhen",
         "Highest temperature"
       ],
-      "volume24hr": 4408.98,
-      "liquidity": 341.18
+      "volume24hr": 4995.69,
+      "liquidity": 211.09
     },
     {
-      "market": "Bitcoin Up or Down on August 18?",
-      "prev": 0.675,
-      "now": 0.605,
-      "delta": -0.07,
-      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-18-2026",
+      "market": "Highest temperature in Taipei on August 18? \u2014 Will the highest temperature in Taipei be 35\u00b0C on August 18?",
+      "prev": 0.125,
+      "now": 0.005,
+      "delta": -0.12,
+      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-18-2026",
       "tags": [
-        "Crypto",
-        "Crypto Prices",
+        "Weather",
         "Recurring",
         "Hide From New",
-        "Bitcoin",
-        "Up or Down",
-        "Today \ud83d\ude80",
-        "Daily",
-        "Daily-Close"
+        "Daily Temperature",
+        "Taipei",
+        "Highest temperature"
       ],
-      "volume24hr": 217681.04,
-      "liquidity": 29837.69
+      "volume24hr": 2383.23,
+      "liquidity": 469.12
+    },
+    {
+      "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 35\u00b0C on August 18?",
+      "prev": 0.0695,
+      "now": 0.1775,
+      "delta": 0.108,
+      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shenzhen",
+        "Highest temperature"
+      ],
+      "volume24hr": 8150.99,
+      "liquidity": 213.94
+    },
+    {
+      "market": "Highest temperature in Taipei on August 18? \u2014 Will the highest temperature in Taipei be 34\u00b0C on August 18?",
+      "prev": 0.88,
+      "now": 0.985,
+      "delta": 0.105,
+      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Taipei",
+        "Highest temperature"
+      ],
+      "volume24hr": 3901.06,
+      "liquidity": 424.54
+    },
+    {
+      "market": "Highest temperature in Chengdu on August 18? \u2014 Will the highest temperature in Chengdu be 24\u00b0C on August 18?",
+      "prev": 0.1,
+      "now": 0.175,
+      "delta": 0.075,
+      "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-18-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Chengdu",
+        "Highest temperature"
+      ],
+      "volume24hr": 4040.4,
+      "liquidity": 325.37
     },
     {
       "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 19\u00b0C on August 18?",
-      "prev": 0.11,
-      "now": 0.1785,
-      "delta": 0.0685,
+      "prev": 0.1785,
+      "now": 0.1115,
+      "delta": -0.067,
       "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
       "tags": [
         "Weather",
@@ -86,96 +134,28 @@
         "Munich",
         "Highest temperature"
       ],
-      "volume24hr": 11046.95,
-      "liquidity": 961.49
+      "volume24hr": 11289.66,
+      "liquidity": 1286.61
     },
     {
-      "market": "Elon Musk # tweets August 11 - August 18, 2026? \u2014 Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
-      "prev": 0.341,
-      "now": 0.406,
-      "delta": 0.065,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-11-august-18",
-      "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
-      ],
-      "volume24hr": 176230.93,
-      "liquidity": 12191.86
-    },
-    {
-      "market": "Highest temperature in London on August 18? \u2014 Will the highest temperature in London be 23\u00b0C on August 18?",
-      "prev": 0.15,
-      "now": 0.09,
-      "delta": -0.06,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-18-2026",
+      "market": "Highest temperature in Chengdu on August 18? \u2014 Will the highest temperature in Chengdu be 23\u00b0C on August 18?",
+      "prev": 0.87,
+      "now": 0.805,
+      "delta": -0.065,
+      "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-18-2026",
       "tags": [
         "Weather",
         "Recurring",
         "Hide From New",
-        "London",
         "Daily Temperature",
+        "Chengdu",
         "Highest temperature"
       ],
-      "volume24hr": 8646.44,
-      "liquidity": 1286.93
-    },
-    {
-      "market": "Elon Musk # tweets August 11 - August 18, 2026? \u2014 Will Elon Musk post 160-179 tweets from August 11 to August 18, 2026?",
-      "prev": 0.625,
-      "now": 0.57,
-      "delta": -0.055,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-11-august-18",
-      "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
-      ],
-      "volume24hr": 87666.17,
-      "liquidity": 7958.5
-    },
-    {
-      "market": "Bitcoin above ___ on August 18? \u2014 Will the price of Bitcoin be above $64,000 on August 18?",
-      "prev": 0.795,
-      "now": 0.755,
-      "delta": -0.04,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-18-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 35255.28,
-      "liquidity": 24988.8
-    },
-    {
-      "market": "Bitcoin price on August 18? \u2014 Will the price of Bitcoin be between $64,000 and $66,000 on August 18?",
-      "prev": 0.795,
-      "now": 0.755,
-      "delta": -0.04,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-18-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 3922.38,
-      "liquidity": 16932.73
+      "volume24hr": 10819.95,
+      "liquidity": 315.43
     }
   ],
   "log": [
-    {
-      "ts": "23:45:01",
-      "text": " poll complete \u2014 1619 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:00:02",
       "text": " poll complete \u2014 1667 markets scanned, 10 flagged"
@@ -291,6 +271,10 @@
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1594 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:15:01",
+      "text": " poll complete \u2014 1582 markets scanned, 9 flagged"
     }
   ]
 }
