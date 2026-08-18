@@ -1,85 +1,25 @@
 {
-  "lastUpdate": "2026-08-18 04:45:02 UTC",
+  "lastUpdate": "2026-08-18 05:00:02 UTC",
   "swings": [
     {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca 2nd Half O/U 0.5",
+      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Cincinnati Open: Completed Match: Alexandra Eala vs Amanda Anisimova",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 306194.38,
-      "liquidity": 1239.82
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca O/U 1.5",
-      "prev": 0.595,
       "now": 0.9995,
-      "delta": 0.4045,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 541.52,
-      "liquidity": 50107.58
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla \u2014 Will Club Puebla win on 2026-08-17?",
-      "prev": 0.535,
-      "now": 0.16,
-      "delta": -0.375,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 217053.34,
-      "liquidity": 143865.86
-    },
-    {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-      "prev": 0.53,
-      "now": 0.235,
-      "delta": -0.295,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1150319.33,
-      "liquidity": 446213.09
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca O/U 2.5",
-      "prev": 0.2,
-      "now": 0.495,
-      "delta": 0.295,
-      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 661.46,
-      "liquidity": 3315.74
+      "volume24hr": 1269970.28,
+      "liquidity": 4635.74
     },
     {
       "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: O/U 4.5",
-      "prev": 0.365,
-      "now": 0.635,
-      "delta": 0.27,
+      "prev": 0.635,
+      "now": 0.34,
+      "delta": -0.295,
       "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -87,14 +27,42 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 34163.61,
-      "liquidity": 59485.5
+      "volume24hr": 65251.12,
+      "liquidity": 55798.03
     },
     {
-      "market": "CF Pachuca vs. Club Puebla - Exact Score \u2014 Exact Score: CF Pachuca 1 - 2 Club Puebla?",
-      "prev": 0.2695,
-      "now": 0.0005,
-      "delta": -0.269,
+      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
+      "prev": 0.665,
+      "now": 0.935,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/atp-paul-vallejo-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 435995.28,
+      "liquidity": 481639.95
+    },
+    {
+      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Alexandra Eala vs. Amanda Anisimova: Total Sets O/U 2.5",
+      "prev": 0.75,
+      "now": 0.9995,
+      "delta": 0.2495,
+      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 959.03,
+      "liquidity": 9778.15
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - Exact Score \u2014 Exact Score: CF Pachuca 2 - 2 Club Puebla?",
+      "prev": 0.3785,
+      "now": 0.624,
+      "delta": 0.2455,
       "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-exact-score",
       "tags": [
         "Sports",
@@ -102,14 +70,43 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 3409.33,
-      "liquidity": 27462.8
+      "volume24hr": 1959.31,
+      "liquidity": 3201.69
     },
     {
-      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: O/U 3.5",
-      "prev": 0.735,
-      "now": 0.9995,
-      "delta": 0.2645,
+      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+      "prev": 0.235,
+      "now": 0.0005,
+      "delta": -0.2345,
+      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1252953.37,
+      "liquidity": 560667.56
+    },
+    {
+      "market": "Will CF Pachuca vs. Club Puebla end in a draw?",
+      "prev": 0.455,
+      "now": 0.685,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 54758.7,
+      "liquidity": 142120.31
+    },
+    {
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: CF Pachuca O/U 2.5",
+      "prev": 0.495,
+      "now": 0.28,
+      "delta": -0.215,
       "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -117,43 +114,41 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 59489.38,
-      "liquidity": 191906.36
+      "volume24hr": 797.85,
+      "liquidity": 1871.32
     },
     {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Eala vs. Anisimova: Match O/U 23.5",
-      "prev": 0.635,
-      "now": 0.865,
-      "delta": 0.23,
-      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
+      "market": "CF Pachuca vs. Club Puebla - More Markets \u2014 CF Pachuca vs. Club Puebla: O/U 5.5",
+      "prev": 0.215,
+      "now": 0.04,
+      "delta": -0.175,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 1167336.24,
-      "liquidity": 3074.4
+      "volume24hr": 22947.75,
+      "liquidity": 89458.29
     },
     {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova \u2014 Eala vs. Anisimova: Match O/U 22.5",
-      "prev": 0.64,
-      "now": 0.865,
-      "delta": 0.225,
-      "url": "https://polymarket.com/event/wta-eala-anisimo-2026-08-17",
+      "market": "CF Pachuca vs. Club Puebla \u2014 Will CF Pachuca win on 2026-08-17?",
+      "prev": 0.385,
+      "now": 0.225,
+      "delta": -0.16,
+      "url": "https://polymarket.com/event/mex-pac-pue-2026-08-17",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 14.29,
-      "liquidity": 3074.4
+      "volume24hr": 154144.1,
+      "liquidity": 125024.02
     }
   ],
   "log": [
-    {
-      "ts": "21:30:02",
-      "text": " poll complete \u2014 1650 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:45:01",
       "text": " poll complete \u2014 1639 markets scanned, 10 flagged"
@@ -269,6 +264,10 @@
     {
       "ts": "04:45:02",
       "text": " poll complete \u2014 1690 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:00:02",
+      "text": " poll complete \u2014 1687 markets scanned, 10 flagged"
     }
   ]
 }
