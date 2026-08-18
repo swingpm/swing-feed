@@ -1,152 +1,157 @@
 {
-  "lastUpdate": "2026-08-18 22:00:02 UTC",
+  "lastUpdate": "2026-08-18 22:15:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Set 1 Winner: Faria vs Walton",
-      "prev": 0.55,
-      "now": 0.0005,
-      "delta": -0.5495,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 8234.06,
-      "liquidity": 30000.98
-    },
-    {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton",
-      "prev": 0.615,
-      "now": 0.085,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 294195.35,
-      "liquidity": 410464.45
-    },
-    {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Faria vs. Walton: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 306088.24,
-      "liquidity": 7407.88
-    },
-    {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Faria vs. Walton: Set 1 Games O/U 10.5",
+      "market": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata - More Markets \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: Deportivo Riestra AFBC O/U 1.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
+      "url": "https://polymarket.com/event/argcopa-rie-glp-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 94.42,
+      "liquidity": 11431.16
+    },
+    {
+      "market": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata - More Markets \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: Gimnasia y Esgrima La Plata O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/argcopa-rie-glp-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 2530.11,
+      "liquidity": 25980.96
+    },
+    {
+      "market": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata - More Markets \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/argcopa-rie-glp-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 110810.01,
+      "liquidity": 3173.89
+    },
+    {
+      "market": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata - More Markets \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: Deportivo Riestra AFBC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/argcopa-rie-glp-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 110810.01,
+      "liquidity": 3173.82
+    },
+    {
+      "market": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata - More Markets \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/argcopa-rie-glp-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 110810.01,
+      "liquidity": 3168.9
+    },
+    {
+      "market": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata - More Markets \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/argcopa-rie-glp-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 110810.01,
+      "liquidity": 3168.9
+    },
+    {
+      "market": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata - More Markets \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: Deportivo Riestra AFBC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/argcopa-rie-glp-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 110810.01,
+      "liquidity": 3168.78
+    },
+    {
+      "market": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata - More Markets \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: Gimnasia y Esgrima La Plata 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/argcopa-rie-glp-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 110810.01,
+      "liquidity": 3196.86
+    },
+    {
+      "market": "Will Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata end in a draw?",
+      "prev": 0.675,
+      "now": 0.9995,
+      "delta": 0.3245,
+      "url": "https://polymarket.com/event/argcopa-rie-glp-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 4657.46,
+      "liquidity": 45438.29
+    },
+    {
+      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Faria vs. Walton: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.23,
+      "delta": -0.27,
       "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 19.43,
-      "liquidity": 7416.67
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev \u2014 Cincinnati Open: Completed Match: Brandon Nakashima vs Daniil Medvedev",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1639440.5,
-      "liquidity": 1977.87
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Bejlek vs. Alexandrova: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 9.0,
-      "liquidity": 4266.04
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Bejlek vs. Alexandrova: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 295904.07,
-      "liquidity": 4012.23
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Bejlek vs. Alexandrova: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 295904.07,
-      "liquidity": 3977.58
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev \u2014 Nakashima vs. Medvedev: Match O/U 21.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 467.99,
-      "liquidity": 6834.52
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev \u2014 Nakashima vs. Medvedev: Match O/U 22.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 814.92,
-      "liquidity": 6834.42
+      "volume24hr": 225.65,
+      "liquidity": 608.0
     }
   ],
   "log": [
-    {
-      "ts": "14:45:01",
-      "text": " poll complete \u2014 1672 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:00:01",
       "text": " poll complete \u2014 1666 markets scanned, 10 flagged"
@@ -262,6 +267,10 @@
     {
       "ts": "22:00:02",
       "text": " poll complete \u2014 1863 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:15:01",
+      "text": " poll complete \u2014 1847 markets scanned, 10 flagged"
     }
   ]
 }
