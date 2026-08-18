@@ -1,25 +1,96 @@
 {
-  "lastUpdate": "2026-08-18 13:15:01 UTC",
+  "lastUpdate": "2026-08-18 13:30:01 UTC",
   "swings": [
     {
-      "market": "Prague 2: Filip Jianu vs Andrej Martin",
-      "prev": 0.835,
-      "now": 0.96,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/atp-jianu-mar-2026-08-18",
+      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 65959.61,
-      "liquidity": 411429.24
+      "volume24hr": 309058.11,
+      "liquidity": 5862.09
+    },
+    {
+      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 309058.11,
+      "liquidity": 5253.74
+    },
+    {
+      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Set 1 Winner: Brunclik vs Kumstat",
+      "prev": 0.49,
+      "now": 0.0005,
+      "delta": -0.4895,
+      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 815.84,
+      "liquidity": 13255.2
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 3: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-dnsc-nsea-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1899989.23,
+      "liquidity": 113.67
+    },
+    {
+      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 1 Games O/U 8.5",
+      "prev": 0.645,
+      "now": 0.9995,
+      "delta": 0.3545,
+      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 53.36,
+      "liquidity": 5869.58
+    },
+    {
+      "market": "Prague 2: Petr Brunclik vs Jan Kumstat",
+      "prev": 0.44,
+      "now": 0.175,
+      "delta": -0.265,
+      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 305870.27,
+      "liquidity": 437203.76
     },
     {
       "market": "Highest temperature in London on August 18? \u2014 Will the highest temperature in London be 24\u00b0C on August 18?",
-      "prev": 0.26,
-      "now": 0.1525,
-      "delta": -0.1075,
+      "prev": 0.1525,
+      "now": 0.0015,
+      "delta": -0.151,
       "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-18-2026",
       "tags": [
         "Weather",
@@ -29,49 +100,45 @@
         "Daily Temperature",
         "Highest temperature"
       ],
-      "volume24hr": 19090.44,
-      "liquidity": 593.54
+      "volume24hr": 19520.22,
+      "liquidity": 6001.55
     },
     {
-      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 19\u00b0C on August 18?",
-      "prev": 0.7615,
-      "now": 0.6585,
-      "delta": -0.103,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Rublev vs. Borges: Set 1 Games O/U 8.5",
+      "prev": 0.845,
+      "now": 0.7,
+      "delta": -0.145,
+      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 166346.34,
+      "liquidity": 2690.58
+    },
+    {
+      "market": "Highest temperature in London on August 18? \u2014 Will the highest temperature in London be 25\u00b0C on August 18?",
+      "prev": 0.645,
+      "now": 0.79,
+      "delta": 0.145,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-18-2026",
       "tags": [
         "Weather",
         "Recurring",
         "Hide From New",
+        "London",
         "Daily Temperature",
-        "Munich",
         "Highest temperature"
       ],
-      "volume24hr": 23404.68,
-      "liquidity": 474.24
-    },
-    {
-      "market": "Ethereum above ___ on August 18? \u2014 Will the price of Ethereum be above $1,900 on August 18?",
-      "prev": 0.52,
-      "now": 0.42,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-18-2026",
-      "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 14960.71,
-      "liquidity": 19286.76
+      "volume24hr": 8820.59,
+      "liquidity": 432.75
     },
     {
       "market": "Bitcoin Up or Down on August 18?",
-      "prev": 0.595,
-      "now": 0.495,
-      "delta": -0.1,
+      "prev": 0.495,
+      "now": 0.375,
+      "delta": -0.12,
       "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-18-2026",
       "tags": [
         "Crypto",
@@ -84,90 +151,11 @@
         "Daily",
         "Daily-Close"
       ],
-      "volume24hr": 247855.71,
-      "liquidity": 23497.66
-    },
-    {
-      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Total Rounds: Over/Under 24.5",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 62675.27,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Rounds Handicap: STATE (-3.5) vs Vitality Academy (+3.5)",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 171338.01
-    },
-    {
-      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Rounds Handicap: STATE (-9.5) vs Vitality Academy (+9.5)",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 171338.01
-    },
-    {
-      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.9,
-      "now": 1.0,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 62675.27,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Rounds Handicap: Vitality Academy (-3.5) vs STATE (+3.5)",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 62675.27,
-      "liquidity": 0.0
+      "volume24hr": 252269.59,
+      "liquidity": 22289.81
     }
   ],
   "log": [
-    {
-      "ts": "06:00:01",
-      "text": " poll complete \u2014 1655 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:15:01",
       "text": " poll complete \u2014 1608 markets scanned, 10 flagged"
@@ -283,6 +271,10 @@
     {
       "ts": "13:15:01",
       "text": " poll complete \u2014 1673 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:30:01",
+      "text": " poll complete \u2014 1709 markets scanned, 10 flagged"
     }
   ]
 }
