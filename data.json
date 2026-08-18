@@ -1,68 +1,125 @@
 {
-  "lastUpdate": "2026-08-18 16:30:01 UTC",
+  "lastUpdate": "2026-08-18 16:45:02 UTC",
   "swings": [
     {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports - Game 2 Winner",
-      "prev": 0.36,
-      "now": 0.895,
-      "delta": 0.535,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
+      "market": "Will Iran target a Arab country on...? \u2014 Will Iran target a Arab country on August 18, 2026?",
+      "prev": 0.121,
+      "now": 0.768,
+      "delta": 0.647,
+      "url": "https://polymarket.com/event/will-iran-target-a-arab-country-onptptpt-20260801004719118",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Iran",
+        "Qatar",
+        "Geopolitics",
+        "Saudi Arabia",
+        "Iran Ceasefire"
       ],
-      "volume24hr": 22435.8,
-      "liquidity": 169040.34
+      "volume24hr": 8612.04,
+      "liquidity": 6594.21
     },
     {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Cincinnati Open: Completed Match: Andrey Rublev vs Nuno Borges",
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Rublev vs. Borges: Match O/U 21.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 770.0,
-      "liquidity": 2017.54
+      "volume24hr": 290.59,
+      "liquidity": 7364.56
     },
     {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Rublev vs. Borges: Match O/U 22.5",
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Rublev vs. Borges: Set 2 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 589.83,
-      "liquidity": 6409.91
+      "volume24hr": 1350166.63,
+      "liquidity": 3678.16
     },
     {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Andrey Rublev vs. Nuno Borges: Total Sets O/U 2.5",
-      "prev": 0.45,
-      "now": 0.005,
-      "delta": -0.445,
-      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
+      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Cincinnati Open: Completed Match: Katerina Siniakova vs Madison Keys",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 4239.97,
-      "liquidity": 9023.1
+      "volume24hr": 325.0,
+      "liquidity": 2143.07
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 1st Half O/U 1.5",
-      "prev": 0.63,
-      "now": 0.22,
-      "delta": -0.41,
+      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Siniakova vs. Keys: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 215430.01,
+      "liquidity": 3681.72
+    },
+    {
+      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Siniakova vs. Keys: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 215430.01,
+      "liquidity": 3346.35
+    },
+    {
+      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Siniakova vs. Keys: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 215430.01,
+      "liquidity": 3346.35
+    },
+    {
+      "market": "Cincinnati Open: Katerina Siniakova vs Madison Keys \u2014 Siniakova vs. Keys: Match O/U 22.5",
+      "prev": 0.495,
+      "now": 0.0005,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/wta-siniako-keys-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 215430.01,
+      "liquidity": 6776.26
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Bayern Munich 1st Half O/U 1.5",
+      "prev": 0.665,
+      "now": 0.2,
+      "delta": -0.465,
       "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -70,90 +127,26 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 2.13,
-      "liquidity": 413.06
+      "volume24hr": 291.29,
+      "liquidity": 431.24
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 Spread: Bayern Munich (-3.5)",
-      "prev": 0.4,
-      "now": 0.075,
-      "delta": -0.325,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 823.02,
-      "liquidity": 8650.99
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Games Total: O/U 3.5",
-      "prev": 0.64,
-      "now": 0.325,
-      "delta": -0.315,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
+      "market": "LoL: Solary vs TLN Pirates (BO3) - LFL Playoffs \u2014 LoL: Solary vs TLN Pirates - Game 1 Winner",
+      "prev": 0.425,
+      "now": 0.0005,
+      "delta": -0.4245,
+      "url": "https://polymarket.com/event/lol-sly-tlnpir-2026-08-18",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4809.51,
-      "liquidity": 131.46
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Game Handicap: MKF (-2.5) vs Bar\u00e7a eSports (+2.5)",
-      "prev": 0.29,
-      "now": 0.585,
-      "delta": 0.295,
-      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 11646.92,
-      "liquidity": 4810.28
-    },
-    {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Both Teams to Score in First Half",
-      "prev": 0.725,
-      "now": 0.995,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 135.84,
-      "liquidity": 2237.98
-    },
-    {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Bayern Munich 1st Half O/U 0.5",
-      "prev": 0.725,
-      "now": 0.995,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 590.06,
-      "liquidity": 1620.14
+      "volume24hr": 65114.72,
+      "liquidity": 591726.43
     }
   ],
   "log": [
-    {
-      "ts": "09:15:02",
-      "text": " poll complete \u2014 1636 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:30:02",
       "text": " poll complete \u2014 1619 markets scanned, 10 flagged"
@@ -269,6 +262,10 @@
     {
       "ts": "16:30:01",
       "text": " poll complete \u2014 1756 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:45:02",
+      "text": " poll complete \u2014 1770 markets scanned, 10 flagged"
     }
   ]
 }
