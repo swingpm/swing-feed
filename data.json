@@ -1,158 +1,158 @@
 {
-  "lastUpdate": "2026-08-18 00:45:01 UTC",
+  "lastUpdate": "2026-08-18 01:00:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Emma Navarro vs Jessica Pegula \u2014 Cincinnati Open: Completed Match: Emma Navarro vs Jessica Pegula",
+      "market": "Will SC Internacional vs. Clube do Remo end in a draw?",
+      "prev": 0.09,
+      "now": 0.9995,
+      "delta": 0.9095,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 14958.02,
+      "liquidity": 291812.81
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - Exact Score \u2014 Exact Score: SC Internacional 1 - 1 Clube do Remo?",
+      "prev": 0.09,
+      "now": 0.997,
+      "delta": 0.907,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 3400.37,
+      "liquidity": 11675.52
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo \u2014 Will SC Internacional win on 2026-08-17?",
+      "prev": 0.905,
+      "now": 0.0005,
+      "delta": -0.9045,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 112962.33,
+      "liquidity": 258191.31
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: Clube do Remo O/U 0.5",
+      "prev": 0.11,
+      "now": 0.997,
+      "delta": 0.887,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 378.17,
+      "liquidity": 17255.76
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: Both Teams to Score",
+      "prev": 0.12,
+      "now": 0.9995,
+      "delta": 0.8795,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 40809.21,
+      "liquidity": 179091.9
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - Exact Score \u2014 Exact Score: SC Internacional 1 - 0 Clube do Remo?",
+      "prev": 0.72,
+      "now": 0.003,
+      "delta": -0.717,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 14231.34,
+      "liquidity": 90517.29
+    },
+    {
+      "market": "SC Internacional vs. Clube do Remo - More Markets \u2014 SC Internacional vs. Clube do Remo: O/U 1.5",
+      "prev": 0.285,
+      "now": 0.9995,
+      "delta": 0.7145,
+      "url": "https://polymarket.com/event/bra-int-cre-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 29879.87,
+      "liquidity": 162981.8
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: Atlanta Braves vs. Minnesota Twins",
+      "prev": 0.3,
+      "now": 0.9995,
+      "delta": 0.6995,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 4598.16,
+      "liquidity": 40235.44
+    },
+    {
+      "market": "Detroit Tigers vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 450136.65,
+      "liquidity": 2221.89
+    },
+    {
+      "market": "Detroit Tigers vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Detroit Tigers (-1.5)",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-navarro-pegula-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 368749.0,
-      "liquidity": 1170.84
-    },
-    {
-      "market": "Cincinnati Open: Emma Navarro vs Jessica Pegula \u2014 Navarro vs. Pegula: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-navarro-pegula-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 368749.0,
-      "liquidity": 2713.84
-    },
-    {
-      "market": "Cincinnati Open: Emma Navarro vs Jessica Pegula \u2014 Navarro vs. Pegula: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-navarro-pegula-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 368749.0,
-      "liquidity": 2724.4
-    },
-    {
-      "market": "Cincinnati Open: Emma Navarro vs Jessica Pegula \u2014 Navarro vs. Pegula: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-navarro-pegula-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 368749.0,
-      "liquidity": 2724.4
-    },
-    {
-      "market": "San Diego Padres vs. New York Mets \u2014 1st 5 Innings Spread: New York Mets (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 10.66,
-      "liquidity": 1903.17
-    },
-    {
-      "market": "San Diego Padres vs. New York Mets \u2014 1st 5 Innings Spread: San Diego Padres (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 324378.47,
-      "liquidity": 1899.17
-    },
-    {
-      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 324378.47,
-      "liquidity": 1932.93
-    },
-    {
-      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1901.53,
-      "liquidity": 8555.83
-    },
-    {
-      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 324378.47,
-      "liquidity": 2534.55
-    },
-    {
-      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 8.35,
-      "liquidity": 2474.58
+      "volume24hr": 450136.65,
+      "liquidity": 1947.71
     }
   ],
   "log": [
-    {
-      "ts": "17:30:01",
-      "text": " poll complete \u2014 1733 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:45:01",
       "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
@@ -268,6 +268,10 @@
     {
       "ts": "00:45:01",
       "text": " poll complete \u2014 1689 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:00:01",
+      "text": " poll complete \u2014 1742 markets scanned, 10 flagged"
     }
   ]
 }
