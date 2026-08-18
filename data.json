@@ -1,155 +1,169 @@
 {
-  "lastUpdate": "2026-08-18 13:00:02 UTC",
+  "lastUpdate": "2026-08-18 13:15:01 UTC",
   "swings": [
     {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Games Total: O/U 2.5",
-      "prev": 0.28,
-      "now": 0.9995,
-      "delta": 0.7195,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1191.7,
-      "liquidity": 16987.91
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: BRO (-1.5) vs Gen.G Global Academy (+1.5)",
-      "prev": 0.65,
-      "now": 0.0005,
-      "delta": -0.6495,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 7051.76,
-      "liquidity": 104501.73
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: Gen.G Global Academy vs HANJIN BRION Challengers - Game 2 Winner",
-      "prev": 0.355,
-      "now": 0.9995,
-      "delta": 0.6445,
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 178255.69,
-      "liquidity": 662176.69
-    },
-    {
-      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Set 2 Winner: Kuzmanov vs Moeller",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
+      "market": "Prague 2: Filip Jianu vs Andrej Martin",
+      "prev": 0.835,
+      "now": 0.96,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/atp-jianu-mar-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 142811.84,
-      "liquidity": 2093.94
+      "volume24hr": 65959.61,
+      "liquidity": 411429.24
     },
     {
-      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Kuzmanov vs. Moeller: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
+      "market": "Highest temperature in London on August 18? \u2014 Will the highest temperature in London be 24\u00b0C on August 18?",
+      "prev": 0.26,
+      "now": 0.1525,
+      "delta": -0.1075,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-18-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 142811.84,
-      "liquidity": 2681.51
+      "volume24hr": 19090.44,
+      "liquidity": 593.54
     },
     {
-      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Dimitar Kuzmanov vs. Marvin Moeller: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
+      "market": "Highest temperature in Munich on August 18? \u2014 Will the highest temperature in Munich be 19\u00b0C on August 18?",
+      "prev": 0.7615,
+      "now": 0.6585,
+      "delta": -0.103,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-18-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 23404.68,
+      "liquidity": 474.24
+    },
+    {
+      "market": "Ethereum above ___ on August 18? \u2014 Will the price of Ethereum be above $1,900 on August 18?",
+      "prev": 0.52,
+      "now": 0.42,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-18-2026",
+      "tags": [
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 14960.71,
+      "liquidity": 19286.76
+    },
+    {
+      "market": "Bitcoin Up or Down on August 18?",
+      "prev": 0.595,
+      "now": 0.495,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-18-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Up or Down",
+        "Today \ud83d\ude80",
+        "Daily",
+        "Daily-Close"
+      ],
+      "volume24hr": 247855.71,
+      "liquidity": 23497.66
+    },
+    {
+      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Total Rounds: Over/Under 24.5",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 62675.27,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Rounds Handicap: STATE (-3.5) vs Vitality Academy (+3.5)",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
       "volume24hr": 5.0,
-      "liquidity": 5806.39
+      "liquidity": 171338.01
     },
     {
-      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Kuzmanov vs. Moeller: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
+      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Rounds Handicap: STATE (-9.5) vs Vitality Academy (+9.5)",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 142811.84,
-      "liquidity": 5732.25
+      "volume24hr": 5.0,
+      "liquidity": 171338.01
     },
     {
-      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Set Handicap: Kuzmanov (-1.5) vs Moeller (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
+      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 71.98,
-      "liquidity": 4349.17
+      "volume24hr": 62675.27,
+      "liquidity": 0.0
     },
     {
-      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Kuzmanov vs. Moeller: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
+      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 1 Rounds Handicap: Vitality Academy (-3.5) vs STATE (+3.5)",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 142811.84,
-      "liquidity": 5784.89
-    },
-    {
-      "market": "Sion: Dimitar Kuzmanov vs Marvin Moeller \u2014 Kuzmanov vs. Moeller: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kuzmano-moelle-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 142811.84,
-      "liquidity": 2695.87
+      "volume24hr": 62675.27,
+      "liquidity": 0.0
     }
   ],
   "log": [
-    {
-      "ts": "05:45:01",
-      "text": " poll complete \u2014 1651 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:00:01",
       "text": " poll complete \u2014 1655 markets scanned, 10 flagged"
@@ -265,6 +279,10 @@
     {
       "ts": "13:00:02",
       "text": " poll complete \u2014 1643 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:15:01",
+      "text": " poll complete \u2014 1673 markets scanned, 10 flagged"
     }
   ]
 }
