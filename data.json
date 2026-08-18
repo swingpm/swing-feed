@@ -1,158 +1,148 @@
 {
-  "lastUpdate": "2026-08-18 15:15:02 UTC",
+  "lastUpdate": "2026-08-18 15:30:01 UTC",
   "swings": [
     {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Thailand O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 1054.42,
-      "liquidity": 20485.74
-    },
-    {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Singapore O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 25777.2,
-      "liquidity": 119834.47
-    },
-    {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 321361.51,
-      "liquidity": 3961.28
-    },
-    {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Thailand 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 321361.51,
-      "liquidity": 3890.09
-    },
-    {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Singapore 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 321361.51,
-      "liquidity": 3946.45
-    },
-    {
-      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Set 1 Winner: Rublev vs Borges",
+      "prev": 0.59,
+      "now": 0.075,
+      "delta": -0.515,
+      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 257451.3,
-      "liquidity": 2301.36
+      "volume24hr": 1924.09,
+      "liquidity": 5471.35
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Set 2 Winner: Mrva vs Fatic",
+      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Sion: Completed Match: Gerard Campana Lee vs Alex Marti Pujolras",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 257451.3,
-      "liquidity": 2337.41
+      "volume24hr": 25.0,
+      "liquidity": 969.04
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 2 Games O/U 9.5",
+      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Set 2 Winner: Lee vs Pujolras",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 257451.3,
-      "liquidity": 2337.89
+      "volume24hr": 101627.82,
+      "liquidity": 2651.34
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 2 Games O/U 10.5",
+      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101627.82,
+      "liquidity": 2651.34
+    },
+    {
+      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Set Handicap: Pujolras (-1.5) vs Lee (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101627.82,
+      "liquidity": 3940.84
+    },
+    {
+      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Match O/U 22.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 257451.3,
-      "liquidity": 2273.39
+      "volume24hr": 101627.82,
+      "liquidity": 5746.08
     },
     {
-      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Counter-Strike: Omega vs Fire Flux Esports - Map 2 Winner",
-      "prev": 0.705,
-      "now": 0.21,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
+      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 32683.12,
-      "liquidity": 36796.04
+      "volume24hr": 101627.82,
+      "liquidity": 2651.34
+    },
+    {
+      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101627.82,
+      "liquidity": 5746.08
+    },
+    {
+      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Lee vs. Pujolras: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101627.82,
+      "liquidity": 2661.9
+    },
+    {
+      "market": "Sion: Gerard Campana Lee vs Alex Marti Pujolras \u2014 Gerard Campana Lee vs. Alex Marti Pujolras: Total Sets O/U 2.5",
+      "prev": 0.495,
+      "now": 0.0005,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/atp-gerardc-pujolra-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101627.82,
+      "liquidity": 5331.62
     }
   ],
   "log": [
-    {
-      "ts": "08:00:01",
-      "text": " poll complete \u2014 1568 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:15:01",
       "text": " poll complete \u2014 1595 markets scanned, 10 flagged"
@@ -268,6 +258,10 @@
     {
       "ts": "15:15:02",
       "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:30:01",
+      "text": " poll complete \u2014 1723 markets scanned, 10 flagged"
     }
   ]
 }
