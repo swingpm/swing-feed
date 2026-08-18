@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 02:45:01 UTC",
+  "lastUpdate": "2026-08-18 03:00:02 UTC",
   "swings": [
     {
-      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: Club Le\u00f3n FC O/U 1.5",
-      "prev": 0.28,
-      "now": 0.9995,
-      "delta": 0.7195,
+      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: 2nd Half O/U 2.5",
+      "prev": 0.65,
+      "now": 0.0045,
+      "delta": -0.6455,
       "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -13,115 +13,29 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 1384.13,
-      "liquidity": 6378.63
+      "volume24hr": 268227.07,
+      "liquidity": 3836.64
     },
     {
-      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Lehecka vs. Fils: Match O/U 23.5",
-      "prev": 0.32,
-      "now": 0.9795,
-      "delta": 0.6595,
-      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 619.88,
-      "liquidity": 9317.44
-    },
-    {
-      "market": "Club Necaxa vs. Club Le\u00f3n FC \u2014 Will Club Le\u00f3n FC win on 2026-08-17?",
-      "prev": 0.095,
-      "now": 0.695,
-      "delta": 0.6,
-      "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 143580.17,
-      "liquidity": 135844.05
-    },
-    {
-      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Set 2 Winner: Lehecka vs Fils",
-      "prev": 0.425,
-      "now": 0.9995,
-      "delta": 0.5745,
-      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 2238.32,
-      "liquidity": 20709.84
-    },
-    {
-      "market": "Will the game go to extra innings?: Detroit Tigers vs. Pittsburgh Pirates",
-      "prev": 0.51,
-      "now": 0.005,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-17",
+      "market": "Atlanta Braves vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-2.5)",
+      "prev": 0.165,
+      "now": 0.735,
+      "delta": 0.57,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 543.5,
-      "liquidity": 79.08
+      "volume24hr": 5035.48,
+      "liquidity": 64355.46
     },
     {
-      "market": "Chicago White Sox vs. Chicago Cubs: O/U 8.5",
-      "prev": 0.495,
-      "now": 0.9995,
-      "delta": 0.5045,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 40045.95,
-      "liquidity": 36239.9
-    },
-    {
-      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Lehecka vs. Fils: Set 2 Games O/U 9.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 733875.05,
-      "liquidity": 3829.09
-    },
-    {
-      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Lehecka vs. Fils: Set 2 Games O/U 10.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 733875.05,
-      "liquidity": 3829.09
-    },
-    {
-      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: Club Le\u00f3n FC 2nd Half O/U 0.5",
+      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: Club Necaxa 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17-more-markets",
       "tags": [
         "Sports",
@@ -129,29 +43,115 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 219401.27,
-      "liquidity": 682.95
+      "volume24hr": 268227.07,
+      "liquidity": 3832.94
     },
     {
-      "market": "Cincinnati Open: Jiri Lehecka vs Arthur Fils \u2014 Jiri Lehecka vs. Arthur Fils: Total Sets O/U 2.5",
-      "prev": 0.495,
-      "now": 0.9845,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/atp-lehecka-fils-2026-08-17",
+      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: Club Le\u00f3n FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 1825.47,
-      "liquidity": 8710.35
+      "volume24hr": 268227.07,
+      "liquidity": 3791.55
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins: O/U 13.5",
+      "prev": 0.03,
+      "now": 0.5,
+      "delta": 0.47,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 550916.51,
+      "liquidity": 0.69
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-3.5)",
+      "prev": 0.045,
+      "now": 0.48,
+      "delta": 0.435,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 16732.21,
+      "liquidity": 10.65
+    },
+    {
+      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: O/U 3.5",
+      "prev": 0.385,
+      "now": 0.0005,
+      "delta": -0.3845,
+      "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 39133.97,
+      "liquidity": 343677.28
+    },
+    {
+      "market": "Club Necaxa vs. Club Le\u00f3n FC - More Markets \u2014 Club Necaxa vs. Club Le\u00f3n FC: Club Necaxa O/U 1.5",
+      "prev": 0.33,
+      "now": 0.0005,
+      "delta": -0.3295,
+      "url": "https://polymarket.com/event/mex-nec-leo-2026-08-17-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 631.04,
+      "liquidity": 29813.91
+    },
+    {
+      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Spread: Golden State Valkyries (-7.5)",
+      "prev": 0.435,
+      "now": 0.755,
+      "delta": 0.32,
+      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA"
+      ],
+      "volume24hr": 12690.47,
+      "liquidity": 129841.76
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-4.5)",
+      "prev": 0.04,
+      "now": 0.3595,
+      "delta": 0.3195,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-17",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 19.54,
+      "liquidity": 11838.33
     }
   ],
   "log": [
-    {
-      "ts": "19:30:01",
-      "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 1714 markets scanned, 10 flagged"
@@ -267,6 +267,10 @@
     {
       "ts": "02:45:01",
       "text": " poll complete \u2014 1763 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:00:02",
+      "text": " poll complete \u2014 1753 markets scanned, 10 flagged"
     }
   ]
 }
