@@ -1,86 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 16:15:01 UTC",
+  "lastUpdate": "2026-08-18 16:30:01 UTC",
   "swings": [
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 1st Half O/U 0.5",
-      "prev": 0.435,
-      "now": 0.9945,
-      "delta": 0.5595,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 36.19,
-      "liquidity": 930.77
-    },
-    {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 1st Half O/U 1.5",
-      "prev": 0.125,
-      "now": 0.63,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 126529.64,
-      "liquidity": 296.0
-    },
-    {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim O/U 2.5",
-      "prev": 0.15,
-      "now": 0.575,
-      "delta": 0.425,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 23.5,
-      "liquidity": 75.71
-    },
-    {
-      "market": "Counter-Strike: ex-Zero Tenacity vs Vexar (BO3) - Exort Fiesta Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.43,
-      "now": 0.005,
-      "delta": -0.425,
-      "url": "https://polymarket.com/event/cs2-zerote-vex1-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 110230.05,
-      "liquidity": 2586.24
-    },
-    {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Bayern Munich 2nd Half O/U 0.5",
-      "prev": 0.92,
-      "now": 0.5,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 97.98,
-      "liquidity": 565035.92
-    },
-    {
       "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports - Game 2 Winner",
-      "prev": 0.775,
-      "now": 0.36,
-      "delta": -0.415,
+      "prev": 0.36,
+      "now": 0.895,
+      "delta": 0.535,
       "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
       "tags": [
         "Esports",
@@ -88,43 +13,56 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 6248.35,
-      "liquidity": 134507.88
+      "volume24hr": 22435.8,
+      "liquidity": 169040.34
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Both Teams to Score in First Half",
-      "prev": 0.335,
-      "now": 0.725,
-      "delta": 0.39,
-      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 91.99,
-      "liquidity": 274.26
-    },
-    {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Set 2 Winner: Rublev vs Borges",
-      "prev": 0.625,
-      "now": 0.265,
-      "delta": -0.36,
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Cincinnati Open: Completed Match: Andrey Rublev vs Nuno Borges",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 4743.16,
-      "liquidity": 12645.33
+      "volume24hr": 770.0,
+      "liquidity": 2017.54
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim O/U 1.5",
-      "prev": 0.355,
-      "now": 0.695,
-      "delta": 0.34,
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Rublev vs. Borges: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 589.83,
+      "liquidity": 6409.91
+    },
+    {
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges \u2014 Andrey Rublev vs. Nuno Borges: Total Sets O/U 2.5",
+      "prev": 0.45,
+      "now": 0.005,
+      "delta": -0.445,
+      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 4239.97,
+      "liquidity": 9023.1
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 1st Half O/U 1.5",
+      "prev": 0.63,
+      "now": 0.22,
+      "delta": -0.41,
       "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -132,14 +70,14 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 144.0,
-      "liquidity": 92.79
+      "volume24hr": 2.13,
+      "liquidity": 413.06
     },
     {
-      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: 1. FC Heidenheim 2nd Half O/U 1.5",
-      "prev": 0.18,
-      "now": 0.5,
-      "delta": 0.32,
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 Spread: Bayern Munich (-3.5)",
+      "prev": 0.4,
+      "now": 0.075,
+      "delta": -0.325,
       "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -147,15 +85,71 @@
         "Soccer",
         "Club Friendlies"
       ],
-      "volume24hr": 126529.64,
-      "liquidity": 565035.92
+      "volume24hr": 823.02,
+      "liquidity": 8650.99
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Games Total: O/U 3.5",
+      "prev": 0.64,
+      "now": 0.325,
+      "delta": -0.315,
+      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4809.51,
+      "liquidity": 131.46
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports (BO5) - LES Playoffs \u2014 Game Handicap: MKF (-2.5) vs Bar\u00e7a eSports (+2.5)",
+      "prev": 0.29,
+      "now": 0.585,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/lol-koia-bar-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 11646.92,
+      "liquidity": 4810.28
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Both Teams to Score in First Half",
+      "prev": 0.725,
+      "now": 0.995,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 135.84,
+      "liquidity": 2237.98
+    },
+    {
+      "market": "1. FC Heidenheim vs. Bayern Munich - More Markets \u2014 1. FC Heidenheim vs. Bayern Munich: Bayern Munich 1st Half O/U 0.5",
+      "prev": 0.725,
+      "now": 0.995,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/clf-fch-bmu-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 590.06,
+      "liquidity": 1620.14
     }
   ],
   "log": [
-    {
-      "ts": "09:00:02",
-      "text": " poll complete \u2014 1613 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:15:02",
       "text": " poll complete \u2014 1636 markets scanned, 10 flagged"
@@ -271,6 +265,10 @@
     {
       "ts": "16:15:01",
       "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:30:01",
+      "text": " poll complete \u2014 1756 markets scanned, 10 flagged"
     }
   ]
 }
