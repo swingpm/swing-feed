@@ -1,162 +1,152 @@
 {
-  "lastUpdate": "2026-08-18 11:45:01 UTC",
+  "lastUpdate": "2026-08-18 12:00:01 UTC",
   "swings": [
     {
-      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: SD Raiders FC O/U 0.5",
+      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Rounds Handicap: STATE (-6.5) vs Vitality Academy (+6.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "Australia Cup"
+        "Sports"
       ],
-      "volume24hr": 755.25,
-      "liquidity": 12408.87
+      "volume24hr": 62003.87,
+      "liquidity": 443.27
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: Sydney FC O/U 1.5",
+      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Rounds Handicap: STATE (-3.5) vs Vitality Academy (+3.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "Australia Cup"
+        "Sports"
       ],
-      "volume24hr": 643.6,
-      "liquidity": 13309.34
+      "volume24hr": 62003.87,
+      "liquidity": 113.67
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: 2nd Half O/U 2.5",
+      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Rounds Handicap: STATE (-9.5) vs Vitality Academy (+9.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "Australia Cup"
+        "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 3818.96
+      "volume24hr": 62003.87,
+      "liquidity": 113.67
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: SD Raiders FC 2nd Half O/U 0.5",
+      "market": "Counter-Strike: Vitality Academy vs STATE (BO3) - European Pro League Regular Playoffs \u2014 Map 2 Total Rounds: Over/Under 24.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-vita-sta6-2026-08-18",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "Australia Cup"
+        "Sports"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 3818.89
+      "volume24hr": 62003.87,
+      "liquidity": 113.67
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: SD Raiders FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "market": "Prague 2: Javier Barranco Cosano vs Martin Krumich",
+      "prev": 0.915,
+      "now": 0.605,
+      "delta": -0.31,
+      "url": "https://polymarket.com/event/atp-cosano-krumich-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Australia Cup"
+        "Games"
       ],
-      "volume24hr": 15.0,
-      "liquidity": 3851.69
+      "volume24hr": 123335.78,
+      "liquidity": 411759.74
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: Sydney FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 1 Games O/U 9.5",
+      "prev": 0.72,
+      "now": 0.47,
+      "delta": -0.25,
+      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Australia Cup"
+        "Games"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 3812.04
+      "volume24hr": 102960.0,
+      "liquidity": 7.2
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 0 - 2 Sydney FC?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-exact-score",
+      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Bailly vs. Gombos: Match O/U 21.5",
+      "prev": 0.7505,
+      "now": 0.9995,
+      "delta": 0.249,
+      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Australia Cup"
+        "Games"
       ],
-      "volume24hr": 10857.66,
-      "liquidity": 22891.34
+      "volume24hr": 576.1,
+      "liquidity": 7456.51
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 1 - 1 Sydney FC?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-exact-score",
+      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Gilles Arnaud Bailly vs. Norbert Gombos: Total Sets O/U 2.5",
+      "prev": 0.755,
+      "now": 0.995,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Australia Cup"
+        "Games"
       ],
-      "volume24hr": 3771.25,
-      "liquidity": 21755.58
+      "volume24hr": 646.1,
+      "liquidity": 7452.9
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 0 - 3 Sydney FC?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-exact-score",
+      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Set Handicap: Bailly (-1.5) vs Gombos (+1.5)",
+      "prev": 0.245,
+      "now": 0.005,
+      "delta": -0.24,
+      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Australia Cup"
+        "Games"
       ],
-      "volume24hr": 4091.84,
-      "liquidity": 15468.72
+      "volume24hr": 4.11,
+      "liquidity": 7445.45
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 1 - 2 Sydney FC?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-exact-score",
+      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Set Handicap: Gombos (-1.5) vs Bailly (+1.5)",
+      "prev": 0.245,
+      "now": 0.005,
+      "delta": -0.24,
+      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Australia Cup"
+        "Games"
       ],
-      "volume24hr": 4181.94,
-      "liquidity": 15022.75
+      "volume24hr": 348635.93,
+      "liquidity": 7445.45
     }
   ],
   "log": [
-    {
-      "ts": "04:30:01",
-      "text": " poll complete \u2014 1677 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:45:02",
       "text": " poll complete \u2014 1690 markets scanned, 10 flagged"
@@ -272,6 +262,10 @@
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1654 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:00:01",
+      "text": " poll complete \u2014 1658 markets scanned, 10 flagged"
     }
   ]
 }
