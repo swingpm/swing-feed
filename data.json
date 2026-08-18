@@ -1,154 +1,158 @@
 {
-  "lastUpdate": "2026-08-18 14:00:01 UTC",
+  "lastUpdate": "2026-08-18 14:15:01 UTC",
   "swings": [
     {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Thailand 1st Half O/U 0.5",
-      "prev": 0.54,
-      "now": 0.0005,
-      "delta": -0.5395,
-      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "ASEAN Championship"
+        "Sports"
       ],
-      "volume24hr": 469.41,
-      "liquidity": 6789.87
+      "volume24hr": 3457816.47,
+      "liquidity": 113.67
     },
     {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Both Teams to Score in First Half",
-      "prev": 0.5005,
-      "now": 0.0005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "ASEAN Championship"
+        "Sports"
       ],
-      "volume24hr": 866.81,
-      "liquidity": 14900.8
+      "volume24hr": 3457816.47,
+      "liquidity": 113.67
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Match O/U 21.5",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 18.18,
-      "liquidity": 5785.05
+      "volume24hr": 3457816.47,
+      "liquidity": 113.67
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Set 2 Winner: Brunclik vs Kumstat",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 447862.74,
-      "liquidity": 2831.65
+      "volume24hr": 3457816.47,
+      "liquidity": 104.36
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 2 Games O/U 8.5",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 447862.74,
-      "liquidity": 2717.8
+      "volume24hr": 3457816.47,
+      "liquidity": 113.67
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Petr Brunclik vs. Jan Kumstat: Total Sets O/U 2.5",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 281.0,
-      "liquidity": 5931.25
+      "volume24hr": 3457816.47,
+      "liquidity": 113.67
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Set Handicap: Brunclik (-1.5) vs Kumstat (+1.5)",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Both Teams Slay a Dragon?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 4344.37
+      "volume24hr": 3457816.47,
+      "liquidity": 113.67
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Match O/U 22.5",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 3: Both Teams Destroy Inhibitors?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 1077.27,
-      "liquidity": 5785.05
+      "volume24hr": 3457816.47,
+      "liquidity": 113.67
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Brunclik vs. Kumstat: Set 2 Games O/U 9.5",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 First Blood in Game 1?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 447862.74,
-      "liquidity": 2717.66
+      "volume24hr": 3457816.47,
+      "liquidity": 113.67
     },
     {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat \u2014 Set Handicap: Kumstat (-1.5) vs Brunclik (+1.5)",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 First Blood in Game 2?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-kumstat-2026-08-17",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 12.2,
-      "liquidity": 4506.55
+      "volume24hr": 3457816.47,
+      "liquidity": 113.67
     }
   ],
   "log": [
-    {
-      "ts": "06:45:01",
-      "text": " poll complete \u2014 1601 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1594 markets scanned, 10 flagged"
@@ -264,6 +268,10 @@
     {
       "ts": "14:00:01",
       "text": " poll complete \u2014 1684 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:15:01",
+      "text": " poll complete \u2014 1674 markets scanned, 10 flagged"
     }
   ]
 }
