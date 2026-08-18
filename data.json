@@ -1,109 +1,43 @@
 {
-  "lastUpdate": "2026-08-18 06:15:01 UTC",
+  "lastUpdate": "2026-08-18 06:30:01 UTC",
   "swings": [
     {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Veronica Burton: Assists O/U 5.5",
-      "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 91.95,
-      "liquidity": 440.67
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Odyssey Sims: Assists O/U 2.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 4.04,
-      "liquidity": 413.72
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Arike Ogunbowale: Rebounds O/U 3.5",
-      "prev": 0.505,
-      "now": 0.905,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 907276.29,
-      "liquidity": 413.67
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Arike Ogunbowale: Assists O/U 3.5",
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs \u2014 Game 1: Any Player Penta Kill?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "WNBA"
+        "Sports"
       ],
-      "volume24hr": 162.79,
-      "liquidity": 113.67
+      "volume24hr": 5.0,
+      "liquidity": 443.27
     },
     {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Cecilia Zandalasini: Rebounds O/U 2.5",
-      "prev": 0.495,
-      "now": 0.095,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
+      "market": "Highest temperature in Taipei on August 18? \u2014 Will the highest temperature in Taipei be 34\u00b0C on August 18?",
+      "prev": 0.57,
+      "now": 0.845,
+      "delta": 0.275,
+      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-18-2026",
       "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Taipei",
+        "Highest temperature"
       ],
-      "volume24hr": 7.24,
-      "liquidity": 413.67
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Veronica Burton: Rebounds O/U 3.5",
-      "prev": 0.505,
-      "now": 0.9,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 4.0,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries \u2014 Gabby Williams: Assists O/U 2.5",
-      "prev": 0.5095,
-      "now": 0.9005,
-      "delta": 0.391,
-      "url": "https://polymarket.com/event/wnba-dal-gsv-2026-08-17",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA"
-      ],
-      "volume24hr": 907276.29,
-      "liquidity": 745.27
+      "volume24hr": 3682.63,
+      "liquidity": 211.93
     },
     {
       "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 18?",
-      "prev": 0.315,
-      "now": 0.585,
-      "delta": 0.27,
+      "prev": 0.585,
+      "now": 0.765,
+      "delta": 0.18,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
       "tags": [
         "Weather",
@@ -113,14 +47,14 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 18922.37,
-      "liquidity": 373.3
+      "volume24hr": 19949.85,
+      "liquidity": 929.73
     },
     {
       "market": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 18?",
-      "prev": 0.605,
-      "now": 0.39,
-      "delta": -0.215,
+      "prev": 0.39,
+      "now": 0.23,
+      "delta": -0.16,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-18-2026",
       "tags": [
         "Weather",
@@ -130,32 +64,120 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 16508.4,
-      "liquidity": 283.5
+      "volume24hr": 17493.39,
+      "liquidity": 344.23
     },
     {
-      "market": "Highest temperature in Shenzhen on August 18? \u2014 Will the highest temperature in Shenzhen be 34\u00b0C on August 18?",
-      "prev": 0.815,
-      "now": 0.935,
-      "delta": 0.12,
-      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-18-2026",
+      "market": "Highest temperature in Taipei on August 18? \u2014 Will the highest temperature in Taipei be 35\u00b0C on August 18?",
+      "prev": 0.27,
+      "now": 0.12,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-18-2026",
       "tags": [
         "Weather",
         "Recurring",
         "Hide From New",
         "Daily Temperature",
-        "Shenzhen",
+        "Taipei",
         "Highest temperature"
       ],
-      "volume24hr": 3141.53,
-      "liquidity": 355.16
+      "volume24hr": 1984.69,
+      "liquidity": 140.17
+    },
+    {
+      "market": "Bitcoin Up or Down on August 18?",
+      "prev": 0.505,
+      "now": 0.615,
+      "delta": 0.11,
+      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-18-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Up or Down",
+        "Today \ud83d\ude80",
+        "Daily",
+        "Daily-Close"
+      ],
+      "volume24hr": 215428.26,
+      "liquidity": 30928.25
+    },
+    {
+      "market": "Bitcoin price on August 18? \u2014 Will the price of Bitcoin be between $62,000 and $64,000 on August 18?",
+      "prev": 0.34,
+      "now": 0.23,
+      "delta": -0.11,
+      "url": "https://polymarket.com/event/bitcoin-price-on-august-18-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Neg Risk",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 6058.76,
+      "liquidity": 17758.09
+    },
+    {
+      "market": "Ethereum above ___ on August 18? \u2014 Will the price of Ethereum be above $1,900 on August 18?",
+      "prev": 0.385,
+      "now": 0.49,
+      "delta": 0.105,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-18-2026",
+      "tags": [
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 5118.47,
+      "liquidity": 17625.53
+    },
+    {
+      "market": "Bitcoin price on August 18? \u2014 Will the price of Bitcoin be between $64,000 and $66,000 on August 18?",
+      "prev": 0.66,
+      "now": 0.765,
+      "delta": 0.105,
+      "url": "https://polymarket.com/event/bitcoin-price-on-august-18-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Neg Risk",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 2875.51,
+      "liquidity": 17509.26
+    },
+    {
+      "market": "Bitcoin above ___ on August 18? \u2014 Will the price of Bitcoin be above $64,000 on August 18?",
+      "prev": 0.675,
+      "now": 0.765,
+      "delta": 0.09,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-18-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 33719.21,
+      "liquidity": 27179.94
     }
   ],
   "log": [
-    {
-      "ts": "23:00:02",
-      "text": " poll complete \u2014 1657 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:15:02",
       "text": " poll complete \u2014 1642 markets scanned, 10 flagged"
@@ -271,6 +293,10 @@
     {
       "ts": "06:15:01",
       "text": " poll complete \u2014 1608 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:30:01",
+      "text": " poll complete \u2014 1601 markets scanned, 10 flagged"
     }
   ]
 }
