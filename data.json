@@ -1,81 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 11:15:01 UTC",
+  "lastUpdate": "2026-08-18 11:30:01 UTC",
   "swings": [
     {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Bailly vs. Gombos: Match O/U 22.5",
-      "prev": 0.485,
-      "now": 0.985,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267794.77,
-      "liquidity": 3518.95
-    },
-    {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Set 2 Winner: Bailly vs Gombos",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267794.77,
-      "liquidity": 2880.19
-    },
-    {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Bailly vs. Gombos: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267794.77,
-      "liquidity": 2837.84
-    },
-    {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Bailly vs. Gombos: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267794.77,
-      "liquidity": 2827.28
-    },
-    {
-      "market": "Prague 2: Gilles Arnaud Bailly vs Norbert Gombos \u2014 Bailly vs. Gombos: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bailly-gombos-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267794.77,
-      "liquidity": 2837.84
-    },
-    {
-      "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 2 - 1 Sydney FC?",
-      "prev": 0.011,
-      "now": 0.4995,
-      "delta": 0.4885,
+      "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 0 - 1 Sydney FC?",
+      "prev": 0.455,
+      "now": 0.995,
+      "delta": 0.54,
       "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-exact-score",
       "tags": [
         "Sports",
@@ -83,14 +13,14 @@
         "Soccer",
         "Australia Cup"
       ],
-      "volume24hr": 4304.07,
-      "liquidity": 0.01
+      "volume24hr": 6402.97,
+      "liquidity": 361.35
     },
     {
       "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: SD Raiders FC O/U 1.5",
-      "prev": 0.02,
-      "now": 0.5,
-      "delta": 0.48,
+      "prev": 0.5,
+      "now": 0.0015,
+      "delta": -0.4985,
       "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -98,14 +28,74 @@
         "Soccer",
         "Australia Cup"
       ],
-      "volume24hr": 988.76,
-      "liquidity": 0.02
+      "volume24hr": 1038.76,
+      "liquidity": 11054.12
+    },
+    {
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Australia Cup"
+      ],
+      "volume24hr": 95094.77,
+      "liquidity": 2595.0
+    },
+    {
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Australia Cup"
+      ],
+      "volume24hr": 95094.77,
+      "liquidity": 2581.0
+    },
+    {
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Australia Cup"
+      ],
+      "volume24hr": 95094.77,
+      "liquidity": 2644.0
+    },
+    {
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: Sydney FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Australia Cup"
+      ],
+      "volume24hr": 21.83,
+      "liquidity": 2672.0
     },
     {
       "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 1 - 3 Sydney FC?",
-      "prev": 0.023,
-      "now": 0.5,
-      "delta": 0.477,
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-exact-score",
       "tags": [
         "Sports",
@@ -113,14 +103,14 @@
         "Soccer",
         "Australia Cup"
       ],
-      "volume24hr": 5310.07,
-      "liquidity": 0.02
+      "volume24hr": 7384.36,
+      "liquidity": 361.36
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: SD Raiders FC O/U 0.5",
-      "prev": 0.125,
-      "now": 0.555,
-      "delta": 0.43,
+      "market": "SD Raiders FC vs. Sydney FC - More Markets \u2014 SD Raiders FC vs. Sydney FC: Sydney FC O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
       "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -128,14 +118,14 @@
         "Soccer",
         "Australia Cup"
       ],
-      "volume24hr": 735.25,
-      "liquidity": 70.62
+      "volume24hr": 393.43,
+      "liquidity": 10890.02
     },
     {
-      "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 1 - 2 Sydney FC?",
-      "prev": 0.07,
-      "now": 0.5,
-      "delta": 0.43,
+      "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 2 - 3 Sydney FC?",
+      "prev": 0.4995,
+      "now": 0.005,
+      "delta": -0.4945,
       "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-exact-score",
       "tags": [
         "Sports",
@@ -143,15 +133,26 @@
         "Soccer",
         "Australia Cup"
       ],
-      "volume24hr": 4116.94,
-      "liquidity": 56185.57
+      "volume24hr": 3525.11,
+      "liquidity": 361.36
+    },
+    {
+      "market": "SD Raiders FC vs. Sydney FC - Exact Score \u2014 Exact Score: SD Raiders FC 3 - 2 Sydney FC?",
+      "prev": 0.4995,
+      "now": 0.005,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/auc-sdr-syd-2026-08-18-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Australia Cup"
+      ],
+      "volume24hr": 167.06,
+      "liquidity": 361.36
     }
   ],
   "log": [
-    {
-      "ts": "04:00:01",
-      "text": " poll complete \u2014 1688 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:15:01",
       "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
@@ -267,6 +268,10 @@
     {
       "ts": "11:15:01",
       "text": " poll complete \u2014 1651 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:30:01",
+      "text": " poll complete \u2014 1654 markets scanned, 10 flagged"
     }
   ]
 }
