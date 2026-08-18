@@ -1,159 +1,156 @@
 {
-  "lastUpdate": "2026-08-18 23:15:01 UTC",
+  "lastUpdate": "2026-08-18 23:30:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Bejlek vs. Alexandrova: Match O/U 23.5",
+      "market": "Cincinnati Open: Jaime Faria vs Adam Walton \u2014 Cincinnati Open: Completed Match: Jaime Faria vs Adam Walton",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
+      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 21.76,
-      "liquidity": 4331.77
+      "volume24hr": 832.0,
+      "liquidity": 1816.38
     },
     {
-      "market": "Los Angeles Sparks vs. Connecticut Sun \u2014 Erica Wheeler: Assists O/U 5.5",
-      "prev": 0.0045,
-      "now": 0.5,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/wnba-la-conn-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 1590.23,
-      "liquidity": 0.61
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Cincinnati Open: Completed Match: Sara Bejlek vs Ekaterina Alexandrova",
+      "market": "Recoleta FC vs. CA Boca Juniors - More Markets \u2014 Recoleta FC vs. CA Boca Juniors: CA Boca Juniors 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 819.0,
-      "liquidity": 1795.17
-    },
-    {
-      "market": "Los Angeles Sparks vs. Connecticut Sun \u2014 Erica Wheeler: Points O/U 9.5",
-      "prev": 0.005,
-      "now": 0.5,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wnba-la-conn-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 729.08,
-      "liquidity": 0.63
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova \u2014 Sara Bejlek vs. Ekaterina Alexandrova: Total Sets O/U 2.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 89.43,
-      "liquidity": 4331.77
-    },
-    {
-      "market": "Los Angeles Sparks vs. Connecticut Sun \u2014 Erica Wheeler: Points O/U 8.5",
-      "prev": 0.0045,
-      "now": 0.4945,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/wnba-la-conn-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 572.83,
-      "liquidity": 8.68
-    },
-    {
-      "market": "CS Independiente Rivadavia vs. Fluminense FC - More Markets \u2014 CS Independiente Rivadavia vs. Fluminense FC: Fluminense FC O/U 2.5",
-      "prev": 0.0105,
-      "now": 0.4955,
-      "delta": 0.485,
-      "url": "https://polymarket.com/event/lib-cir-flu-2026-08-18-more-markets",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/sud-rec1-boc-2026-08-18-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 103572.67,
-      "liquidity": 35.68
+      "volume24hr": 5.0,
+      "liquidity": 1273.62
     },
     {
-      "market": "Los Angeles Sparks vs. Connecticut Sun \u2014 Erica Wheeler: Rebounds O/U 2.5",
-      "prev": 0.005,
-      "now": 0.4785,
-      "delta": 0.4735,
-      "url": "https://polymarket.com/event/wnba-la-conn-2026-08-18",
+      "market": "Recoleta FC vs. CA Boca Juniors - More Markets \u2014 Recoleta FC vs. CA Boca Juniors: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/sud-rec1-boc-2026-08-18-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "Copa Sudamericana"
       ],
-      "volume24hr": 799.99,
-      "liquidity": 26.74
+      "volume24hr": 156988.98,
+      "liquidity": 1267.33
     },
     {
-      "market": "Los Angeles Sparks vs. Connecticut Sun \u2014 Brittney Griner: Rebounds O/U 5.5",
-      "prev": 0.0045,
-      "now": 0.452,
-      "delta": 0.4475,
-      "url": "https://polymarket.com/event/wnba-la-conn-2026-08-18",
+      "market": "Cincinnati Open: Jaime Faria vs Adam Walton",
+      "prev": 0.525,
+      "now": 0.9995,
+      "delta": 0.4745,
+      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1273882.51,
+      "liquidity": 582806.56
+    },
+    {
+      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.535,
+      "now": 0.995,
+      "delta": 0.46,
+      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 227.85,
+      "liquidity": 2444.12
+    },
+    {
+      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy - Game 2 Winner",
+      "prev": 0.555,
+      "now": 0.9995,
+      "delta": 0.4445,
+      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 35488.58,
+      "liquidity": 215137.29
+    },
+    {
+      "market": "Will the game go to extra innings?: Arizona Diamondbacks vs. Boston Red Sox",
+      "prev": 0.06,
+      "now": 0.5,
+      "delta": 0.44,
+      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-18",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 4318.51,
-      "liquidity": 4.1
+      "volume24hr": 655411.82,
+      "liquidity": 514068.94
     },
     {
-      "market": "Los Angeles Sparks vs. Connecticut Sun \u2014 Brittney Griner: Points O/U 11.5",
-      "prev": 0.005,
-      "now": 0.4435,
-      "delta": 0.4385,
-      "url": "https://polymarket.com/event/wnba-la-conn-2026-08-18",
+      "market": "Will there be a run scored in the first inning?: Arizona Diamondbacks vs. Boston Red Sox",
+      "prev": 0.425,
+      "now": 0.85,
+      "delta": 0.425,
+      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-18",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1875.91,
-      "liquidity": 179.86
+      "volume24hr": 9299.06,
+      "liquidity": 665.69
+    },
+    {
+      "market": "LoL: INTZ e-Sports vs 7REX (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-itz-7rex-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 133966.87,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: INTZ e-Sports vs 7REX (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-itz-7rex-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 133966.87,
+      "liquidity": 113.67
     }
   ],
   "log": [
-    {
-      "ts": "16:00:02",
-      "text": " poll complete \u2014 1720 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:15:01",
       "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
@@ -269,6 +266,10 @@
     {
       "ts": "23:15:01",
       "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:30:01",
+      "text": " poll complete \u2014 1886 markets scanned, 10 flagged"
     }
   ]
 }
