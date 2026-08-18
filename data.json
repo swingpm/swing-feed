@@ -1,56 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 15:00:01 UTC",
+  "lastUpdate": "2026-08-18 15:15:02 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map Handicap: MOUZ.N (-1.5) vs SPARTA (+1.5)",
-      "prev": 0.505,
-      "now": 0.0045,
-      "delta": -0.5005,
-      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 89.97,
-      "liquidity": 2259.39
-    },
-    {
-      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 20.0,
-      "liquidity": 609.76
-    },
-    {
-      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 2 Rounds Handicap: SPARTA (-3.5) vs MOUZ NXT (+3.5)",
+      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Thailand O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1256.85,
-      "liquidity": 1082.15
-    },
-    {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Thailand O/U 2.5",
-      "prev": 0.045,
-      "now": 0.5,
-      "delta": 0.455,
       "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -58,89 +13,14 @@
         "Soccer",
         "ASEAN Championship"
       ],
-      "volume24hr": 539.42,
-      "liquidity": 0.52
-    },
-    {
-      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 2 Rounds Handicap: SPARTA (-6.5) vs MOUZ NXT (+6.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 158316.07,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Map 2 Rounds Handicap: MOUZ NXT (-3.5) vs SPARTA (+3.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 158316.07,
-      "liquidity": 113.67
-    },
-    {
-      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Counter-Strike: SPARTA vs MOUZ NXT - Map 2 Winner",
-      "prev": 0.645,
-      "now": 0.9995,
-      "delta": 0.3545,
-      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 73367.94,
-      "liquidity": 633197.53
-    },
-    {
-      "market": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C \u2014 Games Total: O/U 2.5",
-      "prev": 0.66,
-      "now": 0.9995,
-      "delta": 0.3395,
-      "url": "https://polymarket.com/event/cs2-sparta-mouzn-2026-08-18",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 188.41,
-      "liquidity": 7762.98
-    },
-    {
-      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: O/U 3.5",
-      "prev": 0.48,
-      "now": 0.15,
-      "delta": -0.33,
-      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 38748.87,
-      "liquidity": 761.93
+      "volume24hr": 1054.42,
+      "liquidity": 20485.74
     },
     {
       "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Singapore O/U 2.5",
-      "prev": 0.19,
-      "now": 0.5,
-      "delta": 0.31,
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +28,127 @@
         "Soccer",
         "ASEAN Championship"
       ],
-      "volume24hr": 24857.2,
-      "liquidity": 4.46
+      "volume24hr": 25777.2,
+      "liquidity": 119834.47
+    },
+    {
+      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "ASEAN Championship"
+      ],
+      "volume24hr": 321361.51,
+      "liquidity": 3961.28
+    },
+    {
+      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Thailand 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "ASEAN Championship"
+      ],
+      "volume24hr": 321361.51,
+      "liquidity": 3890.09
+    },
+    {
+      "market": "Thailand vs. Singapore - More Markets \u2014 Thailand vs. Singapore: Singapore 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/asean-tha-sin-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "ASEAN Championship"
+      ],
+      "volume24hr": 321361.51,
+      "liquidity": 3946.45
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 257451.3,
+      "liquidity": 2301.36
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Set 2 Winner: Mrva vs Fatic",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 257451.3,
+      "liquidity": 2337.41
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 257451.3,
+      "liquidity": 2337.89
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Nerman Fatic \u2014 Mrva vs. Fatic: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-fatic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 257451.3,
+      "liquidity": 2273.39
+    },
+    {
+      "market": "Counter-Strike: Omega vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #4 Group A \u2014 Counter-Strike: Omega vs Fire Flux Esports - Map 2 Winner",
+      "prev": 0.705,
+      "now": 0.21,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-omega1-ff-2026-08-18",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 32683.12,
+      "liquidity": 36796.04
     }
   ],
   "log": [
-    {
-      "ts": "07:45:01",
-      "text": " poll complete \u2014 1558 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:00:01",
       "text": " poll complete \u2014 1568 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "15:00:01",
       "text": " poll complete \u2014 1666 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:15:02",
+      "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
     }
   ]
 }
