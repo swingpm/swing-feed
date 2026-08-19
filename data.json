@@ -1,55 +1,26 @@
 {
-  "lastUpdate": "2026-08-19 14:30:02 UTC",
+  "lastUpdate": "2026-08-19 14:45:01 UTC",
   "swings": [
     {
-      "market": "Sion: Lorenzo Giustino vs Henry Bernet \u2014 Sion: Completed Match: Lorenzo Giustino vs Henry Bernet",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-giustin-bernet-2026-08-19",
+      "market": "Counter-Strike: Misa Esports vs ex-Sashi Academy (BO3) - CCT Europe Challengers Series Playoffs",
+      "prev": 0.605,
+      "now": 0.2,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/cs2-mis-sashia1-2026-08-19",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 215455.99,
-      "liquidity": 1143.07
-    },
-    {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Vietnam 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "ASEAN Championship"
+        "Sports"
       ],
-      "volume24hr": 162493.51,
-      "liquidity": 3629.06
+      "volume24hr": 45754.53,
+      "liquidity": 58405.18
     },
     {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: 2nd Half O/U 0.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 162493.51,
-      "liquidity": 3928.75
-    },
-    {
-      "market": "Valorant: Bilibili Gaming vs XLG Gaming (BO3) - VCT China Stage 2 Playoffs",
-      "prev": 0.59,
-      "now": 0.985,
-      "delta": 0.395,
+      "market": "Valorant: Bilibili Gaming vs XLG Gaming (BO3) - VCT China Stage 2 Playoffs \u2014 Map 3 Total Rounds: Over/Under 22.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/val-blg-xlg-2026-08-19",
       "tags": [
         "Esports",
@@ -57,43 +28,74 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 69930.52,
-      "liquidity": 126414.13
+      "volume24hr": 23.79,
+      "liquidity": 443.27
     },
     {
-      "market": "Sion: Lorenzo Giustino vs Henry Bernet",
-      "prev": 0.605,
-      "now": 0.9995,
-      "delta": 0.3945,
-      "url": "https://polymarket.com/event/atp-giustin-bernet-2026-08-19",
+      "market": "Valorant: Bilibili Gaming vs XLG Gaming (BO3) - VCT China Stage 2 Playoffs \u2014 Map 3 Total Rounds: Over/Under 20.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/val-blg-xlg-2026-08-19",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 215205.07,
-      "liquidity": 508061.15
+      "volume24hr": 25.17,
+      "liquidity": 443.27
     },
     {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game Handicap: SU (-1.5) vs Dark Passage (+1.5)",
-      "prev": 0.505,
-      "now": 0.895,
-      "delta": 0.39,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "market": "Valorant: Bilibili Gaming vs XLG Gaming (BO3) - VCT China Stage 2 Playoffs \u2014 Map 3 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/val-blg-xlg-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 111524.57,
+      "liquidity": 443.27
+    },
+    {
+      "market": "Valorant: Bilibili Gaming vs XLG Gaming (BO3) - VCT China Stage 2 Playoffs \u2014 Map 3 Rounds Handicap: XLG Gaming (-2.5) vs Bilibili Gaming (+2.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/val-blg-xlg-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 14.44,
+      "liquidity": 443.27
+    },
+    {
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 2?",
+      "prev": 0.6,
+      "now": 0.9995,
+      "delta": 0.3995,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 81438.51,
-      "liquidity": 5167.56
+      "volume24hr": 179.09,
+      "liquidity": 1999.32
     },
     {
-      "market": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: G2 vs Astralis - Map 1 Winner",
-      "prev": 0.585,
-      "now": 0.205,
-      "delta": -0.38,
+      "market": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs \u2014 Map Handicap: AST (-1.5) vs G2 (+1.5)",
+      "prev": 0.5,
+      "now": 0.235,
+      "delta": -0.265,
       "url": "https://polymarket.com/event/cs2-g2-ast10-2026-08-19",
       "tags": [
         "Esports",
@@ -101,58 +103,56 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 55137.46,
-      "liquidity": 123376.69
+      "volume24hr": 532881.62,
+      "liquidity": 33697.63
     },
     {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game Handicap: SU (-2.5) vs Dark Passage (+2.5)",
-      "prev": 0.43,
-      "now": 0.76,
-      "delta": 0.33,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "market": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.265,
+      "now": 0.5,
+      "delta": 0.235,
+      "url": "https://polymarket.com/event/cs2-g2-ast10-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 196.12,
+      "liquidity": 1.2
+    },
+    {
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 LoL: Team WE vs EDward Gaming - Game 2 Winner",
+      "prev": 0.64,
+      "now": 0.855,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 533.6,
-      "liquidity": 4124.55
+      "volume24hr": 137662.13,
+      "liquidity": 173320.99
     },
     {
-      "market": "Sion: Lorenzo Giustino vs Henry Bernet \u2014 Giustino vs. Bernet: Match O/U 21.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-giustin-bernet-2026-08-19",
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Games Total: O/U 2.5",
+      "prev": 0.67,
+      "now": 0.88,
+      "delta": 0.21,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 215455.99,
-      "liquidity": 10146.16
-    },
-    {
-      "market": "Sion: Lorenzo Giustino vs Henry Bernet \u2014 Lorenzo Giustino vs. Henry Bernet: Total Sets O/U 2.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-giustin-bernet-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 215455.99,
-      "liquidity": 10138.19
+      "volume24hr": 100317.4,
+      "liquidity": 127043.7
     }
   ],
   "log": [
-    {
-      "ts": "07:15:02",
-      "text": " poll complete \u2014 1834 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:30:02",
       "text": " poll complete \u2014 1834 markets scanned, 10 flagged"
@@ -268,6 +268,10 @@
     {
       "ts": "14:30:02",
       "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:45:01",
+      "text": " poll complete \u2014 1866 markets scanned, 10 flagged"
     }
   ]
 }
