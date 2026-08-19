@@ -1,162 +1,157 @@
 {
-  "lastUpdate": "2026-08-19 14:45:01 UTC",
+  "lastUpdate": "2026-08-19 15:00:02 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Misa Esports vs ex-Sashi Academy (BO3) - CCT Europe Challengers Series Playoffs",
-      "prev": 0.605,
-      "now": 0.2,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/cs2-mis-sashia1-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 45754.53,
-      "liquidity": 58405.18
-    },
-    {
-      "market": "Valorant: Bilibili Gaming vs XLG Gaming (BO3) - VCT China Stage 2 Playoffs \u2014 Map 3 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-blg-xlg-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 23.79,
-      "liquidity": 443.27
-    },
-    {
-      "market": "Valorant: Bilibili Gaming vs XLG Gaming (BO3) - VCT China Stage 2 Playoffs \u2014 Map 3 Total Rounds: Over/Under 20.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-blg-xlg-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 25.17,
-      "liquidity": 443.27
-    },
-    {
-      "market": "Valorant: Bilibili Gaming vs XLG Gaming (BO3) - VCT China Stage 2 Playoffs \u2014 Map 3 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-blg-xlg-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 111524.57,
-      "liquidity": 443.27
-    },
-    {
-      "market": "Valorant: Bilibili Gaming vs XLG Gaming (BO3) - VCT China Stage 2 Playoffs \u2014 Map 3 Rounds Handicap: XLG Gaming (-2.5) vs Bilibili Gaming (+2.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-blg-xlg-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 14.44,
-      "liquidity": 443.27
-    },
-    {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 2?",
-      "prev": 0.6,
+      "market": "Vietnam vs. Malaysia - More Markets \u2014 Spread: Vietnam (-1.5)",
+      "prev": 0.27,
       "now": 0.9995,
-      "delta": 0.3995,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "delta": 0.7295,
+      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "ASEAN Championship"
       ],
-      "volume24hr": 179.09,
-      "liquidity": 1999.32
+      "volume24hr": 10755.39,
+      "liquidity": 104861.82
     },
     {
-      "market": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs \u2014 Map Handicap: AST (-1.5) vs G2 (+1.5)",
+      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: O/U 1.5",
+      "prev": 0.405,
+      "now": 0.9995,
+      "delta": 0.5945,
+      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "ASEAN Championship"
+      ],
+      "volume24hr": 70734.64,
+      "liquidity": 117420.28
+    },
+    {
+      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Malaysia O/U 0.5",
       "prev": 0.5,
-      "now": 0.235,
-      "delta": -0.265,
-      "url": "https://polymarket.com/event/cs2-g2-ast10-2026-08-19",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "ASEAN Championship"
       ],
-      "volume24hr": 532881.62,
-      "liquidity": 33697.63
+      "volume24hr": 4530.95,
+      "liquidity": 31331.94
     },
     {
-      "market": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.265,
-      "now": 0.5,
-      "delta": 0.235,
-      "url": "https://polymarket.com/event/cs2-g2-ast10-2026-08-19",
+      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Malaysia O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "ASEAN Championship"
       ],
-      "volume24hr": 196.12,
-      "liquidity": 1.2
+      "volume24hr": 710.0,
+      "liquidity": 28396.36
     },
     {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 LoL: Team WE vs EDward Gaming - Game 2 Winner",
-      "prev": 0.64,
-      "now": 0.855,
-      "delta": 0.215,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "market": "Roehampton: Michael Geerts vs Radu Albot \u2014 Roehampton: Completed Match: Michael Geerts vs Radu Albot",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-geerts-albot-2026-08-19",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 137662.13,
-      "liquidity": 173320.99
+      "volume24hr": 500.0,
+      "liquidity": 969.04
     },
     {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Games Total: O/U 2.5",
-      "prev": 0.67,
-      "now": 0.88,
-      "delta": 0.21,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "ASEAN Championship"
       ],
-      "volume24hr": 100317.4,
-      "liquidity": 127043.7
+      "volume24hr": 249854.71,
+      "liquidity": 5313.43
+    },
+    {
+      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Vietnam 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "ASEAN Championship"
+      ],
+      "volume24hr": 249854.71,
+      "liquidity": 5313.57
+    },
+    {
+      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Malaysia 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "ASEAN Championship"
+      ],
+      "volume24hr": 249854.71,
+      "liquidity": 2838.57
+    },
+    {
+      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Vietnam O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "ASEAN Championship"
+      ],
+      "volume24hr": 125.0,
+      "liquidity": 11012.97
+    },
+    {
+      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "ASEAN Championship"
+      ],
+      "volume24hr": 249854.71,
+      "liquidity": 2838.43
     }
   ],
   "log": [
-    {
-      "ts": "07:30:02",
-      "text": " poll complete \u2014 1834 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:45:01",
       "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
@@ -272,6 +267,10 @@
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1866 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:00:02",
+      "text": " poll complete \u2014 1867 markets scanned, 10 flagged"
     }
   ]
 }
