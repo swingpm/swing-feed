@@ -1,96 +1,86 @@
 {
-  "lastUpdate": "2026-08-19 11:00:02 UTC",
+  "lastUpdate": "2026-08-19 11:15:01 UTC",
   "swings": [
     {
-      "market": "What price will Bitcoin hit August 17-23? \u2014 Will Bitcoin dip to $60,000 August 17-23?",
-      "prev": 0.507,
-      "now": 0.043,
-      "delta": -0.464,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-august-17-23-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Weekly",
-        "Hit Price"
-      ],
-      "volume24hr": 19005.0,
-      "liquidity": 5321.32
-    },
-    {
-      "market": "Prague 2 (Doubles): Recek/Siniakov vs Kielan/Hernandez",
-      "prev": 0.5,
-      "now": 0.81,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/atp-doubles-recesin-kielher-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 51219.11,
-      "liquidity": 7027.61
-    },
-    {
-      "market": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (HIGH) $180 Week of August 17 2026?",
-      "prev": 0.495,
-      "now": 0.19,
-      "delta": -0.305,
-      "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
-      "tags": [
-        "Finance",
-        "Weekly",
-        "Hit Price",
-        "Hide From New",
-        "Finance Updown",
-        "Pyth Finance",
-        "Stocks",
-        "Equities",
-        "PLTR"
-      ],
-      "volume24hr": 1192.5,
-      "liquidity": 125.17
-    },
-    {
-      "market": "Counter-Strike: G2 Ares vs ex-Zero Tenacity (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.5,
-      "now": 0.27,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/cs2-g2a-zerote-2026-08-19",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 2?",
+      "prev": 0.82,
+      "now": 0.005,
+      "delta": -0.815,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 78128.22,
-      "liquidity": 9.5
+      "volume24hr": 1770.09,
+      "liquidity": 636.11
     },
     {
-      "market": "Bitcoin price on August 19? \u2014 Will the price of Bitcoin be between $62,000 and $64,000 on August 19?",
-      "prev": 0.33,
-      "now": 0.13,
-      "delta": -0.2,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-19-2026",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 LoL: Gen.G vs KT Rolster - Game 2 Winner",
+      "prev": 0.735,
+      "now": 0.005,
+      "delta": -0.73,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 8962.69,
-      "liquidity": 248.84
+      "volume24hr": 102113.73,
+      "liquidity": 97601.59
     },
     {
-      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Game Handicap: AL (-1.5) vs Top Esports (+1.5)",
-      "prev": 0.5,
-      "now": 0.31,
-      "delta": -0.19,
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Games Total: O/U 2.5",
+      "prev": 0.28,
+      "now": 0.995,
+      "delta": 0.715,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 51936.51,
+      "liquidity": 28039.96
+    },
+    {
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: GEN (-1.5) vs KT Rolster (+1.5)",
+      "prev": 0.7,
+      "now": 0.005,
+      "delta": -0.695,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 130803.41,
+      "liquidity": 107088.77
+    },
+    {
+      "market": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In \u2014 Map Handicap: OSG (-1.5) vs Team Secret (+1.5)",
+      "prev": 0.305,
+      "now": 0.995,
+      "delta": 0.69,
+      "url": "https://polymarket.com/event/val-osg-ts3-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 611.52,
+      "liquidity": 9.9
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 LoL: Anyone's Legend vs Top Esports - Game 1 Winner",
+      "prev": 0.55,
+      "now": 0.005,
+      "delta": -0.545,
       "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
       "tags": [
         "Esports",
@@ -98,80 +88,71 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 13527.41,
-      "liquidity": 666.57
+      "volume24hr": 33944.15,
+      "liquidity": 197158.28
     },
     {
-      "market": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (HIGH) $183 Week of August 17 2026?",
-      "prev": 0.28,
-      "now": 0.1,
-      "delta": -0.18,
-      "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
-      "tags": [
-        "Finance",
-        "Weekly",
-        "Hit Price",
-        "Hide From New",
-        "Finance Updown",
-        "Pyth Finance",
-        "Stocks",
-        "Equities",
-        "PLTR"
-      ],
-      "volume24hr": 192.17,
-      "liquidity": 125.52
-    },
-    {
-      "market": "Counter-Strike: G2 Ares vs ex-Zero Tenacity (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: G2 Ares vs ex-Zero Tenacity - Map 1 Winner",
-      "prev": 0.665,
-      "now": 0.51,
-      "delta": -0.155,
-      "url": "https://polymarket.com/event/cs2-g2a-zerote-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 88.87,
-      "liquidity": 38.6
-    },
-    {
-      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.4,
-      "now": 0.265,
-      "delta": -0.135,
-      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.515,
+      "now": 0.01,
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 54197.78,
-      "liquidity": 28.34
+      "volume24hr": 43.33,
+      "liquidity": 47.46
     },
     {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.38,
-      "now": 0.5,
-      "delta": 0.12,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 61999.89,
-      "liquidity": 0.1
+      "volume24hr": 151458.49,
+      "liquidity": 44.6
+    },
+    {
+      "market": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In \u2014 Games Total: O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-osg-ts3-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 102.87,
+      "liquidity": 9.9
+    },
+    {
+      "market": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In \u2014 Valorant: ONSIDE GAMING vs Team Secret - Map 2 Winner",
+      "prev": 0.565,
+      "now": 0.995,
+      "delta": 0.43,
+      "url": "https://polymarket.com/event/val-osg-ts3-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5019.15,
+      "liquidity": 18599.46
     }
   ],
   "log": [
-    {
-      "ts": "03:45:01",
-      "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1804 markets scanned, 10 flagged"
@@ -286,6 +267,10 @@
     },
     {
       "ts": "11:00:02",
+      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:15:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
     }
   ]
