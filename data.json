@@ -1,160 +1,157 @@
 {
-  "lastUpdate": "2026-08-19 02:30:01 UTC",
+  "lastUpdate": "2026-08-19 02:45:01 UTC",
   "swings": [
     {
-      "market": "Athletics vs. Kansas City Royals",
-      "prev": 0.915,
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar O/U 2.5",
+      "prev": 0.5005,
       "now": 0.0005,
-      "delta": -0.9145,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 659425.62,
-      "liquidity": 744982.24
-    },
-    {
-      "market": "Athletics vs. Kansas City Royals: O/U 6.5",
-      "prev": 0.105,
-      "now": 0.9995,
-      "delta": 0.8945,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 7211.71,
-      "liquidity": 32443.01
-    },
-    {
-      "market": "Athletics vs. Kansas City Royals \u2014 Spread: Athletics (-1.5)",
-      "prev": 0.76,
-      "now": 0.0005,
-      "delta": -0.7595,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 19393.93,
-      "liquidity": 125062.26
-    },
-    {
-      "market": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: O/U 2.5",
-      "prev": 0.405,
-      "now": 0.9995,
-      "delta": 0.5945,
-      "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 30226.4,
-      "liquidity": 178043.99
+      "volume24hr": 1066.09,
+      "liquidity": 28305.91
     },
     {
-      "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
-      "prev": 0.665,
-      "now": 0.125,
-      "delta": -0.54,
+      "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe \u2014 Cincinnati Open: Completed Match: Learner Tien vs Frances Tiafoe",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-tien-tiafoe-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 612608.34,
-      "liquidity": 339632.88
+      "volume24hr": 502.0,
+      "liquidity": 2014.38
     },
     {
-      "market": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.0045,
-      "delta": -0.5005,
-      "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
+      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-9.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 2.02,
+      "liquidity": 7498.53
+    },
+    {
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 83.71,
+      "liquidity": 12584.47
+    },
+    {
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 15.0,
+      "liquidity": 4078.74
+    },
+    {
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 25.0,
+      "liquidity": 4070.01
+    },
+    {
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 326901.75,
+      "liquidity": 4400.66
+    },
+    {
+      "market": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Copa Libertadores"
       ],
-      "volume24hr": 109157.69,
-      "liquidity": 3877.69
+      "volume24hr": 98.43,
+      "liquidity": 12143.72
     },
     {
-      "market": "Athletics vs. Kansas City Royals: O/U 4.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 16198.83,
-      "liquidity": 40905.8
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 1st 5 Innings Spread: Colorado Rockies (-1.5)",
+      "market": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 1.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
+      "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Copa Libertadores"
       ],
-      "volume24hr": 53.33,
-      "liquidity": 2136.66
+      "volume24hr": 22.14,
+      "liquidity": 12148.76
     },
     {
-      "market": "Cancun: Lloyd Harris vs Laslo Djere \u2014 Cancun, Mexico, Qualifying: Completed Match: Lloyd Harris vs Laslo Djere",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-harri-djere-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 822.0,
-      "liquidity": 1626.64
-    },
-    {
-      "market": "Will the game go to extra innings?: San Diego Padres vs. New York Mets",
+      "market": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-18",
+      "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Copa Libertadores"
       ],
-      "volume24hr": 155164.29,
-      "liquidity": 1572.73
+      "volume24hr": 15.0,
+      "liquidity": 12092.38
     }
   ],
   "log": [
-    {
-      "ts": "19:15:01",
-      "text": " poll complete \u2014 1782 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 1829 markets scanned, 10 flagged"
@@ -270,6 +267,10 @@
     {
       "ts": "02:30:01",
       "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:45:01",
+      "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
     }
   ]
 }
