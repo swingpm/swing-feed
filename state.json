@@ -3848,812 +3848,6 @@
     "volume24hr": 17167.69,
     "liquidity": 519678.41084
   },
-  "3352164": {
-    "question": "New York Liberty vs. Chicago Sky",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 356668.4728729999,
-    "liquidity": 1570.54126
-  },
-  "3653452": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Spread: New York Liberty (-4.5)",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 86391.36610500001,
-    "liquidity": 1570.54126
-  },
-  "3653453": {
-    "question": "New York Liberty vs. Chicago Sky: O/U 182.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 10474.223464000002,
-    "liquidity": 1570.54126
-  },
-  "3653454": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Breanna Stewart: Points O/U 22.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 102.885453,
-    "liquidity": 0.0
-  },
-  "3653455": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Sabrina Ionescu: Points O/U 17.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 29.72,
-    "liquidity": 0.0
-  },
-  "3653456": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Jonquel Jones: Points O/U 14.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 188.23392,
-    "liquidity": 0.0
-  },
-  "3653457": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Kamilla Cardoso: Points O/U 13.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 42.660769,
-    "liquidity": 0.0
-  },
-  "3653458": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Azur\u00e1 Stevens: Points O/U 11.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 268.9,
-    "liquidity": 0.0
-  },
-  "3653459": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Natasha Cloud: Points O/U 10.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 317.24,
-    "liquidity": 0.0
-  },
-  "3653460": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Jonquel Jones: Rebounds O/U 9.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 125.77491,
-    "liquidity": 0.0
-  },
-  "3653461": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Breanna Stewart: Rebounds O/U 8.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 183.30820400000002,
-    "liquidity": 0.0
-  },
-  "3653462": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Kamilla Cardoso: Rebounds O/U 7.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 147.410752,
-    "liquidity": 0.0
-  },
-  "3653463": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Azur\u00e1 Stevens: Rebounds O/U 6.5",
-    "price": 0.51,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 125.79,
-    "liquidity": 10.29
-  },
-  "3653464": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Sabrina Ionescu: Rebounds O/U 3.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 1072.1654350000001,
-    "liquidity": 0.0
-  },
-  "3653465": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Natasha Cloud: Rebounds O/U 3.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 0.0
-  },
-  "3653466": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Natasha Cloud: Assists O/U 6.5",
-    "price": 0.495,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 112.55000000000001,
-    "liquidity": 5.0
-  },
-  "3653467": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Sabrina Ionescu: Assists O/U 4.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 1403.0597539999999,
-    "liquidity": 1570.54126
-  },
-  "3653468": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Breanna Stewart: Assists O/U 3.5",
-    "price": 0.495,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 6.75,
-    "liquidity": 5.0
-  },
-  "3653469": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Jonquel Jones: Assists O/U 2.5",
-    "price": 0.0045,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 56.360464,
-    "liquidity": 1484.155
-  },
-  "3653470": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Kamilla Cardoso: Assists O/U 2.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 73.506769,
-    "liquidity": 0.0
-  },
-  "3653471": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Azur\u00e1 Stevens: Assists O/U 2.5",
-    "price": 0.495,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 31.258009,
-    "liquidity": 5.0
-  },
-  "3684899": {
-    "question": "New York Liberty vs. Chicago Sky: O/U 181.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 5391.228799,
-    "liquidity": 1570.54126
-  },
-  "3684900": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Sabrina Ionescu: Points O/U 16.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 1494.000473,
-    "liquidity": 0.0
-  },
-  "3685722": {
-    "question": "New York Liberty vs. Chicago Sky: O/U 180.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 42124.17401599998,
-    "liquidity": 1570.54126
-  },
-  "3688044": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Kamilla Cardoso: Points O/U 14.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 133.995198,
-    "liquidity": 1570.54126
-  },
-  "3695153": {
-    "question": "New York Liberty vs. Chicago Sky: O/U 179.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 71220.36538899998,
-    "liquidity": 1570.54126
-  },
-  "3696455": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Breanna Stewart: Points O/U 21.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 591346.9392739999,
-    "liquidity": 0.0
-  },
-  "3697978": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Kamilla Cardoso: Points O/U 15.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 0.0
-  },
-  "3701167": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Spread: New York Liberty (-3.5)",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 13109.081998,
-    "liquidity": 1570.54126
-  },
-  "3703088": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Kamilla Cardoso: Rebounds O/U 8.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 22.45652,
-    "liquidity": 0.0
-  },
-  "3712923": {
-    "question": "New York Liberty vs. Chicago Sky \u2014 Natasha Cloud: Assists O/U 5.5",
-    "price": 0.5,
-    "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 591346.9392739999,
-    "liquidity": 5.1
-  },
-  "3352171": {
-    "question": "Atlanta Dream vs. Las Vegas Aces",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 250722.28674099993,
-    "liquidity": 2975.28703
-  },
-  "3650883": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Spread: Las Vegas Aces (-3.5)",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 140027.948362,
-    "liquidity": 2975.28703
-  },
-  "3650884": {
-    "question": "Atlanta Dream vs. Las Vegas Aces: O/U 181.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 29686.389313000003,
-    "liquidity": 2975.28703
-  },
-  "3653440": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 A'ja Wilson: Points O/U 24.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 638.86522,
-    "liquidity": 0.0
-  },
-  "3653441": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Points O/U 18.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 143.35222100000001,
-    "liquidity": 0.0
-  },
-  "3653442": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Chelsea Gray: Points O/U 11.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 66.50255200000001,
-    "liquidity": 0.0
-  },
-  "3653443": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 NaLyssa Smith: Points O/U 10.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 588202.1008469999,
-    "liquidity": 0.0
-  },
-  "3653444": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Jewell Loyd: Points O/U 8.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 51.635552999999994,
-    "liquidity": 0.0
-  },
-  "3653445": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 A'ja Wilson: Rebounds O/U 8.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 197.24261199999998,
-    "liquidity": 0.0
-  },
-  "3653446": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 NaLyssa Smith: Rebounds O/U 6.5",
-    "price": 0.095,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 159.249899,
-    "liquidity": 413.6697
-  },
-  "3653447": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Rebounds O/U 3.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 20.0,
-    "liquidity": 0.0
-  },
-  "3653448": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Chelsea Gray: Rebounds O/U 2.5",
-    "price": 0.095,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 588202.1008469999,
-    "liquidity": 413.6697
-  },
-  "3653449": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Assists O/U 6.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 49.342104,
-    "liquidity": 0.0
-  },
-  "3653450": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Chelsea Gray: Assists O/U 5.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 627.5258630000001,
-    "liquidity": 0.0
-  },
-  "3653451": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 A'ja Wilson: Assists O/U 2.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 8.735848,
-    "liquidity": 0.0
-  },
-  "3653924": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Angel Reese: Points O/U 15.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 253.97516599999997,
-    "liquidity": 0.0
-  },
-  "3653925": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 NaLyssa Smith: Points O/U 11.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 177.889055,
-    "liquidity": 0.0
-  },
-  "3653926": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Angel Reese: Rebounds O/U 12.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 155.15583599999997,
-    "liquidity": 0.0
-  },
-  "3653927": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Rhyne Howard: Rebounds O/U 3.5",
-    "price": 0.9,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 20.0,
-    "liquidity": 163.67
-  },
-  "3653928": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Rhyne Howard: Assists O/U 4.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 221.64888699999997,
-    "liquidity": 0.0
-  },
-  "3653929": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Angel Reese: Assists O/U 2.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 87.963073,
-    "liquidity": 0.0
-  },
-  "3670123": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Jordin Canada: Assists O/U 7.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 625.1097990000001,
-    "liquidity": 2975.28703
-  },
-  "3686688": {
-    "question": "Atlanta Dream vs. Las Vegas Aces: O/U 179.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 68913.16079900002,
-    "liquidity": 0.0
-  },
-  "3688043": {
-    "question": "Atlanta Dream vs. Las Vegas Aces: O/U 178.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 59267.341347,
-    "liquidity": 0.0
-  },
-  "3692585": {
-    "question": "Atlanta Dream vs. Las Vegas Aces: O/U 177.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 36051.780597,
-    "liquidity": 2975.28703
-  },
-  "3697240": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Points O/U 19.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 12.0,
-    "liquidity": 0.0
-  },
-  "3697977": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 NaLyssa Smith: Rebounds O/U 5.5",
-    "price": 0.905,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 588202.1008469999,
-    "liquidity": 413.6697
-  },
-  "3702240": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Jewell Loyd: Points O/U 7.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 2.0,
-    "liquidity": 0.0
-  },
-  "3703087": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Angel Reese: Points O/U 14.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 0.0
-  },
-  "3709047": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Rhyne Howard: Assists O/U 3.5",
-    "price": 0.095,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 588202.1008469999,
-    "liquidity": 413.6697
-  },
-  "3710276": {
-    "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Rebounds O/U 4.5",
-    "price": 0.905,
-    "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "WNBA",
-      "Basketball"
-    ],
-    "volume24hr": 588202.1008469999,
-    "liquidity": 413.6697
-  },
   "3257332": {
     "question": "What price will Bitcoin hit in August? \u2014 Will Bitcoin reach $100,000 in August?",
     "price": 0.0015,
@@ -7990,7 +7184,7 @@
   },
   "3364884": {
     "question": "Will S\u00e3o Paulo FC vs. Club Bol\u00edvar end in a draw?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18",
     "tags": [
       "Sports",
@@ -7999,11 +7193,11 @@
       "Copa Sudamericana"
     ],
     "volume24hr": 54108.765071,
-    "liquidity": 177348.00543
+    "liquidity": 0.0
   },
   "3364886": {
     "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar \u2014 Will Club Bol\u00edvar win on 2026-08-18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18",
     "tags": [
       "Sports",
@@ -8012,7 +7206,7 @@
       "Copa Sudamericana"
     ],
     "volume24hr": 64807.59902999998,
-    "liquidity": 217172.97569
+    "liquidity": 0.0
   },
   "2009849": {
     "question": "Will the US confirm that aliens exist by...? \u2014 Will the US confirm that aliens exist by April 30?",
@@ -8091,435 +7285,6 @@
     ],
     "volume24hr": 348587.0825900002,
     "liquidity": 1028995.61852
-  },
-  "3380349": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 Spread: S\u00e3o Paulo FC (-1.5)",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 22019.60058,
-    "liquidity": 67076.49838
-  },
-  "3380351": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 Spread: Club Bol\u00edvar (-1.5)",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 4665.972352,
-    "liquidity": 61428.30493
-  },
-  "3380354": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 Spread: S\u00e3o Paulo FC (-2.5)",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 7860.057455000002,
-    "liquidity": 53935.03679
-  },
-  "3380355": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 Spread: Club Bol\u00edvar (-2.5)",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 10.84,
-    "liquidity": 22636.4084
-  },
-  "3380356": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 2388.311718,
-    "liquidity": 70628.62031
-  },
-  "3380357": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: O/U 1.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 29929.067082999998,
-    "liquidity": 156870.21546
-  },
-  "3380358": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: O/U 2.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 119920.25068000001,
-    "liquidity": 183933.59463
-  },
-  "3380359": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: O/U 3.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 61706.35888199999,
-    "liquidity": 136494.7123
-  },
-  "3380360": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: O/U 4.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 32738.571628999995,
-    "liquidity": 178339.88439
-  },
-  "3380361": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: O/U 5.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 16557.775707999997,
-    "liquidity": 68491.55707
-  },
-  "3380363": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Both Teams to Score",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 17683.636373000005,
-    "liquidity": 51606.57301
-  },
-  "3380364": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Both Teams to Score in First Half",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 104.067999,
-    "liquidity": 16643.70332
-  },
-  "3380365": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: 1st Half O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 2480.80476,
-    "liquidity": 65648.00003
-  },
-  "3380366": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: 1st Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 3251.710397,
-    "liquidity": 44979.40086
-  },
-  "3380367": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: 1st Half O/U 2.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 208.0408,
-    "liquidity": 16005.1782
-  },
-  "3380368": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 330.333559,
-    "liquidity": 19036.66884
-  },
-  "3380369": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC O/U 1.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 2097.769503,
-    "liquidity": 44182.88128
-  },
-  "3380370": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC O/U 2.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 673.3494230000001,
-    "liquidity": 29734.41539
-  },
-  "3380372": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 241.02413599999997,
-    "liquidity": 12834.71361
-  },
-  "3380373": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 83.706798,
-    "liquidity": 12654.5526
-  },
-  "3380374": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar O/U 2.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 1066.090076,
-    "liquidity": 28305.91383
-  },
-  "3380375": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC 1st Half O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 695.944,
-    "liquidity": 27708.15534
-  },
-  "3380376": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC 1st Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 648.905127,
-    "liquidity": 19167.85284
-  },
-  "3380377": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar 1st Half O/U 0.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 67.354198,
-    "liquidity": 4045.94786
-  },
-  "3380378": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar 1st Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 5.0,
-    "liquidity": 4057.175
-  },
-  "3380379": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Both Teams to Score in Second Half",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 5.0,
-    "liquidity": 3935.635
-  },
-  "3380380": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: 2nd Half O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 4499.525
-  },
-  "3380383": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: 2nd Half O/U 1.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 3936.955
-  },
-  "3380385": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: 2nd Half O/U 2.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 6670.47556
-  },
-  "3380386": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC 2nd Half O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 25.0,
-    "liquidity": 3937.035
-  },
-  "3380387": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC 2nd Half O/U 1.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 6663.57812
-  },
-  "3380388": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar 2nd Half O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 4492.085
-  },
-  "3380390": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar 2nd Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 327539.543236,
-    "liquidity": 4325.649
   },
   "2463847": {
     "question": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $60,000 by December 31, 2026?",
@@ -13427,7 +12192,7 @@
   },
   "3656034": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Cancun: Completed Match: Pablo Llamas Ruiz vs Francisco Comesana",
-    "price": 0.5,
+    "price": 1.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13435,11 +12200,11 @@
       "Games"
     ],
     "volume24hr": 518.0,
-    "liquidity": 316138.9718
+    "liquidity": 0.0
   },
   "3656385": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Ruiz vs. Comesana: Set 2 Games O/U 8.5",
-    "price": 0.505,
+    "price": 1.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13447,11 +12212,11 @@
       "Games"
     ],
     "volume24hr": 172774.43098199987,
-    "liquidity": 1.0
+    "liquidity": 0.0
   },
   "3656375": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Ruiz vs. Comesana: Match O/U 21.5",
-    "price": 0.5,
+    "price": 0.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13459,11 +12224,11 @@
       "Games"
     ],
     "volume24hr": 22.189371,
-    "liquidity": 316138.9718
+    "liquidity": 0.0
   },
   "3656381": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Pablo Llamas Ruiz vs. Francisco Comesana: Total Sets O/U 2.5",
-    "price": 0.5,
+    "price": 0.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13471,7 +12236,7 @@
       "Games"
     ],
     "volume24hr": 343.0,
-    "liquidity": 316138.9718
+    "liquidity": 0.0
   },
   "3656393": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Ruiz vs. Comesana: Set 1 Games O/U 8.5",
@@ -13487,7 +12252,7 @@
   },
   "3656388": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Set 2 Winner: Ruiz vs Comesana",
-    "price": 0.5,
+    "price": 1.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13495,7 +12260,7 @@
       "Games"
     ],
     "volume24hr": 172774.43098199987,
-    "liquidity": 316138.9718
+    "liquidity": 0.0
   },
   "3656397": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Set 1 Winner: Ruiz vs Comesana",
@@ -13511,7 +12276,7 @@
   },
   "3656407": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Set Handicap: Ruiz (-1.5) vs Comesana (+1.5)",
-    "price": 0.5,
+    "price": 1.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13519,11 +12284,11 @@
       "Games"
     ],
     "volume24hr": 172774.43098199987,
-    "liquidity": 316138.9718
+    "liquidity": 0.0
   },
   "3656414": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Ruiz vs. Comesana: Match O/U 22.5",
-    "price": 0.5,
+    "price": 0.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13531,11 +12296,11 @@
       "Games"
     ],
     "volume24hr": 58.79001,
-    "liquidity": 316138.9718
+    "liquidity": 0.0
   },
   "3656419": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Ruiz vs. Comesana: Set 2 Games O/U 9.5",
-    "price": 0.505,
+    "price": 1.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13543,7 +12308,7 @@
       "Games"
     ],
     "volume24hr": 172774.43098199987,
-    "liquidity": 1.0
+    "liquidity": 0.0
   },
   "3656424": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Ruiz vs. Comesana: Set 1 Games O/U 9.5",
@@ -13559,7 +12324,7 @@
   },
   "3656427": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Set Handicap: Comesana (-1.5) vs Ruiz (+1.5)",
-    "price": 0.13,
+    "price": 0.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13567,11 +12332,11 @@
       "Games"
     ],
     "volume24hr": 1.35135,
-    "liquidity": 3.7
+    "liquidity": 0.0
   },
   "3656441": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Ruiz vs. Comesana: Match O/U 23.5",
-    "price": 0.5,
+    "price": 0.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13579,11 +12344,11 @@
       "Games"
     ],
     "volume24hr": 9.255316,
-    "liquidity": 316138.9718
+    "liquidity": 0.0
   },
   "3656439": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Ruiz vs. Comesana: Set 2 Games O/U 10.5",
-    "price": 0.505,
+    "price": 1.0,
     "url": "https://polymarket.com/event/atp-ruiz-comesan-2026-08-18",
     "tags": [
       "Tennis",
@@ -13591,7 +12356,7 @@
       "Games"
     ],
     "volume24hr": 172774.43098199987,
-    "liquidity": 1.0
+    "liquidity": 0.0
   },
   "3656449": {
     "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana \u2014 Ruiz vs. Comesana: Set 1 Games O/U 10.5",
@@ -19261,7 +18026,7 @@
   },
   "3531243": {
     "question": "CA Banfield vs. CA Ferrocarril Midland \u2014 Will CA Banfield win on 2026-08-18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/argcopa-ban-afm-2026-08-18",
     "tags": [
       "Sports",
@@ -19270,7 +18035,7 @@
       "Copa Argentina"
     ],
     "volume24hr": 78642.878402,
-    "liquidity": 158852.23499
+    "liquidity": 0.0
   },
   "3531244": {
     "question": "Will CA Banfield vs. CA Ferrocarril Midland end in a draw?",
@@ -19287,7 +18052,7 @@
   },
   "3531252": {
     "question": "CA Banfield vs. CA Ferrocarril Midland \u2014 Will CA Ferrocarril Midland win on 2026-08-18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/argcopa-ban-afm-2026-08-18",
     "tags": [
       "Sports",
@@ -19296,7 +18061,7 @@
       "Copa Argentina"
     ],
     "volume24hr": 15964.740682999998,
-    "liquidity": 97553.5145
+    "liquidity": 0.0
   },
   "3257382": {
     "question": "What price will Ethereum hit in August? \u2014 Will Ethereum reach $3,000 in August?",
@@ -19705,7 +18470,7 @@
   },
   "3261005": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 Spread: CD Tolima (-1.5)",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19714,11 +18479,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 6801.233184999999,
-    "liquidity": 50567.01649
+    "liquidity": 0.0
   },
   "3261006": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 Spread: Independiente del Valle (-1.5)",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19727,11 +18492,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 1509.012493,
-    "liquidity": 32639.80468
+    "liquidity": 0.0
   },
   "3261008": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 Spread: CD Tolima (-2.5)",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19740,11 +18505,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 10.0,
-    "liquidity": 22273.452
+    "liquidity": 0.0
   },
   "3261010": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 Spread: Independiente del Valle (-2.5)",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19753,11 +18518,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 449.09228,
-    "liquidity": 16932.32924
+    "liquidity": 0.0
   },
   "3261011": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 0.5",
-    "price": 0.9995,
+    "price": 1.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19766,11 +18531,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 2163.391341,
-    "liquidity": 52236.90385
+    "liquidity": 0.0
   },
   "3261012": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 1.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19779,11 +18544,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 14185.490000000002,
-    "liquidity": 175382.8138
+    "liquidity": 0.0
   },
   "3261013": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 2.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19792,11 +18557,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 20236.507259999995,
-    "liquidity": 105724.32809
+    "liquidity": 0.0
   },
   "3261014": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 3.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19805,11 +18570,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 47853.381462,
-    "liquidity": 128527.99054
+    "liquidity": 0.0
   },
   "3261015": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 4.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19818,11 +18583,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 1004.992856,
-    "liquidity": 44946.15174
+    "liquidity": 0.0
   },
   "3261017": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 5.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19831,11 +18596,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 1669.043056,
-    "liquidity": 57576.186
+    "liquidity": 0.0
   },
   "3261019": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Both Teams to Score",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19844,7 +18609,7 @@
       "Copa Libertadores"
     ],
     "volume24hr": 2404.5041199999996,
-    "liquidity": 37686.39452
+    "liquidity": 0.0
   },
   "3261020": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Both Teams to Score in First Half",
@@ -19900,7 +18665,7 @@
   },
   "3261024": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 0.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19909,11 +18674,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 98.425397,
-    "liquidity": 12143.72308
+    "liquidity": 0.0
   },
   "3261025": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 1.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19922,11 +18687,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 22.14,
-    "liquidity": 12148.75776
+    "liquidity": 0.0
   },
   "3261027": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 2.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19935,11 +18700,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 15.0,
-    "liquidity": 12148.32128
+    "liquidity": 0.0
   },
   "3261029": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle O/U 0.5",
-    "price": 0.9995,
+    "price": 1.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19948,11 +18713,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 14.989,
-    "liquidity": 13146.37632
+    "liquidity": 0.0
   },
   "3261030": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle O/U 1.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19961,11 +18726,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 104503.366111,
-    "liquidity": 12143.2866
+    "liquidity": 0.0
   },
   "3261031": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle O/U 2.5",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
     "tags": [
       "Sports",
@@ -19974,7 +18739,7 @@
       "Copa Libertadores"
     ],
     "volume24hr": 20.0,
-    "liquidity": 12148.32128
+    "liquidity": 0.0
   },
   "3261032": {
     "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima 1st Half O/U 0.5",
@@ -23203,7 +21968,7 @@
   },
   "3222540": {
     "question": "CD Tolima vs. Independiente del Valle \u2014 Will CD Tolima win on 2026-08-11?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11",
     "tags": [
       "Sports",
@@ -23212,11 +21977,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 4923.965192,
-    "liquidity": 69521.52782
+    "liquidity": 0.0
   },
   "3222541": {
     "question": "Will CD Tolima vs. Independiente del Valle end in a draw?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11",
     "tags": [
       "Sports",
@@ -23225,7 +21990,7 @@
       "Copa Libertadores"
     ],
     "volume24hr": 3330.701226,
-    "liquidity": 51598.3745
+    "liquidity": 0.0
   },
   "3222543": {
     "question": "CD Tolima vs. Independiente del Valle \u2014 Will Independiente del Valle win on 2026-08-11?",
@@ -26515,5 +25280,669 @@
     ],
     "volume24hr": 26.17,
     "liquidity": 423.26949
+  },
+  "3692782": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 LoL: SU Esports vs Dark Passage - Game 1 Winner",
+    "price": 0.8,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 7908.503181000001,
+    "liquidity": 1287.5535
+  },
+  "3692783": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 LoL: SU Esports vs Dark Passage - Game 2 Winner",
+    "price": 0.82,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 8516.514567,
+    "liquidity": 923.6021
+  },
+  "3692784": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 LoL: SU Esports vs Dark Passage - Game 3 Winner",
+    "price": 0.815,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 8089.859028,
+    "liquidity": 359.3878
+  },
+  "3692785": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 LoL: SU Esports vs Dark Passage - Game 4 Winner",
+    "price": 0.445,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 41.786074,
+    "liquidity": 550.3308
+  },
+  "3692786": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs",
+    "price": 0.9505,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 10240.368283000002,
+    "liquidity": 5486.86479
+  },
+  "3692787": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Games Total: O/U 3.5",
+    "price": 0.395,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 21200.633889,
+    "liquidity": 4840.0103
+  },
+  "3692788": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Games Total: O/U 4.5",
+    "price": 0.12,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 600.386853,
+    "liquidity": 1326.7529
+  },
+  "3692789": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.0198
+  },
+  "3692790": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
+    "price": 0.495,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.1184
+  },
+  "3692791": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.0198
+  },
+  "3692792": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Any Player Quadra Kill?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692793": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Any Player Penta Kill?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692794": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Odd/Even Total Kills?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 122.0199
+  },
+  "3692795": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 1.9264
+  },
+  "3692796": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
+    "price": 0.49,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.3599
+  },
+  "3692797": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.0198
+  },
+  "3692798": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692799": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Any Player Penta Kill?",
+    "price": 0.38,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692800": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Odd/Even Total Kills?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 122.02
+  },
+  "3692801": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.0198
+  },
+  "3692802": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 3: Both Teams Slay a Dragon?",
+    "price": 0.49,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.3599
+  },
+  "3692803": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 3: Both Teams Destroy Inhibitors?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 1.912
+  },
+  "3692804": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 3: Any Player Quadra Kill?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692805": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 3: Any Player Penta Kill?",
+    "price": 0.43,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692806": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 3: Odd/Even Total Kills?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 122.0199
+  },
+  "3692807": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 4: Both Teams Slay Baron Nashor?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.0198
+  },
+  "3692808": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 4: Both Teams Slay a Dragon?",
+    "price": 0.49,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.3599
+  },
+  "3692809": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 4: Both Teams Destroy Inhibitors?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 2.0199
+  },
+  "3692810": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 4: Any Player Quadra Kill?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692811": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 4: Any Player Penta Kill?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692812": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 4: Odd/Even Total Kills?",
+    "price": 0.455,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 95.02
+  },
+  "3692813": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 5: Both Teams Slay Baron Nashor?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 1.9353
+  },
+  "3692814": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 5: Both Teams Slay a Dragon?",
+    "price": 0.49,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 1.8206
+  },
+  "3692815": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 5: Both Teams Destroy Inhibitors?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 1.942
+  },
+  "3692816": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 5: Any Player Quadra Kill?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692817": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 5: Any Player Penta Kill?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 0.1
+  },
+  "3692818": {
+    "question": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 5: Odd/Even Total Kills?",
+    "price": 0.5,
+    "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+    "tags": [
+      "Esports",
+      "league of legends",
+      "Games",
+      "Sports"
+    ],
+    "volume24hr": 56598.051875,
+    "liquidity": 122.02
+  },
+  "799876": {
+    "question": "Florida Democratic Senate Primary Winner \u2014 Will Jared Moskowitz be the Democratic nominee for Senate in Florida?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/florida-democratic-senate-primary-winner",
+    "tags": [
+      "primary elections",
+      "Senate Primary",
+      "Democratic Primary",
+      "Florida Primary",
+      "August 18 Primaries",
+      "US Election",
+      "Politics",
+      "Elections",
+      "Primaries"
+    ],
+    "volume24hr": 55568.09626,
+    "liquidity": 112879.40663
+  },
+  "799877": {
+    "question": "Florida Democratic Senate Primary Winner \u2014 Will Josh Weil be the Democratic nominee for Senate in Florida?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/florida-democratic-senate-primary-winner",
+    "tags": [
+      "primary elections",
+      "Senate Primary",
+      "Democratic Primary",
+      "Florida Primary",
+      "August 18 Primaries",
+      "US Election",
+      "Politics",
+      "Elections",
+      "Primaries"
+    ],
+    "volume24hr": 55568.09626,
+    "liquidity": 79103.58063
+  },
+  "799878": {
+    "question": "Florida Democratic Senate Primary Winner \u2014 Will Charlie Crist be the Democratic nominee for Senate in Florida?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/florida-democratic-senate-primary-winner",
+    "tags": [
+      "primary elections",
+      "Senate Primary",
+      "Democratic Primary",
+      "Florida Primary",
+      "August 18 Primaries",
+      "US Election",
+      "Politics",
+      "Elections",
+      "Primaries"
+    ],
+    "volume24hr": 55568.09626,
+    "liquidity": 111586.04066
+  },
+  "799879": {
+    "question": "Florida Democratic Senate Primary Winner \u2014 Will Alexander Vindman be the Democratic nominee for Senate in Florida?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/florida-democratic-senate-primary-winner",
+    "tags": [
+      "primary elections",
+      "Senate Primary",
+      "Democratic Primary",
+      "Florida Primary",
+      "August 18 Primaries",
+      "US Election",
+      "Politics",
+      "Elections",
+      "Primaries"
+    ],
+    "volume24hr": 28168.938915,
+    "liquidity": 155857.94804
+  },
+  "799880": {
+    "question": "Florida Democratic Senate Primary Winner \u2014 Will Alan Grayson be the Democratic nominee for Senate in Florida?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/florida-democratic-senate-primary-winner",
+    "tags": [
+      "primary elections",
+      "Senate Primary",
+      "Democratic Primary",
+      "Florida Primary",
+      "August 18 Primaries",
+      "US Election",
+      "Politics",
+      "Elections",
+      "Primaries"
+    ],
+    "volume24hr": 55568.09626,
+    "liquidity": 75043.71456
+  },
+  "799881": {
+    "question": "Florida Democratic Senate Primary Winner \u2014 Will Jennifer Jenkins be the Democratic nominee for Senate in Florida?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/florida-democratic-senate-primary-winner",
+    "tags": [
+      "primary elections",
+      "Senate Primary",
+      "Democratic Primary",
+      "Florida Primary",
+      "August 18 Primaries",
+      "US Election",
+      "Politics",
+      "Elections",
+      "Primaries"
+    ],
+    "volume24hr": 55568.09626,
+    "liquidity": 108108.1267
+  },
+  "799882": {
+    "question": "Florida Democratic Senate Primary Winner \u2014 Will Joey Atkins be the Democratic nominee for Senate in Florida?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/florida-democratic-senate-primary-winner",
+    "tags": [
+      "primary elections",
+      "Senate Primary",
+      "Democratic Primary",
+      "Florida Primary",
+      "August 18 Primaries",
+      "US Election",
+      "Politics",
+      "Elections",
+      "Primaries"
+    ],
+    "volume24hr": 55568.09626,
+    "liquidity": 74907.89433
+  },
+  "799883": {
+    "question": "Florida Democratic Senate Primary Winner \u2014 Will Angie Nixon be the Democratic nominee for Senate in Florida?",
+    "price": 0.9995,
+    "url": "https://polymarket.com/event/florida-democratic-senate-primary-winner",
+    "tags": [
+      "primary elections",
+      "Senate Primary",
+      "Democratic Primary",
+      "Florida Primary",
+      "August 18 Primaries",
+      "US Election",
+      "Politics",
+      "Elections",
+      "Primaries"
+    ],
+    "volume24hr": 27399.157345000003,
+    "liquidity": 157252.0016
+  },
+  "3175311": {
+    "question": "Cornard United FC vs. Downham Town FC - First Team to Score \u2014 Cornard United FC to score first vs. Downham Town FC?",
+    "price": 0.1,
+    "url": "https://polymarket.com/event/efa-cor4-dwh-2026-08-08-first-to-score",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "FA Cup"
+    ],
+    "volume24hr": 55555.0,
+    "liquidity": 710.67
+  },
+  "3175312": {
+    "question": "Cornard United FC vs. Downham Town FC - First Team to Score \u2014 Downham Town FC to score first vs. Cornard United FC?",
+    "price": 0.9995,
+    "url": "https://polymarket.com/event/efa-cor4-dwh-2026-08-08-first-to-score",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "FA Cup"
+    ],
+    "volume24hr": 55555.0,
+    "liquidity": 1928.765
+  },
+  "3175313": {
+    "question": "Cornard United FC vs. Downham Town FC - First Team to Score \u2014 Cornard United FC vs. Downham Town FC: Neither team to score first?",
+    "price": 0.1,
+    "url": "https://polymarket.com/event/efa-cor4-dwh-2026-08-08-first-to-score",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "FA Cup"
+    ],
+    "volume24hr": 55555.0,
+    "liquidity": 710.67
   }
 }
