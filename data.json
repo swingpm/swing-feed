@@ -1,56 +1,26 @@
 {
-  "lastUpdate": "2026-08-19 19:45:01 UTC",
+  "lastUpdate": "2026-08-19 20:00:01 UTC",
   "swings": [
     {
-      "market": "\u0160K Slovan Bratislava vs. NK Celje - More Markets \u2014 \u0160K Slovan Bratislava vs. NK Celje: Both Teams to Score in First Half",
-      "prev": 0.185,
-      "now": 0.995,
-      "delta": 0.81,
-      "url": "https://polymarket.com/event/ucl-sba-cel1-2026-08-19-more-markets",
+      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map Handicap: MOUZ (-1.5) vs GamerLegion (+1.5)",
+      "prev": 0.86,
+      "now": 0.245,
+      "delta": -0.615,
+      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "UCL"
+        "Sports"
       ],
-      "volume24hr": 4.76,
-      "liquidity": 3079.18
+      "volume24hr": 69699.56,
+      "liquidity": 198.06
     },
     {
-      "market": "\u0160K Slovan Bratislava vs. NK Celje - More Markets \u2014 \u0160K Slovan Bratislava vs. NK Celje: NK Celje 1st Half O/U 0.5",
-      "prev": 0.19,
-      "now": 0.995,
-      "delta": 0.805,
-      "url": "https://polymarket.com/event/ucl-sba-cel1-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 101.4,
-      "liquidity": 1523.94
-    },
-    {
-      "market": "Celtic FC vs. LASK Linz - More Markets \u2014 Celtic FC vs. LASK Linz: Celtic FC 1st Half O/U 1.5",
-      "prev": 0.32,
-      "now": 0.995,
-      "delta": 0.675,
-      "url": "https://polymarket.com/event/ucl-cel-lin2-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 4.35,
-      "liquidity": 3121.26
-    },
-    {
-      "market": "San Diego Padres vs. New York Mets \u2014 Spread: New York Mets (-1.5)",
-      "prev": 0.215,
-      "now": 0.805,
-      "delta": 0.59,
+      "market": "San Diego Padres vs. New York Mets: O/U 4.5",
+      "prev": 0.4,
+      "now": 0.9955,
+      "delta": 0.5955,
       "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-19",
       "tags": [
         "Sports",
@@ -58,44 +28,29 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 10624.6,
-      "liquidity": 58349.99
+      "volume24hr": 108.27,
+      "liquidity": 2695.99
     },
     {
-      "market": "\u0160K Slovan Bratislava vs. NK Celje - More Markets \u2014 \u0160K Slovan Bratislava vs. NK Celje: 1st Half O/U 1.5",
-      "prev": 0.415,
-      "now": 0.98,
-      "delta": 0.565,
-      "url": "https://polymarket.com/event/ucl-sba-cel1-2026-08-19-more-markets",
+      "market": "NEC vs. FK Bod\u00f8/Glimt - More Markets \u2014 NEC vs. FK Bod\u00f8/Glimt: FK Bod\u00f8/Glimt 1st Half O/U 1.5",
+      "prev": 0.495,
+      "now": 0.9955,
+      "delta": 0.5005,
+      "url": "https://polymarket.com/event/ucl-nec-bog-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 267.75,
-      "liquidity": 1649.52
+      "volume24hr": 184.46,
+      "liquidity": 5393.92
     },
     {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5",
-      "prev": 0.54,
+      "market": "Celtic FC vs. LASK Linz - More Markets \u2014 Celtic FC vs. LASK Linz: LASK Linz 1st Half O/U 1.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.5395,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 122839.78,
-      "liquidity": 303129.58
-    },
-    {
-      "market": "Celtic FC vs. LASK Linz - More Markets \u2014 Celtic FC vs. LASK Linz: 1st Half O/U 1.5",
-      "prev": 0.475,
-      "now": 0.9995,
-      "delta": 0.5245,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/ucl-cel-lin2-2026-08-19-more-markets",
       "tags": [
         "Sports",
@@ -103,60 +58,101 @@
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 1038.46,
-      "liquidity": 13990.27
+      "volume24hr": 82.02,
+      "liquidity": 4154.97
     },
     {
-      "market": "Will the game go to extra innings?: Detroit Tigers vs. Pittsburgh Pirates",
+      "market": "NEC vs. FK Bod\u00f8/Glimt - More Markets \u2014 NEC vs. FK Bod\u00f8/Glimt: Both Teams to Score in First Half",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-19",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/ucl-nec-bog-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 10.87,
-      "liquidity": 1172.46
+      "volume24hr": 265.39,
+      "liquidity": 4505.61
     },
     {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 1st 5 Innings Spread: Chicago Cubs (-1.5)",
+      "market": "NEC vs. FK Bod\u00f8/Glimt - More Markets \u2014 NEC vs. FK Bod\u00f8/Glimt: NEC 1st Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-19",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/ucl-nec-bog-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 223072.71,
-      "liquidity": 1945.51
+      "volume24hr": 197706.93,
+      "liquidity": 4227.37
     },
     {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 1st 5 Innings Spread: Chicago White Sox (-1.5)",
+      "market": "NEC vs. FK Bod\u00f8/Glimt - More Markets \u2014 NEC vs. FK Bod\u00f8/Glimt: NEC 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-19",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/ucl-nec-bog-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 6.23,
-      "liquidity": 1937.67
+      "volume24hr": 36.56,
+      "liquidity": 4165.43
+    },
+    {
+      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: GamerLegion vs MOUZ - Map 2 Winner",
+      "prev": 0.22,
+      "now": 0.695,
+      "delta": 0.475,
+      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 368806.62,
+      "liquidity": 108603.26
+    },
+    {
+      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.215,
+      "now": 0.65,
+      "delta": 0.435,
+      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5856.05,
+      "liquidity": 480.11
+    },
+    {
+      "market": "NEC vs. FK Bod\u00f8/Glimt - More Markets \u2014 NEC vs. FK Bod\u00f8/Glimt: NEC O/U 2.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/ucl-nec-bog-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 1359.17,
+      "liquidity": 3942.36
     }
   ],
   "log": [
-    {
-      "ts": "12:30:01",
-      "text": " poll complete \u2014 1894 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 2011 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:00:01",
+      "text": " poll complete \u2014 1977 markets scanned, 10 flagged"
     }
   ]
 }
