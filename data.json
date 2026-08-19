@@ -1,154 +1,159 @@
 {
-  "lastUpdate": "2026-08-19 21:45:02 UTC",
+  "lastUpdate": "2026-08-19 22:00:01 UTC",
   "swings": [
     {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.705,
+      "now": 0.02,
+      "delta": -0.685,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 71.5,
-      "liquidity": 2590.77
+      "volume24hr": 167561.85,
+      "liquidity": 552.97
     },
     {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox: 1st 5 Innings O/U 4.5",
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Cloud9 (-2.5) vs BESTIA (+2.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 609.35,
-      "liquidity": 2501.73
+      "volume24hr": 167561.85,
+      "liquidity": 1449.05
     },
     {
-      "market": "Cincinnati Open: Linda Noskova vs Amanda Anisimova \u2014 Noskova vs. Anisimova: Set 2 Games O/U 8.5",
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 22.5",
       "prev": 0.5,
+      "now": 0.02,
+      "delta": -0.48,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 167561.85,
+      "liquidity": 525.07
+    },
+    {
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 19.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 167561.85,
+      "liquidity": 486.27
+    },
+    {
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: BESTIA (-2.5) vs Cloud9 (+2.5)",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 167561.85,
+      "liquidity": 114.67
+    },
+    {
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 23.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 167561.85,
+      "liquidity": 114.67
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Set 2 Winner: Fils vs Minaur",
+      "prev": 0.575,
+      "now": 0.96,
+      "delta": 0.385,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 163.57,
+      "liquidity": 1044.76
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Arthur Fils vs. Alex de Minaur: Total Sets O/U 2.5",
+      "prev": 0.465,
+      "now": 0.08,
+      "delta": -0.385,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 248.65,
+      "liquidity": 2095.0
+    },
+    {
+      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $70,000 on August 19?",
+      "prev": 0.634,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-noskova-anisimo-2026-08-19",
+      "delta": 0.3655,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
       ],
-      "volume24hr": 448275.99,
-      "liquidity": 4491.7
+      "volume24hr": 109518.61,
+      "liquidity": 66989.15
     },
     {
-      "market": "Cincinnati Open: Linda Noskova vs Amanda Anisimova \u2014 Noskova vs. Anisimova: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-noskova-anisimo-2026-08-19",
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Match O/U 22.5",
+      "prev": 0.42,
+      "now": 0.06,
+      "delta": -0.36,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 113.1,
-      "liquidity": 7537.07
-    },
-    {
-      "market": "Cincinnati Open: Linda Noskova vs Amanda Anisimova \u2014 Noskova vs. Anisimova: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-noskova-anisimo-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 448275.99,
-      "liquidity": 4484.9
-    },
-    {
-      "market": "Cincinnati Open: Linda Noskova vs Amanda Anisimova \u2014 Noskova vs. Anisimova: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-noskova-anisimo-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 448275.99,
-      "liquidity": 4500.45
-    },
-    {
-      "market": "Cincinnati Open: Linda Noskova vs Amanda Anisimova \u2014 Noskova vs. Anisimova: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-noskova-anisimo-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 448275.99,
-      "liquidity": 7588.37
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 20.0,
-      "liquidity": 7743.35
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 123266.31,
-      "liquidity": 7743.01
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 123266.31,
-      "liquidity": 7748.0
+      "volume24hr": 670.19,
+      "liquidity": 83.96
     }
   ],
   "log": [
-    {
-      "ts": "14:30:02",
-      "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1866 markets scanned, 10 flagged"
@@ -264,6 +269,10 @@
     {
       "ts": "21:45:02",
       "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:00:01",
+      "text": " poll complete \u2014 1884 markets scanned, 10 flagged"
     }
   ]
 }
