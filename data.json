@@ -1,163 +1,150 @@
 {
-  "lastUpdate": "2026-08-19 22:00:01 UTC",
+  "lastUpdate": "2026-08-19 22:15:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.705,
-      "now": 0.02,
-      "delta": -0.685,
-      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 167561.85,
-      "liquidity": 552.97
-    },
-    {
-      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Cloud9 (-2.5) vs BESTIA (+2.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 167561.85,
-      "liquidity": 1449.05
-    },
-    {
-      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
-      "now": 0.02,
-      "delta": -0.48,
-      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 167561.85,
-      "liquidity": 525.07
-    },
-    {
-      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 19.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 167561.85,
-      "liquidity": 486.27
-    },
-    {
-      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: BESTIA (-2.5) vs Cloud9 (+2.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 167561.85,
-      "liquidity": 114.67
-    },
-    {
-      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 23.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 167561.85,
-      "liquidity": 114.67
-    },
-    {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Set 2 Winner: Fils vs Minaur",
-      "prev": 0.575,
-      "now": 0.96,
-      "delta": 0.385,
-      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
+      "prev": 0.785,
+      "now": 0.025,
+      "delta": -0.76,
+      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 163.57,
-      "liquidity": 1044.76
+      "volume24hr": 723567.54,
+      "liquidity": 395128.32
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Arthur Fils vs. Alex de Minaur: Total Sets O/U 2.5",
-      "prev": 0.465,
-      "now": 0.08,
-      "delta": -0.385,
-      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 248.65,
-      "liquidity": 2095.0
-    },
-    {
-      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $70,000 on August 19?",
-      "prev": 0.634,
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Cincinnati Open: Completed Match: Arthur Fils vs Alex de Minaur",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.3655,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 109518.61,
-      "liquidity": 66989.15
-    },
-    {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Match O/U 22.5",
-      "prev": 0.42,
-      "now": 0.06,
-      "delta": -0.36,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 670.19,
-      "liquidity": 83.96
+      "volume24hr": 542186.04,
+      "liquidity": 2610.08
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 542186.04,
+      "liquidity": 4475.29
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 389.82,
+      "liquidity": 7600.64
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Set Handicap: Minaur (-1.5) vs Fils (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 130.39,
+      "liquidity": 8831.43
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 542186.04,
+      "liquidity": 4501.7
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 44.99,
+      "liquidity": 7549.07
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 542186.04,
+      "liquidity": 4467.06
+    },
+    {
+      "market": "Arizona Diamondbacks vs. Boston Red Sox \u2014 Spread: Arizona Diamondbacks (-1.5)",
+      "prev": 0.675,
+      "now": 0.26,
+      "delta": -0.415,
+      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 2361.44,
+      "liquidity": 7934.79
+    },
+    {
+      "market": "Will the game go to extra innings?: Miami Marlins vs. Philadelphia Phillies",
+      "prev": 0.095,
+      "now": 0.5,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.64,
+      "liquidity": 890358.26
     }
   ],
   "log": [
-    {
-      "ts": "14:45:01",
-      "text": " poll complete \u2014 1866 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:00:02",
       "text": " poll complete \u2014 1867 markets scanned, 10 flagged"
@@ -273,6 +260,10 @@
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 1884 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:15:01",
+      "text": " poll complete \u2014 1851 markets scanned, 10 flagged"
     }
   ]
 }
