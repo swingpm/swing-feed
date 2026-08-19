@@ -1,163 +1,156 @@
 {
-  "lastUpdate": "2026-08-19 15:45:01 UTC",
+  "lastUpdate": "2026-08-19 16:00:01 UTC",
   "swings": [
     {
-      "market": "Elon Musk # tweets August 17 - August 19, 2026? \u2014 Will Elon Musk post 90-114 tweets from August 17 to August 19, 2026?",
-      "prev": 0.184,
-      "now": 0.9995,
-      "delta": 0.8155,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-17-august-19",
+      "market": "Highest temperature in London on August 19? \u2014 Will the highest temperature in London be 24\u00b0C on August 19?",
+      "prev": 0.71,
+      "now": 0.0005,
+      "delta": -0.7095,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-19-2026",
       "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
-      ],
-      "volume24hr": 244277.04,
-      "liquidity": 3213.18
-    },
-    {
-      "market": "Elon Musk # tweets August 17 - August 19, 2026? \u2014 Will Elon Musk post 65-89 tweets from August 17 to August 19, 2026?",
-      "prev": 0.824,
-      "now": 0.053,
-      "delta": -0.771,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-17-august-19",
-      "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
-      ],
-      "volume24hr": 194396.04,
-      "liquidity": 2485.04
-    },
-    {
-      "market": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet \u2014 Set 2 Winner: Almeida vs Tarvet",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-almeida-tarvet-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 88065.37,
-      "liquidity": 2592.63
-    },
-    {
-      "market": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet \u2014 Almeida vs. Tarvet: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-almeida-tarvet-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 88065.37,
-      "liquidity": 2992.15
-    },
-    {
-      "market": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet \u2014 Almeida vs. Tarvet: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-almeida-tarvet-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 88065.37,
-      "liquidity": 2999.45
-    },
-    {
-      "market": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet \u2014 Almeida vs. Tarvet: Set 2 Games O/U 8.5",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/atp-almeida-tarvet-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 88065.37,
-      "liquidity": 2769.93
-    },
-    {
-      "market": "Counter-Strike: Black Phoenix vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.92,
-      "now": 0.5,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/cs2-blackp-bw-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.71,
-      "liquidity": 297959.9
-    },
-    {
-      "market": "Counter-Strike: Black Phoenix vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: Black Phoenix (-1.5) vs Bushido Wildcats (+1.5)",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/cs2-blackp-bw-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 27.8,
-      "liquidity": 297959.9
-    },
-    {
-      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $71,000 on August 19?",
-      "prev": 0.526,
-      "now": 0.191,
-      "delta": -0.335,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
+        "Weather",
         "Recurring",
         "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 4166.45,
-      "liquidity": 2091.55
+      "volume24hr": 14064.8,
+      "liquidity": 40877.65
     },
     {
-      "market": "Bitcoin above ___ on August 19? \u2014 Will the price of Bitcoin be above $70,000 on August 19?",
-      "prev": 0.2955,
-      "now": 0.0355,
-      "delta": -0.26,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-19-2026",
+      "market": "Highest temperature in London on August 19? \u2014 Will the highest temperature in London be 25\u00b0C on August 19?",
+      "prev": 0.265,
+      "now": 0.965,
+      "delta": 0.7,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-19-2026",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
+        "Weather",
         "Recurring",
-        "Hide From New"
+        "Hide From New",
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 72143.88,
-      "liquidity": 20373.24
+      "volume24hr": 18394.69,
+      "liquidity": 516.06
+    },
+    {
+      "market": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 LoL: Onion Team vs BRUTE - Game 2 Winner",
+      "prev": 0.3155,
+      "now": 0.9995,
+      "delta": 0.684,
+      "url": "https://polymarket.com/event/lol-ot-brt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 17085.1,
+      "liquidity": 271762.03
+    },
+    {
+      "market": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-g2-ast10-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 29.26,
+      "liquidity": 1697.96
+    },
+    {
+      "market": "Cincinnati Open: Iga Swiatek vs Diane Parry \u2014 Swiatek vs. Parry: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-swiatek-parry-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 808.01,
+      "liquidity": 9972.4
+    },
+    {
+      "market": "Cincinnati Open: Iga Swiatek vs Diane Parry \u2014 Swiatek vs. Parry: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-swiatek-parry-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 111416.25,
+      "liquidity": 7076.97
+    },
+    {
+      "market": "Prague 2: Norbert Gombos vs Sean Cuenin \u2014 Set 2 Winner: Gombos vs Cuenin",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gombos-cuenin-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 111174.52,
+      "liquidity": 3425.85
+    },
+    {
+      "market": "Prague 2: Norbert Gombos vs Sean Cuenin \u2014 Gombos vs. Cuenin: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gombos-cuenin-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 111174.52,
+      "liquidity": 3307.05
+    },
+    {
+      "market": "Prague 2: Norbert Gombos vs Sean Cuenin \u2014 Gombos vs. Cuenin: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-gombos-cuenin-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 111174.52,
+      "liquidity": 2928.15
+    },
+    {
+      "market": "Prague 2: Norbert Gombos vs Sean Cuenin \u2014 Gombos vs. Cuenin: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-gombos-cuenin-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 111174.52,
+      "liquidity": 3585.78
     }
   ],
   "log": [
-    {
-      "ts": "08:30:02",
-      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:45:02",
       "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
@@ -273,6 +266,10 @@
     {
       "ts": "15:45:01",
       "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:00:01",
+      "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
     }
   ]
 }
