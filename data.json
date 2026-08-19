@@ -1,150 +1,26 @@
 {
-  "lastUpdate": "2026-08-19 04:00:01 UTC",
+  "lastUpdate": "2026-08-19 04:15:02 UTC",
   "swings": [
     {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 2?",
-      "prev": 0.36,
-      "now": 0.535,
-      "delta": 0.175,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 165146.81,
-      "liquidity": 4.93
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 19? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 19?",
-      "prev": 0.575,
-      "now": 0.74,
-      "delta": 0.165,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-19-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 11378.81,
-      "liquidity": 810.46
-    },
-    {
-      "market": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs \u2014 Map 3 Rounds Handicap: G2 (-3.5) vs Astralis (+3.5)",
+      "market": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In \u2014 Map 3 Total Rounds: Over/Under 22.5",
       "prev": 0.655,
-      "now": 0.495,
-      "delta": -0.16,
-      "url": "https://polymarket.com/event/cs2-g2-ast10-2026-08-19",
+      "now": 0.24,
+      "delta": -0.415,
+      "url": "https://polymarket.com/event/val-osg-ts3-2026-08-19",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 110755.67,
-      "liquidity": 3.85
+      "volume24hr": 15.17,
+      "liquidity": 31.72
     },
     {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.335,
-      "now": 0.18,
-      "delta": -0.155,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 165146.81,
-      "liquidity": 316.22
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 First Blood in Game 1?",
-      "prev": 0.4,
-      "now": 0.525,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 125780.42,
-      "liquidity": 51.27
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 19? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 19?",
-      "prev": 0.305,
-      "now": 0.2,
-      "delta": -0.105,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-19-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 9953.27,
-      "liquidity": 1427.69
-    },
-    {
-      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 268902.22,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Both Teams Slay a Dragon?",
-      "prev": 0.9,
-      "now": 1.0,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 268902.22,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Both Teams Destroy Inhibitors?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 268902.22,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Jordin Canada: Assists O/U 7.5",
-      "prev": 0.099,
-      "now": 0.0,
-      "delta": -0.099,
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 A'ja Wilson: Assists O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9005,
+      "delta": 0.4005,
       "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
       "tags": [
         "Sports",
@@ -152,15 +28,131 @@
         "WNBA",
         "Basketball"
       ],
-      "volume24hr": 620.11,
-      "liquidity": 0.0
+      "volume24hr": 8.74,
+      "liquidity": 743.27
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 NaLyssa Smith: Rebounds O/U 6.5",
+      "prev": 0.495,
+      "now": 0.095,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 159.25,
+      "liquidity": 413.67
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Chelsea Gray: Rebounds O/U 2.5",
+      "prev": 0.495,
+      "now": 0.095,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 588202.1,
+      "liquidity": 413.67
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 NaLyssa Smith: Rebounds O/U 5.5",
+      "prev": 0.505,
+      "now": 0.905,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 588202.1,
+      "liquidity": 413.67
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Rhyne Howard: Assists O/U 3.5",
+      "prev": 0.495,
+      "now": 0.095,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 588202.1,
+      "liquidity": 413.67
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Rebounds O/U 4.5",
+      "prev": 0.505,
+      "now": 0.905,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 588202.1,
+      "liquidity": 413.67
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Rhyne Howard: Rebounds O/U 3.5",
+      "prev": 0.505,
+      "now": 0.9,
+      "delta": 0.395,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 20.0,
+      "liquidity": 163.67
+    },
+    {
+      "market": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In \u2014 Map 3 Rounds Handicap: ONSIDE GAMING (-2.5) vs Team Secret (+2.5)",
+      "prev": 0.405,
+      "now": 0.66,
+      "delta": 0.255,
+      "url": "https://polymarket.com/event/val-osg-ts3-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.35,
+      "liquidity": 83.76
+    },
+    {
+      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.375,
+      "now": 0.21,
+      "delta": -0.165,
+      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 25.64,
+      "liquidity": 110.07
     }
   ],
   "log": [
-    {
-      "ts": "20:45:02",
-      "text": " poll complete \u2014 1813 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:00:02",
       "text": " poll complete \u2014 1815 markets scanned, 10 flagged"
@@ -276,6 +268,10 @@
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1804 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:15:02",
+      "text": " poll complete \u2014 1831 markets scanned, 10 flagged"
     }
   ]
 }
