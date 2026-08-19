@@ -1,56 +1,11 @@
 {
-  "lastUpdate": "2026-08-19 22:45:01 UTC",
+  "lastUpdate": "2026-08-19 23:00:01 UTC",
   "swings": [
     {
-      "market": "Will the game go to extra innings?: St. Louis Cardinals vs. Cincinnati Reds",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 151096.03,
-      "liquidity": 1.12
-    },
-    {
-      "market": "Will the game go to extra innings?: Toronto Blue Jays vs. Tampa Bay Rays",
-      "prev": 0.09,
-      "now": 0.5,
-      "delta": 0.41,
-      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 351500.91,
-      "liquidity": 1.39
-    },
-    {
-      "market": "Will the game go to extra innings?: San Francisco Giants vs. Cleveland Guardians",
-      "prev": 0.09,
-      "now": 0.5,
-      "delta": 0.41,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 300553.07,
-      "liquidity": 1.12
-    },
-    {
-      "market": "Will the game go to extra innings?: New York Yankees vs. Baltimore Orioles",
-      "prev": 0.095,
-      "now": 0.5,
-      "delta": 0.405,
+      "market": "Will there be a run scored in the first inning?: New York Yankees vs. Baltimore Orioles",
+      "prev": 0.315,
+      "now": 0.9995,
+      "delta": 0.6845,
       "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-19",
       "tags": [
         "Sports",
@@ -58,105 +13,146 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 558838.39,
-      "liquidity": 622603.51
+      "volume24hr": 2913.37,
+      "liquidity": 17292.16
     },
     {
-      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 6.5",
-      "prev": 0.155,
-      "now": 0.535,
-      "delta": 0.38,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "market": "Will there be a run scored in the first inning?: Toronto Blue Jays vs. Tampa Bay Rays",
+      "prev": 0.335,
+      "now": 0.9995,
+      "delta": 0.6645,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 408053.87,
-      "liquidity": 205.0
+      "volume24hr": 1362.11,
+      "liquidity": 4804.33
     },
     {
-      "market": "Miami Marlins vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: Philadelphia Phillies (-1.5)",
-      "prev": 0.345,
-      "now": 0.71,
-      "delta": 0.365,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 71.0,
-      "liquidity": 43.35
-    },
-    {
-      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 5.5",
-      "prev": 0.235,
-      "now": 0.55,
-      "delta": 0.315,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 408053.87,
-      "liquidity": 303.0
-    },
-    {
-      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras \u2014 Will SE Palmeiras win on 2026-08-19?",
-      "prev": 0.445,
-      "now": 0.755,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19",
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Club Cerro Porte\u00f1o 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Copa Libertadores"
       ],
-      "volume24hr": 497031.91,
-      "liquidity": 124591.57
+      "volume24hr": 99884.81,
+      "liquidity": 3829.65
     },
     {
-      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5",
-      "prev": 0.295,
-      "now": 0.585,
-      "delta": 0.29,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 22.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 355224.48,
+      "liquidity": 1520.59
+    },
+    {
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Cloud9 (-2.5) vs BESTIA (+2.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 355224.48,
+      "liquidity": 1324.62
+    },
+    {
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Cloud9 (-4.5) vs BESTIA (+4.5)",
+      "prev": 0.5,
+      "now": 0.0155,
+      "delta": -0.4845,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 60.0,
+      "liquidity": 2369.0
+    },
+    {
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 19.5",
+      "prev": 0.5,
+      "now": 0.9845,
+      "delta": 0.4845,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 355224.48,
+      "liquidity": 2371.8
+    },
+    {
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 20.5",
+      "prev": 0.5,
+      "now": 0.9845,
+      "delta": 0.4845,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 39.99,
+      "liquidity": 1118.8
+    },
+    {
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Valorant: Cloud9 vs BESTIA - Map 2 Winner",
+      "prev": 0.485,
+      "now": 0.005,
+      "delta": -0.48,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 104674.22,
+      "liquidity": 197187.61
+    },
+    {
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Club Cerro Porte\u00f1o 2nd Half O/U 1.5",
+      "prev": 0.085,
+      "now": 0.5,
+      "delta": 0.415,
+      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Copa Libertadores"
       ],
-      "volume24hr": 2790.23,
-      "liquidity": 554.0
-    },
-    {
-      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 3.5",
-      "prev": 0.425,
-      "now": 0.71,
-      "delta": 0.285,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 1179.3
+      "volume24hr": 99884.81,
+      "liquidity": 0.02
     }
   ],
   "log": [
-    {
-      "ts": "15:30:02",
-      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:45:01",
       "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "22:45:01",
       "text": " poll complete \u2014 1966 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:00:01",
+      "text": " poll complete \u2014 1927 markets scanned, 10 flagged"
     }
   ]
 }
