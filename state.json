@@ -3678,7 +3678,7 @@
   },
   "3681078": {
     "question": "Will the game go to extra innings?: Chicago White Sox vs. Chicago Cubs",
-    "price": 0.5,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3687,7 +3687,7 @@
       "baseball"
     ],
     "volume24hr": 668837.7625309994,
-    "liquidity": 250853.4912
+    "liquidity": 0.0
   },
   "3681082": {
     "question": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago Cubs (-2.5)",
@@ -7168,45 +7168,6 @@
     ],
     "volume24hr": 863.814,
     "liquidity": 1136798.16928
-  },
-  "3364882": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar \u2014 Will S\u00e3o Paulo FC win on 2026-08-18?",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 253382.22669299992,
-    "liquidity": 374177.46418
-  },
-  "3364884": {
-    "question": "Will S\u00e3o Paulo FC vs. Club Bol\u00edvar end in a draw?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 54108.765071,
-    "liquidity": 0.0
-  },
-  "3364886": {
-    "question": "S\u00e3o Paulo FC vs. Club Bol\u00edvar \u2014 Will Club Bol\u00edvar win on 2026-08-18?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Sudamericana"
-    ],
-    "volume24hr": 64807.59902999998,
-    "liquidity": 0.0
   },
   "2009849": {
     "question": "Will the US confirm that aliens exist by...? \u2014 Will the US confirm that aliens exist by April 30?",
@@ -11235,7 +11196,7 @@
   },
   "3652762": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be 75\u00b0F or below on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11246,11 +11207,11 @@
       "Highest temperature"
     ],
     "volume24hr": 17662.338588,
-    "liquidity": 24643.72588
+    "liquidity": 0.0
   },
   "3652763": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be between 76-77\u00b0F on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11261,11 +11222,11 @@
       "Highest temperature"
     ],
     "volume24hr": 36013.76041900001,
-    "liquidity": 19910.75468
+    "liquidity": 0.0
   },
   "3652764": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be between 78-79\u00b0F on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11276,11 +11237,11 @@
       "Highest temperature"
     ],
     "volume24hr": 6991.408983000001,
-    "liquidity": 27732.08922
+    "liquidity": 0.0
   },
   "3652765": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be between 80-81\u00b0F on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11291,11 +11252,11 @@
       "Highest temperature"
     ],
     "volume24hr": 47038.401869999994,
-    "liquidity": 32809.71301
+    "liquidity": 0.0
   },
   "3652766": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be between 82-83\u00b0F on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11306,7 +11267,7 @@
       "Highest temperature"
     ],
     "volume24hr": 18923.382177000007,
-    "liquidity": 30604.50093
+    "liquidity": 0.0
   },
   "3652767": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be between 84-85\u00b0F on August 18?",
@@ -11325,7 +11286,7 @@
   },
   "3652768": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be between 86-87\u00b0F on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11336,11 +11297,11 @@
       "Highest temperature"
     ],
     "volume24hr": 11201.556648000003,
-    "liquidity": 5531.55982
+    "liquidity": 0.0
   },
   "3652769": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be between 88-89\u00b0F on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11351,11 +11312,11 @@
       "Highest temperature"
     ],
     "volume24hr": 9571.226552000002,
-    "liquidity": 7247.46457
+    "liquidity": 0.0
   },
   "3652770": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be between 90-91\u00b0F on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11366,11 +11327,11 @@
       "Highest temperature"
     ],
     "volume24hr": 10341.319760999999,
-    "liquidity": 4991.82945
+    "liquidity": 0.0
   },
   "3652771": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be between 92-93\u00b0F on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11381,11 +11342,11 @@
       "Highest temperature"
     ],
     "volume24hr": 6075.970837000001,
-    "liquidity": 5123.60031
+    "liquidity": 0.0
   },
   "3652772": {
     "question": "Highest temperature in NYC on August 18? \u2014 Will the highest temperature in New York City be 94\u00b0F or higher on August 18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/highest-temperature-in-nyc-on-august-18-2026",
     "tags": [
       "Weather",
@@ -11396,7 +11357,7 @@
       "Highest temperature"
     ],
     "volume24hr": 178869.355125,
-    "liquidity": 6794.53242
+    "liquidity": 0.0
   },
   "3676882": {
     "question": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 LoL: Onion Team vs BRUTE - Game 1 Winner",
@@ -18024,45 +17985,6 @@
     "volume24hr": 112290.91388200001,
     "liquidity": 56.72
   },
-  "3531243": {
-    "question": "CA Banfield vs. CA Ferrocarril Midland \u2014 Will CA Banfield win on 2026-08-18?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/argcopa-ban-afm-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Argentina"
-    ],
-    "volume24hr": 78642.878402,
-    "liquidity": 0.0
-  },
-  "3531244": {
-    "question": "Will CA Banfield vs. CA Ferrocarril Midland end in a draw?",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/argcopa-ban-afm-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Argentina"
-    ],
-    "volume24hr": 14124.838168,
-    "liquidity": 108394.61611
-  },
-  "3531252": {
-    "question": "CA Banfield vs. CA Ferrocarril Midland \u2014 Will CA Ferrocarril Midland win on 2026-08-18?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/argcopa-ban-afm-2026-08-18",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Argentina"
-    ],
-    "volume24hr": 15964.740682999998,
-    "liquidity": 0.0
-  },
   "3257382": {
     "question": "What price will Ethereum hit in August? \u2014 Will Ethereum reach $3,000 in August?",
     "price": 0.0015,
@@ -21536,45 +21458,6 @@
     ],
     "volume24hr": 88492.912817,
     "liquidity": 403123.5256
-  },
-  "3222540": {
-    "question": "CD Tolima vs. Independiente del Valle \u2014 Will CD Tolima win on 2026-08-11?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 4923.965192,
-    "liquidity": 0.0
-  },
-  "3222541": {
-    "question": "Will CD Tolima vs. Independiente del Valle end in a draw?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 3330.701226,
-    "liquidity": 0.0
-  },
-  "3222543": {
-    "question": "CD Tolima vs. Independiente del Valle \u2014 Will Independiente del Valle win on 2026-08-11?",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 79337.83053499997,
-    "liquidity": 214472.66081
   },
   "3655222": {
     "question": "Highest temperature in Paris on August 19? \u2014 Will the highest temperature in Paris be 19\u00b0C or below on August 19?",
@@ -25557,5 +25440,437 @@
     ],
     "volume24hr": 1726.23,
     "liquidity": 169600.8216
+  },
+  "948955": {
+    "question": "Bitcoin all time high by ___? \u2014 Bitcoin all time high by March 31, 2026?",
+    "price": 0.0,
+    "url": "https://polymarket.com/event/bitcoin-all-time-high-by",
+    "tags": [
+      "Price Milestone",
+      "Bitcoin",
+      "Crypto Prices",
+      "Crypto",
+      "ATH"
+    ],
+    "volume24hr": 54080.413533,
+    "liquidity": 371470.89452
+  },
+  "948956": {
+    "question": "Bitcoin all time high by ___? \u2014 Bitcoin all time high by June 30, 2026?",
+    "price": 0.0,
+    "url": "https://polymarket.com/event/bitcoin-all-time-high-by",
+    "tags": [
+      "Price Milestone",
+      "Bitcoin",
+      "Crypto Prices",
+      "Crypto",
+      "ATH"
+    ],
+    "volume24hr": 54080.413533,
+    "liquidity": 371470.89452
+  },
+  "948957": {
+    "question": "Bitcoin all time high by ___? \u2014 Bitcoin all time high by September 30, 2026?",
+    "price": 0.0105,
+    "url": "https://polymarket.com/event/bitcoin-all-time-high-by",
+    "tags": [
+      "Price Milestone",
+      "Bitcoin",
+      "Crypto Prices",
+      "Crypto",
+      "ATH"
+    ],
+    "volume24hr": 786.7635329999999,
+    "liquidity": 169554.74808
+  },
+  "948958": {
+    "question": "Bitcoin all time high by ___? \u2014 Bitcoin all time high by December 31, 2026?",
+    "price": 0.0325,
+    "url": "https://polymarket.com/event/bitcoin-all-time-high-by",
+    "tags": [
+      "Price Milestone",
+      "Bitcoin",
+      "Crypto Prices",
+      "Crypto",
+      "ATH"
+    ],
+    "volume24hr": 53293.65,
+    "liquidity": 201818.46226
+  },
+  "1193093": {
+    "question": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
+    "price": 0.105,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 8857.846860000001,
+    "liquidity": 69384.0924
+  },
+  "1193094": {
+    "question": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+    "price": 0.855,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 5591.282961,
+    "liquidity": 41482.7656
+  },
+  "1193095": {
+    "question": "Will Jimmie \u00c5kesson be the next Prime Minister of Sweden?",
+    "price": 0.0075,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 4640.429569,
+    "liquidity": 115889.26571
+  },
+  "1193096": {
+    "question": "Will Ebba Busch be the next Prime Minister of Sweden?",
+    "price": 0.0075,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 3656.806025,
+    "liquidity": 74197.68566
+  },
+  "1193097": {
+    "question": "Will Anna-Karin Hatt be the next Prime Minister of Sweden?",
+    "price": 0.0015,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 3523.503,
+    "liquidity": 123707.3338
+  },
+  "1193098": {
+    "question": "Will Nooshi Dadgostar be the next Prime Minister of Sweden?",
+    "price": 0.0015,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 4003.545,
+    "liquidity": 99065.27721
+  },
+  "1193099": {
+    "question": "Will Simona Mohamsson be the next Prime Minister of Sweden?",
+    "price": 0.0015,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 3714.908,
+    "liquidity": 116631.1564
+  },
+  "1193100": {
+    "question": "Will Amanda Lind be the next Prime Minister of Sweden?",
+    "price": 0.0015,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 3704.3530000000005,
+    "liquidity": 120298.14321
+  },
+  "1193101": {
+    "question": "Will Daniel Helld\u00e9n be the next Prime Minister of Sweden?",
+    "price": 0.0015,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 4553.873999999999,
+    "liquidity": 124461.56876
+  },
+  "1193103": {
+    "question": "Will Elisabeth Thand Ringqvist be the next Prime Minister of Sweden?",
+    "price": 0.0075,
+    "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+    "tags": [
+      "Elections",
+      "World",
+      "World Elections",
+      "Global Elections",
+      "Sweden",
+      "Swedish",
+      "Rewards 20, 4.5, 50",
+      "Politics",
+      "Main Election",
+      "Sweden Elections",
+      "Sweden Parliamentary Elections"
+    ],
+    "volume24hr": 11264.377882000003,
+    "liquidity": 96363.21295
+  },
+  "3651156": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $52,000 on August 21?",
+    "price": 0.9995,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 30.0,
+    "liquidity": 12346.57795
+  },
+  "3651157": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $54,000 on August 21?",
+    "price": 0.9995,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 30.0,
+    "liquidity": 12040.35804
+  },
+  "3651158": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $56,000 on August 21?",
+    "price": 0.9995,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 12196.769332,
+    "liquidity": 30187.06626
+  },
+  "3651159": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $58,000 on August 21?",
+    "price": 0.9935,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 8277.716487,
+    "liquidity": 18993.24288
+  },
+  "3651160": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $60,000 on August 21?",
+    "price": 0.9865,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 5415.03491,
+    "liquidity": 22158.33752
+  },
+  "3651161": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $62,000 on August 21?",
+    "price": 0.957,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 17275.769790000002,
+    "liquidity": 28189.23604
+  },
+  "3651162": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $64,000 on August 21?",
+    "price": 0.605,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 3475.347842,
+    "liquidity": 23350.7125
+  },
+  "3651163": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $66,000 on August 21?",
+    "price": 0.0965,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 1149.781937,
+    "liquidity": 22000.54856
+  },
+  "3651164": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $68,000 on August 21?",
+    "price": 0.0155,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 5395.2663809999995,
+    "liquidity": 20955.60042
+  },
+  "3651165": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $70,000 on August 21?",
+    "price": 0.005,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 53250.686679,
+    "liquidity": 8351.13042
+  },
+  "3651166": {
+    "question": "Bitcoin above ___ on August 21? \u2014 Will the price of Bitcoin be above $72,000 on August 21?",
+    "price": 0.003,
+    "url": "https://polymarket.com/event/bitcoin-above-on-august-21-2026",
+    "tags": [
+      "Bitcoin",
+      "Weekly",
+      "Multi Strikes",
+      "Crypto",
+      "Crypto Prices",
+      "Recurring",
+      "Hide From New"
+    ],
+    "volume24hr": 53250.686679,
+    "liquidity": 13622.5299
   }
 }

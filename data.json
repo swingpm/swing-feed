@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-19 05:00:02 UTC",
+  "lastUpdate": "2026-08-19 05:15:02 UTC",
   "swings": [
     {
-      "market": "Chicago White Sox vs. Chicago Cubs: O/U 12.5",
-      "prev": 0.465,
+      "market": "Will the game go to extra innings?: Chicago White Sox vs. Chicago Cubs",
+      "prev": 0.5,
       "now": 0.0,
-      "delta": -0.465,
+      "delta": -0.5,
       "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
       "tags": [
         "Sports",
@@ -15,148 +15,9 @@
       ],
       "volume24hr": 668837.76,
       "liquidity": 0.0
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago Cubs (-3.5)",
-      "prev": 0.435,
-      "now": 0.0,
-      "delta": -0.435,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 12.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs: O/U 8.5",
-      "prev": 0.375,
-      "now": 0.0,
-      "delta": -0.375,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 27562.84,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs",
-      "prev": 0.365,
-      "now": 0.0,
-      "delta": -0.365,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 545621.71,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs: O/U 9.5",
-      "prev": 0.21,
-      "now": 0.0,
-      "delta": -0.21,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 56551.46,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago Cubs (-1.5)",
-      "prev": 0.2,
-      "now": 0.0,
-      "delta": -0.2,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2860.91,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago White Sox (-1.5)",
-      "prev": 0.17,
-      "now": 0.0,
-      "delta": -0.17,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1991.38,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs: O/U 10.5",
-      "prev": 0.15,
-      "now": 0.0,
-      "delta": -0.15,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6999.08,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago Cubs (-2.5)",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 21392.57,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.9,
-      "now": 1.0,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 285143.07,
-      "liquidity": 0.0
     }
   ],
   "log": [
-    {
-      "ts": "21:45:01",
-      "text": " poll complete \u2014 1861 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:00:02",
       "text": " poll complete \u2014 1863 markets scanned, 10 flagged"
@@ -272,6 +133,10 @@
     {
       "ts": "05:00:02",
       "text": " poll complete \u2014 1739 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:15:02",
+      "text": " poll complete \u2014 1755 markets scanned, 1 flagged"
     }
   ]
 }
