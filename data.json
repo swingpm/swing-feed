@@ -1,71 +1,85 @@
 {
-  "lastUpdate": "2026-08-19 19:00:01 UTC",
+  "lastUpdate": "2026-08-19 19:15:01 UTC",
   "swings": [
     {
-      "market": "FC Barcelona vs. AL Ahly SC (EGY) - More Markets \u2014 FC Barcelona vs. AL Ahly SC (EGY): 1st Half O/U 1.5",
-      "prev": 0.445,
+      "market": "Atlanta Braves vs. Minnesota Twins: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.5545,
-      "url": "https://polymarket.com/event/clf-bar-ahl-2026-08-19-more-markets",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Club Friendlies"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 5045.98,
-      "liquidity": 38030.81
+      "volume24hr": 229.77,
+      "liquidity": 2339.15
     },
     {
-      "market": "FC Barcelona vs. AL Ahly SC (EGY) - More Markets \u2014 FC Barcelona vs. AL Ahly SC (EGY): 1st Half O/U 2.5",
-      "prev": 0.535,
-      "now": 0.005,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/clf-bar-ahl-2026-08-19-more-markets",
+      "market": "Atlanta Braves vs. Minnesota Twins: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Club Friendlies"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 5499.31,
-      "liquidity": 7121.94
+      "volume24hr": 27.83,
+      "liquidity": 2196.26
     },
     {
-      "market": "FC Barcelona vs. AL Ahly SC (EGY) - More Markets \u2014 FC Barcelona vs. AL Ahly SC (EGY): Both Teams to Score in First Half",
-      "prev": 0.52,
-      "now": 0.0045,
-      "delta": -0.5155,
-      "url": "https://polymarket.com/event/clf-bar-ahl-2026-08-19-more-markets",
+      "market": "Atlanta Braves vs. Minnesota Twins: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Club Friendlies"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 445.69,
-      "liquidity": 2800.58
+      "volume24hr": 1972.07,
+      "liquidity": 7946.09
     },
     {
-      "market": "FC Barcelona vs. AL Ahly SC (EGY) - More Markets \u2014 FC Barcelona vs. AL Ahly SC (EGY): AL Ahly SC (EGY) 1st Half O/U 0.5",
-      "prev": 0.52,
-      "now": 0.005,
-      "delta": -0.515,
-      "url": "https://polymarket.com/event/clf-bar-ahl-2026-08-19-more-markets",
+      "market": "LoL: BIG vs Unicorns Of Love Sexy Edition (BO5) - Prime League 1st Division Playoffs \u2014 LoL: BIG vs Unicorns Of Love Sexy Edition - Game 4 Winner",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/lol-big1-use1-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Club Friendlies"
+        "Sports"
       ],
-      "volume24hr": 104.97,
-      "liquidity": 2767.93
+      "volume24hr": 79041.1,
+      "liquidity": 313954.8
     },
     {
-      "market": "Counter-Strike: Drip Too Hard vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: Drip Too Hard vs HyperSpirit - Map 2 Winner",
-      "prev": 0.63,
-      "now": 0.125,
-      "delta": -0.505,
+      "market": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula \u2014 Cincinnati Open: Completed Match: Sorana Cirstea vs Jessica Pegula",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-cirstea-pegula-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 456795.66,
+      "liquidity": 1964.24
+    },
+    {
+      "market": "Counter-Strike: Drip Too Hard vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/cs2-dripto-hs2-2026-08-19",
       "tags": [
         "Esports",
@@ -73,85 +87,71 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 2896.6,
-      "liquidity": 2493.61
+      "volume24hr": 111235.47,
+      "liquidity": 11958.26
     },
     {
-      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Zverev vs. Paul: Set 1 Games O/U 8.5",
+      "market": "Counter-Strike: Drip Too Hard vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: HS (-1.5) vs Drip Too Hard (+1.5)",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
+      "url": "https://polymarket.com/event/cs2-dripto-hs2-2026-08-19",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 50.46,
-      "liquidity": 7348.38
+      "volume24hr": 111235.47,
+      "liquidity": 8353.46
     },
     {
-      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Zverev vs. Paul: Set 1 Games O/U 10.5",
+      "market": "Atlanta Braves vs. Minnesota Twins \u2014 1st 5 Innings Spread: Minnesota Twins (-1.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 165489.3,
-      "liquidity": 7366.06
+      "volume24hr": 45.18,
+      "liquidity": 1167.54
     },
     {
-      "market": "Kingston: Igor Ribeiro Marcondes vs Lautaro Midon \u2014 Marcondes vs. Midon: Set 2 Games O/U 8.5",
+      "market": "Atlanta Braves vs. Minnesota Twins \u2014 1st 5 Innings Spread: Atlanta Braves (-1.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-marcond-midon-2026-08-19",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 106836.07,
-      "liquidity": 2436.72
+      "volume24hr": 32.37,
+      "liquidity": 1606.15
     },
     {
-      "market": "Kingston: Igor Ribeiro Marcondes vs Lautaro Midon \u2014 Set 2 Winner: Marcondes vs Midon",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-marcond-midon-2026-08-19",
+      "market": "LoL: Joblife vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game Handicap: SC (-1.5) vs Joblife (+1.5)",
+      "prev": 0.505,
+      "now": 0.9965,
+      "delta": 0.4915,
+      "url": "https://polymarket.com/event/lol-jl-sc-2026-08-19",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 106836.07,
-      "liquidity": 2476.68
-    },
-    {
-      "market": "Kingston: Igor Ribeiro Marcondes vs Lautaro Midon \u2014 Marcondes vs. Midon: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-marcond-midon-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 106836.07,
-      "liquidity": 2476.68
+      "volume24hr": 199127.85,
+      "liquidity": 9550.93
     }
   ],
   "log": [
-    {
-      "ts": "11:45:02",
-      "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:00:01",
       "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
@@ -267,6 +267,10 @@
     {
       "ts": "19:00:01",
       "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:15:01",
+      "text": " poll complete \u2014 2030 markets scanned, 10 flagged"
     }
   ]
 }
