@@ -1,11 +1,135 @@
 {
-  "lastUpdate": "2026-08-19 12:30:01 UTC",
+  "lastUpdate": "2026-08-19 12:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 2?",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1393997.29,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 1.0,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1393997.29,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1393997.29,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1393997.29,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1393997.29,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1939761.87,
+      "liquidity": 5.73
+    },
+    {
+      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1939761.87,
+      "liquidity": 6.52
+    },
+    {
+      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $65,000 on August 19?",
+      "prev": 0.42,
+      "now": 0.825,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 1790.94,
+      "liquidity": 8032.39
+    },
+    {
+      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 LoL: HANJIN BRION vs DN SOOPers - Game 2 Winner",
+      "prev": 0.705,
+      "now": 0.9935,
+      "delta": 0.2885,
       "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
       "tags": [
         "Esports",
@@ -13,143 +137,31 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1392854.66,
-      "liquidity": 933.55
+      "volume24hr": 314663.55,
+      "liquidity": 226243.66
     },
     {
-      "market": "Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng \u2014 Prague 2: Completed Match: Juan Bautista Torres vs Chun-Hsin Tseng",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-torres-tseng-2026-08-19",
+      "market": "Bitcoin Up or Down on August 19?",
+      "prev": 0.17,
+      "now": 0.455,
+      "delta": 0.285,
+      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-19-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Up or Down",
+        "Today \ud83d\ude80",
+        "Daily",
+        "Daily-Close"
       ],
-      "volume24hr": 114844.56,
-      "liquidity": 547.07
-    },
-    {
-      "market": "Valorant: Rex Regum Qeon vs FULL SENSE (BO3) - VCT Pacific Play-In",
-      "prev": 0.565,
-      "now": 0.1,
-      "delta": -0.465,
-      "url": "https://polymarket.com/event/val-rrq1-fs1-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 41192.38,
-      "liquidity": 534.84
-    },
-    {
-      "market": "Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng \u2014 Torres vs. Tseng: Match O/U 21.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-torres-tseng-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 114844.56,
-      "liquidity": 5795.42
-    },
-    {
-      "market": "Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng \u2014 Juan Bautista Torres vs. Chun-Hsin Tseng: Total Sets O/U 2.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-torres-tseng-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 114844.56,
-      "liquidity": 5797.94
-    },
-    {
-      "market": "Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng \u2014 Set Handicap: Torres (-1.5) vs Tseng (+1.5)",
-      "prev": 0.25,
-      "now": 0.0005,
-      "delta": -0.2495,
-      "url": "https://polymarket.com/event/atp-torres-tseng-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 7.5,
-      "liquidity": 6068.69
-    },
-    {
-      "market": "Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng \u2014 Torres vs. Tseng: Match O/U 22.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-torres-tseng-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 114844.56,
-      "liquidity": 5795.39
-    },
-    {
-      "market": "Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng \u2014 Set Handicap: Tseng (-1.5) vs Torres (+1.5)",
-      "prev": 0.25,
-      "now": 0.0005,
-      "delta": -0.2495,
-      "url": "https://polymarket.com/event/atp-torres-tseng-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 26.82,
-      "liquidity": 6068.94
-    },
-    {
-      "market": "Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng \u2014 Torres vs. Tseng: Match O/U 23.5",
-      "prev": 0.75,
-      "now": 0.9995,
-      "delta": 0.2495,
-      "url": "https://polymarket.com/event/atp-torres-tseng-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 114844.56,
-      "liquidity": 5795.95
-    },
-    {
-      "market": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 Games Total: O/U 2.5",
-      "prev": 0.185,
-      "now": 0.425,
-      "delta": 0.24,
-      "url": "https://polymarket.com/event/lol-ot-brt-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1658.08,
-      "liquidity": 57.17
+      "volume24hr": 206128.75,
+      "liquidity": 33357.83
     }
   ],
   "log": [
-    {
-      "ts": "05:15:02",
-      "text": " poll complete \u2014 1755 markets scanned, 1 flagged"
-    },
     {
       "ts": "05:30:02",
       "text": " poll complete \u2014 1755 markets scanned, 0 flagged"
@@ -265,6 +277,10 @@
     {
       "ts": "12:30:01",
       "text": " poll complete \u2014 1894 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:45:01",
+      "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
     }
   ]
 }
