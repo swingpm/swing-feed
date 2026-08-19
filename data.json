@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-18 23:45:01 UTC",
+  "lastUpdate": "2026-08-19 00:00:01 UTC",
   "swings": [
     {
-      "market": "CS Independiente Rivadavia vs. Fluminense FC - More Markets \u2014 CS Independiente Rivadavia vs. Fluminense FC: Fluminense FC O/U 0.5",
-      "prev": 0.115,
-      "now": 0.9995,
-      "delta": 0.8845,
+      "market": "CS Independiente Rivadavia vs. Fluminense FC - More Markets \u2014 CS Independiente Rivadavia vs. Fluminense FC: CS Independiente Rivadavia O/U 0.5",
+      "prev": 0.25,
+      "now": 0.995,
+      "delta": 0.745,
       "url": "https://polymarket.com/event/lib-cir-flu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -13,14 +13,14 @@
         "Soccer",
         "Copa Libertadores"
       ],
-      "volume24hr": 1885.02,
-      "liquidity": 1949.67
+      "volume24hr": 491.16,
+      "liquidity": 29.7
     },
     {
       "market": "CS Independiente Rivadavia vs. Fluminense FC \u2014 Will Fluminense FC win on 2026-08-18?",
-      "prev": 0.065,
-      "now": 0.735,
-      "delta": 0.67,
+      "prev": 0.735,
+      "now": 0.025,
+      "delta": -0.71,
       "url": "https://polymarket.com/event/lib-cir-flu-2026-08-18",
       "tags": [
         "Sports",
@@ -28,29 +28,14 @@
         "Soccer",
         "Copa Libertadores"
       ],
-      "volume24hr": 182450.6,
-      "liquidity": 123356.71
+      "volume24hr": 195052.74,
+      "liquidity": 142174.21
     },
     {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 3.5",
-      "prev": 0.175,
-      "now": 0.775,
-      "delta": 0.6,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 29.42,
-      "liquidity": 5.5
-    },
-    {
-      "market": "CS Independiente Rivadavia vs. Fluminense FC - More Markets \u2014 CS Independiente Rivadavia vs. Fluminense FC: O/U 0.5",
-      "prev": 0.415,
-      "now": 0.9995,
-      "delta": 0.5845,
+      "market": "CS Independiente Rivadavia vs. Fluminense FC - More Markets \u2014 CS Independiente Rivadavia vs. Fluminense FC: Both Teams to Score",
+      "prev": 0.3,
+      "now": 0.995,
+      "delta": 0.695,
       "url": "https://polymarket.com/event/lib-cir-flu-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -58,86 +43,104 @@
         "Soccer",
         "Copa Libertadores"
       ],
-      "volume24hr": 20623.63,
-      "liquidity": 156619.65
+      "volume24hr": 7762.11,
+      "liquidity": 91561.75
     },
     {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates: O/U 5.5",
-      "prev": 0.295,
-      "now": 0.85,
-      "delta": 0.555,
+      "market": "Will CS Independiente Rivadavia vs. Fluminense FC end in a draw?",
+      "prev": 0.245,
+      "now": 0.905,
+      "delta": 0.66,
+      "url": "https://polymarket.com/event/lib-cir-flu-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 27728.34,
+      "liquidity": 114589.77
+    },
+    {
+      "market": "CS Independiente Rivadavia vs. Fluminense FC - More Markets \u2014 CS Independiente Rivadavia vs. Fluminense FC: O/U 1.5",
+      "prev": 0.345,
+      "now": 0.995,
+      "delta": 0.65,
+      "url": "https://polymarket.com/event/lib-cir-flu-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 37567.1,
+      "liquidity": 123200.15
+    },
+    {
+      "market": "Recoleta FC vs. CA Boca Juniors - More Markets \u2014 Recoleta FC vs. CA Boca Juniors: Recoleta FC O/U 0.5",
+      "prev": 0.56,
+      "now": 0.005,
+      "delta": -0.555,
+      "url": "https://polymarket.com/event/sud-rec1-boc-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 202.2,
+      "liquidity": 6741.79
+    },
+    {
+      "market": "Recoleta FC vs. CA Boca Juniors - More Markets \u2014 Recoleta FC vs. CA Boca Juniors: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.0005,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/sud-rec1-boc-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 337200.37,
+      "liquidity": 2584.68
+    },
+    {
+      "market": "Recoleta FC vs. CA Boca Juniors - More Markets \u2014 Recoleta FC vs. CA Boca Juniors: Recoleta FC O/U 1.5",
+      "prev": 0.503,
+      "now": 0.0005,
+      "delta": -0.5025,
+      "url": "https://polymarket.com/event/sud-rec1-boc-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 288.56,
+      "liquidity": 6271.62
+    },
+    {
+      "market": "Detroit Tigers vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/mlb-det-pit-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
-      ],
-      "volume24hr": 16.94,
-      "liquidity": 136.83
-    },
-    {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Xinyu Wang \u2014 Sabalenka vs. Wang: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sabalen-wa-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 156.12,
-      "liquidity": 4598.84
-    },
-    {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Xinyu Wang \u2014 Sabalenka vs. Wang: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sabalen-wa-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
       ],
       "volume24hr": 20.0,
-      "liquidity": 4588.28
+      "liquidity": 1504.14
     },
     {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Xinyu Wang \u2014 Sabalenka vs. Wang: Set 1 Games O/U 10.5",
+      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 4.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sabalen-wa-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 134.05,
-      "liquidity": 4921.61
-    },
-    {
-      "market": "CS Independiente Rivadavia vs. Fluminense FC - More Markets \u2014 CS Independiente Rivadavia vs. Fluminense FC: Fluminense FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/lib-cir-flu-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Libertadores"
-      ],
-      "volume24hr": 132786.86,
-      "liquidity": 2751.62
-    },
-    {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 2.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
       "url": "https://polymarket.com/event/mlb-det-pit-2026-08-18",
       "tags": [
         "Sports",
@@ -145,15 +148,11 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 70.25,
-      "liquidity": 1472.4
+      "volume24hr": 73.33,
+      "liquidity": 11473.22
     }
   ],
   "log": [
-    {
-      "ts": "16:30:01",
-      "text": " poll complete \u2014 1756 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:45:02",
       "text": " poll complete \u2014 1770 markets scanned, 10 flagged"
@@ -269,6 +268,10 @@
     {
       "ts": "23:45:01",
       "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:00:01",
+      "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
     }
   ]
 }
