@@ -1,156 +1,158 @@
 {
-  "lastUpdate": "2026-08-19 22:30:01 UTC",
+  "lastUpdate": "2026-08-19 22:45:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Cincinnati Open: Completed Match: Alexander Zverev vs Tommy Paul",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1003140.14,
-      "liquidity": 2672.39
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 219578.43,
-      "liquidity": 4154.47
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 219578.43,
-      "liquidity": 4588.46
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 219578.43,
-      "liquidity": 7660.65
-    },
-    {
-      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 219578.43,
-      "liquidity": 4909.36
-    },
-    {
-      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Set Handicap: Paul (-1.5) vs Zverev (+1.5)",
-      "prev": 0.248,
-      "now": 0.0005,
-      "delta": -0.2475,
-      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 45.37,
-      "liquidity": 19489.76
-    },
-    {
-      "market": "What price will Ethereum hit in August? \u2014 Will Ethereum dip to $2,000 in August?",
-      "prev": 0.475,
-      "now": 0.23,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026",
-      "tags": [
-        "Ethereum",
-        "Monthly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring"
-      ],
-      "volume24hr": 733.12,
-      "liquidity": 144.96
-    },
-    {
-      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Cloud9 (-4.5) vs BESTIA (+4.5)",
-      "prev": 0.255,
+      "market": "Will the game go to extra innings?: St. Louis Cardinals vs. Cincinnati Reds",
+      "prev": 0.08,
       "now": 0.5,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 30.0,
-      "liquidity": 559026.92
+      "volume24hr": 151096.03,
+      "liquidity": 1.12
     },
     {
-      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Cincinnati Open: Completed Match: Diana Shnaider vs Elena Rybakina",
-      "prev": 0.75,
-      "now": 0.995,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
+      "market": "Will the game go to extra innings?: Toronto Blue Jays vs. Tampa Bay Rays",
+      "prev": 0.09,
+      "now": 0.5,
+      "delta": 0.41,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 219578.43,
-      "liquidity": 2655.22
+      "volume24hr": 351500.91,
+      "liquidity": 1.39
     },
     {
-      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Alexander Zverev vs. Tommy Paul: Total Sets O/U 2.5",
-      "prev": 0.755,
-      "now": 0.9995,
-      "delta": 0.2445,
-      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
+      "market": "Will the game go to extra innings?: San Francisco Giants vs. Cleveland Guardians",
+      "prev": 0.09,
+      "now": 0.5,
+      "delta": 0.41,
+      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-19",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 346.59,
-      "liquidity": 7712.66
+      "volume24hr": 300553.07,
+      "liquidity": 1.12
+    },
+    {
+      "market": "Will the game go to extra innings?: New York Yankees vs. Baltimore Orioles",
+      "prev": 0.095,
+      "now": 0.5,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 558838.39,
+      "liquidity": 622603.51
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 6.5",
+      "prev": 0.155,
+      "now": 0.535,
+      "delta": 0.38,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 408053.87,
+      "liquidity": 205.0
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: Philadelphia Phillies (-1.5)",
+      "prev": 0.345,
+      "now": 0.71,
+      "delta": 0.365,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 71.0,
+      "liquidity": 43.35
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 5.5",
+      "prev": 0.235,
+      "now": 0.55,
+      "delta": 0.315,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 408053.87,
+      "liquidity": 303.0
+    },
+    {
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras \u2014 Will SE Palmeiras win on 2026-08-19?",
+      "prev": 0.445,
+      "now": 0.755,
+      "delta": 0.31,
+      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 497031.91,
+      "liquidity": 124591.57
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5",
+      "prev": 0.295,
+      "now": 0.585,
+      "delta": 0.29,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 2790.23,
+      "liquidity": 554.0
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 3.5",
+      "prev": 0.425,
+      "now": 0.71,
+      "delta": 0.285,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 1179.3
     }
   ],
   "log": [
-    {
-      "ts": "15:15:01",
-      "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:30:02",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
@@ -266,6 +268,10 @@
     {
       "ts": "22:30:01",
       "text": " poll complete \u2014 1873 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:45:01",
+      "text": " poll complete \u2014 1966 markets scanned, 10 flagged"
     }
   ]
 }
