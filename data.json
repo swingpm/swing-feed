@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-19 23:30:01 UTC",
+  "lastUpdate": "2026-08-19 23:45:01 UTC",
   "swings": [
     {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox: O/U 11.5",
-      "prev": 0.495,
-      "now": 0.9995,
-      "delta": 0.5045,
+      "market": "Toronto Tempo vs. Washington Mystics \u2014 Georgia Amoore: Points O/U 5.5",
+      "prev": 0.485,
+      "now": 0.9945,
+      "delta": 0.5095,
+      "url": "https://polymarket.com/event/wnba-tor-wsh-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 504330.43,
+      "liquidity": 127.18
+    },
+    {
+      "market": "Arizona Diamondbacks vs. Boston Red Sox: O/U 13.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
       "tags": [
         "Sports",
@@ -13,147 +28,131 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 187.94,
-      "liquidity": 1637.11
+      "volume24hr": 295.07,
+      "liquidity": 6026.97
     },
     {
-      "market": "Cincinnati Open: Coco Gauff vs Marie Bouzkova \u2014 Gauff vs. Bouzkova: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-gauff-bouzkov-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 18.0,
-      "liquidity": 7379.92
-    },
-    {
-      "market": "Cincinnati Open: Coco Gauff vs Marie Bouzkova \u2014 Gauff vs. Bouzkova: Set 1 Games O/U 9.5",
-      "prev": 0.5,
+      "market": "Arizona Diamondbacks vs. Boston Red Sox: O/U 14.5",
+      "prev": 0.495,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-gauff-bouzkov-2026-08-19",
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 215008.73,
-      "liquidity": 7765.54
+      "volume24hr": 1101939.8,
+      "liquidity": 4334.43
     },
     {
-      "market": "Cincinnati Open: Coco Gauff vs Marie Bouzkova \u2014 Gauff vs. Bouzkova: Set 1 Games O/U 10.5",
-      "prev": 0.5,
+      "market": "Will there be a run scored in the first inning?: Athletics vs. Kansas City Royals",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 76.92,
+      "liquidity": 4689.3
+    },
+    {
+      "market": "New York Red Bulls vs. Nashville SC - More Markets \u2014 New York Red Bulls vs. Nashville SC: 2nd Half O/U 2.5",
+      "prev": 0.145,
+      "now": 0.605,
+      "delta": 0.46,
+      "url": "https://polymarket.com/event/mls-nyr-nas-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 144106.6,
+      "liquidity": 2.45
+    },
+    {
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Club Cerro Porte\u00f1o O/U 0.5",
+      "prev": 0.585,
+      "now": 0.13,
+      "delta": -0.455,
+      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 81.1,
+      "liquidity": 2874.19
+    },
+    {
+      "market": "Arizona Diamondbacks vs. Boston Red Sox \u2014 Spread: Arizona Diamondbacks (-1.5)",
+      "prev": 0.44,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-gauff-bouzkov-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 215008.73,
-      "liquidity": 7779.12
-    },
-    {
-      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "delta": -0.4395,
+      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 29.24,
-      "liquidity": 1516.27
+      "volume24hr": 5588.85,
+      "liquidity": 20892.41
     },
     {
-      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: SE Palmeiras O/U 2.5",
+      "prev": 0.445,
+      "now": 0.0155,
+      "delta": -0.4295,
+      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Copa Libertadores"
       ],
-      "volume24hr": 25.0,
-      "liquidity": 4540.96
+      "volume24hr": 49.99,
+      "liquidity": 4908.24
     },
     {
-      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 1894.78
-    },
-    {
-      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2807.73,
-      "liquidity": 2262.88
-    },
-    {
-      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 1st 5 Innings Spread: San Francisco Giants (-1.5)",
-      "prev": 0.135,
-      "now": 0.555,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6.39,
-      "liquidity": 0.55
-    },
-    {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds: 1st 5 Innings O/U 6.5",
+      "market": "Will the game go to extra innings?: Athletics vs. Kansas City Royals",
       "prev": 0.085,
       "now": 0.5,
       "delta": 0.415,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 303735.66,
-      "liquidity": 433688.89
+      "volume24hr": 399180.26,
+      "liquidity": 1.39
+    },
+    {
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: SE Palmeiras O/U 1.5",
+      "prev": 0.61,
+      "now": 0.21,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 1805.81,
+      "liquidity": 4388.78
     }
   ],
   "log": [
-    {
-      "ts": "16:15:02",
-      "text": " poll complete \u2014 1982 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:30:02",
       "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
@@ -269,6 +268,10 @@
     {
       "ts": "23:30:01",
       "text": " poll complete \u2014 1905 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:45:01",
+      "text": " poll complete \u2014 1881 markets scanned, 10 flagged"
     }
   ]
 }
