@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-19 00:15:02 UTC",
+  "lastUpdate": "2026-08-19 00:30:02 UTC",
   "swings": [
     {
-      "market": "Will there be a run scored in the first inning?: Seattle Mariners vs. Milwaukee Brewers",
-      "prev": 0.25,
+      "market": "Miami Marlins vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: Miami Marlins (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 275944.31,
+      "liquidity": 1960.77
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 53.28,
+      "liquidity": 1944.32
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 15.0,
+      "liquidity": 2350.5
+    },
+    {
+      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 1st 5 Innings Spread: Cleveland Guardians (-1.5)",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.7495,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 6529.33,
-      "liquidity": 19669.0
+      "volume24hr": 53.02,
+      "liquidity": 1888.74
     },
     {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox: 1st 5 Innings O/U 6.5",
-      "prev": 0.26,
-      "now": 0.9995,
-      "delta": 0.7395,
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 62.77,
-      "liquidity": 1621.81
-    },
-    {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 1st 5 Innings Spread: Cincinnati Reds (-1.5)",
-      "prev": 0.62,
-      "now": 0.0005,
-      "delta": -0.6195,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 1960.92
-    },
-    {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5",
-      "prev": 0.4,
-      "now": 0.9,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 8037.3,
-      "liquidity": 15835.0
-    },
-    {
-      "market": "New York Yankees vs. Baltimore Orioles \u2014 1st 5 Innings Spread: Baltimore Orioles (-1.5)",
+      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 1st 5 Innings Spread: San Francisco Giants (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-18",
+      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 61.52,
-      "liquidity": 1588.84
+      "volume24hr": 10.0,
+      "liquidity": 2028.33
     },
     {
-      "market": "New York Yankees vs. Baltimore Orioles \u2014 1st 5 Innings Spread: New York Yankees (-1.5)",
+      "market": "Miami Marlins vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: Philadelphia Phillies (-1.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-18",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 477499.7,
-      "liquidity": 1955.94
+      "volume24hr": 20.0,
+      "liquidity": 1882.83
     },
     {
-      "market": "New York Yankees vs. Baltimore Orioles: 1st 5 Innings O/U 2.5",
+      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-18",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 210.0,
-      "liquidity": 1884.53
+      "volume24hr": 57.74,
+      "liquidity": 2177.08
     },
     {
-      "market": "New York Yankees vs. Baltimore Orioles: 1st 5 Innings O/U 3.5",
+      "market": "Miami Marlins vs. Philadelphia Phillies: 1st 5 Innings O/U 6.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-18",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 487.18,
-      "liquidity": 2412.43
+      "volume24hr": 20.0,
+      "liquidity": 2246.66
     },
     {
-      "market": "New York Yankees vs. Baltimore Orioles: 1st 5 Innings O/U 4.5",
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays \u2014 1st 5 Innings Spread: Tampa Bay Rays (-1.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-18",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 40090.32,
-      "liquidity": 18364.11
+      "volume24hr": 15.0,
+      "liquidity": 2417.12
     },
     {
-      "market": "New York Yankees vs. Baltimore Orioles: 1st 5 Innings O/U 5.5",
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays \u2014 1st 5 Innings Spread: Toronto Blue Jays (-1.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-18",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 22.5,
-      "liquidity": 2133.34
+      "volume24hr": 30.18,
+      "liquidity": 2043.66
     }
   ],
   "log": [
-    {
-      "ts": "17:00:02",
-      "text": " poll complete \u2014 1790 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:15:02",
       "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "00:15:02",
       "text": " poll complete \u2014 1903 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:30:02",
+      "text": " poll complete \u2014 1905 markets scanned, 10 flagged"
     }
   ]
 }
