@@ -1,160 +1,156 @@
 {
-  "lastUpdate": "2026-08-19 17:45:01 UTC",
+  "lastUpdate": "2026-08-19 18:00:01 UTC",
   "swings": [
     {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 LoL: SU Esports vs Dark Passage - Game 4 Winner",
-      "prev": 0.875,
-      "now": 0.36,
-      "delta": -0.515,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 21065.23,
-      "liquidity": 11393.79
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli \u2014 Cincinnati Open: Completed Match: Rafael Jodar vs Flavio Cobolli",
+      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 2.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1720487.97,
-      "liquidity": 1608.87
-    },
-    {
-      "market": "Kingston: Juan Carlos Prado vs Andres Andrade \u2014 Kingston: Completed Match: Juan Carlos Prado vs Andres Andrade",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-prado-andrade-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 101173.6,
-      "liquidity": 495.02
-    },
-    {
-      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 5.5",
-      "prev": 0.575,
-      "now": 0.155,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-19",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 228839.34,
-      "liquidity": 134.75
+      "volume24hr": 391.86,
+      "liquidity": 1880.0
     },
     {
-      "market": "Will the game go to extra innings?: Atlanta Braves vs. Minnesota Twins",
-      "prev": 0.1,
-      "now": 0.5,
+      "market": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva \u2014 Kostyuk vs. Andreeva: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-kostyuk-andreev-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 406.99,
+      "liquidity": 7452.05
+    },
+    {
+      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 110.11,
+      "liquidity": 1426.04
+    },
+    {
+      "market": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva \u2014 Set Handicap: Andreeva (-1.5) vs Kostyuk (+1.5)",
+      "prev": 0.635,
+      "now": 0.19,
+      "delta": -0.445,
+      "url": "https://polymarket.com/event/wta-kostyuk-andreev-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1720.39,
+      "liquidity": 370.65
+    },
+    {
+      "market": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ot-brt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 431476.61,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ot-brt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 431476.61,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ot-brt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 431476.61,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ot-brt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 431476.61,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 20.67,
-      "liquidity": 1.39
-    },
-    {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "url": "https://polymarket.com/event/lol-ot-brt-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 156250.71,
+      "volume24hr": 431476.61,
       "liquidity": 113.67
     },
     {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
+      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 156250.71,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 156250.71,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 156250.71,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 156250.71,
+      "volume24hr": 239183.1,
       "liquidity": 113.67
     }
   ],
   "log": [
-    {
-      "ts": "10:30:01",
-      "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:45:01",
       "text": " poll complete \u2014 1876 markets scanned, 10 flagged"
@@ -270,6 +266,10 @@
     {
       "ts": "17:45:01",
       "text": " poll complete \u2014 1917 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:00:01",
+      "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
     }
   ]
 }
