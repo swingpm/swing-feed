@@ -1,161 +1,160 @@
 {
-  "lastUpdate": "2026-08-19 15:00:02 UTC",
+  "lastUpdate": "2026-08-19 15:15:01 UTC",
   "swings": [
     {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Spread: Vietnam (-1.5)",
-      "prev": 0.27,
-      "now": 0.9995,
-      "delta": 0.7295,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 10755.39,
-      "liquidity": 104861.82
-    },
-    {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: O/U 1.5",
-      "prev": 0.405,
-      "now": 0.9995,
-      "delta": 0.5945,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 70734.64,
-      "liquidity": 117420.28
-    },
-    {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Malaysia O/U 0.5",
-      "prev": 0.5,
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 LoL: Team WE vs EDward Gaming - Game 2 Winner",
+      "prev": 0.675,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
+      "delta": -0.6745,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "ASEAN Championship"
+        "Sports"
       ],
-      "volume24hr": 4530.95,
-      "liquidity": 31331.94
+      "volume24hr": 766441.47,
+      "liquidity": 1160300.75
     },
     {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Malaysia O/U 1.5",
-      "prev": 0.5,
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Games Total: O/U 2.5",
+      "prev": 0.675,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
+      "delta": -0.6745,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "ASEAN Championship"
+        "Sports"
       ],
-      "volume24hr": 710.0,
-      "liquidity": 28396.36
+      "volume24hr": 103223.5,
+      "liquidity": 204998.78
     },
     {
-      "market": "Roehampton: Michael Geerts vs Radu Albot \u2014 Roehampton: Completed Match: Michael Geerts vs Radu Albot",
+      "market": "Ethereum above ___ on August 19? \u2014 Will the price of Ethereum be above $2,000 on August 19?",
+      "prev": 0.0375,
+      "now": 0.6655,
+      "delta": 0.628,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-19-2026",
+      "tags": [
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 77677.49,
+      "liquidity": 13339.26
+    },
+    {
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game Handicap: EDG (-1.5) vs Team WE (+1.5)",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-geerts-albot-2026-08-19",
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1009.99,
+      "liquidity": 21847.52
+    },
+    {
+      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FUT Esports (-3.5) vs magic (+3.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 85.62,
+      "liquidity": 1314.23
+    },
+    {
+      "market": "Sion: Mika Brunold vs Calvin Hemery \u2014 Sion: Completed Match: Mika Brunold vs Calvin Hemery",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-brunold-hemery-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 500.0,
-      "liquidity": 969.04
+      "volume24hr": 147727.83,
+      "liquidity": 771.04
     },
     {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 249854.71,
-      "liquidity": 5313.43
-    },
-    {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Vietnam 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 249854.71,
-      "liquidity": 5313.57
-    },
-    {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Malaysia 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "ASEAN Championship"
-      ],
-      "volume24hr": 249854.71,
-      "liquidity": 2838.57
-    },
-    {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Vietnam O/U 2.5",
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Odd/Even Total Kills?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "ASEAN Championship"
+        "Sports"
       ],
-      "volume24hr": 125.0,
-      "liquidity": 11012.97
+      "volume24hr": 2527964.98,
+      "liquidity": 849.0
     },
     {
-      "market": "Vietnam vs. Malaysia - More Markets \u2014 Vietnam vs. Malaysia: Both Teams to Score in Second Half",
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 36.5 in Game 2?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/asean-vie-mas-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "ASEAN Championship"
+        "Sports"
       ],
-      "volume24hr": 249854.71,
-      "liquidity": 2838.43
+      "volume24hr": 2527964.98,
+      "liquidity": 947.55
+    },
+    {
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 350.0,
+      "liquidity": 867.5
+    },
+    {
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 39.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2527964.98,
+      "liquidity": 867.5
     }
   ],
   "log": [
-    {
-      "ts": "07:45:01",
-      "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:00:01",
       "text": " poll complete \u2014 1860 markets scanned, 10 flagged"
@@ -271,6 +270,10 @@
     {
       "ts": "15:00:02",
       "text": " poll complete \u2014 1867 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:15:01",
+      "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
     }
   ]
 }
