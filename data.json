@@ -1,56 +1,182 @@
 {
-  "lastUpdate": "2026-08-19 06:45:01 UTC",
+  "lastUpdate": "2026-08-19 07:00:01 UTC",
   "swings": [
     {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 First Blood in Game 1?",
-      "prev": 0.625,
-      "now": 0.27,
-      "delta": -0.355,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 208804.9,
-      "liquidity": 518.48
-    },
-    {
-      "market": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In \u2014 Map 3 Rounds Handicap: ONSIDE GAMING (-2.5) vs Team Secret (+2.5)",
-      "prev": 0.41,
-      "now": 0.675,
-      "delta": 0.265,
-      "url": "https://polymarket.com/event/val-osg-ts3-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.35,
-      "liquidity": 61.59
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 30.5 in Game 1?",
-      "prev": 0.685,
-      "now": 0.435,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 7.61,
-      "liquidity": 1309.59
-    },
-    {
-      "market": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Odd/Even Total Kills?",
+      "market": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 4: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 285368.46,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 4: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 285368.46,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 4: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 285368.46,
+      "liquidity": 0.0
+    },
+    {
+      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate A be the WY-AL Republican nominee?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
+      "tags": [
+        "Politics",
+        "Elections",
+        "Primaries",
+        "deprec USA Election",
+        "House Primary",
+        "Wyoming Primary",
+        "primary elections",
+        "Republican Primary",
+        "August 18 Primaries",
+        "US Election"
+      ],
+      "volume24hr": 0.0,
+      "liquidity": 0.0
+    },
+    {
+      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate B be the WY-AL Republican nominee?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
+      "tags": [
+        "Politics",
+        "Elections",
+        "Primaries",
+        "deprec USA Election",
+        "House Primary",
+        "Wyoming Primary",
+        "primary elections",
+        "Republican Primary",
+        "August 18 Primaries",
+        "US Election"
+      ],
+      "volume24hr": 0.0,
+      "liquidity": 0.0
+    },
+    {
+      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate C be the WY-AL Republican nominee?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
+      "tags": [
+        "Politics",
+        "Elections",
+        "Primaries",
+        "deprec USA Election",
+        "House Primary",
+        "Wyoming Primary",
+        "primary elections",
+        "Republican Primary",
+        "August 18 Primaries",
+        "US Election"
+      ],
+      "volume24hr": 0.0,
+      "liquidity": 0.0
+    },
+    {
+      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate D be the WY-AL Republican nominee?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
+      "tags": [
+        "Politics",
+        "Elections",
+        "Primaries",
+        "deprec USA Election",
+        "House Primary",
+        "Wyoming Primary",
+        "primary elections",
+        "Republican Primary",
+        "August 18 Primaries",
+        "US Election"
+      ],
+      "volume24hr": 0.0,
+      "liquidity": 0.0
+    },
+    {
+      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate E be the WY-AL Republican nominee?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
+      "tags": [
+        "Politics",
+        "Elections",
+        "Primaries",
+        "deprec USA Election",
+        "House Primary",
+        "Wyoming Primary",
+        "primary elections",
+        "Republican Primary",
+        "August 18 Primaries",
+        "US Election"
+      ],
+      "volume24hr": 0.0,
+      "liquidity": 0.0
+    },
+    {
+      "market": "WY-AL Republican Primary Winner \u2014 Will another candidate be the WY-AL Republican nominee?",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
+      "tags": [
+        "Politics",
+        "Elections",
+        "Primaries",
+        "deprec USA Election",
+        "House Primary",
+        "Wyoming Primary",
+        "primary elections",
+        "Republican Primary",
+        "August 18 Primaries",
+        "US Election"
+      ],
+      "volume24hr": 0.0,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prev": 0.385,
+      "now": 0.71,
+      "delta": 0.325,
       "url": "https://polymarket.com/event/lol-ktc-t1a-2026-08-19",
       "tags": [
         "Esports",
@@ -58,105 +184,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 181867.56,
-      "liquidity": 35.56
-    },
-    {
-      "market": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.25,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/lol-ktc-t1a-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 181867.56,
-      "liquidity": 30.56
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.26,
-      "now": 0.505,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 208804.9,
-      "liquidity": 1.4
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.685,
-      "now": 0.445,
-      "delta": -0.24,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 9.98,
-      "liquidity": 1213.66
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 27.5 in Game 2?",
-      "prev": 0.8,
-      "now": 0.585,
-      "delta": -0.215,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 208804.9,
-      "liquidity": 626.16
-    },
-    {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 2?",
-      "prev": 0.66,
-      "now": 0.46,
-      "delta": -0.2,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.71,
-      "liquidity": 41.63
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.78,
-      "now": 0.595,
-      "delta": -0.185,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 29.52,
-      "liquidity": 742.33
+      "volume24hr": 133354.45,
+      "liquidity": 129952.23
     }
   ],
   "log": [
-    {
-      "ts": "23:30:01",
-      "text": " poll complete \u2014 1886 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:45:01",
       "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
@@ -272,6 +304,10 @@
     {
       "ts": "06:45:01",
       "text": " poll complete \u2014 1814 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:00:01",
+      "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
     }
   ]
 }
