@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-19 11:30:02 UTC",
+  "lastUpdate": "2026-08-19 11:45:02 UTC",
   "swings": [
     {
-      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.5,
+      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 First Blood in Game 2?",
+      "prev": 0.715,
       "now": 0.005,
-      "delta": -0.495,
+      "delta": -0.71,
       "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
       "tags": [
         "Esports",
@@ -13,89 +13,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 196790.92,
-      "liquidity": 771.0
+      "volume24hr": 31.35,
+      "liquidity": 1546.73
     },
     {
-      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 First Blood in Game 1?",
+      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game 3: Odd/Even Total Kills?",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
+      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 196790.92,
-      "liquidity": 840.99
+      "volume24hr": 1923558.52,
+      "liquidity": 868.98
     },
     {
-      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 21.5 in Game 1?",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 795.55
-    },
-    {
-      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.685,
-      "now": 0.23,
-      "delta": -0.455,
-      "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1041.1,
-      "liquidity": 93.7
-    },
-    {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Odd/Even Total Kills?",
-      "prev": 0.55,
-      "now": 0.995,
-      "delta": 0.445,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1297852.83,
-      "liquidity": 983.66
-    },
-    {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.445,
-      "now": 0.005,
-      "delta": -0.44,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1297852.83,
-      "liquidity": 1032.2
-    },
-    {
-      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
+      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 1?",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
       "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
       "tags": [
         "Esports",
@@ -103,60 +43,119 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 230186.84,
-      "liquidity": 509730.23
+      "volume24hr": 707782.86,
+      "liquidity": 837.11
     },
     {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Any Player Quadra Kill?",
+      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "now": 0.24,
+      "delta": -0.26,
+      "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1297852.83,
-      "liquidity": 113.67
+      "volume24hr": 5.37,
+      "liquidity": 62.0
     },
     {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "prev": 0.445,
+      "now": 0.215,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1297852.83,
-      "liquidity": 113.67
+      "volume24hr": 21310.88,
+      "liquidity": 64.0
     },
     {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.45,
-      "now": 0.1,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "market": "Counter-Strike: G2 Ares vs ex-Zero Tenacity (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: G2 Ares vs ex-Zero Tenacity - Map 1 Winner",
+      "prev": 0.295,
+      "now": 0.075,
+      "delta": -0.22,
+      "url": "https://polymarket.com/event/cs2-g2a-zerote-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2001.78,
+      "liquidity": 2080.25
+    },
+    {
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Cloud9 (-3.5) vs BESTIA (+3.5)",
+      "prev": 0.315,
+      "now": 0.495,
+      "delta": 0.18,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 72570.95,
+      "liquidity": 422.31
+    },
+    {
+      "market": "Highest temperature in Paris on August 19? \u2014 Will the highest temperature in Paris be 28\u00b0C on August 19?",
+      "prev": 0.264,
+      "now": 0.096,
+      "delta": -0.168,
+      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-19-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Paris",
+        "France",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 8846.67,
+      "liquidity": 503.18
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Games Total: O/U 2.5",
+      "prev": 0.515,
+      "now": 0.675,
+      "delta": 0.16,
+      "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1297852.83,
-      "liquidity": 113.67
+      "volume24hr": 7353.87,
+      "liquidity": 80956.19
+    },
+    {
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 2?",
+      "prev": 0.385,
+      "now": 0.23,
+      "delta": -0.155,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 8.04,
+      "liquidity": 11.43
     }
   ],
   "log": [
-    {
-      "ts": "04:15:02",
-      "text": " poll complete \u2014 1831 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:30:01",
       "text": " poll complete \u2014 1817 markets scanned, 5 flagged"
@@ -272,6 +271,10 @@
     {
       "ts": "11:30:02",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:45:02",
+      "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
     }
   ]
 }
