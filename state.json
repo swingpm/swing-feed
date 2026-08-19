@@ -3535,7 +3535,7 @@
   },
   "3538960": {
     "question": "Chicago White Sox vs. Chicago Cubs",
-    "price": 0.365,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3544,7 +3544,7 @@
       "baseball"
     ],
     "volume24hr": 545621.7073339995,
-    "liquidity": 128784.3395
+    "liquidity": 0.0
   },
   "3538963": {
     "question": "Will there be a run scored in the first inning?: Chicago White Sox vs. Chicago Cubs",
@@ -3561,7 +3561,7 @@
   },
   "3681069": {
     "question": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago Cubs (-1.5)",
-    "price": 0.2,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3570,11 +3570,11 @@
       "baseball"
     ],
     "volume24hr": 2860.911819,
-    "liquidity": 4805.1629
+    "liquidity": 0.0
   },
   "3681070": {
     "question": "Chicago White Sox vs. Chicago Cubs: O/U 10.5",
-    "price": 0.15,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3583,7 +3583,7 @@
       "baseball"
     ],
     "volume24hr": 6999.077484000001,
-    "liquidity": 27811.845
+    "liquidity": 0.0
   },
   "3681071": {
     "question": "Chicago White Sox vs. Chicago Cubs \u2014 1st 5 Innings Spread: Chicago Cubs (-1.5)",
@@ -3691,7 +3691,7 @@
   },
   "3681082": {
     "question": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago Cubs (-2.5)",
-    "price": 0.1,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3700,11 +3700,11 @@
       "baseball"
     ],
     "volume24hr": 21392.57199,
-    "liquidity": 27644.7626
+    "liquidity": 0.0
   },
   "3681083": {
     "question": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago White Sox (-1.5)",
-    "price": 0.17,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3713,11 +3713,11 @@
       "baseball"
     ],
     "volume24hr": 1991.3764279999998,
-    "liquidity": 2077.8049
+    "liquidity": 0.0
   },
   "3681084": {
     "question": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago White Sox (-2.5)",
-    "price": 0.075,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3726,11 +3726,11 @@
       "baseball"
     ],
     "volume24hr": 831.966955,
-    "liquidity": 2358.5298
+    "liquidity": 0.0
   },
   "3682315": {
     "question": "Chicago White Sox vs. Chicago Cubs: O/U 9.5",
-    "price": 0.21,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3739,11 +3739,11 @@
       "baseball"
     ],
     "volume24hr": 56551.46093099994,
-    "liquidity": 27428.9809
+    "liquidity": 0.0
   },
   "3682316": {
     "question": "Chicago White Sox vs. Chicago Cubs: O/U 11.5",
-    "price": 0.085,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3752,11 +3752,11 @@
       "baseball"
     ],
     "volume24hr": 2373.865673,
-    "liquidity": 4834.1896
+    "liquidity": 0.0
   },
   "3686856": {
     "question": "Chicago White Sox vs. Chicago Cubs: O/U 8.5",
-    "price": 0.375,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3765,11 +3765,11 @@
       "baseball"
     ],
     "volume24hr": 27562.838005999994,
-    "liquidity": 24962.7612
+    "liquidity": 0.0
   },
   "3711773": {
     "question": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago Cubs (-3.5)",
-    "price": 0.435,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3778,11 +3778,11 @@
       "baseball"
     ],
     "volume24hr": 12.0,
-    "liquidity": 56.1
+    "liquidity": 0.0
   },
   "3711774": {
     "question": "Chicago White Sox vs. Chicago Cubs: O/U 12.5",
-    "price": 0.465,
+    "price": 0.0,
     "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
     "tags": [
       "Sports",
@@ -3791,7 +3791,7 @@
       "baseball"
     ],
     "volume24hr": 668837.7625309994,
-    "liquidity": 32.1
+    "liquidity": 0.0
   },
   "3713483": {
     "question": "Chicago White Sox vs. Chicago Cubs: O/U 7.5",
@@ -8023,7 +8023,7 @@
   },
   "3687507": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 LoL: Kits Esports vs 3v Team - Game 2 Winner",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -8032,7 +8032,7 @@
       "Sports"
     ],
     "volume24hr": 29348.819711999993,
-    "liquidity": 190350.86275
+    "liquidity": 0.0
   },
   "3687508": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 LoL: Kits Esports vs 3v Team - Game 3 Winner",
@@ -8179,7 +8179,7 @@
   },
   "3687521": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
-    "price": 0.095,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -8188,11 +8188,11 @@
       "Sports"
     ],
     "volume24hr": 285143.07059700007,
-    "liquidity": 117.72
+    "liquidity": 0.0
   },
   "3687522": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
-    "price": 0.9,
+    "price": 1.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -8201,11 +8201,11 @@
       "Sports"
     ],
     "volume24hr": 285143.07059700007,
-    "liquidity": 113.67
+    "liquidity": 0.0
   },
   "3687523": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
-    "price": 0.095,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -8214,7 +8214,7 @@
       "Sports"
     ],
     "volume24hr": 285143.07059700007,
-    "liquidity": 117.72
+    "liquidity": 0.0
   },
   "3687524": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 2: Any Player Quadra Kill?",
@@ -8244,7 +8244,7 @@
   },
   "3687526": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 2: Odd/Even Total Kills?",
-    "price": 0.905,
+    "price": 1.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -8253,7 +8253,7 @@
       "Sports"
     ],
     "volume24hr": 285143.07059700007,
-    "liquidity": 117.72
+    "liquidity": 0.0
   },
   "3687527": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
@@ -18468,435 +18468,6 @@
     "volume24hr": 1.0101,
     "liquidity": 119.9898
   },
-  "3261005": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 Spread: CD Tolima (-1.5)",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 6801.233184999999,
-    "liquidity": 0.0
-  },
-  "3261006": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 Spread: Independiente del Valle (-1.5)",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 1509.012493,
-    "liquidity": 0.0
-  },
-  "3261008": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 Spread: CD Tolima (-2.5)",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 10.0,
-    "liquidity": 0.0
-  },
-  "3261010": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 Spread: Independiente del Valle (-2.5)",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 449.09228,
-    "liquidity": 0.0
-  },
-  "3261011": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 0.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 2163.391341,
-    "liquidity": 0.0
-  },
-  "3261012": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 1.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 14185.490000000002,
-    "liquidity": 0.0
-  },
-  "3261013": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 2.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 20236.507259999995,
-    "liquidity": 0.0
-  },
-  "3261014": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 3.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 47853.381462,
-    "liquidity": 0.0
-  },
-  "3261015": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 4.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 1004.992856,
-    "liquidity": 0.0
-  },
-  "3261017": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: O/U 5.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 1669.043056,
-    "liquidity": 0.0
-  },
-  "3261019": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Both Teams to Score",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 2404.5041199999996,
-    "liquidity": 0.0
-  },
-  "3261020": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Both Teams to Score in First Half",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 148.995913,
-    "liquidity": 12654.18972
-  },
-  "3261021": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: 1st Half O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 4152.88339,
-    "liquidity": 50880.58792
-  },
-  "3261022": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: 1st Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 1430.1602110000001,
-    "liquidity": 14790.72186
-  },
-  "3261023": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: 1st Half O/U 2.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 35.0,
-    "liquidity": 12186.33208
-  },
-  "3261024": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 0.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 98.425397,
-    "liquidity": 0.0
-  },
-  "3261025": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 1.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 22.14,
-    "liquidity": 0.0
-  },
-  "3261027": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 2.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 0.0
-  },
-  "3261029": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle O/U 0.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 14.989,
-    "liquidity": 0.0
-  },
-  "3261030": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle O/U 1.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 104503.366111,
-    "liquidity": 0.0
-  },
-  "3261031": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle O/U 2.5",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 20.0,
-    "liquidity": 0.0
-  },
-  "3261032": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima 1st Half O/U 0.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 1.001,
-    "liquidity": 574.32704
-  },
-  "3261033": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima 1st Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 168.138147,
-    "liquidity": 572.904
-  },
-  "3261034": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle 1st Half O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 64.994,
-    "liquidity": 1112.399
-  },
-  "3261035": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle 1st Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 4.991,
-    "liquidity": 567.349
-  },
-  "3261036": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Both Teams to Score in Second Half",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 5.0,
-    "liquidity": 3956.22472
-  },
-  "3261038": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: 2nd Half O/U 0.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 3442.45207
-  },
-  "3261040": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: 2nd Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 5.0,
-    "liquidity": 3442.8538
-  },
-  "3261041": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: 2nd Half O/U 2.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 5.0,
-    "liquidity": 3430.459
-  },
-  "3261042": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima 2nd Half O/U 0.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 5.0,
-    "liquidity": 3430.459
-  },
-  "3261043": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima 2nd Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 104503.366111,
-    "liquidity": 3430.459
-  },
-  "3261044": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle 2nd Half O/U 0.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 5.0,
-    "liquidity": 3430.459
-  },
-  "3261045": {
-    "question": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: Independiente del Valle 2nd Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 104503.366111,
-    "liquidity": 3437.45764
-  },
   "3631130": {
     "question": "Caribbean Premier League: Jamaica Kingsmen vs St. Kitts and Nevis Patriots",
     "price": 0.9995,
@@ -22982,7 +22553,7 @@
   },
   "3366073": {
     "question": "Goi\u00e1s EC vs. EC Juventude \u2014 Will Goi\u00e1s EC win on 2026-08-18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/bra2-goi-juv-2026-08-18",
     "tags": [
       "Sports",
@@ -22990,11 +22561,11 @@
       "Soccer"
     ],
     "volume24hr": 19690.578543000007,
-    "liquidity": 47526.04396
+    "liquidity": 0.0
   },
   "3366075": {
     "question": "Will Goi\u00e1s EC vs. EC Juventude end in a draw?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/bra2-goi-juv-2026-08-18",
     "tags": [
       "Sports",
@@ -23002,7 +22573,7 @@
       "Soccer"
     ],
     "volume24hr": 19449.337935999996,
-    "liquidity": 42811.14028
+    "liquidity": 0.0
   },
   "3366076": {
     "question": "Goi\u00e1s EC vs. EC Juventude \u2014 Will EC Juventude win on 2026-08-18?",
@@ -25944,5 +25515,47 @@
     ],
     "volume24hr": 55555.0,
     "liquidity": 710.67
+  },
+  "562793": {
+    "question": "Which party will win the Senate in 2026? \u2014 Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+    "price": 0.515,
+    "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026",
+    "tags": [
+      "Senate",
+      "Parent For Derivative",
+      "United States",
+      "US Election",
+      "Politics",
+      "Midterms",
+      "World Elections",
+      "Elections",
+      "Global Elections",
+      "Earn 4%",
+      "Congress",
+      "Main Election"
+    ],
+    "volume24hr": 53343.26650700001,
+    "liquidity": 171892.4101
+  },
+  "562794": {
+    "question": "Which party will win the Senate in 2026? \u2014 Will the Republican Party control the Senate after the 2026 Midterm elections?",
+    "price": 0.495,
+    "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026",
+    "tags": [
+      "Senate",
+      "Parent For Derivative",
+      "United States",
+      "US Election",
+      "Politics",
+      "Midterms",
+      "World Elections",
+      "Elections",
+      "Global Elections",
+      "Earn 4%",
+      "Congress",
+      "Main Election"
+    ],
+    "volume24hr": 1726.23,
+    "liquidity": 169600.8216
   }
 }
