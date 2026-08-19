@@ -1,154 +1,152 @@
 {
-  "lastUpdate": "2026-08-19 22:15:01 UTC",
+  "lastUpdate": "2026-08-19 22:30:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
-      "prev": 0.785,
-      "now": 0.025,
-      "delta": -0.76,
+      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Cincinnati Open: Completed Match: Alexander Zverev vs Tommy Paul",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 723567.54,
-      "liquidity": 395128.32
+      "volume24hr": 1003140.14,
+      "liquidity": 2672.39
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Cincinnati Open: Completed Match: Arthur Fils vs Alex de Minaur",
+      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 542186.04,
-      "liquidity": 2610.08
+      "volume24hr": 219578.43,
+      "liquidity": 4154.47
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Set 2 Games O/U 8.5",
+      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 542186.04,
-      "liquidity": 4475.29
+      "volume24hr": 219578.43,
+      "liquidity": 4588.46
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Match O/U 21.5",
+      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Match O/U 23.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 389.82,
-      "liquidity": 7600.64
+      "volume24hr": 219578.43,
+      "liquidity": 7660.65
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Set Handicap: Minaur (-1.5) vs Fils (+1.5)",
+      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Shnaider vs. Rybakina: Set 2 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 130.39,
-      "liquidity": 8831.43
+      "volume24hr": 219578.43,
+      "liquidity": 4909.36
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 542186.04,
-      "liquidity": 4501.7
-    },
-    {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Match O/U 23.5",
-      "prev": 0.5,
+      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Set Handicap: Paul (-1.5) vs Zverev (+1.5)",
+      "prev": 0.248,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "delta": -0.2475,
+      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 44.99,
-      "liquidity": 7549.07
+      "volume24hr": 45.37,
+      "liquidity": 19489.76
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "market": "What price will Ethereum hit in August? \u2014 Will Ethereum dip to $2,000 in August?",
+      "prev": 0.475,
+      "now": 0.23,
+      "delta": -0.245,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Ethereum",
+        "Monthly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring"
       ],
-      "volume24hr": 542186.04,
-      "liquidity": 4467.06
+      "volume24hr": 733.12,
+      "liquidity": 144.96
     },
     {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox \u2014 Spread: Arizona Diamondbacks (-1.5)",
-      "prev": 0.675,
-      "now": 0.26,
-      "delta": -0.415,
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2361.44,
-      "liquidity": 7934.79
-    },
-    {
-      "market": "Will the game go to extra innings?: Miami Marlins vs. Philadelphia Phillies",
-      "prev": 0.095,
+      "market": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Cloud9 (-4.5) vs BESTIA (+4.5)",
+      "prev": 0.255,
       "now": 0.5,
-      "delta": 0.405,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-19",
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/val-c9-bst1-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 10.64,
-      "liquidity": 890358.26
+      "volume24hr": 30.0,
+      "liquidity": 559026.92
+    },
+    {
+      "market": "Cincinnati Open: Diana Shnaider vs Elena Rybakina \u2014 Cincinnati Open: Completed Match: Diana Shnaider vs Elena Rybakina",
+      "prev": 0.75,
+      "now": 0.995,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/wta-shnaide-rybakin-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 219578.43,
+      "liquidity": 2655.22
+    },
+    {
+      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Alexander Zverev vs. Tommy Paul: Total Sets O/U 2.5",
+      "prev": 0.755,
+      "now": 0.9995,
+      "delta": 0.2445,
+      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 346.59,
+      "liquidity": 7712.66
     }
   ],
   "log": [
-    {
-      "ts": "15:00:02",
-      "text": " poll complete \u2014 1867 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:15:01",
       "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
@@ -264,6 +262,10 @@
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1851 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:30:01",
+      "text": " poll complete \u2014 1873 markets scanned, 10 flagged"
     }
   ]
 }
