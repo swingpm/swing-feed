@@ -1,141 +1,83 @@
 {
-  "lastUpdate": "2026-08-19 00:45:01 UTC",
+  "lastUpdate": "2026-08-19 01:00:02 UTC",
   "swings": [
     {
-      "market": "Miami Marlins vs. Philadelphia Phillies",
-      "prev": 0.715,
-      "now": 0.185,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
+      "market": "Dana White's Contender Series: Trent Miller vs. Douglas Rodrigues (Middleweight, Main Card) \u2014 Will the fight be won by KO or TKO?",
+      "prev": 0.78,
+      "now": 0.0055,
+      "delta": -0.7745,
+      "url": "https://polymarket.com/event/ufc-tre9-drodri-2026-08-18",
       "tags": [
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 226004.97,
-      "liquidity": 180351.71
-    },
-    {
-      "market": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime \u2014 Cerundolo vs. Auger-Aliassime: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cerund-augeral-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
+        "UFC",
         "Games"
       ],
-      "volume24hr": 556787.15,
-      "liquidity": 4201.79
+      "volume24hr": 24.0,
+      "liquidity": 29.57
     },
     {
-      "market": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime \u2014 Cerundolo vs. Auger-Aliassime: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cerund-augeral-2026-08-18",
+      "market": "Dana White's Contender Series: Trent Miller vs. Douglas Rodrigues (Middleweight, Main Card) \u2014 Will the fight be won by submission?",
+      "prev": 0.23,
+      "now": 0.9945,
+      "delta": 0.7645,
+      "url": "https://polymarket.com/event/ufc-tre9-drodri-2026-08-18",
       "tags": [
-        "Tennis",
         "Sports",
+        "UFC",
         "Games"
       ],
-      "volume24hr": 215.59,
-      "liquidity": 6957.27
+      "volume24hr": 4.76,
+      "liquidity": 67.86
     },
     {
-      "market": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime \u2014 Cincinnati Open: Completed Match: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-cerund-augeral-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 556787.15,
-      "liquidity": 2017.74
-    },
-    {
-      "market": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime \u2014 Cerundolo vs. Auger-Aliassime: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-cerund-augeral-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 556787.15,
-      "liquidity": 3877.45
-    },
-    {
-      "market": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime \u2014 Cerundolo vs. Auger-Aliassime: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-cerund-augeral-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 556787.15,
-      "liquidity": 3632.99
-    },
-    {
-      "market": "Indiana Fever vs. Toronto Tempo \u2014 Kelsey Mitchell: Points O/U 25.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wnba-ind-tor-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 342.41,
-      "liquidity": 601.22
-    },
-    {
-      "market": "Los Angeles Sparks vs. Connecticut Sun \u2014 Ariel Atkins: Points O/U 8.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wnba-la-conn-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 540.34,
-      "liquidity": 496.57
-    },
-    {
-      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 340.42
-    },
-    {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates: O/U 4.5",
-      "prev": 0.505,
+      "market": "Dana White's Contender Series: Trent Miller vs. Douglas Rodrigues (Middleweight, Main Card)",
+      "prev": 0.299,
       "now": 0.9995,
-      "delta": 0.4945,
+      "delta": 0.7005,
+      "url": "https://polymarket.com/event/ufc-tre9-drodri-2026-08-18",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 154841.85,
+      "liquidity": 103847.83
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals \u2014 1st 5 Innings Spread: Athletics (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 608114.51,
+      "liquidity": 1759.06
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1.28,
+      "liquidity": 1684.48
+    },
+    {
+      "market": "Will the game go to extra innings?: Detroit Tigers vs. Pittsburgh Pirates",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-det-pit-2026-08-18",
       "tags": [
         "Sports",
@@ -143,15 +85,71 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 21.67,
-      "liquidity": 9374.25
+      "volume24hr": 283.27,
+      "liquidity": 2012.05
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 384154.88,
+      "liquidity": 1870.78
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 14.98,
+      "liquidity": 2405.11
+    },
+    {
+      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 6064.59,
+      "liquidity": 17753.5
+    },
+    {
+      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 47.24,
+      "liquidity": 2016.27
     }
   ],
   "log": [
-    {
-      "ts": "17:30:01",
-      "text": " poll complete \u2014 1733 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:45:02",
       "text": " poll complete \u2014 1765 markets scanned, 10 flagged"
@@ -267,6 +265,10 @@
     {
       "ts": "00:45:01",
       "text": " poll complete \u2014 1960 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:00:02",
+      "text": " poll complete \u2014 1995 markets scanned, 10 flagged"
     }
   ]
 }
