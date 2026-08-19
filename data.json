@@ -1,41 +1,54 @@
 {
-  "lastUpdate": "2026-08-19 17:30:02 UTC",
+  "lastUpdate": "2026-08-19 17:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: Vitality.Bee vs Ici Japon Corp. Esport (BO3) - LFL Playoffs \u2014 LoL: Vitality.Bee vs Ici Japon Corp. Esport - Game 2 Winner",
-      "prev": 0.625,
-      "now": 0.0005,
-      "delta": -0.6245,
-      "url": "https://polymarket.com/event/lol-vitb-ijc-2026-08-19",
+      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 LoL: SU Esports vs Dark Passage - Game 4 Winner",
+      "prev": 0.875,
+      "now": 0.36,
+      "delta": -0.515,
+      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 57339.5,
-      "liquidity": 383643.17
+      "volume24hr": 21065.23,
+      "liquidity": 11393.79
     },
     {
-      "market": "LoL: Vitality.Bee vs Ici Japon Corp. Esport (BO3) - LFL Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.625,
-      "now": 0.005,
-      "delta": -0.62,
-      "url": "https://polymarket.com/event/lol-vitb-ijc-2026-08-19",
+      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli \u2014 Cincinnati Open: Completed Match: Rafael Jodar vs Flavio Cobolli",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 18.25,
-      "liquidity": 29699.18
+      "volume24hr": 1720487.97,
+      "liquidity": 1608.87
     },
     {
-      "market": "Will there be a run scored in the first inning?: San Diego Padres vs. New York Mets",
-      "prev": 0.55,
-      "now": 0.005,
-      "delta": -0.545,
+      "market": "Kingston: Juan Carlos Prado vs Andres Andrade \u2014 Kingston: Completed Match: Juan Carlos Prado vs Andres Andrade",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-prado-andrade-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101173.6,
+      "liquidity": 495.02
+    },
+    {
+      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 5.5",
+      "prev": 0.575,
+      "now": 0.155,
+      "delta": -0.42,
       "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-19",
       "tags": [
         "Sports",
@@ -43,119 +56,101 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 3181.43,
-      "liquidity": 19571.07
+      "volume24hr": 228839.34,
+      "liquidity": 134.75
     },
     {
-      "market": "LoL: Vitality.Bee vs Ici Japon Corp. Esport (BO3) - LFL Playoffs \u2014 Game Handicap: IJC (-1.5) vs Vitality.Bee (+1.5)",
-      "prev": 0.495,
-      "now": 0.995,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/lol-vitb-ijc-2026-08-19",
+      "market": "Will the game go to extra innings?: Atlanta Braves vs. Minnesota Twins",
+      "prev": 0.1,
+      "now": 0.5,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 4288.18
-    },
-    {
-      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Games Total: O/U 4.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 25.05,
-      "liquidity": 4997.3
-    },
-    {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2800082.7,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2800082.7,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2800082.7,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Games Total: O/U 3.5",
-      "prev": 0.405,
-      "now": 0.005,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 479.5,
-      "liquidity": 4982.3
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
-      "prev": 0.565,
-      "now": 0.195,
-      "delta": -0.37,
-      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
-      "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1391714.18,
-      "liquidity": 451557.3
+      "volume24hr": 20.67,
+      "liquidity": 1.39
+    },
+    {
+      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 156250.71,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 156250.71,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 156250.71,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 156250.71,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 156250.71,
+      "liquidity": 113.67
     }
   ],
   "log": [
-    {
-      "ts": "10:15:02",
-      "text": " poll complete \u2014 1881 markets scanned, 0 flagged"
-    },
     {
       "ts": "10:30:01",
       "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
@@ -271,6 +266,10 @@
     {
       "ts": "17:30:02",
       "text": " poll complete \u2014 1938 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:45:01",
+      "text": " poll complete \u2014 1917 markets scanned, 10 flagged"
     }
   ]
 }
