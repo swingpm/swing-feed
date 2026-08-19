@@ -1,146 +1,26 @@
 {
-  "lastUpdate": "2026-08-19 03:00:01 UTC",
+  "lastUpdate": "2026-08-19 03:15:02 UTC",
   "swings": [
     {
-      "market": "Los Angeles Angels vs. Houston Astros: O/U 7.5",
-      "prev": 0.51,
-      "now": 0.005,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
+      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 Spread: Los Angeles Dodgers (-2.5)",
+      "prev": 0.775,
+      "now": 0.24,
+      "delta": -0.535,
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 250.69,
-      "liquidity": 2436.92
+      "volume24hr": 2518.54,
+      "liquidity": 5854.08
     },
     {
-      "market": "Washington Nationals vs. Texas Rangers: O/U 10.5",
+      "market": "New York Liberty vs. Chicago Sky \u2014 Breanna Stewart: Points O/U 21.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4.99,
-      "liquidity": 3503.11
-    },
-    {
-      "market": "Washington Nationals vs. Texas Rangers: O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 440019.69,
-      "liquidity": 7248.6
-    },
-    {
-      "market": "Will the game go to extra innings?: Los Angeles Angels vs. Houston Astros",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 778321.28,
-      "liquidity": 1013.1
-    },
-    {
-      "market": "Los Angeles Angels vs. Houston Astros: O/U 6.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4486.54,
-      "liquidity": 4326.72
-    },
-    {
-      "market": "Los Angeles Angels vs. Houston Astros: O/U 4.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 778321.28,
-      "liquidity": 2496.6
-    },
-    {
-      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Points O/U 18.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 128.35,
-      "liquidity": 484.62
-    },
-    {
-      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Angel Reese: Points O/U 15.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 238.98,
-      "liquidity": 484.7
-    },
-    {
-      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Points O/U 19.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 7.0,
-      "liquidity": 484.62
-    },
-    {
-      "market": "New York Liberty vs. Chicago Sky \u2014 Kamilla Cardoso: Points O/U 13.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.9955,
+      "delta": 0.4955,
       "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
       "tags": [
         "Sports",
@@ -148,15 +28,127 @@
         "WNBA",
         "Basketball"
       ],
-      "volume24hr": 16.93,
-      "liquidity": 560.93
+      "volume24hr": 575725.81,
+      "liquidity": 1003.95
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Chelsea Gray: Points O/U 11.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 61.5,
+      "liquidity": 477.7
+    },
+    {
+      "market": "New York Liberty vs. Chicago Sky: O/U 179.5",
+      "prev": 0.49,
+      "now": 0.0005,
+      "delta": -0.4895,
+      "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 70984.67,
+      "liquidity": 161456.13
+    },
+    {
+      "market": "Cincinnati Open: Marie Bouzkova vs Iva Jovic \u2014 Set 2 Winner: Bouzkova vs Jovic",
+      "prev": 0.16,
+      "now": 0.575,
+      "delta": 0.415,
+      "url": "https://polymarket.com/event/wta-bouzkov-jovic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 701.34,
+      "liquidity": 473.5
+    },
+    {
+      "market": "New York Liberty vs. Chicago Sky \u2014 Breanna Stewart: Points O/U 22.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 102.89,
+      "liquidity": 413.67
+    },
+    {
+      "market": "New York Liberty vs. Chicago Sky \u2014 Breanna Stewart: Rebounds O/U 8.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 183.31,
+      "liquidity": 413.67
+    },
+    {
+      "market": "Cincinnati Open: Marie Bouzkova vs Iva Jovic \u2014 Bouzkova vs. Jovic: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.895,
+      "delta": 0.395,
+      "url": "https://polymarket.com/event/wta-bouzkov-jovic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2852.92,
+      "liquidity": 120.25
+    },
+    {
+      "market": "Cincinnati Open: Marie Bouzkova vs Iva Jovic \u2014 Marie Bouzkova vs. Iva Jovic: Total Sets O/U 2.5",
+      "prev": 0.825,
+      "now": 0.435,
+      "delta": -0.39,
+      "url": "https://polymarket.com/event/wta-bouzkov-jovic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 197.68,
+      "liquidity": 121.5
+    },
+    {
+      "market": "Cincinnati Open: Marie Bouzkova vs Iva Jovic \u2014 Bouzkova vs. Jovic: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.865,
+      "delta": 0.365,
+      "url": "https://polymarket.com/event/wta-bouzkov-jovic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1.69,
+      "liquidity": 110.8
     }
   ],
   "log": [
-    {
-      "ts": "19:45:01",
-      "text": " poll complete \u2014 1789 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:00:01",
       "text": " poll complete \u2014 1792 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "03:00:01",
       "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:15:02",
+      "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
     }
   ]
 }
