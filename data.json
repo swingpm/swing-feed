@@ -1,160 +1,156 @@
 {
-  "lastUpdate": "2026-08-19 16:00:01 UTC",
+  "lastUpdate": "2026-08-19 16:15:02 UTC",
   "swings": [
     {
-      "market": "Highest temperature in London on August 19? \u2014 Will the highest temperature in London be 24\u00b0C on August 19?",
-      "prev": 0.71,
-      "now": 0.0005,
-      "delta": -0.7095,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-19-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 14064.8,
-      "liquidity": 40877.65
-    },
-    {
-      "market": "Highest temperature in London on August 19? \u2014 Will the highest temperature in London be 25\u00b0C on August 19?",
-      "prev": 0.265,
-      "now": 0.965,
-      "delta": 0.7,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-19-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 18394.69,
-      "liquidity": 516.06
-    },
-    {
-      "market": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 LoL: Onion Team vs BRUTE - Game 2 Winner",
-      "prev": 0.3155,
-      "now": 0.9995,
-      "delta": 0.684,
-      "url": "https://polymarket.com/event/lol-ot-brt-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 17085.1,
-      "liquidity": 271762.03
-    },
-    {
-      "market": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: FUT Esports (-3.5) vs magic (+3.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-g2-ast10-2026-08-19",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 29.26,
-      "liquidity": 1697.96
+      "volume24hr": 481.72,
+      "liquidity": 2012.89
     },
     {
-      "market": "Cincinnati Open: Iga Swiatek vs Diane Parry \u2014 Swiatek vs. Parry: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-swiatek-parry-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 808.01,
-      "liquidity": 9972.4
-    },
-    {
-      "market": "Cincinnati Open: Iga Swiatek vs Diane Parry \u2014 Swiatek vs. Parry: Set 1 Games O/U 10.5",
+      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map 2 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-swiatek-parry-2026-08-19",
+      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 111416.25,
-      "liquidity": 7076.97
+      "volume24hr": 255.41,
+      "liquidity": 1294.96
     },
     {
-      "market": "Prague 2: Norbert Gombos vs Sean Cuenin \u2014 Set 2 Winner: Gombos vs Cuenin",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gombos-cuenin-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 111174.52,
-      "liquidity": 3425.85
-    },
-    {
-      "market": "Prague 2: Norbert Gombos vs Sean Cuenin \u2014 Gombos vs. Cuenin: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gombos-cuenin-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 111174.52,
-      "liquidity": 3307.05
-    },
-    {
-      "market": "Prague 2: Norbert Gombos vs Sean Cuenin \u2014 Gombos vs. Cuenin: Set 2 Games O/U 9.5",
+      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map Handicap: MGC (-1.5) vs FUT Esports (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gombos-cuenin-2026-08-19",
+      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.61,
+      "liquidity": 1819.68
+    },
+    {
+      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli \u2014 Jodar vs. Cobolli: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 111174.52,
-      "liquidity": 2928.15
+      "volume24hr": 585767.47,
+      "liquidity": 7010.81
     },
     {
-      "market": "Prague 2: Norbert Gombos vs Sean Cuenin \u2014 Gombos vs. Cuenin: Set 2 Games O/U 10.5",
+      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli \u2014 Jodar vs. Cobolli: Set 1 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gombos-cuenin-2026-08-19",
+      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 111174.52,
-      "liquidity": 3585.78
+      "volume24hr": 48.77,
+      "liquidity": 3966.94
+    },
+    {
+      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1919735.47,
+      "liquidity": 754.42
+    },
+    {
+      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: FUT Esports (-6.5) vs magic (+6.5)",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1919735.47,
+      "liquidity": 754.42
+    },
+    {
+      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: magic (-3.5) vs FUT Esports (+3.5)",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1919735.47,
+      "liquidity": 754.42
+    },
+    {
+      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: FUT Esports (-9.5) vs magic (+9.5)",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1919735.47,
+      "liquidity": 754.42
+    },
+    {
+      "market": "Counter-Strike: Black Phoenix vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 15.5",
+      "prev": 0.505,
+      "now": 0.9,
+      "delta": 0.395,
+      "url": "https://polymarket.com/event/cs2-blackp-bw-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 77321.37,
+      "liquidity": 114.67
     }
   ],
   "log": [
-    {
-      "ts": "08:45:02",
-      "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:00:02",
       "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
@@ -270,6 +266,10 @@
     {
       "ts": "16:00:01",
       "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:15:02",
+      "text": " poll complete \u2014 1982 markets scanned, 10 flagged"
     }
   ]
 }
