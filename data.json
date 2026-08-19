@@ -1,162 +1,162 @@
 {
-  "lastUpdate": "2026-08-19 03:45:01 UTC",
+  "lastUpdate": "2026-08-19 04:00:01 UTC",
   "swings": [
     {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 Spread: Los Angeles Dodgers (-1.5)",
-      "prev": 0.765,
-      "now": 0.0005,
-      "delta": -0.7645,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 21511.13,
-      "liquidity": 79198.89
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 12.5",
-      "prev": 0.255,
-      "now": 0.9995,
-      "delta": 0.7445,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 36103.21,
-      "liquidity": 135344.94
-    },
-    {
-      "market": "Will the game go to extra innings?: Los Angeles Dodgers vs. Colorado Rockies",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.13,
-      "liquidity": 525.73
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 17.5",
-      "prev": 0.495,
-      "now": 0.004,
-      "delta": -0.491,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 767138.84,
-      "liquidity": 6242.22
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 16.5",
-      "prev": 0.49,
-      "now": 0.004,
-      "delta": -0.486,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 767138.84,
-      "liquidity": 6242.62
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 Spread: Los Angeles Dodgers (-4.5)",
-      "prev": 0.485,
-      "now": 0.0005,
-      "delta": -0.4845,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4610.56,
-      "liquidity": 20704.37
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 15.5",
-      "prev": 0.47,
-      "now": 0.004,
-      "delta": -0.466,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 155.89,
-      "liquidity": 6274.62
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 Spread: Los Angeles Dodgers (-5.5)",
-      "prev": 0.465,
-      "now": 0.004,
-      "delta": -0.461,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 247.5,
-      "liquidity": 2937.18
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies \u2014 Spread: Los Angeles Dodgers (-3.5)",
-      "prev": 0.435,
-      "now": 0.0005,
-      "delta": -0.4345,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 9793.43,
-      "liquidity": 11484.43
-    },
-    {
-      "market": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 2?",
+      "prev": 0.36,
+      "now": 0.535,
+      "delta": 0.175,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 278939.97,
-      "liquidity": 113.67
+      "volume24hr": 165146.81,
+      "liquidity": 4.93
+    },
+    {
+      "market": "Highest temperature in Hong Kong on August 19? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 19?",
+      "prev": 0.575,
+      "now": 0.74,
+      "delta": 0.165,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-19-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 11378.81,
+      "liquidity": 810.46
+    },
+    {
+      "market": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs \u2014 Map 3 Rounds Handicap: G2 (-3.5) vs Astralis (+3.5)",
+      "prev": 0.655,
+      "now": 0.495,
+      "delta": -0.16,
+      "url": "https://polymarket.com/event/cs2-g2-ast10-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 110755.67,
+      "liquidity": 3.85
+    },
+    {
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.335,
+      "now": 0.18,
+      "delta": -0.155,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 165146.81,
+      "liquidity": 316.22
+    },
+    {
+      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 First Blood in Game 1?",
+      "prev": 0.4,
+      "now": 0.525,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 125780.42,
+      "liquidity": 51.27
+    },
+    {
+      "market": "Highest temperature in Hong Kong on August 19? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 19?",
+      "prev": 0.305,
+      "now": 0.2,
+      "delta": -0.105,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-19-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 9953.27,
+      "liquidity": 1427.69
+    },
+    {
+      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 268902.22,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Both Teams Slay a Dragon?",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 268902.22,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Both Teams Destroy Inhibitors?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 268902.22,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Jordin Canada: Assists O/U 7.5",
+      "prev": 0.099,
+      "now": 0.0,
+      "delta": -0.099,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 620.11,
+      "liquidity": 0.0
     }
   ],
   "log": [
-    {
-      "ts": "20:30:01",
-      "text": " poll complete \u2014 1779 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:45:02",
       "text": " poll complete \u2014 1813 markets scanned, 10 flagged"
@@ -272,6 +272,10 @@
     {
       "ts": "03:45:01",
       "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:00:01",
+      "text": " poll complete \u2014 1804 markets scanned, 10 flagged"
     }
   ]
 }
