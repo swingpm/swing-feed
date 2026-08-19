@@ -1,11 +1,71 @@
 {
-  "lastUpdate": "2026-08-19 01:30:02 UTC",
+  "lastUpdate": "2026-08-19 01:45:02 UTC",
   "swings": [
     {
-      "market": "Seattle Mariners vs. Milwaukee Brewers: 1st 5 Innings O/U 3.5",
-      "prev": 0.305,
+      "market": "Atlanta Braves vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-1.5)",
+      "prev": 0.175,
+      "now": 0.905,
+      "delta": 0.73,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 2466.88,
+      "liquidity": 6400.54
+    },
+    {
+      "market": "CA Banfield vs. CA Ferrocarril Midland \u2014 Will CA Banfield win on 2026-08-18?",
+      "prev": 0.875,
+      "now": 0.17,
+      "delta": -0.705,
+      "url": "https://polymarket.com/event/argcopa-ban-afm-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Argentina"
+      ],
+      "volume24hr": 76917.2,
+      "liquidity": 95051.38
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-2.5)",
+      "prev": 0.11,
+      "now": 0.755,
+      "delta": 0.645,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 424.35,
+      "liquidity": 9411.68
+    },
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies: O/U 9.5",
+      "prev": 0.4165,
       "now": 0.9995,
-      "delta": 0.6945,
+      "delta": 0.583,
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1723.07,
+      "liquidity": 17493.19
+    },
+    {
+      "market": "Seattle Mariners vs. Milwaukee Brewers: O/U 9.5",
+      "prev": 0.35,
+      "now": 0.87,
+      "delta": 0.52,
       "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
       "tags": [
         "Sports",
@@ -13,89 +73,14 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 85.49,
-      "liquidity": 2239.48
+      "volume24hr": 4749.12,
+      "liquidity": 8015.02
     },
     {
-      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 Spread: Cleveland Guardians (-6.5)",
-      "prev": 0.43,
-      "now": 0.9995,
-      "delta": 0.5695,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 283.55,
-      "liquidity": 7401.94
-    },
-    {
-      "market": "Toronto Blue Jays vs. Tampa Bay Rays: O/U 15.5",
-      "prev": 0.52,
-      "now": 0.005,
-      "delta": -0.515,
-      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2331.48,
-      "liquidity": 3988.17
-    },
-    {
-      "market": "Seattle Mariners vs. Milwaukee Brewers: 1st 5 Innings O/U 4.5",
-      "prev": 0.485,
-      "now": 0.9995,
-      "delta": 0.5145,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 621.97,
-      "liquidity": 2283.33
-    },
-    {
-      "market": "Toronto Blue Jays vs. Tampa Bay Rays \u2014 Spread: Toronto Blue Jays (-4.5)",
+      "market": "Seattle Mariners vs. Milwaukee Brewers: O/U 8.5",
       "prev": 0.49,
-      "now": 0.995,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 15978.16,
-      "liquidity": 30085.18
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: 1st 5 Innings O/U 2.5",
-      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 2296.37
-    },
-    {
-      "market": "Seattle Mariners vs. Milwaukee Brewers: 1st 5 Innings O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "delta": 0.5095,
       "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
       "tags": [
         "Sports",
@@ -103,60 +88,69 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 15.0,
-      "liquidity": 2179.13
+      "volume24hr": 3659.47,
+      "liquidity": 17940.86
     },
     {
-      "market": "Seattle Mariners vs. Milwaukee Brewers: 1st 5 Innings O/U 5.5",
+      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 135.82,
+      "liquidity": 2014.18
+    },
+    {
+      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 13.38,
+      "liquidity": 2336.36
+    },
+    {
+      "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe \u2014 Tien vs. Tiafoe: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
+      "url": "https://polymarket.com/event/atp-tien-tiafoe-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 1646.96
+      "volume24hr": 356969.65,
+      "liquidity": 4318.66
     },
     {
-      "market": "New York Yankees vs. Baltimore Orioles \u2014 Spread: New York Yankees (-3.5)",
+      "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe \u2014 Tien vs. Tiafoe: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-18",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tien-tiafoe-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 4.09,
-      "liquidity": 1664.08
-    },
-    {
-      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 Spread: Cleveland Guardians (-7.5)",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4.09,
-      "liquidity": 1873.33
+      "volume24hr": 356969.65,
+      "liquidity": 4293.06
     }
   ],
   "log": [
-    {
-      "ts": "18:15:01",
-      "text": " poll complete \u2014 1802 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:30:01",
       "text": " poll complete \u2014 1749 markets scanned, 10 flagged"
@@ -272,6 +266,10 @@
     {
       "ts": "01:30:02",
       "text": " poll complete \u2014 2013 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:45:02",
+      "text": " poll complete \u2014 2028 markets scanned, 10 flagged"
     }
   ]
 }
