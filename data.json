@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-19 02:00:02 UTC",
+  "lastUpdate": "2026-08-19 02:15:01 UTC",
   "swings": [
     {
-      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Both Teams to Score",
-      "prev": 0.37,
+      "market": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 Spread: Estudiantes de La Plata (-2.5)",
+      "prev": 0.1705,
+      "now": 0.8045,
+      "delta": 0.634,
+      "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 11438.48,
+      "liquidity": 4003.53
+    },
+    {
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: O/U 3.5",
+      "prev": 0.435,
       "now": 0.9995,
-      "delta": 0.6295,
+      "delta": 0.5645,
       "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
       "tags": [
         "Sports",
@@ -13,149 +28,129 @@
         "Soccer",
         "Copa Sudamericana"
       ],
-      "volume24hr": 14996.42,
-      "liquidity": 86935.99
+      "volume24hr": 33058.78,
+      "liquidity": 138095.73
     },
     {
-      "market": "San Diego Padres vs. New York Mets \u2014 Spread: San Diego Padres (-2.5)",
-      "prev": 0.725,
-      "now": 0.195,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-18",
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 Spread: S\u00e3o Paulo FC (-1.5)",
+      "prev": 0.345,
+      "now": 0.87,
+      "delta": 0.525,
+      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 19711.35,
+      "liquidity": 59572.76
+    },
+    {
+      "market": "Seattle Mariners vs. Milwaukee Brewers: O/U 12.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1694.74,
-      "liquidity": 1408.35
+      "volume24hr": 371067.74,
+      "liquidity": 104.51
     },
     {
-      "market": "Cincinnati Open: Marie Bouzkova vs Iva Jovic \u2014 Set 1 Winner: Bouzkova vs Jovic",
-      "prev": 0.245,
-      "now": 0.755,
-      "delta": 0.51,
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 252553.9,
+      "liquidity": 2725.33
+    },
+    {
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 252553.9,
+      "liquidity": 2731.64
+    },
+    {
+      "market": "Will the game go to extra innings?: Arizona Diamondbacks vs. Boston Red Sox",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 794485.7,
+      "liquidity": 1445.18
+    },
+    {
+      "market": "Seattle Mariners vs. Milwaukee Brewers: O/U 11.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 371067.74,
+      "liquidity": 127.2
+    },
+    {
+      "market": "Cincinnati Open: Marie Bouzkova vs Iva Jovic \u2014 Bouzkova vs. Jovic: Set 1 Games O/U 8.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
       "url": "https://polymarket.com/event/wta-bouzkov-jovic-2026-08-18",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 456.98,
-      "liquidity": 478.05
+      "volume24hr": 14.0,
+      "liquidity": 6410.37
     },
     {
-      "market": "Los Angeles Angels vs. Houston Astros: 1st 5 Innings O/U 2.5",
-      "prev": 0.5,
+      "market": "Cincinnati Open: Marie Bouzkova vs Iva Jovic \u2014 Bouzkova vs. Jovic: Set 1 Games O/U 9.5",
+      "prev": 0.505,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wta-bouzkov-jovic-2026-08-18",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 15.0,
-      "liquidity": 1708.71
-    },
-    {
-      "market": "Will the game go to extra innings?: Miami Marlins vs. Philadelphia Phillies",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 170.18,
-      "liquidity": 1191.4
-    },
-    {
-      "market": "Miami Marlins vs. Philadelphia Phillies: O/U 13.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 2952.15
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 1st 5 Innings Spread: Chicago Cubs (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 58.39,
-      "liquidity": 1813.04
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 1st 5 Innings Spread: Chicago White Sox (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 26.58,
-      "liquidity": 1803.31
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 401.62,
-      "liquidity": 2064.29
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 25.0,
-      "liquidity": 2427.6
+      "volume24hr": 151727.66,
+      "liquidity": 6410.37
     }
   ],
   "log": [
-    {
-      "ts": "18:45:02",
-      "text": " poll complete \u2014 1810 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:00:01",
       "text": " poll complete \u2014 1799 markets scanned, 10 flagged"
@@ -271,6 +266,10 @@
     {
       "ts": "02:00:02",
       "text": " poll complete \u2014 2024 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:15:01",
+      "text": " poll complete \u2014 1984 markets scanned, 10 flagged"
     }
   ]
 }
