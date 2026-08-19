@@ -4435,7 +4435,7 @@
   },
   "3653451": {
     "question": "Atlanta Dream vs. Las Vegas Aces \u2014 A'ja Wilson: Assists O/U 2.5",
-    "price": 0.9005,
+    "price": 1.0,
     "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
     "tags": [
       "Sports",
@@ -4444,7 +4444,7 @@
       "Basketball"
     ],
     "volume24hr": 8.735848,
-    "liquidity": 743.26853
+    "liquidity": 0.0
   },
   "3653924": {
     "question": "Atlanta Dream vs. Las Vegas Aces \u2014 Angel Reese: Points O/U 15.5",
@@ -9245,7 +9245,7 @@
   },
   "3687506": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 LoL: Kits Esports vs 3v Team - Game 1 Winner",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -9254,7 +9254,7 @@
       "Sports"
     ],
     "volume24hr": 15775.117038,
-    "liquidity": 101914.92201
+    "liquidity": 0.0
   },
   "3687507": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 LoL: Kits Esports vs 3v Team - Game 2 Winner",
@@ -9336,7 +9336,7 @@
   },
   "3687514": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
-    "price": 0.095,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -9345,11 +9345,11 @@
       "Sports"
     ],
     "volume24hr": 285143.07059700007,
-    "liquidity": 117.72
+    "liquidity": 0.0
   },
   "3687515": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
-    "price": 0.9,
+    "price": 1.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -9358,11 +9358,11 @@
       "Sports"
     ],
     "volume24hr": 285143.07059700007,
-    "liquidity": 113.67
+    "liquidity": 0.0
   },
   "3687516": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
-    "price": 0.095,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -9371,7 +9371,7 @@
       "Sports"
     ],
     "volume24hr": 285143.07059700007,
-    "liquidity": 117.72
+    "liquidity": 0.0
   },
   "3687517": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 1: Any Player Quadra Kill?",
@@ -9401,7 +9401,7 @@
   },
   "3687519": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 1: Odd/Even Total Kills?",
-    "price": 0.905,
+    "price": 1.0,
     "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
     "tags": [
       "Esports",
@@ -9410,7 +9410,7 @@
       "Sports"
     ],
     "volume24hr": 285143.07059700007,
-    "liquidity": 117.72
+    "liquidity": 0.0
   },
   "3687521": {
     "question": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
@@ -10013,305 +10013,6 @@
     ],
     "volume24hr": 9492.863079,
     "liquidity": 84280.39135
-  },
-  "3649583": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy - Game 1 Winner",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 61803.171889000005,
-    "liquidity": 227.34
-  },
-  "3649584": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy - Game 2 Winner",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 54596.138166000004,
-    "liquidity": 227.34
-  },
-  "3649585": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 148640.1168869999,
-    "liquidity": 227.34
-  },
-  "3649586": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Games Total: O/U 2.5",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 454.772158,
-    "liquidity": 0.0
-  },
-  "3649587": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game Handicap: KBM (-1.5) vs Vivo Keyd Stars Academy (+1.5)",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 3348.019033,
-    "liquidity": 0.0
-  },
-  "3649588": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649589": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649590": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649591": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 1: Any Player Quadra Kill?",
-    "price": 0.1,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 113.67
-  },
-  "3649592": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 1: Any Player Penta Kill?",
-    "price": 0.1,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 113.67
-  },
-  "3649593": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 1: Odd/Even Total Kills?",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649594": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649595": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649596": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649597": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Any Player Quadra Kill?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649598": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Any Player Penta Kill?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649599": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Odd/Even Total Kills?",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 100.0,
-    "liquidity": 0.0
-  },
-  "3649600": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649601": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Both Teams Slay a Dragon?",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649602": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Both Teams Destroy Inhibitors?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649603": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Any Player Quadra Kill?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649604": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Any Player Penta Kill?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
-  },
-  "3649605": {
-    "question": "LoL: KaBuM! Ilha das Lendas vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 3: Odd/Even Total Kills?",
-    "price": 0.0,
-    "url": "https://polymarket.com/event/lol-kbm-vksa-2026-08-18",
-    "tags": [
-      "Esports",
-      "league of legends",
-      "Games",
-      "Sports"
-    ],
-    "volume24hr": 268942.2181329999,
-    "liquidity": 0.0
   },
   "3096407": {
     "question": "What will WTI Crude Oil (WTI) hit in August 2026? \u2014 Will WTI Crude Oil (WTI) hit (HIGH) $150 in August?",
@@ -17063,278 +16764,6 @@
     "volume24hr": 0.0,
     "liquidity": 0.0
   },
-  "3688159": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin reach $72,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 1541.958412,
-    "liquidity": 53970.59434
-  },
-  "3688175": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin reach $71,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 89.97,
-    "liquidity": 48527.8764
-  },
-  "3688182": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin reach $70,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 20.0,
-    "liquidity": 48002.47501
-  },
-  "3688189": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin reach $69,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 276.713332,
-    "liquidity": 47078.36416
-  },
-  "3688199": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin reach $68,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 968.698328,
-    "liquidity": 36881.49804
-  },
-  "3688209": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin reach $67,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 15231.192321,
-    "liquidity": 39570.56464
-  },
-  "3688219": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin reach $66,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 50240.627023999994,
-    "liquidity": 16625.4052
-  },
-  "3688230": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin reach $65,000 on August 18?",
-    "price": 1.0,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 30089.562879,
-    "liquidity": 619543.00666
-  },
-  "3688238": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin dip to $64,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 23085.463840000008,
-    "liquidity": 43672.06665
-  },
-  "3688246": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin dip to $63,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 18824.690347,
-    "liquidity": 43581.78362
-  },
-  "3688252": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin dip to $62,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 8261.509540000001,
-    "liquidity": 39722.32398
-  },
-  "3688254": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin dip to $61,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 64.982,
-    "liquidity": 36860.45
-  },
-  "3688256": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin dip to $60,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 41119.08925
-  },
-  "3688258": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin dip to $59,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 37898.58635
-  },
-  "3688260": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin dip to $58,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 14.994,
-    "liquidity": 38576.90801
-  },
-  "3688263": {
-    "question": "What price will Bitcoin hit on August 18? \u2014 Will Bitcoin dip to $57,000 on August 18?",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-18-2026",
-    "tags": [
-      "Crypto",
-      "Crypto Prices",
-      "Recurring",
-      "Hide From New",
-      "Bitcoin",
-      "Daily",
-      "Today \ud83d\ude80",
-      "Hit Price"
-    ],
-    "volume24hr": 14.994,
-    "liquidity": 47455.02101
-  },
   "3624118": {
     "question": "Highest temperature in Hong Kong on August 18? \u2014 Will the highest temperature in Hong Kong be 26\u00b0C or below on August 18?",
     "price": 0.0,
@@ -19829,435 +19258,6 @@
     ],
     "volume24hr": 112290.91388200001,
     "liquidity": 56.72
-  },
-  "3379486": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 Spread: CD Universidad Cat\u00f3lica (-1.5)",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 3555.4885839999997,
-    "liquidity": 58177.067
-  },
-  "3379487": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 Spread: Estudiantes de La Plata (-1.5)",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 12804.445742,
-    "liquidity": 56797.91018
-  },
-  "3379488": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 Spread: CD Universidad Cat\u00f3lica (-2.5)",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 186.8,
-    "liquidity": 27260.33098
-  },
-  "3379489": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 Spread: Estudiantes de La Plata (-2.5)",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 11873.134111999998,
-    "liquidity": 56369.51209
-  },
-  "3379490": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 6633.784293000001,
-    "liquidity": 75425.13044
-  },
-  "3379491": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: O/U 1.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 16208.884632000001,
-    "liquidity": 86720.05224
-  },
-  "3379492": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: O/U 2.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 30398.323931000017,
-    "liquidity": 115489.3688
-  },
-  "3379493": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: O/U 3.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 11747.315753,
-    "liquidity": 124614.05378
-  },
-  "3379494": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: O/U 4.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 1182.0244989999999,
-    "liquidity": 36695.50002
-  },
-  "3379495": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: O/U 5.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 466.8,
-    "liquidity": 27407.88098
-  },
-  "3379496": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Both Teams to Score",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 6570.432551,
-    "liquidity": 49103.89929
-  },
-  "3379497": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Both Teams to Score in First Half",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 724.516665,
-    "liquidity": 12787.751
-  },
-  "3379498": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: 1st Half O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 3652.688337,
-    "liquidity": 45509.9204
-  },
-  "3379499": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: 1st Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 4043.337677,
-    "liquidity": 25915.39731
-  },
-  "3379500": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: 1st Half O/U 2.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 27.5,
-    "liquidity": 12786.0972
-  },
-  "3379501": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: CD Universidad Cat\u00f3lica O/U 0.5",
-    "price": 0.0025,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 30.740000000000002,
-    "liquidity": 12589.6502
-  },
-  "3379502": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: CD Universidad Cat\u00f3lica O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 153.493332,
-    "liquidity": 12735.3037
-  },
-  "3379503": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: CD Universidad Cat\u00f3lica O/U 2.5",
-    "price": 0.0025,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 5.0,
-    "liquidity": 12587.77276
-  },
-  "3379504": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Estudiantes de La Plata O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 22.684,
-    "liquidity": 12612.82616
-  },
-  "3379505": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Estudiantes de La Plata O/U 1.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 366.811646,
-    "liquidity": 12953.68467
-  },
-  "3379506": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Estudiantes de La Plata O/U 2.5",
-    "price": 0.9975,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 5.0,
-    "liquidity": 12617.71084
-  },
-  "3379507": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: CD Universidad Cat\u00f3lica 1st Half O/U 0.5",
-    "price": 0.0025,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 1135.321
-  },
-  "3379508": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: CD Universidad Cat\u00f3lica 1st Half O/U 1.5",
-    "price": 0.0025,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 1135.411
-  },
-  "3379509": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Estudiantes de La Plata 1st Half O/U 0.5",
-    "price": 0.9975,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 26.0,
-    "liquidity": 1676.433
-  },
-  "3379510": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Estudiantes de La Plata 1st Half O/U 1.5",
-    "price": 0.0005,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 30.0,
-    "liquidity": 1150.466
-  },
-  "3379511": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Both Teams to Score in Second Half",
-    "price": 0.0025,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 110780.19575400001,
-    "liquidity": 3881.591
-  },
-  "3379512": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: 2nd Half O/U 0.5",
-    "price": 0.9995,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 19.99,
-    "liquidity": 4443.796
-  },
-  "3379513": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: 2nd Half O/U 1.5",
-    "price": 0.9975,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 110780.19575400001,
-    "liquidity": 3881.591
-  },
-  "3379514": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: 2nd Half O/U 2.5",
-    "price": 0.0025,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 110780.19575400001,
-    "liquidity": 3881.681
-  },
-  "3379515": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: CD Universidad Cat\u00f3lica 2nd Half O/U 0.5",
-    "price": 0.0025,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 110780.19575400001,
-    "liquidity": 3881.591
-  },
-  "3379518": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: CD Universidad Cat\u00f3lica 2nd Half O/U 1.5",
-    "price": 0.0025,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 110780.19575400001,
-    "liquidity": 3881.591
-  },
-  "3379519": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Estudiantes de La Plata 2nd Half O/U 0.5",
-    "price": 0.9975,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 15.0,
-    "liquidity": 4438.922
-  },
-  "3379520": {
-    "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata - More Markets \u2014 CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata: Estudiantes de La Plata 2nd Half O/U 1.5",
-    "price": 0.9975,
-    "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18-more-markets",
-    "tags": [
-      "Sports",
-      "Games",
-      "Soccer",
-      "Copa Libertadores"
-    ],
-    "volume24hr": 110780.19575400001,
-    "liquidity": 3887.806
   },
   "3531243": {
     "question": "CA Banfield vs. CA Ferrocarril Midland \u2014 Will CA Banfield win on 2026-08-18?",
@@ -24793,7 +23793,7 @@
   },
   "3359941": {
     "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata \u2014 Will CD Universidad Cat\u00f3lica win on 2026-08-18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18",
     "tags": [
       "Sports",
@@ -24802,11 +23802,11 @@
       "Copa Libertadores"
     ],
     "volume24hr": 27717.607761000014,
-    "liquidity": 150932.8603
+    "liquidity": 0.0
   },
   "3359943": {
     "question": "Will CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata end in a draw?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/lib-cat1-est-2026-08-18",
     "tags": [
       "Sports",
@@ -24815,7 +23815,7 @@
       "Copa Libertadores"
     ],
     "volume24hr": 14550.728510000004,
-    "liquidity": 122172.27868
+    "liquidity": 0.0
   },
   "3359944": {
     "question": "CD Universidad Cat\u00f3lica vs. Estudiantes de La Plata \u2014 Will Estudiantes de La Plata win on 2026-08-18?",
@@ -26669,5 +25669,851 @@
     ],
     "volume24hr": 60438.252658,
     "liquidity": 64.5414
+  },
+  "3376513": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Spread: Club Atl\u00e9tico de Madrid (-1.5)",
+    "price": 0.485,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 938.9856279999999,
+    "liquidity": 158548.9569
+  },
+  "3376514": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Spread: M\u00e1laga CF (-1.5)",
+    "price": 0.0215,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 2683.172822,
+    "liquidity": 114833.80579
+  },
+  "3376515": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Spread: Club Atl\u00e9tico de Madrid (-2.5)",
+    "price": 0.265,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 79.55856999999999,
+    "liquidity": 139789.1445
+  },
+  "3376516": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Spread: M\u00e1laga CF (-2.5)",
+    "price": 0.0055,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 7.507,
+    "liquidity": 88035.52269
+  },
+  "3376517": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 0.5",
+    "price": 0.935,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 1481.88765,
+    "liquidity": 61039.2671
+  },
+  "3376518": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 1.5",
+    "price": 0.775,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 2405.692404999999,
+    "liquidity": 142153.6297
+  },
+  "3376519": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 2.5",
+    "price": 0.545,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 37842.38689,
+    "liquidity": 214105.3963
+  },
+  "3376520": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 3.5",
+    "price": 0.315,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 136.155773,
+    "liquidity": 166617.9198
+  },
+  "3376522": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 4.5",
+    "price": 0.155,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 600.772346,
+    "liquidity": 127935.201
+  },
+  "3376523": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 5.5",
+    "price": 0.065,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 10.03,
+    "liquidity": 57639.653
+  },
+  "3376524": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Both Teams to Score",
+    "price": 0.435,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 6933.844816,
+    "liquidity": 144829.7432
+  },
+  "3376525": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Both Teams to Score in First Half",
+    "price": 0.15,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 1063.942545,
+    "liquidity": 37569.2078
+  },
+  "3376526": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: 1st Half O/U 0.5",
+    "price": 0.715,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 6.944442,
+    "liquidity": 42829.8262
+  },
+  "3376527": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: 1st Half O/U 1.5",
+    "price": 0.355,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 454.36406300000004,
+    "liquidity": 79879.5129
+  },
+  "3376528": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: 1st Half O/U 2.5",
+    "price": 0.125,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 19.86,
+    "liquidity": 21110.9529
+  },
+  "3376530": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Club Atl\u00e9tico de Madrid O/U 0.5",
+    "price": 0.895,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 10.520261999999999,
+    "liquidity": 69374.7711
+  },
+  "3376531": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Club Atl\u00e9tico de Madrid O/U 1.5",
+    "price": 0.645,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 70.572533,
+    "liquidity": 91293.0197
+  },
+  "3376532": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Club Atl\u00e9tico de Madrid O/U 2.5",
+    "price": 0.375,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 27.71,
+    "liquidity": 96192.3867
+  },
+  "3376533": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF O/U 0.5",
+    "price": 0.485,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 2239.782999,
+    "liquidity": 90453.2271
+  },
+  "3376534": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF O/U 1.5",
+    "price": 0.145,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 10.47,
+    "liquidity": 47099.8666
+  },
+  "3376535": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF O/U 2.5",
+    "price": 0.035,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 1102.053398,
+    "liquidity": 53810.53604
+  },
+  "3376536": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Club Atl\u00e9tico de Madrid 1st Half O/U 0.5",
+    "price": 0.625,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 59436.725824999994,
+    "liquidity": 24677.5614
+  },
+  "3376537": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Club Atl\u00e9tico de Madrid 1st Half O/U 1.5",
+    "price": 0.255,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 92.534813,
+    "liquidity": 6129.5992
+  },
+  "3376539": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF 1st Half O/U 0.5",
+    "price": 0.235,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 1161.97687,
+    "liquidity": 13572.6997
+  },
+  "3376540": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF 1st Half O/U 1.5",
+    "price": 0.031,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 59436.725824999994,
+    "liquidity": 2514.14708
+  },
+  "3376541": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Both Teams to Score in Second Half",
+    "price": 0.23,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 59436.725824999994,
+    "liquidity": 6871.2758
+  },
+  "3376542": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: 2nd Half O/U 0.5",
+    "price": 0.79,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 59436.725824999994,
+    "liquidity": 3340.3615
+  },
+  "3376543": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: 2nd Half O/U 1.5",
+    "price": 0.48,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 56.0,
+    "liquidity": 3591.9592
+  },
+  "3376544": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: 2nd Half O/U 2.5",
+    "price": 0.23,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 59436.725824999994,
+    "liquidity": 5787.5335
+  },
+  "3376546": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Club Atl\u00e9tico de Madrid 2nd Half O/U 0.5",
+    "price": 0.715,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 59436.725824999994,
+    "liquidity": 1939.4078
+  },
+  "3376547": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Club Atl\u00e9tico de Madrid 2nd Half O/U 1.5",
+    "price": 0.355,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 59436.725824999994,
+    "liquidity": 2097.2206
+  },
+  "3376548": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF 2nd Half O/U 0.5",
+    "price": 0.305,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 59436.725824999994,
+    "liquidity": 2799.5417
+  },
+  "3376549": {
+    "question": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF 2nd Half O/U 1.5",
+    "price": 0.195,
+    "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+    "tags": [
+      "Sports",
+      "Games",
+      "Soccer",
+      "La Liga"
+    ],
+    "volume24hr": 59436.725824999994,
+    "liquidity": 588.4194
+  },
+  "3655321": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 25\u00b0C or below on August 19?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 57505.398874000006,
+    "liquidity": 42156.73416
+  },
+  "3655322": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 26\u00b0C on August 19?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 57505.398874000006,
+    "liquidity": 41913.95859
+  },
+  "3655323": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 27\u00b0C on August 19?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 57505.398874000006,
+    "liquidity": 45355.07621
+  },
+  "3655324": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 28\u00b0C on August 19?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 1965.950146,
+    "liquidity": 47311.46657
+  },
+  "3655325": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 29\u00b0C on August 19?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 4204.066729,
+    "liquidity": 46422.19419
+  },
+  "3655326": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 30\u00b0C on August 19?",
+    "price": 0.0005,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 18183.273934,
+    "liquidity": 40126.2602
+  },
+  "3655327": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 31\u00b0C on August 19?",
+    "price": 0.31,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 8737.378248000003,
+    "liquidity": 461.8703
+  },
+  "3655328": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 32\u00b0C on August 19?",
+    "price": 0.635,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 8676.96639,
+    "liquidity": 342.6418
+  },
+  "3655329": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 33\u00b0C on August 19?",
+    "price": 0.085,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 8798.118884000003,
+    "liquidity": 453.1304
+  },
+  "3655330": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 34\u00b0C on August 19?",
+    "price": 0.005,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 5540.119543000001,
+    "liquidity": 2701.013
+  },
+  "3655331": {
+    "question": "Highest temperature in Shanghai on August 19? \u2014 Will the highest temperature in Shanghai be 35\u00b0C or higher on August 19?",
+    "price": 0.0015,
+    "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-19-2026",
+    "tags": [
+      "Weather",
+      "Recurring",
+      "Hide From New",
+      "Daily Temperature",
+      "Shanghai",
+      "Highest temperature"
+    ],
+    "volume24hr": 1399.5249999999999,
+    "liquidity": 1853.8797
+  },
+  "3649084": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (HIGH) $192 Week of August 17 2026?",
+    "price": 0.048,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 308.87,
+    "liquidity": 4813.35976
+  },
+  "3649085": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (HIGH) $189 Week of August 17 2026?",
+    "price": 0.065,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 57011.584471,
+    "liquidity": 469.6059
+  },
+  "3649086": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (HIGH) $186 Week of August 17 2026?",
+    "price": 0.05,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 59.31,
+    "liquidity": 467.0865
+  },
+  "3649087": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (HIGH) $183 Week of August 17 2026?",
+    "price": 0.1,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 192.165453,
+    "liquidity": 482.906
+  },
+  "3649088": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (HIGH) $180 Week of August 17 2026?",
+    "price": 0.22,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 1432.419937,
+    "liquidity": 579.5501
+  },
+  "3649089": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (HIGH) $177 Week of August 17 2026?",
+    "price": 0.415,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 457.592092,
+    "liquidity": 400.2638
+  },
+  "3649090": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (HIGH) $174 Week of August 17 2026?",
+    "price": 1.0,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 57011.584471,
+    "liquidity": 14942.26255
+  },
+  "3649091": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (LOW) $171 Week of August 17 2026?",
+    "price": 1.0,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 51359.0,
+    "liquidity": 14942.26255
+  },
+  "3649092": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (LOW) $168 Week of August 17 2026?",
+    "price": 0.61,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 2308.193418,
+    "liquidity": 401.1896
+  },
+  "3649093": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (LOW) $165 Week of August 17 2026?",
+    "price": 0.39,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 644.193413,
+    "liquidity": 553.5869
+  },
+  "3649094": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (LOW) $162 Week of August 17 2026?",
+    "price": 0.235,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 85.0,
+    "liquidity": 515.2499
+  },
+  "3649095": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (LOW) $159 Week of August 17 2026?",
+    "price": 0.165,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 108.670158,
+    "liquidity": 5425.8446
+  },
+  "3649096": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (LOW) $156 Week of August 17 2026?",
+    "price": 0.085,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 30.0,
+    "liquidity": 408.37
+  },
+  "3649097": {
+    "question": "What will Palantir Technologies Inc. (PLTR) hit Week of August 17 2026? \u2014 Will Palantir Technologies Inc. (PLTR) hit (LOW) $153 Week of August 17 2026?",
+    "price": 0.025,
+    "url": "https://polymarket.com/event/will-pltr-hit-week-of-august-17-2026",
+    "tags": [
+      "Finance",
+      "Weekly",
+      "Hit Price",
+      "Hide From New",
+      "Finance Updown",
+      "Pyth Finance",
+      "Stocks",
+      "Equities",
+      "PLTR"
+    ],
+    "volume24hr": 26.17,
+    "liquidity": 423.26949
   }
 }
