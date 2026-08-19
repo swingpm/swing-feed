@@ -1,56 +1,70 @@
 {
-  "lastUpdate": "2026-08-19 01:45:02 UTC",
+  "lastUpdate": "2026-08-19 02:00:02 UTC",
   "swings": [
     {
-      "market": "Atlanta Braves vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-1.5)",
-      "prev": 0.175,
-      "now": 0.905,
-      "delta": 0.73,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2466.88,
-      "liquidity": 6400.54
-    },
-    {
-      "market": "CA Banfield vs. CA Ferrocarril Midland \u2014 Will CA Banfield win on 2026-08-18?",
-      "prev": 0.875,
-      "now": 0.17,
-      "delta": -0.705,
-      "url": "https://polymarket.com/event/argcopa-ban-afm-2026-08-18",
+      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Both Teams to Score",
+      "prev": 0.37,
+      "now": 0.9995,
+      "delta": 0.6295,
+      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Argentina"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 76917.2,
-      "liquidity": 95051.38
+      "volume24hr": 14996.42,
+      "liquidity": 86935.99
     },
     {
-      "market": "Atlanta Braves vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-2.5)",
-      "prev": 0.11,
-      "now": 0.755,
-      "delta": 0.645,
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-18",
+      "market": "San Diego Padres vs. New York Mets \u2014 Spread: San Diego Padres (-2.5)",
+      "prev": 0.725,
+      "now": 0.195,
+      "delta": -0.53,
+      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 424.35,
-      "liquidity": 9411.68
+      "volume24hr": 1694.74,
+      "liquidity": 1408.35
     },
     {
-      "market": "Miami Marlins vs. Philadelphia Phillies: O/U 9.5",
-      "prev": 0.4165,
+      "market": "Cincinnati Open: Marie Bouzkova vs Iva Jovic \u2014 Set 1 Winner: Bouzkova vs Jovic",
+      "prev": 0.245,
+      "now": 0.755,
+      "delta": 0.51,
+      "url": "https://polymarket.com/event/wta-bouzkov-jovic-2026-08-18",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 456.98,
+      "liquidity": 478.05
+    },
+    {
+      "market": "Los Angeles Angels vs. Houston Astros: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.583,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 15.0,
+      "liquidity": 1708.71
+    },
+    {
+      "market": "Will the game go to extra innings?: Miami Marlins vs. Philadelphia Phillies",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
       "tags": [
         "Sports",
@@ -58,103 +72,86 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1723.07,
-      "liquidity": 17493.19
+      "volume24hr": 170.18,
+      "liquidity": 1191.4
     },
     {
-      "market": "Seattle Mariners vs. Milwaukee Brewers: O/U 9.5",
-      "prev": 0.35,
-      "now": 0.87,
-      "delta": 0.52,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4749.12,
-      "liquidity": 8015.02
-    },
-    {
-      "market": "Seattle Mariners vs. Milwaukee Brewers: O/U 8.5",
-      "prev": 0.49,
-      "now": 0.9995,
-      "delta": 0.5095,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 3659.47,
-      "liquidity": 17940.86
-    },
-    {
-      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 5.5",
+      "market": "Miami Marlins vs. Philadelphia Phillies: O/U 13.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-18",
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 135.82,
-      "liquidity": 2014.18
+      "volume24hr": 10.0,
+      "liquidity": 2952.15
     },
     {
-      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 6.5",
+      "market": "Chicago White Sox vs. Chicago Cubs \u2014 1st 5 Innings Spread: Chicago Cubs (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-18",
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 13.38,
-      "liquidity": 2336.36
+      "volume24hr": 58.39,
+      "liquidity": 1813.04
     },
     {
-      "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe \u2014 Tien vs. Tiafoe: Set 2 Games O/U 8.5",
+      "market": "Chicago White Sox vs. Chicago Cubs \u2014 1st 5 Innings Spread: Chicago White Sox (-1.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tien-tiafoe-2026-08-18",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 356969.65,
-      "liquidity": 4318.66
+      "volume24hr": 26.58,
+      "liquidity": 1803.31
     },
     {
-      "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe \u2014 Tien vs. Tiafoe: Set 2 Games O/U 9.5",
+      "market": "Chicago White Sox vs. Chicago Cubs: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tien-tiafoe-2026-08-18",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 356969.65,
-      "liquidity": 4293.06
+      "volume24hr": 401.62,
+      "liquidity": 2064.29
+    },
+    {
+      "market": "Chicago White Sox vs. Chicago Cubs: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 25.0,
+      "liquidity": 2427.6
     }
   ],
   "log": [
-    {
-      "ts": "18:30:01",
-      "text": " poll complete \u2014 1749 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:45:02",
       "text": " poll complete \u2014 1810 markets scanned, 10 flagged"
@@ -270,6 +267,10 @@
     {
       "ts": "01:45:02",
       "text": " poll complete \u2014 2028 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:00:02",
+      "text": " poll complete \u2014 2024 markets scanned, 10 flagged"
     }
   ]
 }
