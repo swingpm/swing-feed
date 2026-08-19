@@ -1,96 +1,7 @@
 {
-  "lastUpdate": "2026-08-19 10:00:01 UTC",
-  "swings": [
-    {
-      "market": "ITF W35 Bistrita Women: Ilinca Amariei vs Weronika Ewald \u2014 Ilinca Amariei vs. Weronika Ewald: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 1.0,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/itf-amarie-ewald-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 325.55,
-      "liquidity": 0.0
-    },
-    {
-      "market": "ITF W35 Bistrita Women: Ilinca Amariei vs Weronika Ewald \u2014 Set Handicap: Ewald (-1.5) vs Amariei (+1.5)",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/itf-amarie-ewald-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 59184.83,
-      "liquidity": 0.0
-    },
-    {
-      "market": "ITF W35 Bistrita Women: Ilinca Amariei vs Weronika Ewald \u2014 Amariei vs. Ewald: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 1.0,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/itf-amarie-ewald-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 59184.83,
-      "liquidity": 0.0
-    },
-    {
-      "market": "ITF W35 Bistrita Women: Ilinca Amariei vs Weronika Ewald \u2014 Amariei vs. Ewald: Match O/U 21.5",
-      "prev": 0.505,
-      "now": 1.0,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/itf-amarie-ewald-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 59184.83,
-      "liquidity": 0.0
-    },
-    {
-      "market": "ITF W35 Bistrita Women: Ilinca Amariei vs Weronika Ewald \u2014 Amariei vs. Ewald: Match O/U 22.5",
-      "prev": 0.505,
-      "now": 1.0,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/itf-amarie-ewald-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 59184.83,
-      "liquidity": 0.0
-    },
-    {
-      "market": "ITF W35 Bistrita Women: Ilinca Amariei vs Weronika Ewald \u2014 Set Handicap: Amariei (-1.5) vs Ewald (+1.5)",
-      "prev": 0.245,
-      "now": 0.0,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/itf-amarie-ewald-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 59184.83,
-      "liquidity": 0.0
-    }
-  ],
+  "lastUpdate": "2026-08-19 10:15:02 UTC",
+  "swings": [],
   "log": [
-    {
-      "ts": "02:45:01",
-      "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:00:01",
       "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
@@ -206,6 +117,10 @@
     {
       "ts": "10:00:01",
       "text": " poll complete \u2014 1881 markets scanned, 6 flagged"
+    },
+    {
+      "ts": "10:15:02",
+      "text": " poll complete \u2014 1881 markets scanned, 0 flagged"
     }
   ]
 }
