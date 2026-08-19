@@ -1,44 +1,104 @@
 {
-  "lastUpdate": "2026-08-19 15:15:01 UTC",
+  "lastUpdate": "2026-08-19 15:30:02 UTC",
   "swings": [
     {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 LoL: Team WE vs EDward Gaming - Game 2 Winner",
-      "prev": 0.675,
-      "now": 0.0005,
-      "delta": -0.6745,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $69,000 on August 19?",
+      "prev": 0.0115,
+      "now": 0.9995,
+      "delta": 0.988,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
       ],
-      "volume24hr": 766441.47,
-      "liquidity": 1160300.75
+      "volume24hr": 3790.28,
+      "liquidity": 46572.36
     },
     {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Games Total: O/U 2.5",
-      "prev": 0.675,
+      "market": "Highest temperature in Munich on August 19? \u2014 Will the highest temperature in Munich be 30\u00b0C on August 19?",
+      "prev": 0.92,
       "now": 0.0005,
-      "delta": -0.6745,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "delta": -0.9195,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-19-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
       ],
-      "volume24hr": 103223.5,
-      "liquidity": 204998.78
+      "volume24hr": 8514.52,
+      "liquidity": 36720.58
     },
     {
-      "market": "Ethereum above ___ on August 19? \u2014 Will the price of Ethereum be above $2,000 on August 19?",
-      "prev": 0.0375,
-      "now": 0.6655,
-      "delta": 0.628,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-19-2026",
+      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $68,000 on August 19?",
+      "prev": 0.088,
+      "now": 0.9995,
+      "delta": 0.9115,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
       "tags": [
-        "Ethereum",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 11914.14,
+      "liquidity": 76645.49
+    },
+    {
+      "market": "Highest temperature in Munich on August 19? \u2014 Will the highest temperature in Munich be 31\u00b0C on August 19?",
+      "prev": 0.0685,
+      "now": 0.897,
+      "delta": 0.8285,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-19-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 10453.98,
+      "liquidity": 445.69
+    },
+    {
+      "market": "Bitcoin price on August 19? \u2014 Will the price of Bitcoin be between $66,000 and $68,000 on August 19?",
+      "prev": 0.8785,
+      "now": 0.114,
+      "delta": -0.7645,
+      "url": "https://polymarket.com/event/bitcoin-price-on-august-19-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Neg Risk",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 58504.78,
+      "liquidity": 5130.13
+    },
+    {
+      "market": "Bitcoin above ___ on August 20? \u2014 Will the price of Bitcoin be above $68,000 on August 20?",
+      "prev": 0.0995,
+      "now": 0.7715,
+      "delta": 0.672,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-20-2026",
+      "tags": [
+        "Bitcoin",
         "Weekly",
         "Multi Strikes",
         "Crypto",
@@ -46,119 +106,84 @@
         "Recurring",
         "Hide From New"
       ],
-      "volume24hr": 77677.49,
-      "liquidity": 13339.26
+      "volume24hr": 72979.04,
+      "liquidity": 4371.67
     },
     {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game Handicap: EDG (-1.5) vs Team WE (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "market": "Bitcoin above ___ on August 19? \u2014 Will the price of Bitcoin be above $68,000 on August 19?",
+      "prev": 0.0115,
+      "now": 0.681,
+      "delta": 0.6695,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-19-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 1009.99,
-      "liquidity": 21847.52
+      "volume24hr": 364822.03,
+      "liquidity": 5527.54
     },
     {
-      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FUT Esports (-3.5) vs magic (+3.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
+      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $70,000 on August 19?",
+      "prev": 0.0065,
+      "now": 0.646,
+      "delta": 0.6395,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
       ],
-      "volume24hr": 85.62,
-      "liquidity": 1314.23
+      "volume24hr": 5210.45,
+      "liquidity": 764.74
     },
     {
-      "market": "Sion: Mika Brunold vs Calvin Hemery \u2014 Sion: Completed Match: Mika Brunold vs Calvin Hemery",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-brunold-hemery-2026-08-19",
+      "market": "What price will Bitcoin hit August 17-23? \u2014 Will Bitcoin reach $68,000 August 17-23?",
+      "prev": 0.3655,
+      "now": 0.9985,
+      "delta": 0.633,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-august-17-23-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Weekly",
+        "Hit Price"
       ],
-      "volume24hr": 147727.83,
-      "liquidity": 771.04
+      "volume24hr": 35139.35,
+      "liquidity": 22858.91
     },
     {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "market": "What price will Bitcoin hit August 17-23? \u2014 Will Bitcoin reach $70,000 August 17-23?",
+      "prev": 0.0875,
+      "now": 0.6985,
+      "delta": 0.611,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-august-17-23-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Weekly",
+        "Hit Price"
       ],
-      "volume24hr": 2527964.98,
-      "liquidity": 849.0
-    },
-    {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 36.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2527964.98,
-      "liquidity": 947.55
-    },
-    {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 350.0,
-      "liquidity": 867.5
-    },
-    {
-      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 39.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2527964.98,
-      "liquidity": 867.5
+      "volume24hr": 27700.88,
+      "liquidity": 1225.41
     }
   ],
   "log": [
-    {
-      "ts": "08:00:01",
-      "text": " poll complete \u2014 1860 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:15:02",
       "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
@@ -274,6 +299,10 @@
     {
       "ts": "15:15:01",
       "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:30:02",
+      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
     }
   ]
 }
