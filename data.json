@@ -1,198 +1,158 @@
 {
-  "lastUpdate": "2026-08-19 07:00:01 UTC",
+  "lastUpdate": "2026-08-19 07:15:02 UTC",
   "swings": [
     {
-      "market": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 4: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
+      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.085,
+      "now": 0.515,
+      "delta": 0.43,
+      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 285368.46,
-      "liquidity": 0.0
+      "volume24hr": 250485.02,
+      "liquidity": 1.3
     },
     {
-      "market": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 4: Both Teams Destroy Inhibitors?",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Any Player Penta Kill?",
       "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
+      "now": 0.08,
+      "delta": -0.42,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 285368.46,
-      "liquidity": 0.0
+      "volume24hr": 273474.03,
+      "liquidity": 14.85
     },
     {
-      "market": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs \u2014 Game 4: Odd/Even Total Kills?",
+      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lol-kits-3v-2026-08-18",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 285368.46,
-      "liquidity": 0.0
+      "volume24hr": 191296.06,
+      "liquidity": 113.67
     },
     {
-      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate A be the WY-AL Republican nominee?",
+      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay a Dragon?",
       "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
-      "tags": [
-        "Politics",
-        "Elections",
-        "Primaries",
-        "deprec USA Election",
-        "House Primary",
-        "Wyoming Primary",
-        "primary elections",
-        "Republican Primary",
-        "August 18 Primaries",
-        "US Election"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate B be the WY-AL Republican nominee?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
-      "tags": [
-        "Politics",
-        "Elections",
-        "Primaries",
-        "deprec USA Election",
-        "House Primary",
-        "Wyoming Primary",
-        "primary elections",
-        "Republican Primary",
-        "August 18 Primaries",
-        "US Election"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate C be the WY-AL Republican nominee?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
-      "tags": [
-        "Politics",
-        "Elections",
-        "Primaries",
-        "deprec USA Election",
-        "House Primary",
-        "Wyoming Primary",
-        "primary elections",
-        "Republican Primary",
-        "August 18 Primaries",
-        "US Election"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate D be the WY-AL Republican nominee?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
-      "tags": [
-        "Politics",
-        "Elections",
-        "Primaries",
-        "deprec USA Election",
-        "House Primary",
-        "Wyoming Primary",
-        "primary elections",
-        "Republican Primary",
-        "August 18 Primaries",
-        "US Election"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "WY-AL Republican Primary Winner \u2014 Will Candidate E be the WY-AL Republican nominee?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
-      "tags": [
-        "Politics",
-        "Elections",
-        "Primaries",
-        "deprec USA Election",
-        "House Primary",
-        "Wyoming Primary",
-        "primary elections",
-        "Republican Primary",
-        "August 18 Primaries",
-        "US Election"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "WY-AL Republican Primary Winner \u2014 Will another candidate be the WY-AL Republican nominee?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/wy-al-republican-primary-winner-20260723165335296",
-      "tags": [
-        "Politics",
-        "Elections",
-        "Primaries",
-        "deprec USA Election",
-        "House Primary",
-        "Wyoming Primary",
-        "primary elections",
-        "Republican Primary",
-        "August 18 Primaries",
-        "US Election"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prev": 0.385,
-      "now": 0.71,
-      "delta": 0.325,
-      "url": "https://polymarket.com/event/lol-ktc-t1a-2026-08-19",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 133354.45,
-      "liquidity": 129952.23
+      "volume24hr": 191296.06,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 191296.06,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 191296.06,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 191296.06,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 191296.06,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.4,
+      "now": 0.1,
+      "delta": -0.3,
+      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 191296.06,
+      "liquidity": 138.67
+    },
+    {
+      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.4,
+      "now": 0.1,
+      "delta": -0.3,
+      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 191296.06,
+      "liquidity": 138.67
     }
   ],
   "log": [
-    {
-      "ts": "23:45:01",
-      "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:00:01",
       "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
@@ -308,6 +268,10 @@
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:15:02",
+      "text": " poll complete \u2014 1834 markets scanned, 10 flagged"
     }
   ]
 }
