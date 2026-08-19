@@ -1,161 +1,158 @@
 {
-  "lastUpdate": "2026-08-19 02:45:01 UTC",
+  "lastUpdate": "2026-08-19 03:00:01 UTC",
   "swings": [
     {
-      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar O/U 2.5",
-      "prev": 0.5005,
-      "now": 0.0005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 1066.09,
-      "liquidity": 28305.91
-    },
-    {
-      "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe \u2014 Cincinnati Open: Completed Match: Learner Tien vs Frances Tiafoe",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tien-tiafoe-2026-08-18",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 502.0,
-      "liquidity": 2014.38
-    },
-    {
-      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-9.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-18",
+      "market": "Los Angeles Angels vs. Houston Astros: O/U 7.5",
+      "prev": 0.51,
+      "now": 0.005,
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 2.02,
-      "liquidity": 7498.53
+      "volume24hr": 250.69,
+      "liquidity": 2436.92
     },
     {
-      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar O/U 1.5",
+      "market": "Washington Nationals vs. Texas Rangers: O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-18",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 83.71,
-      "liquidity": 12584.47
+      "volume24hr": 4.99,
+      "liquidity": 3503.11
     },
     {
-      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 4078.74
-    },
-    {
-      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: S\u00e3o Paulo FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 25.0,
-      "liquidity": 4070.01
-    },
-    {
-      "market": "S\u00e3o Paulo FC vs. Club Bol\u00edvar - More Markets \u2014 S\u00e3o Paulo FC vs. Club Bol\u00edvar: Club Bol\u00edvar 2nd Half O/U 1.5",
+      "market": "Washington Nationals vs. Texas Rangers: O/U 5.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/sud-sao-bol-2026-08-18-more-markets",
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-18",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 326901.75,
-      "liquidity": 4400.66
+      "volume24hr": 440019.69,
+      "liquidity": 7248.6
     },
     {
-      "market": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 0.5",
+      "market": "Will the game go to extra innings?: Los Angeles Angels vs. Houston Astros",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Libertadores"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 98.43,
-      "liquidity": 12143.72
+      "volume24hr": 778321.28,
+      "liquidity": 1013.1
     },
     {
-      "market": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 1.5",
+      "market": "Los Angeles Angels vs. Houston Astros: O/U 6.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Libertadores"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 22.14,
-      "liquidity": 12148.76
+      "volume24hr": 4486.54,
+      "liquidity": 4326.72
     },
     {
-      "market": "CD Tolima vs. Independiente del Valle - More Markets \u2014 CD Tolima vs. Independiente del Valle: CD Tolima O/U 2.5",
+      "market": "Los Angeles Angels vs. Houston Astros: O/U 4.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-tol-ind1-2026-08-11-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-18",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Libertadores"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 15.0,
-      "liquidity": 12092.38
+      "volume24hr": 778321.28,
+      "liquidity": 2496.6
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Points O/U 18.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 128.35,
+      "liquidity": 484.62
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Angel Reese: Points O/U 15.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 238.98,
+      "liquidity": 484.7
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces \u2014 Jackie Young: Points O/U 19.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 7.0,
+      "liquidity": 484.62
+    },
+    {
+      "market": "New York Liberty vs. Chicago Sky \u2014 Kamilla Cardoso: Points O/U 13.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 16.93,
+      "liquidity": 560.93
     }
   ],
   "log": [
-    {
-      "ts": "19:30:01",
-      "text": " poll complete \u2014 1829 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 1789 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "02:45:01",
       "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:00:01",
+      "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
     }
   ]
 }
