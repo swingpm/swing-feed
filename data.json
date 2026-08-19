@@ -1,83 +1,131 @@
 {
-  "lastUpdate": "2026-08-19 18:15:02 UTC",
+  "lastUpdate": "2026-08-19 18:30:02 UTC",
   "swings": [
     {
-      "market": "LoL: BIG vs Unicorns Of Love Sexy Edition (BO5) - Prime League 1st Division Playoffs \u2014 LoL: BIG vs Unicorns Of Love Sexy Edition - Game 3 Winner",
-      "prev": 0.92,
-      "now": 0.005,
-      "delta": -0.915,
-      "url": "https://polymarket.com/event/lol-big1-use1-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 90170.89,
-      "liquidity": 263959.52
-    },
-    {
-      "market": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula \u2014 Set 2 Winner: Cirstea vs Pegula",
-      "prev": 0.145,
+      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
       "now": 0.995,
-      "delta": 0.85,
-      "url": "https://polymarket.com/event/wta-cirstea-pegula-2026-08-19",
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-19",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 136.73,
-      "liquidity": 11053.14
+      "volume24hr": 56.88,
+      "liquidity": 315.67
     },
     {
-      "market": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula \u2014 Set Handicap: Pegula (-1.5) vs Cirstea (+1.5)",
-      "prev": 0.845,
-      "now": 0.045,
-      "delta": -0.8,
-      "url": "https://polymarket.com/event/wta-cirstea-pegula-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 933.68,
-      "liquidity": 9038.0
-    },
-    {
-      "market": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula \u2014 Sorana Cirstea vs. Jessica Pegula: Total Sets O/U 2.5",
-      "prev": 0.15,
-      "now": 0.75,
-      "delta": 0.6,
-      "url": "https://polymarket.com/event/wta-cirstea-pegula-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 169.49,
-      "liquidity": 7876.0
-    },
-    {
-      "market": "Counter-Strike: Drip Too Hard vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: Drip Too Hard vs HyperSpirit - Map 1 Winner",
-      "prev": 0.565,
-      "now": 0.0005,
-      "delta": -0.5645,
-      "url": "https://polymarket.com/event/cs2-dripto-hs2-2026-08-19",
+      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.345,
+      "now": 0.825,
+      "delta": 0.48,
+      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 6908.42,
-      "liquidity": 153879.5
+      "volume24hr": 84.08,
+      "liquidity": 20.1
     },
     {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 LoL: SU Esports vs Dark Passage - Game 4 Winner",
-      "prev": 0.54,
-      "now": 0.0005,
-      "delta": -0.5395,
+      "market": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: FURIA vs Aurora Gaming - Map 1 Winner",
+      "prev": 0.18,
+      "now": 0.605,
+      "delta": 0.425,
+      "url": "https://polymarket.com/event/cs2-furia-aur1-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 273426.14,
+      "liquidity": 124442.34
+    },
+    {
+      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: GamerLegion vs MOUZ - Map 1 Winner",
+      "prev": 0.1,
+      "now": 0.52,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 77649.22,
+      "liquidity": 128483.98
+    },
+    {
+      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 239886.37,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 239886.37,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 3: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 239886.37,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 239886.37,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
       "tags": [
         "Esports",
@@ -85,75 +133,26 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 58142.03,
-      "liquidity": 259380.47
+      "volume24hr": 227592.56,
+      "liquidity": 113.67
     },
     {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
+      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-19",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 48.94,
-      "liquidity": 2332.96
-    },
-    {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates \u2014 1st 5 Innings Spread: Detroit Tigers (-1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6.0,
-      "liquidity": 1868.67
-    },
-    {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 161.17,
-      "liquidity": 2154.44
-    },
-    {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 125.0,
-      "liquidity": 1938.35
+      "volume24hr": 227592.56,
+      "liquidity": 113.67
     }
   ],
   "log": [
-    {
-      "ts": "11:00:02",
-      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:15:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
@@ -269,6 +268,10 @@
     {
       "ts": "18:15:02",
       "text": " poll complete \u2014 1968 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:30:02",
+      "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
     }
   ]
 }
