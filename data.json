@@ -1,11 +1,69 @@
 {
-  "lastUpdate": "2026-08-19 18:30:02 UTC",
+  "lastUpdate": "2026-08-19 18:45:01 UTC",
   "swings": [
     {
-      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 2.5",
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik \u2014 Set 2 Winner: Tirante vs Mensik",
+      "prev": 0.44,
+      "now": 0.9995,
+      "delta": 0.5595,
+      "url": "https://polymarket.com/event/atp-tirante-mensik-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 428.41,
+      "liquidity": 12545.79
+    },
+    {
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik \u2014 Set Handicap: Mensik (-1.5) vs Tirante (+1.5)",
+      "prev": 0.56,
+      "now": 0.03,
+      "delta": -0.53,
+      "url": "https://polymarket.com/event/atp-tirante-mensik-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 11021.01,
+      "liquidity": 151416.99
+    },
+    {
+      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: GamerLegion vs MOUZ - Map 1 Winner",
+      "prev": 0.52,
+      "now": 0.0005,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 187484.16,
+      "liquidity": 1056996.17
+    },
+    {
+      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: MOUZ (-3.5) vs GamerLegion (+3.5)",
+      "prev": 0.515,
+      "now": 0.0005,
+      "delta": -0.5145,
+      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 43.96,
+      "liquidity": 629.49
+    },
+    {
+      "market": "San Diego Padres vs. New York Mets \u2014 1st 5 Innings Spread: New York Mets (-1.5)",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-19",
       "tags": [
         "Sports",
@@ -13,150 +71,83 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 56.88,
-      "liquidity": 315.67
+      "volume24hr": 76.76,
+      "liquidity": 1935.44
     },
     {
-      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.345,
-      "now": 0.825,
-      "delta": 0.48,
-      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 84.08,
-      "liquidity": 20.1
-    },
-    {
-      "market": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: FURIA vs Aurora Gaming - Map 1 Winner",
-      "prev": 0.18,
-      "now": 0.605,
-      "delta": 0.425,
-      "url": "https://polymarket.com/event/cs2-furia-aur1-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 273426.14,
-      "liquidity": 124442.34
-    },
-    {
-      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: GamerLegion vs MOUZ - Map 1 Winner",
-      "prev": 0.1,
-      "now": 0.52,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 77649.22,
-      "liquidity": 128483.98
-    },
-    {
-      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "market": "San Diego Padres vs. New York Mets \u2014 1st 5 Innings Spread: San Diego Padres (-1.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-19",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 239886.37,
-      "liquidity": 113.67
+      "volume24hr": 20.0,
+      "liquidity": 1908.16
     },
     {
-      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "market": "San Diego Padres vs. New York Mets: 1st 5 Innings O/U 3.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-19",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 239886.37,
-      "liquidity": 113.67
+      "volume24hr": 47.03,
+      "liquidity": 1926.08
     },
     {
-      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 3: Any Player Quadra Kill?",
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik \u2014 Tirante vs. Mensik: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tirante-mensik-2026-08-19",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 239886.37,
-      "liquidity": 113.67
+      "volume24hr": 228531.8,
+      "liquidity": 3783.7
     },
     {
-      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 3: Any Player Penta Kill?",
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik \u2014 Tirante vs. Mensik: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tirante-mensik-2026-08-19",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 239886.37,
-      "liquidity": 113.67
+      "volume24hr": 228531.8,
+      "liquidity": 3827.46
     },
     {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik \u2014 Tirante vs. Mensik: Set 2 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tirante-mensik-2026-08-19",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 227592.56,
-      "liquidity": 113.67
-    },
-    {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 227592.56,
-      "liquidity": 113.67
+      "volume24hr": 228531.8,
+      "liquidity": 3832.41
     }
   ],
   "log": [
-    {
-      "ts": "11:15:01",
-      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:30:02",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
@@ -272,6 +263,10 @@
     {
       "ts": "18:30:02",
       "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:45:01",
+      "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
     }
   ]
 }
