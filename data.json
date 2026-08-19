@@ -1,56 +1,11 @@
 {
-  "lastUpdate": "2026-08-19 08:30:02 UTC",
+  "lastUpdate": "2026-08-19 08:45:02 UTC",
   "swings": [
     {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Games Total: O/U 2.5",
-      "prev": 0.315,
-      "now": 0.87,
-      "delta": 0.555,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3540.03,
-      "liquidity": 7992.05
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 LoL: LNG Esports vs Weibo Gaming - Game 2 Winner",
-      "prev": 0.315,
-      "now": 0.865,
-      "delta": 0.55,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 223748.91,
-      "liquidity": 179329.53
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game Handicap: WB (-1.5) vs LNG Esports (+1.5)",
-      "prev": 0.655,
-      "now": 0.15,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 101766.05,
-      "liquidity": 771.69
-    },
-    {
-      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 1?",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Odd/Even Total Kills?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
       "tags": [
         "Esports",
@@ -58,74 +13,44 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 114.03,
-      "liquidity": 1674.74
+      "volume24hr": 20.98,
+      "liquidity": 10.9
     },
     {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 First Blood in Game 2?",
-      "prev": 0.5,
-      "now": 0.9975,
-      "delta": 0.4975,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1053882.6,
-      "liquidity": 2257.73
-    },
-    {
-      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Quadra Kill?",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 24.5 in Game 1?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 193054.65,
-      "liquidity": 893.69
+      "volume24hr": 24.73,
+      "liquidity": 98.6
     },
     {
-      "market": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Penta Kill?",
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 30.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-hle-foxy-2026-08-19",
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 193054.65,
-      "liquidity": 879.49
+      "volume24hr": 30.96,
+      "liquidity": 784.54
     },
     {
-      "market": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In \u2014 Valorant: ONSIDE GAMING vs Team Secret - Map 1 Winner",
-      "prev": 0.69,
-      "now": 0.455,
-      "delta": -0.235,
-      "url": "https://polymarket.com/event/val-osg-ts3-2026-08-19",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 787.19,
-      "liquidity": 725.5
-    },
-    {
-      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.73,
-      "now": 0.5,
-      "delta": -0.23,
+      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.26,
+      "now": 0.505,
+      "delta": 0.245,
       "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
       "tags": [
         "Esports",
@@ -133,14 +58,59 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 138370.77,
-      "liquidity": 2.48
+      "volume24hr": 147874.76,
+      "liquidity": 1.4
+    },
+    {
+      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.235,
+      "now": 0.475,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 485.24,
+      "liquidity": 2.5
+    },
+    {
+      "market": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.265,
+      "delta": -0.235,
+      "url": "https://polymarket.com/event/lol-gen-kt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 252.01,
+      "liquidity": 101.4
+    },
+    {
+      "market": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF 2nd Half O/U 1.5",
+      "prev": 0.075,
+      "now": 0.3,
+      "delta": 0.225,
+      "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 93875.46,
+      "liquidity": 849.97
     },
     {
       "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
-      "prev": 0.5,
-      "now": 0.295,
-      "delta": -0.205,
+      "prev": 0.295,
+      "now": 0.5,
+      "delta": 0.205,
       "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -148,15 +118,41 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 541910.73,
-      "liquidity": 26.68
+      "volume24hr": 537243.59,
+      "liquidity": 17.68
+    },
+    {
+      "market": "LoL: Onion Team vs BRUTE (BO3) - Hitpoint Masters Regular Season \u2014 LoL: Onion Team vs BRUTE - Game 1 Winner",
+      "prev": 0.27,
+      "now": 0.46,
+      "delta": 0.19,
+      "url": "https://polymarket.com/event/lol-ot-brt-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 14179.76,
+      "liquidity": 1035.53
+    },
+    {
+      "market": "Valorant: ONSIDE GAMING vs Team Secret (BO3) - VCT Pacific Play-In \u2014 Valorant: ONSIDE GAMING vs Team Secret - Map 1 Winner",
+      "prev": 0.455,
+      "now": 0.28,
+      "delta": -0.175,
+      "url": "https://polymarket.com/event/val-osg-ts3-2026-08-19",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1439.7,
+      "liquidity": 55.89
     }
   ],
   "log": [
-    {
-      "ts": "01:15:02",
-      "text": " poll complete \u2014 1990 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:30:02",
       "text": " poll complete \u2014 2013 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "08:30:02",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:45:02",
+      "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
     }
   ]
 }
