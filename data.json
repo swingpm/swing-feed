@@ -1,171 +1,150 @@
 {
-  "lastUpdate": "2026-08-19 21:15:01 UTC",
+  "lastUpdate": "2026-08-19 21:30:01 UTC",
   "swings": [
     {
-      "market": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: 2nd Half O/U 2.5",
-      "prev": 0.595,
+      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Set 2 Winner: Zverev vs Paul",
+      "prev": 0.56,
       "now": 0.0005,
-      "delta": -0.5945,
-      "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+      "delta": -0.5595,
+      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 5345.04,
+      "liquidity": 40793.61
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 34.61,
+      "liquidity": 7664.11
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 356819.94,
+      "liquidity": 7669.06
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Fils vs. Minaur: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 356819.94,
+      "liquidity": 7723.23
+    },
+    {
+      "market": "Arizona Diamondbacks vs. Boston Red Sox: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "La Liga"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 809169.04,
-      "liquidity": 5506.5
+      "volume24hr": 213.81,
+      "liquidity": 1530.18
     },
     {
-      "market": "What price will Ethereum hit August 17-23? \u2014 Will Ethereum reach $2,300 August 17-23?",
-      "prev": 0.429,
+      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Zverev vs. Paul: Set 2 Games O/U 9.5",
+      "prev": 0.505,
       "now": 0.9995,
-      "delta": 0.5705,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-august-17-23-2026",
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
       "tags": [
-        "Ethereum",
-        "Weekly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 47078.3,
-      "liquidity": 59119.49
+      "volume24hr": 417326.36,
+      "liquidity": 3662.85
     },
     {
-      "market": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs",
-      "prev": 0.33,
-      "now": 0.885,
-      "delta": 0.555,
-      "url": "https://polymarket.com/event/cs2-furia-aur1-2026-08-19",
+      "market": "Cincinnati Open: Alexander Zverev vs Tommy Paul \u2014 Zverev vs. Paul: Set 2 Games O/U 10.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-zverev-paul-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 417326.36,
+      "liquidity": 3662.85
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Set Handicap: Minaur (-1.5) vs Fils (+1.5)",
+      "prev": 0.5,
+      "now": 0.0155,
+      "delta": -0.4845,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 130.39,
+      "liquidity": 1940.02
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Alex de Minaur \u2014 Set 1 Winner: Fils vs Minaur",
+      "prev": 0.555,
+      "now": 0.9995,
+      "delta": 0.4445,
+      "url": "https://polymarket.com/event/atp-fils-minaur-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 75.82,
+      "liquidity": 15670.42
+    },
+    {
+      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs",
+      "prev": 0.521,
+      "now": 0.1195,
+      "delta": -0.4015,
+      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1541106.87,
-      "liquidity": 144769.91
-    },
-    {
-      "market": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Both Teams to Score in Second Half",
-      "prev": 0.515,
-      "now": 0.0005,
-      "delta": -0.5145,
-      "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 41.3,
-      "liquidity": 5432.23
-    },
-    {
-      "market": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 809169.04,
-      "liquidity": 5464.96
-    },
-    {
-      "market": "What price will Ethereum hit on August 19? \u2014 Will Ethereum reach $2,250 on August 19?",
-      "prev": 0.501,
-      "now": 0.9995,
-      "delta": 0.4985,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-19-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Ethereum",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 13363.04,
-      "liquidity": 32231.09
-    },
-    {
-      "market": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: M\u00e1laga CF 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 54.0,
-      "liquidity": 5369.33
-    },
-    {
-      "market": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - Exact Score \u2014 Exact Score: Any Other Score?",
-      "prev": 0.44,
-      "now": 0.0035,
-      "delta": -0.4365,
-      "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 1559.43,
-      "liquidity": 5840.14
-    },
-    {
-      "market": "What price will Ethereum hit in August? \u2014 Will Ethereum reach $2,300 in August?",
-      "prev": 0.593,
-      "now": 0.9995,
-      "delta": 0.4065,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026",
-      "tags": [
-        "Ethereum",
-        "Monthly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring"
-      ],
-      "volume24hr": 70291.61,
-      "liquidity": 151923.21
-    },
-    {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game 5: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 263501.57,
-      "liquidity": 113.67
+      "volume24hr": 637744.01,
+      "liquidity": 92860.62
     }
   ],
   "log": [
-    {
-      "ts": "14:00:02",
-      "text": " poll complete \u2014 1855 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
@@ -281,6 +260,10 @@
     {
       "ts": "21:15:01",
       "text": " poll complete \u2014 1898 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:30:01",
+      "text": " poll complete \u2014 1870 markets scanned, 10 flagged"
     }
   ]
 }
