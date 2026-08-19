@@ -22063,7 +22063,7 @@
   },
   "3366068": {
     "question": "Will Clube N\u00e1utico Capibaribe vs. Cear\u00e1 SC end in a draw?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/bra2-nau-csc-2026-08-18",
     "tags": [
       "Sports",
@@ -22071,11 +22071,11 @@
       "Soccer"
     ],
     "volume24hr": 6689.738952999999,
-    "liquidity": 76506.43151
+    "liquidity": 0.0
   },
   "3366069": {
     "question": "Clube N\u00e1utico Capibaribe vs. Cear\u00e1 SC \u2014 Will Cear\u00e1 SC win on 2026-08-18?",
-    "price": 0.0005,
+    "price": 0.0,
     "url": "https://polymarket.com/event/bra2-nau-csc-2026-08-18",
     "tags": [
       "Sports",
@@ -22083,7 +22083,7 @@
       "Soccer"
     ],
     "volume24hr": 16326.916572999999,
-    "liquidity": 70543.70098
+    "liquidity": 0.0
   },
   "3575626": {
     "question": "Test Match: Sri Lanka vs India \u2014 Will Sri Lanka win?",

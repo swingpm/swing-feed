@@ -1,27 +1,7 @@
 {
-  "lastUpdate": "2026-08-19 05:15:02 UTC",
-  "swings": [
-    {
-      "market": "Will the game go to extra innings?: Chicago White Sox vs. Chicago Cubs",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 668837.76,
-      "liquidity": 0.0
-    }
-  ],
+  "lastUpdate": "2026-08-19 05:30:02 UTC",
+  "swings": [],
   "log": [
-    {
-      "ts": "22:00:02",
-      "text": " poll complete \u2014 1863 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1847 markets scanned, 10 flagged"
@@ -137,6 +117,10 @@
     {
       "ts": "05:15:02",
       "text": " poll complete \u2014 1755 markets scanned, 1 flagged"
+    },
+    {
+      "ts": "05:30:02",
+      "text": " poll complete \u2014 1755 markets scanned, 0 flagged"
     }
   ]
 }
