@@ -1,47 +1,125 @@
 {
-  "lastUpdate": "2026-08-19 15:30:02 UTC",
+  "lastUpdate": "2026-08-19 15:45:01 UTC",
   "swings": [
     {
-      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $69,000 on August 19?",
-      "prev": 0.0115,
+      "market": "Elon Musk # tweets August 17 - August 19, 2026? \u2014 Will Elon Musk post 90-114 tweets from August 17 to August 19, 2026?",
+      "prev": 0.184,
       "now": 0.9995,
-      "delta": 0.988,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
+      "delta": 0.8155,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-17-august-19",
       "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
+        "Culture",
+        "Politics",
+        "Tweet Markets"
       ],
-      "volume24hr": 3790.28,
-      "liquidity": 46572.36
+      "volume24hr": 244277.04,
+      "liquidity": 3213.18
     },
     {
-      "market": "Highest temperature in Munich on August 19? \u2014 Will the highest temperature in Munich be 30\u00b0C on August 19?",
+      "market": "Elon Musk # tweets August 17 - August 19, 2026? \u2014 Will Elon Musk post 65-89 tweets from August 17 to August 19, 2026?",
+      "prev": 0.824,
+      "now": 0.053,
+      "delta": -0.771,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-17-august-19",
+      "tags": [
+        "Culture",
+        "Politics",
+        "Tweet Markets"
+      ],
+      "volume24hr": 194396.04,
+      "liquidity": 2485.04
+    },
+    {
+      "market": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet \u2014 Set 2 Winner: Almeida vs Tarvet",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-almeida-tarvet-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 88065.37,
+      "liquidity": 2592.63
+    },
+    {
+      "market": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet \u2014 Almeida vs. Tarvet: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-almeida-tarvet-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 88065.37,
+      "liquidity": 2992.15
+    },
+    {
+      "market": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet \u2014 Almeida vs. Tarvet: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-almeida-tarvet-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 88065.37,
+      "liquidity": 2999.45
+    },
+    {
+      "market": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet \u2014 Almeida vs. Tarvet: Set 2 Games O/U 8.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/atp-almeida-tarvet-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 88065.37,
+      "liquidity": 2769.93
+    },
+    {
+      "market": "Counter-Strike: Black Phoenix vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
       "prev": 0.92,
-      "now": 0.0005,
-      "delta": -0.9195,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-19-2026",
+      "now": 0.5,
+      "delta": -0.42,
+      "url": "https://polymarket.com/event/cs2-blackp-bw-2026-08-19",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 8514.52,
-      "liquidity": 36720.58
+      "volume24hr": 5.71,
+      "liquidity": 297959.9
     },
     {
-      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $68,000 on August 19?",
-      "prev": 0.088,
-      "now": 0.9995,
-      "delta": 0.9115,
+      "market": "Counter-Strike: Black Phoenix vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: Black Phoenix (-1.5) vs Bushido Wildcats (+1.5)",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/cs2-blackp-bw-2026-08-19",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 27.8,
+      "liquidity": 297959.9
+    },
+    {
+      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $71,000 on August 19?",
+      "prev": 0.526,
+      "now": 0.191,
+      "delta": -0.335,
       "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
       "tags": [
         "Crypto",
@@ -53,67 +131,14 @@
         "Today \ud83d\ude80",
         "Hit Price"
       ],
-      "volume24hr": 11914.14,
-      "liquidity": 76645.49
+      "volume24hr": 4166.45,
+      "liquidity": 2091.55
     },
     {
-      "market": "Highest temperature in Munich on August 19? \u2014 Will the highest temperature in Munich be 31\u00b0C on August 19?",
-      "prev": 0.0685,
-      "now": 0.897,
-      "delta": 0.8285,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-19-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 10453.98,
-      "liquidity": 445.69
-    },
-    {
-      "market": "Bitcoin price on August 19? \u2014 Will the price of Bitcoin be between $66,000 and $68,000 on August 19?",
-      "prev": 0.8785,
-      "now": 0.114,
-      "delta": -0.7645,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-19-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 58504.78,
-      "liquidity": 5130.13
-    },
-    {
-      "market": "Bitcoin above ___ on August 20? \u2014 Will the price of Bitcoin be above $68,000 on August 20?",
-      "prev": 0.0995,
-      "now": 0.7715,
-      "delta": 0.672,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-20-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 72979.04,
-      "liquidity": 4371.67
-    },
-    {
-      "market": "Bitcoin above ___ on August 19? \u2014 Will the price of Bitcoin be above $68,000 on August 19?",
-      "prev": 0.0115,
-      "now": 0.681,
-      "delta": 0.6695,
+      "market": "Bitcoin above ___ on August 19? \u2014 Will the price of Bitcoin be above $70,000 on August 19?",
+      "prev": 0.2955,
+      "now": 0.0355,
+      "delta": -0.26,
       "url": "https://polymarket.com/event/bitcoin-above-on-august-19-2026",
       "tags": [
         "Bitcoin",
@@ -124,70 +149,11 @@
         "Recurring",
         "Hide From New"
       ],
-      "volume24hr": 364822.03,
-      "liquidity": 5527.54
-    },
-    {
-      "market": "What price will Bitcoin hit on August 19? \u2014 Will Bitcoin reach $70,000 on August 19?",
-      "prev": 0.0065,
-      "now": 0.646,
-      "delta": 0.6395,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-19-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 5210.45,
-      "liquidity": 764.74
-    },
-    {
-      "market": "What price will Bitcoin hit August 17-23? \u2014 Will Bitcoin reach $68,000 August 17-23?",
-      "prev": 0.3655,
-      "now": 0.9985,
-      "delta": 0.633,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-august-17-23-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Weekly",
-        "Hit Price"
-      ],
-      "volume24hr": 35139.35,
-      "liquidity": 22858.91
-    },
-    {
-      "market": "What price will Bitcoin hit August 17-23? \u2014 Will Bitcoin reach $70,000 August 17-23?",
-      "prev": 0.0875,
-      "now": 0.6985,
-      "delta": 0.611,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-august-17-23-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Weekly",
-        "Hit Price"
-      ],
-      "volume24hr": 27700.88,
-      "liquidity": 1225.41
+      "volume24hr": 72143.88,
+      "liquidity": 20373.24
     }
   ],
   "log": [
-    {
-      "ts": "08:15:02",
-      "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:30:02",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
@@ -303,6 +269,10 @@
     {
       "ts": "15:30:02",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:45:01",
+      "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
     }
   ]
 }
