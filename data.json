@@ -1,141 +1,41 @@
 {
-  "lastUpdate": "2026-08-19 17:15:01 UTC",
+  "lastUpdate": "2026-08-19 17:30:02 UTC",
   "swings": [
     {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Games Total: O/U 3.5",
-      "prev": 0.14,
-      "now": 0.995,
-      "delta": 0.855,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 38816.97,
-      "liquidity": 1908.52
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli \u2014 Set 2 Winner: Jodar vs Cobolli",
-      "prev": 0.56,
+      "market": "LoL: Vitality.Bee vs Ici Japon Corp. Esport (BO3) - LFL Playoffs \u2014 LoL: Vitality.Bee vs Ici Japon Corp. Esport - Game 2 Winner",
+      "prev": 0.625,
       "now": 0.0005,
-      "delta": -0.5595,
-      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 2891.56,
-      "liquidity": 29533.12
-    },
-    {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 LoL: SU Esports vs Dark Passage - Game 3 Winner",
-      "prev": 0.545,
-      "now": 0.005,
-      "delta": -0.54,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "delta": -0.6245,
+      "url": "https://polymarket.com/event/lol-vitb-ijc-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 16967.74,
-      "liquidity": 218303.86
+      "volume24hr": 57339.5,
+      "liquidity": 383643.17
     },
     {
-      "market": "LoL: SU Esports vs Dark Passage (BO5) - TCL Playoffs \u2014 Game Handicap: SU (-2.5) vs Dark Passage (+2.5)",
-      "prev": 0.5,
+      "market": "LoL: Vitality.Bee vs Ici Japon Corp. Esport (BO3) - LFL Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.625,
       "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-su-dp-2026-08-19",
+      "delta": -0.62,
+      "url": "https://polymarket.com/event/lol-vitb-ijc-2026-08-19",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 8099.12,
-      "liquidity": 99.0
+      "volume24hr": 18.25,
+      "liquidity": 29699.18
     },
     {
-      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli \u2014 Jodar vs. Cobolli: Set 2 Games O/U 8.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1049746.16,
-      "liquidity": 3834.22
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli \u2014 Jodar vs. Cobolli: Set 2 Games O/U 9.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1049746.16,
-      "liquidity": 3834.22
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli \u2014 Jodar vs. Cobolli: Set 2 Games O/U 10.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1049746.16,
-      "liquidity": 3834.22
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli \u2014 Set Handicap: Jodar (-1.5) vs Cobolli (+1.5)",
-      "prev": 0.545,
-      "now": 0.07,
-      "delta": -0.475,
-      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 20616.68,
-      "liquidity": 113409.76
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs \u2014 Map 3 Total Rounds: Over/Under 21.5",
-      "prev": 0.475,
+      "market": "Will there be a run scored in the first inning?: San Diego Padres vs. New York Mets",
+      "prev": 0.55,
       "now": 0.005,
-      "delta": -0.47,
-      "url": "https://polymarket.com/event/cs2-fut-mgc-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 754.33,
-      "liquidity": 1553.42
-    },
-    {
-      "market": "Will the game go to extra innings?: San Diego Padres vs. New York Mets",
-      "prev": 0.065,
-      "now": 0.505,
-      "delta": 0.44,
+      "delta": -0.545,
       "url": "https://polymarket.com/event/mlb-sd-nym-2026-08-19",
       "tags": [
         "Sports",
@@ -143,15 +43,115 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 106.14,
-      "liquidity": 0.56
+      "volume24hr": 3181.43,
+      "liquidity": 19571.07
+    },
+    {
+      "market": "LoL: Vitality.Bee vs Ici Japon Corp. Esport (BO3) - LFL Playoffs \u2014 Game Handicap: IJC (-1.5) vs Vitality.Bee (+1.5)",
+      "prev": 0.495,
+      "now": 0.995,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/lol-vitb-ijc-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 4288.18
+    },
+    {
+      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Games Total: O/U 4.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 25.05,
+      "liquidity": 4997.3
+    },
+    {
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2800082.7,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2800082.7,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-we-edg-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2800082.7,
+      "liquidity": 113.67
+    },
+    {
+      "market": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Games Total: O/U 3.5",
+      "prev": 0.405,
+      "now": 0.005,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-ucam1-hrts-2026-08-19",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 479.5,
+      "liquidity": 4982.3
+    },
+    {
+      "market": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+      "prev": 0.565,
+      "now": 0.195,
+      "delta": -0.37,
+      "url": "https://polymarket.com/event/atp-jodar-cobolli-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1391714.18,
+      "liquidity": 451557.3
     }
   ],
   "log": [
-    {
-      "ts": "10:00:01",
-      "text": " poll complete \u2014 1881 markets scanned, 6 flagged"
-    },
     {
       "ts": "10:15:02",
       "text": " poll complete \u2014 1881 markets scanned, 0 flagged"
@@ -267,6 +267,10 @@
     {
       "ts": "17:15:01",
       "text": " poll complete \u2014 1964 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:30:02",
+      "text": " poll complete \u2014 1938 markets scanned, 10 flagged"
     }
   ]
 }
