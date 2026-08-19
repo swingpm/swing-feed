@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-19 20:30:02 UTC",
+  "lastUpdate": "2026-08-19 20:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.36,
-      "now": 0.9995,
-      "delta": 0.6395,
-      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 6312.33,
-      "liquidity": 50573.61
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Arizona Diamondbacks vs. Boston Red Sox",
-      "prev": 0.435,
-      "now": 0.9995,
-      "delta": 0.5645,
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 59941.49,
-      "liquidity": 37463.9
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago White Sox (-2.5)",
-      "prev": 0.19,
-      "now": 0.73,
-      "delta": 0.54,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2178.57,
-      "liquidity": 916.63
-    },
-    {
-      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map Handicap: MOUZ (-1.5) vs GamerLegion (+1.5)",
-      "prev": 0.535,
-      "now": 0.0005,
-      "delta": -0.5345,
-      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 70935.65,
-      "liquidity": 154055.88
-    },
-    {
-      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: GamerLegion vs MOUZ - Map 2 Winner",
-      "prev": 0.48,
-      "now": 0.9995,
-      "delta": 0.5195,
-      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 643998.73,
-      "liquidity": 1116838.02
-    },
-    {
-      "market": "Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: MOUZ (-3.5) vs GamerLegion (+3.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-gl1-mouz-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 945.36,
-      "liquidity": 1363.32
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs: O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 314577.37,
-      "liquidity": 173.16
-    },
-    {
-      "market": "Celtic FC vs. LASK Linz - More Markets \u2014 Celtic FC vs. LASK Linz: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/ucl-cel-lin2-2026-08-19-more-markets",
+      "market": "MH Hapoel Be'er Sheva vs. Sabah FK \u2014 Will MH Hapoel Be'er Sheva win on 2026-08-19?",
+      "prev": 0.28,
+      "now": 0.84,
+      "delta": 0.56,
+      "url": "https://polymarket.com/event/ucl-hbs-sf-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 181831.3,
-      "liquidity": 2692.56
+      "volume24hr": 39771.41,
+      "liquidity": 4784.31
     },
     {
-      "market": "Celtic FC vs. LASK Linz - More Markets \u2014 Celtic FC vs. LASK Linz: Celtic FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/ucl-cel-lin2-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 181831.3,
-      "liquidity": 2685.0
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs \u2014 Spread: Chicago White Sox (-1.5)",
-      "prev": 0.325,
-      "now": 0.815,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-19",
+      "market": "Atlanta Braves vs. Minnesota Twins: O/U 11.5",
+      "prev": 0.505,
+      "now": 0.0005,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 20178.61,
-      "liquidity": 2920.96
+      "volume24hr": 38.59,
+      "liquidity": 7061.8
+    },
+    {
+      "market": "MH Hapoel Be'er Sheva vs. Sabah FK - More Markets \u2014 MH Hapoel Be'er Sheva vs. Sabah FK: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/ucl-hbs-sf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 96.32,
+      "liquidity": 3050.43
+    },
+    {
+      "market": "MH Hapoel Be'er Sheva vs. Sabah FK - More Markets \u2014 MH Hapoel Be'er Sheva vs. Sabah FK: MH Hapoel Be'er Sheva 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/ucl-hbs-sf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 116783.64,
+      "liquidity": 3054.71
+    },
+    {
+      "market": "Will the game go to extra innings?: Atlanta Braves vs. Minnesota Twins",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 20.67,
+      "liquidity": 1010.56
+    },
+    {
+      "market": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: Club Atl\u00e9tico de Madrid 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 13.33,
+      "liquidity": 1303.66
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins: O/U 12.5",
+      "prev": 0.495,
+      "now": 0.0005,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 65.0,
+      "liquidity": 7040.96
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins \u2014 Spread: Minnesota Twins (-3.5)",
+      "prev": 0.485,
+      "now": 0.0005,
+      "delta": -0.4845,
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 7470.25
+    },
+    {
+      "market": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: 2nd Half O/U 2.5",
+      "prev": 0.12,
+      "now": 0.565,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/lal-mad-mala-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 689152.15,
+      "liquidity": 279.5
+    },
+    {
+      "market": "MH Hapoel Be'er Sheva vs. Sabah FK - More Markets \u2014 MH Hapoel Be'er Sheva vs. Sabah FK: O/U 2.5",
+      "prev": 0.58,
+      "now": 0.9995,
+      "delta": 0.4195,
+      "url": "https://polymarket.com/event/ucl-hbs-sf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 33636.07,
+      "liquidity": 140245.43
     }
   ],
   "log": [
-    {
-      "ts": "13:15:01",
-      "text": " poll complete \u2014 1873 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:30:01",
       "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "20:30:02",
       "text": " poll complete \u2014 1994 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:45:01",
+      "text": " poll complete \u2014 1926 markets scanned, 10 flagged"
     }
   ]
 }
