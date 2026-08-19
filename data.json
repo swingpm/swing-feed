@@ -1,26 +1,137 @@
 {
-  "lastUpdate": "2026-08-19 13:00:01 UTC",
+  "lastUpdate": "2026-08-19 13:15:01 UTC",
   "swings": [
     {
-      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.225,
-      "now": 0.995,
-      "delta": 0.77,
-      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
+      "market": "Roehampton: Lui Maxted vs Patrick Brady",
+      "prev": 0.285,
+      "now": 0.9995,
+      "delta": 0.7145,
+      "url": "https://polymarket.com/event/atp-maxted-brady-2026-08-19",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 137.05,
-      "liquidity": 1136.29
+      "volume24hr": 133502.3,
+      "liquidity": 392286.95
     },
     {
-      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
-      "prev": 0.735,
+      "market": "Prague 2: Rudolf Molleker vs Filip Jianu \u2014 Set 2 Winner: Molleker vs Jianu",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.7345,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-molleke-jianu-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 92038.96,
+      "liquidity": 3331.62
+    },
+    {
+      "market": "Prague 2: Rudolf Molleker vs Filip Jianu \u2014 Rudolf Molleker vs. Filip Jianu: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-molleke-jianu-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 92038.96,
+      "liquidity": 6409.63
+    },
+    {
+      "market": "Prague 2: Rudolf Molleker vs Filip Jianu \u2014 Molleker vs. Jianu: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-molleke-jianu-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 92038.96,
+      "liquidity": 10071.16
+    },
+    {
+      "market": "Prague 2: Rudolf Molleker vs Filip Jianu \u2014 Molleker vs. Jianu: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-molleke-jianu-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 92038.96,
+      "liquidity": 3198.46
+    },
+    {
+      "market": "Prague 2: Rudolf Molleker vs Filip Jianu \u2014 Molleker vs. Jianu: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-molleke-jianu-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 92038.96,
+      "liquidity": 3202.26
+    },
+    {
+      "market": "Prague 2: Rudolf Molleker vs Filip Jianu \u2014 Molleker vs. Jianu: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-molleke-jianu-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 92038.96,
+      "liquidity": 3214.25
+    },
+    {
+      "market": "Prague 2: Rudolf Molleker vs Filip Jianu \u2014 Molleker vs. Jianu: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-molleke-jianu-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 92038.96,
+      "liquidity": 6277.29
+    },
+    {
+      "market": "Prague 2: Rudolf Molleker vs Filip Jianu \u2014 Set Handicap: Jianu (-1.5) vs Molleker (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-molleke-jianu-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 184.57,
+      "liquidity": 4980.78
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend \u2014 Game 3: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/lol-al-tes-2026-08-19",
       "tags": [
         "Esports",
@@ -28,135 +139,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1273801.68,
-      "liquidity": 1387435.52
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 1.0,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 57.02,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1940777.75,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lol-lng-wb-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1940777.75,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Counter-Strike: G2 Ares vs ex-Zero Tenacity (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-g2a-zerote-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 135355.25,
-      "liquidity": 10809.84
-    },
-    {
-      "market": "Counter-Strike: G2 Ares vs ex-Zero Tenacity (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: ex-ZT (-1.5) vs G2 Ares (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-g2a-zerote-2026-08-19",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 135355.25,
-      "liquidity": 10507.25
-    },
-    {
-      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 27.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1353.05,
-      "liquidity": 1694.55
-    },
-    {
-      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1952805.32,
-      "liquidity": 834.0
-    },
-    {
-      "market": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 33.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-bro2-dnf-2026-08-19",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1952805.32,
-      "liquidity": 834.05
+      "volume24hr": 2462381.24,
+      "liquidity": 856.69
     }
   ],
   "log": [
-    {
-      "ts": "05:45:01",
-      "text": " poll complete \u2014 1765 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:00:01",
       "text": " poll complete \u2014 1791 markets scanned, 10 flagged"
@@ -272,6 +259,10 @@
     {
       "ts": "13:00:01",
       "text": " poll complete \u2014 1856 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:15:01",
+      "text": " poll complete \u2014 1873 markets scanned, 10 flagged"
     }
   ]
 }
