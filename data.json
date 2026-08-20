@@ -1,174 +1,157 @@
 {
-  "lastUpdate": "2026-08-20 23:15:01 UTC",
+  "lastUpdate": "2026-08-20 23:30:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Sentinels (-3.5) vs 2GAME Esports (+3.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez",
+      "prev": 0.53,
+      "now": 0.045,
+      "delta": -0.485,
+      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 11816.36
+      "volume24hr": 239777.55,
+      "liquidity": 221151.42
     },
     {
-      "market": "What price will XRP hit August 17-23? \u2014 Will XRP dip to $0.90 August 17-23?",
-      "prev": 0.028,
-      "now": 0.5,
-      "delta": 0.472,
-      "url": "https://polymarket.com/event/what-price-will-xrp-hit-august-17-23-2026",
-      "tags": [
-        "XRP",
-        "Ripple",
-        "Hit Price",
-        "Weekly",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 72137.13,
-      "liquidity": 3.0
-    },
-    {
-      "market": "What price will XRP hit August 17-23? \u2014 Will XRP reach $1.70 August 17-23?",
-      "prev": 0.0325,
-      "now": 0.4965,
-      "delta": 0.464,
-      "url": "https://polymarket.com/event/what-price-will-xrp-hit-august-17-23-2026",
-      "tags": [
-        "XRP",
-        "Ripple",
-        "Hit Price",
-        "Weekly",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 100.0,
-      "liquidity": 15.19
-    },
-    {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 23.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 343904.03,
-      "liquidity": 194.52
-    },
-    {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Sentinels (-7.5) vs 2GAME Esports (+7.5)",
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
       "tags": [
         "Esports",
-        "Valorant",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 343904.03,
+      "volume24hr": 151122.76,
       "liquidity": 113.52
     },
     {
-      "market": "CSyD Macar\u00e1 vs. Santos FC - More Markets \u2014 CSyD Macar\u00e1 vs. Santos FC: Santos FC O/U 1.5",
-      "prev": 0.045,
-      "now": 0.43,
-      "delta": 0.385,
-      "url": "https://polymarket.com/event/sud-mac-san-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 1029.76
-    },
-    {
-      "market": "CSyD Macar\u00e1 vs. Santos FC - More Markets \u2014 CSyD Macar\u00e1 vs. Santos FC: CSyD Macar\u00e1 O/U 2.5",
-      "prev": 0.045,
-      "now": 0.395,
-      "delta": 0.35,
-      "url": "https://polymarket.com/event/sud-mac-san-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 463.73,
-      "liquidity": 1292.68
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
-      "prev": 0.62,
-      "now": 0.305,
-      "delta": -0.315,
-      "url": "https://polymarket.com/event/dota2-ty-ngx-2026-08-21",
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 63633.28,
-      "liquidity": 303.25
+      "volume24hr": 151122.76,
+      "liquidity": 113.52
     },
     {
-      "market": "What price will XRP hit August 17-23? \u2014 Will XRP reach $1.60 August 17-23?",
-      "prev": 0.0415,
-      "now": 0.343,
-      "delta": 0.3015,
-      "url": "https://polymarket.com/event/what-price-will-xrp-hit-august-17-23-2026",
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
       "tags": [
-        "XRP",
-        "Ripple",
-        "Hit Price",
-        "Weekly",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 3699.99,
-      "liquidity": 6963.62
-    },
-    {
-      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: Mirassol FC O/U 0.5",
-      "prev": 0.295,
-      "now": 0.595,
-      "delta": 0.3,
-      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Copa Libertadores"
+        "Sports"
       ],
-      "volume24hr": 696.5,
-      "liquidity": 5.23
+      "volume24hr": 151122.76,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 151122.76,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 151122.76,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 151122.76,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 151122.76,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 151122.76,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 151122.76,
+      "liquidity": 113.52
     }
   ],
   "log": [
-    {
-      "ts": "16:00:02",
-      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:15:01",
       "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
@@ -284,6 +267,10 @@
     {
       "ts": "23:15:01",
       "text": " poll complete \u2014 1902 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:30:01",
+      "text": " poll complete \u2014 1913 markets scanned, 10 flagged"
     }
   ]
 }
