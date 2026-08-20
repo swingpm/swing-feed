@@ -1,158 +1,154 @@
 {
-  "lastUpdate": "2026-08-20 18:15:01 UTC",
+  "lastUpdate": "2026-08-20 18:30:01 UTC",
   "swings": [
     {
-      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Set 1 Winner: Sakamoto vs Assche",
-      "prev": 0.245,
-      "now": 0.9995,
-      "delta": 0.7545,
-      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 964.55,
-      "liquidity": 13414.38
-    },
-    {
-      "market": "San Francisco Giants vs. Cleveland Guardians: 1st 5 Innings O/U 4.5",
-      "prev": 0.405,
-      "now": 0.9955,
-      "delta": 0.5905,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 100.0,
-      "liquidity": 1747.21
-    },
-    {
-      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 1st 5 Innings Spread: Cleveland Guardians (-1.5)",
-      "prev": 0.805,
-      "now": 0.305,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 135.36,
-      "liquidity": 3.65
-    },
-    {
-      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Sakamoto vs. Assche: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 132068.44,
-      "liquidity": 7189.61
-    },
-    {
-      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Sakamoto vs. Assche: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 132068.44,
-      "liquidity": 7228.06
-    },
-    {
-      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Sakamoto vs. Assche: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 132068.44,
-      "liquidity": 7243.61
-    },
-    {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 1st 5 Innings Spread: St. Louis Cardinals (-1.5)",
-      "prev": 0.5,
+      "market": "Will there be a run scored in the first inning?: Athletics vs. Kansas City Royals",
+      "prev": 0.255,
       "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "delta": 0.74,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-20",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1373.29,
-      "liquidity": 1819.4
+      "volume24hr": 1395.49,
+      "liquidity": 2054.52
     },
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 1st 5 Innings Spread: Cincinnati Reds (-1.5)",
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 74.92,
+      "liquidity": 1270.33
+    },
+    {
+      "market": "Be\u015fikta\u015f JK vs. FK Kauno \u017dalgiris - More Markets \u2014 Be\u015fikta\u015f JK vs. FK Kauno \u017dalgiris: Be\u015fikta\u015f JK 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/uel-bes-kau-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 119973.15,
+      "liquidity": 2738.62
+    },
+    {
+      "market": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula \u2014 Anisimova vs. Pegula: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "url": "https://polymarket.com/event/wta-anisimo-pegula-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 39.26,
-      "liquidity": 2010.39
+      "volume24hr": 930857.99,
+      "liquidity": 4864.48
     },
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds: 1st 5 Innings O/U 5.5",
+      "market": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula \u2014 Anisimova vs. Pegula: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "url": "https://polymarket.com/event/wta-anisimo-pegula-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 15.0,
-      "liquidity": 2082.44
+      "volume24hr": 930857.99,
+      "liquidity": 4920.39
     },
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds: 1st 5 Innings O/U 6.5",
-      "prev": 0.495,
-      "now": 0.0045,
-      "delta": -0.4905,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "market": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula \u2014 Anisimova vs. Pegula: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/wta-anisimo-pegula-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 930857.99,
+      "liquidity": 5094.01
+    },
+    {
+      "market": "Be\u015fikta\u015f JK vs. FK Kauno \u017dalgiris - More Markets \u2014 Be\u015fikta\u015f JK vs. FK Kauno \u017dalgiris: 2nd Half O/U 0.5",
+      "prev": 0.505,
+      "now": 0.9945,
+      "delta": 0.4895,
+      "url": "https://polymarket.com/event/uel-bes-kau-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 35.05,
+      "liquidity": 2699.0
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: Atlanta Braves vs. Chicago White Sox",
+      "prev": 0.485,
+      "now": 0.005,
+      "delta": -0.48,
+      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 48.78,
-      "liquidity": 1725.92
+      "volume24hr": 3040.3,
+      "liquidity": 18981.72
+    },
+    {
+      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Map 3 Total Rounds: Over/Under 16.5",
+      "prev": 0.55,
+      "now": 0.995,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 363357.7,
+      "liquidity": 5.9
+    },
+    {
+      "market": "Roehampton: Michael Geerts vs Lucas Poullain",
+      "prev": 0.64,
+      "now": 0.305,
+      "delta": -0.335,
+      "url": "https://polymarket.com/event/atp-geerts-poullai-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 111433.94,
+      "liquidity": 235896.77
     }
   ],
   "log": [
-    {
-      "ts": "11:00:02",
-      "text": " poll complete \u2014 1766 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:15:02",
       "text": " poll complete \u2014 1776 markets scanned, 10 flagged"
@@ -268,6 +264,10 @@
     {
       "ts": "18:15:01",
       "text": " poll complete \u2014 2049 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:30:01",
+      "text": " poll complete \u2014 2104 markets scanned, 10 flagged"
     }
   ]
 }
