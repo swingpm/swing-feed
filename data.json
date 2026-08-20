@@ -1,158 +1,154 @@
 {
-  "lastUpdate": "2026-08-20 18:00:02 UTC",
+  "lastUpdate": "2026-08-20 18:15:01 UTC",
   "swings": [
     {
-      "market": "Mj\u00e4llby AIF vs. FC Red Bull Salzburg \u2014 Will FC Red Bull Salzburg win on 2026-08-20?",
-      "prev": 0.18,
+      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Set 1 Winner: Sakamoto vs Assche",
+      "prev": 0.245,
       "now": 0.9995,
-      "delta": 0.8195,
-      "url": "https://polymarket.com/event/uel-ma-rbs-2026-08-20",
+      "delta": 0.7545,
+      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 964.55,
+      "liquidity": 13414.38
+    },
+    {
+      "market": "San Francisco Giants vs. Cleveland Guardians: 1st 5 Innings O/U 4.5",
+      "prev": 0.405,
+      "now": 0.9955,
+      "delta": 0.5905,
+      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "UEL"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 272607.49,
-      "liquidity": 510630.57
+      "volume24hr": 100.0,
+      "liquidity": 1747.21
     },
     {
-      "market": "Will Mj\u00e4llby AIF vs. FC Red Bull Salzburg end in a draw?",
-      "prev": 0.745,
-      "now": 0.0005,
-      "delta": -0.7445,
-      "url": "https://polymarket.com/event/uel-ma-rbs-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 25240.11,
-      "liquidity": 103011.31
-    },
-    {
-      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: O/U 3.5",
-      "prev": 0.475,
-      "now": 0.9995,
-      "delta": 0.5245,
-      "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 14736.89,
-      "liquidity": 159915.6
-    },
-    {
-      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: SK Iberia 1999 O/U 1.5",
-      "prev": 0.5035,
-      "now": 0.0005,
-      "delta": -0.503,
-      "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 341.05,
-      "liquidity": 14842.26
-    },
-    {
-      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: SK Iberia 1999 O/U 2.5",
-      "prev": 0.5005,
-      "now": 0.0005,
+      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 1st 5 Innings Spread: Cleveland Guardians (-1.5)",
+      "prev": 0.805,
+      "now": 0.305,
       "delta": -0.5,
-      "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
+      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "UEL"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 2938.04,
-      "liquidity": 15218.39
+      "volume24hr": 135.36,
+      "liquidity": 3.65
     },
     {
-      "market": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula \u2014 Anisimova vs. Pegula: Set 1 Games O/U 9.5",
+      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Sakamoto vs. Assche: Set 1 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-anisimo-pegula-2026-08-21",
+      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 642550.28,
-      "liquidity": 8174.1
+      "volume24hr": 132068.44,
+      "liquidity": 7189.61
     },
     {
-      "market": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula \u2014 Anisimova vs. Pegula: Set 1 Games O/U 10.5",
+      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Sakamoto vs. Assche: Set 1 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-anisimo-pegula-2026-08-21",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 642550.28,
-      "liquidity": 8184.66
+      "volume24hr": 132068.44,
+      "liquidity": 7228.06
     },
     {
-      "market": "Mj\u00e4llby AIF vs. FC Red Bull Salzburg - More Markets \u2014 Mj\u00e4llby AIF vs. FC Red Bull Salzburg: Mj\u00e4llby AIF O/U 1.5",
+      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Sakamoto vs. Assche: Set 1 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/uel-ma-rbs-2026-08-20-more-markets",
+      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 132068.44,
+      "liquidity": 7243.61
+    },
+    {
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 1st 5 Innings Spread: St. Louis Cardinals (-1.5)",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "UEL"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 546.73,
-      "liquidity": 14432.26
+      "volume24hr": 1373.29,
+      "liquidity": 1819.4
     },
     {
-      "market": "Quebec City: Jesper de Jong vs Nicolai Budkov Kjaer \u2014 Quebec City: Completed Match: Jesper de Jong vs Nicolai Budkov Kjaer",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 1st 5 Innings Spread: Cincinnati Reds (-1.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-jong-kjaer-2026-08-20",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 100411.18,
-      "liquidity": 1989.8
+      "volume24hr": 39.26,
+      "liquidity": 2010.39
     },
     {
-      "market": "Quebec City: Jesper de Jong vs Nicolai Budkov Kjaer \u2014 Jong vs. Kjaer: Match O/U 21.5",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-jong-kjaer-2026-08-20",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 144.5,
-      "liquidity": 6681.75
+      "volume24hr": 15.0,
+      "liquidity": 2082.44
+    },
+    {
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: 1st 5 Innings O/U 6.5",
+      "prev": 0.495,
+      "now": 0.0045,
+      "delta": -0.4905,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 48.78,
+      "liquidity": 1725.92
     }
   ],
   "log": [
-    {
-      "ts": "10:45:01",
-      "text": " poll complete \u2014 1775 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:00:02",
       "text": " poll complete \u2014 1766 markets scanned, 10 flagged"
@@ -268,6 +264,10 @@
     {
       "ts": "18:00:02",
       "text": " poll complete \u2014 2071 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:15:01",
+      "text": " poll complete \u2014 2049 markets scanned, 10 flagged"
     }
   ]
 }
