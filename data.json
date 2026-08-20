@@ -1,157 +1,152 @@
 {
-  "lastUpdate": "2026-08-20 03:15:02 UTC",
+  "lastUpdate": "2026-08-20 03:30:01 UTC",
   "swings": [
     {
-      "market": "Los Angeles Angels vs. Houston Astros: O/U 6.5",
-      "prev": 0.59,
-      "now": 0.0045,
-      "delta": -0.5855,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-19",
+      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Set 1 Winner: Sabalenka vs Bejlek",
+      "prev": 0.915,
+      "now": 0.0005,
+      "delta": -0.9145,
+      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 353.66,
-      "liquidity": 3221.74
+      "volume24hr": 16180.67,
+      "liquidity": 132347.91
     },
     {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 8.5",
-      "prev": 0.485,
-      "now": 0.9945,
-      "delta": 0.5095,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-19",
+      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Set Handicap: Sabalenka (-1.5) vs Bejlek (+1.5)",
+      "prev": 0.755,
+      "now": 0.05,
+      "delta": -0.705,
+      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 1829.46,
-      "liquidity": 248.69
+      "volume24hr": 5682.44,
+      "liquidity": 84.67
     },
     {
-      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: O/U 3.5",
-      "prev": 0.505,
-      "now": 0.005,
+      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: 1st Half O/U 0.5",
+      "prev": 0.71,
+      "now": 0.21,
       "delta": -0.5,
-      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 148513.87,
-      "liquidity": 122359.76
+      "volume24hr": 1449.82,
+      "liquidity": 6788.05
     },
     {
-      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 2 Games O/U 8.5",
+      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Sabalenka vs. Bejlek: Set 1 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
+      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 526637.35,
-      "liquidity": 3645.38
+      "volume24hr": 23.81,
+      "liquidity": 7932.98
     },
     {
-      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
+      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: San Jose Earthquakes 1st Half O/U 1.5",
+      "prev": 0.51,
+      "now": 0.0125,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 526637.35,
-      "liquidity": 3649.18
+      "volume24hr": 361.21,
+      "liquidity": 339.18
     },
     {
-      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
+      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: Los Angeles Galaxy 1st Half O/U 1.5",
+      "prev": 0.52,
+      "now": 0.023,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 385.01,
-      "liquidity": 6776.35
+      "volume24hr": 4.55,
+      "liquidity": 340.0
     },
     {
-      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 526637.35,
-      "liquidity": 3680.1
-    },
-    {
-      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Cincinnati Open: Completed Match: Frances Tiafoe vs Felix Auger-Aliassime",
-      "prev": 0.5,
-      "now": 0.995,
+      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Aryna Sabalenka vs. Sara Bejlek: Total Sets O/U 2.5",
+      "prev": 0.26,
+      "now": 0.755,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
+      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 526637.35,
-      "liquidity": 1606.87
+      "volume24hr": 688.09,
+      "liquidity": 267.76
     },
     {
-      "market": "Will the game go to extra innings?: Los Angeles Angels vs. Houston Astros",
-      "prev": 0.5,
-      "now": 0.005,
+      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: San Jose Earthquakes 1st Half O/U 0.5",
+      "prev": 0.62,
+      "now": 0.125,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 273284.59,
-      "liquidity": 1070.33
-    },
-    {
-      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 202397.97,
-      "liquidity": 2863.67
+      "volume24hr": 348.07,
+      "liquidity": 682.98
+    },
+    {
+      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Sabalenka vs. Bejlek: Set 1 Games O/U 9.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 251549.01,
+      "liquidity": 8269.03
+    },
+    {
+      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Sabalenka vs. Bejlek: Set 1 Games O/U 10.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 25.0,
+      "liquidity": 8277.36
     }
   ],
   "log": [
-    {
-      "ts": "20:00:01",
-      "text": " poll complete \u2014 1977 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
@@ -267,6 +262,10 @@
     {
       "ts": "03:15:02",
       "text": " poll complete \u2014 1784 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:30:01",
+      "text": " poll complete \u2014 1714 markets scanned, 10 flagged"
     }
   ]
 }
