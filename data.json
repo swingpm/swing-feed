@@ -1,162 +1,157 @@
 {
-  "lastUpdate": "2026-08-20 20:45:02 UTC",
+  "lastUpdate": "2026-08-20 21:00:01 UTC",
   "swings": [
     {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 4.5",
-      "prev": 0.505,
-      "now": 0.004,
-      "delta": -0.501,
-      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s \u2014 Will Rayo Vallecano de Madrid win on 2026-08-20?",
+      "prev": 0.76,
+      "now": 0.045,
+      "delta": -0.715,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 1374.56,
-      "liquidity": 7522.26
+      "volume24hr": 1828983.43,
+      "liquidity": 145838.15
     },
     {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 3.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Deportivo Alav\u00e9s O/U 0.5",
+      "prev": 0.285,
+      "now": 0.9995,
+      "delta": 0.7145,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 166.09,
-      "liquidity": 6105.42
+      "volume24hr": 850.18,
+      "liquidity": 8856.6
     },
     {
-      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Both Teams to Score",
+      "prev": 0.295,
+      "now": 0.9995,
+      "delta": 0.7045,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 28062.72,
+      "liquidity": 129377.07
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - Exact Score \u2014 Exact Score: Rayo Vallecano de Madrid 1 - 1 Deportivo Alav\u00e9s?",
+      "prev": 0.2,
+      "now": 0.84,
+      "delta": 0.64,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 7307.94,
+      "liquidity": 118.11
+    },
+    {
+      "market": "Will Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s end in a draw?",
+      "prev": 0.195,
+      "now": 0.825,
+      "delta": 0.63,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 79753.83,
+      "liquidity": 118343.62
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: O/U 1.5",
+      "prev": 0.455,
+      "now": 0.9995,
+      "delta": 0.5445,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 88307.34,
+      "liquidity": 208783.65
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - Exact Score \u2014 Exact Score: Rayo Vallecano de Madrid 1 - 0 Deportivo Alav\u00e9s?",
+      "prev": 0.54,
+      "now": 0.0005,
+      "delta": -0.5395,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 6467.09,
+      "liquidity": 121945.06
+    },
+    {
+      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: O/U 4.5",
+      "prev": 0.535,
+      "now": 0.005,
+      "delta": -0.53,
+      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 30339.99,
+      "liquidity": 131272.31
+    },
+    {
+      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 113668.14,
-      "liquidity": 311.52
+      "volume24hr": 845407.65,
+      "liquidity": 3201.33
     },
     {
-      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Both Teams Slay a Dragon?",
+      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 113668.14,
-      "liquidity": 311.52
-    },
-    {
-      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 113668.14,
-      "liquidity": 311.52
-    },
-    {
-      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 113668.14,
-      "liquidity": 311.52
-    },
-    {
-      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 113668.14,
-      "liquidity": 311.52
-    },
-    {
-      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 113668.14,
-      "liquidity": 311.52
-    },
-    {
-      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 113668.14,
-      "liquidity": 311.52
-    },
-    {
-      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 113668.14,
-      "liquidity": 311.52
+      "volume24hr": 359734.94,
+      "liquidity": 2884.51
     }
   ],
   "log": [
-    {
-      "ts": "13:30:01",
-      "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:45:01",
       "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
@@ -272,6 +267,10 @@
     {
       "ts": "20:45:02",
       "text": " poll complete \u2014 2128 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:00:01",
+      "text": " poll complete \u2014 2066 markets scanned, 10 flagged"
     }
   ]
 }
