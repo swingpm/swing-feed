@@ -1,162 +1,148 @@
 {
-  "lastUpdate": "2026-08-20 06:15:01 UTC",
+  "lastUpdate": "2026-08-20 06:30:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
-      "prev": 0.7,
-      "now": 0.25,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 928.81,
-      "liquidity": 565.86
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 First Blood in Game 1?",
-      "prev": 0.545,
-      "now": 0.95,
-      "delta": 0.405,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 75.88,
-      "liquidity": 210.24
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Both Teams Beat Roshan?",
-      "prev": 0.65,
-      "now": 0.335,
-      "delta": -0.315,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 706012.47,
-      "liquidity": 2.34
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 ITF W15 Tianjin 3 Women: Completed Match: Dabin Kim vs Meng Yi Chen",
       "prev": 0.5,
-      "now": 0.225,
-      "delta": -0.275,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 5.11,
-      "liquidity": 2.75
+      "volume24hr": 464.0,
+      "liquidity": 1337.84
     },
     {
-      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers - Game 2 Winner",
-      "prev": 0.27,
-      "now": 0.52,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Set 2 Winner: Kim vs Chen",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 38513.15,
-      "liquidity": 73154.81
+      "volume24hr": 73674.26,
+      "liquidity": 1414.67
     },
     {
-      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: KRX.C (-1.5) vs HANJIN BRION Challengers (+1.5)",
-      "prev": 0.73,
-      "now": 0.48,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Set Handicap: Chen (-1.5) vs Kim (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 1992.14,
-      "liquidity": 1443.02
+      "volume24hr": 73674.26,
+      "liquidity": 2123.82
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
-      "prev": 0.255,
-      "now": 0.5,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 77.89,
-      "liquidity": 805885.38
+      "volume24hr": 73674.26,
+      "liquidity": 1062.14
     },
     {
-      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Games Total: O/U 2.5",
-      "prev": 0.285,
-      "now": 0.53,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Dabin Kim vs. Meng Yi Chen: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 6261.03,
-      "liquidity": 11056.16
+      "volume24hr": 73674.26,
+      "liquidity": 1487.17
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 73674.26,
+      "liquidity": 1469.53
+    },
+    {
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 73674.26,
+      "liquidity": 1491.97
+    },
+    {
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 73674.26,
+      "liquidity": 1474.33
+    },
+    {
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 73674.26,
+      "liquidity": 1469.53
+    },
+    {
+      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Set 2 Games O/U 8.5",
       "prev": 0.505,
-      "now": 0.29,
-      "delta": -0.215,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "now": 0.9955,
+      "delta": 0.4905,
+      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 706012.47,
-      "liquidity": 2.1
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.5,
-      "now": 0.29,
-      "delta": -0.21,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 706012.47,
-      "liquidity": 2.1
+      "volume24hr": 73674.26,
+      "liquidity": 1063.14
     }
   ],
   "log": [
-    {
-      "ts": "23:00:01",
-      "text": " poll complete \u2014 1927 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:15:02",
       "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
@@ -272,6 +258,10 @@
     {
       "ts": "06:15:01",
       "text": " poll complete \u2014 1685 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:30:01",
+      "text": " poll complete \u2014 1695 markets scanned, 10 flagged"
     }
   ]
 }
