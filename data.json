@@ -1,11 +1,68 @@
 {
-  "lastUpdate": "2026-08-20 04:00:01 UTC",
+  "lastUpdate": "2026-08-20 04:15:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Dota 2: Iron Wing vs Team Spirit - Game 1 Winner",
-      "prev": 0.685,
-      "now": 0.125,
-      "delta": -0.56,
+      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Aryna Sabalenka vs. Sara Bejlek: Total Sets O/U 2.5",
+      "prev": 0.906,
+      "now": 0.0005,
+      "delta": -0.9055,
+      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1257.26,
+      "liquidity": 15781.67
+    },
+    {
+      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Set 2 Winner: Sabalenka vs Bejlek",
+      "prev": 0.895,
+      "now": 0.0005,
+      "delta": -0.8945,
+      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2779.93,
+      "liquidity": 29688.37
+    },
+    {
+      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
+      "prev": 0.735,
+      "now": 0.005,
+      "delta": -0.73,
+      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 468238.19,
+      "liquidity": 296024.28
+    },
+    {
+      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 10.5",
+      "prev": 0.635,
+      "now": 0.0005,
+      "delta": -0.6345,
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 18239.5,
+      "liquidity": 51086.42
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 75.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
         "Esports",
@@ -13,150 +70,88 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1234915.07,
-      "liquidity": 170261.41
+      "volume24hr": 10.0,
+      "liquidity": 849.92
     },
     {
-      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Both Teams to Score in Second Half",
+      "market": "What price will Ethereum hit on August 19? \u2014 Will Ethereum dip to $1,800 on August 19?",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-19-2026",
       "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Ethereum",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
       ],
-      "volume24hr": 109227.99,
-      "liquidity": 4562.52
+      "volume24hr": 5.0,
+      "liquidity": 61844.21
     },
     {
-      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: 2nd Half O/U 1.5",
+      "market": "Cancun: Alan Magadan vs Alex Hernandez \u2014 Set Handicap: Magadan (-1.5) vs Hernandez (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/atp-magadan-hernand-2026-08-19",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
+        "Games"
       ],
-      "volume24hr": 109227.99,
-      "liquidity": 4585.43
+      "volume24hr": 112.99,
+      "liquidity": 5457.75
     },
     {
-      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: 2nd Half O/U 2.5",
+      "market": "Cancun: Alan Magadan vs Alex Hernandez \u2014 Set Handicap: Hernandez (-1.5) vs Magadan (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/atp-magadan-hernand-2026-08-19",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
+        "Games"
       ],
-      "volume24hr": 109227.99,
-      "liquidity": 4567.41
+      "volume24hr": 144.44,
+      "liquidity": 5432.98
     },
     {
-      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Colorado Rapids SC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 8.51,
-      "liquidity": 4562.42
-    },
-    {
-      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Colorado Rapids SC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 109227.99,
-      "liquidity": 4562.42
-    },
-    {
-      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Los Angeles FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 109227.99,
-      "liquidity": 4571.32
-    },
-    {
-      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Los Angeles FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 109227.99,
-      "liquidity": 4549.21
-    },
-    {
-      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 109227.99,
-      "liquidity": 4506.47
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 1?",
+      "market": "Minnesota Lynx vs. Golden State Valkyries \u2014 Natasha Howard: Assists O/U 2.5",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "url": "https://polymarket.com/event/wnba-min-gsv-2026-08-19",
       "tags": [
-        "Esports",
-        "Dota 2",
+        "Sports",
         "Games",
-        "Sports"
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 1640966.51,
-      "liquidity": 62.48
+      "volume24hr": 44.94,
+      "liquidity": 30.56
+    },
+    {
+      "market": "Minnesota Lynx vs. Golden State Valkyries \u2014 Olivia Miles: Points O/U 19.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-min-gsv-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 536074.52,
+      "liquidity": 406.94
     }
   ],
   "log": [
-    {
-      "ts": "20:45:01",
-      "text": " poll complete \u2014 1926 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:00:01",
       "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
@@ -272,6 +267,10 @@
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1733 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:15:01",
+      "text": " poll complete \u2014 1749 markets scanned, 10 flagged"
     }
   ]
 }
