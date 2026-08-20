@@ -1,145 +1,26 @@
 {
-  "lastUpdate": "2026-08-20 01:15:02 UTC",
+  "lastUpdate": "2026-08-20 01:30:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Nuno Borges vs Brandon Nakashima \u2014 Cincinnati Open: Completed Match: Nuno Borges vs Brandon Nakashima",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-borges-nakashi-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1064892.23,
-      "liquidity": 2174.88
-    },
-    {
-      "market": "San Francisco Giants vs. Cleveland Guardians: O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-19",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: Cincinnati Reds (-2.5)",
+      "prev": 0.11,
+      "now": 0.795,
+      "delta": 0.685,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 41.94,
-      "liquidity": 3833.3
+      "volume24hr": 5038.51,
+      "liquidity": 47539.26
     },
     {
-      "market": "San Francisco Giants vs. Cleveland Guardians: O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 621998.05,
-      "liquidity": 1591.06
-    },
-    {
-      "market": "Toronto Tempo vs. Washington Mystics \u2014 Sonia Citron: Rebounds O/U 3.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wnba-tor-wsh-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 593437.46,
-      "liquidity": 100.0
-    },
-    {
-      "market": "Philadelphia Union vs. Inter Miami CF - More Markets \u2014 Philadelphia Union vs. Inter Miami CF: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mls-phi-mia-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 338452.61,
-      "liquidity": 684.55
-    },
-    {
-      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 1st 5 Innings Spread: Milwaukee Brewers (-1.5)",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 738.56
-    },
-    {
-      "market": "Will the game go to extra innings?: San Francisco Giants vs. Cleveland Guardians",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 621998.05,
-      "liquidity": 47.38
-    },
-    {
-      "market": "San Francisco Giants vs. Cleveland Guardians: O/U 3.5",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 262.63,
-      "liquidity": 3115.12
-    },
-    {
-      "market": "Philadelphia Union vs. Inter Miami CF - More Markets \u2014 Philadelphia Union vs. Inter Miami CF: Philadelphia Union 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mls-phi-mia-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 338452.61,
-      "liquidity": 683.99
-    },
-    {
-      "market": "Toronto FC vs. Charlotte FC - More Markets \u2014 Toronto FC vs. Charlotte FC: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "market": "Toronto FC vs. Charlotte FC - More Markets \u2014 Toronto FC vs. Charlotte FC: Toronto FC O/U 1.5",
+      "prev": 0.315,
+      "now": 0.9955,
+      "delta": 0.6805,
       "url": "https://polymarket.com/event/mls-tor-clt-2026-08-19-more-markets",
       "tags": [
         "Sports",
@@ -147,15 +28,130 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 92175.63,
-      "liquidity": 663.69
+      "volume24hr": 706.97,
+      "liquidity": 3481.2
+    },
+    {
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: Cincinnati Reds (-1.5)",
+      "prev": 0.24,
+      "now": 0.92,
+      "delta": 0.68,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 56375.61,
+      "liquidity": 65235.73
+    },
+    {
+      "market": "Columbus Crew vs. CF Montr\u00e9al \u2014 Will CF Montr\u00e9al win on 2026-08-19?",
+      "prev": 0.185,
+      "now": 0.775,
+      "delta": 0.59,
+      "url": "https://polymarket.com/event/mls-clb-mim-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 30130.72,
+      "liquidity": 106569.05
+    },
+    {
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays: O/U 13.5",
+      "prev": 0.57,
+      "now": 0.0005,
+      "delta": -0.5695,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 296.0,
+      "liquidity": 4670.47
+    },
+    {
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 5.5",
+      "prev": 0.455,
+      "now": 0.9995,
+      "delta": 0.5445,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 640.72,
+      "liquidity": 11414.51
+    },
+    {
+      "market": "Toronto FC vs. Charlotte FC - More Markets \u2014 Spread: Charlotte FC (-1.5)",
+      "prev": 0.81,
+      "now": 0.29,
+      "delta": -0.52,
+      "url": "https://polymarket.com/event/mls-tor-clt-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 3282.32,
+      "liquidity": 3710.52
+    },
+    {
+      "market": "CR Flamengo vs. Cruzeiro EC - More Markets \u2014 CR Flamengo vs. Cruzeiro EC: Both Teams to Score in First Half",
+      "prev": 0.52,
+      "now": 0.0045,
+      "delta": -0.5155,
+      "url": "https://polymarket.com/event/lib-fla-cru-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 2.0,
+      "liquidity": 3977.63
+    },
+    {
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays: O/U 15.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 4833.93,
+      "liquidity": 28305.78
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 413816.53,
+      "liquidity": 9217.07
     }
   ],
   "log": [
-    {
-      "ts": "18:00:01",
-      "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:15:02",
       "text": " poll complete \u2014 1968 markets scanned, 10 flagged"
@@ -271,6 +267,10 @@
     {
       "ts": "01:15:02",
       "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:30:02",
+      "text": " poll complete \u2014 1959 markets scanned, 10 flagged"
     }
   ]
 }
