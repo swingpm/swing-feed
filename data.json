@@ -1,41 +1,26 @@
 {
-  "lastUpdate": "2026-08-20 16:15:01 UTC",
+  "lastUpdate": "2026-08-20 16:30:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
+      "market": "Counter-Strike: mellren vs Bushido Wildcats (BO3) - CCT Europe Challengers Series Playoffs",
+      "prev": 0.425,
+      "now": 0.92,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/cs2-mellre-bw-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 188972.2,
-      "liquidity": 374.22
+      "volume24hr": 66175.54,
+      "liquidity": 118739.67
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 40.5 in Game 2?",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 811.8
-    },
-    {
-      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK O/U 2.5",
-      "prev": 0.005,
-      "now": 0.475,
-      "delta": 0.47,
+      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK O/U 0.5",
+      "prev": 0.61,
+      "now": 0.205,
+      "delta": -0.405,
       "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
       "tags": [
         "Sports",
@@ -43,120 +28,131 @@
         "Soccer",
         "UEL"
       ],
-      "volume24hr": 104.16,
-      "liquidity": 181.77
+      "volume24hr": 421.17,
+      "liquidity": 826.6
     },
     {
-      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Total Rounds: Over/Under 24.5",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 230884.9,
+      "volume24hr": 209692.55,
       "liquidity": 141.62
     },
     {
-      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Rounds Handicap: OG (-3.5) vs SPARTA (+3.5)",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 230884.9,
+      "volume24hr": 209692.55,
       "liquidity": 141.62
     },
     {
-      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 230884.9,
-      "liquidity": 141.62
-    },
-    {
-      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Rounds Handicap: OG (-6.5) vs SPARTA (+6.5)",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 230884.9,
+      "volume24hr": 209692.55,
       "liquidity": 141.62
     },
     {
-      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Total Rounds: Over/Under 18.5",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 230884.9,
+      "volume24hr": 209692.55,
       "liquidity": 141.62
     },
     {
-      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Odd/Even Total Kills?",
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Rounds Handicap: OG (-9.5) vs SPARTA (+9.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 230884.9,
+      "volume24hr": 209692.55,
       "liquidity": 141.62
     },
     {
-      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Total Rounds: Over/Under 15.5",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 230884.9,
+      "volume24hr": 209692.55,
       "liquidity": 141.62
+    },
+    {
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Rounds Handicap: OG (-12.5) vs SPARTA (+12.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 209692.55,
+      "liquidity": 141.62
+    },
+    {
+      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK O/U 1.5",
+      "prev": 0.1155,
+      "now": 0.5,
+      "delta": 0.3845,
+      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 431.93,
+      "liquidity": 0.02
     }
   ],
   "log": [
-    {
-      "ts": "09:00:02",
-      "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:15:01",
       "text": " poll complete \u2014 1698 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "16:15:01",
       "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:30:01",
+      "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
     }
   ]
 }
