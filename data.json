@@ -1,166 +1,158 @@
 {
-  "lastUpdate": "2026-08-20 05:15:01 UTC",
+  "lastUpdate": "2026-08-20 05:30:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Shanghai on August 20? \u2014 Will the highest temperature in Shanghai be 31\u00b0C on August 20?",
-      "prev": 0.81,
-      "now": 0.0005,
-      "delta": -0.8095,
-      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Shanghai",
-        "Highest temperature"
-      ],
-      "volume24hr": 13342.87,
-      "liquidity": 26925.03
-    },
-    {
-      "market": "Highest temperature in Shanghai on August 20? \u2014 Will the highest temperature in Shanghai be 32\u00b0C on August 20?",
-      "prev": 0.19,
-      "now": 0.965,
-      "delta": 0.775,
-      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Shanghai",
-        "Highest temperature"
-      ],
-      "volume24hr": 8990.59,
-      "liquidity": 356.03
-    },
-    {
-      "market": "Minnesota Lynx vs. Golden State Valkyries \u2014 Napheesa Collier: Rebounds O/U 7.5",
-      "prev": 0.505,
-      "now": 0.9,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/wnba-min-gsv-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 82.49,
-      "liquidity": 148.67
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.505,
-      "now": 0.23,
-      "delta": -0.275,
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 483.0,
-      "liquidity": 3.75
-    },
-    {
       "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
-      "prev": 0.75,
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 216.18,
+      "liquidity": 811.39
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 869.2
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 784.55
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 70.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 977.59
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 75.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 768.7
+    },
+    {
+      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.025,
       "now": 0.5,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 121.33,
-      "liquidity": 0.1
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Dota 2: Iron Wing vs Team Spirit - Game 2 Winner",
-      "prev": 0.285,
-      "now": 0.0425,
-      "delta": -0.2425,
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1431763.61,
-      "liquidity": 205094.02
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game Handicap: TS (-1.5) vs Iron Wing (+1.5)",
-      "prev": 0.72,
-      "now": 0.9595,
-      "delta": 0.2395,
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 122.7,
-      "liquidity": 4.66
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.505,
-      "now": 0.295,
-      "delta": -0.21,
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3784524.16,
-      "liquidity": 4.1
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.245,
-      "now": 0.04,
-      "delta": -0.205,
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 16571.29,
-      "liquidity": 134661.08
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.29,
-      "now": 0.495,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "delta": 0.475,
+      "url": "https://polymarket.com/event/lol-jdg-tt-2026-08-20",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 128224.78,
-      "liquidity": 0.69
+      "volume24hr": 48735.1,
+      "liquidity": 2.01
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Ends in Daytime?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4124642.36,
+      "liquidity": 148.67
+    },
+    {
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers - Game 1 Winner",
+      "prev": 0.455,
+      "now": 0.065,
+      "delta": -0.39,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 59882.13,
+      "liquidity": 159616.52
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
+      "prev": 0.325,
+      "now": 0.0095,
+      "delta": -0.3155,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 48.38,
+      "liquidity": 803.57
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.295,
+      "now": 0.005,
+      "delta": -0.29,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4124642.36,
+      "liquidity": 756.37
     }
   ],
   "log": [
-    {
-      "ts": "22:00:01",
-      "text": " poll complete \u2014 1884 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1851 markets scanned, 10 flagged"
@@ -276,6 +268,10 @@
     {
       "ts": "05:15:01",
       "text": " poll complete \u2014 1686 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:30:01",
+      "text": " poll complete \u2014 1670 markets scanned, 10 flagged"
     }
   ]
 }
