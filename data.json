@@ -1,146 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 01:45:02 UTC",
+  "lastUpdate": "2026-08-20 02:00:01 UTC",
   "swings": [
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: Cincinnati Reds (-1.5)",
-      "prev": 0.92,
+      "market": "Toronto FC vs. Charlotte FC - More Markets \u2014 Toronto FC vs. Charlotte FC: Charlotte FC 2nd Half O/U 1.5",
+      "prev": 0.655,
       "now": 0.0005,
-      "delta": -0.9195,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 56556.77,
-      "liquidity": 133314.01
-    },
-    {
-      "market": "FC Cincinnati vs. New York City FC \u2014 Will FC Cincinnati win on 2026-08-19?",
-      "prev": 0.195,
-      "now": 0.9995,
-      "delta": 0.8045,
-      "url": "https://polymarket.com/event/mls-fcc-nyc-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 1435232.98,
-      "liquidity": 646426.38
-    },
-    {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: Cincinnati Reds (-2.5)",
-      "prev": 0.795,
-      "now": 0.0005,
-      "delta": -0.7945,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6831.86,
-      "liquidity": 114526.41
-    },
-    {
-      "market": "New York Red Bulls vs. Nashville SC - More Markets \u2014 New York Red Bulls vs. Nashville SC: Nashville SC O/U 0.5",
-      "prev": 0.215,
-      "now": 0.9995,
-      "delta": 0.7845,
-      "url": "https://polymarket.com/event/mls-nyr-nas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 1125.1,
-      "liquidity": 16645.68
-    },
-    {
-      "market": "FC Cincinnati vs. New York City FC - More Markets \u2014 FC Cincinnati vs. New York City FC: FC Cincinnati O/U 1.5",
-      "prev": 0.235,
-      "now": 0.9995,
-      "delta": 0.7645,
-      "url": "https://polymarket.com/event/mls-fcc-nyc-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 1062.24,
-      "liquidity": 23289.89
-    },
-    {
-      "market": "Will FC Cincinnati vs. New York City FC end in a draw?",
-      "prev": 0.66,
-      "now": 0.0005,
-      "delta": -0.6595,
-      "url": "https://polymarket.com/event/mls-fcc-nyc-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 17552.65,
-      "liquidity": 314846.1
-    },
-    {
-      "market": "New York Red Bulls vs. Nashville SC - More Markets \u2014 New York Red Bulls vs. Nashville SC: O/U 0.5",
-      "prev": 0.3795,
-      "now": 0.9995,
-      "delta": 0.62,
-      "url": "https://polymarket.com/event/mls-nyr-nas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 15677.11,
-      "liquidity": 137685.04
-    },
-    {
-      "market": "FC Cincinnati vs. New York City FC - More Markets \u2014 FC Cincinnati vs. New York City FC: O/U 2.5",
-      "prev": 0.39,
-      "now": 0.9995,
-      "delta": 0.6095,
-      "url": "https://polymarket.com/event/mls-fcc-nyc-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 24648.37,
-      "liquidity": 156102.05
-    },
-    {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5",
-      "prev": 0.395,
-      "now": 0.9995,
-      "delta": 0.6045,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 46095.22,
-      "liquidity": 67834.78
-    },
-    {
-      "market": "Toronto FC vs. Charlotte FC - More Markets \u2014 Toronto FC vs. Charlotte FC: Toronto FC O/U 2.5",
-      "prev": 0.405,
-      "now": 0.9995,
-      "delta": 0.5945,
+      "delta": -0.6545,
       "url": "https://polymarket.com/event/mls-tor-clt-2026-08-19-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +13,141 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 727.46,
-      "liquidity": 3204.37
+      "volume24hr": 112622.83,
+      "liquidity": 5152.76
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals: O/U 9.5",
+      "prev": 0.235,
+      "now": 0.815,
+      "delta": 0.58,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 11158.04,
+      "liquidity": 2977.11
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Match O/U 22.5",
+      "prev": 0.575,
+      "now": 0.005,
+      "delta": -0.57,
+      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2367.86,
+      "liquidity": 21529.42
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals \u2014 Spread: Athletics (-2.5)",
+      "prev": 0.615,
+      "now": 0.05,
+      "delta": -0.565,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 12490.97,
+      "liquidity": 5089.06
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals: O/U 8.5",
+      "prev": 0.445,
+      "now": 0.995,
+      "delta": 0.55,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 50898.81,
+      "liquidity": 97738.35
+    },
+    {
+      "market": "New York Red Bulls vs. Nashville SC - More Markets \u2014 New York Red Bulls vs. Nashville SC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/mls-nyr-nas-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 201378.51,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1583.22,
+      "liquidity": 12617.54
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 439004.98,
+      "liquidity": 5024.96
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 439004.98,
+      "liquidity": 5022.87
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 439004.98,
+      "liquidity": 5004.89
     }
   ],
   "log": [
-    {
-      "ts": "18:30:02",
-      "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
@@ -272,6 +263,10 @@
     {
       "ts": "01:45:02",
       "text": " poll complete \u2014 1898 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:00:01",
+      "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
     }
   ]
 }
