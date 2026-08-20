@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-20 05:45:01 UTC",
+  "lastUpdate": "2026-08-20 06:00:02 UTC",
   "swings": [
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.08,
-      "now": 0.545,
-      "delta": 0.465,
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Dplus KIA Challengers vs DN SOOPers Challengers - Game 1 Winner",
+      "prev": 0.58,
+      "now": 0.9995,
+      "delta": 0.4195,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 41754.41,
+      "liquidity": 327121.31
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
+      "prev": 0.23,
+      "now": 0.5,
+      "delta": 0.27,
       "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -13,14 +28,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 461733.26,
-      "liquidity": 3.44
+      "volume24hr": 5.11,
+      "liquidity": 0.1
+    },
+    {
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.06,
+      "now": 0.32,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 233891.49,
+      "liquidity": 38.14
     },
     {
       "market": "Highest temperature in Hong Kong on August 20? \u2014 Will the highest temperature in Hong Kong be 29\u00b0C on August 20?",
-      "prev": 0.165,
-      "now": 0.515,
-      "delta": 0.35,
+      "prev": 0.515,
+      "now": 0.755,
+      "delta": 0.24,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-20-2026",
       "tags": [
         "Weather",
@@ -30,26 +60,43 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 44746.73,
-      "liquidity": 1314.6
+      "volume24hr": 46546.5,
+      "liquidity": 1192.66
     },
     {
-      "market": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.665,
-      "now": 0.44,
-      "delta": -0.225,
-      "url": "https://polymarket.com/event/cs2-fal2-mglz-2026-08-20",
+      "market": "Highest temperature in Hong Kong on August 20? \u2014 Will the highest temperature in Hong Kong be 30\u00b0C on August 20?",
+      "prev": 0.435,
+      "now": 0.2,
+      "delta": -0.235,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-20-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 15058.3,
+      "liquidity": 526.39
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
+      "prev": 0.3,
+      "now": 0.505,
+      "delta": 0.205,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4.18,
-      "liquidity": 281.89
+      "volume24hr": 579492.17,
+      "liquidity": 2.1
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Any Player Ultra Kill?",
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
       "prev": 0.295,
       "now": 0.5,
       "delta": 0.205,
@@ -60,14 +107,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 461733.26,
-      "liquidity": 0.06
+      "volume24hr": 579492.17,
+      "liquidity": 0.1
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Dplus KIA Challengers vs DN SOOPers Challengers - Game 1 Winner",
-      "prev": 0.38,
-      "now": 0.58,
-      "delta": 0.2,
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prev": 0.61,
+      "now": 0.805,
+      "delta": 0.195,
       "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
       "tags": [
         "Esports",
@@ -75,14 +122,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 16091.11,
-      "liquidity": 67606.48
+      "volume24hr": 151177.69,
+      "liquidity": 150786.95
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
-      "prev": 0.505,
-      "now": 0.695,
-      "delta": 0.19,
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Games Total: O/U 2.5",
+      "prev": 0.59,
+      "now": 0.395,
+      "delta": -0.195,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3698.01,
+      "liquidity": 2139.32
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
+      "prev": 0.315,
+      "now": 0.5,
+      "delta": 0.185,
       "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -90,79 +152,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 928.81,
-      "liquidity": 11.33
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 20? \u2014 Will the highest temperature in Hong Kong be 30\u00b0C on August 20?",
-      "prev": 0.62,
-      "now": 0.435,
-      "delta": -0.185,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 14614.64,
-      "liquidity": 543.29
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game Handicap: DK.C (-1.5) vs DN SOOPers Challengers (+1.5)",
-      "prev": 0.26,
-      "now": 0.43,
-      "delta": 0.17,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4316.08,
-      "liquidity": 5900.85
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 20? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 20?",
-      "prev": 0.205,
-      "now": 0.06,
-      "delta": -0.145,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 16002.48,
-      "liquidity": 1930.96
-    },
-    {
-      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.655,
-      "now": 0.76,
-      "delta": 0.105,
-      "url": "https://polymarket.com/event/lol-jdg-tt-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 48776.76,
-      "liquidity": 62.82
+      "volume24hr": 579492.17,
+      "liquidity": 0.1
     }
   ],
   "log": [
-    {
-      "ts": "22:30:01",
-      "text": " poll complete \u2014 1873 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:45:01",
       "text": " poll complete \u2014 1966 markets scanned, 10 flagged"
@@ -278,6 +272,10 @@
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1675 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:00:02",
+      "text": " poll complete \u2014 1706 markets scanned, 10 flagged"
     }
   ]
 }
