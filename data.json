@@ -1,86 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 07:15:02 UTC",
+  "lastUpdate": "2026-08-20 07:30:02 UTC",
   "swings": [
     {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.55,
-      "now": 0.05,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 239797.06,
-      "liquidity": 830.95
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Quadra Kill?",
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 239797.06,
-      "liquidity": 802.26
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4.44,
-      "liquidity": 802.26
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 239797.06,
-      "liquidity": 816.26
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 239797.06,
-      "liquidity": 802.26
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
-      "prev": 0.355,
-      "now": 0.78,
-      "delta": 0.425,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -88,75 +13,157 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1410212.15,
-      "liquidity": 171363.4
+      "volume24hr": 2397380.15,
+      "liquidity": 125.75
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: BB (-1.5) vs TEAM VISION (+1.5)",
+      "prev": 0.25,
+      "now": 0.0045,
+      "delta": -0.2455,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4.04,
+      "liquidity": 5890.47
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
+      "prev": 0.78,
+      "now": 0.976,
+      "delta": 0.196,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1630200.03,
+      "liquidity": 222531.15
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.475,
+      "now": 0.325,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 20943.29,
+      "liquidity": 28109.29
+    },
+    {
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+      "prev": 0.705,
+      "now": 0.845,
+      "delta": 0.14,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 239797.06,
-      "liquidity": 148.67
+      "volume24hr": 153656.0,
+      "liquidity": 161763.19
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: VSN (-1.5) vs BoomBoys (+1.5)",
+      "prev": 0.565,
+      "now": 0.675,
+      "delta": 0.11,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 239797.06,
-      "liquidity": 148.67
+      "volume24hr": 124959.29,
+      "liquidity": 14596.98
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "market": "Bitcoin above ___ on August 20? \u2014 Will the price of Bitcoin be above $70,000 on August 20?",
+      "prev": 0.47,
+      "now": 0.3695,
+      "delta": -0.1005,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-20-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 239797.06,
-      "liquidity": 148.67
+      "volume24hr": 201240.84,
+      "liquidity": 27744.35
     },
     {
-      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "market": "Bitcoin price on August 20? \u2014 Will the price of Bitcoin be between $70,000 and $72,000 on August 20?",
+      "prev": 0.4345,
+      "now": 0.336,
+      "delta": -0.0985,
+      "url": "https://polymarket.com/event/bitcoin-price-on-august-20-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Bitcoin",
+        "Weekly",
+        "Neg Risk",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 239797.06,
-      "liquidity": 148.67
+      "volume24hr": 8905.91,
+      "liquidity": 19906.83
+    },
+    {
+      "market": "Bitcoin price on August 20? \u2014 Will the price of Bitcoin be between $68,000 and $70,000 on August 20?",
+      "prev": 0.5055,
+      "now": 0.591,
+      "delta": 0.0855,
+      "url": "https://polymarket.com/event/bitcoin-price-on-august-20-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Neg Risk",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 11771.19,
+      "liquidity": 12317.51
+    },
+    {
+      "market": "Highest temperature in Milan on August 20? \u2014 Will the highest temperature in Milan be 28\u00b0C on August 20?",
+      "prev": 0.385,
+      "now": 0.3,
+      "delta": -0.085,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-20-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
+      ],
+      "volume24hr": 6995.43,
+      "liquidity": 966.5
     }
   ],
   "log": [
-    {
-      "ts": "00:00:01",
-      "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:15:01",
       "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
@@ -272,6 +279,10 @@
     {
       "ts": "07:15:02",
       "text": " poll complete \u2014 1711 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:30:02",
+      "text": " poll complete \u2014 1688 markets scanned, 10 flagged"
     }
   ]
 }
