@@ -1,86 +1,114 @@
 {
-  "lastUpdate": "2026-08-20 17:45:01 UTC",
+  "lastUpdate": "2026-08-20 18:00:02 UTC",
   "swings": [
     {
-      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Map 3 Rounds Handicap: Team Vitality (-2.5) vs Enterprise Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
+      "market": "Mj\u00e4llby AIF vs. FC Red Bull Salzburg \u2014 Will FC Red Bull Salzburg win on 2026-08-20?",
+      "prev": 0.18,
+      "now": 0.9995,
+      "delta": 0.8195,
+      "url": "https://polymarket.com/event/uel-ma-rbs-2026-08-20",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 308502.55,
-      "liquidity": 285.56
+      "volume24hr": 272607.49,
+      "liquidity": 510630.57
     },
     {
-      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Map 3 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
+      "market": "Will Mj\u00e4llby AIF vs. FC Red Bull Salzburg end in a draw?",
+      "prev": 0.745,
+      "now": 0.0005,
+      "delta": -0.7445,
+      "url": "https://polymarket.com/event/uel-ma-rbs-2026-08-20",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 12.0,
-      "liquidity": 154.44
+      "volume24hr": 25240.11,
+      "liquidity": 103011.31
     },
     {
-      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Map 3 Total Rounds: Over/Under 20.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
+      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: O/U 3.5",
+      "prev": 0.475,
+      "now": 0.9995,
+      "delta": 0.5245,
+      "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 75.92,
-      "liquidity": 219.78
+      "volume24hr": 14736.89,
+      "liquidity": 159915.6
     },
     {
-      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Map 3 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
+      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: SK Iberia 1999 O/U 1.5",
+      "prev": 0.5035,
+      "now": 0.0005,
+      "delta": -0.503,
+      "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 308502.55,
-      "liquidity": 285.12
+      "volume24hr": 341.05,
+      "liquidity": 14842.26
     },
     {
-      "market": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs \u2014 Map Handicap: FURIA (-1.5) vs G2 (+1.5)",
-      "prev": 0.705,
-      "now": 0.225,
-      "delta": -0.48,
-      "url": "https://polymarket.com/event/cs2-g2-furia-2026-08-20",
+      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: SK Iberia 1999 O/U 2.5",
+      "prev": 0.5005,
+      "now": 0.0005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 14275.65,
-      "liquidity": 70.76
+      "volume24hr": 2938.04,
+      "liquidity": 15218.39
+    },
+    {
+      "market": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula \u2014 Anisimova vs. Pegula: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-anisimo-pegula-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 642550.28,
+      "liquidity": 8174.1
+    },
+    {
+      "market": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula \u2014 Anisimova vs. Pegula: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-anisimo-pegula-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 642550.28,
+      "liquidity": 8184.66
     },
     {
       "market": "Mj\u00e4llby AIF vs. FC Red Bull Salzburg - More Markets \u2014 Mj\u00e4llby AIF vs. FC Red Bull Salzburg: Mj\u00e4llby AIF O/U 1.5",
-      "prev": 0.02,
-      "now": 0.5,
-      "delta": 0.48,
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/uel-ma-rbs-2026-08-20-more-markets",
       "tags": [
         "Sports",
@@ -88,75 +116,39 @@
         "Soccer",
         "UEL"
       ],
-      "volume24hr": 519.49,
-      "liquidity": 0.01
+      "volume24hr": 546.73,
+      "liquidity": 14432.26
     },
     {
-      "market": "FC Nordsj\u00e6lland vs. FC St. Gallen - More Markets \u2014 FC Nordsj\u00e6lland vs. FC St. Gallen: FC St. Gallen 1st Half O/U 1.5",
-      "prev": 0.035,
-      "now": 0.5,
-      "delta": 0.465,
-      "url": "https://polymarket.com/event/col-nor-stg-2026-08-20-more-markets",
+      "market": "Quebec City: Jesper de Jong vs Nicolai Budkov Kjaer \u2014 Quebec City: Completed Match: Jesper de Jong vs Nicolai Budkov Kjaer",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-jong-kjaer-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Europa Conference League"
+        "Games"
       ],
-      "volume24hr": 14.29,
-      "liquidity": 0.01
+      "volume24hr": 100411.18,
+      "liquidity": 1989.8
     },
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds: 1st 5 Innings O/U 4.5",
-      "prev": 0.825,
-      "now": 0.375,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "market": "Quebec City: Jesper de Jong vs Nicolai Budkov Kjaer \u2014 Jong vs. Kjaer: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jong-kjaer-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 4466.91,
-      "liquidity": 797.4
-    },
-    {
-      "market": "FC Nordsj\u00e6lland vs. FC St. Gallen - More Markets \u2014 FC Nordsj\u00e6lland vs. FC St. Gallen: 1st Half O/U 1.5",
-      "prev": 0.59,
-      "now": 0.21,
-      "delta": -0.38,
-      "url": "https://polymarket.com/event/col-nor-stg-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Europa Conference League"
-      ],
-      "volume24hr": 1009.86,
-      "liquidity": 5035.01
-    },
-    {
-      "market": "FC Nordsj\u00e6lland vs. FC St. Gallen - More Markets \u2014 FC Nordsj\u00e6lland vs. FC St. Gallen: FC Nordsj\u00e6lland 1st Half O/U 1.5",
-      "prev": 0.455,
-      "now": 0.105,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/col-nor-stg-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Europa Conference League"
-      ],
-      "volume24hr": 54.3,
-      "liquidity": 577.88
+      "volume24hr": 144.5,
+      "liquidity": 6681.75
     }
   ],
   "log": [
-    {
-      "ts": "10:30:02",
-      "text": " poll complete \u2014 1797 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:45:01",
       "text": " poll complete \u2014 1775 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "17:45:01",
       "text": " poll complete \u2014 2028 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:00:02",
+      "text": " poll complete \u2014 2071 markets scanned, 10 flagged"
     }
   ]
 }
