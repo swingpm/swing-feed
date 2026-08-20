@@ -1,82 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 23:00:01 UTC",
+  "lastUpdate": "2026-08-20 23:15:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 22.5",
-      "prev": 0.485,
-      "now": 0.995,
-      "delta": 0.51,
-      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 16.93,
-      "liquidity": 285.12
-    },
-    {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Set 2 Winner: Prado vs Martinez",
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Sentinels (-3.5) vs 2GAME Esports (+3.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 195473.37,
-      "liquidity": 3356.07
-    },
-    {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 195473.37,
-      "liquidity": 3034.32
-    },
-    {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 195473.37,
-      "liquidity": 3034.32
-    },
-    {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 195473.37,
-      "liquidity": 3034.32
-    },
-    {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Sentinels (-2.5) vs 2GAME Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
       "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
@@ -84,14 +13,52 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 317394.97,
-      "liquidity": 285.12
+      "volume24hr": 5.0,
+      "liquidity": 11816.36
     },
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "market": "What price will XRP hit August 17-23? \u2014 Will XRP dip to $0.90 August 17-23?",
+      "prev": 0.028,
+      "now": 0.5,
+      "delta": 0.472,
+      "url": "https://polymarket.com/event/what-price-will-xrp-hit-august-17-23-2026",
+      "tags": [
+        "XRP",
+        "Ripple",
+        "Hit Price",
+        "Weekly",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 72137.13,
+      "liquidity": 3.0
+    },
+    {
+      "market": "What price will XRP hit August 17-23? \u2014 Will XRP reach $1.70 August 17-23?",
+      "prev": 0.0325,
+      "now": 0.4965,
+      "delta": 0.464,
+      "url": "https://polymarket.com/event/what-price-will-xrp-hit-august-17-23-2026",
+      "tags": [
+        "XRP",
+        "Ripple",
+        "Hit Price",
+        "Weekly",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 100.0,
+      "liquidity": 15.19
+    },
+    {
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 23.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.095,
+      "delta": -0.405,
       "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
@@ -99,14 +66,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 7.69,
-      "liquidity": 366.12
+      "volume24hr": 343904.03,
+      "liquidity": 194.52
     },
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 19.5",
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Sentinels (-7.5) vs 2GAME Esports (+7.5)",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
@@ -114,14 +81,78 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 317394.97,
-      "liquidity": 366.12
+      "volume24hr": 343904.03,
+      "liquidity": 113.52
     },
     {
-      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: Both Teams to Score in First Half",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
+      "market": "CSyD Macar\u00e1 vs. Santos FC - More Markets \u2014 CSyD Macar\u00e1 vs. Santos FC: Santos FC O/U 1.5",
+      "prev": 0.045,
+      "now": 0.43,
+      "delta": 0.385,
+      "url": "https://polymarket.com/event/sud-mac-san-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 15.0,
+      "liquidity": 1029.76
+    },
+    {
+      "market": "CSyD Macar\u00e1 vs. Santos FC - More Markets \u2014 CSyD Macar\u00e1 vs. Santos FC: CSyD Macar\u00e1 O/U 2.5",
+      "prev": 0.045,
+      "now": 0.395,
+      "delta": 0.35,
+      "url": "https://polymarket.com/event/sud-mac-san-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
+      ],
+      "volume24hr": 463.73,
+      "liquidity": 1292.68
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
+      "prev": 0.62,
+      "now": 0.305,
+      "delta": -0.315,
+      "url": "https://polymarket.com/event/dota2-ty-ngx-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 63633.28,
+      "liquidity": 303.25
+    },
+    {
+      "market": "What price will XRP hit August 17-23? \u2014 Will XRP reach $1.60 August 17-23?",
+      "prev": 0.0415,
+      "now": 0.343,
+      "delta": 0.3015,
+      "url": "https://polymarket.com/event/what-price-will-xrp-hit-august-17-23-2026",
+      "tags": [
+        "XRP",
+        "Ripple",
+        "Hit Price",
+        "Weekly",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 3699.99,
+      "liquidity": 6963.62
+    },
+    {
+      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: Mirassol FC O/U 0.5",
+      "prev": 0.295,
+      "now": 0.595,
+      "delta": 0.3,
       "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
       "tags": [
         "Sports",
@@ -129,30 +160,11 @@
         "Soccer",
         "Copa Libertadores"
       ],
-      "volume24hr": 10.71,
-      "liquidity": 2922.62
-    },
-    {
-      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: LDU de Quito 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Libertadores"
-      ],
-      "volume24hr": 69.09,
-      "liquidity": 2922.64
+      "volume24hr": 696.5,
+      "liquidity": 5.23
     }
   ],
   "log": [
-    {
-      "ts": "15:45:01",
-      "text": " poll complete \u2014 1899 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:00:02",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
@@ -268,6 +280,10 @@
     {
       "ts": "23:00:01",
       "text": " poll complete \u2014 1938 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:15:01",
+      "text": " poll complete \u2014 1902 markets scanned, 10 flagged"
     }
   ]
 }
