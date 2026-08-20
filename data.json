@@ -1,153 +1,154 @@
 {
-  "lastUpdate": "2026-08-20 22:45:01 UTC",
+  "lastUpdate": "2026-08-20 23:00:01 UTC",
   "swings": [
     {
-      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 LoL: Cupid Esports vs Conviction - Game 2 Winner",
-      "prev": 0.415,
-      "now": 0.945,
-      "delta": 0.53,
-      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 22.5",
+      "prev": 0.485,
+      "now": 0.995,
+      "delta": 0.51,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 40993.24,
-      "liquidity": 191419.94
+      "volume24hr": 16.93,
+      "liquidity": 285.12
     },
     {
-      "market": "Cancun: Vit Kopriva vs Gauthier Onclin \u2014 Kopriva vs. Onclin: Match O/U 21.5",
-      "prev": 0.53,
-      "now": 0.0005,
-      "delta": -0.5295,
-      "url": "https://polymarket.com/event/atp-kopriva-onclin-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 18.63,
-      "liquidity": 7065.45
-    },
-    {
-      "market": "Cancun: Vit Kopriva vs Gauthier Onclin \u2014 Cancun: Completed Match: Vit Kopriva vs Gauthier Onclin",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-onclin-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 211001.61,
-      "liquidity": 1786.64
-    },
-    {
-      "market": "Cancun: Vit Kopriva vs Gauthier Onclin \u2014 Vit Kopriva vs. Gauthier Onclin: Total Sets O/U 2.5",
+      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Set 2 Winner: Prado vs Martinez",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-onclin-2026-08-20",
+      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 211001.61,
-      "liquidity": 7169.01
+      "volume24hr": 195473.37,
+      "liquidity": 3356.07
     },
     {
-      "market": "Cancun: Vit Kopriva vs Gauthier Onclin \u2014 Kopriva vs. Onclin: Set 2 Games O/U 8.5",
+      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-onclin-2026-08-20",
+      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 211001.61,
-      "liquidity": 3975.25
+      "volume24hr": 195473.37,
+      "liquidity": 3034.32
     },
     {
-      "market": "Cancun: Vit Kopriva vs Gauthier Onclin \u2014 Set 2 Winner: Kopriva vs Onclin",
+      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-onclin-2026-08-20",
+      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 211001.61,
-      "liquidity": 4998.43
+      "volume24hr": 195473.37,
+      "liquidity": 3034.32
     },
     {
-      "market": "Cancun: Vit Kopriva vs Gauthier Onclin \u2014 Set Handicap: Kopriva (-1.5) vs Onclin (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-onclin-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 8.47,
-      "liquidity": 5430.88
-    },
-    {
-      "market": "Cancun: Vit Kopriva vs Gauthier Onclin \u2014 Kopriva vs. Onclin: Match O/U 22.5",
+      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Set 2 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-onclin-2026-08-20",
+      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 313.34,
-      "liquidity": 7055.19
+      "volume24hr": 195473.37,
+      "liquidity": 3034.32
     },
     {
-      "market": "Cancun: Vit Kopriva vs Gauthier Onclin \u2014 Kopriva vs. Onclin: Set 2 Games O/U 9.5",
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Sentinels (-2.5) vs 2GAME Esports (+2.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-onclin-2026-08-20",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 211001.61,
-      "liquidity": 4371.65
+      "volume24hr": 317394.97,
+      "liquidity": 285.12
     },
     {
-      "market": "Cancun: Vit Kopriva vs Gauthier Onclin \u2014 Set Handicap: Onclin (-1.5) vs Kopriva (+1.5)",
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-onclin-2026-08-20",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 211001.61,
-      "liquidity": 6517.31
+      "volume24hr": 7.69,
+      "liquidity": 366.12
+    },
+    {
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 19.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 317394.97,
+      "liquidity": 366.12
+    },
+    {
+      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: Both Teams to Score in First Half",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 10.71,
+      "liquidity": 2922.62
+    },
+    {
+      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: LDU de Quito 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 69.09,
+      "liquidity": 2922.64
     }
   ],
   "log": [
-    {
-      "ts": "15:30:01",
-      "text": " poll complete \u2014 1876 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:45:01",
       "text": " poll complete \u2014 1899 markets scanned, 10 flagged"
@@ -263,6 +264,10 @@
     {
       "ts": "22:45:01",
       "text": " poll complete \u2014 1913 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:00:01",
+      "text": " poll complete \u2014 1938 markets scanned, 10 flagged"
     }
   ]
 }
