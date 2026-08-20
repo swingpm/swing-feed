@@ -1,23 +1,8 @@
 {
-  "lastUpdate": "2026-08-20 14:30:01 UTC",
+  "lastUpdate": "2026-08-20 14:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.31,
-      "now": 0.995,
-      "delta": 0.685,
-      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 74.96,
-      "liquidity": 3331.52
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 1?",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 40.5 in Game 1?",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
@@ -28,131 +13,146 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3980872.05,
-      "liquidity": 618.71
+      "volume24hr": 4356836.2,
+      "liquidity": 884.36
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Set 2 Winner: Tarvet vs Broom",
-      "prev": 0.5,
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
+      "prev": 0.495,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 115693.48,
-      "liquidity": 4599.94
+      "volume24hr": 126.74,
+      "liquidity": 928.35
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Tarvet vs. Broom: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 1?",
+      "prev": 0.495,
+      "now": 0.0005,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 115693.48,
-      "liquidity": 4169.95
+      "volume24hr": 5.0,
+      "liquidity": 942.76
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Tarvet vs. Broom: Set 2 Games O/U 9.5",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Ends in Daytime?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 115693.48,
-      "liquidity": 4144.23
+      "volume24hr": 4356836.2,
+      "liquidity": 141.62
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Tarvet vs. Broom: Set 2 Games O/U 10.5",
+      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 24.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 115693.48,
-      "liquidity": 4133.41
-    },
-    {
-      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Spirit (-3.5) vs B8 (+3.5)",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 218.45,
-      "liquidity": 403.92
+      "volume24hr": 1194091.41,
+      "liquidity": 471.22
     },
     {
-      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Spirit (-6.5) vs B8 (+6.5)",
+      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Vitality (-6.5) vs FaZe (+6.5)",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 620305.35,
-      "liquidity": 257.46
+      "volume24hr": 1194091.41,
+      "liquidity": 520.22
     },
     {
-      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 18.5",
+      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Vitality (-9.5) vs FaZe (+9.5)",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 58.94,
-      "liquidity": 3155.9
+      "volume24hr": 1194091.41,
+      "liquidity": 520.22
     },
     {
-      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Spirit (-9.5) vs B8 (+9.5)",
+      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FaZe (-3.5) vs Vitality (+3.5)",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 620305.35,
-      "liquidity": 143.86
+      "volume24hr": 1194091.41,
+      "liquidity": 141.62
+    },
+    {
+      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 27.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1194091.41,
+      "liquidity": 141.62
+    },
+    {
+      "market": "Counter-Strike: Metizport vs Color (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-mzp-color-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 150259.72,
+      "liquidity": 471.22
     }
   ],
   "log": [
-    {
-      "ts": "07:15:02",
-      "text": " poll complete \u2014 1711 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:30:02",
       "text": " poll complete \u2014 1688 markets scanned, 10 flagged"
@@ -268,6 +268,10 @@
     {
       "ts": "14:30:01",
       "text": " poll complete \u2014 1867 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:45:01",
+      "text": " poll complete \u2014 1853 markets scanned, 10 flagged"
     }
   ]
 }
