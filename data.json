@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 22:15:01 UTC",
+  "lastUpdate": "2026-08-20 22:30:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Sentinels (-2.5) vs 2GAME Esports (+2.5)",
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 24.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
@@ -13,119 +13,57 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 646.19,
-      "liquidity": 1080.58
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 667854.8,
-      "liquidity": 117.59
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 667854.8,
-      "liquidity": 117.59
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 667854.8,
-      "liquidity": 117.59
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 667854.8,
+      "volume24hr": 252824.14,
       "liquidity": 113.52
     },
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez",
+      "prev": 0.575,
+      "now": 0.365,
+      "delta": -0.21,
+      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 212114.44,
-      "liquidity": 443.12
+      "volume24hr": 145058.37,
+      "liquidity": 180388.17
     },
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Match O/U 21.5",
+      "prev": 0.295,
+      "now": 0.5,
+      "delta": 0.205,
+      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 48.78,
-      "liquidity": 443.72
+      "volume24hr": 9.62,
+      "liquidity": 201048.78
     },
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Sentinels (-3.5) vs 2GAME Esports (+3.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "market": "LoL: Cupid Esports vs Conviction (BO3) - North American Challengers League Playoffs \u2014 LoL: Cupid Esports vs Conviction - Game 2 Winner",
+      "prev": 0.62,
+      "now": 0.415,
+      "delta": -0.205,
+      "url": "https://polymarket.com/event/lol-cpd-cnv-2026-08-20",
       "tags": [
         "Esports",
-        "Valorant",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 113.57
+      "volume24hr": 10054.13,
+      "liquidity": 138012.73
     },
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Sentinels (-5.5) vs 2GAME Esports (+5.5)",
-      "prev": 0.495,
-      "now": 0.1,
-      "delta": -0.395,
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 19.5",
+      "prev": 0.645,
+      "now": 0.825,
+      "delta": 0.18,
       "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
@@ -133,14 +71,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 113.57
+      "volume24hr": 252824.14,
+      "liquidity": 10.6
+    },
+    {
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.43,
+      "now": 0.585,
+      "delta": 0.155,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 7.69,
+      "liquidity": 56.99
     },
     {
       "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 20.5",
-      "prev": 0.375,
-      "now": 0.59,
-      "delta": 0.215,
+      "prev": 0.59,
+      "now": 0.72,
+      "delta": 0.13,
       "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
@@ -148,15 +101,58 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 212114.44,
-      "liquidity": 33.19
+      "volume24hr": 25.0,
+      "liquidity": 57.98
+    },
+    {
+      "market": "What price will Bitcoin hit in August? \u2014 Will Bitcoin dip to $70,000 in August?",
+      "prev": 0.575,
+      "now": 0.45,
+      "delta": -0.125,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-august-2026",
+      "tags": [
+        "Bitcoin",
+        "Monthly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring"
+      ],
+      "volume24hr": 204.82,
+      "liquidity": 1092.97
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 667856.68,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 3: Both Teams Slay a Dragon?",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 667856.68,
+      "liquidity": 0.0
     }
   ],
   "log": [
-    {
-      "ts": "15:00:01",
-      "text": " poll complete \u2014 1833 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:15:02",
       "text": " poll complete \u2014 1839 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 2016 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:30:01",
+      "text": " poll complete \u2014 2085 markets scanned, 10 flagged"
     }
   ]
 }
