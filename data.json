@@ -1,162 +1,162 @@
 {
-  "lastUpdate": "2026-08-20 16:30:01 UTC",
+  "lastUpdate": "2026-08-20 16:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: mellren vs Bushido Wildcats (BO3) - CCT Europe Challengers Series Playoffs",
-      "prev": 0.425,
-      "now": 0.92,
+      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.64,
+      "now": 0.1,
+      "delta": -0.54,
+      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 403.64,
+      "liquidity": 87.33
+    },
+    {
+      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Valorant: Team Vitality vs Enterprise Esports - Map 2 Winner",
+      "prev": 0.36,
+      "now": 0.895,
+      "delta": 0.535,
+      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 23607.43,
+      "liquidity": 117480.62
+    },
+    {
+      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Map Handicap: VIT (-1.5) vs Enterprise Esports (+1.5)",
+      "prev": 0.36,
+      "now": 0.89,
+      "delta": 0.53,
+      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2720.26,
+      "liquidity": 41.19
+    },
+    {
+      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: SK Iberia 1999 1st Half O/U 0.5",
+      "prev": 0.58,
+      "now": 0.075,
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 340.32,
+      "liquidity": 341.19
+    },
+    {
+      "market": "What price will Bitcoin hit in August? \u2014 Will Bitcoin reach $72,500 in August?",
+      "prev": 0.5,
+      "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-mellre-bw-2026-08-20",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-august-2026",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Bitcoin",
+        "Monthly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring"
       ],
-      "volume24hr": 66175.54,
-      "liquidity": 118739.67
+      "volume24hr": 2583296.51,
+      "liquidity": 77363.36
     },
     {
-      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK O/U 0.5",
-      "prev": 0.61,
-      "now": 0.205,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 421.17,
-      "liquidity": 826.6
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Total Rounds: Over/Under 24.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 209692.55,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Rounds Handicap: OG (-3.5) vs SPARTA (+3.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 209692.55,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Rounds Handicap: OG (-6.5) vs SPARTA (+6.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 209692.55,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Total Rounds: Over/Under 18.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 209692.55,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Rounds Handicap: OG (-9.5) vs SPARTA (+9.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 209692.55,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Total Rounds: Over/Under 15.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 209692.55,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Rounds Handicap: OG (-12.5) vs SPARTA (+12.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 209692.55,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK O/U 1.5",
-      "prev": 0.1155,
+      "market": "Mj\u00e4llby AIF vs. FC Red Bull Salzburg - More Markets \u2014 Mj\u00e4llby AIF vs. FC Red Bull Salzburg: Mj\u00e4llby AIF 1st Half O/U 1.5",
+      "prev": 0.019,
       "now": 0.5,
-      "delta": 0.3845,
-      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
+      "delta": 0.481,
+      "url": "https://polymarket.com/event/uel-ma-rbs-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "UEL"
       ],
-      "volume24hr": 431.93,
+      "volume24hr": 51.12,
       "liquidity": 0.02
+    },
+    {
+      "market": "FC Inter Turku vs. FC K\u00f8benhavn - More Markets \u2014 FC Inter Turku vs. FC K\u00f8benhavn: FC Inter Turku 1st Half O/U 1.5",
+      "prev": 0.022,
+      "now": 0.5,
+      "delta": 0.478,
+      "url": "https://polymarket.com/event/col-it-kob-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Europa Conference League"
+      ],
+      "volume24hr": 49.25,
+      "liquidity": 0.02
+    },
+    {
+      "market": "What price will Ethereum hit in August? \u2014 Will Ethereum reach $2,900 in August?",
+      "prev": 0.5,
+      "now": 0.03,
+      "delta": -0.47,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026",
+      "tags": [
+        "Ethereum",
+        "Monthly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring"
+      ],
+      "volume24hr": 1127778.87,
+      "liquidity": 1161.27
+    },
+    {
+      "market": "FC Inter Turku vs. FC K\u00f8benhavn - More Markets \u2014 FC Inter Turku vs. FC K\u00f8benhavn: FC K\u00f8benhavn 1st Half O/U 1.5",
+      "prev": 0.055,
+      "now": 0.4945,
+      "delta": 0.4395,
+      "url": "https://polymarket.com/event/col-it-kob-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Europa Conference League"
+      ],
+      "volume24hr": 378.66,
+      "liquidity": 5.08
+    },
+    {
+      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: 1st Half O/U 0.5",
+      "prev": 0.56,
+      "now": 0.996,
+      "delta": 0.436,
+      "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 2571.82,
+      "liquidity": 57764.67
     }
   ],
   "log": [
-    {
-      "ts": "09:15:01",
-      "text": " poll complete \u2014 1698 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:30:01",
       "text": " poll complete \u2014 1736 markets scanned, 10 flagged"
@@ -272,6 +272,10 @@
     {
       "ts": "16:30:01",
       "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:45:01",
+      "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
     }
   ]
 }
