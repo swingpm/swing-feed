@@ -1,152 +1,162 @@
 {
-  "lastUpdate": "2026-08-20 06:30:01 UTC",
+  "lastUpdate": "2026-08-20 06:45:01 UTC",
   "swings": [
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 ITF W15 Tianjin 3 Women: Completed Match: Dabin Kim vs Meng Yi Chen",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
+      "prev": 0.705,
+      "now": 0.29,
+      "delta": -0.415,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 464.0,
-      "liquidity": 1337.84
+      "volume24hr": 716169.98,
+      "liquidity": 176800.54
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Set 2 Winner: Kim vs Chen",
-      "prev": 0.5,
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: KRX.C (-1.5) vs HANJIN BRION Challengers (+1.5)",
+      "prev": 0.38,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "delta": -0.3795,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 73674.26,
-      "liquidity": 1414.67
+      "volume24hr": 2133.82,
+      "liquidity": 26751.84
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Set Handicap: Chen (-1.5) vs Kim (+1.5)",
-      "prev": 0.5,
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers - Game 2 Winner",
+      "prev": 0.625,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "delta": 0.3745,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 73674.26,
-      "liquidity": 2123.82
+      "volume24hr": 104996.01,
+      "liquidity": 617338.61
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "market": "Highest temperature in Shenzhen on August 20? \u2014 Will the highest temperature in Shenzhen be 30\u00b0C on August 20?",
+      "prev": 0.59,
+      "now": 0.93,
+      "delta": 0.34,
+      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-20-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shenzhen",
+        "Highest temperature"
       ],
-      "volume24hr": 73674.26,
-      "liquidity": 1062.14
+      "volume24hr": 11390.35,
+      "liquidity": 298.79
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Dabin Kim vs. Meng Yi Chen: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Games Total: O/U 2.5",
+      "prev": 0.66,
+      "now": 0.9995,
+      "delta": 0.3395,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 73674.26,
-      "liquidity": 1487.17
+      "volume24hr": 6777.16,
+      "liquidity": 207804.97
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: VSN (-1.5) vs BoomBoys (+1.5)",
+      "prev": 0.515,
+      "now": 0.185,
+      "delta": -0.33,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 73674.26,
-      "liquidity": 1469.53
+      "volume24hr": 104412.84,
+      "liquidity": 27164.65
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "market": "Highest temperature in Shenzhen on August 20? \u2014 Will the highest temperature in Shenzhen be 31\u00b0C on August 20?",
+      "prev": 0.31,
+      "now": 0.035,
+      "delta": -0.275,
+      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-20-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shenzhen",
+        "Highest temperature"
       ],
-      "volume24hr": 73674.26,
-      "liquidity": 1491.97
+      "volume24hr": 5303.37,
+      "liquidity": 306.25
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.235,
+      "now": 0.495,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 73674.26,
-      "liquidity": 1474.33
+      "volume24hr": 273046.5,
+      "liquidity": 2.1
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 1?",
+      "prev": 0.255,
+      "now": 0.5,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 73674.26,
-      "liquidity": 1469.53
+      "volume24hr": 1354167.55,
+      "liquidity": 1.3
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen \u2014 Kim vs. Chen: Set 2 Games O/U 8.5",
-      "prev": 0.505,
-      "now": 0.9955,
-      "delta": 0.4905,
-      "url": "https://polymarket.com/event/itf-dabinki-che-2026-08-20",
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.255,
+      "now": 0.5,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 73674.26,
-      "liquidity": 1063.14
+      "volume24hr": 273046.5,
+      "liquidity": 2.12
     }
   ],
   "log": [
-    {
-      "ts": "23:15:02",
-      "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:30:01",
       "text": " poll complete \u2014 1905 markets scanned, 10 flagged"
@@ -262,6 +272,10 @@
     {
       "ts": "06:30:01",
       "text": " poll complete \u2014 1695 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:45:01",
+      "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
     }
   ]
 }
