@@ -1,143 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 20:30:01 UTC",
+  "lastUpdate": "2026-08-20 20:45:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 31.06,
-      "liquidity": 7685.7
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 622527.51,
-      "liquidity": 7260.12
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 622527.51,
-      "liquidity": 7629.75
-    },
-    {
-      "market": "Athletics vs. Kansas City Royals \u2014 1st 5 Innings Spread: Athletics (-1.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 633527.79,
-      "liquidity": 1120.11
-    },
-    {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs",
-      "prev": 0.725,
-      "now": 0.365,
-      "delta": -0.36,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 94884.07,
-      "liquidity": 144241.06
-    },
-    {
-      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-4.5)",
-      "prev": 0.16,
-      "now": 0.48,
-      "delta": 0.32,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 306.23,
-      "liquidity": 236.85
-    },
-    {
-      "market": "Athletics vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-5.5)",
-      "prev": 0.27,
-      "now": 0.57,
-      "delta": 0.3,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 633527.79,
-      "liquidity": 473.18
-    },
-    {
-      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: O/U 5.5",
-      "prev": 0.675,
-      "now": 0.385,
-      "delta": -0.29,
-      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 17628.54,
-      "liquidity": 67098.73
-    },
-    {
-      "market": "Will Atalanta BC vs. MH Hapoel Tel Aviv end in a draw?",
-      "prev": 0.715,
-      "now": 0.9995,
-      "delta": 0.2845,
-      "url": "https://polymarket.com/event/col-ata-hta-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Europa Conference League"
-      ],
-      "volume24hr": 9395.14,
-      "liquidity": 221564.03
-    },
-    {
       "market": "Atlanta Braves vs. Chicago White Sox: O/U 4.5",
-      "prev": 0.25,
-      "now": 0.505,
-      "delta": 0.255,
+      "prev": 0.505,
+      "now": 0.004,
+      "delta": -0.501,
       "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
       "tags": [
         "Sports",
@@ -146,14 +14,145 @@
         "baseball"
       ],
       "volume24hr": 1374.56,
-      "liquidity": 1.64
+      "liquidity": 7522.26
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 3.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 166.09,
+      "liquidity": 6105.42
+    },
+    {
+      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113668.14,
+      "liquidity": 311.52
+    },
+    {
+      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113668.14,
+      "liquidity": 311.52
+    },
+    {
+      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113668.14,
+      "liquidity": 311.52
+    },
+    {
+      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113668.14,
+      "liquidity": 311.52
+    },
+    {
+      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113668.14,
+      "liquidity": 311.52
+    },
+    {
+      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113668.14,
+      "liquidity": 311.52
+    },
+    {
+      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113668.14,
+      "liquidity": 311.52
+    },
+    {
+      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 113668.14,
+      "liquidity": 311.52
     }
   ],
   "log": [
-    {
-      "ts": "13:15:01",
-      "text": " poll complete \u2014 1838 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:30:01",
       "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
@@ -269,6 +268,10 @@
     {
       "ts": "20:30:01",
       "text": " poll complete \u2014 2088 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:45:02",
+      "text": " poll complete \u2014 2128 markets scanned, 10 flagged"
     }
   ]
 }
