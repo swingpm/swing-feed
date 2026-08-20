@@ -1,28 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 13:30:01 UTC",
+  "lastUpdate": "2026-08-20 13:45:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in London on August 20? \u2014 Will the highest temperature in London be 22\u00b0C on August 20?",
-      "prev": 0.53,
-      "now": 0.0005,
-      "delta": -0.5295,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 12191.65,
-      "liquidity": 36036.86
-    },
-    {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 2?",
-      "prev": 0.445,
-      "now": 0.005,
-      "delta": -0.44,
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Games Total: O/U 2.5",
+      "prev": 0.455,
+      "now": 0.93,
+      "delta": 0.475,
       "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
       "tags": [
         "Esports",
@@ -30,14 +13,74 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 92.7,
-      "liquidity": 989.39
+      "volume24hr": 18871.63,
+      "liquidity": 131433.96
+    },
+    {
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game Handicap: LGD (-1.5) vs Bilibili Gaming (+1.5)",
+      "prev": 0.54,
+      "now": 0.065,
+      "delta": -0.475,
+      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 104.0,
+      "liquidity": 1069.3
+    },
+    {
+      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-jdg-tt-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2371410.09,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-jdg-tt-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2371410.09,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-jdg-tt-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2371410.09,
+      "liquidity": 141.62
     },
     {
       "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 LoL: LGD Gaming vs Bilibili Gaming - Game 2 Winner",
-      "prev": 0.265,
-      "now": 0.545,
-      "delta": 0.28,
+      "prev": 0.545,
+      "now": 0.165,
+      "delta": -0.38,
       "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
       "tags": [
         "Esports",
@@ -45,14 +88,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 148242.56,
-      "liquidity": 144649.89
+      "volume24hr": 597978.93,
+      "liquidity": 163721.97
     },
     {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Games Total: O/U 2.5",
-      "prev": 0.735,
-      "now": 0.455,
-      "delta": -0.28,
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend",
+      "prev": 0.645,
+      "now": 0.295,
+      "delta": -0.35,
       "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
       "tags": [
         "Esports",
@@ -60,31 +103,44 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 18359.43,
-      "liquidity": 42767.91
+      "volume24hr": 482909.56,
+      "liquidity": 186352.67
     },
     {
-      "market": "Highest temperature in London on August 20? \u2014 Will the highest temperature in London be 23\u00b0C on August 20?",
-      "prev": 0.39,
-      "now": 0.67,
-      "delta": 0.28,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-20-2026",
+      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In",
+      "prev": 0.675,
+      "now": 0.345,
+      "delta": -0.33,
+      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 10895.52,
-      "liquidity": 678.68
+      "volume24hr": 88067.68,
+      "liquidity": 3656.76
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
       "prev": 0.5,
       "now": 0.225,
       "delta": -0.275,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 11.11,
+      "liquidity": 2.75
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.225,
+      "now": 0.5,
+      "delta": 0.275,
       "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
         "Esports",
@@ -93,73 +149,10 @@
         "Sports"
       ],
       "volume24hr": 18.11,
-      "liquidity": 2.75
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
-      "prev": 0.5,
-      "now": 0.225,
-      "delta": -0.275,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2346633.79,
-      "liquidity": 2.75
-    },
-    {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game Handicap: LGD (-1.5) vs Bilibili Gaming (+1.5)",
-      "prev": 0.27,
-      "now": 0.54,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 981.26
-    },
-    {
-      "market": "Indiana Fever vs. Dallas Wings \u2014 Caitlin Clark: Rebounds O/U 3.5",
-      "prev": 0.31,
-      "now": 0.56,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/wnba-ind-dal-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 85999.63,
-      "liquidity": 829.2
-    },
-    {
-      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Set Handicap: Broom (-1.5) vs Tarvet (+1.5)",
-      "prev": 0.5,
-      "now": 0.25,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 93.75,
-      "liquidity": 3490.5
+      "liquidity": 973445.73
     }
   ],
   "log": [
-    {
-      "ts": "06:15:01",
-      "text": " poll complete \u2014 1685 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:30:01",
       "text": " poll complete \u2014 1695 markets scanned, 10 flagged"
@@ -275,6 +268,10 @@
     {
       "ts": "13:30:01",
       "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:45:01",
+      "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
     }
   ]
 }
