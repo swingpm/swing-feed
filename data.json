@@ -1,26 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 08:30:01 UTC",
+  "lastUpdate": "2026-08-20 08:45:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
-      "prev": 0.27,
-      "now": 0.775,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 160.45,
-      "liquidity": 16.49
-    },
-    {
-      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 1?",
-      "prev": 0.5,
-      "now": 0.9935,
-      "delta": 0.4935,
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
       "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
       "tags": [
         "Esports",
@@ -28,77 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 40.0,
-      "liquidity": 1416.55
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: VSN (-1.5) vs BoomBoys (+1.5)",
-      "prev": 0.79,
-      "now": 0.375,
-      "delta": -0.415,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 128248.64,
-      "liquidity": 582.25
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.225,
-      "now": 0.615,
-      "delta": 0.39,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 22596.63,
-      "liquidity": 1006.76
-    },
-    {
-      "market": "Bitcoin price on August 20? \u2014 Will the price of Bitcoin be between $68,000 and $70,000 on August 20?",
-      "prev": 0.443,
-      "now": 0.1535,
-      "delta": -0.2895,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-20-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 13079.33,
-      "liquidity": 14631.18
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.225,
-      "now": 0.5,
-      "delta": 0.275,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3926016.77,
-      "liquidity": 1033399.66
+      "volume24hr": 6544.16,
+      "liquidity": 659.7
     },
     {
       "market": "Highest temperature in Hong Kong on August 20? \u2014 Will the highest temperature in Hong Kong be 30\u00b0C on August 20?",
-      "prev": 0.15,
-      "now": 0.395,
-      "delta": 0.245,
+      "prev": 0.395,
+      "now": 0.11,
+      "delta": -0.285,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-20-2026",
       "tags": [
         "Weather",
@@ -108,14 +30,14 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 26796.47,
-      "liquidity": 366.66
+      "volume24hr": 29379.47,
+      "liquidity": 495.03
     },
     {
       "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner",
-      "prev": 0.54,
-      "now": 0.775,
-      "delta": 0.235,
+      "prev": 0.775,
+      "now": 0.545,
+      "delta": -0.23,
       "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
       "tags": [
         "Esports",
@@ -123,14 +45,31 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 506911.37,
-      "liquidity": 187709.02
+      "volume24hr": 715985.36,
+      "liquidity": 157890.31
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.29,
-      "now": 0.505,
-      "delta": 0.215,
+      "market": "Highest temperature in Hong Kong on August 20? \u2014 Will the highest temperature in Hong Kong be 29\u00b0C on August 20?",
+      "prev": 0.655,
+      "now": 0.875,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-20-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 81257.57,
+      "liquidity": 658.55
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
+      "prev": 0.58,
+      "now": 0.425,
+      "delta": -0.155,
       "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -138,33 +77,91 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3926016.77,
-      "liquidity": 8.99
+      "volume24hr": 1478745.73,
+      "liquidity": 198447.63
     },
     {
-      "market": "What price will Bitcoin hit August 17-23? \u2014 Will Bitcoin reach $72,000 August 17-23?",
-      "prev": 0.55,
-      "now": 0.753,
-      "delta": 0.203,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-august-17-23-2026",
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: DK (-1.5) vs Hanwha Life Esports (+1.5)",
+      "prev": 0.405,
+      "now": 0.255,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
       "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 12093.54,
+      "liquidity": 113026.93
+    },
+    {
+      "market": "What price will XRP hit in August? \u2014 Will XRP reach $1.20 in August?",
+      "prev": 0.4425,
+      "now": 0.5845,
+      "delta": 0.142,
+      "url": "https://polymarket.com/event/what-price-will-xrp-hit-in-august-2026",
+      "tags": [
+        "XRP",
+        "Ripple",
+        "Monthly",
+        "Hit Price",
         "Crypto",
         "Crypto Prices",
+        "Recurring"
+      ],
+      "volume24hr": 17258.68,
+      "liquidity": 17438.49
+    },
+    {
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game Handicap: HLE (-1.5) vs Dplus KIA (+1.5)",
+      "prev": 0.095,
+      "now": 0.235,
+      "delta": 0.14,
+      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2075.77,
+      "liquidity": 13395.93
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: VSN (-1.5) vs BoomBoys (+1.5)",
+      "prev": 0.375,
+      "now": 0.49,
+      "delta": 0.115,
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 128997.29,
+      "liquidity": 5256.56
+    },
+    {
+      "market": "Highest temperature in Munich on August 20? \u2014 Will the highest temperature in Munich be 28\u00b0C on August 20?",
+      "prev": 0.235,
+      "now": 0.35,
+      "delta": 0.115,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-20-2026",
+      "tags": [
+        "Weather",
         "Recurring",
         "Hide From New",
-        "Bitcoin",
-        "Weekly",
-        "Hit Price"
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
       ],
-      "volume24hr": 141513.0,
-      "liquidity": 28271.03
+      "volume24hr": 5353.98,
+      "liquidity": 600.38
     }
   ],
   "log": [
-    {
-      "ts": "01:15:02",
-      "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:30:02",
       "text": " poll complete \u2014 1959 markets scanned, 10 flagged"
@@ -280,6 +277,10 @@
     {
       "ts": "08:30:01",
       "text": " poll complete \u2014 1675 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:45:01",
+      "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
     }
   ]
 }
