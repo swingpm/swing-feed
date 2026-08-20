@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 19:15:01 UTC",
+  "lastUpdate": "2026-08-20 19:30:01 UTC",
   "swings": [
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds",
-      "prev": 0.105,
-      "now": 0.88,
-      "delta": 0.775,
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: St. Louis Cardinals (-1.5)",
+      "prev": 0.03,
+      "now": 0.975,
+      "delta": 0.945,
       "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
       "tags": [
         "Sports",
@@ -13,14 +13,14 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 463278.75,
-      "liquidity": 66188.61
+      "volume24hr": 18971.38,
+      "liquidity": 3323.03
     },
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 10.5",
-      "prev": 0.455,
-      "now": 0.995,
-      "delta": 0.54,
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: St. Louis Cardinals (-2.5)",
+      "prev": 0.05,
+      "now": 0.915,
+      "delta": 0.865,
       "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
       "tags": [
         "Sports",
@@ -28,14 +28,14 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 15852.05,
-      "liquidity": 34596.03
+      "volume24hr": 7883.18,
+      "liquidity": 1500.05
     },
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5",
-      "prev": 0.47,
-      "now": 0.995,
-      "delta": 0.525,
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: St. Louis Cardinals (-3.5)",
+      "prev": 0.0505,
+      "now": 0.8435,
+      "delta": 0.793,
       "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
       "tags": [
         "Sports",
@@ -43,120 +43,114 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 84938.41,
-      "liquidity": 82596.53
+      "volume24hr": 193.36,
+      "liquidity": 12.12
     },
     {
-      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Aarhus GF 1st Half O/U 1.5",
-      "prev": 0.0515,
-      "now": 0.509,
-      "delta": 0.4575,
-      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 236422.44,
-      "liquidity": 175.95
-    },
-    {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Deportivo Alav\u00e9s 1st Half O/U 1.5",
-      "prev": 0.071,
-      "now": 0.5235,
-      "delta": 0.4525,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 418.56,
-      "liquidity": 343.1
-    },
-    {
-      "market": "Toronto Blue Jays vs. Tampa Bay Rays: O/U 5.5",
-      "prev": 0.56,
-      "now": 0.9955,
-      "delta": 0.4355,
-      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-20",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 11.5",
+      "prev": 0.265,
+      "now": 0.9995,
+      "delta": 0.7345,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 5255.02,
-      "liquidity": 8073.8
+      "volume24hr": 60.0,
+      "liquidity": 1766.85
     },
     {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Rayo Vallecano de Madrid 1st Half O/U 1.5",
-      "prev": 0.095,
-      "now": 0.53,
-      "delta": 0.435,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
+      "market": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula",
+      "prev": 0.605,
+      "now": 0.0005,
+      "delta": -0.6045,
+      "url": "https://polymarket.com/event/wta-anisimo-pegula-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 56.0,
-      "liquidity": 343.08
+      "volume24hr": 1923439.28,
+      "liquidity": 726673.39
     },
     {
-      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Aarhus GF 2nd Half O/U 1.5",
-      "prev": 0.065,
-      "now": 0.5,
-      "delta": 0.435,
-      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 236422.44,
-      "liquidity": 530361.56
-    },
-    {
-      "market": "Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: Team Liquid (-3.5) vs FUT Esports (+3.5)",
+      "market": "Atlanta Braves vs. Chicago White Sox \u2014 1st 5 Innings Spread: Chicago White Sox (-1.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-tl1-fut1-2026-08-20",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 273864.99,
-      "liquidity": 113.52
+      "volume24hr": 2.02,
+      "liquidity": 685.36
     },
     {
-      "market": "Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: Team Liquid (-4.5) vs FUT Esports (+4.5)",
+      "market": "Atlanta Braves vs. Chicago White Sox \u2014 1st 5 Innings Spread: Chicago White Sox (-2.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-tl1-fut1-2026-08-20",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 273864.99,
-      "liquidity": 113.52
+      "volume24hr": 1.01,
+      "liquidity": 784.88
+    },
+    {
+      "market": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula \u2014 Cincinnati Open: Completed Match: Amanda Anisimova vs Jessica Pegula",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-anisimo-pegula-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1943317.35,
+      "liquidity": 2554.96
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox \u2014 1st 5 Innings Spread: Atlanta Braves (-1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 731.83,
+      "liquidity": 622.19
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1.01,
+      "liquidity": 572.0
     }
   ],
   "log": [
-    {
-      "ts": "12:00:02",
-      "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:15:01",
       "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
@@ -272,6 +266,10 @@
     {
       "ts": "19:15:01",
       "text": " poll complete \u2014 2082 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:30:01",
+      "text": " poll complete \u2014 2046 markets scanned, 10 flagged"
     }
   ]
 }
