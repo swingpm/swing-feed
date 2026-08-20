@@ -1,11 +1,101 @@
 {
-  "lastUpdate": "2026-08-20 08:00:02 UTC",
+  "lastUpdate": "2026-08-20 08:15:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 75.5 in Game 1?",
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Quadra Kill?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 581783.93,
+      "liquidity": 886.73
+    },
+    {
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 581783.93,
+      "liquidity": 886.73
+    },
+    {
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 581783.93,
+      "liquidity": 886.73
+    },
+    {
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 581783.93,
+      "liquidity": 830.26
+    },
+    {
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 3: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 581783.93,
+      "liquidity": 802.26
+    },
+    {
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 581783.93,
+      "liquidity": 858.15
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
+      "prev": 0.5,
+      "now": 0.95,
+      "delta": 0.45,
       "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -13,163 +103,56 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3098872.47,
-      "liquidity": 855.85
+      "volume24hr": 18.56,
+      "liquidity": 121.46
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
-      "prev": 0.505,
-      "now": 0.25,
-      "delta": -0.255,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 102.44,
-      "liquidity": 12.99
+      "volume24hr": 581783.93,
+      "liquidity": 148.67
     },
     {
-      "market": "Highest temperature in Hong Kong on August 20? \u2014 Will the highest temperature in Hong Kong be 30\u00b0C on August 20?",
-      "prev": 0.03,
-      "now": 0.185,
-      "delta": 0.155,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 22788.98,
-      "liquidity": 290.19
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 20? \u2014 Will the highest temperature in Hong Kong be 29\u00b0C on August 20?",
-      "prev": 0.975,
-      "now": 0.83,
-      "delta": -0.145,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 72781.53,
-      "liquidity": 625.19
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Game 3: Any Player Ultra Kill?",
-      "prev": 0.245,
-      "now": 0.335,
-      "delta": 0.09,
-      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 113754.64,
-      "liquidity": 369.23
+      "volume24hr": 581783.93,
+      "liquidity": 148.67
     },
     {
-      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 First Blood in Game 1?",
-      "prev": 0.41,
-      "now": 0.495,
-      "delta": 0.085,
-      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 25.14,
-      "liquidity": 943.67
-    },
-    {
-      "market": "Highest temperature in Munich on August 20? \u2014 Will the highest temperature in Munich be 26\u00b0C on August 20?",
-      "prev": 0.215,
-      "now": 0.14,
-      "delta": -0.075,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 4701.69,
-      "liquidity": 841.67
-    },
-    {
-      "market": "Bitcoin price on August 20? \u2014 Will the price of Bitcoin be between $68,000 and $70,000 on August 20?",
-      "prev": 0.6405,
-      "now": 0.567,
-      "delta": -0.0735,
-      "url": "https://polymarket.com/event/bitcoin-price-on-august-20-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Neg Risk",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 11771.19,
-      "liquidity": 13594.96
-    },
-    {
-      "market": "What will WTI Crude Oil (WTI) hit in August 2026? \u2014 Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?",
-      "prev": 0.455,
-      "now": 0.52,
-      "delta": 0.065,
-      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-august-2026",
-      "tags": [
-        "Finance",
-        "Monthly",
-        "Hit Price",
-        "Hide From New",
-        "Finance Updown",
-        "Pyth Finance",
-        "Commodities",
-        "Oil"
-      ],
-      "volume24hr": 71698.77,
-      "liquidity": 33769.4
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
-      "prev": 0.41,
-      "now": 0.475,
-      "delta": 0.065,
-      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 21.25,
-      "liquidity": 1145.25
+      "volume24hr": 581783.93,
+      "liquidity": 148.67
     }
   ],
   "log": [
-    {
-      "ts": "00:45:02",
-      "text": " poll complete \u2014 2001 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:00:02",
       "text": " poll complete \u2014 1998 markets scanned, 10 flagged"
@@ -285,6 +268,10 @@
     {
       "ts": "08:00:02",
       "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:15:01",
+      "text": " poll complete \u2014 1662 markets scanned, 10 flagged"
     }
   ]
 }
