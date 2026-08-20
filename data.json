@@ -1,100 +1,43 @@
 {
-  "lastUpdate": "2026-08-20 11:45:02 UTC",
+  "lastUpdate": "2026-08-20 12:00:02 UTC",
   "swings": [
     {
-      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.225,
-      "now": 0.725,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "market": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.325,
+      "now": 0.9995,
+      "delta": 0.6745,
+      "url": "https://polymarket.com/event/cs2-navi-lgc-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 481.0,
-      "liquidity": 2.75
+      "volume24hr": 1164.91,
+      "liquidity": 5870.98
     },
     {
-      "market": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 18.5",
+      "market": "Highest temperature in Milan on August 20? \u2014 Will the highest temperature in Milan be 30\u00b0C or higher on August 20?",
+      "prev": 0.3315,
+      "now": 0.9935,
+      "delta": 0.662,
+      "url": "https://polymarket.com/event/highest-temperature-in-milan-on-august-20-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Milan",
+        "Highest temperature"
+      ],
+      "volume24hr": 16108.52,
+      "liquidity": 1070.92
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
       "prev": 0.6,
-      "now": 0.1,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/cs2-fal2-mglz-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 486794.01,
-      "liquidity": 176.62
-    },
-    {
-      "market": "LoL: Nongshim Red Force vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 2?",
-      "prev": 0.505,
-      "now": 0.0055,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lol-ns-drx-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 9.78,
-      "liquidity": 778.57
-    },
-    {
-      "market": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Team Falcons (-3.5) vs TheMongolz (+3.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-fal2-mglz-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1015.12,
-      "liquidity": 2803.56
-    },
-    {
-      "market": "LoL: CTBC Flying Oyster vs MVK Esports (BO5) - LCP Playoffs \u2014 Game Handicap: CFO (-1.5) vs MVK Esports (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-cfo-mvk-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1354.4,
-      "liquidity": 27415.69
-    },
-    {
-      "market": "Sion: Tommaso Compagnucci vs Juan Manuel La Serna \u2014 Sion: Completed Match: Tommaso Compagnucci vs Juan Manuel La Serna",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-compagn-serna-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 291824.79,
-      "liquidity": 1828.79
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "now": 0.0005,
+      "delta": -0.5995,
       "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
       "tags": [
         "Esports",
@@ -102,59 +45,116 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3449030.48,
-      "liquidity": 21.33
+      "volume24hr": 3188761.82,
+      "liquidity": 946018.88
     },
     {
-      "market": "Sion: Tommaso Compagnucci vs Juan Manuel La Serna",
-      "prev": 0.585,
-      "now": 0.9995,
-      "delta": 0.4145,
-      "url": "https://polymarket.com/event/atp-compagn-serna-2026-08-20",
+      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.725,
+      "now": 0.135,
+      "delta": -0.59,
+      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 291642.9,
-      "liquidity": 452741.58
+      "volume24hr": 492.11,
+      "liquidity": 3.65
     },
     {
-      "market": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 24.5",
+      "market": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Legacy (-6.5) vs Natus Vincere (+6.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-fal2-mglz-2026-08-20",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/cs2-navi-lgc-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 486794.01,
-      "liquidity": 141.62
+      "volume24hr": 792484.39,
+      "liquidity": 3698.42
     },
     {
-      "market": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Team Falcons (-9.5) vs TheMongolz (+9.5)",
+      "market": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Legacy (-9.5) vs Natus Vincere (+9.5)",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-fal2-mglz-2026-08-20",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/cs2-navi-lgc-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 486794.01,
-      "liquidity": 141.62
+      "volume24hr": 792484.39,
+      "liquidity": 3698.42
+    },
+    {
+      "market": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Legacy (-12.5) vs Natus Vincere (+12.5)",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/cs2-navi-lgc-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 792484.39,
+      "liquidity": 3698.42
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 764.59
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Total Kills Over/Under 70.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 842.32
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Total Kills Over/Under 75.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4237971.26,
+      "liquidity": 167.46
     }
   ],
   "log": [
-    {
-      "ts": "04:30:01",
-      "text": " poll complete \u2014 1736 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:45:01",
       "text": " poll complete \u2014 1692 markets scanned, 10 flagged"
@@ -270,6 +270,10 @@
     {
       "ts": "11:45:02",
       "text": " poll complete \u2014 1833 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:00:02",
+      "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
     }
   ]
 }
