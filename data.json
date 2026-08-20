@@ -1,162 +1,160 @@
 {
-  "lastUpdate": "2026-08-20 04:45:01 UTC",
+  "lastUpdate": "2026-08-20 05:00:01 UTC",
   "swings": [
     {
-      "market": "Portland Timbers vs. San Diego FC - More Markets \u2014 Portland Timbers vs. San Diego FC: San Diego FC O/U 1.5",
-      "prev": 0.59,
-      "now": 0.0005,
-      "delta": -0.5895,
-      "url": "https://polymarket.com/event/mls-por-sdg-2026-08-19-more-markets",
+      "market": "Minnesota Lynx vs. Golden State Valkyries \u2014 Kayla Thornton: Rebounds O/U 5.5",
+      "prev": 0.495,
+      "now": 0.1,
+      "delta": -0.395,
+      "url": "https://polymarket.com/event/wnba-min-gsv-2026-08-19",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "MLS"
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 545.62,
-      "liquidity": 22920.23
+      "volume24hr": 13.35,
+      "liquidity": 198.67
     },
     {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.0005,
-      "delta": -0.5045,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.625,
+      "now": 0.245,
+      "delta": -0.38,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 178657.29,
-      "liquidity": 4647.89
+      "volume24hr": 14056.96,
+      "liquidity": 107619.54
     },
     {
-      "market": "Portland Timbers vs. San Diego FC - More Markets \u2014 Portland Timbers vs. San Diego FC: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/mls-por-sdg-2026-08-19-more-markets",
+      "market": "What price will Ethereum hit in August? \u2014 Will Ethereum dip to $2,000 in August?",
+      "prev": 0.19,
+      "now": 0.56,
+      "delta": 0.37,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026",
       "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
+        "Ethereum",
+        "Monthly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring"
       ],
-      "volume24hr": 94980.29,
-      "liquidity": 3629.96
+      "volume24hr": 1010.72,
+      "liquidity": 128.95
     },
     {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Dota 2: Iron Wing vs Team Spirit - Game 2 Winner",
+      "prev": 0.625,
+      "now": 0.285,
+      "delta": -0.34,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 178657.29,
-      "liquidity": 4676.92
+      "volume24hr": 902804.37,
+      "liquidity": 166627.35
     },
     {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: Los Angeles Galaxy 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game Handicap: TS (-1.5) vs Iron Wing (+1.5)",
+      "prev": 0.395,
+      "now": 0.72,
+      "delta": 0.325,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 178657.29,
-      "liquidity": 4669.06
+      "volume24hr": 88.35,
+      "liquidity": 34.75
     },
     {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: San Jose Earthquakes 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
+      "prev": 0.225,
+      "now": 0.5,
+      "delta": 0.275,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 178657.29,
-      "liquidity": 4662.8
+      "volume24hr": 3152555.94,
+      "liquidity": 2051316.01
     },
     {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: San Jose Earthquakes 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs",
+      "prev": 0.335,
+      "now": 0.12,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 178657.29,
-      "liquidity": 4679.48
+      "volume24hr": 468771.18,
+      "liquidity": 189273.32
     },
     {
-      "market": "Vancouver Whitecaps FC vs. Houston Dynamo - More Markets \u2014 Vancouver Whitecaps FC vs. Houston Dynamo: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-vwh-hou-2026-08-19-more-markets",
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 3: Any Player Ultra Kill?",
+      "prev": 0.29,
+      "now": 0.5,
+      "delta": 0.21,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 58940.12,
-      "liquidity": 4218.77
+      "volume24hr": 3152555.94,
+      "liquidity": 2051316.01
     },
     {
-      "market": "Vancouver Whitecaps FC vs. Houston Dynamo - More Markets \u2014 Vancouver Whitecaps FC vs. Houston Dynamo: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-vwh-hou-2026-08-19-more-markets",
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 3: Both Teams Destroy Barracks?",
+      "prev": 0.31,
+      "now": 0.5,
+      "delta": 0.19,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 7.84,
-      "liquidity": 4223.76
+      "volume24hr": 3152555.94,
+      "liquidity": 2051316.01
     },
     {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 3: Both Teams Beat Roshan?",
+      "prev": 0.335,
+      "now": 0.5,
+      "delta": 0.165,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 178657.29,
-      "liquidity": 4614.71
+      "volume24hr": 3152555.94,
+      "liquidity": 2051316.01
     }
   ],
   "log": [
-    {
-      "ts": "21:30:01",
-      "text": " poll complete \u2014 1870 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:45:02",
       "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
@@ -272,6 +270,10 @@
     {
       "ts": "04:45:01",
       "text": " poll complete \u2014 1692 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:00:01",
+      "text": " poll complete \u2014 1650 markets scanned, 10 flagged"
     }
   ]
 }
