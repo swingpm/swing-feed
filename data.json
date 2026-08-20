@@ -1,11 +1,131 @@
 {
-  "lastUpdate": "2026-08-20 19:00:02 UTC",
+  "lastUpdate": "2026-08-20 19:15:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Valorant: Team Liquid vs FUT Esports - Map 1 Winner",
-      "prev": 0.765,
-      "now": 0.005,
-      "delta": -0.76,
+      "market": "St. Louis Cardinals vs. Cincinnati Reds",
+      "prev": 0.105,
+      "now": 0.88,
+      "delta": 0.775,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 463278.75,
+      "liquidity": 66188.61
+    },
+    {
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 10.5",
+      "prev": 0.455,
+      "now": 0.995,
+      "delta": 0.54,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 15852.05,
+      "liquidity": 34596.03
+    },
+    {
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5",
+      "prev": 0.47,
+      "now": 0.995,
+      "delta": 0.525,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 84938.41,
+      "liquidity": 82596.53
+    },
+    {
+      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Aarhus GF 1st Half O/U 1.5",
+      "prev": 0.0515,
+      "now": 0.509,
+      "delta": 0.4575,
+      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 236422.44,
+      "liquidity": 175.95
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Deportivo Alav\u00e9s 1st Half O/U 1.5",
+      "prev": 0.071,
+      "now": 0.5235,
+      "delta": 0.4525,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 418.56,
+      "liquidity": 343.1
+    },
+    {
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays: O/U 5.5",
+      "prev": 0.56,
+      "now": 0.9955,
+      "delta": 0.4355,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5255.02,
+      "liquidity": 8073.8
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Rayo Vallecano de Madrid 1st Half O/U 1.5",
+      "prev": 0.095,
+      "now": 0.53,
+      "delta": 0.435,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 56.0,
+      "liquidity": 343.08
+    },
+    {
+      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Aarhus GF 2nd Half O/U 1.5",
+      "prev": 0.065,
+      "now": 0.5,
+      "delta": 0.435,
+      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 236422.44,
+      "liquidity": 530361.56
+    },
+    {
+      "market": "Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: Team Liquid (-3.5) vs FUT Esports (+3.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/val-tl1-fut1-2026-08-20",
       "tags": [
         "Esports",
@@ -13,59 +133,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 101184.79,
-      "liquidity": 307846.29
+      "volume24hr": 273864.99,
+      "liquidity": 113.52
     },
     {
-      "market": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs \u2014 Map 3 Total Rounds: Over/Under 18.5",
-      "prev": 0.555,
-      "now": 0.005,
-      "delta": -0.55,
-      "url": "https://polymarket.com/event/cs2-g2-furia-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 228.9,
-      "liquidity": 1017.82
-    },
-    {
-      "market": "Be\u015fikta\u015f JK vs. FK Kauno \u017dalgiris - More Markets \u2014 Be\u015fikta\u015f JK vs. FK Kauno \u017dalgiris: O/U 3.5",
-      "prev": 0.51,
-      "now": 0.0005,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/uel-bes-kau-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 51747.45,
-      "liquidity": 135271.39
-    },
-    {
-      "market": "Be\u015fikta\u015f JK vs. FK Kauno \u017dalgiris - More Markets \u2014 Be\u015fikta\u015f JK vs. FK Kauno \u017dalgiris: Both Teams to Score in Second Half",
-      "prev": 0.515,
-      "now": 0.0055,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/uel-bes-kau-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 28.02,
-      "liquidity": 1660.35
-    },
-    {
-      "market": "Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map Handicap: TL (-1.5) vs FUT Esports (+1.5)",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
+      "market": "Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: Team Liquid (-4.5) vs FUT Esports (+4.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/val-tl1-fut1-2026-08-20",
       "tags": [
         "Esports",
@@ -73,86 +148,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3306.54,
-      "liquidity": 7172.89
-    },
-    {
-      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Set 2 Winner: Sakamoto vs Assche",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 179534.49,
-      "liquidity": 4551.21
-    },
-    {
-      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Sakamoto vs. Assche: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 179534.49,
-      "liquidity": 3491.75
-    },
-    {
-      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Sakamoto vs. Assche: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 179534.49,
-      "liquidity": 4079.12
-    },
-    {
-      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Sakamoto vs. Assche: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 179534.49,
-      "liquidity": 3536.66
-    },
-    {
-      "market": "KF Egnatia Rrogozhin\u00eb vs. Lillestr\u00f8m SK - More Markets \u2014 KF Egnatia Rrogozhin\u00eb vs. Lillestr\u00f8m SK: KF Egnatia Rrogozhin\u00eb O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/uel-egn-lil1-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 1281.23,
-      "liquidity": 15239.02
+      "volume24hr": 273864.99,
+      "liquidity": 113.52
     }
   ],
   "log": [
-    {
-      "ts": "11:45:02",
-      "text": " poll complete \u2014 1833 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:00:02",
       "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
@@ -268,6 +268,10 @@
     {
       "ts": "19:00:02",
       "text": " poll complete \u2014 2114 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:15:01",
+      "text": " poll complete \u2014 2082 markets scanned, 10 flagged"
     }
   ]
 }
