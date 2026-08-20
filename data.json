@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 16:45:01 UTC",
+  "lastUpdate": "2026-08-20 17:00:01 UTC",
   "swings": [
     {
       "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.64,
-      "now": 0.1,
-      "delta": -0.54,
+      "prev": 0.1,
+      "now": 0.9995,
+      "delta": 0.8995,
       "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
       "tags": [
         "Esports",
@@ -13,14 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 403.64,
-      "liquidity": 87.33
+      "volume24hr": 408.63,
+      "liquidity": 5430.11
     },
     {
       "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Valorant: Team Vitality vs Enterprise Esports - Map 2 Winner",
-      "prev": 0.36,
-      "now": 0.895,
-      "delta": 0.535,
+      "prev": 0.895,
+      "now": 0.0005,
+      "delta": -0.8945,
       "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
       "tags": [
         "Esports",
@@ -28,14 +28,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 23607.43,
-      "liquidity": 117480.62
+      "volume24hr": 71965.36,
+      "liquidity": 552374.63
     },
     {
       "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Map Handicap: VIT (-1.5) vs Enterprise Esports (+1.5)",
-      "prev": 0.36,
-      "now": 0.89,
-      "delta": 0.53,
+      "prev": 0.89,
+      "now": 0.0005,
+      "delta": -0.8895,
       "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
       "tags": [
         "Esports",
@@ -43,14 +43,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 2720.26,
-      "liquidity": 41.19
+      "volume24hr": 2733.95,
+      "liquidity": 27709.51
     },
     {
-      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: SK Iberia 1999 1st Half O/U 0.5",
-      "prev": 0.58,
-      "now": 0.075,
-      "delta": -0.505,
+      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: Jagiellonia Bia\u0142ystok 1st Half O/U 1.5",
+      "prev": 0.185,
+      "now": 0.998,
+      "delta": 0.813,
       "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
       "tags": [
         "Sports",
@@ -58,93 +58,14 @@
         "Soccer",
         "UEL"
       ],
-      "volume24hr": 340.32,
-      "liquidity": 341.19
+      "volume24hr": 113.63,
+      "liquidity": 9773.11
     },
     {
-      "market": "What price will Bitcoin hit in August? \u2014 Will Bitcoin reach $72,500 in August?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-august-2026",
-      "tags": [
-        "Bitcoin",
-        "Monthly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring"
-      ],
-      "volume24hr": 2583296.51,
-      "liquidity": 77363.36
-    },
-    {
-      "market": "Mj\u00e4llby AIF vs. FC Red Bull Salzburg - More Markets \u2014 Mj\u00e4llby AIF vs. FC Red Bull Salzburg: Mj\u00e4llby AIF 1st Half O/U 1.5",
-      "prev": 0.019,
-      "now": 0.5,
-      "delta": 0.481,
-      "url": "https://polymarket.com/event/uel-ma-rbs-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 51.12,
-      "liquidity": 0.02
-    },
-    {
-      "market": "FC Inter Turku vs. FC K\u00f8benhavn - More Markets \u2014 FC Inter Turku vs. FC K\u00f8benhavn: FC Inter Turku 1st Half O/U 1.5",
-      "prev": 0.022,
-      "now": 0.5,
-      "delta": 0.478,
-      "url": "https://polymarket.com/event/col-it-kob-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Europa Conference League"
-      ],
-      "volume24hr": 49.25,
-      "liquidity": 0.02
-    },
-    {
-      "market": "What price will Ethereum hit in August? \u2014 Will Ethereum reach $2,900 in August?",
-      "prev": 0.5,
-      "now": 0.03,
-      "delta": -0.47,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026",
-      "tags": [
-        "Ethereum",
-        "Monthly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring"
-      ],
-      "volume24hr": 1127778.87,
-      "liquidity": 1161.27
-    },
-    {
-      "market": "FC Inter Turku vs. FC K\u00f8benhavn - More Markets \u2014 FC Inter Turku vs. FC K\u00f8benhavn: FC K\u00f8benhavn 1st Half O/U 1.5",
-      "prev": 0.055,
-      "now": 0.4945,
-      "delta": 0.4395,
-      "url": "https://polymarket.com/event/col-it-kob-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Europa Conference League"
-      ],
-      "volume24hr": 378.66,
-      "liquidity": 5.08
-    },
-    {
-      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: 1st Half O/U 0.5",
-      "prev": 0.56,
-      "now": 0.996,
-      "delta": 0.436,
+      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: 1st Half O/U 1.5",
+      "prev": 0.225,
+      "now": 0.9995,
+      "delta": 0.7745,
       "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
       "tags": [
         "Sports",
@@ -152,15 +73,86 @@
         "Soccer",
         "UEL"
       ],
-      "volume24hr": 2571.82,
-      "liquidity": 57764.67
+      "volume24hr": 2355.96,
+      "liquidity": 43589.69
+    },
+    {
+      "market": "FC Inter Turku vs. FC K\u00f8benhavn - More Markets \u2014 FC Inter Turku vs. FC K\u00f8benhavn: FC K\u00f8benhavn 1st Half O/U 0.5",
+      "prev": 0.515,
+      "now": 0.005,
+      "delta": -0.51,
+      "url": "https://polymarket.com/event/col-it-kob-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Europa Conference League"
+      ],
+      "volume24hr": 144.73,
+      "liquidity": 4243.47
+    },
+    {
+      "market": "FC Inter Turku vs. FC K\u00f8benhavn - More Markets \u2014 FC Inter Turku vs. FC K\u00f8benhavn: Both Teams to Score in First Half",
+      "prev": 0.5055,
+      "now": 0.003,
+      "delta": -0.5025,
+      "url": "https://polymarket.com/event/col-it-kob-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Europa Conference League"
+      ],
+      "volume24hr": 347.6,
+      "liquidity": 6088.67
+    },
+    {
+      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 438.12,
+      "liquidity": 14611.21
+    },
+    {
+      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 119.16,
+      "liquidity": 14139.79
+    },
+    {
+      "market": "Jagiellonia Bia\u0142ystok vs. SK Iberia 1999 - More Markets \u2014 Jagiellonia Bia\u0142ystok vs. SK Iberia 1999: Jagiellonia Bia\u0142ystok 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/uel-jag-sab-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 152173.23,
+      "liquidity": 8568.69
     }
   ],
   "log": [
-    {
-      "ts": "09:30:01",
-      "text": " poll complete \u2014 1736 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:45:01",
       "text": " poll complete \u2014 1756 markets scanned, 10 flagged"
@@ -276,6 +268,10 @@
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:00:01",
+      "text": " poll complete \u2014 2041 markets scanned, 10 flagged"
     }
   ]
 }
