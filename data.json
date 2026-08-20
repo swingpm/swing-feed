@@ -1,155 +1,157 @@
 {
-  "lastUpdate": "2026-08-20 15:45:01 UTC",
+  "lastUpdate": "2026-08-20 16:00:02 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: Vitality (-3.5) vs FaZe (+3.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
+      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: 1st Half O/U 2.5",
+      "prev": 0.25,
+      "now": 0.997,
+      "delta": 0.747,
+      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 2571.81,
+      "liquidity": 17069.21
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
+      "prev": 0.72,
+      "now": 0.005,
+      "delta": -0.715,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 3834.52,
-      "liquidity": 11786.67
+      "volume24hr": 259.05,
+      "liquidity": 1050.5
     },
     {
-      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: B8 (-3.5) vs Spirit (+3.5)",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 2?",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1084788.85,
-      "liquidity": 11443.23
+      "volume24hr": 6027754.48,
+      "liquidity": 674.71
     },
     {
-      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: Spirit (-6.5) vs B8 (+6.5)",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1084788.85,
-      "liquidity": 11443.23
+      "volume24hr": 6027754.48,
+      "liquidity": 722.71
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Prague 2: Completed Match: Maxim Mrva vs Jan Kumstat",
+      "market": "Prague 2: Norbert Gombos vs Radu Mihai Papoe \u2014 Prague 2: Completed Match: Norbert Gombos vs Radu Mihai Papoe",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "url": "https://polymarket.com/event/atp-gombos-papoe-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 4321.0,
-      "liquidity": 9703.01
+      "volume24hr": 247283.34,
+      "liquidity": 1875.7
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Maxim Mrva vs. Jan Kumstat: Total Sets O/U 2.5",
+      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 8.23,
-      "liquidity": 7219.16
+      "volume24hr": 305.72,
+      "liquidity": 794.96
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Mrva vs. Kumstat: Match O/U 21.5",
+      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 272.85,
-      "liquidity": 7111.17
+      "volume24hr": 42.62,
+      "liquidity": 4209.12
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Set 2 Winner: Mrva vs Kumstat",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 80879.74,
-      "liquidity": 4444.14
+      "volume24hr": 6027754.48,
+      "liquidity": 1385.6
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Mrva vs. Kumstat: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: RSC Anderlecht 1st Half O/U 0.5",
+      "prev": 0.5005,
+      "now": 0.9955,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 80879.74,
-      "liquidity": 4003.59
+      "volume24hr": 80.21,
+      "liquidity": 3132.67
     },
     {
-      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Mrva vs. Kumstat: Set 2 Games O/U 9.5",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Ends in Daytime?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 80879.74,
-      "liquidity": 4003.59
-    },
-    {
-      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Mrva vs. Kumstat: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 80879.74,
-      "liquidity": 7100.36
+      "volume24hr": 6027754.48,
+      "liquidity": 141.62
     }
   ],
   "log": [
-    {
-      "ts": "08:30:01",
-      "text": " poll complete \u2014 1675 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:45:01",
       "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
@@ -265,6 +267,10 @@
     {
       "ts": "15:45:01",
       "text": " poll complete \u2014 1899 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:00:02",
+      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
     }
   ]
 }
