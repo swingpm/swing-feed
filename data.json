@@ -1,144 +1,25 @@
 {
-  "lastUpdate": "2026-08-20 21:45:01 UTC",
+  "lastUpdate": "2026-08-20 22:00:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Sentinels (-2.5) vs 2GAME Esports (+2.5)",
-      "prev": 0.74,
-      "now": 0.305,
-      "delta": -0.435,
-      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 550.23,
-      "liquidity": 21.39
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Match O/U 23.5",
+      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Cincinnati Open: Completed Match: Tommy Paul vs Flavio Cobolli",
       "prev": 0.5,
-      "now": 0.835,
-      "delta": 0.335,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1560.2,
-      "liquidity": 335.0
+      "volume24hr": 3653833.98,
+      "liquidity": 3201.43
     },
     {
-      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli",
-      "prev": 0.405,
-      "now": 0.085,
-      "delta": -0.32,
-      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 2986910.71,
-      "liquidity": 591183.28
-    },
-    {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 436018.87,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 436018.87,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 436018.87,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 436018.87,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 436018.87,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 436018.87,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Total Rounds: Over/Under 19.5",
-      "prev": 0.61,
-      "now": 0.515,
-      "delta": -0.095,
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 20.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
@@ -146,15 +27,131 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 47.14,
-      "liquidity": 0.8
+      "volume24hr": 189090.97,
+      "liquidity": 447.64
+    },
+    {
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 19.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 189090.97,
+      "liquidity": 9.91
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 667722.82,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 667722.82,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 436032.75,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 436032.75,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 436032.75,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 436032.75,
+      "liquidity": 113.52
+    },
+    {
+      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 436032.75,
+      "liquidity": 113.52
     }
   ],
   "log": [
-    {
-      "ts": "14:30:01",
-      "text": " poll complete \u2014 1867 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1853 markets scanned, 10 flagged"
@@ -270,6 +267,10 @@
     {
       "ts": "21:45:01",
       "text": " poll complete \u2014 1988 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:00:01",
+      "text": " poll complete \u2014 2021 markets scanned, 10 flagged"
     }
   ]
 }
