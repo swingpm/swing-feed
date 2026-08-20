@@ -1,131 +1,86 @@
 {
-  "lastUpdate": "2026-08-20 19:45:01 UTC",
+  "lastUpdate": "2026-08-20 20:00:01 UTC",
   "swings": [
     {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: St. Louis Cardinals (-2.5)",
-      "prev": 0.915,
-      "now": 0.0155,
-      "delta": -0.8995,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "market": "LoL: NORTHERNGRADE ESPORTS vs Tung Tung Bogi (BO3) - LPLOL Group Stage",
+      "prev": 0.67,
+      "now": 0.0005,
+      "delta": -0.6695,
+      "url": "https://polymarket.com/event/lol-nort-tung-2026-08-20",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 8294.33,
-      "liquidity": 4534.62
+      "volume24hr": 80506.02,
+      "liquidity": 22226.46
     },
     {
-      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Both Teams to Score in First Half",
-      "prev": 0.15,
-      "now": 0.9945,
-      "delta": 0.8445,
-      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 288183.1,
-      "liquidity": 5392.93
-    },
-    {
-      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 Spread: St. Louis Cardinals (-3.5)",
-      "prev": 0.8435,
-      "now": 0.0235,
-      "delta": -0.82,
-      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 287.38,
-      "liquidity": 45.18
-    },
-    {
-      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 Spread: Cleveland Guardians (-2.5)",
-      "prev": 0.15,
-      "now": 0.945,
-      "delta": 0.795,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2070.02,
-      "liquidity": 2624.57
-    },
-    {
-      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: 1st Half O/U 2.5",
-      "prev": 0.26,
-      "now": 0.995,
-      "delta": 0.735,
-      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
+      "market": "FK Crvena zvezda vs. FC Viktoria Plze\u0148 - More Markets \u2014 Spread: FK Crvena zvezda (-2.5)",
+      "prev": 0.27,
+      "now": 0.915,
+      "delta": 0.645,
+      "url": "https://polymarket.com/event/uel-crv-plz-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "UEL"
       ],
-      "volume24hr": 11851.72,
-      "liquidity": 102710.11
+      "volume24hr": 408.33,
+      "liquidity": 833.51
     },
     {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.355,
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs",
+      "prev": 0.43,
       "now": 0.9995,
-      "delta": 0.6445,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "delta": 0.5695,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4548.79,
-      "liquidity": 17591.33
+      "volume24hr": 147921.43,
+      "liquidity": 357049.22
     },
     {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 LoL: Solary vs Skillcamp Esport - Game 2 Winner",
-      "prev": 0.635,
-      "now": 0.0005,
-      "delta": -0.6345,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "market": "FK Crvena zvezda vs. FC Viktoria Plze\u0148 - More Markets \u2014 FK Crvena zvezda vs. FC Viktoria Plze\u0148: O/U 2.5",
+      "prev": 0.47,
+      "now": 0.9995,
+      "delta": 0.5295,
+      "url": "https://polymarket.com/event/uel-crv-plz-2026-08-20-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 80111.63,
-      "liquidity": 412202.32
+      "volume24hr": 73818.02,
+      "liquidity": 157867.13
     },
     {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game Handicap: SLY (-1.5) vs Skillcamp Esport (+1.5)",
-      "prev": 0.635,
-      "now": 0.0005,
-      "delta": -0.6345,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "market": "FK Crvena zvezda vs. FC Viktoria Plze\u0148 - More Markets \u2014 FK Crvena zvezda vs. FC Viktoria Plze\u0148: FC Viktoria Plze\u0148 O/U 0.5",
+      "prev": 0.595,
+      "now": 0.075,
+      "delta": -0.52,
+      "url": "https://polymarket.com/event/uel-crv-plz-2026-08-20-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "UEL"
       ],
-      "volume24hr": 6849.5,
-      "liquidity": 34584.93
+      "volume24hr": 189.23,
+      "liquidity": 479.62
     },
     {
-      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Both Teams to Score",
-      "prev": 0.39,
-      "now": 0.995,
-      "delta": 0.605,
+      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Aarhus GF 1st Half O/U 1.5",
+      "prev": 0.5165,
+      "now": 0.0045,
+      "delta": -0.512,
       "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
       "tags": [
         "Sports",
@@ -133,30 +88,71 @@
         "Soccer",
         "UEL"
       ],
-      "volume24hr": 15687.28,
-      "liquidity": 102445.41
+      "volume24hr": 5.07,
+      "liquidity": 4142.41
     },
     {
-      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Aarhus GF O/U 0.5",
-      "prev": 0.41,
-      "now": 0.995,
-      "delta": 0.585,
-      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
+      "market": "Will the game go to extra innings?: St. Louis Cardinals vs. Cincinnati Reds",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.64,
+      "liquidity": 1089.54
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Deportivo Alav\u00e9s 1st Half O/U 1.5",
+      "prev": 0.499,
+      "now": 0.0005,
+      "delta": -0.4985,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "UEL"
+        "La Liga"
       ],
-      "volume24hr": 22.62,
-      "liquidity": 4145.49
+      "volume24hr": 526.05,
+      "liquidity": 7500.47
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Rayo Vallecano de Madrid 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 56.0,
+      "liquidity": 6164.95
+    },
+    {
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: O/U 18.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 2294.05
     }
   ],
   "log": [
-    {
-      "ts": "12:30:02",
-      "text": " poll complete \u2014 1833 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1838 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 2091 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:00:01",
+      "text": " poll complete \u2014 2120 markets scanned, 10 flagged"
     }
   ]
 }
