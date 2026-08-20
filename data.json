@@ -1,160 +1,155 @@
 {
-  "lastUpdate": "2026-08-20 21:15:02 UTC",
+  "lastUpdate": "2026-08-20 21:30:02 UTC",
   "swings": [
     {
-      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-2.5)",
-      "prev": 0.205,
-      "now": 0.995,
-      "delta": 0.79,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 3585.63,
-      "liquidity": 21753.09
-    },
-    {
-      "market": "Seattle Mariners vs. Milwaukee Brewers: O/U 10.5",
-      "prev": 0.335,
-      "now": 0.9955,
-      "delta": 0.6605,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 387.71,
-      "liquidity": 3904.58
-    },
-    {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: 2nd Half O/U 2.5",
-      "prev": 0.56,
-      "now": 0.0045,
-      "delta": -0.5555,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 629013.68,
-      "liquidity": 5798.13
-    },
-    {
-      "market": "Athletics vs. Kansas City Royals: O/U 8.5",
-      "prev": 0.51,
-      "now": 0.0005,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 297942.66,
-      "liquidity": 298604.22
-    },
-    {
-      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-4.5)",
-      "prev": 0.505,
-      "now": 0.0005,
-      "delta": -0.5045,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 312.23,
-      "liquidity": 3661.15
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 2 Games O/U 8.5",
+      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Match O/U 21.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.79,
+      "delta": 0.29,
       "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 945243.17,
-      "liquidity": 3703.0
+      "volume24hr": 1129.97,
+      "liquidity": 531.2
     },
     {
-      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli",
+      "prev": 0.595,
+      "now": 0.405,
+      "delta": -0.19,
       "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 945243.17,
-      "liquidity": 3691.1
+      "volume24hr": 1021148.34,
+      "liquidity": 177879.62
     },
     {
-      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-6.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
+      "market": "Indiana Fever vs. Dallas Wings \u2014 Paige Bueckers: Points O/U 20.5",
+      "prev": 0.305,
+      "now": 0.465,
+      "delta": 0.16,
+      "url": "https://polymarket.com/event/wnba-ind-dal-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 684301.56,
-      "liquidity": 2601.25
+      "volume24hr": 13.25,
+      "liquidity": 236.75
     },
     {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Rayo Vallecano de Madrid 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "La Liga"
+        "Sports"
       ],
-      "volume24hr": 629013.68,
-      "liquidity": 5578.07
+      "volume24hr": 665494.73,
+      "liquidity": 0.0
     },
     {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Deportivo Alav\u00e9s 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "La Liga"
+        "Sports"
       ],
-      "volume24hr": 629013.68,
-      "liquidity": 5602.29
+      "volume24hr": 665494.73,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 665494.73,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 665494.73,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 665494.73,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 665494.73,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Cincinnati Open: Iga Swiatek vs Elena Rybakina \u2014 Swiatek vs. Rybakina: Set 1 Games O/U 8.5",
+      "prev": 0.61,
+      "now": 0.7,
+      "delta": 0.09,
+      "url": "https://polymarket.com/event/wta-swiatek-rybakin-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 142015.15,
+      "liquidity": 5197.31
     }
   ],
   "log": [
-    {
-      "ts": "14:00:01",
-      "text": " poll complete \u2014 1829 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1815 markets scanned, 10 flagged"
@@ -270,6 +265,10 @@
     {
       "ts": "21:15:02",
       "text": " poll complete \u2014 2054 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:30:02",
+      "text": " poll complete \u2014 2034 markets scanned, 10 flagged"
     }
   ]
 }
