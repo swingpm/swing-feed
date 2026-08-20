@@ -1,158 +1,154 @@
 {
-  "lastUpdate": "2026-08-20 13:00:01 UTC",
+  "lastUpdate": "2026-08-20 13:15:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
-      "prev": 0.295,
-      "now": 0.995,
-      "delta": 0.7,
-      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In \u2014 Games Total: O/U 2.5",
+      "prev": 0.38,
+      "now": 0.9995,
+      "delta": 0.6195,
+      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 92.45,
-      "liquidity": 332.55
+      "volume24hr": 144.26,
+      "liquidity": 8461.84
     },
     {
-      "market": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs \u2014 Map 2 Total Rounds: Over/Under 27.5",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/cs2-fal2-mglz-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1164679.88,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: Natus Vincere (-3.5) vs Legacy (+3.5)",
-      "prev": 0.5,
+      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In \u2014 Valorant: ZETA DIVISION vs Xipto Esports - Map 2 Winner",
+      "prev": 0.615,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-navi-lgc-2026-08-20",
+      "delta": -0.6145,
+      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 96.12,
-      "liquidity": 11799.04
+      "volume24hr": 13483.92,
+      "liquidity": 163395.89
     },
     {
-      "market": "Sion: Lorenzo Giustino vs Dimitar Kuzmanov \u2014 Set 1 Winner: Giustino vs Kuzmanov",
+      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In \u2014 Map Handicap: ZETA (-1.5) vs Xipto Esports (+1.5)",
+      "prev": 0.615,
+      "now": 0.0055,
+      "delta": -0.6095,
+      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 618.43,
+      "liquidity": 2295.93
+    },
+    {
+      "market": "Sion: Benjamin Hassan vs Geoffrey Blancaneaux \u2014 Set 1 Winner: Hassan vs Blancaneaux",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-giustin-kuzmano-2026-08-20",
+      "url": "https://polymarket.com/event/atp-hassan-blancan-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 8.16,
-      "liquidity": 10254.1
+      "volume24hr": 1446.16,
+      "liquidity": 15280.5
     },
     {
-      "market": "Sion: Lorenzo Giustino vs Dimitar Kuzmanov \u2014 Giustino vs. Kuzmanov: Set 1 Games O/U 8.5",
+      "market": "Sion: Benjamin Hassan vs Geoffrey Blancaneaux \u2014 Hassan vs. Blancaneaux: Set 1 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-giustin-kuzmano-2026-08-20",
+      "url": "https://polymarket.com/event/atp-hassan-blancan-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 71796.43,
-      "liquidity": 6599.13
+      "volume24hr": 6.0,
+      "liquidity": 6937.68
     },
     {
-      "market": "Sion: Lorenzo Giustino vs Dimitar Kuzmanov \u2014 Giustino vs. Kuzmanov: Set 1 Games O/U 9.5",
+      "market": "Sion: Benjamin Hassan vs Geoffrey Blancaneaux \u2014 Hassan vs. Blancaneaux: Set 1 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-giustin-kuzmano-2026-08-20",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hassan-blancan-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 71796.43,
-      "liquidity": 6612.61
+      "volume24hr": 319538.97,
+      "liquidity": 6937.68
     },
     {
-      "market": "Sion: Lorenzo Giustino vs Dimitar Kuzmanov \u2014 Giustino vs. Kuzmanov: Set 1 Games O/U 10.5",
+      "market": "Sion: Benjamin Hassan vs Geoffrey Blancaneaux \u2014 Hassan vs. Blancaneaux: Set 1 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-giustin-kuzmano-2026-08-20",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hassan-blancan-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 71796.43,
-      "liquidity": 6611.91
+      "volume24hr": 319538.97,
+      "liquidity": 6947.7
     },
     {
-      "market": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 2 Total Rounds: Over/Under 24.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/cs2-navi-lgc-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1643480.31,
-      "liquidity": 2018.49
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 2?",
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 24.5 in Game 1?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 6931213.88,
-      "liquidity": 332.6
+      "volume24hr": 4.99,
+      "liquidity": 743.0
     },
     {
-      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 2?",
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 21.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 6931213.88,
-      "liquidity": 186.58
+      "volume24hr": 1311297.74,
+      "liquidity": 198.0
+    },
+    {
+      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In \u2014 Map 2 Rounds Handicap: ZETA DIVISION (-2.5) vs Xipto Esports (+2.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 109678.18,
+      "liquidity": 630.31
     }
   ],
   "log": [
-    {
-      "ts": "05:45:01",
-      "text": " poll complete \u2014 1675 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:00:02",
       "text": " poll complete \u2014 1706 markets scanned, 10 flagged"
@@ -268,6 +264,10 @@
     {
       "ts": "13:00:01",
       "text": " poll complete \u2014 1848 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:15:01",
+      "text": " poll complete \u2014 1838 markets scanned, 10 flagged"
     }
   ]
 }
