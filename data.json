@@ -1,160 +1,158 @@
 {
-  "lastUpdate": "2026-08-20 02:45:01 UTC",
+  "lastUpdate": "2026-08-20 03:00:01 UTC",
   "swings": [
     {
-      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Seattle Mariners (-2.5)",
-      "prev": 0.595,
-      "now": 0.02,
-      "delta": -0.575,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-19",
+      "market": "Washington Nationals vs. Texas Rangers: O/U 6.5",
+      "prev": 0.605,
+      "now": 0.0005,
+      "delta": -0.6045,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 2335.19,
-      "liquidity": 1098.21
+      "volume24hr": 3831.61,
+      "liquidity": 145544.42
     },
     {
-      "market": "Seattle Mariners vs. Milwaukee Brewers: O/U 11.5",
-      "prev": 0.47,
+      "market": "Will the game go to extra innings?: Washington Nationals vs. Texas Rangers",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 527835.66,
+      "liquidity": 1552.02
+    },
+    {
+      "market": "Washington Nationals vs. Texas Rangers \u2014 Spread: Washington Nationals (-3.5)",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.5295,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-19",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 2667.21,
-      "liquidity": 17010.42
+      "volume24hr": 527835.66,
+      "liquidity": 9650.09
     },
     {
-      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: Seattle Sounders FC 1st Half O/U 0.5",
-      "prev": 0.515,
-      "now": 0.0045,
-      "delta": -0.5105,
-      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
+      "market": "Washington Nationals vs. Texas Rangers \u2014 Spread: Washington Nationals (-5.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1782.79,
+      "liquidity": 14065.89
+    },
+    {
+      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 326.64,
-      "liquidity": 3949.64
+      "volume24hr": 193960.39,
+      "liquidity": 1169.04
     },
     {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: 1st 5 Innings O/U 6.5",
+      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: Chicago Fire FC 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-19",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 193960.39,
+      "liquidity": 1182.17
+    },
+    {
+      "market": "Will the game go to extra innings?: Seattle Mariners vs. Milwaukee Brewers",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 242.16,
-      "liquidity": 1632.52
+      "volume24hr": 1023615.82,
+      "liquidity": 1150.5
     },
     {
-      "market": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti \u2014 Faria vs. Musetti: Set 2 Games O/U 8.5",
-      "prev": 0.5,
+      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Seattle Mariners (-3.5)",
+      "prev": 0.495,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-faria-musetti-2026-08-19",
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-19",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 248330.59,
-      "liquidity": 5022.87
+      "volume24hr": 1046.02,
+      "liquidity": 8980.8
     },
     {
-      "market": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti \u2014 Faria vs. Musetti: Set 2 Games O/U 10.5",
-      "prev": 0.5,
+      "market": "Washington Nationals vs. Texas Rangers \u2014 Spread: Washington Nationals (-6.5)",
+      "prev": 0.495,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-faria-musetti-2026-08-19",
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 248330.59,
-      "liquidity": 5022.71
+      "volume24hr": 5.0,
+      "liquidity": 4118.1
     },
     {
-      "market": "CR Flamengo vs. Cruzeiro EC - More Markets \u2014 CR Flamengo vs. Cruzeiro EC: CR Flamengo O/U 2.5",
+      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-fla-cru-2026-08-19-more-markets",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "MLS"
       ],
-      "volume24hr": 229277.91,
-      "liquidity": 15178.04
-    },
-    {
-      "market": "CR Flamengo vs. Cruzeiro EC - More Markets \u2014 CR Flamengo vs. Cruzeiro EC: Cruzeiro EC O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-fla-cru-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Libertadores"
-      ],
-      "volume24hr": 694.64,
-      "liquidity": 22008.22
-    },
-    {
-      "market": "CR Flamengo vs. Cruzeiro EC - More Markets \u2014 CR Flamengo vs. Cruzeiro EC: Cruzeiro EC O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-fla-cru-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Libertadores"
-      ],
-      "volume24hr": 1234.81,
-      "liquidity": 22209.79
-    },
-    {
-      "market": "CR Flamengo vs. Cruzeiro EC - More Markets \u2014 CR Flamengo vs. Cruzeiro EC: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-fla-cru-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Libertadores"
-      ],
-      "volume24hr": 229277.91,
-      "liquidity": 4518.06
+      "volume24hr": 11.65,
+      "liquidity": 1136.65
     }
   ],
   "log": [
-    {
-      "ts": "19:30:01",
-      "text": " poll complete \u2014 2002 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 2011 markets scanned, 10 flagged"
@@ -270,6 +268,10 @@
     {
       "ts": "02:45:01",
       "text": " poll complete \u2014 1893 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:00:01",
+      "text": " poll complete \u2014 1870 markets scanned, 10 flagged"
     }
   ]
 }
