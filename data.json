@@ -1,41 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 10:30:02 UTC",
+  "lastUpdate": "2026-08-20 10:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: G2 Ares vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: G2 Ares vs Bebop - Map 2 Winner",
-      "prev": 0.08,
-      "now": 0.595,
-      "delta": 0.515,
-      "url": "https://polymarket.com/event/cs2-g2a-bbp-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 8614.41,
-      "liquidity": 12980.16
-    },
-    {
-      "market": "Valorant: TYLOO vs All Gamers (BO3) - VCT China Stage 2 Playoffs \u2014 Map Handicap: TYLOO (-1.5) vs All Gamers (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/val-tyloo-ag1-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 25.22,
-      "liquidity": 4058.56
-    },
-    {
-      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 2?",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.7,
+      "now": 0.0045,
+      "delta": -0.6955,
       "url": "https://polymarket.com/event/lol-jdg-tt-2026-08-20",
       "tags": [
         "Esports",
@@ -43,44 +13,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 184.58,
-      "liquidity": 1240.38
+      "volume24hr": 12967.36,
+      "liquidity": 10436.82
     },
     {
-      "market": "Valorant: TYLOO vs All Gamers (BO3) - VCT China Stage 2 Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.485,
-      "now": 0.0005,
-      "delta": -0.4845,
-      "url": "https://polymarket.com/event/val-tyloo-ag1-2026-08-20",
+      "market": "LoL: CTBC Flying Oyster vs MVK Esports (BO5) - LCP Playoffs \u2014 LoL: CTBC Flying Oyster vs MVK Esports - Game 2 Winner",
+      "prev": 0.355,
+      "now": 0.9585,
+      "delta": 0.6035,
+      "url": "https://polymarket.com/event/lol-cfo-mvk-2026-08-20",
       "tags": [
         "Esports",
-        "Valorant",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1385.79,
-      "liquidity": 67817.95
-    },
-    {
-      "market": "Counter-Strike: G2 Ares vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 1 Rounds Handicap: G2 Ares (-9.5) vs Bebop (+9.5)",
-      "prev": 0.45,
-      "now": 0.0,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/cs2-g2a-bbp-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 109713.45,
-      "liquidity": 0.0
+      "volume24hr": 97208.5,
+      "liquidity": 196542.31
     },
     {
       "market": "Counter-Strike: G2 Ares vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: G2.A (-1.5) vs Bebop (+1.5)",
-      "prev": 0.06,
-      "now": 0.5,
-      "delta": 0.44,
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/cs2-g2a-bbp-2026-08-20",
       "tags": [
         "Esports",
@@ -88,14 +43,44 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 109713.45,
-      "liquidity": 317062.35
+      "volume24hr": 125154.47,
+      "liquidity": 12405.91
+    },
+    {
+      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lol-jdg-tt-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 10979.61,
+      "liquidity": 10452.41
+    },
+    {
+      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 24.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-jdg-tt-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1218935.49,
+      "liquidity": 198.0
     },
     {
       "market": "Counter-Strike: G2 Ares vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.92,
-      "now": 0.495,
-      "delta": -0.425,
+      "prev": 0.495,
+      "now": 0.0005,
+      "delta": -0.4945,
       "url": "https://polymarket.com/event/cs2-g2a-bbp-2026-08-20",
       "tags": [
         "Esports",
@@ -104,59 +89,70 @@
         "Sports"
       ],
       "volume24hr": 7.16,
-      "liquidity": 33.19
+      "liquidity": 16656.74
     },
     {
-      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "market": "LoL: Nongshim Red Force vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 1?",
+      "prev": 0.515,
+      "now": 0.995,
+      "delta": 0.48,
+      "url": "https://polymarket.com/event/lol-ns-drx-2026-08-20",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 3979396.24,
-      "liquidity": 141.62
+      "volume24hr": 148093.92,
+      "liquidity": 19.63
     },
     {
-      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "market": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
+      "prev": 0.09,
+      "now": 0.5,
+      "delta": 0.41,
+      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 3979396.24,
-      "liquidity": 141.62
+      "volume24hr": 522.0,
+      "liquidity": 1797119.11
     },
     {
-      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "market": "Counter-Strike: G2 Ares vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: G2 Ares vs Bebop - Map 2 Winner",
+      "prev": 0.595,
+      "now": 0.9995,
+      "delta": 0.4045,
+      "url": "https://polymarket.com/event/cs2-g2a-bbp-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 3979396.24,
-      "liquidity": 141.62
+      "volume24hr": 18363.64,
+      "liquidity": 254363.95
+    },
+    {
+      "market": "Counter-Strike: G2 Ares vs Bebop (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.0995,
+      "delta": -0.4005,
+      "url": "https://polymarket.com/event/cs2-g2a-bbp-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 65.26,
+      "liquidity": 475.23
     }
   ],
   "log": [
-    {
-      "ts": "03:15:02",
-      "text": " poll complete \u2014 1784 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:30:01",
       "text": " poll complete \u2014 1714 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "10:30:02",
       "text": " poll complete \u2014 1797 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:45:01",
+      "text": " poll complete \u2014 1775 markets scanned, 10 flagged"
     }
   ]
 }
