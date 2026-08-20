@@ -1,134 +1,86 @@
 {
-  "lastUpdate": "2026-08-20 07:00:01 UTC",
+  "lastUpdate": "2026-08-20 07:15:02 UTC",
   "swings": [
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: BB (-1.5) vs TEAM VISION (+1.5)",
-      "prev": 0.5,
-      "now": 0.185,
-      "delta": -0.315,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1794094.55,
-      "liquidity": 13718.14
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Game 3: Both Teams Destroy Barracks?",
-      "prev": 0.745,
-      "now": 0.495,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4754817.54,
-      "liquidity": 100.5
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.255,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1794094.55,
-      "liquidity": 65.1
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 70.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.255,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1794094.55,
-      "liquidity": 65.1
-    },
-    {
-      "market": "Highest temperature in Chengdu on August 20? \u2014 Will the highest temperature in Chengdu be 31\u00b0C on August 20?",
-      "prev": 0.72,
-      "now": 0.9,
-      "delta": 0.18,
-      "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Chengdu",
-        "Highest temperature"
-      ],
-      "volume24hr": 3743.53,
-      "liquidity": 328.17
-    },
-    {
-      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 1?",
-      "prev": 0.35,
-      "now": 0.515,
-      "delta": 0.165,
-      "url": "https://polymarket.com/event/lol-dk-hle1-2026-08-20",
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.55,
+      "now": 0.05,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 293762.52,
-      "liquidity": 10.42
+      "volume24hr": 239797.06,
+      "liquidity": 830.95
     },
     {
-      "market": "Highest temperature in Chengdu on August 20? \u2014 Will the highest temperature in Chengdu be 32\u00b0C on August 20?",
-      "prev": 0.185,
-      "now": 0.07,
-      "delta": -0.115,
-      "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-20-2026",
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Chengdu",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 3266.44,
-      "liquidity": 481.81
+      "volume24hr": 239797.06,
+      "liquidity": 802.26
     },
     {
-      "market": "Elon Musk # tweets August 14 - August 21, 2026? \u2014 Will Elon Musk post 200-219 tweets from August 14 to August 21, 2026?",
-      "prev": 0.1395,
-      "now": 0.225,
-      "delta": 0.0855,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-14-august-21",
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
       "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 140076.16,
-      "liquidity": 19978.78
+      "volume24hr": 4.44,
+      "liquidity": 802.26
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 239797.06,
+      "liquidity": 816.26
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 239797.06,
+      "liquidity": 802.26
     },
     {
       "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
-      "prev": 0.29,
-      "now": 0.355,
-      "delta": 0.065,
+      "prev": 0.355,
+      "now": 0.78,
+      "delta": 0.425,
       "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -136,30 +88,71 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1105129.2,
-      "liquidity": 191323.31
+      "volume24hr": 1410212.15,
+      "liquidity": 171363.4
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: VSN (-1.5) vs BoomBoys (+1.5)",
-      "prev": 0.185,
-      "now": 0.245,
-      "delta": 0.06,
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 113846.56,
-      "liquidity": 132301.93
+      "volume24hr": 239797.06,
+      "liquidity": 148.67
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 239797.06,
+      "liquidity": 148.67
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 239797.06,
+      "liquidity": 148.67
+    },
+    {
+      "market": "LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dkc-dnsc-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 239797.06,
+      "liquidity": 148.67
     }
   ],
   "log": [
-    {
-      "ts": "23:45:01",
-      "text": " poll complete \u2014 1881 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:00:01",
       "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
@@ -275,6 +268,10 @@
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1708 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:15:02",
+      "text": " poll complete \u2014 1711 markets scanned, 10 flagged"
     }
   ]
 }
