@@ -1,146 +1,141 @@
 {
-  "lastUpdate": "2026-08-20 03:00:01 UTC",
+  "lastUpdate": "2026-08-20 03:15:02 UTC",
   "swings": [
     {
-      "market": "Washington Nationals vs. Texas Rangers: O/U 6.5",
-      "prev": 0.605,
-      "now": 0.0005,
-      "delta": -0.6045,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
+      "market": "Los Angeles Angels vs. Houston Astros: O/U 6.5",
+      "prev": 0.59,
+      "now": 0.0045,
+      "delta": -0.5855,
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 3831.61,
-      "liquidity": 145544.42
+      "volume24hr": 353.66,
+      "liquidity": 3221.74
     },
     {
-      "market": "Will the game go to extra innings?: Washington Nationals vs. Texas Rangers",
+      "market": "Los Angeles Dodgers vs. Colorado Rockies: O/U 8.5",
+      "prev": 0.485,
+      "now": 0.9945,
+      "delta": 0.5095,
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1829.46,
+      "liquidity": 248.69
+    },
+    {
+      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: O/U 3.5",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 148513.87,
+      "liquidity": 122359.76
+    },
+    {
+      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 526637.35,
+      "liquidity": 3645.38
+    },
+    {
+      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 526637.35,
+      "liquidity": 3649.18
+    },
+    {
+      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Match O/U 22.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
+      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 527835.66,
-      "liquidity": 1552.02
+      "volume24hr": 385.01,
+      "liquidity": 6776.35
     },
     {
-      "market": "Washington Nationals vs. Texas Rangers \u2014 Spread: Washington Nationals (-3.5)",
+      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 2 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 527835.66,
-      "liquidity": 9650.09
+      "volume24hr": 526637.35,
+      "liquidity": 3680.1
     },
     {
-      "market": "Washington Nationals vs. Texas Rangers \u2014 Spread: Washington Nationals (-5.5)",
+      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Cincinnati Open: Completed Match: Frances Tiafoe vs Felix Auger-Aliassime",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 1782.79,
-      "liquidity": 14065.89
+      "volume24hr": 526637.35,
+      "liquidity": 1606.87
     },
     {
-      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 193960.39,
-      "liquidity": 1169.04
-    },
-    {
-      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: Chicago Fire FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 193960.39,
-      "liquidity": 1182.17
-    },
-    {
-      "market": "Will the game go to extra innings?: Seattle Mariners vs. Milwaukee Brewers",
+      "market": "Will the game go to extra innings?: Los Angeles Angels vs. Houston Astros",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-19",
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1023615.82,
-      "liquidity": 1150.5
+      "volume24hr": 273284.59,
+      "liquidity": 1070.33
     },
     {
-      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Seattle Mariners (-3.5)",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1046.02,
-      "liquidity": 8980.8
-    },
-    {
-      "market": "Washington Nationals vs. Texas Rangers \u2014 Spread: Washington Nationals (-6.5)",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 4118.1
-    },
-    {
-      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: 2nd Half O/U 1.5",
+      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: 2nd Half O/U 2.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +143,11 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 11.65,
-      "liquidity": 1136.65
+      "volume24hr": 202397.97,
+      "liquidity": 2863.67
     }
   ],
   "log": [
-    {
-      "ts": "19:45:01",
-      "text": " poll complete \u2014 2011 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:00:01",
       "text": " poll complete \u2014 1977 markets scanned, 10 flagged"
@@ -272,6 +263,10 @@
     {
       "ts": "03:00:01",
       "text": " poll complete \u2014 1870 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:15:02",
+      "text": " poll complete \u2014 1784 markets scanned, 10 flagged"
     }
   ]
 }
