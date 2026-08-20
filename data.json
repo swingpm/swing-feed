@@ -1,38 +1,38 @@
 {
-  "lastUpdate": "2026-08-20 00:00:01 UTC",
+  "lastUpdate": "2026-08-20 00:15:01 UTC",
   "swings": [
     {
-      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Club Cerro Porte\u00f1o O/U 2.5",
-      "prev": 0.5005,
-      "now": 0.0005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
+      "market": "Philadelphia Union vs. Inter Miami CF - More Markets \u2014 Philadelphia Union vs. Inter Miami CF: 1st Half O/U 2.5",
+      "prev": 0.445,
+      "now": 0.9995,
+      "delta": 0.5545,
+      "url": "https://polymarket.com/event/mls-phi-mia-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "MLS"
       ],
-      "volume24hr": 217016.09,
-      "liquidity": 15046.98
+      "volume24hr": 11296.77,
+      "liquidity": 102463.7
     },
     {
-      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 1st 5 Innings Spread: San Francisco Giants (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-19",
+      "market": "Philadelphia Union vs. Inter Miami CF - More Markets \u2014 Philadelphia Union vs. Inter Miami CF: Inter Miami CF O/U 1.5",
+      "prev": 0.48,
+      "now": 0.9995,
+      "delta": 0.5195,
+      "url": "https://polymarket.com/event/mls-phi-mia-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 34.85,
-      "liquidity": 1939.27
+      "volume24hr": 7151.09,
+      "liquidity": 99864.31
     },
     {
-      "market": "Toronto Blue Jays vs. Tampa Bay Rays: 1st 5 Innings O/U 3.5",
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays \u2014 1st 5 Innings Spread: Tampa Bay Rays (-1.5)",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
@@ -43,120 +43,114 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 201.38,
-      "liquidity": 2388.12
+      "volume24hr": 254.34,
+      "liquidity": 1179.06
     },
     {
-      "market": "Toronto Blue Jays vs. Tampa Bay Rays: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1031.87,
-      "liquidity": 2474.63
-    },
-    {
-      "market": "Toronto Blue Jays vs. Tampa Bay Rays: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 160.0,
-      "liquidity": 1773.52
-    },
-    {
-      "market": "Toronto Blue Jays vs. Tampa Bay Rays: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 1671.03
-    },
-    {
-      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Club Cerro Porte\u00f1o O/U 1.5",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 1st 5 Innings Spread: Cincinnati Reds (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Libertadores"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 23.05,
-      "liquidity": 15065.22
+      "volume24hr": 45.0,
+      "liquidity": 2105.1
     },
     {
-      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: 2nd Half O/U 1.5",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds \u2014 1st 5 Innings Spread: St. Louis Cardinals (-1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 15.87,
+      "liquidity": 1714.56
+    },
+    {
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: 1st 5 Innings O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Libertadores"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 217016.09,
-      "liquidity": 3866.46
+      "volume24hr": 10.0,
+      "liquidity": 1757.08
     },
     {
-      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Both Teams to Score in Second Half",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Libertadores"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 47.0,
-      "liquidity": 2890.66
+      "volume24hr": 348081.05,
+      "liquidity": 2039.62
     },
     {
-      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: 2nd Half O/U 0.5",
+      "market": "St. Louis Cardinals vs. Cincinnati Reds: 1st 5 Innings O/U 6.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-stl-cin-2026-08-19",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Libertadores"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 217016.09,
-      "liquidity": 2862.65
+      "volume24hr": 348081.05,
+      "liquidity": 2431.27
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marie Bouzkova \u2014 Cincinnati Open: Completed Match: Coco Gauff vs Marie Bouzkova",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-bouzkov-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 273836.75,
+      "liquidity": 2877.28
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marie Bouzkova \u2014 Gauff vs. Bouzkova: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-bouzkov-2026-08-19",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1367.15,
+      "liquidity": 8177.46
     }
   ],
   "log": [
-    {
-      "ts": "16:45:01",
-      "text": " poll complete \u2014 1989 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:00:01",
       "text": " poll complete \u2014 1981 markets scanned, 10 flagged"
@@ -272,6 +266,10 @@
     {
       "ts": "00:00:01",
       "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:15:01",
+      "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
     }
   ]
 }
