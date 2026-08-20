@@ -1,165 +1,152 @@
 {
-  "lastUpdate": "2026-08-20 15:00:01 UTC",
+  "lastUpdate": "2026-08-20 15:15:02 UTC",
   "swings": [
     {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "market": "Sion: Benjamin Hassan vs Geoffrey Blancaneaux \u2014 Sion: Completed Match: Benjamin Hassan vs Geoffrey Blancaneaux",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.05,
-      "liquidity": 141.62
-    },
-    {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3960767.47,
-      "liquidity": 141.62
-    },
-    {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3960767.47,
-      "liquidity": 141.62
-    },
-    {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3960767.47,
-      "liquidity": 141.62
-    },
-    {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3960767.47,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Highest temperature in London on August 20? \u2014 Will the highest temperature in London be 23\u00b0C on August 20?",
-      "prev": 0.385,
-      "now": 0.0005,
-      "delta": -0.3845,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-20-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 14661.42,
-      "liquidity": 29114.17
-    },
-    {
-      "market": "Sion: Benjamin Hassan vs Geoffrey Blancaneaux",
-      "prev": 0.545,
-      "now": 0.905,
-      "delta": 0.36,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-hassan-blancan-2026-08-20",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 405647.63,
-      "liquidity": 304114.56
+      "volume24hr": 442876.27,
+      "liquidity": 1875.7
     },
     {
-      "market": "Highest temperature in London on August 20? \u2014 Will the highest temperature in London be 24\u00b0C on August 20?",
-      "prev": 0.595,
-      "now": 0.935,
-      "delta": 0.34,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-20-2026",
+      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Roehampton: Completed Match: Oliver Tarvet vs Charles Broom",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 21950.94,
-      "liquidity": 614.23
+      "volume24hr": 162727.14,
+      "liquidity": 1875.7
     },
     {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Counter-Strike: OG vs SPARTA - Map 2 Winner",
-      "prev": 0.67,
-      "now": 0.38,
-      "delta": -0.29,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
+      "market": "Prague 2: Norbert Gombos vs Radu Mihai Papoe \u2014 Gombos vs. Papoe: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-gombos-papoe-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101297.6,
+      "liquidity": 3821.15
+    },
+    {
+      "market": "Prague 2: Norbert Gombos vs Radu Mihai Papoe \u2014 Set 2 Winner: Gombos vs Papoe",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-gombos-papoe-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101297.6,
+      "liquidity": 3802.65
+    },
+    {
+      "market": "Prague 2: Norbert Gombos vs Radu Mihai Papoe \u2014 Gombos vs. Papoe: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-gombos-papoe-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101297.6,
+      "liquidity": 3598.93
+    },
+    {
+      "market": "Prague 2: Norbert Gombos vs Radu Mihai Papoe \u2014 Gombos vs. Papoe: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-gombos-papoe-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 101297.6,
+      "liquidity": 3826.1
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
+      "prev": 0.5,
+      "now": 0.95,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 201.25,
+      "liquidity": 299.07
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
+      "prev": 0.29,
+      "now": 0.72,
+      "delta": 0.43,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 246.34,
+      "liquidity": 2.39
+    },
+    {
+      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.565,
+      "now": 0.135,
+      "delta": -0.43,
+      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 3861.59,
-      "liquidity": 69648.34
+      "volume24hr": 10290.09,
+      "liquidity": 257.2
     },
     {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.33,
-      "now": 0.62,
-      "delta": 0.29,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner",
+      "prev": 0.365,
+      "now": 0.785,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 900.96,
-      "liquidity": 136.23
+      "volume24hr": 592623.9,
+      "liquidity": 194102.14
     }
   ],
   "log": [
-    {
-      "ts": "07:45:02",
-      "text": " poll complete \u2014 1672 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:00:02",
       "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
@@ -275,6 +262,10 @@
     {
       "ts": "15:00:01",
       "text": " poll complete \u2014 1833 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:15:02",
+      "text": " poll complete \u2014 1839 markets scanned, 10 flagged"
     }
   ]
 }
