@@ -1,70 +1,41 @@
 {
-  "lastUpdate": "2026-08-20 02:00:01 UTC",
+  "lastUpdate": "2026-08-20 02:15:01 UTC",
   "swings": [
     {
-      "market": "Toronto FC vs. Charlotte FC - More Markets \u2014 Toronto FC vs. Charlotte FC: Charlotte FC 2nd Half O/U 1.5",
-      "prev": 0.655,
-      "now": 0.0005,
-      "delta": -0.6545,
-      "url": "https://polymarket.com/event/mls-tor-clt-2026-08-19-more-markets",
+      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas 1st Half O/U 1.5",
+      "prev": 0.08,
+      "now": 0.9945,
+      "delta": 0.9145,
+      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 112622.83,
-      "liquidity": 5152.76
+      "volume24hr": 106175.39,
+      "liquidity": 1442.61
     },
     {
-      "market": "Athletics vs. Kansas City Royals: O/U 9.5",
-      "prev": 0.235,
-      "now": 0.815,
-      "delta": 0.58,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 11158.04,
-      "liquidity": 2977.11
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Match O/U 22.5",
-      "prev": 0.575,
-      "now": 0.005,
-      "delta": -0.57,
-      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 2367.86,
-      "liquidity": 21529.42
-    },
-    {
-      "market": "Athletics vs. Kansas City Royals \u2014 Spread: Athletics (-2.5)",
-      "prev": 0.615,
-      "now": 0.05,
-      "delta": -0.565,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 12490.97,
-      "liquidity": 5089.06
-    },
-    {
-      "market": "Athletics vs. Kansas City Royals: O/U 8.5",
-      "prev": 0.445,
+      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: 1st Half O/U 1.5",
+      "prev": 0.295,
       "now": 0.995,
-      "delta": 0.55,
+      "delta": 0.7,
+      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 44.57,
+      "liquidity": 4088.7
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-1.5)",
+      "prev": 0.275,
+      "now": 0.9535,
+      "delta": 0.6785,
       "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
       "tags": [
         "Sports",
@@ -72,86 +43,113 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 50898.81,
-      "liquidity": 97738.35
+      "volume24hr": 40727.67,
+      "liquidity": 883.13
     },
     {
-      "market": "New York Red Bulls vs. Nashville SC - More Markets \u2014 New York Red Bulls vs. Nashville SC: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/mls-nyr-nas-2026-08-19-more-markets",
+      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas O/U 1.5",
+      "prev": 0.345,
+      "now": 0.995,
+      "delta": 0.65,
+      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 201378.51,
-      "liquidity": 0.0
+      "volume24hr": 45.5,
+      "liquidity": 4454.04
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Match O/U 21.5",
-      "prev": 0.5,
+      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas 1st Half O/U 0.5",
+      "prev": 0.395,
+      "now": 0.9945,
+      "delta": 0.5995,
+      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 609.0,
+      "liquidity": 1448.29
+    },
+    {
+      "market": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti \u2014 Set 1 Winner: Faria vs Musetti",
+      "prev": 0.545,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
+      "delta": -0.5445,
+      "url": "https://polymarket.com/event/atp-faria-musetti-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1583.22,
-      "liquidity": 12617.54
+      "volume24hr": 3330.99,
+      "liquidity": 51218.61
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Set 2 Games O/U 8.5",
+      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas O/U 2.5",
+      "prev": 0.12,
+      "now": 0.625,
+      "delta": 0.505,
+      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 292.78,
+      "liquidity": 2713.14
+    },
+    {
+      "market": "Los Angeles Dodgers vs. Colorado Rockies: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 515.27,
+      "liquidity": 2230.16
+    },
+    {
+      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 439004.98,
-      "liquidity": 5024.96
+      "volume24hr": 317633.31,
+      "liquidity": 6858.96
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Set 2 Games O/U 9.5",
+      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 1 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
+      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 439004.98,
-      "liquidity": 5022.87
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Christopher O'Connell \u2014 Fritz vs. O'Connell: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-oconnel-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 439004.98,
-      "liquidity": 5004.89
+      "volume24hr": 317633.31,
+      "liquidity": 6876.2
     }
   ],
   "log": [
-    {
-      "ts": "18:45:01",
-      "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:00:01",
       "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
@@ -267,6 +265,10 @@
     {
       "ts": "02:00:01",
       "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:15:01",
+      "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
     }
   ]
 }
