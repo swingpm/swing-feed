@@ -1,156 +1,158 @@
 {
-  "lastUpdate": "2026-08-20 03:30:01 UTC",
+  "lastUpdate": "2026-08-20 03:45:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Set 1 Winner: Sabalenka vs Bejlek",
-      "prev": 0.915,
-      "now": 0.0005,
-      "delta": -0.9145,
-      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 16180.67,
-      "liquidity": 132347.91
-    },
-    {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Set Handicap: Sabalenka (-1.5) vs Bejlek (+1.5)",
-      "prev": 0.755,
-      "now": 0.05,
-      "delta": -0.705,
-      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 5682.44,
-      "liquidity": 84.67
-    },
-    {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: 1st Half O/U 0.5",
-      "prev": 0.71,
-      "now": 0.21,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
+      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: O/U 2.5",
+      "prev": 0.055,
+      "now": 0.9995,
+      "delta": 0.9445,
+      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 1449.82,
-      "liquidity": 6788.05
+      "volume24hr": 88497.71,
+      "liquidity": 171795.19
     },
     {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Sabalenka vs. Bejlek: Set 1 Games O/U 8.5",
+      "market": "Real Salt Lake vs. FC Dallas \u2014 Will FC Dallas win on 2026-08-19?",
+      "prev": 0.13,
+      "now": 0.9995,
+      "delta": 0.8695,
+      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 43456.19,
+      "liquidity": 308141.3
+    },
+    {
+      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: Austin FC O/U 1.5",
+      "prev": 0.15,
+      "now": 0.9995,
+      "delta": 0.8495,
+      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 2056.39,
+      "liquidity": 29097.99
+    },
+    {
+      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: Both Teams to Score",
+      "prev": 0.275,
+      "now": 0.9995,
+      "delta": 0.7245,
+      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 9052.77,
+      "liquidity": 153376.04
+    },
+    {
+      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: Seattle Sounders FC O/U 0.5",
+      "prev": 0.275,
+      "now": 0.9995,
+      "delta": 0.7245,
+      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 1246.41,
+      "liquidity": 25408.13
+    },
+    {
+      "market": "Will Real Salt Lake vs. FC Dallas end in a draw?",
+      "prev": 0.62,
+      "now": 0.0005,
+      "delta": -0.6195,
+      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 12995.48,
+      "liquidity": 234785.87
+    },
+    {
+      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: O/U 1.5",
+      "prev": 0.4,
+      "now": 0.9995,
+      "delta": 0.5995,
+      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 19479.07,
+      "liquidity": 118987.03
+    },
+    {
+      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: 2nd Half O/U 1.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 23.81,
-      "liquidity": 7932.98
-    },
-    {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: San Jose Earthquakes 1st Half O/U 1.5",
-      "prev": 0.51,
-      "now": 0.0125,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 361.21,
-      "liquidity": 339.18
+      "volume24hr": 326033.48,
+      "liquidity": 4831.48
     },
     {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: Los Angeles Galaxy 1st Half O/U 1.5",
-      "prev": 0.52,
-      "now": 0.023,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 4.55,
-      "liquidity": 340.0
-    },
-    {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Aryna Sabalenka vs. Sara Bejlek: Total Sets O/U 2.5",
-      "prev": 0.26,
-      "now": 0.755,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 688.09,
-      "liquidity": 267.76
-    },
-    {
-      "market": "Los Angeles Galaxy vs. San Jose Earthquakes - More Markets \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: San Jose Earthquakes 1st Half O/U 0.5",
-      "prev": 0.62,
-      "now": 0.125,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mls-lag-sje-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 348.07,
-      "liquidity": 682.98
-    },
-    {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Sabalenka vs. Bejlek: Set 1 Games O/U 9.5",
-      "prev": 0.505,
+      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 251549.01,
-      "liquidity": 8269.03
+      "volume24hr": 326033.48,
+      "liquidity": 4905.39
     },
     {
-      "market": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek \u2014 Sabalenka vs. Bejlek: Set 1 Games O/U 10.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-sabalen-bejlek-2026-08-19",
+      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 25.0,
-      "liquidity": 8277.36
+      "volume24hr": 130135.05,
+      "liquidity": 4203.97
     }
   ],
   "log": [
-    {
-      "ts": "20:15:02",
-      "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:30:02",
       "text": " poll complete \u2014 1994 markets scanned, 10 flagged"
@@ -266,6 +268,10 @@
     {
       "ts": "03:30:01",
       "text": " poll complete \u2014 1714 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:45:01",
+      "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
     }
   ]
 }
