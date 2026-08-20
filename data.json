@@ -1,86 +1,101 @@
 {
-  "lastUpdate": "2026-08-19 23:45:01 UTC",
+  "lastUpdate": "2026-08-20 00:00:01 UTC",
   "swings": [
     {
-      "market": "Toronto Tempo vs. Washington Mystics \u2014 Georgia Amoore: Points O/U 5.5",
-      "prev": 0.485,
-      "now": 0.9945,
-      "delta": 0.5095,
-      "url": "https://polymarket.com/event/wnba-tor-wsh-2026-08-19",
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Club Cerro Porte\u00f1o O/U 2.5",
+      "prev": 0.5005,
+      "now": 0.0005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "Copa Libertadores"
       ],
-      "volume24hr": 504330.43,
-      "liquidity": 127.18
+      "volume24hr": 217016.09,
+      "liquidity": 15046.98
     },
     {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox: O/U 13.5",
+      "market": "San Francisco Giants vs. Cleveland Guardians \u2014 1st 5 Innings Spread: San Francisco Giants (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
+      "url": "https://polymarket.com/event/mlb-sf-cle-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 295.07,
-      "liquidity": 6026.97
+      "volume24hr": 34.85,
+      "liquidity": 1939.27
     },
     {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox: O/U 14.5",
-      "prev": 0.495,
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 201.38,
+      "liquidity": 2388.12
+    },
+    {
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1031.87,
+      "liquidity": 2474.63
+    },
+    {
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 160.0,
+      "liquidity": 1773.52
+    },
+    {
+      "market": "Toronto Blue Jays vs. Tampa Bay Rays: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-tor-tb-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 1671.03
+    },
+    {
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Club Cerro Porte\u00f1o O/U 1.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1101939.8,
-      "liquidity": 4334.43
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Athletics vs. Kansas City Royals",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 76.92,
-      "liquidity": 4689.3
-    },
-    {
-      "market": "New York Red Bulls vs. Nashville SC - More Markets \u2014 New York Red Bulls vs. Nashville SC: 2nd Half O/U 2.5",
-      "prev": 0.145,
-      "now": 0.605,
-      "delta": 0.46,
-      "url": "https://polymarket.com/event/mls-nyr-nas-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 144106.6,
-      "liquidity": 2.45
-    },
-    {
-      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Club Cerro Porte\u00f1o O/U 0.5",
-      "prev": 0.585,
-      "now": 0.13,
-      "delta": -0.455,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
       "tags": [
         "Sports",
@@ -88,29 +103,14 @@
         "Soccer",
         "Copa Libertadores"
       ],
-      "volume24hr": 81.1,
-      "liquidity": 2874.19
+      "volume24hr": 23.05,
+      "liquidity": 15065.22
     },
     {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox \u2014 Spread: Arizona Diamondbacks (-1.5)",
-      "prev": 0.44,
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: 2nd Half O/U 1.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.4395,
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5588.85,
-      "liquidity": 20892.41
-    },
-    {
-      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: SE Palmeiras O/U 2.5",
-      "prev": 0.445,
-      "now": 0.0155,
-      "delta": -0.4295,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
       "tags": [
         "Sports",
@@ -118,29 +118,14 @@
         "Soccer",
         "Copa Libertadores"
       ],
-      "volume24hr": 49.99,
-      "liquidity": 4908.24
+      "volume24hr": 217016.09,
+      "liquidity": 3866.46
     },
     {
-      "market": "Will the game go to extra innings?: Athletics vs. Kansas City Royals",
-      "prev": 0.085,
-      "now": 0.5,
-      "delta": 0.415,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 399180.26,
-      "liquidity": 1.39
-    },
-    {
-      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: SE Palmeiras O/U 1.5",
-      "prev": 0.61,
-      "now": 0.21,
-      "delta": -0.4,
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +133,26 @@
         "Soccer",
         "Copa Libertadores"
       ],
-      "volume24hr": 1805.81,
-      "liquidity": 4388.78
+      "volume24hr": 47.0,
+      "liquidity": 2890.66
+    },
+    {
+      "market": "Club Cerro Porte\u00f1o vs. SE Palmeiras - More Markets \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lib-cep-pal-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 217016.09,
+      "liquidity": 2862.65
     }
   ],
   "log": [
-    {
-      "ts": "16:30:02",
-      "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 1989 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "23:45:01",
       "text": " poll complete \u2014 1881 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:00:01",
+      "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
     }
   ]
 }
