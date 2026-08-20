@@ -1,70 +1,98 @@
 {
-  "lastUpdate": "2026-08-20 20:15:02 UTC",
+  "lastUpdate": "2026-08-20 20:30:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map Handicap: FUT (-1.5) vs Team Liquid (+1.5)",
-      "prev": 0.485,
-      "now": 0.9995,
-      "delta": 0.5145,
-      "url": "https://polymarket.com/event/val-tl1-fut1-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 15949.28
-    },
-    {
-      "market": "Quebec City: Rei Sakamoto vs Luca Van Assche \u2014 Quebec City: Completed Match: Rei Sakamoto vs Luca Van Assche",
+      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-sakamot-assche-2026-08-20",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 500.0,
-      "liquidity": 1791.61
+      "volume24hr": 31.06,
+      "liquidity": 7685.7
     },
     {
-      "market": "FK Crvena zvezda vs. FC Viktoria Plze\u0148 - More Markets \u2014 FK Crvena zvezda vs. FC Viktoria Plze\u0148: FC Viktoria Plze\u0148 O/U 2.5",
+      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 1 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/uel-crv-plz-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 622527.51,
+      "liquidity": 7260.12
+    },
+    {
+      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 622527.51,
+      "liquidity": 7629.75
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals \u2014 1st 5 Innings Spread: Athletics (-1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "UEL"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 626.82,
-      "liquidity": 14595.44
+      "volume24hr": 633527.79,
+      "liquidity": 1120.11
     },
     {
-      "market": "Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: Team Liquid (-2.5) vs FUT Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/val-tl1-fut1-2026-08-20",
+      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs",
+      "prev": 0.725,
+      "now": 0.365,
+      "delta": -0.36,
+      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
       "tags": [
         "Esports",
-        "Valorant",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 429352.53,
-      "liquidity": 16638.81
+      "volume24hr": 94884.07,
+      "liquidity": 144241.06
     },
     {
-      "market": "Athletics vs. Kansas City Royals: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
+      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-4.5)",
+      "prev": 0.16,
+      "now": 0.48,
+      "delta": 0.32,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 306.23,
+      "liquidity": 236.85
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-5.5)",
+      "prev": 0.27,
+      "now": 0.57,
+      "delta": 0.3,
       "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-20",
       "tags": [
         "Sports",
@@ -72,90 +100,56 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 50.0,
-      "liquidity": 1637.98
+      "volume24hr": 633527.79,
+      "liquidity": 473.18
     },
     {
-      "market": "Athletics vs. Kansas City Royals: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-20",
+      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: O/U 5.5",
+      "prev": 0.675,
+      "now": 0.385,
+      "delta": -0.29,
+      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UEL"
+      ],
+      "volume24hr": 17628.54,
+      "liquidity": 67098.73
+    },
+    {
+      "market": "Will Atalanta BC vs. MH Hapoel Tel Aviv end in a draw?",
+      "prev": 0.715,
+      "now": 0.9995,
+      "delta": 0.2845,
+      "url": "https://polymarket.com/event/col-ata-hta-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Europa Conference League"
+      ],
+      "volume24hr": 9395.14,
+      "liquidity": 221564.03
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 4.5",
+      "prev": 0.25,
+      "now": 0.505,
+      "delta": 0.255,
+      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 46.0,
-      "liquidity": 1232.18
-    },
-    {
-      "market": "FK Crvena zvezda vs. FC Viktoria Plze\u0148 - More Markets \u2014 FK Crvena zvezda vs. FC Viktoria Plze\u0148: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/uel-crv-plz-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 219870.87,
-      "liquidity": 3771.46
-    },
-    {
-      "market": "FK Crvena zvezda vs. FC Viktoria Plze\u0148 - More Markets \u2014 FK Crvena zvezda vs. FC Viktoria Plze\u0148: FC Viktoria Plze\u0148 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/uel-crv-plz-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 7.14,
-      "liquidity": 3722.35
-    },
-    {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: 2nd Half O/U 2.5",
-      "prev": 0.17,
-      "now": 0.665,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 361468.63,
-      "liquidity": 93.32
-    },
-    {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Rayo Vallecano de Madrid 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 20.0,
-      "liquidity": 495.0
+      "volume24hr": 1374.56,
+      "liquidity": 1.64
     }
   ],
   "log": [
-    {
-      "ts": "13:00:01",
-      "text": " poll complete \u2014 1848 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:15:01",
       "text": " poll complete \u2014 1838 markets scanned, 10 flagged"
@@ -271,6 +265,10 @@
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 2075 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:30:01",
+      "text": " poll complete \u2014 2088 markets scanned, 10 flagged"
     }
   ]
 }
