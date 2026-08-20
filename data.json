@@ -1,115 +1,26 @@
 {
-  "lastUpdate": "2026-08-20 16:00:02 UTC",
+  "lastUpdate": "2026-08-20 16:15:01 UTC",
   "swings": [
     {
-      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: 1st Half O/U 2.5",
-      "prev": 0.25,
-      "now": 0.997,
-      "delta": 0.747,
-      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 2571.81,
-      "liquidity": 17069.21
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
-      "prev": 0.72,
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 3 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
       "now": 0.005,
-      "delta": -0.715,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 259.05,
-      "liquidity": 1050.5
+      "volume24hr": 188972.2,
+      "liquidity": 374.22
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 6027754.48,
-      "liquidity": 674.71
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 6027754.48,
-      "liquidity": 722.71
-    },
-    {
-      "market": "Prague 2: Norbert Gombos vs Radu Mihai Papoe \u2014 Prague 2: Completed Match: Norbert Gombos vs Radu Mihai Papoe",
-      "prev": 0.5,
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 40.5 in Game 2?",
+      "prev": 0.505,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gombos-papoe-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 247283.34,
-      "liquidity": 1875.7
-    },
-    {
-      "market": "Valorant: Team Vitality vs Enterprise Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-vit-ep1-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 305.72,
-      "liquidity": 794.96
-    },
-    {
-      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UEL"
-      ],
-      "volume24hr": 42.62,
-      "liquidity": 4209.12
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "delta": 0.4945,
       "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
         "Esports",
@@ -117,14 +28,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 6027754.48,
-      "liquidity": 1385.6
+      "volume24hr": 5.0,
+      "liquidity": 811.8
     },
     {
-      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: RSC Anderlecht 1st Half O/U 0.5",
-      "prev": 0.5005,
-      "now": 0.9955,
-      "delta": 0.495,
+      "market": "Qairat FK vs. RSC Anderlecht - More Markets \u2014 Qairat FK vs. RSC Anderlecht: Qairat FK O/U 2.5",
+      "prev": 0.005,
+      "now": 0.475,
+      "delta": 0.47,
       "url": "https://polymarket.com/event/uel-kai-and-2026-08-20-more-markets",
       "tags": [
         "Sports",
@@ -132,30 +43,116 @@
         "Soccer",
         "UEL"
       ],
-      "volume24hr": 80.21,
-      "liquidity": 3132.67
+      "volume24hr": 104.16,
+      "liquidity": 181.77
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Ends in Daytime?",
+      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 230884.9,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 6027754.48,
+      "volume24hr": 230884.9,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 230884.9,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 230884.9,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 230884.9,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 230884.9,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 230884.9,
       "liquidity": 141.62
     }
   ],
   "log": [
-    {
-      "ts": "08:45:01",
-      "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:00:02",
       "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "16:00:02",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:15:01",
+      "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
     }
   ]
 }
