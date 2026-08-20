@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 02:15:01 UTC",
+  "lastUpdate": "2026-08-20 02:30:01 UTC",
   "swings": [
     {
-      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas 1st Half O/U 1.5",
-      "prev": 0.08,
+      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: Both Teams to Score in First Half",
+      "prev": 0.325,
       "now": 0.9945,
-      "delta": 0.9145,
+      "delta": 0.6695,
       "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
       "tags": [
         "Sports",
@@ -13,14 +13,14 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 106175.39,
-      "liquidity": 1442.61
+      "volume24hr": 1419.47,
+      "liquidity": 2814.41
     },
     {
-      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: 1st Half O/U 1.5",
-      "prev": 0.295,
-      "now": 0.995,
-      "delta": 0.7,
+      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: Real Salt Lake 1st Half O/U 0.5",
+      "prev": 0.35,
+      "now": 0.9945,
+      "delta": 0.6445,
       "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
       "tags": [
         "Sports",
@@ -28,14 +28,29 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 44.57,
-      "liquidity": 4088.7
+      "volume24hr": 111886.32,
+      "liquidity": 1206.99
     },
     {
-      "market": "Athletics vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-1.5)",
-      "prev": 0.275,
-      "now": 0.9535,
-      "delta": 0.6785,
+      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: 1st Half O/U 2.5",
+      "prev": 0.48,
+      "now": 0.9945,
+      "delta": 0.5145,
+      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 33.25,
+      "liquidity": 4912.09
+    },
+    {
+      "market": "Will the game go to extra innings?: Athletics vs. Kansas City Royals",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
       "tags": [
         "Sports",
@@ -43,117 +58,101 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 40727.67,
-      "liquidity": 883.13
+      "volume24hr": 671179.34,
+      "liquidity": 1598.31
     },
     {
-      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas O/U 1.5",
-      "prev": 0.345,
-      "now": 0.995,
-      "delta": 0.65,
-      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 45.5,
-      "liquidity": 4454.04
-    },
-    {
-      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas 1st Half O/U 0.5",
-      "prev": 0.395,
-      "now": 0.9945,
-      "delta": 0.5995,
-      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 609.0,
-      "liquidity": 1448.29
-    },
-    {
-      "market": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti \u2014 Set 1 Winner: Faria vs Musetti",
-      "prev": 0.545,
-      "now": 0.0005,
-      "delta": -0.5445,
-      "url": "https://polymarket.com/event/atp-faria-musetti-2026-08-19",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 3330.99,
-      "liquidity": 51218.61
-    },
-    {
-      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas O/U 2.5",
-      "prev": 0.12,
-      "now": 0.625,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 292.78,
-      "liquidity": 2713.14
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Colorado Rockies: 1st 5 Innings O/U 5.5",
+      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: Both Teams to Score in First Half",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-19",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 572.74,
+      "liquidity": 12972.27
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-4.5)",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 515.27,
-      "liquidity": 2230.16
+      "volume24hr": 10.0,
+      "liquidity": 1720.05
     },
     {
-      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 1 Games O/U 8.5",
+      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: Orlando City SC 1st Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 317633.31,
-      "liquidity": 6858.96
+      "volume24hr": 60.0,
+      "liquidity": 3823.65
     },
     {
-      "market": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime \u2014 Tiafoe vs. Auger-Aliassime: Set 1 Games O/U 9.5",
+      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: Orlando City SC 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tiafoe-augeral-2026-08-19",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 317633.31,
-      "liquidity": 6876.2
+      "volume24hr": 175957.41,
+      "liquidity": 3809.67
+    },
+    {
+      "market": "Orlando City SC vs. Chicago Fire FC - More Markets \u2014 Orlando City SC vs. Chicago Fire FC: Chicago Fire FC 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mls-orl-chi-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 4.76,
+      "liquidity": 3823.67
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals: O/U 16.5",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-19",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 14.9
     }
   ],
   "log": [
-    {
-      "ts": "19:00:01",
-      "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:15:01",
       "text": " poll complete \u2014 2030 markets scanned, 10 flagged"
@@ -269,6 +268,10 @@
     {
       "ts": "02:15:01",
       "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:30:01",
+      "text": " poll complete \u2014 1820 markets scanned, 10 flagged"
     }
   ]
 }
