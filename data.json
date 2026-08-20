@@ -1,162 +1,151 @@
 {
-  "lastUpdate": "2026-08-20 15:30:01 UTC",
+  "lastUpdate": "2026-08-20 15:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: Bar\u00e7a eSports vs UCAM Esports Club (BO3) - LES Playoffs",
-      "prev": 0.2505,
-      "now": 0.9945,
-      "delta": 0.744,
-      "url": "https://polymarket.com/event/lol-bar-ucam1-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 60454.64,
-      "liquidity": 212796.37
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map Handicap: OG (-1.5) vs SPARTA (+1.5)",
-      "prev": 0.485,
-      "now": 0.0005,
-      "delta": -0.4845,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 247.0,
-      "liquidity": 8785.17
-    },
-    {
-      "market": "Counter-Strike: Metizport vs Color (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Counter-Strike: Metizport vs Color - Map 2 Winner",
-      "prev": 0.545,
-      "now": 0.09,
-      "delta": -0.455,
-      "url": "https://polymarket.com/event/cs2-mzp-color-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 52776.39,
-      "liquidity": 107909.74
-    },
-    {
-      "market": "Counter-Strike: Metizport vs Color (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.455,
-      "now": 0.905,
-      "delta": 0.45,
-      "url": "https://polymarket.com/event/cs2-mzp-color-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 225.93,
-      "liquidity": 76.53
-    },
-    {
-      "market": "Counter-Strike: Metizport vs Color (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map Handicap: MZP (-1.5) vs Color (+1.5)",
-      "prev": 0.545,
-      "now": 0.095,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/cs2-mzp-color-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5811.93,
-      "liquidity": 74.96
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.595,
+      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: Vitality (-3.5) vs FaZe (+3.5)",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.4045,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 900.96,
-      "liquidity": 62520.44
+      "volume24hr": 3834.52,
+      "liquidity": 11786.67
     },
     {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: B8 (-3.5) vs Spirit (+3.5)",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.05,
-      "liquidity": 141.62
-    },
-    {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4084402.78,
-      "liquidity": 141.62
-    },
-    {
-      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 3: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4084402.78,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 137571.31,
-      "liquidity": 471.22
+      "volume24hr": 1084788.85,
+      "liquidity": 11443.23
+    },
+    {
+      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: Spirit (-6.5) vs B8 (+6.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1084788.85,
+      "liquidity": 11443.23
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Prague 2: Completed Match: Maxim Mrva vs Jan Kumstat",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 4321.0,
+      "liquidity": 9703.01
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Maxim Mrva vs. Jan Kumstat: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 8.23,
+      "liquidity": 7219.16
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Mrva vs. Kumstat: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 272.85,
+      "liquidity": 7111.17
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Set 2 Winner: Mrva vs Kumstat",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 80879.74,
+      "liquidity": 4444.14
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Mrva vs. Kumstat: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 80879.74,
+      "liquidity": 4003.59
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Mrva vs. Kumstat: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 80879.74,
+      "liquidity": 4003.59
+    },
+    {
+      "market": "Prague 2: Maxim Mrva vs Jan Kumstat \u2014 Mrva vs. Kumstat: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-mrva-kumstat-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 80879.74,
+      "liquidity": 7100.36
     }
   ],
   "log": [
-    {
-      "ts": "08:15:01",
-      "text": " poll complete \u2014 1662 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:30:01",
       "text": " poll complete \u2014 1675 markets scanned, 10 flagged"
@@ -272,6 +261,10 @@
     {
       "ts": "15:30:01",
       "text": " poll complete \u2014 1876 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:45:01",
+      "text": " poll complete \u2014 1899 markets scanned, 10 flagged"
     }
   ]
 }
