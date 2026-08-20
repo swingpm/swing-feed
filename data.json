@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-20 03:45:01 UTC",
+  "lastUpdate": "2026-08-20 04:00:01 UTC",
   "swings": [
     {
-      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: O/U 2.5",
-      "prev": 0.055,
-      "now": 0.9995,
-      "delta": 0.9445,
-      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Dota 2: Iron Wing vs Team Spirit - Game 1 Winner",
+      "prev": 0.685,
+      "now": 0.125,
+      "delta": -0.56,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 88497.71,
-      "liquidity": 171795.19
+      "volume24hr": 1234915.07,
+      "liquidity": 170261.41
     },
     {
-      "market": "Real Salt Lake vs. FC Dallas \u2014 Will FC Dallas win on 2026-08-19?",
-      "prev": 0.13,
-      "now": 0.9995,
-      "delta": 0.8695,
-      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 43456.19,
-      "liquidity": 308141.3
-    },
-    {
-      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: Austin FC O/U 1.5",
-      "prev": 0.15,
-      "now": 0.9995,
-      "delta": 0.8495,
-      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 2056.39,
-      "liquidity": 29097.99
-    },
-    {
-      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: Both Teams to Score",
-      "prev": 0.275,
-      "now": 0.9995,
-      "delta": 0.7245,
-      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 9052.77,
-      "liquidity": 153376.04
-    },
-    {
-      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: Seattle Sounders FC O/U 0.5",
-      "prev": 0.275,
-      "now": 0.9995,
-      "delta": 0.7245,
-      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 1246.41,
-      "liquidity": 25408.13
-    },
-    {
-      "market": "Will Real Salt Lake vs. FC Dallas end in a draw?",
-      "prev": 0.62,
-      "now": 0.0005,
-      "delta": -0.6195,
-      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 12995.48,
-      "liquidity": 234785.87
-    },
-    {
-      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: O/U 1.5",
-      "prev": 0.4,
-      "now": 0.9995,
-      "delta": 0.5995,
-      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 19479.07,
-      "liquidity": 118987.03
-    },
-    {
-      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 326033.48,
-      "liquidity": 4831.48
-    },
-    {
-      "market": "Seattle Sounders FC vs. Austin FC - More Markets \u2014 Seattle Sounders FC vs. Austin FC: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mls-sea-aus-2026-08-19-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 326033.48,
-      "liquidity": 4905.39
-    },
-    {
-      "market": "Real Salt Lake vs. FC Dallas - More Markets \u2014 Real Salt Lake vs. FC Dallas: FC Dallas 2nd Half O/U 1.5",
+      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mls-rsl-dal-2026-08-19-more-markets",
+      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 130135.05,
-      "liquidity": 4203.97
+      "volume24hr": 109227.99,
+      "liquidity": 4562.52
+    },
+    {
+      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 109227.99,
+      "liquidity": 4585.43
+    },
+    {
+      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 109227.99,
+      "liquidity": 4567.41
+    },
+    {
+      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Colorado Rapids SC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 8.51,
+      "liquidity": 4562.42
+    },
+    {
+      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Colorado Rapids SC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 109227.99,
+      "liquidity": 4562.42
+    },
+    {
+      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Los Angeles FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 109227.99,
+      "liquidity": 4571.32
+    },
+    {
+      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: Los Angeles FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 109227.99,
+      "liquidity": 4549.21
+    },
+    {
+      "market": "Colorado Rapids SC vs. Los Angeles FC - More Markets \u2014 Colorado Rapids SC vs. Los Angeles FC: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 109227.99,
+      "liquidity": 4506.47
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1640966.51,
+      "liquidity": 62.48
     }
   ],
   "log": [
-    {
-      "ts": "20:30:02",
-      "text": " poll complete \u2014 1994 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:45:01",
       "text": " poll complete \u2014 1926 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "03:45:01",
       "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:00:01",
+      "text": " poll complete \u2014 1733 markets scanned, 10 flagged"
     }
   ]
 }
