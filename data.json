@@ -1,26 +1,41 @@
 {
-  "lastUpdate": "2026-08-20 21:00:01 UTC",
+  "lastUpdate": "2026-08-20 21:15:02 UTC",
   "swings": [
     {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s \u2014 Will Rayo Vallecano de Madrid win on 2026-08-20?",
-      "prev": 0.76,
-      "now": 0.045,
-      "delta": -0.715,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20",
+      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-2.5)",
+      "prev": 0.205,
+      "now": 0.995,
+      "delta": 0.79,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "La Liga"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1828983.43,
-      "liquidity": 145838.15
+      "volume24hr": 3585.63,
+      "liquidity": 21753.09
     },
     {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Deportivo Alav\u00e9s O/U 0.5",
-      "prev": 0.285,
-      "now": 0.9995,
-      "delta": 0.7145,
+      "market": "Seattle Mariners vs. Milwaukee Brewers: O/U 10.5",
+      "prev": 0.335,
+      "now": 0.9955,
+      "delta": 0.6605,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 387.71,
+      "liquidity": 3904.58
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: 2nd Half O/U 2.5",
+      "prev": 0.56,
+      "now": 0.0045,
+      "delta": -0.5555,
       "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
       "tags": [
         "Sports",
@@ -28,134 +43,114 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 850.18,
-      "liquidity": 8856.6
+      "volume24hr": 629013.68,
+      "liquidity": 5798.13
     },
     {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Both Teams to Score",
-      "prev": 0.295,
-      "now": 0.9995,
-      "delta": 0.7045,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 28062.72,
-      "liquidity": 129377.07
-    },
-    {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - Exact Score \u2014 Exact Score: Rayo Vallecano de Madrid 1 - 1 Deportivo Alav\u00e9s?",
-      "prev": 0.2,
-      "now": 0.84,
-      "delta": 0.64,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 7307.94,
-      "liquidity": 118.11
-    },
-    {
-      "market": "Will Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s end in a draw?",
-      "prev": 0.195,
-      "now": 0.825,
-      "delta": 0.63,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 79753.83,
-      "liquidity": 118343.62
-    },
-    {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: O/U 1.5",
-      "prev": 0.455,
-      "now": 0.9995,
-      "delta": 0.5445,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 88307.34,
-      "liquidity": 208783.65
-    },
-    {
-      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - Exact Score \u2014 Exact Score: Rayo Vallecano de Madrid 1 - 0 Deportivo Alav\u00e9s?",
-      "prev": 0.54,
+      "market": "Athletics vs. Kansas City Royals: O/U 8.5",
+      "prev": 0.51,
       "now": 0.0005,
-      "delta": -0.5395,
-      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-exact-score",
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "La Liga"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 6467.09,
-      "liquidity": 121945.06
+      "volume24hr": 297942.66,
+      "liquidity": 298604.22
     },
     {
-      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: O/U 4.5",
-      "prev": 0.535,
-      "now": 0.005,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
+      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-4.5)",
+      "prev": 0.505,
+      "now": 0.0005,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "UEL"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 30339.99,
-      "liquidity": 131272.31
+      "volume24hr": 312.23,
+      "liquidity": 3661.15
     },
     {
-      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 2 Games O/U 9.5",
+      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 845407.65,
-      "liquidity": 3201.33
+      "volume24hr": 945243.17,
+      "liquidity": 3703.0
     },
     {
-      "market": "Sport Lisboa e Benfica vs. Aarhus GF - More Markets \u2014 Sport Lisboa e Benfica vs. Aarhus GF: Both Teams to Score in Second Half",
+      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Paul vs. Cobolli: Set 2 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/uel-ben-agf-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 945243.17,
+      "liquidity": 3691.1
+    },
+    {
+      "market": "Seattle Mariners vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-6.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-sea-mil-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 684301.56,
+      "liquidity": 2601.25
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Rayo Vallecano de Madrid 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "UEL"
+        "La Liga"
       ],
-      "volume24hr": 359734.94,
-      "liquidity": 2884.51
+      "volume24hr": 629013.68,
+      "liquidity": 5578.07
+    },
+    {
+      "market": "Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s - More Markets \u2014 Rayo Vallecano de Madrid vs. Deportivo Alav\u00e9s: Deportivo Alav\u00e9s 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lal-ray-ala-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 629013.68,
+      "liquidity": 5602.29
     }
   ],
   "log": [
-    {
-      "ts": "13:45:01",
-      "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:00:01",
       "text": " poll complete \u2014 1829 markets scanned, 10 flagged"
@@ -271,6 +266,10 @@
     {
       "ts": "21:00:01",
       "text": " poll complete \u2014 2066 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:15:02",
+      "text": " poll complete \u2014 2054 markets scanned, 10 flagged"
     }
   ]
 }
