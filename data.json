@@ -1,162 +1,161 @@
 {
-  "lastUpdate": "2026-08-20 14:45:01 UTC",
+  "lastUpdate": "2026-08-20 15:00:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 40.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4356836.2,
-      "liquidity": 884.36
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 126.74,
-      "liquidity": 928.35
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 1?",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 942.76
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Ends in Daytime?",
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4356836.2,
+      "volume24hr": 5.05,
       "liquidity": 141.62
     },
     {
-      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 24.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1194091.41,
-      "liquidity": 471.22
-    },
-    {
-      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Vitality (-6.5) vs FaZe (+6.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1194091.41,
-      "liquidity": 520.22
-    },
-    {
-      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Vitality (-9.5) vs FaZe (+9.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1194091.41,
-      "liquidity": 520.22
-    },
-    {
-      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FaZe (-3.5) vs Vitality (+3.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1194091.41,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 27.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1194091.41,
-      "liquidity": 141.62
-    },
-    {
-      "market": "Counter-Strike: Metizport vs Color (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-mzp-color-2026-08-20",
+      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3960767.47,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3960767.47,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3960767.47,
+      "liquidity": 141.62
+    },
+    {
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-lgd-blg-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3960767.47,
+      "liquidity": 141.62
+    },
+    {
+      "market": "Highest temperature in London on August 20? \u2014 Will the highest temperature in London be 23\u00b0C on August 20?",
+      "prev": 0.385,
+      "now": 0.0005,
+      "delta": -0.3845,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-20-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 14661.42,
+      "liquidity": 29114.17
+    },
+    {
+      "market": "Sion: Benjamin Hassan vs Geoffrey Blancaneaux",
+      "prev": 0.545,
+      "now": 0.905,
+      "delta": 0.36,
+      "url": "https://polymarket.com/event/atp-hassan-blancan-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 405647.63,
+      "liquidity": 304114.56
+    },
+    {
+      "market": "Highest temperature in London on August 20? \u2014 Will the highest temperature in London be 24\u00b0C on August 20?",
+      "prev": 0.595,
+      "now": 0.935,
+      "delta": 0.34,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-20-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 21950.94,
+      "liquidity": 614.23
+    },
+    {
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Counter-Strike: OG vs SPARTA - Map 2 Winner",
+      "prev": 0.67,
+      "now": 0.38,
+      "delta": -0.29,
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 150259.72,
-      "liquidity": 471.22
+      "volume24hr": 3861.59,
+      "liquidity": 69648.34
+    },
+    {
+      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.33,
+      "now": 0.62,
+      "delta": 0.29,
+      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 900.96,
+      "liquidity": 136.23
     }
   ],
   "log": [
-    {
-      "ts": "07:30:02",
-      "text": " poll complete \u2014 1688 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:45:02",
       "text": " poll complete \u2014 1672 markets scanned, 10 flagged"
@@ -272,6 +271,10 @@
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1853 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:00:01",
+      "text": " poll complete \u2014 1833 markets scanned, 10 flagged"
     }
   ]
 }
