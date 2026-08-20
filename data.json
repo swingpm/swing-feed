@@ -1,145 +1,26 @@
 {
-  "lastUpdate": "2026-08-20 14:15:01 UTC",
+  "lastUpdate": "2026-08-20 14:30:01 UTC",
   "swings": [
     {
-      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In \u2014 Map 3 Rounds Handicap: ZETA DIVISION (-2.5) vs Xipto Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 17.09,
-      "liquidity": 471.22
-    },
-    {
-      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In \u2014 Map 3 Total Rounds: Over/Under 20.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 136242.47,
-      "liquidity": 471.22
-    },
-    {
-      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In \u2014 Map 3 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 136242.47,
-      "liquidity": 471.22
-    },
-    {
-      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In \u2014 Map 3 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 136242.47,
-      "liquidity": 471.22
-    },
-    {
-      "market": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In \u2014 Map 3 Total Rounds: Over/Under 19.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-zeta2-xe-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 136242.47,
-      "liquidity": 478.22
-    },
-    {
-      "market": "Counter-Strike: OG vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Counter-Strike: OG vs SPARTA - Map 1 Winner",
-      "prev": 0.922,
-      "now": 0.538,
-      "delta": -0.384,
-      "url": "https://polymarket.com/event/cs2-og1-sparta-2026-08-20",
+      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.31,
+      "now": 0.995,
+      "delta": 0.685,
+      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 24712.04,
-      "liquidity": 50956.22
+      "volume24hr": 74.96,
+      "liquidity": 3331.52
     },
     {
-      "market": "Counter-Strike: Metizport vs Color (BO3) - ESL Challenger League Europe Cup #4 Playoffs \u2014 Map Handicap: Color (-1.5) vs Metizport (+1.5)",
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.195,
-      "delta": -0.305,
-      "url": "https://polymarket.com/event/cs2-mzp-color-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 76569.82,
-      "liquidity": 1755.95
-    },
-    {
-      "market": "Sion: Lorenzo Giustino vs Dimitar Kuzmanov",
-      "prev": 0.535,
-      "now": 0.835,
-      "delta": 0.3,
-      "url": "https://polymarket.com/event/atp-giustin-kuzmano-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 148390.49,
-      "liquidity": 238614.78
-    },
-    {
-      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 24.5",
-      "prev": 0.5,
-      "now": 0.21,
-      "delta": -0.29,
-      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 680864.08,
-      "liquidity": 61.25
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.225,
-      "now": 0.5,
-      "delta": 0.275,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
       "tags": [
         "Esports",
@@ -147,15 +28,127 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 11.11,
-      "liquidity": 836302.13
+      "volume24hr": 3980872.05,
+      "liquidity": 618.71
+    },
+    {
+      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Set 2 Winner: Tarvet vs Broom",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 115693.48,
+      "liquidity": 4599.94
+    },
+    {
+      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Tarvet vs. Broom: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 115693.48,
+      "liquidity": 4169.95
+    },
+    {
+      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Tarvet vs. Broom: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 115693.48,
+      "liquidity": 4144.23
+    },
+    {
+      "market": "Roehampton: Oliver Tarvet vs Charles Broom \u2014 Tarvet vs. Broom: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tarvet-broom-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 115693.48,
+      "liquidity": 4133.41
+    },
+    {
+      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Spirit (-3.5) vs B8 (+3.5)",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 218.45,
+      "liquidity": 403.92
+    },
+    {
+      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Spirit (-6.5) vs B8 (+6.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 620305.35,
+      "liquidity": 257.46
+    },
+    {
+      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 18.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 58.94,
+      "liquidity": 3155.9
+    },
+    {
+      "market": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Spirit (-9.5) vs B8 (+9.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-b8-ts7-2026-08-20",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 620305.35,
+      "liquidity": 143.86
     }
   ],
   "log": [
-    {
-      "ts": "07:00:01",
-      "text": " poll complete \u2014 1708 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:15:02",
       "text": " poll complete \u2014 1711 markets scanned, 10 flagged"
@@ -271,6 +264,10 @@
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1815 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:30:01",
+      "text": " poll complete \u2014 1867 markets scanned, 10 flagged"
     }
   ]
 }
