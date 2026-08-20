@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "2026-08-20 22:00:01 UTC",
+  "lastUpdate": "2026-08-20 22:15:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Tommy Paul vs Flavio Cobolli \u2014 Cincinnati Open: Completed Match: Tommy Paul vs Flavio Cobolli",
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Sentinels (-2.5) vs 2GAME Esports (+2.5)",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-paul-cobolli-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 3653833.98,
-      "liquidity": 3201.43
-    },
-    {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 20.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
       "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
@@ -27,26 +13,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 189090.97,
-      "liquidity": 447.64
+      "volume24hr": 646.19,
+      "liquidity": 1080.58
     },
     {
-      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 19.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 189090.97,
-      "liquidity": 9.91
-    },
-    {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Both Teams Destroy Inhibitors?",
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
@@ -57,11 +28,26 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 667722.82,
-      "liquidity": 113.52
+      "volume24hr": 667854.8,
+      "liquidity": 117.59
     },
     {
-      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Any Player Quadra Kill?",
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 667854.8,
+      "liquidity": 117.59
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Any Player Penta Kill?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
@@ -72,90 +58,101 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 667722.82,
+      "volume24hr": 667854.8,
+      "liquidity": 117.59
+    },
+    {
+      "market": "LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs \u2014 Game 5: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-koia-hrts-2026-08-20",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 667854.8,
       "liquidity": 113.52
     },
     {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 22.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 212114.44,
+      "liquidity": 443.12
+    },
+    {
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 48.78,
+      "liquidity": 443.72
+    },
+    {
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Sentinels (-3.5) vs 2GAME Esports (+3.5)",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 436032.75,
-      "liquidity": 113.52
+      "volume24hr": 5.0,
+      "liquidity": 113.57
     },
     {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.5,
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Sentinels (-5.5) vs 2GAME Esports (+5.5)",
+      "prev": 0.495,
       "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "delta": -0.395,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 436032.75,
-      "liquidity": 113.52
+      "volume24hr": 5.0,
+      "liquidity": 113.57
     },
     {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
+      "market": "Valorant: Sentinels vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 20.5",
+      "prev": 0.375,
+      "now": 0.59,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/val-sen-2game-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 436032.75,
-      "liquidity": 113.52
-    },
-    {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 436032.75,
-      "liquidity": 113.52
-    },
-    {
-      "market": "LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-sly-sc-2026-08-20",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 436032.75,
-      "liquidity": 113.52
+      "volume24hr": 212114.44,
+      "liquidity": 33.19
     }
   ],
   "log": [
-    {
-      "ts": "14:45:01",
-      "text": " poll complete \u2014 1853 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:00:01",
       "text": " poll complete \u2014 1833 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 2021 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:15:01",
+      "text": " poll complete \u2014 2016 markets scanned, 10 flagged"
     }
   ]
 }
