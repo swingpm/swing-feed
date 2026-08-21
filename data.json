@@ -1,154 +1,148 @@
 {
-  "lastUpdate": "2026-08-21 03:15:01 UTC",
+  "lastUpdate": "2026-08-21 03:30:01 UTC",
   "swings": [
     {
-      "market": "Raiders vs. Texans",
-      "prev": 0.094,
+      "market": "49ers vs. Chargers: 1H O/U 19.5",
+      "prev": 0.075,
       "now": 0.9995,
-      "delta": 0.9055,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "delta": 0.9245,
+      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
       "tags": [
         "Sports",
         "NFL",
         "Games"
       ],
-      "volume24hr": 540371.22,
-      "liquidity": 357843.42
+      "volume24hr": 10.0,
+      "liquidity": 2902.61
     },
     {
-      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 38.5",
-      "prev": 0.115,
-      "now": 0.9995,
-      "delta": 0.8845,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "market": "49ers vs. Chargers: 1H O/U 20.5",
+      "prev": 0.095,
+      "now": 0.535,
+      "delta": 0.44,
+      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
       "tags": [
         "Sports",
         "NFL",
         "Games"
       ],
-      "volume24hr": 15067.44,
-      "liquidity": 88269.98
+      "volume24hr": 138.0,
+      "liquidity": 71.49
     },
     {
-      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 39.5",
-      "prev": 0.115,
-      "now": 0.9995,
-      "delta": 0.8845,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 2419.91,
-      "liquidity": 9010.14
-    },
-    {
-      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 40.5",
-      "prev": 0.125,
-      "now": 0.9995,
-      "delta": 0.8745,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 3579.37,
-      "liquidity": 81373.27
-    },
-    {
-      "market": "Raiders vs. Texans \u2014 Spread: LV (-1.5)",
-      "prev": 0.1575,
-      "now": 0.9995,
-      "delta": 0.842,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 94618.72,
-      "liquidity": 116298.09
-    },
-    {
-      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 37.5",
-      "prev": 0.165,
-      "now": 0.9995,
-      "delta": 0.8345,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 2095.78,
-      "liquidity": 15709.6
-    },
-    {
-      "market": "Raiders vs. Texans \u2014 Spread: HOU (-1.5)",
-      "prev": 0.805,
-      "now": 0.0005,
-      "delta": -0.8045,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 12459.38,
-      "liquidity": 80327.49
-    },
-    {
-      "market": "Raiders vs. Texans \u2014 Spread: HOU (-2.5)",
-      "prev": 0.87,
-      "now": 0.1,
-      "delta": -0.77,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 1955.46,
-      "liquidity": 376.18
-    },
-    {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: Iron Wing vs BoomBoys - Game 1 Winner",
-      "prev": 0.425,
-      "now": 0.9995,
-      "delta": 0.5745,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 713557.16,
-      "liquidity": 936370.35
-    },
-    {
-      "market": "Will the game go to extra innings?: Los Angeles Angels vs. Houston Astros",
+      "market": "Raiders vs. Texans \u2014 Texans Team Total: O/U 20.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
       "tags": [
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 10.87,
-      "liquidity": 1516.82
+      "volume24hr": 697931.05,
+      "liquidity": 78.57
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 Texans Team Total: O/U 19.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 697931.05,
+      "liquidity": 78.57
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 Texans Team Total: O/U 18.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 697931.05,
+      "liquidity": 78.57
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 Raiders Team Total: O/U 18.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 697931.05,
+      "liquidity": 78.57
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 Texans Team Total: O/U 17.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 697931.05,
+      "liquidity": 78.57
+    },
+    {
+      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 38.5",
+      "prev": 0.22,
+      "now": 0.54,
+      "delta": 0.32,
+      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 19882.05,
+      "liquidity": 96003.5
+    },
+    {
+      "market": "49ers vs. Chargers \u2014 Spread: LAC (-1.5)",
+      "prev": 0.41,
+      "now": 0.095,
+      "delta": -0.315,
+      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 97391.03,
+      "liquidity": 38701.14
+    },
+    {
+      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 37.5",
+      "prev": 0.255,
+      "now": 0.565,
+      "delta": 0.31,
+      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 55710.33,
+      "liquidity": 114448.29
     }
   ],
   "log": [
-    {
-      "ts": "20:00:01",
-      "text": " poll complete \u2014 2120 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 2075 markets scanned, 10 flagged"
@@ -264,6 +258,10 @@
     {
       "ts": "03:15:01",
       "text": " poll complete \u2014 1955 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:30:01",
+      "text": " poll complete \u2014 1897 markets scanned, 10 flagged"
     }
   ]
 }
