@@ -1,161 +1,161 @@
 {
-  "lastUpdate": "2026-08-21 04:15:01 UTC",
+  "lastUpdate": "2026-08-21 04:30:01 UTC",
   "swings": [
     {
-      "market": "49ers vs. Chargers \u2014 49ers Team Total: O/U 19.5",
-      "prev": 0.555,
-      "now": 0.9945,
-      "delta": 0.4395,
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 7539080.73,
+      "liquidity": 51.97
+    },
+    {
+      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 26\u00b0C on August 21?",
+      "prev": 0.415,
+      "now": 0.065,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 13743.18,
+      "liquidity": 323.82
+    },
+    {
+      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 27\u00b0C on August 21?",
+      "prev": 0.485,
+      "now": 0.725,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 7841.83,
+      "liquidity": 242.65
+    },
+    {
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: Iron Wing vs BoomBoys - Game 2 Winner",
+      "prev": 0.24,
+      "now": 0.0005,
+      "delta": -0.2395,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1169396.75,
+      "liquidity": 2340994.41
+    },
+    {
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.795,
+      "now": 0.9995,
+      "delta": 0.2045,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 14170.1,
+      "liquidity": 229118.73
+    },
+    {
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: IW (-1.5) vs BoomBoys (+1.5)",
+      "prev": 0.205,
+      "now": 0.0005,
+      "delta": -0.2045,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2495.65,
+      "liquidity": 64974.29
+    },
+    {
+      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 39.5",
+      "prev": 0.73,
+      "now": 0.925,
+      "delta": 0.195,
       "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
       "tags": [
         "Sports",
         "NFL",
         "Games"
       ],
-      "volume24hr": 831234.5,
-      "liquidity": 377.18
+      "volume24hr": 15203.73,
+      "liquidity": 131269.25
     },
     {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Rae Burrell: Points O/U 16.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 37.5",
+      "prev": 0.78,
+      "now": 0.97,
+      "delta": 0.19,
+      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
       "tags": [
         "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 9.8,
-      "liquidity": 378.57
+      "volume24hr": 56221.89,
+      "liquidity": 150639.78
     },
     {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Nneka Ogwumike: Points O/U 15.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 38.5",
+      "prev": 0.815,
+      "now": 0.965,
+      "delta": 0.15,
+      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
       "tags": [
         "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 519647.98,
-      "liquidity": 378.57
+      "volume24hr": 20479.01,
+      "liquidity": 75399.05
     },
     {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Angel Reese: Rebounds O/U 12.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 20 hours?",
+      "prev": 0.7,
+      "now": 0.835,
+      "delta": 0.135,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
       "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
       ],
-      "volume24hr": 1074.99,
-      "liquidity": 385.09
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Nneka Ogwumike: Rebounds O/U 8.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 12.44,
-      "liquidity": 378.57
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Allisha Gray: Rebounds O/U 3.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 2.13,
-      "liquidity": 378.57
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Allisha Gray: Assists O/U 3.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 2.86,
-      "liquidity": 378.57
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Rae Burrell: Assists O/U 3.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 71.07,
-      "liquidity": 378.57
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Rae Burrell: Points O/U 15.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 1000.0,
-      "liquidity": 382.57
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Nneka Ogwumike: Rebounds O/U 7.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 12.0,
-      "liquidity": 378.57
+      "volume24hr": 3163.52,
+      "liquidity": 373.35
     }
   ],
   "log": [
-    {
-      "ts": "21:00:01",
-      "text": " poll complete \u2014 2066 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:15:02",
       "text": " poll complete \u2014 2054 markets scanned, 10 flagged"
@@ -271,6 +271,10 @@
     {
       "ts": "04:15:01",
       "text": " poll complete \u2014 1898 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:30:01",
+      "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
     }
   ]
 }
