@@ -1,120 +1,26 @@
 {
-  "lastUpdate": "2026-08-21 01:45:02 UTC",
+  "lastUpdate": "2026-08-21 02:00:02 UTC",
   "swings": [
     {
-      "market": "Washington Nationals vs. Texas Rangers \u2014 1st 5 Innings Spread: Texas Rangers (-1.5)",
+      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 26.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 145.09,
-      "liquidity": 1910.79
-    },
-    {
-      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 61.34,
-      "liquidity": 1846.57
-    },
-    {
-      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 64.21,
-      "liquidity": 2085.78
-    },
-    {
-      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 2038.41
-    },
-    {
-      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 1992.61
-    },
-    {
-      "market": "What price will Bitcoin hit on August 20? \u2014 Will Bitcoin reach $75,000 on August 20?",
-      "prev": 0.544,
-      "now": 0.9995,
-      "delta": 0.4555,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-20-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 40087.13,
-      "liquidity": 96300.7
-    },
-    {
-      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.075,
-      "now": 0.52,
-      "delta": 0.445,
-      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "now": 0.0,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 70617.75,
-      "liquidity": 21.19
+      "volume24hr": 224952.65,
+      "liquidity": 0.0
     },
     {
-      "market": "New York Yankees vs. Baltimore Orioles: O/U 7.5",
-      "prev": 0.48,
-      "now": 0.04,
-      "delta": -0.44,
+      "market": "Will the game go to extra innings?: New York Yankees vs. Baltimore Orioles",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
       "tags": [
         "Sports",
@@ -122,43 +28,126 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 291180.43,
-      "liquidity": 9044.87
+      "volume24hr": 10.87,
+      "liquidity": 1110.89
     },
     {
-      "market": "Raiders vs. Texans: 1H Moneyline",
+      "market": "New York Yankees vs. Baltimore Orioles \u2014 Spread: New York Yankees (-5.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
       "tags": [
         "Sports",
-        "NFL",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 2133.99,
-      "liquidity": 2862.73
+      "volume24hr": 2564.59,
+      "liquidity": 5858.73
     },
     {
-      "market": "Raiders vs. Texans \u2014 1H Spread: Raiders (-0.5)",
-      "prev": 0.44,
-      "now": 0.1,
-      "delta": -0.34,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils \u2014 Cincinnati Open: Completed Match: Thiago Agustin Tirante vs Arthur Fils",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tirante-fils-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "NFL",
         "Games"
       ],
-      "volume24hr": 493305.53,
-      "liquidity": 78.57
+      "volume24hr": 510.0,
+      "liquidity": 2757.76
+    },
+    {
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils \u2014 Tirante vs. Fils: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tirante-fils-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 701959.6,
+      "liquidity": 4934.75
+    },
+    {
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils \u2014 Tirante vs. Fils: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tirante-fils-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 701959.6,
+      "liquidity": 4538.35
+    },
+    {
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils \u2014 Tirante vs. Fils: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tirante-fils-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 263.52,
+      "liquidity": 8013.7
+    },
+    {
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils \u2014 Tirante vs. Fils: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tirante-fils-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 701959.6,
+      "liquidity": 4538.35
+    },
+    {
+      "market": "New York Yankees vs. Baltimore Orioles \u2014 Spread: New York Yankees (-4.5)",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1593.08,
+      "liquidity": 11096.75
+    },
+    {
+      "market": "Los Angeles Angels vs. Houston Astros \u2014 1st 5 Innings Spread: Houston Astros (-1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 346.15,
+      "liquidity": 1519.2
     }
   ],
   "log": [
-    {
-      "ts": "18:30:01",
-      "text": " poll complete \u2014 2104 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 2134 markets scanned, 10 flagged"
@@ -274,6 +263,10 @@
     {
       "ts": "01:45:02",
       "text": " poll complete \u2014 1954 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:00:02",
+      "text": " poll complete \u2014 1964 markets scanned, 10 flagged"
     }
   ]
 }
