@@ -1,11 +1,56 @@
 {
-  "lastUpdate": "2026-08-21 18:45:01 UTC",
+  "lastUpdate": "2026-08-21 19:00:01 UTC",
   "swings": [
     {
-      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: BK Hacken O/U 2.5",
-      "prev": 0.27,
-      "now": 0.9995,
-      "delta": 0.7295,
+      "market": "CA Aldosivi vs. CA Uni\u00f3n \u2014 Will CA Uni\u00f3n win on 2026-08-21?",
+      "prev": 0.285,
+      "now": 0.962,
+      "delta": 0.677,
+      "url": "https://polymarket.com/event/arg-ald-uni-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 12568.05,
+      "liquidity": 143891.98
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: 1st Half O/U 0.5",
+      "prev": 0.54,
+      "now": 0.0055,
+      "delta": -0.5345,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 138420.82,
+      "liquidity": 1756.47
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: Both Teams to Score in First Half",
+      "prev": 0.51,
+      "now": 0.0055,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 818.88,
+      "liquidity": 982.09
+    },
+    {
+      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.0025,
+      "delta": -0.5025,
       "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
       "tags": [
         "Sports",
@@ -13,146 +58,95 @@
         "Soccer",
         "Sweden Allsvenskan"
       ],
-      "volume24hr": 39.69,
-      "liquidity": 5652.97
+      "volume24hr": 195724.22,
+      "liquidity": 3436.28
     },
     {
-      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 Spread: BK Hacken (-2.5)",
-      "prev": 0.1685,
-      "now": 0.834,
-      "delta": 0.6655,
-      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 9437.12,
-      "liquidity": 6969.97
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys \u2014 Set 2 Winner: Bejlek vs Keys",
-      "prev": 0.47,
-      "now": 0.9995,
-      "delta": 0.5295,
-      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1464.09,
-      "liquidity": 17146.49
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys \u2014 Bejlek vs. Keys: Set 2 Games O/U 8.5",
+      "market": "Quebec City: Jesper de Jong vs Hugo Gaston \u2014 Quebec City: Completed Match: Jesper de Jong vs Hugo Gaston",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
+      "url": "https://polymarket.com/event/atp-jong-gaston-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 742340.08,
-      "liquidity": 3862.48
+      "volume24hr": 478.0,
+      "liquidity": 1219.33
     },
     {
-      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys \u2014 Bejlek vs. Keys: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 742340.08,
-      "liquidity": 3836.5
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys \u2014 Bejlek vs. Keys: Set 2 Games O/U 10.5",
+      "market": "Quebec City: Jesper de Jong vs Hugo Gaston \u2014 Set 2 Winner: Jong vs Gaston",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
+      "url": "https://polymarket.com/event/atp-jong-gaston-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 742340.08,
-      "liquidity": 3841.45
+      "volume24hr": 270876.7,
+      "liquidity": 2719.04
     },
     {
-      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: 2nd Half O/U 1.5",
+      "market": "Quebec City: Jesper de Jong vs Hugo Gaston \u2014 Jesper de Jong vs. Hugo Gaston: Total Sets O/U 2.5",
       "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jong-gaston-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
+        "Games"
       ],
-      "volume24hr": 174308.69,
-      "liquidity": 1213.57
+      "volume24hr": 100.36,
+      "liquidity": 5308.41
     },
     {
-      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: BK Hacken 2nd Half O/U 1.5",
+      "market": "Quebec City: Jesper de Jong vs Hugo Gaston \u2014 Jong vs. Gaston: Match O/U 21.5",
       "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jong-gaston-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
+        "Games"
       ],
-      "volume24hr": 174308.69,
-      "liquidity": 1212.87
+      "volume24hr": 100.0,
+      "liquidity": 5314.22
     },
     {
-      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: O/U 2.5",
-      "prev": 0.615,
-      "now": 0.9995,
-      "delta": 0.3845,
-      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
+      "market": "Quebec City: Jesper de Jong vs Hugo Gaston \u2014 Jong vs. Gaston: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jong-gaston-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
+        "Games"
       ],
-      "volume24hr": 30582.61,
-      "liquidity": 133053.51
+      "volume24hr": 270876.7,
+      "liquidity": 2689.68
     },
     {
-      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: IK Sirius O/U 0.5",
-      "prev": 0.51,
-      "now": 0.15,
-      "delta": -0.36,
-      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
+      "market": "Quebec City: Jesper de Jong vs Hugo Gaston \u2014 Set Handicap: Jong (-1.5) vs Gaston (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jong-gaston-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
+        "Games"
       ],
-      "volume24hr": 497.16,
-      "liquidity": 1218.58
+      "volume24hr": 21.58,
+      "liquidity": 4150.52
     }
   ],
   "log": [
-    {
-      "ts": "11:30:01",
-      "text": " poll complete \u2014 1951 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1947 markets scanned, 10 flagged"
@@ -268,6 +262,10 @@
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:00:01",
+      "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
     }
   ]
 }
