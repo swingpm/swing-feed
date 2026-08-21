@@ -1,152 +1,158 @@
 {
-  "lastUpdate": "2026-08-20 23:45:02 UTC",
+  "lastUpdate": "2026-08-21 00:00:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Iga Swiatek vs Elena Rybakina \u2014 Set 1 Winner: Swiatek vs Rybakina",
-      "prev": 0.86,
-      "now": 0.32,
-      "delta": -0.54,
-      "url": "https://polymarket.com/event/wta-swiatek-rybakin-2026-08-20",
+      "market": "CSyD Macar\u00e1 vs. Santos FC - More Markets \u2014 CSyD Macar\u00e1 vs. Santos FC: CSyD Macar\u00e1 O/U 0.5",
+      "prev": 0.615,
+      "now": 0.005,
+      "delta": -0.61,
+      "url": "https://polymarket.com/event/sud-mac-san-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
       ],
-      "volume24hr": 1850.71,
-      "liquidity": 2019.56
+      "volume24hr": 216.33,
+      "liquidity": 14139.42
     },
     {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Kingston: Completed Match: Juan Carlos Prado vs Pedro Martinez",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
+      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: LDU de Quito O/U 0.5",
+      "prev": 0.575,
+      "now": 0.0045,
+      "delta": -0.5705,
+      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
       ],
-      "volume24hr": 500.0,
-      "liquidity": 1743.12
+      "volume24hr": 287.11,
+      "liquidity": 10005.27
     },
     {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Juan Carlos Prado vs. Pedro Martinez: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 8.17,
-      "liquidity": 6365.84
-    },
-    {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 9.62,
-      "liquidity": 5968.48
-    },
-    {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Set Handicap: Prado (-1.5) vs Martinez (+1.5)",
+      "market": "CSyD Macar\u00e1 vs. Santos FC - More Markets \u2014 CSyD Macar\u00e1 vs. Santos FC: Santos FC O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
+      "url": "https://polymarket.com/event/sud-mac-san-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
       ],
-      "volume24hr": 7.56,
-      "liquidity": 4056.79
+      "volume24hr": 196619.77,
+      "liquidity": 14341.53
     },
     {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
+      "market": "CSyD Macar\u00e1 vs. Santos FC - More Markets \u2014 CSyD Macar\u00e1 vs. Santos FC: Santos FC O/U 1.5",
+      "prev": 0.5015,
+      "now": 0.0045,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/sud-mac-san-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
       ],
-      "volume24hr": 256002.81,
-      "liquidity": 6364.88
+      "volume24hr": 79.88,
+      "liquidity": 14338.22
     },
     {
-      "market": "Kingston: Juan Carlos Prado vs Pedro Martinez \u2014 Prado vs. Martinez: Match O/U 23.5",
+      "market": "CSyD Macar\u00e1 vs. Santos FC - More Markets \u2014 CSyD Macar\u00e1 vs. Santos FC: CSyD Macar\u00e1 O/U 2.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-prado-martine-2026-08-20",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/sud-mac-san-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Copa Sudamericana"
       ],
-      "volume24hr": 256002.81,
-      "liquidity": 5974.42
+      "volume24hr": 750.61,
+      "liquidity": 14350.22
     },
     {
-      "market": "Cancun: Henrique Rocha vs Hubert Hurkacz \u2014 Cancun: Completed Match: Henrique Rocha vs Hubert Hurkacz",
+      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: LDU de Quito O/U 2.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-rocha-hurkacz-2026-08-20",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
       ],
-      "volume24hr": 177488.32,
-      "liquidity": 1786.61
+      "volume24hr": 138.47,
+      "liquidity": 9993.28
     },
     {
-      "market": "Cancun: Henrique Rocha vs Hubert Hurkacz \u2014 Rocha vs. Hurkacz: Match O/U 21.5",
+      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: Mirassol FC O/U 0.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-rocha-hurkacz-2026-08-20",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
       ],
-      "volume24hr": 191.14,
-      "liquidity": 7085.7
+      "volume24hr": 696.5,
+      "liquidity": 10054.27
     },
     {
-      "market": "Cancun: Henrique Rocha vs Hubert Hurkacz \u2014 Henrique Rocha vs. Hubert Hurkacz: Total Sets O/U 2.5",
+      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: Mirassol FC O/U 1.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-rocha-hurkacz-2026-08-20",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
       ],
-      "volume24hr": 81.38,
-      "liquidity": 7070.19
+      "volume24hr": 57.25,
+      "liquidity": 10007.28
+    },
+    {
+      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 160504.62,
+      "liquidity": 2724.62
+    },
+    {
+      "market": "LDU de Quito vs. Mirassol FC - More Markets \u2014 LDU de Quito vs. Mirassol FC: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lib-lqu-mir-2026-08-20-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Copa Libertadores"
+      ],
+      "volume24hr": 160504.62,
+      "liquidity": 2724.62
     }
   ],
   "log": [
-    {
-      "ts": "16:30:01",
-      "text": " poll complete \u2014 2008 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
@@ -262,6 +268,10 @@
     {
       "ts": "23:45:02",
       "text": " poll complete \u2014 1965 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:00:02",
+      "text": " poll complete \u2014 1986 markets scanned, 10 flagged"
     }
   ]
 }
