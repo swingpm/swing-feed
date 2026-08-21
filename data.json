@@ -1,164 +1,155 @@
 {
-  "lastUpdate": "2026-08-21 21:00:01 UTC",
+  "lastUpdate": "2026-08-21 21:15:01 UTC",
   "swings": [
     {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: O/U 3.5",
-      "prev": 0.105,
+      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Betis Balompi\u00e9 O/U 1.5",
+      "prev": 0.51,
+      "now": 0.0035,
+      "delta": -0.5065,
+      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 1891.17,
+      "liquidity": 17981.47
+    },
+    {
+      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Sociedad de F\u00fatbol O/U 0.5",
+      "prev": 0.505,
+      "now": 0.004,
+      "delta": -0.501,
+      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 2172.42,
+      "liquidity": 27112.02
+    },
+    {
+      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.0045,
+      "delta": -0.5005,
+      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 3338.9
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Fritz vs. Nakashima: Set 1 Games O/U 8.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.8945,
-      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
+        "Games"
       ],
-      "volume24hr": 57191.93,
-      "liquidity": 165116.35
+      "volume24hr": 2242816.59,
+      "liquidity": 6893.87
     },
     {
-      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: 2nd Half O/U 1.5",
-      "prev": 0.68,
-      "now": 0.005,
-      "delta": -0.675,
-      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 1940133.67,
-      "liquidity": 3752.79
-    },
-    {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: RC Strasbourg Alsace 2nd Half O/U 0.5",
-      "prev": 0.57,
-      "now": 0.0055,
-      "delta": -0.5645,
-      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 276731.5,
-      "liquidity": 2206.01
-    },
-    {
-      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: Both Teams to Score in Second Half",
-      "prev": 0.525,
-      "now": 0.005,
-      "delta": -0.52,
-      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 29.8,
-      "liquidity": 3717.8
-    },
-    {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: RC Strasbourg Alsace 2nd Half O/U 1.5",
-      "prev": 0.515,
-      "now": 0.0055,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 276731.5,
-      "liquidity": 2213.01
-    },
-    {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: RC Strasbourg Alsace O/U 1.5",
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Fritz vs. Nakashima: Set 1 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
+        "Games"
       ],
-      "volume24hr": 620.85,
-      "liquidity": 12526.92
+      "volume24hr": 5.0,
+      "liquidity": 6827.04
     },
     {
-      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: Both Teams to Score in Second Half",
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Fritz vs. Nakashima: Set 1 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dfb-fc-stu-2026-08-21-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
+        "Games"
       ],
-      "volume24hr": 130811.66,
-      "liquidity": 3226.19
+      "volume24hr": 271.19,
+      "liquidity": 6893.87
     },
     {
-      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: 2nd Half O/U 2.5",
+      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: 2nd Half O/U 2.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dfb-fc-stu-2026-08-21-more-markets",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "DFB-Pokal"
+        "La Liga"
       ],
-      "volume24hr": 130811.66,
-      "liquidity": 3229.23
+      "volume24hr": 46.26,
+      "liquidity": 3338.9
     },
     {
-      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: FC Hansa Rostock 2nd Half O/U 0.5",
+      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Betis Balompi\u00e9 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dfb-fc-stu-2026-08-21-more-markets",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "DFB-Pokal"
+        "La Liga"
       ],
-      "volume24hr": 130811.66,
-      "liquidity": 3229.45
+      "volume24hr": 1.29,
+      "liquidity": 3356.5
     },
     {
-      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: FC Hansa Rostock 2nd Half O/U 1.5",
+      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Sociedad de F\u00fatbol 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dfb-fc-stu-2026-08-21-more-markets",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "DFB-Pokal"
+        "La Liga"
       ],
-      "volume24hr": 130811.66,
-      "liquidity": 3226.19
+      "volume24hr": 51.0,
+      "liquidity": 3338.9
+    },
+    {
+      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Sociedad de F\u00fatbol 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 423789.41,
+      "liquidity": 3338.9
     }
   ],
   "log": [
-    {
-      "ts": "13:45:02",
-      "text": " poll complete \u2014 1903 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:00:01",
       "text": " poll complete \u2014 1925 markets scanned, 10 flagged"
@@ -274,6 +265,10 @@
     {
       "ts": "21:00:01",
       "text": " poll complete \u2014 1935 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:15:01",
+      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
     }
   ]
 }
