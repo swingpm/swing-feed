@@ -1,41 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 07:30:01 UTC",
+  "lastUpdate": "2026-08-21 07:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.3,
-      "now": 0.765,
-      "delta": 0.465,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 384.6,
-      "liquidity": 35.2
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 1?",
-      "prev": 0.545,
-      "now": 0.9955,
-      "delta": 0.4505,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 68.18,
-      "liquidity": 1461.7
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
       "prev": 0.5,
-      "now": 0.875,
-      "delta": 0.375,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
@@ -43,122 +13,146 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 211.69,
-      "liquidity": 92.92
+      "volume24hr": 518.0,
+      "liquidity": 1315.12
     },
     {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.24,
-      "now": 0.5,
-      "delta": 0.26,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 110374.36,
-      "liquidity": 0.2
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 1?",
-      "prev": 0.235,
-      "now": 0.49,
-      "delta": 0.255,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4349.57,
-      "liquidity": 4.6
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.725,
-      "delta": 0.225,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 3.11,
-      "liquidity": 8.1
+      "volume24hr": 4517918.07,
+      "liquidity": 900.13
     },
     {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.28,
-      "now": 0.5,
-      "delta": 0.22,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 110374.36,
-      "liquidity": 0.2
+      "volume24hr": 4517918.07,
+      "liquidity": 797.05
     },
     {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 1?",
-      "prev": 0.655,
-      "now": 0.48,
-      "delta": -0.175,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 70.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 110374.36,
-      "liquidity": 17.08
+      "volume24hr": 5.0,
+      "liquidity": 908.47
     },
     {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 2?",
-      "prev": 0.64,
-      "now": 0.47,
-      "delta": -0.17,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 75.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 110374.36,
-      "liquidity": 5.08
+      "volume24hr": 4517918.07,
+      "liquidity": 355.96
     },
     {
-      "market": "Highest temperature in Shenzhen on August 21? \u2014 Will the highest temperature in Shenzhen be 31\u00b0C on August 21?",
-      "prev": 0.47,
-      "now": 0.625,
-      "delta": 0.155,
-      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-21-2026",
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Ends in Daytime?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Shenzhen",
-        "Highest temperature"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 6100.15,
-      "liquidity": 220.72
+      "volume24hr": 4517918.07,
+      "liquidity": 732.06
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4517918.07,
+      "liquidity": 811.11
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 32.74,
+      "liquidity": 806.03
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Both Teams Beat Roshan?",
+      "prev": 0.495,
+      "now": 0.005,
+      "delta": -0.49,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4517918.07,
+      "liquidity": 810.62
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 1?",
+      "prev": 0.51,
+      "now": 0.9995,
+      "delta": 0.4895,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4517918.07,
+      "liquidity": 1074.86
     }
   ],
   "log": [
-    {
-      "ts": "00:15:01",
-      "text": " poll complete \u2014 1987 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:30:01",
       "text": " poll complete \u2014 1953 markets scanned, 10 flagged"
@@ -273,6 +267,10 @@
     },
     {
       "ts": "07:30:01",
+      "text": " poll complete \u2014 1818 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:45:01",
       "text": " poll complete \u2014 1818 markets scanned, 10 flagged"
     }
   ]
