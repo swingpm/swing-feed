@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-21 02:30:02 UTC",
+  "lastUpdate": "2026-08-21 02:45:02 UTC",
   "swings": [
     {
-      "market": "Washington Nationals vs. Texas Rangers \u2014 Spread: Texas Rangers (-1.5)",
-      "prev": 0.245,
-      "now": 0.925,
-      "delta": 0.68,
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 First Blood in Game 1?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 425.13,
+      "liquidity": 5176.79
+    },
+    {
+      "market": "Washington Nationals vs. Texas Rangers: O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
       "tags": [
         "Sports",
@@ -13,150 +28,131 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 47672.36,
-      "liquidity": 8722.76
+      "volume24hr": 168.23,
+      "liquidity": 19030.05
     },
     {
-      "market": "SC Corinthians Paulista vs. CA Rosario Central - More Markets \u2014 SC Corinthians Paulista vs. CA Rosario Central: 2nd Half O/U 2.5",
+      "market": "Washington Nationals vs. Texas Rangers: O/U 4.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/lib-cor-ros-2026-08-20-more-markets",
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Libertadores"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 128725.88,
-      "liquidity": 4298.49
+      "volume24hr": 567.04,
+      "liquidity": 20987.66
     },
     {
-      "market": "Indiana Fever vs. Dallas Wings \u2014 Jessica Shepard: Points O/U 14.5",
-      "prev": 0.5005,
-      "now": 0.9995,
-      "delta": 0.499,
-      "url": "https://polymarket.com/event/wnba-ind-dal-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 888.2
-    },
-    {
-      "market": "SC Corinthians Paulista vs. CA Rosario Central - More Markets \u2014 SC Corinthians Paulista vs. CA Rosario Central: SC Corinthians Paulista O/U 1.5",
+      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: Botafogo FR O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lib-cor-ros-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 128725.88,
-      "liquidity": 13772.64
+      "volume24hr": 444812.02,
+      "liquidity": 15821.12
     },
     {
-      "market": "SC Corinthians Paulista vs. CA Rosario Central - More Markets \u2014 SC Corinthians Paulista vs. CA Rosario Central: SC Corinthians Paulista O/U 2.5",
+      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: Botafogo FR O/U 2.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lib-cor-ros-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 5.56,
-      "liquidity": 13767.69
+      "volume24hr": 26.2,
+      "liquidity": 15821.04
     },
     {
-      "market": "SC Corinthians Paulista vs. CA Rosario Central - More Markets \u2014 SC Corinthians Paulista vs. CA Rosario Central: CA Rosario Central O/U 0.5",
+      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano O/U 0.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lib-cor-ros-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 170.27,
-      "liquidity": 13786.84
+      "volume24hr": 821.17,
+      "liquidity": 25031.9
     },
     {
-      "market": "SC Corinthians Paulista vs. CA Rosario Central - More Markets \u2014 SC Corinthians Paulista vs. CA Rosario Central: CA Rosario Central O/U 1.5",
+      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lib-cor-ros-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 13777.37
+      "volume24hr": 5.26,
+      "liquidity": 16198.6
     },
     {
-      "market": "SC Corinthians Paulista vs. CA Rosario Central - More Markets \u2014 SC Corinthians Paulista vs. CA Rosario Central: CA Rosario Central 2nd Half O/U 1.5",
+      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano O/U 2.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lib-cor-ros-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 128725.88,
-      "liquidity": 3883.21
+      "volume24hr": 380.0,
+      "liquidity": 16233.44
     },
     {
-      "market": "SC Corinthians Paulista vs. CA Rosario Central - More Markets \u2014 SC Corinthians Paulista vs. CA Rosario Central: 2nd Half O/U 1.5",
+      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: Both Teams to Score in Second Half",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lib-cor-ros-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 128725.88,
-      "liquidity": 4184.51
+      "volume24hr": 444812.02,
+      "liquidity": 4075.5
     },
     {
-      "market": "SC Corinthians Paulista vs. CA Rosario Central - More Markets \u2014 SC Corinthians Paulista vs. CA Rosario Central: CA Rosario Central 2nd Half O/U 0.5",
+      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lib-cor-ros-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Copa Libertadores"
+        "Copa Sudamericana"
       ],
-      "volume24hr": 128725.88,
-      "liquidity": 4161.74
+      "volume24hr": 421.74,
+      "liquidity": 19559.67
     }
   ],
   "log": [
-    {
-      "ts": "19:15:01",
-      "text": " poll complete \u2014 2082 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 2046 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "02:30:02",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:45:02",
+      "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
     }
   ]
 }
