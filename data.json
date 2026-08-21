@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 21:30:01 UTC",
+  "lastUpdate": "2026-08-21 21:45:01 UTC",
   "swings": [
     {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 19.5",
-      "prev": 0.5,
-      "now": 0.675,
-      "delta": 0.175,
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Valorant: MIBR vs Team Envy - Map 1 Winner",
+      "prev": 0.615,
+      "now": 0.105,
+      "delta": -0.51,
       "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
       "tags": [
         "Esports",
@@ -13,153 +13,143 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 229164.64,
-      "liquidity": 57.21
+      "volume24hr": 56928.15,
+      "liquidity": 116709.36
     },
     {
-      "market": "What price will Solana hit in August? \u2014 Will Solana dip to $90 in August?",
-      "prev": 0.745,
-      "now": 0.57,
-      "delta": -0.175,
-      "url": "https://polymarket.com/event/what-price-will-solana-hit-in-august-2026",
+      "market": "Atlanta Braves vs. Milwaukee Brewers: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
       "tags": [
-        "Solana",
-        "Monthly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring"
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 145164.73,
-      "liquidity": 123.18
+      "volume24hr": 62.26,
+      "liquidity": 1367.45
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Taylor Fritz vs. Brandon Nakashima: Total Sets O/U 2.5",
-      "prev": 0.765,
-      "now": 0.93,
-      "delta": 0.165,
+      "market": "Atlanta Braves vs. Milwaukee Brewers: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 1426.94
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Fritz vs. Nakashima: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 3658.24,
-      "liquidity": 905.0
+      "volume24hr": 2743476.75,
+      "liquidity": 3772.36
     },
     {
-      "market": "What price will Ethereum hit August 17-23? \u2014 Will Ethereum reach $2,500 August 17-23?",
-      "prev": 0.456,
-      "now": 0.605,
-      "delta": 0.149,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-august-17-23-2026",
-      "tags": [
-        "Ethereum",
-        "Weekly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 57453.66,
-      "liquidity": 28741.0
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Set 2 Winner: Fritz vs Nakashima",
-      "prev": 0.795,
-      "now": 0.935,
-      "delta": 0.14,
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Fritz vs. Nakashima: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 2677.44,
-      "liquidity": 2272.9
+      "volume24hr": 2743476.75,
+      "liquidity": 3772.36
     },
     {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Fritz vs. Nakashima: Set 2 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.63,
-      "delta": 0.13,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 229164.64,
-      "liquidity": 126.44
+      "volume24hr": 2743476.75,
+      "liquidity": 3777.31
     },
     {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 19.5",
-      "prev": 0.72,
-      "now": 0.845,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 229164.64,
-      "liquidity": 216.71
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 20.5",
-      "prev": 0.66,
-      "now": 0.775,
-      "delta": 0.115,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 331.45,
-      "liquidity": 183.65
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 22.5",
+      "market": "Atlanta Braves vs. Milwaukee Brewers \u2014 1st 5 Innings Spread: Atlanta Braves (-1.5)",
       "prev": 0.5,
-      "now": 0.39,
-      "delta": -0.11,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 229164.64,
-      "liquidity": 113.65
+      "volume24hr": 25.34,
+      "liquidity": 1651.28
     },
     {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 20.5",
+      "market": "Atlanta Braves vs. Milwaukee Brewers \u2014 1st 5 Innings Spread: Milwaukee Brewers (-1.5)",
       "prev": 0.5,
-      "now": 0.605,
-      "delta": 0.105,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 7.14,
-      "liquidity": 90.93
+      "volume24hr": 27.0,
+      "liquidity": 1485.81
+    },
+    {
+      "market": "Atlanta Braves vs. Milwaukee Brewers: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 167.4,
+      "liquidity": 1687.5
+    },
+    {
+      "market": "Atlanta Braves vs. Milwaukee Brewers: 1st 5 Innings O/U 3.5",
+      "prev": 0.355,
+      "now": 0.0045,
+      "delta": -0.3505,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1421.3,
+      "liquidity": 6245.49
     }
   ],
   "log": [
-    {
-      "ts": "14:15:02",
-      "text": " poll complete \u2014 1839 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:30:01",
       "text": " poll complete \u2014 1806 markets scanned, 10 flagged"
@@ -275,6 +265,10 @@
     {
       "ts": "21:30:01",
       "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:45:01",
+      "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
     }
   ]
 }
