@@ -1,41 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 20:30:01 UTC",
+  "lastUpdate": "2026-08-21 20:45:01 UTC",
   "swings": [
     {
-      "market": "L.R. Vicenza vs. US Catanzaro 1929 \u2014 Will L.R. Vicenza win on 2026-08-21?",
-      "prev": 0.035,
-      "now": 0.9245,
-      "delta": 0.8895,
-      "url": "https://polymarket.com/event/itsb-vic-cat-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Serie B"
-      ],
-      "volume24hr": 7633.86,
-      "liquidity": 32447.02
-    },
-    {
-      "market": "L.R. Vicenza vs. US Catanzaro 1929 \u2014 Will US Catanzaro 1929 win on 2026-08-21?",
-      "prev": 0.735,
-      "now": 0.014,
-      "delta": -0.721,
-      "url": "https://polymarket.com/event/itsb-vic-cat-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Serie B"
-      ],
-      "volume24hr": 120481.08,
-      "liquidity": 115292.28
-    },
-    {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9985,
-      "delta": 0.4985,
+      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: Olympique de Marseille O/U 2.5",
+      "prev": 0.325,
+      "now": 0.997,
+      "delta": 0.672,
       "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
       "tags": [
         "Sports",
@@ -43,11 +13,26 @@
         "Soccer",
         "Ligue 1"
       ],
-      "volume24hr": 190744.17,
-      "liquidity": 6056.12
+      "volume24hr": 82.08,
+      "liquidity": 4021.86
     },
     {
-      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: 2nd Half O/U 0.5",
+      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Spread: Olympique de Marseille (-2.5)",
+      "prev": 0.385,
+      "now": 0.97,
+      "delta": 0.585,
+      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 6769.22,
+      "liquidity": 81838.61
+    },
+    {
+      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: 2nd Half O/U 1.5",
       "prev": 0.5,
       "now": 0.997,
       "delta": 0.497,
@@ -58,11 +43,11 @@
         "Soccer",
         "DFB-Pokal"
       ],
-      "volume24hr": 89861.04,
-      "liquidity": 1180.07
+      "volume24hr": 122143.33,
+      "liquidity": 1130.92
     },
     {
-      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: VfB Stuttgart 2nd Half O/U 0.5",
+      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: VfB Stuttgart 2nd Half O/U 1.5",
       "prev": 0.5,
       "now": 0.997,
       "delta": 0.497,
@@ -73,13 +58,43 @@
         "Soccer",
         "DFB-Pokal"
       ],
-      "volume24hr": 89861.04,
-      "liquidity": 1193.92
+      "volume24hr": 122143.33,
+      "liquidity": 1130.92
     },
     {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: Olympique de Marseille 2nd Half O/U 1.5",
+      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Betis Balompi\u00e9 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9945,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 313225.29,
+      "liquidity": 1450.46
+    },
+    {
+      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 221504.6,
+      "liquidity": 1445.89
+    },
+    {
+      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: O/U 2.5",
+      "prev": 0.505,
+      "now": 0.9995,
       "delta": 0.4945,
       "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
       "tags": [
@@ -88,14 +103,14 @@
         "Soccer",
         "Ligue 1"
       ],
-      "volume24hr": 190744.17,
-      "liquidity": 1911.64
+      "volume24hr": 73318.15,
+      "liquidity": 220354.28
     },
     {
-      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: Both Teams to Score",
-      "prev": 0.65,
-      "now": 0.205,
-      "delta": -0.445,
+      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: FC Hansa Rostock O/U 2.5",
+      "prev": 0.005,
+      "now": 0.4945,
+      "delta": 0.4895,
       "url": "https://polymarket.com/event/dfb-fc-stu-2026-08-21-more-markets",
       "tags": [
         "Sports",
@@ -103,60 +118,42 @@
         "Soccer",
         "DFB-Pokal"
       ],
-      "volume24hr": 909.82,
-      "liquidity": 2102.98
+      "volume24hr": 16.27,
+      "liquidity": 21.18
     },
     {
-      "market": "Will the game go to extra innings?: Atlanta Braves vs. Milwaukee Brewers",
-      "prev": 0.1,
-      "now": 0.5,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.87,
-      "liquidity": 672571.55
-    },
-    {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Spread: Olympique de Marseille (-1.5)",
-      "prev": 0.565,
-      "now": 0.925,
-      "delta": 0.36,
-      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
+      "market": "Arsenal FC vs. Coventry City FC - Exact Score \u2014 Exact Score: Any Other Score?",
+      "prev": 0.695,
+      "now": 0.22,
+      "delta": -0.475,
+      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-exact-score",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Ligue 1"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 14901.61,
-      "liquidity": 109564.87
+      "volume24hr": 6107.49,
+      "liquidity": 21.62
     },
     {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: Olympique de Marseille O/U 1.5",
-      "prev": 0.64,
-      "now": 0.9995,
-      "delta": 0.3595,
-      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
+      "market": "Valorant: BBL Esports vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: BBL Esports (-3.5) vs FUT Esports (+3.5)",
+      "prev": 0.55,
+      "now": 1.0,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/val-bbl1-fut1-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "Ligue 1"
+        "Sports"
       ],
-      "volume24hr": 1398.69,
-      "liquidity": 12397.5
+      "volume24hr": 387025.23,
+      "liquidity": 0.0
     }
   ],
   "log": [
-    {
-      "ts": "13:15:02",
-      "text": " poll complete \u2014 1858 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:30:02",
       "text": " poll complete \u2014 1907 markets scanned, 10 flagged"
@@ -272,6 +269,10 @@
     {
       "ts": "20:30:01",
       "text": " poll complete \u2014 1924 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:45:01",
+      "text": " poll complete \u2014 1936 markets scanned, 10 flagged"
     }
   ]
 }
