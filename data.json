@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 04:30:01 UTC",
+  "lastUpdate": "2026-08-21 04:45:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
+      "prev": 0.495,
+      "now": 0.0055,
+      "delta": -0.4895,
       "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -13,48 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 7539080.73,
-      "liquidity": 51.97
+      "volume24hr": 53.91,
+      "liquidity": 21.74
     },
     {
-      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 26\u00b0C on August 21?",
-      "prev": 0.415,
-      "now": 0.065,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 13743.18,
-      "liquidity": 323.82
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 27\u00b0C on August 21?",
-      "prev": 0.485,
-      "now": 0.725,
-      "delta": 0.24,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 7841.83,
-      "liquidity": 242.65
-    },
-    {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: Iron Wing vs BoomBoys - Game 2 Winner",
-      "prev": 0.24,
-      "now": 0.0005,
-      "delta": -0.2395,
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
+      "prev": 0.495,
+      "now": 0.0055,
+      "delta": -0.4895,
       "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -62,14 +28,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1169396.75,
-      "liquidity": 2340994.41
+      "volume24hr": 4.99,
+      "liquidity": 23.01
     },
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.795,
-      "now": 0.9995,
-      "delta": 0.2045,
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 40.5 in Game 2?",
+      "prev": 0.495,
+      "now": 0.0055,
+      "delta": -0.4895,
       "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -77,71 +43,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 14170.1,
-      "liquidity": 229118.73
+      "volume24hr": 5.0,
+      "liquidity": 38.76
     },
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: IW (-1.5) vs BoomBoys (+1.5)",
-      "prev": 0.205,
-      "now": 0.0005,
-      "delta": -0.2045,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2495.65,
-      "liquidity": 64974.29
-    },
-    {
-      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 39.5",
-      "prev": 0.73,
-      "now": 0.925,
-      "delta": 0.195,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 15203.73,
-      "liquidity": 131269.25
-    },
-    {
-      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 37.5",
-      "prev": 0.78,
-      "now": 0.97,
-      "delta": 0.19,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 56221.89,
-      "liquidity": 150639.78
-    },
-    {
-      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 38.5",
-      "prev": 0.815,
-      "now": 0.965,
-      "delta": 0.15,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 20479.01,
-      "liquidity": 75399.05
-    },
-    {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 20 hours?",
-      "prev": 0.7,
-      "now": 0.835,
-      "delta": 0.135,
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 24 hours?",
+      "prev": 0.9685,
+      "now": 0.5395,
+      "delta": -0.429,
       "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
       "tags": [
         "Roblox",
@@ -151,15 +60,111 @@
         "streaming",
         "IShowSpeed"
       ],
-      "volume24hr": 3163.52,
-      "liquidity": 373.35
+      "volume24hr": 1008.04,
+      "liquidity": 47.88
+    },
+    {
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 22 hours?",
+      "prev": 0.935,
+      "now": 0.58,
+      "delta": -0.355,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "tags": [
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
+      ],
+      "volume24hr": 845.7,
+      "liquidity": 116.9
+    },
+    {
+      "market": "Aligned Layer FDV above ___ one day after launch? \u2014 Aligned FDV above $300M one day after launch?",
+      "prev": 0.147,
+      "now": 0.3,
+      "delta": 0.153,
+      "url": "https://polymarket.com/event/aligned-layer-fdv-above-one-day-after-launch",
+      "tags": [
+        "Crypto",
+        "FDV",
+        "Pre-Market",
+        "Aligned Layer"
+      ],
+      "volume24hr": 5185.41,
+      "liquidity": 2909.92
+    },
+    {
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 14 hours?",
+      "prev": 0.72,
+      "now": 0.57,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "tags": [
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
+      ],
+      "volume24hr": 15657.78,
+      "liquidity": 881.99
+    },
+    {
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 16 hours?",
+      "prev": 0.745,
+      "now": 0.595,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "tags": [
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
+      ],
+      "volume24hr": 5414.43,
+      "liquidity": 534.1
+    },
+    {
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 12 hours?",
+      "prev": 0.515,
+      "now": 0.385,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "tags": [
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
+      ],
+      "volume24hr": 32925.25,
+      "liquidity": 1632.92
+    },
+    {
+      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 26\u00b0C on August 21?",
+      "prev": 0.065,
+      "now": 0.185,
+      "delta": 0.12,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 16069.08,
+      "liquidity": 612.38
     }
   ],
   "log": [
-    {
-      "ts": "21:15:02",
-      "text": " poll complete \u2014 2054 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:30:02",
       "text": " poll complete \u2014 2034 markets scanned, 10 flagged"
@@ -275,6 +280,10 @@
     {
       "ts": "04:30:01",
       "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:45:01",
+      "text": " poll complete \u2014 1811 markets scanned, 10 flagged"
     }
   ]
 }
