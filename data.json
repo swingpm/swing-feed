@@ -1,8 +1,38 @@
 {
-  "lastUpdate": "2026-08-21 15:00:02 UTC",
+  "lastUpdate": "2026-08-21 15:15:01 UTC",
   "swings": [
     {
-      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 170248.11,
+      "liquidity": 671571.58
+    },
+    {
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 170248.11,
+      "liquidity": 671571.58
+    },
+    {
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Quadra Kill?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
@@ -13,14 +43,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1576586.7,
+      "volume24hr": 1581464.19,
       "liquidity": 78.57
     },
     {
-      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay a Dragon?",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Penta Kill?",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
@@ -28,14 +58,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1576586.7,
+      "volume24hr": 1581464.19,
       "liquidity": 78.57
     },
     {
-      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.205,
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.195,
       "now": 0.5,
-      "delta": 0.295,
+      "delta": 0.305,
       "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
       "tags": [
         "Esports",
@@ -43,14 +73,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 157345.99,
-      "liquidity": 0.1
+      "volume24hr": 132.37,
+      "liquidity": 671571.58
     },
     {
       "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.46,
-      "now": 0.23,
-      "delta": -0.23,
+      "prev": 0.23,
+      "now": 0.5,
+      "delta": 0.27,
       "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
       "tags": [
         "Esports",
@@ -58,14 +88,60 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 31.74,
-      "liquidity": 3523.58
+      "volume24hr": 317.74,
+      "liquidity": 47.64
+    },
+    {
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.31,
+      "now": 0.5,
+      "delta": 0.19,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 145.41,
+      "liquidity": 6.5
+    },
+    {
+      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.255,
+      "now": 0.08,
+      "delta": -0.175,
+      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 75566.53,
+      "liquidity": 228.65
+    },
+    {
+      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: Arsenal FC 2nd Half O/U 0.5",
+      "prev": 0.77,
+      "now": 0.61,
+      "delta": -0.16,
+      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 1.23,
+      "liquidity": 976.93
     },
     {
       "market": "XRP above ___ on August 21? \u2014 Will the price of XRP be above $1.40 on August 21?",
-      "prev": 0.323,
-      "now": 0.5015,
-      "delta": 0.1785,
+      "prev": 0.5015,
+      "now": 0.6565,
+      "delta": 0.155,
       "url": "https://polymarket.com/event/xrp-above-on-august-21-2026",
       "tags": [
         "XRP",
@@ -78,96 +154,10 @@
         "Hide From New"
       ],
       "volume24hr": 12053.77,
-      "liquidity": 22943.57
-    },
-    {
-      "market": "Ethereum above ___ on August 21? \u2014 Will the price of Ethereum be above $2,400 on August 21?",
-      "prev": 0.245,
-      "now": 0.3555,
-      "delta": 0.1105,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-21-2026",
-      "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 124660.55,
-      "liquidity": 35051.58
-    },
-    {
-      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 1?",
-      "prev": 0.205,
-      "now": 0.31,
-      "delta": 0.105,
-      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 145.41,
-      "liquidity": 270.75
-    },
-    {
-      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs",
-      "prev": 0.505,
-      "now": 0.435,
-      "delta": -0.07,
-      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1567282.13,
-      "liquidity": 196195.74
-    },
-    {
-      "market": "EWC 2026 CS2: Winner \u2014 Will Team Falcons Win the CS2 EWC 2026?",
-      "prev": 0.185,
-      "now": 0.12,
-      "delta": -0.065,
-      "url": "https://polymarket.com/event/ewc-2026-cs2-winner-20260810160005076",
-      "tags": [
-        "CS2",
-        "Sports",
-        "Esports",
-        "counter strike 2"
-      ],
-      "volume24hr": 18870.9,
-      "liquidity": 44632.29
-    },
-    {
-      "market": "What price will Bitcoin hit on August 21? \u2014 Will Bitcoin reach $80,000 on August 21?",
-      "prev": 0.129,
-      "now": 0.1875,
-      "delta": 0.0585,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-21-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 32726.38,
-      "liquidity": 12252.13
+      "liquidity": 336.39
     }
   ],
   "log": [
-    {
-      "ts": "07:45:01",
-      "text": " poll complete \u2014 1818 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:00:01",
       "text": " poll complete \u2014 1831 markets scanned, 10 flagged"
@@ -283,6 +273,10 @@
     {
       "ts": "15:00:02",
       "text": " poll complete \u2014 1864 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:15:01",
+      "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
     }
   ]
 }
