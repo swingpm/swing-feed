@@ -1,97 +1,45 @@
 {
-  "lastUpdate": "2026-08-21 00:15:01 UTC",
+  "lastUpdate": "2026-08-21 00:30:01 UTC",
   "swings": [
     {
-      "market": "Cancun: Alan Magadan vs Coleman Wong \u2014 Magadan vs. Wong: Set 2 Games O/U 8.5",
+      "market": "New York Yankees vs. Baltimore Orioles: 1st 5 Innings O/U 3.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-magadan-wong-2026-08-20",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 144886.16,
-      "liquidity": 4110.61
+      "volume24hr": 207.43,
+      "liquidity": 1385.78
     },
     {
-      "market": "Cancun: Alan Magadan vs Coleman Wong \u2014 Set 2 Winner: Magadan vs Wong",
-      "prev": 0.5,
+      "market": "What price will Bitcoin hit on August 20? \u2014 Will Bitcoin reach $74,000 on August 20?",
+      "prev": 0.329,
+      "now": 0.815,
+      "delta": 0.486,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-20-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 39585.76,
+      "liquidity": 559.77
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: Los Angeles Angels vs. Houston Astros",
+      "prev": 0.58,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-magadan-wong-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 144886.16,
-      "liquidity": 4206.32
-    },
-    {
-      "market": "Cancun: Alan Magadan vs Coleman Wong \u2014 Magadan vs. Wong: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-magadan-wong-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 144886.16,
-      "liquidity": 3955.2
-    },
-    {
-      "market": "Cancun: Alan Magadan vs Coleman Wong \u2014 Magadan vs. Wong: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-magadan-wong-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 144886.16,
-      "liquidity": 3994.84
-    },
-    {
-      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: KR\u00dc Esports (-2.5) vs Fluxo W7M (+2.5)",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 462.39,
-      "liquidity": 418.32
-    },
-    {
-      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: KR\u00dc Esports (-5.5) vs Fluxo W7M (+5.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 90607.99,
-      "liquidity": 577.17
-    },
-    {
-      "market": "Will the game go to extra innings?: Los Angeles Angels vs. Houston Astros",
-      "prev": 0.085,
-      "now": 0.5,
-      "delta": 0.415,
+      "delta": 0.4195,
       "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
       "tags": [
         "Sports",
@@ -99,14 +47,57 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 10.87,
-      "liquidity": 1.12
+      "volume24hr": 11915.91,
+      "liquidity": 32211.64
     },
     {
-      "market": "Will the game go to extra innings?: Washington Nationals vs. Texas Rangers",
-      "prev": 0.095,
-      "now": 0.495,
-      "delta": 0.4,
+      "market": "Los Angeles Angels vs. Houston Astros \u2014 1st 5 Innings Spread: Los Angeles Angels (-1.5)",
+      "prev": 0.495,
+      "now": 0.125,
+      "delta": -0.37,
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.11,
+      "liquidity": 4.75
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 Spread: HOU (-2.5)",
+      "prev": 0.37,
+      "now": 0.725,
+      "delta": 0.355,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 1261.46,
+      "liquidity": 1765.88
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 Spread: HOU (-1.5)",
+      "prev": 0.385,
+      "now": 0.705,
+      "delta": 0.32,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 12457.16,
+      "liquidity": 129390.99
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: Washington Nationals vs. Texas Rangers",
+      "prev": 0.315,
+      "now": 0.0005,
+      "delta": -0.3145,
       "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
       "tags": [
         "Sports",
@@ -114,45 +105,53 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 16.26,
-      "liquidity": 1.02
+      "volume24hr": 16582.43,
+      "liquidity": 38677.95
     },
     {
-      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: KR\u00dc Esports (-3.5) vs Fluxo W7M (+3.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
+      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 40.5",
+      "prev": 0.48,
+      "now": 0.79,
+      "delta": 0.31,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Sports",
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 27.9,
-      "liquidity": 113.52
+      "volume24hr": 964.12,
+      "liquidity": 10038.9
     },
     {
-      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 19.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
+      "market": "Raiders vs. Texans \u2014 Spread: LV (-1.5)",
+      "prev": 0.515,
+      "now": 0.215,
+      "delta": -0.3,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Sports",
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 40.0,
-      "liquidity": 113.52
+      "volume24hr": 94226.55,
+      "liquidity": 62809.77
+    },
+    {
+      "market": "Raiders vs. Texans",
+      "prev": 0.545,
+      "now": 0.255,
+      "delta": -0.29,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 145141.21,
+      "liquidity": 163180.78
     }
   ],
   "log": [
-    {
-      "ts": "17:00:01",
-      "text": " poll complete \u2014 2041 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:15:01",
       "text": " poll complete \u2014 2026 markets scanned, 10 flagged"
@@ -268,6 +267,10 @@
     {
       "ts": "00:15:01",
       "text": " poll complete \u2014 1987 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:30:01",
+      "text": " poll complete \u2014 1953 markets scanned, 10 flagged"
     }
   ]
 }
