@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-21 00:30:01 UTC",
+  "lastUpdate": "2026-08-21 00:45:01 UTC",
   "swings": [
     {
-      "market": "New York Yankees vs. Baltimore Orioles: 1st 5 Innings O/U 3.5",
+      "market": "Los Angeles Angels vs. Houston Astros \u2014 1st 5 Innings Spread: Los Angeles Angels (-1.5)",
+      "prev": 0.125,
+      "now": 0.66,
+      "delta": 0.535,
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 27.0,
+      "liquidity": 52.56
+    },
+    {
+      "market": "New York Yankees vs. Baltimore Orioles \u2014 1st 5 Innings Spread: New York Yankees (-1.5)",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
       "tags": [
         "Sports",
@@ -13,91 +28,104 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 207.43,
-      "liquidity": 1385.78
+      "volume24hr": 959.96,
+      "liquidity": 2904.98
     },
     {
-      "market": "What price will Bitcoin hit on August 20? \u2014 Will Bitcoin reach $74,000 on August 20?",
-      "prev": 0.329,
-      "now": 0.815,
-      "delta": 0.486,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-20-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 39585.76,
-      "liquidity": 559.77
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Los Angeles Angels vs. Houston Astros",
-      "prev": 0.58,
-      "now": 0.9995,
-      "delta": 0.4195,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 11915.91,
-      "liquidity": 32211.64
-    },
-    {
-      "market": "Los Angeles Angels vs. Houston Astros \u2014 1st 5 Innings Spread: Los Angeles Angels (-1.5)",
-      "prev": 0.495,
-      "now": 0.125,
-      "delta": -0.37,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.11,
-      "liquidity": 4.75
-    },
-    {
-      "market": "Raiders vs. Texans \u2014 Spread: HOU (-2.5)",
-      "prev": 0.37,
-      "now": 0.725,
-      "delta": 0.355,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 1261.46,
-      "liquidity": 1765.88
-    },
-    {
-      "market": "Raiders vs. Texans \u2014 Spread: HOU (-1.5)",
-      "prev": 0.385,
-      "now": 0.705,
-      "delta": 0.32,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 12457.16,
-      "liquidity": 129390.99
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Washington Nationals vs. Texas Rangers",
-      "prev": 0.315,
+      "market": "New York Yankees vs. Baltimore Orioles \u2014 1st 5 Innings Spread: Baltimore Orioles (-1.5)",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.3145,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 7.41,
+      "liquidity": 2248.86
+    },
+    {
+      "market": "New York Yankees vs. Baltimore Orioles: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 407.19,
+      "liquidity": 2089.62
+    },
+    {
+      "market": "New York Yankees vs. Baltimore Orioles: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 125.0,
+      "liquidity": 2241.05
+    },
+    {
+      "market": "New York Yankees vs. Baltimore Orioles: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 115.0,
+      "liquidity": 2264.67
+    },
+    {
+      "market": "Indiana Fever vs. Dallas Wings \u2014 Jessica Shepard: Points O/U 14.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-ind-dal-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 532029.32,
+      "liquidity": 105.69
+    },
+    {
+      "market": "Indiana Fever vs. Dallas Wings \u2014 Jessica Shepard: Points O/U 13.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-ind-dal-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 532029.32,
+      "liquidity": 101.7
+    },
+    {
+      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 6.5",
+      "prev": 0.105,
+      "now": 0.54,
+      "delta": 0.435,
       "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
       "tags": [
         "Sports",
@@ -105,57 +133,26 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 16582.43,
-      "liquidity": 38677.95
+      "volume24hr": 531135.9,
+      "liquidity": 45.4
     },
     {
-      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 40.5",
-      "prev": 0.48,
-      "now": 0.79,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 5.5",
+      "prev": 0.165,
+      "now": 0.565,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
       "tags": [
         "Sports",
-        "NFL",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 964.12,
-      "liquidity": 10038.9
-    },
-    {
-      "market": "Raiders vs. Texans \u2014 Spread: LV (-1.5)",
-      "prev": 0.515,
-      "now": 0.215,
-      "delta": -0.3,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 94226.55,
-      "liquidity": 62809.77
-    },
-    {
-      "market": "Raiders vs. Texans",
-      "prev": 0.545,
-      "now": 0.255,
-      "delta": -0.29,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 145141.21,
-      "liquidity": 163180.78
+      "volume24hr": 531135.9,
+      "liquidity": 101.65
     }
   ],
   "log": [
-    {
-      "ts": "17:15:01",
-      "text": " poll complete \u2014 2026 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:30:01",
       "text": " poll complete \u2014 2026 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "00:30:01",
       "text": " poll complete \u2014 1953 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:45:01",
+      "text": " poll complete \u2014 1969 markets scanned, 10 flagged"
     }
   ]
 }
