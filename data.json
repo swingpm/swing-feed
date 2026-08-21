@@ -1,159 +1,158 @@
 {
-  "lastUpdate": "2026-08-21 12:15:02 UTC",
+  "lastUpdate": "2026-08-21 12:30:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Dota 2: Team Spirit vs TEAM VISION - Game 2 Winner",
-      "prev": 0.305,
-      "now": 0.825,
-      "delta": 0.52,
-      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 752278.4,
-      "liquidity": 181867.89
-    },
-    {
-      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Game Handicap: VSN (-1.5) vs Team Spirit (+1.5)",
-      "prev": 0.69,
-      "now": 0.175,
-      "delta": -0.515,
-      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 27367.63,
-      "liquidity": 974.47
-    },
-    {
-      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.315,
-      "now": 0.825,
-      "delta": 0.51,
-      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 16816.17,
-      "liquidity": 82563.37
-    },
-    {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.515,
-      "now": 0.0055,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3.92,
-      "liquidity": 1047.59
-    },
-    {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.495,
+      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 Spread: FC T\u014dky\u014d (-1.5)",
+      "prev": 0.23,
       "now": 0.9995,
-      "delta": 0.5045,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
+      "delta": 0.7695,
+      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Japan J League"
       ],
-      "volume24hr": 3563.06,
-      "liquidity": 20377.01
+      "volume24hr": 130077.09,
+      "liquidity": 158671.36
     },
     {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 24.5 in Game 1?",
-      "prev": 0.495,
-      "now": 0.9945,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 75.13,
-      "liquidity": 836.31
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: MOUZ (-3.5) vs FUT Esports (+3.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-fut-mouz-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2856.61,
-      "liquidity": 17443.19
-    },
-    {
-      "market": "Prague 2: Chun-Hsin Tseng vs Norbert Gombos \u2014 Prague 2: Completed Match: Chun-Hsin Tseng vs Norbert Gombos",
-      "prev": 0.5,
+      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: FC T\u014dky\u014d O/U 1.5",
+      "prev": 0.27,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tseng-gombos-2026-08-21",
+      "delta": 0.7295,
+      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Japan J League"
       ],
-      "volume24hr": 129860.21,
-      "liquidity": 1384.63
+      "volume24hr": 609.16,
+      "liquidity": 15479.64
     },
     {
-      "market": "Prague 2: Chun-Hsin Tseng vs Norbert Gombos \u2014 Tseng vs. Gombos: Set 2 Games O/U 8.5",
+      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: O/U 1.5",
+      "prev": 0.375,
+      "now": 0.9995,
+      "delta": 0.6245,
+      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 98727.66,
+      "liquidity": 175873.79
+    },
+    {
+      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.0045,
+      "delta": -0.5005,
+      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 502800.6,
+      "liquidity": 4540.13
+    },
+    {
+      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tseng-gombos-2026-08-21",
+      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 129860.21,
-      "liquidity": 2024.3
+      "volume24hr": 35.29,
+      "liquidity": 658.8
     },
     {
-      "market": "Prague 2: Chun-Hsin Tseng vs Norbert Gombos \u2014 Tseng vs. Gombos: Match O/U 21.5",
+      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: JEF United Ichihara Chiba O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tseng-gombos-2026-08-21",
+      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Japan J League"
       ],
-      "volume24hr": 2.38,
-      "liquidity": 4624.32
+      "volume24hr": 1615.86,
+      "liquidity": 25629.67
+    },
+    {
+      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1165.58,
+      "liquidity": 1684.53
+    },
+    {
+      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 502800.6,
+      "liquidity": 3923.07
+    },
+    {
+      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: FC T\u014dky\u014d 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 502800.6,
+      "liquidity": 6871.14
+    },
+    {
+      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: JEF United Ichihara Chiba 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 502800.6,
+      "liquidity": 3962.71
     }
   ],
   "log": [
-    {
-      "ts": "05:00:01",
-      "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:15:01",
       "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
@@ -269,6 +268,10 @@
     {
       "ts": "12:15:02",
       "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:30:01",
+      "text": " poll complete \u2014 1936 markets scanned, 10 flagged"
     }
   ]
 }
