@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 22:00:02 UTC",
+  "lastUpdate": "2026-08-21 22:15:01 UTC",
   "swings": [
     {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: MIBR (-3.5) vs Team Envy (+3.5)",
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Team Envy (-7.5) vs MIBR (+7.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "now": 0.9,
+      "delta": 0.4,
       "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
       "tags": [
         "Esports",
@@ -13,146 +13,140 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 139.16,
-      "liquidity": 2914.47
+      "volume24hr": 332895.47,
+      "liquidity": 78.62
     },
     {
-      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Royer vs. Chidekh: Set 2 Games O/U 8.5",
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 17.5",
       "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 332895.47,
+      "liquidity": 78.62
+    },
+    {
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 15.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 332895.47,
+      "liquidity": 78.62
+    },
+    {
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: MIBR (-2.5) vs Team Envy (+2.5)",
+      "prev": 0.45,
+      "now": 0.75,
+      "delta": 0.3,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 332895.47,
+      "liquidity": 249.96
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Taylor Fritz vs. Brandon Nakashima: Total Sets O/U 2.5",
+      "prev": 0.735,
       "now": 0.9995,
-      "delta": 0.4995,
+      "delta": 0.2645,
+      "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 3604.91,
+      "liquidity": 18092.85
+    },
+    {
+      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Set Handicap: Royer (-1.5) vs Chidekh (+1.5)",
+      "prev": 0.5,
+      "now": 0.245,
+      "delta": -0.255,
       "url": "https://polymarket.com/event/atp-royer-chidekh-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 117599.29,
-      "liquidity": 3122.19
+      "volume24hr": 192.28,
+      "liquidity": 3554.25
     },
     {
-      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Set 2 Winner: Royer vs Chidekh",
+      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Set Handicap: Chidekh (-1.5) vs Royer (+1.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.245,
+      "delta": -0.255,
       "url": "https://polymarket.com/event/atp-royer-chidekh-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 117599.29,
-      "liquidity": 3443.94
+      "volume24hr": 75.0,
+      "liquidity": 3554.25
     },
     {
-      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Royer vs. Chidekh: Set 2 Games O/U 9.5",
+      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis \u2014 Set Handicap: Bergs (-1.5) vs Sakellaridis (+1.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.245,
+      "delta": -0.255,
+      "url": "https://polymarket.com/event/atp-bergs-sakella-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2356.12,
+      "liquidity": 5414.65
+    },
+    {
+      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Royer vs. Chidekh: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.75,
+      "delta": 0.25,
       "url": "https://polymarket.com/event/atp-royer-chidekh-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 117599.29,
-      "liquidity": 3165.18
+      "volume24hr": 135039.63,
+      "liquidity": 3490.5
     },
     {
-      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Royer vs. Chidekh: Set 2 Games O/U 10.5",
+      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Valentin Royer vs. Clement Chidekh: Total Sets O/U 2.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.75,
+      "delta": 0.25,
       "url": "https://polymarket.com/event/atp-royer-chidekh-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 117599.29,
-      "liquidity": 3122.19
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 19.5",
-      "prev": 0.5,
-      "now": 0.025,
-      "delta": -0.475,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 283472.77,
-      "liquidity": 2870.66
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.025,
-      "delta": -0.475,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 8.7,
-      "liquidity": 2870.66
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: MIBR (-2.5) vs Team Envy (+2.5)",
-      "prev": 0.5,
-      "now": 0.025,
-      "delta": -0.475,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 37.7,
-      "liquidity": 2870.66
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: MIBR (-4.5) vs Team Envy (+4.5)",
-      "prev": 0.5,
-      "now": 0.025,
-      "delta": -0.475,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 283472.77,
-      "liquidity": 2818.17
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Team Envy (-2.5) vs MIBR (+2.5)",
-      "prev": 0.5,
-      "now": 0.975,
-      "delta": 0.475,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 283472.77,
-      "liquidity": 2797.17
+      "volume24hr": 26.31,
+      "liquidity": 3490.5
     }
   ],
   "log": [
-    {
-      "ts": "14:45:02",
-      "text": " poll complete \u2014 1866 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:00:02",
       "text": " poll complete \u2014 1864 markets scanned, 10 flagged"
@@ -268,6 +262,10 @@
     {
       "ts": "22:00:02",
       "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:15:01",
+      "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
     }
   ]
 }
