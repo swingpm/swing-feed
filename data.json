@@ -1,83 +1,83 @@
 {
-  "lastUpdate": "2026-08-21 10:15:01 UTC",
+  "lastUpdate": "2026-08-21 10:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "market": "Counter-Strike: Black Phoenix vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: Black Phoenix vs ex-RUSTEC - Map 2 Winner",
+      "prev": 0.59,
+      "now": 0.0005,
+      "delta": -0.5895,
+      "url": "https://polymarket.com/event/cs2-blackp-rustec-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1140446.15,
-      "liquidity": 1062.05
+      "volume24hr": 62079.35,
+      "liquidity": 217763.08
     },
     {
-      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "market": "Counter-Strike: Black Phoenix vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.515,
+      "now": 0.0005,
+      "delta": -0.5145,
+      "url": "https://polymarket.com/event/cs2-blackp-rustec-2026-08-21",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 71.27,
+      "liquidity": 13814.45
+    },
+    {
+      "market": "Counter-Strike: Black Phoenix vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: ex-RUSTEC (-1.5) vs Black Phoenix (+1.5)",
       "prev": 0.5,
-      "now": 0.005,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-blackp-rustec-2026-08-21",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 63.11,
+      "liquidity": 13470.15
+    },
+    {
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+      "prev": 0.57,
+      "now": 0.075,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1140446.15,
-      "liquidity": 743.05
+      "volume24hr": 875736.99,
+      "liquidity": 231946.94
     },
     {
-      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 21.5 in Game 1?",
+      "market": "Counter-Strike: Black Phoenix vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "url": "https://polymarket.com/event/cs2-blackp-rustec-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 740.55
+      "volume24hr": 139855.13,
+      "liquidity": 622.45
     },
     {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2594122.41,
-      "liquidity": 841.47
-    },
-    {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 24.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 820.03
-    },
-    {
-      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Game 1: Odd/Even Total Kills?",
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 First Blood in Game 2?",
       "prev": 0.5,
       "now": 0.0055,
       "delta": -0.4945,
@@ -88,75 +88,71 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3.92,
-      "liquidity": 778.7
+      "volume24hr": 1342256.2,
+      "liquidity": 444.37
     },
     {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 33.5 in Game 2?",
-      "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "market": "Counter-Strike: Black Phoenix vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: Black Phoenix (-3.5) vs ex-RUSTEC (+3.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-blackp-rustec-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 940.15
+      "volume24hr": 139855.13,
+      "liquidity": 78.57
     },
     {
-      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: Kashiwa Reysol 1st Half O/U 1.5",
-      "prev": 0.235,
-      "now": 0.725,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 124.44,
-      "liquidity": 342.99
-    },
-    {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 36.5 in Game 2?",
-      "prev": 0.495,
-      "now": 0.0055,
-      "delta": -0.4895,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "market": "Counter-Strike: Black Phoenix vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-blackp-rustec-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 813.05
+      "volume24hr": 139855.13,
+      "liquidity": 104.07
     },
     {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 39.5 in Game 2?",
-      "prev": 0.495,
-      "now": 0.0055,
-      "delta": -0.4895,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "market": "Counter-Strike: Black Phoenix vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: Black Phoenix (-6.5) vs ex-RUSTEC (+6.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-blackp-rustec-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 813.05
+      "volume24hr": 139855.13,
+      "liquidity": 104.07
+    },
+    {
+      "market": "Counter-Strike: Black Phoenix vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: ex-RUSTEC (-3.5) vs Black Phoenix (+3.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-blackp-rustec-2026-08-21",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 139855.13,
+      "liquidity": 78.57
     }
   ],
   "log": [
-    {
-      "ts": "03:00:01",
-      "text": " poll complete \u2014 1955 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:15:01",
       "text": " poll complete \u2014 1955 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "10:15:01",
       "text": " poll complete \u2014 1946 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:30:01",
+      "text": " poll complete \u2014 1945 markets scanned, 10 flagged"
     }
   ]
 }
