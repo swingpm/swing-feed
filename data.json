@@ -1,25 +1,41 @@
 {
-  "lastUpdate": "2026-08-21 03:30:01 UTC",
+  "lastUpdate": "2026-08-21 03:45:01 UTC",
   "swings": [
     {
-      "market": "49ers vs. Chargers: 1H O/U 19.5",
-      "prev": 0.075,
-      "now": 0.9995,
-      "delta": 0.9245,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
+      "market": "Connecticut Sun vs. Las Vegas Aces \u2014 Spread: Las Vegas Aces (-14.5)",
+      "prev": 0.42,
+      "now": 0.895,
+      "delta": 0.475,
+      "url": "https://polymarket.com/event/wnba-conn-las-2026-08-20",
       "tags": [
         "Sports",
-        "NFL",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 2902.61
+      "volume24hr": 25875.83,
+      "liquidity": 132205.14
+    },
+    {
+      "market": "Connecticut Sun vs. Las Vegas Aces \u2014 Spread: Las Vegas Aces (-13.5)",
+      "prev": 0.455,
+      "now": 0.915,
+      "delta": 0.46,
+      "url": "https://polymarket.com/event/wnba-conn-las-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 24167.67,
+      "liquidity": 158550.83
     },
     {
       "market": "49ers vs. Chargers: 1H O/U 20.5",
-      "prev": 0.095,
-      "now": 0.535,
-      "delta": 0.44,
+      "prev": 0.535,
+      "now": 0.9945,
+      "delta": 0.4595,
       "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
       "tags": [
         "Sports",
@@ -27,126 +43,119 @@
         "Games"
       ],
       "volume24hr": 138.0,
-      "liquidity": 71.49
+      "liquidity": 1204.48
     },
     {
-      "market": "Raiders vs. Texans \u2014 Texans Team Total: O/U 20.5",
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "now": 0.95,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
       "tags": [
-        "Sports",
-        "NFL",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 697931.05,
-      "liquidity": 78.57
+      "volume24hr": 20.94,
+      "liquidity": 181.69
     },
     {
-      "market": "Raiders vs. Texans \u2014 Texans Team Total: O/U 19.5",
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 12 hours?",
+      "prev": 0.125,
+      "now": 0.365,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "tags": [
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
+      ],
+      "volume24hr": 20418.75,
+      "liquidity": 744.48
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks: O/U 179.5",
+      "prev": 0.77,
+      "now": 0.9945,
+      "delta": 0.2245,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 4061.16,
+      "liquidity": 18453.77
+    },
+    {
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "now": 0.3,
+      "delta": -0.2,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
       "tags": [
-        "Sports",
-        "NFL",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 697931.05,
-      "liquidity": 78.57
+      "volume24hr": 53.91,
+      "liquidity": 40.0
     },
     {
-      "market": "Raiders vs. Texans \u2014 Texans Team Total: O/U 18.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 24 hours?",
+      "prev": 0.505,
+      "now": 0.7,
+      "delta": 0.195,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
       "tags": [
-        "Sports",
-        "NFL",
-        "Games"
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
       ],
-      "volume24hr": 697931.05,
-      "liquidity": 78.57
+      "volume24hr": 534.44,
+      "liquidity": 88.11
     },
     {
-      "market": "Raiders vs. Texans \u2014 Raiders Team Total: O/U 18.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "market": "Connecticut Sun vs. Las Vegas Aces: O/U 169.5",
+      "prev": 0.805,
+      "now": 0.975,
+      "delta": 0.17,
+      "url": "https://polymarket.com/event/wnba-conn-las-2026-08-20",
       "tags": [
         "Sports",
-        "NFL",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 697931.05,
-      "liquidity": 78.57
+      "volume24hr": 38080.95,
+      "liquidity": 169684.02
     },
     {
-      "market": "Raiders vs. Texans \u2014 Texans Team Total: O/U 17.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.54,
+      "now": 0.375,
+      "delta": -0.165,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
       "tags": [
-        "Sports",
-        "NFL",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 697931.05,
-      "liquidity": 78.57
-    },
-    {
-      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 38.5",
-      "prev": 0.22,
-      "now": 0.54,
-      "delta": 0.32,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 19882.05,
-      "liquidity": 96003.5
-    },
-    {
-      "market": "49ers vs. Chargers \u2014 Spread: LAC (-1.5)",
-      "prev": 0.41,
-      "now": 0.095,
-      "delta": -0.315,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 97391.03,
-      "liquidity": 38701.14
-    },
-    {
-      "market": "49ers vs. Chargers \u2014 SF vs. LAC: O/U 37.5",
-      "prev": 0.255,
-      "now": 0.565,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 55710.33,
-      "liquidity": 114448.29
+      "volume24hr": 13918.92,
+      "liquidity": 45785.97
     }
   ],
   "log": [
-    {
-      "ts": "20:15:02",
-      "text": " poll complete \u2014 2075 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:30:01",
       "text": " poll complete \u2014 2088 markets scanned, 10 flagged"
@@ -262,6 +271,10 @@
     {
       "ts": "03:30:01",
       "text": " poll complete \u2014 1897 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:45:01",
+      "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
     }
   ]
 }
