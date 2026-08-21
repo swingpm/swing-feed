@@ -1,147 +1,144 @@
 {
-  "lastUpdate": "2026-08-21 19:45:02 UTC",
+  "lastUpdate": "2026-08-21 20:00:01 UTC",
   "swings": [
     {
-      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: Both Teams to Score in First Half",
-      "prev": 0.56,
-      "now": 0.04,
-      "delta": -0.52,
-      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
+      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys",
+      "prev": 0.295,
+      "now": 0.9995,
+      "delta": 0.7045,
+      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
+        "Games"
       ],
-      "volume24hr": 1415.79,
-      "liquidity": 365.18
+      "volume24hr": 1903144.07,
+      "liquidity": 769137.98
     },
     {
-      "market": "CA Aldosivi vs. CA Uni\u00f3n - More Markets \u2014 CA Aldosivi vs. CA Uni\u00f3n: Both Teams to Score in Second Half",
-      "prev": 0.51,
-      "now": 0.0045,
-      "delta": -0.5055,
-      "url": "https://polymarket.com/event/arg-ald-uni-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 129.0,
-      "liquidity": 3667.19
-    },
-    {
-      "market": "CA Aldosivi vs. CA Uni\u00f3n - More Markets \u2014 CA Aldosivi vs. CA Uni\u00f3n: CA Aldosivi O/U 1.5",
+      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys \u2014 Cincinnati Open: Completed Match: Sara Bejlek vs Madison Keys",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-ald-uni-2026-08-21-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Games"
       ],
-      "volume24hr": 24.57,
-      "liquidity": 10004.69
+      "volume24hr": 506.0,
+      "liquidity": 1235.01
     },
     {
-      "market": "CA Aldosivi vs. CA Uni\u00f3n - More Markets \u2014 CA Aldosivi vs. CA Uni\u00f3n: CA Aldosivi 2nd Half O/U 0.5",
+      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Sociedad de F\u00fatbol 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-ald-uni-2026-08-21-more-markets",
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "La Liga"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 3756.98
+      "volume24hr": 184831.33,
+      "liquidity": 1107.54
     },
     {
-      "market": "CA Aldosivi vs. CA Uni\u00f3n - More Markets \u2014 CA Aldosivi vs. CA Uni\u00f3n: CA Aldosivi 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-ald-uni-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 3769.24
-    },
-    {
-      "market": "CA Aldosivi vs. CA Uni\u00f3n - More Markets \u2014 CA Aldosivi vs. CA Uni\u00f3n: CA Aldosivi O/U 2.5",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/arg-ald-uni-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 139315.99,
-      "liquidity": 10000.61
-    },
-    {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: Both Teams to Score in First Half",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 49.55,
-      "liquidity": 2549.1
-    },
-    {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: RC Strasbourg Alsace 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 107623.04,
-      "liquidity": 2518.13
-    },
-    {
-      "market": "NK Rude\u0161 vs. NK Lokomotiva Zagreb - More Markets \u2014 NK Rude\u0161 vs. NK Lokomotiva Zagreb: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/hr1-rud-lok-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Prva Liga"
-      ],
-      "volume24hr": 88199.72,
-      "liquidity": 1197.65
-    },
-    {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: Olympique de Marseille 1st Half O/U 1.5",
+      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 2: Any Player Quadra Kill?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1608044.68,
+      "liquidity": 729.06
+    },
+    {
+      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1608044.68,
+      "liquidity": 729.06
+    },
+    {
+      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1.96,
+      "liquidity": 413.77
+    },
+    {
+      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 3: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1608044.68,
+      "liquidity": 757.65
+    },
+    {
+      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1608044.68,
+      "liquidity": 757.65
+    },
+    {
+      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 First Blood in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1608044.68,
+      "liquidity": 736.42
+    },
+    {
+      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
       "tags": [
         "Sports",
@@ -149,15 +146,11 @@
         "Soccer",
         "Ligue 1"
       ],
-      "volume24hr": 107623.04,
-      "liquidity": 2512.82
+      "volume24hr": 116491.65,
+      "liquidity": 1015.95
     }
   ],
   "log": [
-    {
-      "ts": "12:30:01",
-      "text": " poll complete \u2014 1936 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1932 markets scanned, 10 flagged"
@@ -273,6 +266,10 @@
     {
       "ts": "19:45:02",
       "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:00:01",
+      "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
     }
   ]
 }
