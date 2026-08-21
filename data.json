@@ -1,71 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 12:00:01 UTC",
+  "lastUpdate": "2026-08-21 12:15:02 UTC",
   "swings": [
     {
-      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: O/U 5.5",
-      "prev": 0.167,
-      "now": 0.9995,
-      "delta": 0.8325,
-      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 16557.73,
-      "liquidity": 142395.84
-    },
-    {
-      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Spread: Kashiwa Reysol (-1.5)",
-      "prev": 0.12,
-      "now": 0.93,
-      "delta": 0.81,
-      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 26507.25,
-      "liquidity": 3810.72
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.37,
-      "now": 0.9945,
-      "delta": 0.6245,
-      "url": "https://polymarket.com/event/cs2-fut-mouz-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 214.31,
-      "liquidity": 649.62
-    },
-    {
-      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Slay a Dragon?",
-      "prev": 0.51,
-      "now": 0.005,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2798507.3,
-      "liquidity": 58.48
-    },
-    {
-      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
-      "prev": 0.49,
-      "now": 0.99,
-      "delta": 0.5,
+      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Dota 2: Team Spirit vs TEAM VISION - Game 2 Winner",
+      "prev": 0.305,
+      "now": 0.825,
+      "delta": 0.52,
       "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
       "tags": [
         "Esports",
@@ -73,44 +13,44 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 77.55,
-      "liquidity": 146.74
+      "volume24hr": 752278.4,
+      "liquidity": 181867.89
     },
     {
-      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 18.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-fut-mouz-2026-08-21",
+      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Game Handicap: VSN (-1.5) vs Team Spirit (+1.5)",
+      "prev": 0.69,
+      "now": 0.175,
+      "delta": -0.515,
+      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 46.26,
-      "liquidity": 297.0
+      "volume24hr": 27367.63,
+      "liquidity": 974.47
     },
     {
-      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: Kashiwa Reysol 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
+      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.315,
+      "now": 0.825,
+      "delta": 0.51,
+      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "Japan J League"
+        "Sports"
       ],
-      "volume24hr": 311944.08,
-      "liquidity": 3244.15
+      "volume24hr": 16816.17,
+      "liquidity": 82563.37
     },
     {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 1?",
-      "prev": 0.5005,
-      "now": 0.995,
-      "delta": 0.4945,
+      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.515,
+      "now": 0.0055,
+      "delta": -0.5095,
       "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
       "tags": [
         "Esports",
@@ -118,45 +58,98 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 785.56
+      "volume24hr": 3.92,
+      "liquidity": 1047.59
     },
     {
-      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: O/U 4.5",
-      "prev": 0.54,
+      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "prev": 0.495,
       "now": 0.9995,
-      "delta": 0.4595,
-      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Japan J League"
+        "Sports"
       ],
-      "volume24hr": 51022.76,
-      "liquidity": 154906.74
+      "volume24hr": 3563.06,
+      "liquidity": 20377.01
     },
     {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: JEF United Ichihara Chiba O/U 1.5",
-      "prev": 0.05,
-      "now": 0.4905,
-      "delta": 0.4405,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "prev": 0.495,
+      "now": 0.9945,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Japan J League"
+        "Sports"
       ],
-      "volume24hr": 187.3,
-      "liquidity": 77.92
+      "volume24hr": 75.13,
+      "liquidity": 836.31
+    },
+    {
+      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: MOUZ (-3.5) vs FUT Esports (+3.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-fut-mouz-2026-08-21",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2856.61,
+      "liquidity": 17443.19
+    },
+    {
+      "market": "Prague 2: Chun-Hsin Tseng vs Norbert Gombos \u2014 Prague 2: Completed Match: Chun-Hsin Tseng vs Norbert Gombos",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tseng-gombos-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 129860.21,
+      "liquidity": 1384.63
+    },
+    {
+      "market": "Prague 2: Chun-Hsin Tseng vs Norbert Gombos \u2014 Tseng vs. Gombos: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tseng-gombos-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 129860.21,
+      "liquidity": 2024.3
+    },
+    {
+      "market": "Prague 2: Chun-Hsin Tseng vs Norbert Gombos \u2014 Tseng vs. Gombos: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tseng-gombos-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2.38,
+      "liquidity": 4624.32
     }
   ],
   "log": [
-    {
-      "ts": "04:45:01",
-      "text": " poll complete \u2014 1811 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:00:01",
       "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
@@ -272,6 +265,10 @@
     {
       "ts": "12:00:01",
       "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:15:02",
+      "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
     }
   ]
 }
