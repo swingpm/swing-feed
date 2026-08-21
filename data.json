@@ -1,168 +1,158 @@
 {
-  "lastUpdate": "2026-08-21 05:00:01 UTC",
+  "lastUpdate": "2026-08-21 05:15:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Both Teams Beat Roshan?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.205,
+      "now": 0.5,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 73.74,
+      "liquidity": 307314.55
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
+      "prev": 0.43,
+      "now": 0.685,
+      "delta": 0.255,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
         "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 16.78,
-      "liquidity": 760.16
+      "volume24hr": 268.0,
+      "liquidity": 25.03
     },
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Ends in Daytime?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.25,
+      "now": 0.5,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 95850.31,
+      "liquidity": 307314.55
+    },
+    {
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.25,
+      "now": 0.5,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 95850.31,
+      "liquidity": 307314.55
+    },
+    {
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.25,
+      "now": 0.5,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 95850.31,
+      "liquidity": 307314.55
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
+      "prev": 0.315,
+      "now": 0.545,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
         "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 8177965.43,
-      "liquidity": 788.25
+      "volume24hr": 32.74,
+      "liquidity": 15.59
     },
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.28,
+      "now": 0.5,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 490.0,
-      "liquidity": 1248.11
+      "volume24hr": 95850.31,
+      "liquidity": 307314.55
     },
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Both Teams Beat Roshan?",
-      "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.28,
+      "now": 0.5,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 6.12,
-      "liquidity": 818.97
+      "volume24hr": 95850.31,
+      "liquidity": 307314.55
     },
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
-      "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.285,
+      "now": 0.5,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 8177965.43,
-      "liquidity": 875.38
+      "volume24hr": 18.52,
+      "liquidity": 307314.55
     },
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.285,
+      "now": 0.5,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 8177965.43,
-      "liquidity": 819.95
-    },
-    {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Any Player Ultra Kill?",
-      "prev": 0.5,
-      "now": 0.245,
-      "delta": -0.255,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 8177965.43,
-      "liquidity": 7.31
-    },
-    {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 16 hours?",
-      "prev": 0.595,
-      "now": 0.365,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
-      "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
-      ],
-      "volume24hr": 5439.43,
-      "liquidity": 588.84
-    },
-    {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 14 hours?",
-      "prev": 0.57,
-      "now": 0.38,
-      "delta": -0.19,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
-      "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
-      ],
-      "volume24hr": 16115.93,
-      "liquidity": 562.91
-    },
-    {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 36 hours?",
-      "prev": 0.875,
-      "now": 0.6975,
-      "delta": -0.1775,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
-      "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
-      ],
-      "volume24hr": 3322.44,
-      "liquidity": 284.19
+      "volume24hr": 95850.31,
+      "liquidity": 307314.55
     }
   ],
   "log": [
-    {
-      "ts": "21:45:01",
-      "text": " poll complete \u2014 1988 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 2021 markets scanned, 10 flagged"
@@ -277,6 +267,10 @@
     },
     {
       "ts": "05:00:01",
+      "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:15:01",
       "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
     }
   ]
