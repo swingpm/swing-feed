@@ -1,137 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 13:30:02 UTC",
+  "lastUpdate": "2026-08-21 13:45:02 UTC",
   "swings": [
     {
-      "market": "Prague 2: Jan Kumstat vs Filip Jianu \u2014 Kumstat vs. Jianu: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-jianu-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 2265.59,
-      "liquidity": 20100.44
-    },
-    {
-      "market": "Prague 2: Jan Kumstat vs Filip Jianu \u2014 Set Handicap: Kumstat (-1.5) vs Jianu (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-jianu-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 6828.19,
-      "liquidity": 27610.41
-    },
-    {
-      "market": "Prague 2: Jan Kumstat vs Filip Jianu \u2014 Jan Kumstat vs. Filip Jianu: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-jianu-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 20.45,
-      "liquidity": 6242.77
-    },
-    {
-      "market": "Prague 2: Jan Kumstat vs Filip Jianu \u2014 Kumstat vs. Jianu: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-jianu-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 194892.14,
-      "liquidity": 3565.17
-    },
-    {
-      "market": "Prague 2: Jan Kumstat vs Filip Jianu \u2014 Set 2 Winner: Kumstat vs Jianu",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-jianu-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 194892.14,
-      "liquidity": 3558.13
-    },
-    {
-      "market": "Prague 2: Jan Kumstat vs Filip Jianu \u2014 Kumstat vs. Jianu: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-jianu-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 194892.14,
-      "liquidity": 8855.1
-    },
-    {
-      "market": "Prague 2: Jan Kumstat vs Filip Jianu \u2014 Kumstat vs. Jianu: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-jianu-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 3222.7
-    },
-    {
-      "market": "Prague 2: Jan Kumstat vs Filip Jianu \u2014 Kumstat vs. Jianu: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-jianu-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 194892.14,
-      "liquidity": 8477.01
-    },
-    {
-      "market": "Prague 2: Jan Kumstat vs Filip Jianu \u2014 Kumstat vs. Jianu: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kumstat-jianu-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 194892.14,
-      "liquidity": 3161.73
-    },
-    {
-      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.315,
-      "now": 0.76,
-      "delta": 0.445,
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 2?",
+      "prev": 0.495,
+      "now": 0.995,
+      "delta": 0.5,
       "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
@@ -139,15 +13,150 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 2024.42,
-      "liquidity": 245.1
+      "volume24hr": 119.64,
+      "liquidity": 1220.1
+    },
+    {
+      "market": "Counter-Strike: GenOne vs HAVU (BO3) - CCT Europe Series #7 Group Stage",
+      "prev": 0.925,
+      "now": 0.595,
+      "delta": -0.33,
+      "url": "https://polymarket.com/event/cs2-g1-havu-2026-08-21",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 52442.87,
+      "liquidity": 123770.91
+    },
+    {
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.265,
+      "now": 0.535,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93312.56,
+      "liquidity": 4.49
+    },
+    {
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.265,
+      "now": 0.535,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93312.56,
+      "liquidity": 4.5
+    },
+    {
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.76,
+      "now": 0.505,
+      "delta": -0.255,
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2047.67,
+      "liquidity": 6.2
+    },
+    {
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.31,
+      "now": 0.55,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93312.56,
+      "liquidity": 7.55
+    },
+    {
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.31,
+      "now": 0.55,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93312.56,
+      "liquidity": 7.55
+    },
+    {
+      "market": "XRP above ___ on August 21? \u2014 Will the price of XRP be above $1.40 on August 21?",
+      "prev": 0.387,
+      "now": 0.616,
+      "delta": 0.229,
+      "url": "https://polymarket.com/event/xrp-above-on-august-21-2026",
+      "tags": [
+        "XRP",
+        "Ripple",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 10781.2,
+      "liquidity": 16552.07
+    },
+    {
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.625,
+      "now": 0.41,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 8.85,
+      "liquidity": 4.13
+    },
+    {
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.285,
+      "now": 0.5,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93312.56,
+      "liquidity": 0.1
     }
   ],
   "log": [
-    {
-      "ts": "06:15:02",
-      "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:30:02",
       "text": " poll complete \u2014 1805 markets scanned, 10 flagged"
@@ -263,6 +272,10 @@
     {
       "ts": "13:30:02",
       "text": " poll complete \u2014 1907 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:45:02",
+      "text": " poll complete \u2014 1903 markets scanned, 10 flagged"
     }
   ]
 }
