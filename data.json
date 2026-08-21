@@ -1,158 +1,154 @@
 {
-  "lastUpdate": "2026-08-21 16:00:01 UTC",
+  "lastUpdate": "2026-08-21 16:15:02 UTC",
   "swings": [
     {
-      "market": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs \u2014 Total Kills Over/Under 80.5 in Game 1?",
+      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Set 1 Winner: Bonzi vs Assche",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2566.54,
+      "liquidity": 22426.05
+    },
+    {
+      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Bonzi vs. Assche: Set 1 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/dota2-ty-ngx-2026-08-21",
+      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 137068.53,
+      "liquidity": 5343.35
+    },
+    {
+      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Bonzi vs. Assche: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 137068.53,
+      "liquidity": 5364.65
+    },
+    {
+      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Bonzi vs. Assche: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 137068.53,
+      "liquidity": 5400.61
+    },
+    {
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5024500.23,
-      "liquidity": 558.18
+      "volume24hr": 1595027.65,
+      "liquidity": 78.57
     },
     {
-      "market": "Sion: Lorenzo Giustino vs Benjamin Hassan \u2014 Set 1 Winner: Giustino vs Hassan",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Quadra Kill?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-giustin-hassan-2026-08-21",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 873.44,
-      "liquidity": 6038.73
-    },
-    {
-      "market": "Sion: Lorenzo Giustino vs Benjamin Hassan \u2014 Giustino vs. Hassan: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-giustin-hassan-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 131660.68,
-      "liquidity": 5388.54
-    },
-    {
-      "market": "Sion: Lorenzo Giustino vs Benjamin Hassan \u2014 Giustino vs. Hassan: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-giustin-hassan-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 131660.68,
-      "liquidity": 5355.15
-    },
-    {
-      "market": "Sion: Lorenzo Giustino vs Benjamin Hassan \u2014 Giustino vs. Hassan: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-giustin-hassan-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 131660.68,
-      "liquidity": 5407.95
-    },
-    {
-      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: Ittihad Kalba FC O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "UAE Pro League"
+        "Sports"
       ],
-      "volume24hr": 699.2,
-      "liquidity": 12445.56
+      "volume24hr": 1595027.65,
+      "liquidity": 78.57
     },
     {
-      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: 2nd Half O/U 1.5",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Penta Kill?",
       "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "UAE Pro League"
+        "Sports"
       ],
-      "volume24hr": 99527.31,
-      "liquidity": 3970.82
+      "volume24hr": 1595027.65,
+      "liquidity": 78.57
     },
     {
-      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: Both Teams to Score in Second Half",
+      "market": "Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: Karmine Corp (-2.5) vs Enterprise Esports (+2.5)",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/val-ep1-kc3-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "UAE Pro League"
+        "Sports"
       ],
-      "volume24hr": 2.47,
-      "liquidity": 2917.0
+      "volume24hr": 216006.74,
+      "liquidity": 408.17
     },
     {
-      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: 2nd Half O/U 2.5",
+      "market": "Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 22.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/val-ep1-kc3-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "UAE Pro League"
+        "Sports"
       ],
-      "volume24hr": 21.98,
-      "liquidity": 3482.52
+      "volume24hr": 216006.74,
+      "liquidity": 408.17
     },
     {
-      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: Ittihad Kalba FC 2nd Half O/U 0.5",
+      "market": "Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 20.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/val-ep1-kc3-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "UAE Pro League"
+        "Sports"
       ],
-      "volume24hr": 99527.31,
-      "liquidity": 3425.1
+      "volume24hr": 216006.74,
+      "liquidity": 408.17
     }
   ],
   "log": [
-    {
-      "ts": "08:45:01",
-      "text": " poll complete \u2014 1830 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:00:01",
       "text": " poll complete \u2014 1832 markets scanned, 10 flagged"
@@ -268,6 +264,10 @@
     {
       "ts": "16:00:01",
       "text": " poll complete \u2014 1858 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:15:02",
+      "text": " poll complete \u2014 1924 markets scanned, 10 flagged"
     }
   ]
 }
