@@ -1,159 +1,158 @@
 {
-  "lastUpdate": "2026-08-21 18:00:01 UTC",
+  "lastUpdate": "2026-08-21 18:15:01 UTC",
   "swings": [
     {
-      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: Both Teams to Score in First Half",
-      "prev": 0.535,
-      "now": 0.0055,
-      "delta": -0.5295,
-      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 174.17,
-      "liquidity": 2396.84
-    },
-    {
-      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: 1st Half O/U 1.5",
-      "prev": 0.525,
-      "now": 0.0045,
-      "delta": -0.5205,
-      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Sweden Allsvenskan"
-      ],
-      "volume24hr": 1872.5,
-      "liquidity": 6028.04
-    },
-    {
-      "market": "Al Riyadh Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Riyadh Saudi Club vs. Al Nassr Saudi Club: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.0045,
-      "delta": -0.5005,
-      "url": "https://polymarket.com/event/spl-riy-nsr-2026-08-21-more-markets",
+      "market": "Al Hazem SC vs. Al Diraiyah Saudi Club - More Markets \u2014 Al Hazem SC vs. Al Diraiyah Saudi Club: Al Hazem SC O/U 1.5",
+      "prev": 0.0255,
+      "now": 0.5,
+      "delta": 0.4745,
+      "url": "https://polymarket.com/event/spl-haz-dir-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Saudi Professional League"
       ],
-      "volume24hr": 232615.59,
-      "liquidity": 3438.45
+      "volume24hr": 136691.09,
+      "liquidity": 0.01
     },
     {
-      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys \u2014 Bejlek vs. Keys: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
+      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.48,
+      "now": 0.0255,
+      "delta": -0.4545,
+      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 136.86,
-      "liquidity": 9705.59
+      "volume24hr": 214.38,
+      "liquidity": 240.91
     },
     {
-      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys \u2014 Bejlek vs. Keys: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
+      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 33.5 in Game 1?",
+      "prev": 0.48,
+      "now": 0.0255,
+      "delta": -0.4545,
+      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 96.25,
-      "liquidity": 6410.51
+      "volume24hr": 125.0,
+      "liquidity": 240.36
     },
     {
-      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys \u2014 Bejlek vs. Keys: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 522696.84,
-      "liquidity": 6457.12
-    },
-    {
-      "market": "Al Riyadh Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Riyadh Saudi Club vs. Al Nassr Saudi Club: Al Riyadh Saudi Club O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/spl-riy-nsr-2026-08-21-more-markets",
+      "market": "Al Hazem SC vs. Al Diraiyah Saudi Club - More Markets \u2014 Al Hazem SC vs. Al Diraiyah Saudi Club: Al Diraiyah Saudi Club O/U 2.5",
+      "prev": 0.07,
+      "now": 0.5,
+      "delta": 0.43,
+      "url": "https://polymarket.com/event/spl-haz-dir-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Saudi Professional League"
       ],
-      "volume24hr": 2193.65,
-      "liquidity": 21872.56
+      "volume24hr": 1280.6,
+      "liquidity": 0.01
     },
     {
-      "market": "Al Riyadh Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Riyadh Saudi Club vs. Al Nassr Saudi Club: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/spl-riy-nsr-2026-08-21-more-markets",
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: Al Faisaly Saudi Club 1st Half O/U 1.5",
+      "prev": 0.1,
+      "now": 0.5,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Saudi Professional League"
       ],
-      "volume24hr": 232615.59,
-      "liquidity": 4384.76
+      "volume24hr": 122920.05,
+      "liquidity": 10305.1
     },
     {
-      "market": "Al Riyadh Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Riyadh Saudi Club vs. Al Nassr Saudi Club: Al Nassr Saudi Club 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/spl-riy-nsr-2026-08-21-more-markets",
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: Al Faisaly Saudi Club O/U 2.5",
+      "prev": 0.12,
+      "now": 0.5,
+      "delta": 0.38,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Saudi Professional League"
       ],
-      "volume24hr": 232615.59,
-      "liquidity": 4240.53
+      "volume24hr": 122920.05,
+      "liquidity": 10305.1
     },
     {
-      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: 1st Half O/U 2.5",
-      "prev": 0.5,
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: O/U 4.5",
+      "prev": 0.165,
+      "now": 0.53,
+      "delta": 0.365,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 1325.02,
+      "liquidity": 3.0
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: 1st Half O/U 2.5",
+      "prev": 0.14,
+      "now": 0.5,
+      "delta": 0.36,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 32.0,
+      "liquidity": 10305.1
+    },
+    {
+      "market": "Al Hazem SC vs. Al Diraiyah Saudi Club - More Markets \u2014 Al Hazem SC vs. Al Diraiyah Saudi Club: O/U 1.5",
+      "prev": 0.42,
+      "now": 0.075,
+      "delta": -0.345,
+      "url": "https://polymarket.com/event/spl-haz-dir-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 17004.32,
+      "liquidity": 41543.26
+    },
+    {
+      "market": "Al Hazem SC vs. Al Diraiyah Saudi Club - More Markets \u2014 Al Hazem SC vs. Al Diraiyah Saudi Club: O/U 4.5",
+      "prev": 0.3355,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
+      "delta": -0.335,
+      "url": "https://polymarket.com/event/spl-haz-dir-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Sweden Allsvenskan"
+        "Saudi Professional League"
       ],
-      "volume24hr": 579.42,
-      "liquidity": 10171.86
+      "volume24hr": 6434.06,
+      "liquidity": 144024.25
     }
   ],
   "log": [
-    {
-      "ts": "10:45:02",
-      "text": " poll complete \u2014 1947 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:00:01",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
@@ -269,6 +268,10 @@
     {
       "ts": "18:00:01",
       "text": " poll complete \u2014 1911 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:15:01",
+      "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
     }
   ]
 }
