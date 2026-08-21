@@ -1,156 +1,156 @@
 {
-  "lastUpdate": "2026-08-21 22:15:01 UTC",
+  "lastUpdate": "2026-08-21 22:30:01 UTC",
   "swings": [
     {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: Team Envy (-7.5) vs MIBR (+7.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 332895.47,
-      "liquidity": 78.62
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 17.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 332895.47,
-      "liquidity": 78.62
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 15.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 332895.47,
-      "liquidity": 78.62
-    },
-    {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: MIBR (-2.5) vs Team Envy (+2.5)",
-      "prev": 0.45,
-      "now": 0.75,
-      "delta": 0.3,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 332895.47,
-      "liquidity": 249.96
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Taylor Fritz vs. Brandon Nakashima: Total Sets O/U 2.5",
-      "prev": 0.735,
-      "now": 0.9995,
-      "delta": 0.2645,
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima",
+      "prev": 0.565,
+      "now": 0.0005,
+      "delta": -0.5645,
       "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 3604.91,
-      "liquidity": 18092.85
+      "volume24hr": 3275830.17,
+      "liquidity": 4453246.71
     },
     {
-      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Set Handicap: Royer (-1.5) vs Chidekh (+1.5)",
-      "prev": 0.5,
-      "now": 0.245,
-      "delta": -0.255,
-      "url": "https://polymarket.com/event/atp-royer-chidekh-2026-08-21",
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Cincinnati Open: Completed Match: Taylor Fritz vs Brandon Nakashima",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 192.28,
-      "liquidity": 3554.25
+      "volume24hr": 493.98,
+      "liquidity": 2769.38
     },
     {
-      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Set Handicap: Chidekh (-1.5) vs Royer (+1.5)",
-      "prev": 0.5,
-      "now": 0.245,
-      "delta": -0.255,
-      "url": "https://polymarket.com/event/atp-royer-chidekh-2026-08-21",
+      "market": "Atlanta Braves vs. Milwaukee Brewers: O/U 2.5",
+      "prev": 0.505,
+      "now": 0.9945,
+      "delta": 0.4895,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 75.0,
-      "liquidity": 3554.25
+      "volume24hr": 217.08,
+      "liquidity": 23.02
     },
     {
-      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis \u2014 Set Handicap: Bergs (-1.5) vs Sakellaridis (+1.5)",
-      "prev": 0.5,
-      "now": 0.245,
-      "delta": -0.255,
+      "market": "Atlanta Braves vs. Milwaukee Brewers \u2014 Spread: Milwaukee Brewers (-1.5)",
+      "prev": 0.745,
+      "now": 0.365,
+      "delta": -0.38,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 86625.72,
+      "liquidity": 63919.2
+    },
+    {
+      "market": "Atlanta Braves vs. Milwaukee Brewers: O/U 3.5",
+      "prev": 0.27,
+      "now": 0.51,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 312.82,
+      "liquidity": 19.28
+    },
+    {
+      "market": "Highest temperature in Dallas on August 21? \u2014 Will the highest temperature in Dallas be 99\u00b0F or below on August 21?",
+      "prev": 0.726,
+      "now": 0.9315,
+      "delta": 0.2055,
+      "url": "https://polymarket.com/event/highest-temperature-in-dallas-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "dallas",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 15995.39,
+      "liquidity": 525.42
+    },
+    {
+      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis \u2014 Set 2 Winner: Bergs vs Sakellaridis",
+      "prev": 0.64,
+      "now": 0.45,
+      "delta": -0.19,
       "url": "https://polymarket.com/event/atp-bergs-sakella-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 2356.12,
-      "liquidity": 5414.65
+      "volume24hr": 142584.0,
+      "liquidity": 1.2
     },
     {
-      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Royer vs. Chidekh: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Games Total: O/U 2.5",
+      "prev": 0.69,
+      "now": 0.87,
+      "delta": 0.18,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 933.89,
+      "liquidity": 155.25
+    },
+    {
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map Handicap: NV (-1.5) vs MIBR (+1.5)",
+      "prev": 0.31,
+      "now": 0.13,
+      "delta": -0.18,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1.61,
+      "liquidity": 149.2
+    },
+    {
+      "market": "Kingston: Valentin Royer vs Clement Chidekh",
+      "prev": 0.735,
+      "now": 0.915,
+      "delta": 0.18,
       "url": "https://polymarket.com/event/atp-royer-chidekh-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 135039.63,
-      "liquidity": 3490.5
-    },
-    {
-      "market": "Kingston: Valentin Royer vs Clement Chidekh \u2014 Valentin Royer vs. Clement Chidekh: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/atp-royer-chidekh-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 26.31,
-      "liquidity": 3490.5
+      "volume24hr": 156595.52,
+      "liquidity": 379973.09
     }
   ],
   "log": [
-    {
-      "ts": "15:00:02",
-      "text": " poll complete \u2014 1864 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:15:01",
       "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
@@ -266,6 +266,10 @@
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:30:01",
+      "text": " poll complete \u2014 1953 markets scanned, 10 flagged"
     }
   ]
 }
