@@ -1,144 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 05:30:01 UTC",
+  "lastUpdate": "2026-08-21 05:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Nongshim Esports Academy vs T1 Academy - Game 1 Winner",
-      "prev": 0.455,
-      "now": 0.985,
-      "delta": 0.53,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 33809.43,
-      "liquidity": 202744.23
-    },
-    {
-      "market": "49ers vs. Chargers \u2014 Chargers Team Total: O/U 18.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 1164057.66,
-      "liquidity": 78.57
-    },
-    {
-      "market": "49ers vs. Chargers \u2014 Chargers Team Total: O/U 19.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 1164057.66,
-      "liquidity": 78.57
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Naz Hillmon: Rebounds O/U 4.5",
-      "prev": 0.505,
-      "now": 0.905,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 1071.76,
-      "liquidity": 385.07
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Rhyne Howard: Rebounds O/U 3.5",
-      "prev": 0.495,
-      "now": 0.095,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 522927.76,
-      "liquidity": 378.57
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Dearica Hamby: Assists O/U 2.5",
-      "prev": 0.495,
-      "now": 0.095,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 378.57
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Allisha Gray: Assists O/U 2.5",
-      "prev": 0.495,
-      "now": 0.095,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 522927.76,
-      "liquidity": 378.57
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game Handicap: T1.A (-1.5) vs Nongshim Esports Academy (+1.5)",
-      "prev": 0.32,
-      "now": 0.02,
-      "delta": -0.3,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4304.48,
-      "liquidity": 9842.95
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prev": 0.335,
-      "now": 0.565,
-      "delta": 0.23,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 83341.98,
-      "liquidity": 156395.54
-    },
-    {
       "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 12 hours?",
-      "prev": 0.465,
-      "now": 0.28,
-      "delta": -0.185,
+      "prev": 0.28,
+      "now": 0.915,
+      "delta": 0.635,
       "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
       "tags": [
         "Roblox",
@@ -148,15 +15,158 @@
         "streaming",
         "IShowSpeed"
       ],
-      "volume24hr": 42556.66,
-      "liquidity": 2811.85
+      "volume24hr": 43868.07,
+      "liquidity": 604.3
+    },
+    {
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 276.57
+    },
+    {
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 14 hours?",
+      "prev": 0.52,
+      "now": 0.945,
+      "delta": 0.425,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "tags": [
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
+      ],
+      "volume24hr": 17679.61,
+      "liquidity": 548.08
+    },
+    {
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 18 hours?",
+      "prev": 0.59,
+      "now": 0.97,
+      "delta": 0.38,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "tags": [
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
+      ],
+      "volume24hr": 8919.44,
+      "liquidity": 1572.5
+    },
+    {
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.16,
+      "delta": -0.34,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 187692.76,
+      "liquidity": 40.96
+    },
+    {
+      "market": "Highest temperature in Hong Kong on August 21? \u2014 Will the highest temperature in Hong Kong be 30\u00b0C on August 21?",
+      "prev": 0.615,
+      "now": 0.275,
+      "delta": -0.34,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 11985.78,
+      "liquidity": 1302.0
+    },
+    {
+      "market": "Highest temperature in Hong Kong on August 21? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 21?",
+      "prev": 0.33,
+      "now": 0.64,
+      "delta": 0.31,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 15698.15,
+      "liquidity": 461.7
+    },
+    {
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 20 hours?",
+      "prev": 0.685,
+      "now": 0.9845,
+      "delta": 0.2995,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "tags": [
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
+      ],
+      "volume24hr": 3195.65,
+      "liquidity": 1530.04
+    },
+    {
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 16 hours?",
+      "prev": 0.575,
+      "now": 0.8495,
+      "delta": 0.2745,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "tags": [
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
+      ],
+      "volume24hr": 6193.34,
+      "liquidity": 960.48
+    },
+    {
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
+      "prev": 0.275,
+      "now": 0.005,
+      "delta": -0.27,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 7042511.62,
+      "liquidity": 576162.66
     }
   ],
   "log": [
-    {
-      "ts": "22:15:01",
-      "text": " poll complete \u2014 2016 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:30:01",
       "text": " poll complete \u2014 2085 markets scanned, 10 flagged"
@@ -272,6 +282,10 @@
     {
       "ts": "05:30:01",
       "text": " poll complete \u2014 1816 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:45:01",
+      "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
     }
   ]
 }
