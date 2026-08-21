@@ -1,131 +1,82 @@
 {
-  "lastUpdate": "2026-08-21 15:45:01 UTC",
+  "lastUpdate": "2026-08-21 16:00:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: Legacy vs Team Falcons - Map 2 Winner",
-      "prev": 0.33,
-      "now": 0.995,
-      "delta": 0.665,
-      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 730693.5,
-      "liquidity": 684789.27
-    },
-    {
-      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.665,
-      "now": 0.005,
-      "delta": -0.66,
-      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 8354.06,
-      "liquidity": 32461.35
-    },
-    {
-      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs \u2014 Map Handicap: LGC (-1.5) vs Team Falcons (+1.5)",
-      "prev": 0.465,
-      "now": 0.995,
-      "delta": 0.53,
-      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 355.1,
-      "liquidity": 10357.95
-    },
-    {
-      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "market": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs \u2014 Total Kills Over/Under 80.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/dota2-ty-ngx-2026-08-21",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 145.41,
-      "liquidity": 200.8
+      "volume24hr": 5024500.23,
+      "liquidity": 558.18
     },
     {
-      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "market": "Sion: Lorenzo Giustino vs Benjamin Hassan \u2014 Set 1 Winner: Giustino vs Hassan",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-giustin-hassan-2026-08-21",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 1313.86,
-      "liquidity": 190.2
+      "volume24hr": 873.44,
+      "liquidity": 6038.73
     },
     {
-      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "market": "Sion: Lorenzo Giustino vs Benjamin Hassan \u2014 Giustino vs. Hassan: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-giustin-hassan-2026-08-21",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 409542.96,
-      "liquidity": 201.8
+      "volume24hr": 131660.68,
+      "liquidity": 5388.54
     },
     {
-      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 33.5 in Game 1?",
+      "market": "Sion: Lorenzo Giustino vs Benjamin Hassan \u2014 Giustino vs. Hassan: Set 1 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-giustin-hassan-2026-08-21",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 409542.96,
-      "liquidity": 202.4
+      "volume24hr": 131660.68,
+      "liquidity": 5355.15
     },
     {
-      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 36.5 in Game 1?",
+      "market": "Sion: Lorenzo Giustino vs Benjamin Hassan \u2014 Giustino vs. Hassan: Set 1 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-giustin-hassan-2026-08-21",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 409542.96,
-      "liquidity": 198.0
+      "volume24hr": 131660.68,
+      "liquidity": 5407.95
     },
     {
-      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Spread: Al Wasl FC (-2.5)",
-      "prev": 0.355,
-      "now": 0.85,
-      "delta": 0.495,
+      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: Ittihad Kalba FC O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
       "tags": [
         "Sports",
@@ -133,14 +84,14 @@
         "Soccer",
         "UAE Pro League"
       ],
-      "volume24hr": 3979.38,
-      "liquidity": 5396.88
+      "volume24hr": 699.2,
+      "liquidity": 12445.56
     },
     {
-      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: 2nd Half O/U 0.5",
+      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.004,
+      "delta": -0.496,
       "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +99,56 @@
         "Soccer",
         "UAE Pro League"
       ],
-      "volume24hr": 84263.49,
-      "liquidity": 1625.41
+      "volume24hr": 99527.31,
+      "liquidity": 3970.82
+    },
+    {
+      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UAE Pro League"
+      ],
+      "volume24hr": 2.47,
+      "liquidity": 2917.0
+    },
+    {
+      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UAE Pro League"
+      ],
+      "volume24hr": 21.98,
+      "liquidity": 3482.52
+    },
+    {
+      "market": "Ittihad Kalba FC vs. Al Wasl FC - More Markets \u2014 Ittihad Kalba FC vs. Al Wasl FC: Ittihad Kalba FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/uae1-itt-aw-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UAE Pro League"
+      ],
+      "volume24hr": 99527.31,
+      "liquidity": 3425.1
     }
   ],
   "log": [
-    {
-      "ts": "08:30:01",
-      "text": " poll complete \u2014 1826 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:45:01",
       "text": " poll complete \u2014 1830 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "15:45:01",
       "text": " poll complete \u2014 1878 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:00:01",
+      "text": " poll complete \u2014 1858 markets scanned, 10 flagged"
     }
   ]
 }
