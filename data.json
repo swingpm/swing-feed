@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 06:30:02 UTC",
+  "lastUpdate": "2026-08-21 06:45:02 UTC",
   "swings": [
     {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game Handicap: Liquid (-1.5) vs Team Falcons (+1.5)",
-      "prev": 0.455,
-      "now": 0.235,
-      "delta": -0.22,
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 First Blood in Game 1?",
+      "prev": 0.505,
+      "now": 0.0055,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
@@ -13,165 +13,139 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 8774.82,
-      "liquidity": 134286.72
+      "volume24hr": 5.05,
+      "liquidity": 135.77
     },
     {
-      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang",
-      "prev": 0.72,
-      "now": 0.54,
-      "delta": -0.18,
+      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 ITF W15 Tianjin 3 Women: Completed Match: Rinko Matsuda vs Ya Yi Yang",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 72864.87,
-      "liquidity": 51779.73
+      "volume24hr": 85411.94,
+      "liquidity": 1077.69
     },
     {
-      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 27\u00b0C on August 21?",
-      "prev": 0.34,
-      "now": 0.485,
-      "delta": 0.145,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Rinko Matsuda vs. Ya Yi Yang: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 10766.33,
-      "liquidity": 283.69
+      "volume24hr": 85411.94,
+      "liquidity": 988.57
     },
     {
-      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 28\u00b0C on August 21?",
-      "prev": 0.505,
-      "now": 0.415,
-      "delta": -0.09,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Matsuda vs. Yang: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 7809.73,
-      "liquidity": 196.21
+      "volume24hr": 85411.94,
+      "liquidity": 968.46
     },
     {
-      "market": "Highest temperature in Shenzhen on August 21? \u2014 Will the highest temperature in Shenzhen be 33\u00b0C on August 21?",
-      "prev": 0.09,
-      "now": 0.175,
-      "delta": 0.085,
-      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-21-2026",
+      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Matsuda vs. Yang: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Shenzhen",
-        "Highest temperature"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 4186.5,
-      "liquidity": 320.48
+      "volume24hr": 85411.94,
+      "liquidity": 1007.17
     },
     {
-      "market": "XRP above ___ on August 21? \u2014 Will the price of XRP be above $1.30 on August 21?",
-      "prev": 0.664,
-      "now": 0.5865,
-      "delta": -0.0775,
-      "url": "https://polymarket.com/event/xrp-above-on-august-21-2026",
+      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Matsuda vs. Yang: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
       "tags": [
-        "XRP",
-        "Ripple",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 62139.79,
-      "liquidity": 25567.08
+      "volume24hr": 85411.94,
+      "liquidity": 988.57
     },
     {
-      "market": "What price will Ethereum hit August 17-23? \u2014 Will Ethereum reach $2,400 August 17-23?",
-      "prev": 0.799,
-      "now": 0.742,
-      "delta": -0.057,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-august-17-23-2026",
+      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Set Handicap: Matsuda (-1.5) vs Yang (+1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
       "tags": [
-        "Ethereum",
-        "Weekly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 31655.43,
-      "liquidity": 23544.29
+      "volume24hr": 85411.94,
+      "liquidity": 762.93
     },
     {
-      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.605,
-      "now": 0.66,
-      "delta": 0.055,
-      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang",
+      "prev": 0.54,
+      "now": 0.9995,
+      "delta": 0.4595,
+      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 85402.49,
+      "liquidity": 137519.87
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 10.98,
-      "liquidity": 213.92
+      "volume24hr": 80387.66,
+      "liquidity": 78.57
     },
     {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Nongshim Esports Academy vs T1 Academy - Game 2 Winner",
-      "prev": 0.055,
-      "now": 0.0005,
-      "delta": -0.0545,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 105196.37,
-      "liquidity": 510835.44
-    },
-    {
-      "market": "Ethereum above ___ on August 21? \u2014 Will the price of Ethereum be above $2,400 on August 21?",
-      "prev": 0.3235,
-      "now": 0.2725,
-      "delta": -0.051,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-21-2026",
-      "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 67116.65,
-      "liquidity": 27245.47
+      "volume24hr": 80387.66,
+      "liquidity": 78.57
     }
   ],
   "log": [
-    {
-      "ts": "23:15:01",
-      "text": " poll complete \u2014 1902 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:30:01",
       "text": " poll complete \u2014 1913 markets scanned, 10 flagged"
@@ -287,6 +261,10 @@
     {
       "ts": "06:30:02",
       "text": " poll complete \u2014 1805 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:45:02",
+      "text": " poll complete \u2014 1778 markets scanned, 10 flagged"
     }
   ]
 }
