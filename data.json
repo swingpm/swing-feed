@@ -1,11 +1,41 @@
 {
-  "lastUpdate": "2026-08-21 11:45:01 UTC",
+  "lastUpdate": "2026-08-21 12:00:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner",
-      "prev": 0.345,
-      "now": 0.905,
-      "delta": 0.56,
+      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: O/U 5.5",
+      "prev": 0.167,
+      "now": 0.9995,
+      "delta": 0.8325,
+      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 16557.73,
+      "liquidity": 142395.84
+    },
+    {
+      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Spread: Kashiwa Reysol (-1.5)",
+      "prev": 0.12,
+      "now": 0.93,
+      "delta": 0.81,
+      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 26507.25,
+      "liquidity": 3810.72
+    },
+    {
+      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.37,
+      "now": 0.9945,
+      "delta": 0.6245,
       "url": "https://polymarket.com/event/cs2-fut-mouz-2026-08-21",
       "tags": [
         "Esports",
@@ -13,14 +43,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 175606.41,
-      "liquidity": 165798.15
+      "volume24hr": 214.31,
+      "liquidity": 649.62
     },
     {
-      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend",
-      "prev": 0.685,
-      "now": 0.185,
-      "delta": -0.5,
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Slay a Dragon?",
+      "prev": 0.51,
+      "now": 0.005,
+      "delta": -0.505,
       "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
       "tags": [
         "Esports",
@@ -28,74 +58,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 710692.95,
-      "liquidity": 205968.09
+      "volume24hr": 2798507.3,
+      "liquidity": 58.48
     },
     {
-      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
+      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
+      "prev": 0.49,
+      "now": 0.99,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "Japan J League"
+        "Sports"
       ],
-      "volume24hr": 291904.77,
-      "liquidity": 3258.48
+      "volume24hr": 77.55,
+      "liquidity": 146.74
     },
     {
-      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: 2nd Half O/U 2.5",
+      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 18.5",
       "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 291904.77,
-      "liquidity": 6710.96
-    },
-    {
-      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: Kashiwa Reysol 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 291904.77,
-      "liquidity": 3188.45
-    },
-    {
-      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: V-Varen Nagasaki O/U 2.5",
-      "prev": 0.5,
-      "now": 0.105,
-      "delta": -0.395,
-      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 87.25,
-      "liquidity": 42.83
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs \u2014 Map Handicap: MOUZ (-1.5) vs FUT Esports (+1.5)",
-      "prev": 0.355,
-      "now": 0.055,
-      "delta": -0.3,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/cs2-fut-mouz-2026-08-21",
       "tags": [
         "Esports",
@@ -103,29 +88,59 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 58399.02,
-      "liquidity": 115420.0
+      "volume24hr": 46.26,
+      "liquidity": 297.0
     },
     {
-      "market": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group \u2014 Game Handicap: KRX (-1.5) vs DN SOOPers (+1.5)",
-      "prev": 0.21,
-      "now": 0.5,
-      "delta": 0.29,
-      "url": "https://polymarket.com/event/lol-dnf-drx-2026-08-22",
+      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: Kashiwa Reysol 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 311944.08,
+      "liquidity": 3244.15
+    },
+    {
+      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 1?",
+      "prev": 0.5005,
+      "now": 0.995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 69105.17,
-      "liquidity": 25.48
+      "volume24hr": 5.0,
+      "liquidity": 785.56
     },
     {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: JEF United Ichihara Chiba O/U 2.5",
-      "prev": 0.0085,
-      "now": 0.2855,
-      "delta": 0.277,
+      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: O/U 4.5",
+      "prev": 0.54,
+      "now": 0.9995,
+      "delta": 0.4595,
+      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 51022.76,
+      "liquidity": 154906.74
+    },
+    {
+      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: JEF United Ichihara Chiba O/U 1.5",
+      "prev": 0.05,
+      "now": 0.4905,
+      "delta": 0.4405,
       "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
       "tags": [
         "Sports",
@@ -133,30 +148,11 @@
         "Soccer",
         "Japan J League"
       ],
-      "volume24hr": 746.86,
-      "liquidity": 1664.64
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs",
-      "prev": 0.385,
-      "now": 0.655,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/cs2-fut-mouz-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 453911.84,
-      "liquidity": 179750.4
+      "volume24hr": 187.3,
+      "liquidity": 77.92
     }
   ],
   "log": [
-    {
-      "ts": "04:30:01",
-      "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:45:01",
       "text": " poll complete \u2014 1811 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1947 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:00:01",
+      "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
     }
   ]
 }
