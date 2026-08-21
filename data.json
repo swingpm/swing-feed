@@ -1,11 +1,101 @@
 {
-  "lastUpdate": "2026-08-21 17:15:01 UTC",
+  "lastUpdate": "2026-08-21 17:30:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
+      "market": "Al Riyadh Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Riyadh Saudi Club vs. Al Nassr Saudi Club: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/spl-riy-nsr-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 167493.35,
+      "liquidity": 1509.21
+    },
+    {
+      "market": "Al Riyadh Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Riyadh Saudi Club vs. Al Nassr Saudi Club: Al Nassr Saudi Club 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/spl-riy-nsr-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 167493.35,
+      "liquidity": 1508.65
+    },
+    {
+      "market": "Al Riyadh Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Riyadh Saudi Club vs. Al Nassr Saudi Club: Al Riyadh Saudi Club O/U 2.5",
+      "prev": 0.01,
+      "now": 0.496,
+      "delta": 0.486,
+      "url": "https://polymarket.com/event/spl-riy-nsr-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 472.23,
+      "liquidity": 50.66
+    },
+    {
+      "market": "Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: Enterprise Esports (-4.5) vs Karmine Corp (+4.5)",
+      "prev": 0.45,
+      "now": 0.025,
+      "delta": -0.425,
+      "url": "https://polymarket.com/event/val-ep1-kc3-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 341396.56,
+      "liquidity": 387.07
+    },
+    {
+      "market": "Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs \u2014 Map 2 Total Rounds: Over/Under 19.5",
+      "prev": 0.55,
+      "now": 0.975,
+      "delta": 0.425,
+      "url": "https://polymarket.com/event/val-ep1-kc3-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 341396.56,
+      "liquidity": 387.07
+    },
+    {
+      "market": "Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.45,
+      "now": 0.025,
+      "delta": -0.425,
+      "url": "https://polymarket.com/event/val-ep1-kc3-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 341396.56,
+      "liquidity": 387.07
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.505,
+      "now": 0.9,
+      "delta": 0.395,
       "url": "https://polymarket.com/event/dota2-ty-ngx-2026-08-21",
       "tags": [
         "Esports",
@@ -13,141 +103,55 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 6870641.24,
-      "liquidity": 1027.71
+      "volume24hr": 10.71,
+      "liquidity": 145.47
     },
     {
-      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Quebec City: Completed Match: Benjamin Bonzi vs Luca Van Assche",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
+      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 Spread: BK Hacken (-2.5)",
+      "prev": 0.493,
+      "now": 0.102,
+      "delta": -0.391,
+      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Sweden Allsvenskan"
+      ],
+      "volume24hr": 8956.12,
+      "liquidity": 6170.09
+    },
+    {
+      "market": "IK Sirius vs. BK Hacken - More Markets \u2014 IK Sirius vs. BK Hacken: BK Hacken O/U 1.5",
+      "prev": 0.39,
+      "now": 0.74,
+      "delta": 0.35,
+      "url": "https://polymarket.com/event/swe-sir-hac-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Sweden Allsvenskan"
+      ],
+      "volume24hr": 26.18,
+      "liquidity": 378.13
+    },
+    {
+      "market": "Quebec City: Jesper de Jong vs Hugo Gaston \u2014 Set Handicap: Gaston (-1.5) vs Jong (+1.5)",
+      "prev": 0.22,
+      "now": 0.5,
+      "delta": 0.28,
+      "url": "https://polymarket.com/event/atp-jong-gaston-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 257246.58,
-      "liquidity": 939.28
-    },
-    {
-      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Bonzi vs. Assche: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 257246.58,
-      "liquidity": 2691.75
-    },
-    {
-      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Benjamin Bonzi vs. Luca Van Assche: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 11.27,
-      "liquidity": 5931.03
-    },
-    {
-      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Set 2 Winner: Bonzi vs Assche",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 200.0,
-      "liquidity": 2822.92
-    },
-    {
-      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Bonzi vs. Assche: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 257246.58,
-      "liquidity": 2691.75
-    },
-    {
-      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Set Handicap: Assche (-1.5) vs Bonzi (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1040.12,
-      "liquidity": 4403.39
-    },
-    {
-      "market": "Quebec City: Benjamin Bonzi vs Luca Van Assche \u2014 Bonzi vs. Assche: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bonzi-assche-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 257246.58,
-      "liquidity": 2688.23
-    },
-    {
-      "market": "ITF W35 Verbier Women: Anastasija Cvetkovic vs Mara Guth \u2014 ITF W35 Verbier Women: Completed Match: Anastasija Cvetkovic vs Mara Guth",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/itf-cvetko-guth-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 3800.0,
-      "liquidity": 3972.61
-    },
-    {
-      "market": "ITF W35 Verbier Women: Anastasija Cvetkovic vs Mara Guth \u2014 Cvetkovic vs. Guth: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/itf-cvetko-guth-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 92215.6,
-      "liquidity": 968.46
+      "volume24hr": 905.98,
+      "liquidity": 304978.14
     }
   ],
   "log": [
-    {
-      "ts": "10:00:02",
-      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:15:01",
       "text": " poll complete \u2014 1946 markets scanned, 10 flagged"
@@ -263,6 +267,10 @@
     {
       "ts": "17:15:01",
       "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:30:01",
+      "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
     }
   ]
 }
