@@ -1,109 +1,71 @@
 {
-  "lastUpdate": "2026-08-21 23:15:01 UTC",
+  "lastUpdate": "2026-08-21 23:30:01 UTC",
   "swings": [
     {
-      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis",
-      "prev": 0.585,
-      "now": 0.005,
-      "delta": -0.58,
-      "url": "https://polymarket.com/event/atp-bergs-sakella-2026-08-21",
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.45,
+      "now": 0.0,
+      "delta": -0.45,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 324837.61,
-      "liquidity": 205975.49
+      "volume24hr": 5.0,
+      "liquidity": 868743.91
     },
     {
-      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis \u2014 Quebec City: Completed Match: Zizou Bergs vs Stefanos Sakellaridis",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bergs-sakella-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 19.98,
-      "liquidity": 1160.66
-    },
-    {
-      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis \u2014 Zizou Bergs vs. Stefanos Sakellaridis: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bergs-sakella-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 3.85,
-      "liquidity": 3131.23
-    },
-    {
-      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis \u2014 Bergs vs. Sakellaridis: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bergs-sakella-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 33.05,
-      "liquidity": 3143.27
-    },
-    {
-      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis \u2014 Set Handicap: Sakellaridis (-1.5) vs Bergs (+1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bergs-sakella-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 12.0,
-      "liquidity": 3716.39
-    },
-    {
-      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis \u2014 Bergs vs. Sakellaridis: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bergs-sakella-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 339003.69,
-      "liquidity": 3136.23
-    },
-    {
-      "market": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis \u2014 Bergs vs. Sakellaridis: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bergs-sakella-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 339003.69,
-      "liquidity": 3138.27
-    },
-    {
-      "market": "Will the game go to extra innings?: Toronto Blue Jays vs. New York Yankees",
-      "prev": 0.075,
+      "market": "Will the game go to extra innings?: San Francisco Giants vs. Boston Red Sox",
+      "prev": 0.065,
       "now": 0.5,
-      "delta": 0.425,
+      "delta": 0.435,
+      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 141064.74,
+      "liquidity": 525789.41
+    },
+    {
+      "market": "Will the game go to extra innings?: Tampa Bay Rays vs. Baltimore Orioles",
+      "prev": 0.095,
+      "now": 0.5,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/mlb-tb-bal-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 390252.84,
+      "liquidity": 803490.08
+    },
+    {
+      "market": "Will the game go to extra innings?: Washington Nationals vs. Miami Marlins",
+      "prev": 0.095,
+      "now": 0.5,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 326720.98,
+      "liquidity": 826311.72
+    },
+    {
+      "market": "Toronto Blue Jays vs. New York Yankees \u2014 1st 5 Innings Spread: Toronto Blue Jays (-1.5)",
+      "prev": 0.105,
+      "now": 0.5,
+      "delta": 0.395,
       "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-21",
       "tags": [
         "Sports",
@@ -111,45 +73,86 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 459024.57,
-      "liquidity": 1.12
+      "volume24hr": 30.0,
+      "liquidity": 399782.01
     },
     {
-      "market": "LoL: NRG Esports vs Contingent Esports (BO3) - North American Challengers League Playoffs \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-nrg-cont-2026-08-21",
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 5.5",
+      "prev": 0.42,
+      "now": 0.765,
+      "delta": 0.345,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-21",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 181935.2,
-      "liquidity": 78.57
+      "volume24hr": 10.0,
+      "liquidity": 1596.0
     },
     {
-      "market": "LoL: NRG Esports vs Contingent Esports (BO3) - North American Challengers League Playoffs \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-nrg-cont-2026-08-21",
+      "market": "San Francisco Giants vs. Boston Red Sox: 1st 5 Innings O/U 6.5",
+      "prev": 0.205,
+      "now": 0.545,
+      "delta": 0.34,
+      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 181935.2,
-      "liquidity": 78.57
+      "volume24hr": 141064.74,
+      "liquidity": 220.0
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: Washington Nationals vs. Miami Marlins",
+      "prev": 0.475,
+      "now": 0.145,
+      "delta": -0.33,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 3008.44,
+      "liquidity": 3657.71
+    },
+    {
+      "market": "San Francisco Giants vs. Boston Red Sox: 1st 5 Innings O/U 5.5",
+      "prev": 0.275,
+      "now": 0.575,
+      "delta": 0.3,
+      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 141064.74,
+      "liquidity": 382.0
+    },
+    {
+      "market": "Tampa Bay Rays vs. Baltimore Orioles: 1st 5 Innings O/U 4.5",
+      "prev": 0.445,
+      "now": 0.74,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/mlb-tb-bal-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 322.57,
+      "liquidity": 926.5
     }
   ],
   "log": [
-    {
-      "ts": "16:00:01",
-      "text": " poll complete \u2014 1858 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:15:02",
       "text": " poll complete \u2014 1924 markets scanned, 10 flagged"
@@ -265,6 +268,10 @@
     {
       "ts": "23:15:01",
       "text": " poll complete \u2014 1823 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:30:01",
+      "text": " poll complete \u2014 1837 markets scanned, 10 flagged"
     }
   ]
 }
