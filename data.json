@@ -1,162 +1,148 @@
 {
-  "lastUpdate": "2026-08-21 02:45:02 UTC",
+  "lastUpdate": "2026-08-21 03:00:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 First Blood in Game 1?",
+      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 38.5",
+      "prev": 0.68,
+      "now": 0.115,
+      "delta": -0.565,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 14651.31,
+      "liquidity": 49371.07
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 37.5",
+      "prev": 0.7,
+      "now": 0.165,
+      "delta": -0.535,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 2016.78,
+      "liquidity": 3580.04
+    },
+    {
+      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Cancun: Completed Match: Moise Kouame vs Roman Andres Burruchaga",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
+      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 425.13,
-      "liquidity": 5176.79
+      "volume24hr": 516.0,
+      "liquidity": 1979.59
     },
     {
-      "market": "Washington Nationals vs. Texas Rangers: O/U 5.5",
+      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Moise Kouame vs. Roman Andres Burruchaga: Total Sets O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
+      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 168.23,
-      "liquidity": 19030.05
+      "volume24hr": 6.61,
+      "liquidity": 6718.13
     },
     {
-      "market": "Washington Nationals vs. Texas Rangers: O/U 4.5",
+      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Set 2 Winner: Kouame vs Burruchaga",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 140944.59,
+      "liquidity": 3953.89
+    },
+    {
+      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Set Handicap: Kouame (-1.5) vs Burruchaga (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 7.62,
+      "liquidity": 5385.74
+    },
+    {
+      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Kouame vs. Burruchaga: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
+      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 567.04,
-      "liquidity": 20987.66
+      "volume24hr": 140944.59,
+      "liquidity": 3525.33
     },
     {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: Botafogo FR O/U 1.5",
+      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Kouame vs. Burruchaga: Match O/U 21.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
+      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "Games"
       ],
-      "volume24hr": 444812.02,
-      "liquidity": 15821.12
+      "volume24hr": 7.04,
+      "liquidity": 6592.29
     },
     {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: Botafogo FR O/U 2.5",
+      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Kouame vs. Burruchaga: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
+      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "Games"
       ],
-      "volume24hr": 26.2,
-      "liquidity": 15821.04
+      "volume24hr": 140944.59,
+      "liquidity": 3518.29
     },
     {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano O/U 0.5",
+      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Set Handicap: Burruchaga (-1.5) vs Kouame (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
+      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "Games"
       ],
-      "volume24hr": 821.17,
-      "liquidity": 25031.9
-    },
-    {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 5.26,
-      "liquidity": 16198.6
-    },
-    {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 380.0,
-      "liquidity": 16233.44
-    },
-    {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 444812.02,
-      "liquidity": 4075.5
-    },
-    {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 421.74,
-      "liquidity": 19559.67
+      "volume24hr": 26.12,
+      "liquidity": 6075.77
     }
   ],
   "log": [
-    {
-      "ts": "19:30:01",
-      "text": " poll complete \u2014 2046 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 2091 markets scanned, 10 flagged"
@@ -272,6 +258,10 @@
     {
       "ts": "02:45:02",
       "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:00:01",
+      "text": " poll complete \u2014 1955 markets scanned, 10 flagged"
     }
   ]
 }
