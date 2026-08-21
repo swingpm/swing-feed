@@ -1,152 +1,150 @@
 {
-  "lastUpdate": "2026-08-21 03:00:01 UTC",
+  "lastUpdate": "2026-08-21 03:15:01 UTC",
   "swings": [
     {
-      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 38.5",
-      "prev": 0.68,
-      "now": 0.115,
-      "delta": -0.565,
+      "market": "Raiders vs. Texans",
+      "prev": 0.094,
+      "now": 0.9995,
+      "delta": 0.9055,
       "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
       "tags": [
         "Sports",
         "NFL",
         "Games"
       ],
-      "volume24hr": 14651.31,
-      "liquidity": 49371.07
+      "volume24hr": 540371.22,
+      "liquidity": 357843.42
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 38.5",
+      "prev": 0.115,
+      "now": 0.9995,
+      "delta": 0.8845,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 15067.44,
+      "liquidity": 88269.98
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 39.5",
+      "prev": 0.115,
+      "now": 0.9995,
+      "delta": 0.8845,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 2419.91,
+      "liquidity": 9010.14
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 40.5",
+      "prev": 0.125,
+      "now": 0.9995,
+      "delta": 0.8745,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 3579.37,
+      "liquidity": 81373.27
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 Spread: LV (-1.5)",
+      "prev": 0.1575,
+      "now": 0.9995,
+      "delta": 0.842,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 94618.72,
+      "liquidity": 116298.09
     },
     {
       "market": "Raiders vs. Texans \u2014 LV vs. HOU: O/U 37.5",
-      "prev": 0.7,
-      "now": 0.165,
-      "delta": -0.535,
+      "prev": 0.165,
+      "now": 0.9995,
+      "delta": 0.8345,
       "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
       "tags": [
         "Sports",
         "NFL",
         "Games"
       ],
-      "volume24hr": 2016.78,
-      "liquidity": 3580.04
+      "volume24hr": 2095.78,
+      "liquidity": 15709.6
     },
     {
-      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Cancun: Completed Match: Moise Kouame vs Roman Andres Burruchaga",
-      "prev": 0.5,
+      "market": "Raiders vs. Texans \u2014 Spread: HOU (-1.5)",
+      "prev": 0.805,
+      "now": 0.0005,
+      "delta": -0.8045,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 12459.38,
+      "liquidity": 80327.49
+    },
+    {
+      "market": "Raiders vs. Texans \u2014 Spread: HOU (-2.5)",
+      "prev": 0.87,
+      "now": 0.1,
+      "delta": -0.77,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 1955.46,
+      "liquidity": 376.18
+    },
+    {
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: Iron Wing vs BoomBoys - Game 1 Winner",
+      "prev": 0.425,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
+      "delta": 0.5745,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 516.0,
-      "liquidity": 1979.59
+      "volume24hr": 713557.16,
+      "liquidity": 936370.35
     },
     {
-      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Moise Kouame vs. Roman Andres Burruchaga: Total Sets O/U 2.5",
+      "market": "Will the game go to extra innings?: Los Angeles Angels vs. Houston Astros",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
+      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 6.61,
-      "liquidity": 6718.13
-    },
-    {
-      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Set 2 Winner: Kouame vs Burruchaga",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 140944.59,
-      "liquidity": 3953.89
-    },
-    {
-      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Set Handicap: Kouame (-1.5) vs Burruchaga (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 7.62,
-      "liquidity": 5385.74
-    },
-    {
-      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Kouame vs. Burruchaga: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 140944.59,
-      "liquidity": 3525.33
-    },
-    {
-      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Kouame vs. Burruchaga: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 7.04,
-      "liquidity": 6592.29
-    },
-    {
-      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Kouame vs. Burruchaga: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 140944.59,
-      "liquidity": 3518.29
-    },
-    {
-      "market": "Cancun: Moise Kouame vs Roman Andres Burruchaga \u2014 Set Handicap: Burruchaga (-1.5) vs Kouame (+1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-burruch-2026-08-20",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 26.12,
-      "liquidity": 6075.77
+      "volume24hr": 10.87,
+      "liquidity": 1516.82
     }
   ],
   "log": [
-    {
-      "ts": "19:45:01",
-      "text": " poll complete \u2014 2091 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:00:01",
       "text": " poll complete \u2014 2120 markets scanned, 10 flagged"
@@ -261,6 +259,10 @@
     },
     {
       "ts": "03:00:01",
+      "text": " poll complete \u2014 1955 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:15:01",
       "text": " poll complete \u2014 1955 markets scanned, 10 flagged"
     }
   ]
