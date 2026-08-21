@@ -1,136 +1,40 @@
 {
-  "lastUpdate": "2026-08-21 06:45:02 UTC",
+  "lastUpdate": "2026-08-21 07:00:02 UTC",
   "swings": [
     {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 First Blood in Game 1?",
-      "prev": 0.505,
-      "now": 0.0055,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.05,
-      "liquidity": 135.77
-    },
-    {
-      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 ITF W15 Tianjin 3 Women: Completed Match: Rinko Matsuda vs Ya Yi Yang",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 85411.94,
-      "liquidity": 1077.69
-    },
-    {
-      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Rinko Matsuda vs. Ya Yi Yang: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 85411.94,
-      "liquidity": 988.57
-    },
-    {
-      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Matsuda vs. Yang: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 85411.94,
-      "liquidity": 968.46
-    },
-    {
-      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Matsuda vs. Yang: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 85411.94,
-      "liquidity": 1007.17
-    },
-    {
-      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Matsuda vs. Yang: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 85411.94,
-      "liquidity": 988.57
-    },
-    {
-      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang \u2014 Set Handicap: Matsuda (-1.5) vs Yang (+1.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 85411.94,
-      "liquidity": 762.93
-    },
-    {
-      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang",
-      "prev": 0.54,
-      "now": 0.9995,
-      "delta": 0.4595,
-      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 85402.49,
-      "liquidity": 137519.87
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prev": 0.305,
+      "now": 0.865,
+      "delta": 0.56,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 80387.66,
-      "liquidity": 78.57
+      "volume24hr": 200549.27,
+      "liquidity": 161754.2
     },
     {
-      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay a Dragon?",
+      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 27\u00b0C on August 21?",
+      "prev": 0.32,
+      "now": 0.77,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 12240.98,
+      "liquidity": 293.67
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
@@ -141,15 +45,118 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 80387.66,
+      "volume24hr": 81226.18,
       "liquidity": 78.57
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 81226.18,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 81226.18,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 81226.18,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 81226.18,
+      "liquidity": 78.57
+    },
+    {
+      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 28\u00b0C on August 21?",
+      "prev": 0.56,
+      "now": 0.225,
+      "delta": -0.335,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 8126.31,
+      "liquidity": 220.15
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
+      "prev": 0.225,
+      "now": 0.5,
+      "delta": 0.275,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 518.0,
+      "liquidity": 1014098.32
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
+      "prev": 0.31,
+      "now": 0.5,
+      "delta": 0.19,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2762478.02,
+      "liquidity": 1014098.32
     }
   ],
   "log": [
-    {
-      "ts": "23:30:01",
-      "text": " poll complete \u2014 1913 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:45:02",
       "text": " poll complete \u2014 1965 markets scanned, 10 flagged"
@@ -265,6 +272,10 @@
     {
       "ts": "06:45:02",
       "text": " poll complete \u2014 1778 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:00:02",
+      "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
     }
   ]
 }
