@@ -1,11 +1,131 @@
 {
-  "lastUpdate": "2026-08-21 11:00:01 UTC",
+  "lastUpdate": "2026-08-21 11:15:01 UTC",
   "swings": [
     {
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3856447.53,
+      "liquidity": 851.63
+    },
+    {
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3856447.53,
+      "liquidity": 851.63
+    },
+    {
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 3: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3856447.53,
+      "liquidity": 802.05
+    },
+    {
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3856447.53,
+      "liquidity": 802.0
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2103769.57,
+      "liquidity": 794.05
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 36.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2103769.57,
+      "liquidity": 794.05
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 39.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2103769.57,
+      "liquidity": 708.05
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2103769.57,
+      "liquidity": 778.0
+    },
+    {
       "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: JEF United Ichihara Chiba 1st Half O/U 1.5",
-      "prev": 0.515,
-      "now": 0.0105,
-      "delta": -0.5045,
+      "prev": 0.0105,
+      "now": 0.4995,
+      "delta": 0.489,
       "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
       "tags": [
         "Sports",
@@ -14,149 +134,25 @@
         "Japan J League"
       ],
       "volume24hr": 161.75,
-      "liquidity": 341.06
+      "liquidity": 0.05
     },
     {
-      "market": "Counter-Strike: Black Phoenix vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 33.5",
-      "prev": 0.45,
-      "now": 0.0,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/cs2-blackp-rustec-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 166930.69,
-      "liquidity": 0.0
-    },
-    {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: Both Teams to Score in First Half",
-      "prev": 0.5,
-      "now": 0.075,
-      "delta": -0.425,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "market": "Kashiwa Reysol vs. V-Varen Nagasaki - More Markets \u2014 Kashiwa Reysol vs. V-Varen Nagasaki: V-Varen Nagasaki O/U 2.5",
+      "prev": 0.008,
+      "now": 0.4965,
+      "delta": 0.4885,
+      "url": "https://polymarket.com/event/jap-rey-vva-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Japan J League"
       ],
-      "volume24hr": 32.19,
-      "liquidity": 773.25
-    },
-    {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: JEF United Ichihara Chiba 1st Half O/U 0.5",
-      "prev": 0.615,
-      "now": 0.195,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 47.07,
-      "liquidity": 695.26
-    },
-    {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3841807.86,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3841807.86,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3841807.86,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3841807.86,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3841807.86,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2264589.13,
-      "liquidity": 78.57
+      "volume24hr": 83.68,
+      "liquidity": 94.35
     }
   ],
   "log": [
-    {
-      "ts": "03:45:01",
-      "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1899 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "11:00:01",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:15:01",
+      "text": " poll complete \u2014 1931 markets scanned, 10 flagged"
     }
   ]
 }
