@@ -1,160 +1,159 @@
 {
-  "lastUpdate": "2026-08-21 20:00:01 UTC",
+  "lastUpdate": "2026-08-21 20:15:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys",
-      "prev": 0.295,
-      "now": 0.9995,
-      "delta": 0.7045,
-      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1903144.07,
-      "liquidity": 769137.98
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Madison Keys \u2014 Cincinnati Open: Completed Match: Sara Bejlek vs Madison Keys",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-keys-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 506.0,
-      "liquidity": 1235.01
-    },
-    {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Sociedad de F\u00fatbol 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 184831.33,
-      "liquidity": 1107.54
-    },
-    {
-      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1608044.68,
-      "liquidity": 729.06
-    },
-    {
-      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1608044.68,
-      "liquidity": 729.06
-    },
-    {
-      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1.96,
-      "liquidity": 413.77
-    },
-    {
-      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 3: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1608044.68,
-      "liquidity": 757.65
-    },
-    {
-      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1608044.68,
-      "liquidity": 757.65
-    },
-    {
-      "market": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season \u2014 First Blood in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-vit-navi-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1608044.68,
-      "liquidity": 736.42
-    },
-    {
-      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: 2nd Half O/U 0.5",
-      "prev": 0.5,
+      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: Arsenal FC 2nd Half O/U 0.5",
+      "prev": 0.425,
       "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
+      "delta": 0.57,
+      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Ligue 1"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 116491.65,
-      "liquidity": 1015.95
+      "volume24hr": 1.23,
+      "liquidity": 4.95
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: Al Faisaly Saudi Club 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 427.89,
+      "liquidity": 960.98
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: NEOM SC 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 274.18,
+      "liquidity": 876.67
+    },
+    {
+      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 212215.12,
+      "liquidity": 3404.71
+    },
+    {
+      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 212215.12,
+      "liquidity": 3414.66
+    },
+    {
+      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 212215.12,
+      "liquidity": 3414.66
+    },
+    {
+      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: Al Qadisiyah Saudi Club 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 212215.12,
+      "liquidity": 3391.36
+    },
+    {
+      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: Al Qadisiyah Saudi Club 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 212215.12,
+      "liquidity": 3414.66
+    },
+    {
+      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: Al Ittihad Saudi Club 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 9.34,
+      "liquidity": 3414.66
+    },
+    {
+      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: Al Ittihad Saudi Club 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 212215.12,
+      "liquidity": 3414.66
     }
   ],
   "log": [
-    {
-      "ts": "12:45:01",
-      "text": " poll complete \u2014 1932 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:00:02",
       "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
@@ -270,6 +269,10 @@
     {
       "ts": "20:00:01",
       "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:15:02",
+      "text": " poll complete \u2014 1957 markets scanned, 10 flagged"
     }
   ]
 }
