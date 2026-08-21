@@ -1,159 +1,161 @@
 {
-  "lastUpdate": "2026-08-21 21:15:01 UTC",
+  "lastUpdate": "2026-08-21 21:30:01 UTC",
   "swings": [
     {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Betis Balompi\u00e9 O/U 1.5",
-      "prev": 0.51,
-      "now": 0.0035,
-      "delta": -0.5065,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 1891.17,
-      "liquidity": 17981.47
-    },
-    {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Sociedad de F\u00fatbol O/U 0.5",
-      "prev": 0.505,
-      "now": 0.004,
-      "delta": -0.501,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 2172.42,
-      "liquidity": 27112.02
-    },
-    {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.0045,
-      "delta": -0.5005,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 3338.9
-    },
-    {
-      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Fritz vs. Nakashima: Set 1 Games O/U 8.5",
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 19.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.675,
+      "delta": 0.175,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 229164.64,
+      "liquidity": 57.21
+    },
+    {
+      "market": "What price will Solana hit in August? \u2014 Will Solana dip to $90 in August?",
+      "prev": 0.745,
+      "now": 0.57,
+      "delta": -0.175,
+      "url": "https://polymarket.com/event/what-price-will-solana-hit-in-august-2026",
+      "tags": [
+        "Solana",
+        "Monthly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring"
+      ],
+      "volume24hr": 145164.73,
+      "liquidity": 123.18
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Taylor Fritz vs. Brandon Nakashima: Total Sets O/U 2.5",
+      "prev": 0.765,
+      "now": 0.93,
+      "delta": 0.165,
       "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 2242816.59,
-      "liquidity": 6893.87
+      "volume24hr": 3658.24,
+      "liquidity": 905.0
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Fritz vs. Nakashima: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "market": "What price will Ethereum hit August 17-23? \u2014 Will Ethereum reach $2,500 August 17-23?",
+      "prev": 0.456,
+      "now": 0.605,
+      "delta": 0.149,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-august-17-23-2026",
+      "tags": [
+        "Ethereum",
+        "Weekly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 57453.66,
+      "liquidity": 28741.0
+    },
+    {
+      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Set 2 Winner: Fritz vs Nakashima",
+      "prev": 0.795,
+      "now": 0.935,
+      "delta": 0.14,
       "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 6827.04
+      "volume24hr": 2677.44,
+      "liquidity": 2272.9
     },
     {
-      "market": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima \u2014 Fritz vs. Nakashima: Set 1 Games O/U 10.5",
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fritz-nakashi-2026-08-21",
+      "now": 0.63,
+      "delta": 0.13,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 271.19,
-      "liquidity": 6893.87
-    },
-    {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "La Liga"
+        "Sports"
       ],
-      "volume24hr": 46.26,
-      "liquidity": 3338.9
+      "volume24hr": 229164.64,
+      "liquidity": 126.44
     },
     {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Betis Balompi\u00e9 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 19.5",
+      "prev": 0.72,
+      "now": 0.845,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "La Liga"
+        "Sports"
       ],
-      "volume24hr": 1.29,
-      "liquidity": 3356.5
+      "volume24hr": 229164.64,
+      "liquidity": 216.71
     },
     {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Sociedad de F\u00fatbol 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 20.5",
+      "prev": 0.66,
+      "now": 0.775,
+      "delta": 0.115,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "La Liga"
+        "Sports"
       ],
-      "volume24hr": 51.0,
-      "liquidity": 3338.9
+      "volume24hr": 331.45,
+      "liquidity": 183.65
     },
     {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Sociedad de F\u00fatbol 2nd Half O/U 1.5",
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 22.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
+      "now": 0.39,
+      "delta": -0.11,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "La Liga"
+        "Sports"
       ],
-      "volume24hr": 423789.41,
-      "liquidity": 3338.9
+      "volume24hr": 229164.64,
+      "liquidity": 113.65
+    },
+    {
+      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 20.5",
+      "prev": 0.5,
+      "now": 0.605,
+      "delta": 0.105,
+      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 7.14,
+      "liquidity": 90.93
     }
   ],
   "log": [
-    {
-      "ts": "14:00:01",
-      "text": " poll complete \u2014 1925 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:15:02",
       "text": " poll complete \u2014 1839 markets scanned, 10 flagged"
@@ -269,6 +271,10 @@
     {
       "ts": "21:15:01",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:30:01",
+      "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
     }
   ]
 }
