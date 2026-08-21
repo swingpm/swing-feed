@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 14:30:01 UTC",
+  "lastUpdate": "2026-08-21 14:45:02 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
-      "prev": 0.305,
-      "now": 0.73,
-      "delta": 0.425,
+      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.51,
+      "now": 0.0005,
+      "delta": -0.5095,
       "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-21",
       "tags": [
         "Esports",
@@ -13,150 +13,146 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1299669.87,
-      "liquidity": 137172.67
+      "volume24hr": 1704.7,
+      "liquidity": 9664.14
     },
     {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Team Falcons (-3.5) vs Legacy (+3.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-21",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2704.07,
+      "liquidity": 21817.65
+    },
+    {
+      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-21",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3165300.93,
+      "liquidity": 3228.37
+    },
+    {
+      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Legacy (-3.5) vs Team Falcons (+3.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-21",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3165300.93,
+      "liquidity": 2189.17
+    },
+    {
+      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Team Falcons (-6.5) vs Legacy (+6.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-21",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 425.0,
+      "liquidity": 9365.14
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs \u2014 First Blood in Game 1?",
+      "prev": 0.505,
+      "now": 0.95,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/dota2-ty-ngx-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 49.6,
+      "liquidity": 192.7
+    },
+    {
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4225386.62,
+      "volume24hr": 1574612.25,
       "liquidity": 78.57
     },
     {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 2: Both Teams Slay a Dragon?",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4225386.62,
+      "volume24hr": 1574612.25,
       "liquidity": 78.57
     },
     {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4225386.62,
+      "volume24hr": 1574612.25,
       "liquidity": 78.57
     },
     {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 2: Any Player Quadra Kill?",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 45.5 in Game 2?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4225386.62,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4225386.62,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4225386.62,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4225386.62,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4225386.62,
-      "liquidity": 78.57
-    },
-    {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4225386.62,
+      "volume24hr": 1574612.25,
       "liquidity": 78.57
     }
   ],
   "log": [
-    {
-      "ts": "07:15:01",
-      "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:30:01",
       "text": " poll complete \u2014 1818 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "14:30:01",
       "text": " poll complete \u2014 1806 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:45:02",
+      "text": " poll complete \u2014 1866 markets scanned, 10 flagged"
     }
   ]
 }
