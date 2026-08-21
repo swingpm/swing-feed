@@ -1,101 +1,150 @@
 {
-  "lastUpdate": "2026-08-21 19:15:01 UTC",
+  "lastUpdate": "2026-08-21 19:30:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: Vitality (-3.5) vs Spirit (+3.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-vit-ts7-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3472.92,
-      "liquidity": 15967.35
-    },
-    {
-      "market": "Valorant: BBL Esports vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: BBL Esports (-2.5) vs FUT Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-bbl1-fut1-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 123607.11,
-      "liquidity": 422.17
-    },
-    {
-      "market": "Valorant: BBL Esports vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-bbl1-fut1-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 123607.11,
-      "liquidity": 443.17
-    },
-    {
-      "market": "Valorant: BBL Esports vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-bbl1-fut1-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 123607.11,
-      "liquidity": 422.17
-    },
-    {
-      "market": "Valorant: BBL Esports vs FUT Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 20.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-bbl1-fut1-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 123607.11,
-      "liquidity": 422.17
-    },
-    {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Real Sociedad de F\u00fatbol 2nd Half O/U 1.5",
-      "prev": 0.125,
-      "now": 0.5,
-      "delta": 0.375,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
+      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: Arsenal FC 1st Half O/U 1.5",
+      "prev": 0.26,
+      "now": 0.98,
+      "delta": 0.72,
+      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 137296.0,
-      "liquidity": 853163.95
+      "volume24hr": 1707.84,
+      "liquidity": 322.58
+    },
+    {
+      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: 1st Half O/U 1.5",
+      "prev": 0.305,
+      "now": 0.995,
+      "delta": 0.69,
+      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 49253.16,
+      "liquidity": 40666.17
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: Al Faisaly Saudi Club 1st Half O/U 0.5",
+      "prev": 0.0055,
+      "now": 0.5,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 427.89,
+      "liquidity": 0.01
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: Al Faisaly Saudi Club 1st Half O/U 1.5",
+      "prev": 0.0055,
+      "now": 0.5,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 141208.34,
+      "liquidity": 0.01
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: NEOM SC 1st Half O/U 0.5",
+      "prev": 0.0055,
+      "now": 0.5,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 274.18,
+      "liquidity": 0.01
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: NEOM SC 1st Half O/U 1.5",
+      "prev": 0.0055,
+      "now": 0.5,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 141208.34,
+      "liquidity": 0.01
+    },
+    {
+      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: Both Teams to Score in First Half",
+      "prev": 0.09,
+      "now": 0.56,
+      "delta": 0.47,
+      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 837.88,
+      "liquidity": 45.76
+    },
+    {
+      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: O/U 5.5",
+      "prev": 0.485,
+      "now": 0.0205,
+      "delta": -0.4645,
+      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 190.54,
+      "liquidity": 103.2
+    },
+    {
+      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: Arsenal FC O/U 2.5",
+      "prev": 0.43,
+      "now": 0.885,
+      "delta": 0.455,
+      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 49492.77,
+      "liquidity": 23316.49
     },
     {
       "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: O/U 3.5",
-      "prev": 0.125,
-      "now": 0.485,
-      "delta": 0.36,
+      "prev": 0.485,
+      "now": 0.05,
+      "delta": -0.435,
       "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
       "tags": [
         "Sports",
@@ -104,61 +153,10 @@
         "Saudi Professional League"
       ],
       "volume24hr": 4759.53,
-      "liquidity": 53.19
-    },
-    {
-      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: 2nd Half O/U 0.5",
-      "prev": 0.805,
-      "now": 0.465,
-      "delta": -0.34,
-      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 1.17,
-      "liquidity": 101.11
-    },
-    {
-      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: Both Teams to Score in Second Half",
-      "prev": 0.21,
-      "now": 0.54,
-      "delta": 0.33,
-      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 29.8,
-      "liquidity": 124.22
-    },
-    {
-      "market": "Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol - More Markets \u2014 Real Betis Balompi\u00e9 vs. Real Sociedad de F\u00fatbol: Both Teams to Score in Second Half",
-      "prev": 0.295,
-      "now": 0.625,
-      "delta": 0.33,
-      "url": "https://polymarket.com/event/lal-bet-rso-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 14.57,
-      "liquidity": 7.47
+      "liquidity": 132.13
     }
   ],
   "log": [
-    {
-      "ts": "12:00:01",
-      "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:15:02",
       "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
@@ -274,6 +272,10 @@
     {
       "ts": "19:15:01",
       "text": " poll complete \u2014 1863 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:30:01",
+      "text": " poll complete \u2014 1893 markets scanned, 10 flagged"
     }
   ]
 }
