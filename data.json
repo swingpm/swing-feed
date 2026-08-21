@@ -1,71 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 07:15:01 UTC",
+  "lastUpdate": "2026-08-21 07:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 81589.18,
-      "liquidity": 732.16
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 81589.18,
-      "liquidity": 732.16
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 81589.18,
-      "liquidity": 732.16
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 81589.18,
-      "liquidity": 732.16
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
+      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "prev": 0.3,
+      "now": 0.765,
+      "delta": 0.465,
       "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
       "tags": [
         "Esports",
@@ -73,14 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 201111.53,
-      "liquidity": 467181.25
+      "volume24hr": 384.6,
+      "liquidity": 35.2
     },
     {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.095,
-      "now": 0.5,
-      "delta": 0.405,
+      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 1?",
+      "prev": 0.545,
+      "now": 0.9955,
+      "delta": 0.4505,
       "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
       "tags": [
         "Esports",
@@ -88,14 +28,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 32.98,
-      "liquidity": 467181.25
+      "volume24hr": 68.18,
+      "liquidity": 1461.7
     },
     {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Dota 2: Team Liquid vs Team Falcons - Game 1 Winner",
-      "prev": 0.415,
-      "now": 0.0125,
-      "delta": -0.4025,
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.875,
+      "delta": 0.375,
       "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
@@ -103,44 +43,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 2289815.34,
-      "liquidity": 228567.23
+      "volume24hr": 211.69,
+      "liquidity": 92.92
     },
     {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.81,
-      "now": 0.425,
-      "delta": -0.385,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 108129.99,
-      "liquidity": 9.97
-    },
-    {
-      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.805,
-      "now": 0.425,
-      "delta": -0.38,
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 108129.99,
-      "liquidity": 9.97
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 1?",
-      "prev": 0.195,
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.24,
       "now": 0.5,
-      "delta": 0.305,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 110374.36,
+      "liquidity": 0.2
+    },
+    {
+      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.235,
+      "now": 0.49,
+      "delta": 0.255,
       "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
       "tags": [
         "Esports",
@@ -148,15 +73,88 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 14.52,
-      "liquidity": 5.6
+      "volume24hr": 4349.57,
+      "liquidity": 4.6
+    },
+    {
+      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.725,
+      "delta": 0.225,
+      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3.11,
+      "liquidity": 8.1
+    },
+    {
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.28,
+      "now": 0.5,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 110374.36,
+      "liquidity": 0.2
+    },
+    {
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 1?",
+      "prev": 0.655,
+      "now": 0.48,
+      "delta": -0.175,
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 110374.36,
+      "liquidity": 17.08
+    },
+    {
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 2?",
+      "prev": 0.64,
+      "now": 0.47,
+      "delta": -0.17,
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 110374.36,
+      "liquidity": 5.08
+    },
+    {
+      "market": "Highest temperature in Shenzhen on August 21? \u2014 Will the highest temperature in Shenzhen be 31\u00b0C on August 21?",
+      "prev": 0.47,
+      "now": 0.625,
+      "delta": 0.155,
+      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shenzhen",
+        "Highest temperature"
+      ],
+      "volume24hr": 6100.15,
+      "liquidity": 220.72
     }
   ],
   "log": [
-    {
-      "ts": "00:00:02",
-      "text": " poll complete \u2014 1986 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:15:01",
       "text": " poll complete \u2014 1987 markets scanned, 10 flagged"
@@ -272,6 +270,10 @@
     {
       "ts": "07:15:01",
       "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:30:01",
+      "text": " poll complete \u2014 1818 markets scanned, 10 flagged"
     }
   ]
 }
