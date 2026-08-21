@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 05:15:01 UTC",
+  "lastUpdate": "2026-08-21 05:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.205,
-      "now": 0.5,
-      "delta": 0.295,
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Nongshim Esports Academy vs T1 Academy - Game 1 Winner",
+      "prev": 0.455,
+      "now": 0.985,
+      "delta": 0.53,
       "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
       "tags": [
         "Esports",
@@ -13,29 +13,102 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 73.74,
-      "liquidity": 307314.55
+      "volume24hr": 33809.43,
+      "liquidity": 202744.23
     },
     {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
-      "prev": 0.43,
-      "now": 0.685,
-      "delta": 0.255,
-      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "market": "49ers vs. Chargers \u2014 Chargers Team Total: O/U 18.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Sports",
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 268.0,
-      "liquidity": 25.03
+      "volume24hr": 1164057.66,
+      "liquidity": 78.57
     },
     {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.25,
-      "now": 0.5,
-      "delta": 0.25,
+      "market": "49ers vs. Chargers \u2014 Chargers Team Total: O/U 19.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 1164057.66,
+      "liquidity": 78.57
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Naz Hillmon: Rebounds O/U 4.5",
+      "prev": 0.505,
+      "now": 0.905,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 1071.76,
+      "liquidity": 385.07
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Rhyne Howard: Rebounds O/U 3.5",
+      "prev": 0.495,
+      "now": 0.095,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 522927.76,
+      "liquidity": 378.57
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Dearica Hamby: Assists O/U 2.5",
+      "prev": 0.495,
+      "now": 0.095,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 15.0,
+      "liquidity": 378.57
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Allisha Gray: Assists O/U 2.5",
+      "prev": 0.495,
+      "now": 0.095,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 522927.76,
+      "liquidity": 378.57
+    },
+    {
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game Handicap: T1.A (-1.5) vs Nongshim Esports Academy (+1.5)",
+      "prev": 0.32,
+      "now": 0.02,
+      "delta": -0.3,
       "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
       "tags": [
         "Esports",
@@ -43,59 +116,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 95850.31,
-      "liquidity": 307314.55
+      "volume24hr": 4304.48,
+      "liquidity": 9842.95
     },
     {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.25,
-      "now": 0.5,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 95850.31,
-      "liquidity": 307314.55
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.25,
-      "now": 0.5,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 95850.31,
-      "liquidity": 307314.55
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
-      "prev": 0.315,
-      "now": 0.545,
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prev": 0.335,
+      "now": 0.565,
       "delta": 0.23,
-      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 32.74,
-      "liquidity": 15.59
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.28,
-      "now": 0.5,
-      "delta": 0.22,
       "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
       "tags": [
         "Esports",
@@ -103,60 +131,28 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 95850.31,
-      "liquidity": 307314.55
+      "volume24hr": 83341.98,
+      "liquidity": 156395.54
     },
     {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.28,
-      "now": 0.5,
-      "delta": 0.22,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 12 hours?",
+      "prev": 0.465,
+      "now": 0.28,
+      "delta": -0.185,
+      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Roblox",
+        "gaming",
+        "Culture",
+        "Fortnite",
+        "streaming",
+        "IShowSpeed"
       ],
-      "volume24hr": 95850.31,
-      "liquidity": 307314.55
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.285,
-      "now": 0.5,
-      "delta": 0.215,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 18.52,
-      "liquidity": 307314.55
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.285,
-      "now": 0.5,
-      "delta": 0.215,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 95850.31,
-      "liquidity": 307314.55
+      "volume24hr": 42556.66,
+      "liquidity": 2811.85
     }
   ],
   "log": [
-    {
-      "ts": "22:00:01",
-      "text": " poll complete \u2014 2021 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 2016 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "05:15:01",
       "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:30:01",
+      "text": " poll complete \u2014 1816 markets scanned, 10 flagged"
     }
   ]
 }
