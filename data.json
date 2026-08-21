@@ -1,146 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 06:00:02 UTC",
+  "lastUpdate": "2026-08-21 06:15:02 UTC",
   "swings": [
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Ends in Daytime?",
-      "prev": 0.5,
-      "now": 1.0,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10424575.93,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Both Teams Beat Roshan?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10424575.93,
-      "liquidity": 884.43
-    },
-    {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10424575.93,
-      "liquidity": 886.45
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.075,
-      "now": 0.525,
-      "delta": 0.45,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 115061.79,
-      "liquidity": 3.85
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
       "prev": 0.08,
-      "now": 0.525,
-      "delta": 0.445,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 115061.79,
-      "liquidity": 3.85
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.155,
-      "now": 0.56,
-      "delta": 0.405,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 115061.79,
-      "liquidity": 8.58
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.165,
-      "now": 0.56,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 115061.79,
-      "liquidity": 8.58
-    },
-    {
-      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.815,
-      "now": 0.435,
-      "delta": -0.38,
-      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 6.02,
-      "liquidity": 11.43
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.16,
       "now": 0.5,
-      "delta": 0.34,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 229132.9,
-      "liquidity": 679833.47
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.25,
-      "now": 0.565,
-      "delta": 0.315,
+      "delta": 0.42,
       "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
@@ -148,15 +13,148 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.71,
-      "liquidity": 4.24
+      "volume24hr": 518.0,
+      "liquidity": 1192466.63
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.105,
+      "now": 0.5,
+      "delta": 0.395,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 515.0,
+      "liquidity": 1192466.63
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
+      "prev": 0.205,
+      "now": 0.5,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 384787.51,
+      "liquidity": 1192466.63
+    },
+    {
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Nongshim Esports Academy vs T1 Academy - Game 2 Winner",
+      "prev": 0.325,
+      "now": 0.055,
+      "delta": -0.27,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 64683.06,
+      "liquidity": 192989.46
+    },
+    {
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Games Total: O/U 2.5",
+      "prev": 0.73,
+      "now": 0.98,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1994.93,
+      "liquidity": 2859.94
+    },
+    {
+      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 27\u00b0C on August 21?",
+      "prev": 0.59,
+      "now": 0.34,
+      "delta": -0.25,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 10154.54,
+      "liquidity": 293.79
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: BNK FearX Youth vs Gen.G Global Academy - Game 2 Winner",
+      "prev": 0.76,
+      "now": 0.989,
+      "delta": 0.229,
+      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3114.84,
+      "liquidity": 28341.85
+    },
+    {
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "prev": 0.545,
+      "now": 0.325,
+      "delta": -0.22,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 152185.71,
+      "liquidity": 169990.4
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Games Total: O/U 2.5",
+      "prev": 0.245,
+      "now": 0.03,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 607.88,
+      "liquidity": 225.26
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: FOX.Y (-1.5) vs Gen.G Global Academy (+1.5)",
+      "prev": 0.755,
+      "now": 0.96,
+      "delta": 0.205,
+      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3438.76,
+      "liquidity": 160.14
     }
   ],
   "log": [
-    {
-      "ts": "22:45:01",
-      "text": " poll complete \u2014 1913 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:00:01",
       "text": " poll complete \u2014 1938 markets scanned, 10 flagged"
@@ -272,6 +270,10 @@
     {
       "ts": "06:00:02",
       "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:15:02",
+      "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
     }
   ]
 }
