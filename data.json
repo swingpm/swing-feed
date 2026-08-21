@@ -1,161 +1,160 @@
 {
-  "lastUpdate": "2026-08-21 01:30:02 UTC",
+  "lastUpdate": "2026-08-21 01:45:02 UTC",
   "swings": [
     {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: Botafogo FR 1st Half O/U 1.5",
-      "prev": 0.56,
-      "now": 0.0045,
-      "delta": -0.5555,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 110.49,
-      "liquidity": 3942.64
-    },
-    {
-      "market": "Los Angeles Angels vs. Houston Astros \u2014 Spread: Los Angeles Angels (-2.5)",
-      "prev": 0.385,
-      "now": 0.92,
-      "delta": 0.535,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 765.42,
-      "liquidity": 2249.34
-    },
-    {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: Both Teams to Score in First Half",
-      "prev": 0.51,
-      "now": 0.0005,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
-      ],
-      "volume24hr": 216.45,
-      "liquidity": 16500.87
-    },
-    {
-      "market": "Los Angeles Angels vs. Houston Astros: O/U 11.5",
-      "prev": 0.49,
-      "now": 0.995,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 938.41,
-      "liquidity": 1954.55
-    },
-    {
-      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: KR\u00dc Esports (-3.5) vs Fluxo W7M (+3.5)",
+      "market": "Washington Nationals vs. Texas Rangers \u2014 1st 5 Innings Spread: Texas Rangers (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 213414.99,
-      "liquidity": 11699.86
-    },
-    {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 371.25,
-      "liquidity": 3942.64
+      "volume24hr": 145.09,
+      "liquidity": 1910.79
     },
     {
-      "market": "Raiders vs. Texans: 1H O/U 20.5",
+      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 2.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 61.34,
+      "liquidity": 1846.57
+    },
+    {
+      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 64.21,
+      "liquidity": 2085.78
+    },
+    {
+      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 15.0,
+      "liquidity": 2038.41
+    },
+    {
+      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 1992.61
+    },
+    {
+      "market": "What price will Bitcoin hit on August 20? \u2014 Will Bitcoin reach $75,000 on August 20?",
+      "prev": 0.544,
+      "now": 0.9995,
+      "delta": 0.4555,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-20-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 40087.13,
+      "liquidity": 96300.7
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.075,
+      "now": 0.52,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 70617.75,
+      "liquidity": 21.19
+    },
+    {
+      "market": "New York Yankees vs. Baltimore Orioles: O/U 7.5",
+      "prev": 0.48,
+      "now": 0.04,
+      "delta": -0.44,
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 291180.43,
+      "liquidity": 9044.87
+    },
+    {
+      "market": "Raiders vs. Texans: 1H Moneyline",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
       "tags": [
         "Sports",
         "NFL",
         "Games"
       ],
-      "volume24hr": 225.04,
-      "liquidity": 884.59
+      "volume24hr": 2133.99,
+      "liquidity": 2862.73
     },
     {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
+      "market": "Raiders vs. Texans \u2014 1H Spread: Raiders (-0.5)",
+      "prev": 0.44,
+      "now": 0.1,
+      "delta": -0.34,
+      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 190524.29,
-      "liquidity": 3971.01
-    },
-    {
-      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: KR\u00dc Esports (-2.5) vs Fluxo W7M (+2.5)",
-      "prev": 0.485,
-      "now": 0.0005,
-      "delta": -0.4845,
-      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 616.59,
-      "liquidity": 12232.74
-    },
-    {
-      "market": "Los Angeles Angels vs. Houston Astros: O/U 13.5",
-      "prev": 0.285,
-      "now": 0.765,
-      "delta": 0.48,
-      "url": "https://polymarket.com/event/mlb-laa-hou-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.9,
-      "liquidity": 1013.16
+      "volume24hr": 493305.53,
+      "liquidity": 78.57
     }
   ],
   "log": [
-    {
-      "ts": "18:15:01",
-      "text": " poll complete \u2014 2049 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:30:01",
       "text": " poll complete \u2014 2104 markets scanned, 10 flagged"
@@ -271,6 +270,10 @@
     {
       "ts": "01:30:02",
       "text": " poll complete \u2014 1937 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:45:02",
+      "text": " poll complete \u2014 1954 markets scanned, 10 flagged"
     }
   ]
 }
