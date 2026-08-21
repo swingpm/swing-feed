@@ -1,161 +1,148 @@
 {
-  "lastUpdate": "2026-08-21 01:00:01 UTC",
+  "lastUpdate": "2026-08-21 01:15:01 UTC",
   "swings": [
     {
-      "market": "Raiders vs. Texans: 1H O/U 19.5",
+      "market": "Cincinnati Open: Thiago Agustin Tirante vs Arthur Fils \u2014 Tirante vs. Fils: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/nfl-lv-hou-2026-08-21",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tirante-fils-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "NFL",
         "Games"
       ],
-      "volume24hr": 632.23,
-      "liquidity": 1235.34
+      "volume24hr": 385971.82,
+      "liquidity": 6511.61
     },
     {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano O/U 2.5",
+      "market": "Cancun: Roman Safiullin vs Stan Wawrinka \u2014 Cancun: Completed Match: Roman Safiullin vs Stan Wawrinka",
       "prev": 0.5,
-      "now": 0.007,
-      "delta": -0.493,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-wawrink-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "Games"
       ],
-      "volume24hr": 380.0,
-      "liquidity": 1715.26
+      "volume24hr": 112489.69,
+      "liquidity": 2172.29
     },
     {
-      "market": "Washington Nationals vs. Texas Rangers: 1st 5 Innings O/U 4.5",
-      "prev": 0.605,
-      "now": 0.14,
-      "delta": -0.465,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 141.31,
-      "liquidity": 159.9
-    },
-    {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano O/U 1.5",
+      "market": "Cancun: Roman Safiullin vs Stan Wawrinka \u2014 Roman Safiullin vs. Stan Wawrinka: Total Sets O/U 2.5",
       "prev": 0.5,
-      "now": 0.06,
-      "delta": -0.44,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-wawrink-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "Games"
       ],
-      "volume24hr": 111482.42,
-      "liquidity": 1695.78
+      "volume24hr": 112489.69,
+      "liquidity": 6581.35
     },
     {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: CS Cienciano O/U 0.5",
-      "prev": 0.725,
-      "now": 0.325,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
+      "market": "Cancun: Roman Safiullin vs Stan Wawrinka \u2014 Safiullin vs. Wawrinka: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-wawrink-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "Games"
       ],
-      "volume24hr": 471.75,
-      "liquidity": 1551.32
+      "volume24hr": 112489.69,
+      "liquidity": 3520.38
     },
     {
-      "market": "Washington Nationals vs. Texas Rangers \u2014 1st 5 Innings Spread: Texas Rangers (-1.5)",
-      "prev": 0.725,
-      "now": 0.345,
-      "delta": -0.38,
-      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-20",
+      "market": "Cancun: Roman Safiullin vs Stan Wawrinka \u2014 Set 2 Winner: Safiullin vs Wawrinka",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-wawrink-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 145.09,
-      "liquidity": 4388.07
+      "volume24hr": 112489.69,
+      "liquidity": 3835.09
     },
     {
-      "market": "Botafogo FR vs. CS Cienciano - More Markets \u2014 Botafogo FR vs. CS Cienciano: Botafogo FR 1st Half O/U 0.5",
-      "prev": 0.995,
-      "now": 0.6195,
-      "delta": -0.3755,
-      "url": "https://polymarket.com/event/sud-bot-cie-2026-08-20-more-markets",
+      "market": "Cancun: Roman Safiullin vs Stan Wawrinka \u2014 Safiullin vs. Wawrinka: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-wawrink-2026-08-20",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Copa Sudamericana"
+        "Games"
       ],
-      "volume24hr": 111482.42,
-      "liquidity": 6.65
+      "volume24hr": 263.32,
+      "liquidity": 6995.73
     },
     {
-      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 19.5",
-      "prev": 0.84,
-      "now": 0.5,
-      "delta": -0.34,
-      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
+      "market": "Cancun: Roman Safiullin vs Stan Wawrinka \u2014 Set Handicap: Safiullin (-1.5) vs Wawrinka (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-wawrink-2026-08-20",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 160948.94,
-      "liquidity": 338645.07
+      "volume24hr": 691.58,
+      "liquidity": 6270.56
     },
     {
-      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: KR\u00dc Esports (-3.5) vs Fluxo W7M (+3.5)",
-      "prev": 0.165,
-      "now": 0.5,
-      "delta": 0.335,
-      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
+      "market": "Cancun: Roman Safiullin vs Stan Wawrinka \u2014 Safiullin vs. Wawrinka: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-wawrink-2026-08-20",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 160948.94,
-      "liquidity": 338645.07
+      "volume24hr": 100.0,
+      "liquidity": 6995.73
     },
     {
-      "market": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: KR\u00dc Esports (-2.5) vs Fluxo W7M (+2.5)",
-      "prev": 0.165,
-      "now": 0.5,
-      "delta": 0.335,
-      "url": "https://polymarket.com/event/val-kru1-w7m-2026-08-20",
+      "market": "Cancun: Roman Safiullin vs Stan Wawrinka \u2014 Safiullin vs. Wawrinka: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-wawrink-2026-08-20",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 561.94,
-      "liquidity": 1.93
+      "volume24hr": 112489.69,
+      "liquidity": 3909.74
+    },
+    {
+      "market": "Cancun: Roman Safiullin vs Stan Wawrinka \u2014 Set Handicap: Wawrinka (-1.5) vs Safiullin (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-wawrink-2026-08-20",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 22.0,
+      "liquidity": 6472.17
     }
   ],
   "log": [
-    {
-      "ts": "17:45:01",
-      "text": " poll complete \u2014 2028 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:00:02",
       "text": " poll complete \u2014 2071 markets scanned, 10 flagged"
@@ -271,6 +258,10 @@
     {
       "ts": "01:00:01",
       "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:15:01",
+      "text": " poll complete \u2014 1949 markets scanned, 10 flagged"
     }
   ]
 }
