@@ -1,162 +1,148 @@
 {
-  "lastUpdate": "2026-08-21 23:30:01 UTC",
+  "lastUpdate": "2026-08-21 23:45:02 UTC",
   "swings": [
     {
-      "market": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 24.5",
-      "prev": 0.45,
-      "now": 0.0,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/val-mibr-nv2-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Set Handicap: Hurkacz (-1.5) vs Safiullin (+1.5)",
+      "prev": 0.22,
+      "now": 0.9995,
+      "delta": 0.7795,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 868743.91
+      "volume24hr": 654.11,
+      "liquidity": 5219.78
     },
     {
-      "market": "Will the game go to extra innings?: San Francisco Giants vs. Boston Red Sox",
-      "prev": 0.065,
-      "now": 0.5,
-      "delta": 0.435,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Cancun: Completed Match: Roman Safiullin vs Hubert Hurkacz",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 141064.74,
-      "liquidity": 525789.41
+      "volume24hr": 154801.56,
+      "liquidity": 1558.66
     },
     {
-      "market": "Will the game go to extra innings?: Tampa Bay Rays vs. Baltimore Orioles",
-      "prev": 0.095,
-      "now": 0.5,
-      "delta": 0.405,
-      "url": "https://polymarket.com/event/mlb-tb-bal-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Roman Safiullin vs. Hubert Hurkacz: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 390252.84,
-      "liquidity": 803490.08
+      "volume24hr": 31.92,
+      "liquidity": 5707.1
     },
     {
-      "market": "Will the game go to extra innings?: Washington Nationals vs. Miami Marlins",
-      "prev": 0.095,
-      "now": 0.5,
-      "delta": 0.405,
-      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Set Handicap: Safiullin (-1.5) vs Hurkacz (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 326720.98,
-      "liquidity": 826311.72
+      "volume24hr": 495.95,
+      "liquidity": 4287.13
     },
     {
-      "market": "Toronto Blue Jays vs. New York Yankees \u2014 1st 5 Innings Spread: Toronto Blue Jays (-1.5)",
-      "prev": 0.105,
-      "now": 0.5,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Safiullin vs. Hurkacz: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 30.0,
-      "liquidity": 399782.01
+      "volume24hr": 154801.56,
+      "liquidity": 3009.35
     },
     {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 5.5",
-      "prev": 0.42,
-      "now": 0.765,
-      "delta": 0.345,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Safiullin vs. Hurkacz: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 1596.0
+      "volume24hr": 154801.56,
+      "liquidity": 4510.74
     },
     {
-      "market": "San Francisco Giants vs. Boston Red Sox: 1st 5 Innings O/U 6.5",
-      "prev": 0.205,
-      "now": 0.545,
-      "delta": 0.34,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Set 2 Winner: Safiullin vs Hurkacz",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 141064.74,
-      "liquidity": 220.0
+      "volume24hr": 154801.56,
+      "liquidity": 3449.9
     },
     {
-      "market": "Will there be a run scored in the first inning?: Washington Nationals vs. Miami Marlins",
-      "prev": 0.475,
-      "now": 0.145,
-      "delta": -0.33,
-      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Safiullin vs. Hurkacz: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 3008.44,
-      "liquidity": 3657.71
+      "volume24hr": 154801.56,
+      "liquidity": 3007.26
     },
     {
-      "market": "San Francisco Giants vs. Boston Red Sox: 1st 5 Innings O/U 5.5",
-      "prev": 0.275,
-      "now": 0.575,
-      "delta": 0.3,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Safiullin vs. Hurkacz: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 141064.74,
-      "liquidity": 382.0
+      "volume24hr": 59.45,
+      "liquidity": 5034.78
     },
     {
-      "market": "Tampa Bay Rays vs. Baltimore Orioles: 1st 5 Innings O/U 4.5",
-      "prev": 0.445,
-      "now": 0.74,
-      "delta": 0.295,
-      "url": "https://polymarket.com/event/mlb-tb-bal-2026-08-21",
+      "market": "Cancun: Roman Safiullin vs Hubert Hurkacz \u2014 Safiullin vs. Hurkacz: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-safiull-hurkacz-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 322.57,
-      "liquidity": 926.5
+      "volume24hr": 154801.56,
+      "liquidity": 3007.26
     }
   ],
   "log": [
-    {
-      "ts": "16:15:02",
-      "text": " poll complete \u2014 1924 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:30:01",
       "text": " poll complete \u2014 1870 markets scanned, 10 flagged"
@@ -272,6 +258,10 @@
     {
       "ts": "23:30:01",
       "text": " poll complete \u2014 1837 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:45:02",
+      "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
     }
   ]
 }
