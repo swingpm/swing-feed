@@ -1,183 +1,157 @@
 {
-  "lastUpdate": "2026-08-21 04:00:01 UTC",
+  "lastUpdate": "2026-08-21 04:15:01 UTC",
   "swings": [
     {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 16 hours?",
-      "prev": 0.37,
-      "now": 0.885,
-      "delta": 0.515,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
-      "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
-      ],
-      "volume24hr": 4809.65,
-      "liquidity": 216.64
-    },
-    {
-      "market": "What price will XRP hit on August 20? \u2014 Will XRP dip to $0.95 on August 20?",
-      "prev": 0.025,
-      "now": 0.5,
-      "delta": 0.475,
-      "url": "https://polymarket.com/event/what-price-will-xrp-hit-on-august-20-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "XRP",
-        "Ripple",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 20.05,
-      "liquidity": 91.65
-    },
-    {
-      "market": "What price will XRP hit on August 20? \u2014 Will XRP dip to $0.90 on August 20?",
-      "prev": 0.025,
-      "now": 0.5,
-      "delta": 0.475,
-      "url": "https://polymarket.com/event/what-price-will-xrp-hit-on-august-20-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "XRP",
-        "Ripple",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 20.05,
-      "liquidity": 91.65
-    },
-    {
-      "market": "What price will XRP hit on August 20? \u2014 Will XRP dip to $0.85 on August 20?",
-      "prev": 0.025,
-      "now": 0.5,
-      "delta": 0.475,
-      "url": "https://polymarket.com/event/what-price-will-xrp-hit-on-august-20-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "XRP",
-        "Ripple",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 20.05,
-      "liquidity": 91.65
-    },
-    {
-      "market": "49ers vs. Chargers \u2014 1H Spread: 49ers (-0.5)",
-      "prev": 0.525,
-      "now": 0.995,
-      "delta": 0.47,
+      "market": "49ers vs. Chargers \u2014 49ers Team Total: O/U 19.5",
+      "prev": 0.555,
+      "now": 0.9945,
+      "delta": 0.4395,
       "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
       "tags": [
         "Sports",
         "NFL",
         "Games"
       ],
-      "volume24hr": 47.0,
-      "liquidity": 289.07
+      "volume24hr": 831234.5,
+      "liquidity": 377.18
     },
     {
-      "market": "49ers vs. Chargers: 1H Moneyline",
-      "prev": 0.58,
-      "now": 0.995,
-      "delta": 0.415,
-      "url": "https://polymarket.com/event/nfl-sf-lac-2026-08-21",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 417.21,
-      "liquidity": 1185.96
-    },
-    {
-      "market": "Indiana Fever vs. Dallas Wings \u2014 Aliyah Boston: Rebounds O/U 8.5",
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Rae Burrell: Points O/U 16.5",
       "prev": 0.5,
-      "now": 0.905,
-      "delta": 0.405,
-      "url": "https://polymarket.com/event/wnba-ind-dal-2026-08-20",
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
       "tags": [
         "Sports",
         "Games",
         "WNBA",
         "Basketball"
       ],
-      "volume24hr": 90.83,
+      "volume24hr": 9.8,
       "liquidity": 378.57
     },
     {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 14 hours?",
-      "prev": 0.36,
-      "now": 0.685,
-      "delta": 0.325,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Nneka Ogwumike: Points O/U 15.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
       "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 13845.56,
-      "liquidity": 362.14
+      "volume24hr": 519647.98,
+      "liquidity": 378.57
     },
     {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 18 hours?",
-      "prev": 0.49,
-      "now": 0.8,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Angel Reese: Rebounds O/U 12.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
       "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 7617.97,
-      "liquidity": 262.05
+      "volume24hr": 1074.99,
+      "liquidity": 385.09
     },
     {
-      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 27\u00b0C on August 21?",
-      "prev": 0.245,
-      "now": 0.42,
-      "delta": 0.175,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Nneka Ogwumike: Rebounds O/U 8.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 7665.92,
-      "liquidity": 442.19
+      "volume24hr": 12.44,
+      "liquidity": 378.57
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Allisha Gray: Rebounds O/U 3.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 2.13,
+      "liquidity": 378.57
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Allisha Gray: Assists O/U 3.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 2.86,
+      "liquidity": 378.57
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Rae Burrell: Assists O/U 3.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 71.07,
+      "liquidity": 378.57
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Rae Burrell: Points O/U 15.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 1000.0,
+      "liquidity": 382.57
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Nneka Ogwumike: Rebounds O/U 7.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-20",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 12.0,
+      "liquidity": 378.57
     }
   ],
   "log": [
-    {
-      "ts": "20:45:02",
-      "text": " poll complete \u2014 2128 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:00:01",
       "text": " poll complete \u2014 2066 markets scanned, 10 flagged"
@@ -293,6 +267,10 @@
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1899 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:15:01",
+      "text": " poll complete \u2014 1898 markets scanned, 10 flagged"
     }
   ]
 }
