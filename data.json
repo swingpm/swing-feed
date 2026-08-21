@@ -1,25 +1,23 @@
 {
-  "lastUpdate": "2026-08-21 05:45:01 UTC",
+  "lastUpdate": "2026-08-21 06:00:02 UTC",
   "swings": [
     {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 12 hours?",
-      "prev": 0.28,
-      "now": 0.915,
-      "delta": 0.635,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Ends in Daytime?",
+      "prev": 0.5,
+      "now": 1.0,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
       "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 43868.07,
-      "liquidity": 604.3
+      "volume24hr": 10424575.93,
+      "liquidity": 0.0
     },
     {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Both Teams Destroy Barracks?",
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Both Teams Beat Roshan?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
@@ -30,131 +28,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 276.57
+      "volume24hr": 10424575.93,
+      "liquidity": 884.43
     },
     {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 14 hours?",
-      "prev": 0.52,
-      "now": 0.945,
-      "delta": 0.425,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
-      "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
-      ],
-      "volume24hr": 17679.61,
-      "liquidity": 548.08
-    },
-    {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 18 hours?",
-      "prev": 0.59,
-      "now": 0.97,
-      "delta": 0.38,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
-      "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
-      ],
-      "volume24hr": 8919.44,
-      "liquidity": 1572.5
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Odd/Even Total Kills?",
+      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
       "prev": 0.5,
-      "now": 0.16,
-      "delta": -0.34,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 187692.76,
-      "liquidity": 40.96
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 21? \u2014 Will the highest temperature in Hong Kong be 30\u00b0C on August 21?",
-      "prev": 0.615,
-      "now": 0.275,
-      "delta": -0.34,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-21-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 11985.78,
-      "liquidity": 1302.0
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 21? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 21?",
-      "prev": 0.33,
-      "now": 0.64,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-21-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 15698.15,
-      "liquidity": 461.7
-    },
-    {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 20 hours?",
-      "prev": 0.685,
-      "now": 0.9845,
-      "delta": 0.2995,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
-      "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
-      ],
-      "volume24hr": 3195.65,
-      "liquidity": 1530.04
-    },
-    {
-      "market": "Kai and Speed beat gaming gauntlet within...? \u2014 Will Kai and Speed beat the gauntlet within 16 hours?",
-      "prev": 0.575,
-      "now": 0.8495,
-      "delta": 0.2745,
-      "url": "https://polymarket.com/event/kai-and-speed-beat-gaming-gauntlet-withinptptpt",
-      "tags": [
-        "Roblox",
-        "gaming",
-        "Culture",
-        "Fortnite",
-        "streaming",
-        "IShowSpeed"
-      ],
-      "volume24hr": 6193.34,
-      "liquidity": 960.48
-    },
-    {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
-      "prev": 0.275,
       "now": 0.005,
-      "delta": -0.27,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20",
       "tags": [
         "Esports",
@@ -162,15 +43,116 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 7042511.62,
-      "liquidity": 576162.66
+      "volume24hr": 10424575.93,
+      "liquidity": 886.45
+    },
+    {
+      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.075,
+      "now": 0.525,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 115061.79,
+      "liquidity": 3.85
+    },
+    {
+      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.08,
+      "now": 0.525,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 115061.79,
+      "liquidity": 3.85
+    },
+    {
+      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.155,
+      "now": 0.56,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 115061.79,
+      "liquidity": 8.58
+    },
+    {
+      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.165,
+      "now": 0.56,
+      "delta": 0.395,
+      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 115061.79,
+      "liquidity": 8.58
+    },
+    {
+      "market": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.815,
+      "now": 0.435,
+      "delta": -0.38,
+      "url": "https://polymarket.com/event/lol-edg-tt-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 6.02,
+      "liquidity": 11.43
+    },
+    {
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.16,
+      "now": 0.5,
+      "delta": 0.34,
+      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 229132.9,
+      "liquidity": 679833.47
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.25,
+      "now": 0.565,
+      "delta": 0.315,
+      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.71,
+      "liquidity": 4.24
     }
   ],
   "log": [
-    {
-      "ts": "22:30:01",
-      "text": " poll complete \u2014 2085 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:45:01",
       "text": " poll complete \u2014 1913 markets scanned, 10 flagged"
@@ -286,6 +268,10 @@
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:00:02",
+      "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
     }
   ]
 }
