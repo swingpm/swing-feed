@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-21 12:30:01 UTC",
+  "lastUpdate": "2026-08-21 12:45:01 UTC",
   "swings": [
     {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 Spread: FC T\u014dky\u014d (-1.5)",
-      "prev": 0.23,
-      "now": 0.9995,
-      "delta": 0.7695,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 130077.09,
-      "liquidity": 158671.36
-    },
-    {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: FC T\u014dky\u014d O/U 1.5",
-      "prev": 0.27,
-      "now": 0.9995,
-      "delta": 0.7295,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 609.16,
-      "liquidity": 15479.64
-    },
-    {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: O/U 1.5",
-      "prev": 0.375,
-      "now": 0.9995,
-      "delta": 0.6245,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 98727.66,
-      "liquidity": 175873.79
-    },
-    {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.0045,
-      "delta": -0.5005,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 502800.6,
-      "liquidity": 4540.13
-    },
-    {
-      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 1?",
+      "prev": 0.47,
+      "now": 0.995,
+      "delta": 0.525,
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 35.29,
-      "liquidity": 658.8
+      "volume24hr": 253257.19,
+      "liquidity": 1057.82
     },
     {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: JEF United Ichihara Chiba O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 1615.86,
-      "liquidity": 25629.67
-    },
-    {
-      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
+      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 2?",
+      "prev": 0.495,
+      "now": 0.9945,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1165.58,
-      "liquidity": 1684.53
+      "volume24hr": 55.99,
+      "liquidity": 1052.68
     },
     {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Slay a Dragon?",
+      "prev": 0.4995,
+      "now": 0.0995,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Japan J League"
+        "Sports"
       ],
-      "volume24hr": 502800.6,
-      "liquidity": 3923.07
+      "volume24hr": 244.38,
+      "liquidity": 450.0
     },
     {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: FC T\u014dky\u014d 2nd Half O/U 1.5",
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Destroy Inhibitors?",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Japan J League"
+        "Sports"
       ],
-      "volume24hr": 502800.6,
-      "liquidity": 6871.14
+      "volume24hr": 3404037.76,
+      "liquidity": 78.57
     },
     {
-      "market": "FC T\u014dky\u014d vs. JEF United Ichihara Chiba - More Markets \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: JEF United Ichihara Chiba 2nd Half O/U 0.5",
+      "market": "LoL: Team Secret Whales vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/jap-fct-jef-2026-08-21-more-markets",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-tsw-gam-2026-08-21",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Japan J League"
+        "Sports"
       ],
-      "volume24hr": 502800.6,
-      "liquidity": 3962.71
+      "volume24hr": 341121.82,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: Team Secret Whales vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-tsw-gam-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 341121.82,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: Team Secret Whales vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-tsw-gam-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 341121.82,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: Team Secret Whales vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-tsw-gam-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 341121.82,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: Team Secret Whales vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-tsw-gam-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 341121.82,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: Team Secret Whales vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-tsw-gam-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 341121.82,
+      "liquidity": 78.57
     }
   ],
   "log": [
-    {
-      "ts": "05:15:01",
-      "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:30:01",
       "text": " poll complete \u2014 1816 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "12:30:01",
       "text": " poll complete \u2014 1936 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:45:01",
+      "text": " poll complete \u2014 1932 markets scanned, 10 flagged"
     }
   ]
 }
