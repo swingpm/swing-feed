@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 06:15:02 UTC",
+  "lastUpdate": "2026-08-21 06:30:02 UTC",
   "swings": [
     {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
+      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game Handicap: Liquid (-1.5) vs Team Falcons (+1.5)",
+      "prev": 0.455,
+      "now": 0.235,
+      "delta": -0.22,
       "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
       "tags": [
         "Esports",
@@ -13,74 +13,28 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 518.0,
-      "liquidity": 1192466.63
+      "volume24hr": 8774.82,
+      "liquidity": 134286.72
     },
     {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.105,
-      "now": 0.5,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
+      "market": "ITF W15 Tianjin 3 Women: Rinko Matsuda vs Ya Yi Yang",
+      "prev": 0.72,
+      "now": 0.54,
+      "delta": -0.18,
+      "url": "https://polymarket.com/event/itf-matsud-ya-2026-08-21",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 515.0,
-      "liquidity": 1192466.63
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
-      "prev": 0.205,
-      "now": 0.5,
-      "delta": 0.295,
-      "url": "https://polymarket.com/event/dota2-liquid-flc-2026-08-21",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 384787.51,
-      "liquidity": 1192466.63
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Nongshim Esports Academy vs T1 Academy - Game 2 Winner",
-      "prev": 0.325,
-      "now": 0.055,
-      "delta": -0.27,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 64683.06,
-      "liquidity": 192989.46
-    },
-    {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 Games Total: O/U 2.5",
-      "prev": 0.73,
-      "now": 0.98,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1994.93,
-      "liquidity": 2859.94
+      "volume24hr": 72864.87,
+      "liquidity": 51779.73
     },
     {
       "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 27\u00b0C on August 21?",
-      "prev": 0.59,
-      "now": 0.34,
-      "delta": -0.25,
+      "prev": 0.34,
+      "now": 0.485,
+      "delta": 0.145,
       "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
       "tags": [
         "Weather",
@@ -90,29 +44,100 @@
         "Daily Temperature",
         "Highest temperature"
       ],
-      "volume24hr": 10154.54,
-      "liquidity": 293.79
+      "volume24hr": 10766.33,
+      "liquidity": 283.69
     },
     {
-      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 LoL: BNK FearX Youth vs Gen.G Global Academy - Game 2 Winner",
-      "prev": 0.76,
-      "now": 0.989,
-      "delta": 0.229,
-      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "market": "Highest temperature in Seoul (Incheon) on August 21? \u2014 Will the highest temperature in Seoul (Incheon) be 28\u00b0C on August 21?",
+      "prev": 0.505,
+      "now": 0.415,
+      "delta": -0.09,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 7809.73,
+      "liquidity": 196.21
+    },
+    {
+      "market": "Highest temperature in Shenzhen on August 21? \u2014 Will the highest temperature in Shenzhen be 33\u00b0C on August 21?",
+      "prev": 0.09,
+      "now": 0.175,
+      "delta": 0.085,
+      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-21-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shenzhen",
+        "Highest temperature"
+      ],
+      "volume24hr": 4186.5,
+      "liquidity": 320.48
+    },
+    {
+      "market": "XRP above ___ on August 21? \u2014 Will the price of XRP be above $1.30 on August 21?",
+      "prev": 0.664,
+      "now": 0.5865,
+      "delta": -0.0775,
+      "url": "https://polymarket.com/event/xrp-above-on-august-21-2026",
+      "tags": [
+        "XRP",
+        "Ripple",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 62139.79,
+      "liquidity": 25567.08
+    },
+    {
+      "market": "What price will Ethereum hit August 17-23? \u2014 Will Ethereum reach $2,400 August 17-23?",
+      "prev": 0.799,
+      "now": 0.742,
+      "delta": -0.057,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-august-17-23-2026",
+      "tags": [
+        "Ethereum",
+        "Weekly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 31655.43,
+      "liquidity": 23544.29
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "prev": 0.605,
+      "now": 0.66,
+      "delta": 0.055,
+      "url": "https://polymarket.com/event/lol-al-we-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 3114.84,
-      "liquidity": 28341.85
+      "volume24hr": 10.98,
+      "liquidity": 213.92
     },
     {
-      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "prev": 0.545,
-      "now": 0.325,
-      "delta": -0.22,
+      "market": "LoL: Nongshim Esports Academy vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group \u2014 LoL: Nongshim Esports Academy vs T1 Academy - Game 2 Winner",
+      "prev": 0.055,
+      "now": 0.0005,
+      "delta": -0.0545,
       "url": "https://polymarket.com/event/lol-nsea-t1a-2026-08-21",
       "tags": [
         "Esports",
@@ -120,45 +145,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 152185.71,
-      "liquidity": 169990.4
+      "volume24hr": 105196.37,
+      "liquidity": 510835.44
     },
     {
-      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Games Total: O/U 2.5",
-      "prev": 0.245,
-      "now": 0.03,
-      "delta": -0.215,
-      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
+      "market": "Ethereum above ___ on August 21? \u2014 Will the price of Ethereum be above $2,400 on August 21?",
+      "prev": 0.3235,
+      "now": 0.2725,
+      "delta": -0.051,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-21-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 607.88,
-      "liquidity": 225.26
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group \u2014 Game Handicap: FOX.Y (-1.5) vs Gen.G Global Academy (+1.5)",
-      "prev": 0.755,
-      "now": 0.96,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/lol-foxy-genga-2026-08-21",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3438.76,
-      "liquidity": 160.14
+      "volume24hr": 67116.65,
+      "liquidity": 27245.47
     }
   ],
   "log": [
-    {
-      "ts": "23:00:01",
-      "text": " poll complete \u2014 1938 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:15:01",
       "text": " poll complete \u2014 1902 markets scanned, 10 flagged"
@@ -274,6 +283,10 @@
     {
       "ts": "06:15:02",
       "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:30:02",
+      "text": " poll complete \u2014 1805 markets scanned, 10 flagged"
     }
   ]
 }
