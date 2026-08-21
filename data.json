@@ -1,163 +1,158 @@
 {
-  "lastUpdate": "2026-08-21 20:15:02 UTC",
+  "lastUpdate": "2026-08-21 20:30:01 UTC",
   "swings": [
     {
-      "market": "Arsenal FC vs. Coventry City FC - More Markets \u2014 Arsenal FC vs. Coventry City FC: Arsenal FC 2nd Half O/U 0.5",
-      "prev": 0.425,
-      "now": 0.995,
-      "delta": 0.57,
-      "url": "https://polymarket.com/event/epl-ars-cov-2026-08-21-more-markets",
+      "market": "L.R. Vicenza vs. US Catanzaro 1929 \u2014 Will L.R. Vicenza win on 2026-08-21?",
+      "prev": 0.035,
+      "now": 0.9245,
+      "delta": 0.8895,
+      "url": "https://polymarket.com/event/itsb-vic-cat-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "Serie B"
       ],
-      "volume24hr": 1.23,
-      "liquidity": 4.95
+      "volume24hr": 7633.86,
+      "liquidity": 32447.02
     },
     {
-      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: Al Faisaly Saudi Club 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "market": "L.R. Vicenza vs. US Catanzaro 1929 \u2014 Will US Catanzaro 1929 win on 2026-08-21?",
+      "prev": 0.735,
+      "now": 0.014,
+      "delta": -0.721,
+      "url": "https://polymarket.com/event/itsb-vic-cat-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Saudi Professional League"
+        "Serie B"
       ],
-      "volume24hr": 427.89,
-      "liquidity": 960.98
+      "volume24hr": 120481.08,
+      "liquidity": 115292.28
     },
     {
-      "market": "Al Faisaly Saudi Club vs. NEOM SC - More Markets \u2014 Al Faisaly Saudi Club vs. NEOM SC: NEOM SC 1st Half O/U 0.5",
+      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/spl-fai-neo-2026-08-21-more-markets",
+      "now": 0.9985,
+      "delta": 0.4985,
+      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Saudi Professional League"
+        "Ligue 1"
       ],
-      "volume24hr": 274.18,
-      "liquidity": 876.67
+      "volume24hr": 190744.17,
+      "liquidity": 6056.12
     },
     {
-      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: 2nd Half O/U 0.5",
+      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/dfb-fc-stu-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Saudi Professional League"
+        "DFB-Pokal"
       ],
-      "volume24hr": 212215.12,
-      "liquidity": 3404.71
+      "volume24hr": 89861.04,
+      "liquidity": 1180.07
     },
     {
-      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: 2nd Half O/U 1.5",
+      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: VfB Stuttgart 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/dfb-fc-stu-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Saudi Professional League"
+        "DFB-Pokal"
       ],
-      "volume24hr": 212215.12,
-      "liquidity": 3414.66
+      "volume24hr": 89861.04,
+      "liquidity": 1193.92
     },
     {
-      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: 2nd Half O/U 2.5",
+      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: Olympique de Marseille 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Saudi Professional League"
+        "Ligue 1"
       ],
-      "volume24hr": 212215.12,
-      "liquidity": 3414.66
+      "volume24hr": 190744.17,
+      "liquidity": 1911.64
     },
     {
-      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: Al Qadisiyah Saudi Club 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "market": "FC Hansa Rostock vs. VfB Stuttgart - More Markets \u2014 FC Hansa Rostock vs. VfB Stuttgart: Both Teams to Score",
+      "prev": 0.65,
+      "now": 0.205,
+      "delta": -0.445,
+      "url": "https://polymarket.com/event/dfb-fc-stu-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Saudi Professional League"
+        "DFB-Pokal"
       ],
-      "volume24hr": 212215.12,
-      "liquidity": 3391.36
+      "volume24hr": 909.82,
+      "liquidity": 2102.98
     },
     {
-      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: Al Qadisiyah Saudi Club 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "market": "Will the game go to extra innings?: Atlanta Braves vs. Milwaukee Brewers",
+      "prev": 0.1,
+      "now": 0.5,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-21",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Saudi Professional League"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 212215.12,
-      "liquidity": 3414.66
+      "volume24hr": 10.87,
+      "liquidity": 672571.55
     },
     {
-      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: Al Ittihad Saudi Club 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Spread: Olympique de Marseille (-1.5)",
+      "prev": 0.565,
+      "now": 0.925,
+      "delta": 0.36,
+      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Saudi Professional League"
+        "Ligue 1"
       ],
-      "volume24hr": 9.34,
-      "liquidity": 3414.66
+      "volume24hr": 14901.61,
+      "liquidity": 109564.87
     },
     {
-      "market": "Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club - More Markets \u2014 Al Qadisiyah Saudi Club vs. Al Ittihad Saudi Club: Al Ittihad Saudi Club 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/spl-qad-ith-2026-08-21-more-markets",
+      "market": "Olympique de Marseille vs. RC Strasbourg Alsace - More Markets \u2014 Olympique de Marseille vs. RC Strasbourg Alsace: Olympique de Marseille O/U 1.5",
+      "prev": 0.64,
+      "now": 0.9995,
+      "delta": 0.3595,
+      "url": "https://polymarket.com/event/fl1-olm-str-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Saudi Professional League"
+        "Ligue 1"
       ],
-      "volume24hr": 212215.12,
-      "liquidity": 3414.66
+      "volume24hr": 1398.69,
+      "liquidity": 12397.5
     }
   ],
   "log": [
-    {
-      "ts": "13:00:02",
-      "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:15:02",
       "text": " poll complete \u2014 1858 markets scanned, 10 flagged"
@@ -273,6 +268,10 @@
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 1957 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:30:01",
+      "text": " poll complete \u2014 1924 markets scanned, 10 flagged"
     }
   ]
 }
