@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-21 14:00:01 UTC",
+  "lastUpdate": "2026-08-21 14:15:02 UTC",
   "swings": [
     {
-      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 42.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
@@ -13,11 +13,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1101868.0,
-      "liquidity": 715.0
+      "volume24hr": 1484509.85,
+      "liquidity": 1557.45
     },
     {
-      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 36.5 in Game 2?",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 39.5 in Game 2?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
@@ -28,104 +28,74 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1101868.0,
-      "liquidity": 708.0
+      "volume24hr": 1484509.85,
+      "liquidity": 722.0
     },
     {
-      "market": "Counter-Strike: GenOne vs HAVU (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 3 Rounds Handicap: GenOne (-3.5) vs HAVU (+3.5)",
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Odd/Even Total Kills?",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-g1-havu-2026-08-21",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 117890.78,
-      "liquidity": 89.1
+      "volume24hr": 1484509.85,
+      "liquidity": 745.01
     },
     {
-      "market": "Counter-Strike: GenOne vs HAVU (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 3 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/cs2-g1-havu-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 117890.78,
-      "liquidity": 89.1
-    },
-    {
-      "market": "Counter-Strike: GenOne vs HAVU (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 3 Total Rounds: Over/Under 24.5",
-      "prev": 0.5,
+      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 2?",
+      "prev": 0.475,
       "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-g1-havu-2026-08-21",
+      "delta": -0.47,
+      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 117890.78,
-      "liquidity": 59.4
+      "volume24hr": 1140.0,
+      "liquidity": 820.86
     },
     {
-      "market": "Counter-Strike: GenOne vs HAVU (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 3 Rounds Handicap: GenOne (-6.5) vs HAVU (+6.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-g1-havu-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 117890.78,
-      "liquidity": 89.66
-    },
-    {
-      "market": "Counter-Strike: GenOne vs HAVU (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 3 Rounds Handicap: GenOne (-9.5) vs HAVU (+9.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-g1-havu-2026-08-21",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 117890.78,
-      "liquidity": 89.66
-    },
-    {
-      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs \u2014 Game Handicap: TS (-1.5) vs TEAM VISION (+1.5)",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/dota2-ts8-vsn2-2026-08-21",
+      "market": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
+      "prev": 0.07,
+      "now": 0.495,
+      "delta": 0.425,
+      "url": "https://polymarket.com/event/dota2-ty-ngx-2026-08-21",
       "tags": [
         "Esports",
         "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 6676.56
+      "volume24hr": 473.0,
+      "liquidity": 2.08
     },
     {
-      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Odd/Even Total Kills?",
+      "market": "LoL: Team Heretics vs SK Gaming (BO3) - LEC Regular Season \u2014 Game 2: Any Player Penta Kill?",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "now": 0.08,
+      "delta": -0.42,
+      "url": "https://polymarket.com/event/lol-th-sk-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 99798.16,
+      "liquidity": 14.85
+    },
+    {
+      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
       "tags": [
         "Esports",
@@ -133,30 +103,56 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3993260.02,
-      "liquidity": 809.33
+      "volume24hr": 4179183.37,
+      "liquidity": 78.57
     },
     {
-      "market": "LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/lol-tes-blg-2026-08-21",
+      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 2374.41,
-      "liquidity": 1905.86
+      "volume24hr": 4179183.37,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4179183.37,
+      "liquidity": 78.57
+    },
+    {
+      "market": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-kt-t1-2026-08-21",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4179183.37,
+      "liquidity": 78.57
     }
   ],
   "log": [
-    {
-      "ts": "06:45:02",
-      "text": " poll complete \u2014 1778 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:00:02",
       "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "14:00:01",
       "text": " poll complete \u2014 1925 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:15:02",
+      "text": " poll complete \u2014 1839 markets scanned, 10 flagged"
     }
   ]
 }
