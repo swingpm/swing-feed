@@ -1,131 +1,131 @@
 {
-  "lastUpdate": "2026-08-22 20:30:01 UTC",
+  "lastUpdate": "2026-08-22 20:45:01 UTC",
   "swings": [
     {
-      "market": "Parma Calcio 1913 vs. Cagliari Calcio \u2014 Will Cagliari Calcio win on 2026-08-22?",
-      "prev": 0.205,
-      "now": 0.815,
-      "delta": 0.61,
-      "url": "https://polymarket.com/event/sea-par-cag-2026-08-22",
+      "market": "Genoa CFC vs. SSC Napoli - More Markets \u2014 Spread: SSC Napoli (-1.5)",
+      "prev": 0.024,
+      "now": 0.9995,
+      "delta": 0.9755,
+      "url": "https://polymarket.com/event/sea-gen-nap-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "sea"
       ],
-      "volume24hr": 71981.1,
-      "liquidity": 133011.71
+      "volume24hr": 17740.96,
+      "liquidity": 156205.54
     },
     {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "market": "Genoa CFC vs. SSC Napoli - More Markets \u2014 Genoa CFC vs. SSC Napoli: SSC Napoli O/U 1.5",
+      "prev": 0.0285,
+      "now": 0.9995,
+      "delta": 0.971,
+      "url": "https://polymarket.com/event/sea-gen-nap-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "German Super Cup"
+        "sea"
       ],
-      "volume24hr": 698389.54,
-      "liquidity": 4236.19
+      "volume24hr": 617.27,
+      "liquidity": 18298.37
     },
     {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "market": "Genoa CFC vs. SSC Napoli - More Markets \u2014 Genoa CFC vs. SSC Napoli: O/U 1.5",
+      "prev": 0.055,
+      "now": 0.9995,
+      "delta": 0.9445,
+      "url": "https://polymarket.com/event/sea-gen-nap-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "German Super Cup"
+        "sea"
       ],
-      "volume24hr": 698389.54,
-      "liquidity": 4799.95
+      "volume24hr": 51823.34,
+      "liquidity": 187385.29
     },
     {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "market": "Genoa CFC vs. SSC Napoli - More Markets \u2014 Genoa CFC vs. SSC Napoli: SSC Napoli O/U 0.5",
+      "prev": 0.235,
+      "now": 0.9995,
+      "delta": 0.7645,
+      "url": "https://polymarket.com/event/sea-gen-nap-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "German Super Cup"
+        "sea"
       ],
-      "volume24hr": 698389.54,
-      "liquidity": 3267.0
+      "volume24hr": 2114.76,
+      "liquidity": 40893.7
     },
     {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Borussia Dortmund 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "market": "Will Genoa CFC vs. SSC Napoli end in a draw?",
+      "prev": 0.685,
+      "now": 0.0005,
+      "delta": -0.6845,
+      "url": "https://polymarket.com/event/sea-gen-nap-2026-08-22",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "German Super Cup"
+        "sea"
       ],
-      "volume24hr": 698389.54,
-      "liquidity": 3267.0
+      "volume24hr": 64489.89,
+      "liquidity": 283875.36
     },
     {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Bayern Munich 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "market": "Toronto Blue Jays vs. New York Yankees \u2014 Spread: Toronto Blue Jays (-1.5)",
+      "prev": 0.84,
+      "now": 0.175,
+      "delta": -0.665,
+      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 55143.73,
+      "liquidity": 68752.81
+    },
+    {
+      "market": "Genoa CFC vs. SSC Napoli - More Markets \u2014 Genoa CFC vs. SSC Napoli: O/U 0.5",
+      "prev": 0.345,
+      "now": 0.9995,
+      "delta": 0.6545,
+      "url": "https://polymarket.com/event/sea-gen-nap-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "German Super Cup"
+        "sea"
       ],
-      "volume24hr": 698389.54,
-      "liquidity": 3267.0
+      "volume24hr": 42344.23,
+      "liquidity": 181968.88
     },
     {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Bayern Munich 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "market": "Gimnasia y Esgrima de La Plata vs. CA Gimnasia y Esgrima de Mendoza \u2014 Will CA Gimnasia y Esgrima de Mendoza win on 2026-08-22?",
+      "prev": 0.115,
+      "now": 0.755,
+      "delta": 0.64,
+      "url": "https://polymarket.com/event/arg-gim-gye-2026-08-22",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "German Super Cup"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 698389.54,
-      "liquidity": 4184.24
+      "volume24hr": 19862.55,
+      "liquidity": 122553.74
     },
     {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 305710.36,
-      "liquidity": 495.0
-    },
-    {
-      "market": "Fenerbah\u00e7e SK vs. Konyaspor - More Markets \u2014 Fenerbah\u00e7e SK vs. Konyaspor: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
+      "market": "Fenerbah\u00e7e SK vs. Konyaspor - More Markets \u2014 Fenerbah\u00e7e SK vs. Konyaspor: O/U 5.5",
+      "prev": 0.39,
+      "now": 0.9995,
+      "delta": 0.6095,
       "url": "https://polymarket.com/event/tur-fen-kon-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -133,30 +133,26 @@
         "Soccer",
         "S\u00fcper Lig"
       ],
-      "volume24hr": 119121.01,
-      "liquidity": 198.0
+      "volume24hr": 8188.24,
+      "liquidity": 53401.6
     },
     {
-      "market": "Fenerbah\u00e7e SK vs. Konyaspor - More Markets \u2014 Fenerbah\u00e7e SK vs. Konyaspor: Konyaspor 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/tur-fen-kon-2026-08-22-more-markets",
+      "market": "Toronto Blue Jays vs. New York Yankees: O/U 6.5",
+      "prev": 0.425,
+      "now": 0.9995,
+      "delta": 0.5745,
+      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "S\u00fcper Lig"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 119121.01,
-      "liquidity": 198.0
+      "volume24hr": 295217.16,
+      "liquidity": 98762.71
     }
   ],
   "log": [
-    {
-      "ts": "13:15:02",
-      "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:30:02",
       "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "20:30:01",
       "text": " poll complete \u2014 1871 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:45:01",
+      "text": " poll complete \u2014 1887 markets scanned, 10 flagged"
     }
   ]
 }
