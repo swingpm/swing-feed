@@ -1,162 +1,159 @@
 {
-  "lastUpdate": "2026-08-22 15:15:01 UTC",
+  "lastUpdate": "2026-08-22 15:30:02 UTC",
   "swings": [
     {
-      "market": "Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 40.5 in Game 2?",
-      "prev": 0.255,
+      "market": "West Ham United FC vs. Charlton Athletic FC - More Markets \u2014 West Ham United FC vs. Charlton Athletic FC: Charlton Athletic FC O/U 1.5",
+      "prev": 0.32,
       "now": 0.9945,
-      "delta": 0.7395,
-      "url": "https://polymarket.com/event/dota2-boombo-ts8-2026-08-22",
+      "delta": 0.6745,
+      "url": "https://polymarket.com/event/elc-whu-cha-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "Dota 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "EFL Championship"
       ],
-      "volume24hr": 5620427.23,
-      "liquidity": 49.56
+      "volume24hr": 83.98,
+      "liquidity": 110.34
     },
     {
-      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game 1: Any Player Quadra Kill?",
+      "market": "Athletic Club vs. Sevilla FC \u2014 Will Sevilla FC win on 2026-08-22?",
+      "prev": 0.175,
+      "now": 0.715,
+      "delta": 0.54,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 43866.48,
+      "liquidity": 153970.62
+    },
+    {
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Everton FC O/U 1.5",
       "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 21.46,
+      "liquidity": 8582.14
+    },
+    {
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Everton FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 382198.91,
+      "liquidity": 3320.37
+    },
+    {
+      "market": "West Ham United FC vs. Charlton Athletic FC - More Markets \u2014 West Ham United FC vs. Charlton Athletic FC: Charlton Athletic FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/elc-whu-cha-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 108402.73,
+      "liquidity": 1310.96
+    },
+    {
+      "market": "Athletic Club vs. Sevilla FC \u2014 Will Athletic Club win on 2026-08-22?",
+      "prev": 0.555,
+      "now": 0.085,
+      "delta": -0.47,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 134363.53,
+      "liquidity": 197670.22
+    },
+    {
+      "market": "Elon Musk # tweets August 20 - August 22, 2026? \u2014 Will Elon Musk post 65-89 tweets from August 20 to August 22, 2026?",
+      "prev": 0.1465,
+      "now": 0.5985,
+      "delta": 0.452,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-20-august-22",
+      "tags": [
+        "Culture",
+        "Politics",
+        "Tweet Markets"
+      ],
+      "volume24hr": 125325.6,
+      "liquidity": 1646.83
+    },
+    {
+      "market": "Valorant: Team Liquid vs Eintracht Frankfurt (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 17.5",
+      "prev": 0.55,
+      "now": 1.0,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/val-tl1-sge-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 2483450.75,
+      "volume24hr": 132456.5,
       "liquidity": 0.0
     },
     {
-      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
+      "market": "Valorant: Team Liquid vs Eintracht Frankfurt (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: Eintracht Frankfurt (-7.5) vs Team Liquid (+7.5)",
+      "prev": 0.45,
       "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "delta": -0.45,
+      "url": "https://polymarket.com/event/val-tl1-sge-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 2483450.75,
+      "volume24hr": 132456.5,
       "liquidity": 0.0
     },
     {
-      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FUT Esports (-3.5) vs FURIA (+3.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
+      "market": "West Ham United FC vs. Charlton Athletic FC - More Markets \u2014 West Ham United FC vs. Charlton Athletic FC: West Ham United FC O/U 1.5",
+      "prev": 0.65,
+      "now": 0.205,
+      "delta": -0.445,
+      "url": "https://polymarket.com/event/elc-whu-cha-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "EFL Championship"
       ],
-      "volume24hr": 5428156.55,
-      "liquidity": 111.03
-    },
-    {
-      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FUT Esports (-6.5) vs FURIA (+6.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5428156.55,
-      "liquidity": 111.59
-    },
-    {
-      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 27.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5428156.55,
-      "liquidity": 110.95
-    },
-    {
-      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.49,
-      "now": 0.0,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2483450.75,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Fnatic vs Shifters (BO3) - LEC Regular Season \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/lol-fnc-shft-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 204107.2,
-      "liquidity": 510012.6
-    },
-    {
-      "market": "LoL: Fnatic vs Shifters (BO3) - LEC Regular Season \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/lol-fnc-shft-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 204107.2,
-      "liquidity": 510012.6
-    },
-    {
-      "market": "LoL: Leviatan Esports vs Vivo Keyd Stars (BO3) - CBLOL Regular Season \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.08,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/lol-lev-vks-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 171726.79,
-      "liquidity": 14.95
+      "volume24hr": 300.0,
+      "liquidity": 3440.64
     }
   ],
   "log": [
-    {
-      "ts": "08:00:01",
-      "text": " poll complete \u2014 1790 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:15:02",
       "text": " poll complete \u2014 1813 markets scanned, 10 flagged"
@@ -272,6 +269,10 @@
     {
       "ts": "15:15:01",
       "text": " poll complete \u2014 1869 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:30:02",
+      "text": " poll complete \u2014 1893 markets scanned, 10 flagged"
     }
   ]
 }
