@@ -1,56 +1,26 @@
 {
-  "lastUpdate": "2026-08-22 02:45:01 UTC",
+  "lastUpdate": "2026-08-22 03:00:01 UTC",
   "swings": [
     {
-      "market": "Detroit Tigers vs. Kansas City Royals: O/U 6.5",
-      "prev": 0.44,
+      "market": "Chicago Cubs vs. Seattle Mariners: 1st 5 Innings O/U 6.5",
+      "prev": 0.39,
       "now": 0.9995,
-      "delta": 0.5595,
-      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-21",
+      "delta": 0.6095,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 6453.89,
-      "liquidity": 70751.59
-    },
-    {
-      "market": "New York Mets vs. Chicago White Sox \u2014 Spread: New York Mets (-4.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 7.27,
-      "liquidity": 3078.08
-    },
-    {
-      "market": "New York Mets vs. Chicago White Sox \u2014 Spread: New York Mets (-3.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 3083.06
+      "volume24hr": 176.38,
+      "liquidity": 1057.18
     },
     {
       "market": "Minnesota Lynx vs. Washington Mystics \u2014 Kayla McBride: Points O/U 14.5",
-      "prev": 0.9955,
-      "now": 0.5005,
-      "delta": -0.495,
+      "prev": 0.5005,
+      "now": 0.9995,
+      "delta": 0.499,
       "url": "https://polymarket.com/event/wnba-min-wsh-2026-08-21",
       "tags": [
         "Sports",
@@ -59,13 +29,13 @@
         "Basketball"
       ],
       "volume24hr": 5.0,
-      "liquidity": 1.0
+      "liquidity": 870.65
     },
     {
       "market": "Minnesota Lynx vs. Washington Mystics \u2014 Natasha Howard: Points O/U 10.5",
-      "prev": 0.9955,
-      "now": 0.5005,
-      "delta": -0.495,
+      "prev": 0.5005,
+      "now": 0.9995,
+      "delta": 0.499,
       "url": "https://polymarket.com/event/wnba-min-wsh-2026-08-21",
       "tags": [
         "Sports",
@@ -73,26 +43,11 @@
         "WNBA",
         "Basketball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 0.01
+      "volume24hr": 15.0,
+      "liquidity": 870.65
     },
     {
-      "market": "Will the game go to extra innings?: New York Mets vs. Chicago White Sox",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 584841.73,
-      "liquidity": 840.85
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres: 1st 5 Innings O/U 2.5",
+      "market": "Minnesota Twins vs. San Diego Padres: 1st 5 Innings O/U 4.5",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
@@ -103,60 +58,100 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 16.0,
-      "liquidity": 1064.03
+      "volume24hr": 143.28,
+      "liquidity": 541.68
     },
     {
-      "market": "Valorant: FURIA Esports vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Rounds Handicap: Evil Geniuses (-2.5) vs FURIA Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-fur-eg2-2026-08-21",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 270925.07,
-      "liquidity": 10308.86
-    },
-    {
-      "market": "Valorant: FURIA Esports vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Total Rounds: Over/Under 20.5",
+      "market": "Minnesota Twins vs. San Diego Padres: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/val-fur-eg2-2026-08-21",
+      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-21",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 270925.07,
-      "liquidity": 408.17
+      "volume24hr": 51.68,
+      "liquidity": 225.18
     },
     {
-      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs \u2014 First Blood in Game 1?",
+      "market": "Will the game go to extra innings?: Detroit Tigers vs. Kansas City Royals",
       "prev": 0.5,
       "now": 0.0055,
       "delta": -0.4945,
-      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21",
+      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-21",
       "tags": [
-        "Esports",
-        "Dota 2",
+        "Sports",
         "Games",
-        "Sports"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 84.75,
-      "liquidity": 30.27
+      "volume24hr": 793454.16,
+      "liquidity": 281.62
+    },
+    {
+      "market": "Packers vs. Broncos: 1H O/U 22.5",
+      "prev": 0.9845,
+      "now": 0.5,
+      "delta": -0.4845,
+      "url": "https://polymarket.com/event/nfl-gb-den-2026-08-22",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 94481.87,
+      "liquidity": 0.02
+    },
+    {
+      "market": "Chicago Cubs vs. Seattle Mariners: 1st 5 Innings O/U 5.5",
+      "prev": 0.535,
+      "now": 0.9995,
+      "delta": 0.4645,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 12.63,
+      "liquidity": 316.41
+    },
+    {
+      "market": "Detroit Tigers vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-3.5)",
+      "prev": 0.452,
+      "now": 0.0005,
+      "delta": -0.4515,
+      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 3164.86
+    },
+    {
+      "market": "Tigres de la UANL vs. Atlante FC \u2014 Will Tigres de la UANL win on 2026-08-21?",
+      "prev": 0.505,
+      "now": 0.95,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 91622.76,
+      "liquidity": 160264.81
     }
   ],
   "log": [
-    {
-      "ts": "19:30:01",
-      "text": " poll complete \u2014 1893 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:45:02",
       "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
@@ -272,6 +267,10 @@
     {
       "ts": "02:45:01",
       "text": " poll complete \u2014 1861 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:00:01",
+      "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
     }
   ]
 }
