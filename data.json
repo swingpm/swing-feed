@@ -1,56 +1,71 @@
 {
-  "lastUpdate": "2026-08-22 04:30:01 UTC",
+  "lastUpdate": "2026-08-22 04:45:01 UTC",
   "swings": [
     {
-      "market": "Cincinnati Reds vs. Arizona Diamondbacks: O/U 8.5",
-      "prev": 0.26,
-      "now": 0.9995,
-      "delta": 0.7395,
-      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5",
+      "prev": 0.265,
+      "now": 0.995,
+      "delta": 0.73,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 33795.26,
-      "liquidity": 123368.27
+      "volume24hr": 127911.01,
+      "liquidity": 101669.44
     },
     {
-      "market": "Cincinnati Reds vs. Arizona Diamondbacks: O/U 7.5",
+      "market": "Chicago Cubs vs. Seattle Mariners: O/U 10.5",
+      "prev": 0.35,
+      "now": 0.9995,
+      "delta": 0.6495,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 25284.37,
+      "liquidity": 121620.61
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 7.5",
+      "prev": 0.375,
+      "now": 0.995,
+      "delta": 0.62,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 117919.89,
+      "liquidity": 119366.26
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers \u2014 Spread: Los Angeles Dodgers (-1.5)",
+      "prev": 0.735,
+      "now": 0.16,
+      "delta": -0.575,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 53137.47,
+      "liquidity": 63289.59
+    },
+    {
+      "market": "Chicago Cubs vs. Seattle Mariners: O/U 9.5",
       "prev": 0.455,
       "now": 0.9995,
       "delta": 0.5445,
-      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 11822.22,
-      "liquidity": 70475.28
-    },
-    {
-      "market": "Portland Fire vs. Toronto Tempo \u2014 Megan DiLeo: Rebounds O/U 4.5",
-      "prev": 0.505,
-      "now": 0.9945,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/wnba-por-tor-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 584101.5,
-      "liquidity": 101.02
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 8.5",
-      "prev": 0.573,
-      "now": 0.9995,
-      "delta": 0.4265,
       "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
       "tags": [
         "Sports",
@@ -58,44 +73,59 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 3767.95,
-      "liquidity": 30421.17
+      "volume24hr": 100822.87,
+      "liquidity": 139013.4
     },
     {
-      "market": "Portland Fire vs. Toronto Tempo: O/U 183.5",
-      "prev": 0.425,
+      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 133.21,
+      "liquidity": 391.57
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 18.33,
+      "liquidity": 384.02
+    },
+    {
+      "market": "Will the game go to extra innings?: Cincinnati Reds vs. Arizona Diamondbacks",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.4245,
-      "url": "https://polymarket.com/event/wnba-por-tor-2026-08-21",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 14248.07,
-      "liquidity": 117494.46
-    },
-    {
-      "market": "Portland Fire vs. Toronto Tempo \u2014 Carla Leite: Points O/U 17.5",
-      "prev": 0.51,
-      "now": 0.09,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/wnba-por-tor-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 354.1,
-      "liquidity": 401.73
+      "volume24hr": 466143.42,
+      "liquidity": 1460.4
     },
     {
       "market": "Cincinnati Reds vs. Arizona Diamondbacks \u2014 Spread: Arizona Diamondbacks (-3.5)",
-      "prev": 0.92,
-      "now": 0.5,
-      "delta": -0.42,
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
       "tags": [
         "Sports",
@@ -103,60 +133,26 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 0.1
+      "volume24hr": 10.0,
+      "liquidity": 18508.61
     },
     {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Seattle Mariners (-1.5)",
-      "prev": 0.665,
-      "now": 0.255,
-      "delta": -0.41,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
+      "market": "Cincinnati Reds vs. Arizona Diamondbacks \u2014 Spread: Arizona Diamondbacks (-4.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 18883.87,
-      "liquidity": 88273.38
-    },
-    {
-      "market": "Portland Fire vs. Toronto Tempo \u2014 Carla Leite: Rebounds O/U 2.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-por-tor-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 584101.5,
-      "liquidity": 378.57
-    },
-    {
-      "market": "Portland Fire vs. Toronto Tempo \u2014 Carla Leite: Assists O/U 6.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-por-tor-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 584101.5,
-      "liquidity": 378.57
+      "volume24hr": 280.18,
+      "liquidity": 18489.18
     }
   ],
   "log": [
-    {
-      "ts": "21:15:01",
-      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:30:01",
       "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "04:30:01",
       "text": " poll complete \u2014 1824 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:45:01",
+      "text": " poll complete \u2014 1811 markets scanned, 10 flagged"
     }
   ]
 }
