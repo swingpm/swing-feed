@@ -1,152 +1,158 @@
 {
-  "lastUpdate": "2026-08-22 13:15:02 UTC",
+  "lastUpdate": "2026-08-22 13:30:02 UTC",
   "swings": [
     {
-      "market": "Prague 2: Chun-Hsin Tseng vs Jan Kumstat \u2014 Tseng vs. Kumstat: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tseng-kumstat-2026-08-22",
+      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 166481.69,
-      "liquidity": 5627.14
+      "volume24hr": 361849.86,
+      "liquidity": 0.0
     },
     {
-      "market": "Prague 2: Chun-Hsin Tseng vs Jan Kumstat \u2014 Set 1 Winner: Tseng vs Kumstat",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tseng-kumstat-2026-08-22",
+      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 166481.69,
-      "liquidity": 5975.59
+      "volume24hr": 361849.86,
+      "liquidity": 0.0
     },
     {
-      "market": "Prague 2: Chun-Hsin Tseng vs Jan Kumstat \u2014 Tseng vs. Kumstat: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tseng-kumstat-2026-08-22",
+      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 166481.69,
-      "liquidity": 5616.58
+      "volume24hr": 361849.86,
+      "liquidity": 0.0
     },
     {
-      "market": "Prague 2: Chun-Hsin Tseng vs Jan Kumstat \u2014 Tseng vs. Kumstat: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tseng-kumstat-2026-08-22",
+      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 166481.69,
-      "liquidity": 5714.05
+      "volume24hr": 361849.86,
+      "liquidity": 0.0
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Roehampton: Completed Match: Oliver Tarvet vs Lucas Poullain",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
+      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 1204.0,
-      "liquidity": 1382.46
+      "volume24hr": 361849.86,
+      "liquidity": 0.0
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Set 2 Winner: Tarvet vs Poullain",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
+      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 103194.94,
-      "liquidity": 3103.23
+      "volume24hr": 361849.86,
+      "liquidity": 0.0
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Oliver Tarvet vs. Lucas Poullain: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
+      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 First Blood in Game 2?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 5.68,
-      "liquidity": 5573.62
+      "volume24hr": 361849.86,
+      "liquidity": 0.0
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Tarvet vs. Poullain: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
+      "market": "Counter-Strike: Lavked vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/cs2-lavked-bw-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 71.41,
-      "liquidity": 5620.13
+      "volume24hr": 115023.35,
+      "liquidity": 0.0
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Tarvet vs. Poullain: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
+      "market": "Counter-Strike: Lavked vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/cs2-lavked-bw-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 103194.94,
-      "liquidity": 3454.57
+      "volume24hr": 115023.35,
+      "liquidity": 0.0
     },
     {
-      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Set Handicap: Tarvet (-1.5) vs Poullain (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
+      "market": "Counter-Strike: Lavked vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: Lavked (-6.5) vs Bushido Wildcats (+6.5)",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/cs2-lavked-bw-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 136.27,
-      "liquidity": 3488.81
+      "volume24hr": 115023.35,
+      "liquidity": 0.0
     }
   ],
   "log": [
-    {
-      "ts": "06:00:02",
-      "text": " poll complete \u2014 1741 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:15:01",
       "text": " poll complete \u2014 1749 markets scanned, 10 flagged"
@@ -262,6 +268,10 @@
     {
       "ts": "13:15:02",
       "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:30:02",
+      "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
     }
   ]
 }
