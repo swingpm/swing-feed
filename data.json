@@ -1,123 +1,101 @@
 {
-  "lastUpdate": "2026-08-22 16:15:01 UTC",
+  "lastUpdate": "2026-08-22 16:30:01 UTC",
   "swings": [
     {
-      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: 2nd Half O/U 1.5",
-      "prev": 0.545,
-      "now": 0.0045,
-      "delta": -0.5405,
-      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "market": "Athletic Club vs. Sevilla FC - More Markets \u2014 Athletic Club vs. Sevilla FC: Sevilla FC O/U 2.5",
+      "prev": 0.153,
+      "now": 0.9975,
+      "delta": 0.8445,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "La Liga"
       ],
-      "volume24hr": 513944.62,
-      "liquidity": 3459.51
+      "volume24hr": 725.35,
+      "liquidity": 6323.44
     },
     {
-      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Everton FC O/U 2.5",
-      "prev": 0.52,
-      "now": 0.0005,
-      "delta": -0.5195,
-      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "market": "Athletic Club vs. Sevilla FC - More Markets \u2014 Spread: Sevilla FC (-2.5)",
+      "prev": 0.0905,
+      "now": 0.736,
+      "delta": 0.6455,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "La Liga"
       ],
-      "volume24hr": 1285.86,
-      "liquidity": 18612.68
+      "volume24hr": 4695.75,
+      "liquidity": 23832.94
     },
     {
-      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Both Teams to Score in Second Half",
+      "market": "Athletic Club vs. Sevilla FC - More Markets \u2014 Spread: Sevilla FC (-1.5)",
+      "prev": 0.3185,
+      "now": 0.9425,
+      "delta": 0.624,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 13813.87,
+      "liquidity": 107833.86
+    },
+    {
+      "market": "Athletic Club vs. Sevilla FC - More Markets \u2014 Athletic Club vs. Sevilla FC: O/U 2.5",
+      "prev": 0.385,
+      "now": 0.9995,
+      "delta": 0.6145,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 28074.2,
+      "liquidity": 323398.25
+    },
+    {
+      "market": "Athletic Club vs. Sevilla FC - More Markets \u2014 Athletic Club vs. Sevilla FC: Sevilla FC 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "La Liga"
       ],
-      "volume24hr": 513944.62,
-      "liquidity": 2651.4
+      "volume24hr": 158285.82,
+      "liquidity": 875.0
     },
     {
-      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: 2nd Half O/U 2.5",
+      "market": "Athletic Club vs. Sevilla FC - More Markets \u2014 Athletic Club vs. Sevilla FC: Sevilla FC 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "La Liga"
       ],
-      "volume24hr": 513944.62,
-      "liquidity": 3451.26
+      "volume24hr": 158285.82,
+      "liquidity": 3302.54
     },
     {
-      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Everton FC 2nd Half O/U 1.5",
+      "market": "Racing Club de Lens vs. AJ Auxerre - More Markets \u2014 Racing Club de Lens vs. AJ Auxerre: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 513944.62,
-      "liquidity": 3466.71
-    },
-    {
-      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Crystal Palace FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 513944.62,
-      "liquidity": 3459.51
-    },
-    {
-      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Crystal Palace FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 513944.62,
-      "liquidity": 3459.51
-    },
-    {
-      "market": "Racing Club de Lens vs. AJ Auxerre - More Markets \u2014 Racing Club de Lens vs. AJ Auxerre: AJ Auxerre 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/fl1-rcl-aja-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -125,14 +103,44 @@
         "Soccer",
         "Ligue 1"
       ],
-      "volume24hr": 124.04,
-      "liquidity": 3567.22
+      "volume24hr": 129120.86,
+      "liquidity": 2997.5
+    },
+    {
+      "market": "Racing Club de Lens vs. AJ Auxerre - More Markets \u2014 Racing Club de Lens vs. AJ Auxerre: Racing Club de Lens 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/fl1-rcl-aja-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 129120.86,
+      "liquidity": 2996.94
+    },
+    {
+      "market": "Athletic Club vs. Sevilla FC - More Markets \u2014 Athletic Club vs. Sevilla FC: Sevilla FC O/U 1.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 1648.2,
+      "liquidity": 16543.93
     },
     {
       "market": "LoL: Fnatic vs Shifters (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
-      "prev": 0.005,
-      "now": 0.495,
-      "delta": 0.49,
+      "prev": 0.495,
+      "now": 0.005,
+      "delta": -0.49,
       "url": "https://polymarket.com/event/lol-fnc-shft-2026-08-22",
       "tags": [
         "Esports",
@@ -140,31 +148,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 1.0
-    },
-    {
-      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Crystal Palace FC O/U 0.5",
-      "prev": 0.485,
-      "now": 0.004,
-      "delta": -0.481,
-      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 618.22,
-      "liquidity": 13902.92
+      "volume24hr": 105.0,
+      "liquidity": 5.96
     }
   ],
   "log": [
-    {
-      "ts": "09:00:01",
-      "text": " poll complete \u2014 1806 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:15:01",
       "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
@@ -280,6 +268,10 @@
     {
       "ts": "16:15:01",
       "text": " poll complete \u2014 1911 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:30:01",
+      "text": " poll complete \u2014 1951 markets scanned, 10 flagged"
     }
   ]
 }
