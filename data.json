@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-22 03:45:02 UTC",
+  "lastUpdate": "2026-08-22 04:00:01 UTC",
   "swings": [
     {
-      "market": "Cleveland Guardians vs. Colorado Rockies: O/U 10.5",
-      "prev": 0.735,
-      "now": 0.0005,
-      "delta": -0.7345,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: Both Teams to Score in First Half",
+      "prev": 0.07,
+      "now": 0.9995,
+      "delta": 0.9295,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 130964.1,
-      "liquidity": 264997.93
+      "volume24hr": 311.78,
+      "liquidity": 12432.54
     },
     {
-      "market": "Cleveland Guardians vs. Colorado Rockies: O/U 12.5",
-      "prev": 0.675,
-      "now": 0.0055,
-      "delta": -0.6695,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: 1st Half O/U 1.5",
+      "prev": 0.13,
+      "now": 0.9995,
+      "delta": 0.8695,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 51.2,
-      "liquidity": 999.96
+      "volume24hr": 1996.15,
+      "liquidity": 55687.71
     },
     {
-      "market": "Cleveland Guardians vs. Colorado Rockies: O/U 11.5",
-      "prev": 0.515,
-      "now": 0.0005,
-      "delta": -0.5145,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 24930.38,
-      "liquidity": 78432.54
-    },
-    {
-      "market": "Golden State Valkyries vs. Chicago Sky \u2014 Natasha Cloud: Points O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/wnba-gsv-chi-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 41.28,
-      "liquidity": 808.17
-    },
-    {
-      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-3.5)",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 11.67,
-      "liquidity": 8882.69
-    },
-    {
-      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-7.5)",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 394734.37,
-      "liquidity": 4995.0
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 1st 5 Innings Spread: Seattle Mariners (-1.5)",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 290327.24,
-      "liquidity": 1029.67
-    },
-    {
-      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-6.5)",
-      "prev": 0.5,
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: FC Ju\u00e1rez 1st Half O/U 0.5",
+      "prev": 0.19,
       "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "delta": 0.8045,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 394734.37,
-      "liquidity": 7095.0
+      "volume24hr": 19.98,
+      "liquidity": 3040.01
     },
     {
-      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-8.5)",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: CF Am\u00e9rica 1st Half O/U 0.5",
+      "prev": 0.375,
+      "now": 0.9945,
+      "delta": 0.6195,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 394734.37,
-      "liquidity": 1095.01
+      "volume24hr": 11.48,
+      "liquidity": 3040.0
     },
     {
-      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-4.5)",
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: Both Teams to Score",
+      "prev": 0.405,
+      "now": 0.9995,
+      "delta": 0.5945,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 2944.8,
+      "liquidity": 25129.43
+    },
+    {
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: 1st Half O/U 2.5",
+      "prev": 0.0205,
+      "now": 0.59,
+      "delta": 0.5695,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 297.99,
+      "liquidity": 720.52
+    },
+    {
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: 1st Half O/U 0.5",
+      "prev": 0.48,
+      "now": 0.9995,
+      "delta": 0.5195,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 3999.09,
+      "liquidity": 42293.64
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
       "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "now": 0.0055,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 7124846.09,
+      "liquidity": 298.88
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 456.9,
-      "liquidity": 6877.74
+      "volume24hr": 165.69,
+      "liquidity": 1803.11
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers \u2014 1st 5 Innings Spread: Los Angeles Dodgers (-1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 188.3,
+      "liquidity": 1346.16
     }
   ],
   "log": [
-    {
-      "ts": "20:30:01",
-      "text": " poll complete \u2014 1924 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:45:01",
       "text": " poll complete \u2014 1936 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "03:45:02",
       "text": " poll complete \u2014 1911 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:00:01",
+      "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
     }
   ]
 }
