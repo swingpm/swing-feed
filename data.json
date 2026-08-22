@@ -1,41 +1,39 @@
 {
-  "lastUpdate": "2026-08-22 19:45:01 UTC",
+  "lastUpdate": "2026-08-22 20:00:02 UTC",
   "swings": [
     {
-      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: Both Teams to Score in First Half",
-      "prev": 0.11,
-      "now": 0.995,
-      "delta": 0.885,
-      "url": "https://polymarket.com/event/fl1-lmf-sbr-2026-08-22-more-markets",
+      "market": "SK Slavia Praha vs. Bohemians Praha 1905 \u2014 Will SK Slavia Praha win on 2026-08-22?",
+      "prev": 0.93,
+      "now": 0.005,
+      "delta": -0.925,
+      "url": "https://polymarket.com/event/cze1-ssp-bop-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Ligue 1"
+        "Soccer"
       ],
-      "volume24hr": 133961.98,
-      "liquidity": 2742.11
+      "volume24hr": 162823.39,
+      "liquidity": 179033.74
     },
     {
-      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: Le Mans FC 1st Half O/U 0.5",
-      "prev": 0.11,
+      "market": "Will SK Slavia Praha vs. Bohemians Praha 1905 end in a draw?",
+      "prev": 0.07,
       "now": 0.995,
-      "delta": 0.885,
-      "url": "https://polymarket.com/event/fl1-lmf-sbr-2026-08-22-more-markets",
+      "delta": 0.925,
+      "url": "https://polymarket.com/event/cze1-ssp-bop-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Ligue 1"
+        "Soccer"
       ],
-      "volume24hr": 133961.98,
-      "liquidity": 1811.93
+      "volume24hr": 3099.5,
+      "liquidity": 38589.3
     },
     {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Clube do Remo 1st Half O/U 0.5",
-      "prev": 0.14,
-      "now": 0.995,
-      "delta": 0.855,
+      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: 1st Half O/U 1.5",
+      "prev": 0.595,
+      "now": 0.005,
+      "delta": -0.59,
       "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -43,89 +41,14 @@
         "Soccer",
         "Brazil Serie A"
       ],
-      "volume24hr": 805.13,
-      "liquidity": 2844.45
-    },
-    {
-      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: 1st Half O/U 1.5",
-      "prev": 0.15,
-      "now": 0.995,
-      "delta": 0.845,
-      "url": "https://polymarket.com/event/fl1-lmf-sbr-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 31.2,
-      "liquidity": 6160.48
-    },
-    {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Clube do Remo O/U 0.5",
-      "prev": 0.405,
-      "now": 0.989,
-      "delta": 0.584,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 16.0,
-      "liquidity": 2805.07
-    },
-    {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: 1st Half O/U 0.5",
-      "prev": 0.45,
-      "now": 0.995,
-      "delta": 0.545,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 199.53,
-      "liquidity": 7922.09
-    },
-    {
-      "market": "Valencia CF vs. RC Celta de Vigo - More Markets \u2014 Valencia CF vs. RC Celta de Vigo: 2nd Half O/U 0.5",
-      "prev": 0.54,
-      "now": 0.0005,
-      "delta": -0.5395,
-      "url": "https://polymarket.com/event/lal-val-cel-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 413781.76,
-      "liquidity": 3526.87
-    },
-    {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Clube do Remo O/U 1.5",
-      "prev": 0.095,
-      "now": 0.62,
-      "delta": 0.525,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 8.18,
-      "liquidity": 1445.53
+      "volume24hr": 57.52,
+      "liquidity": 2212.12
     },
     {
       "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Both Teams to Score in First Half",
-      "prev": 0.045,
-      "now": 0.56,
-      "delta": 0.515,
+      "prev": 0.56,
+      "now": 0.005,
+      "delta": -0.555,
       "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -134,13 +57,28 @@
         "Brazil Serie A"
       ],
       "volume24hr": 2.0,
-      "liquidity": 41.04
+      "liquidity": 3560.56
     },
     {
-      "market": "Atlanta Braves vs. Milwaukee Brewers: 1st 5 Innings O/U 4.5",
+      "market": "Fenerbah\u00e7e SK vs. Konyaspor - More Markets \u2014 Fenerbah\u00e7e SK vs. Konyaspor: Fenerbah\u00e7e SK 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/tur-fen-kon-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "S\u00fcper Lig"
+      ],
+      "volume24hr": 112781.77,
+      "liquidity": 3309.35
+    },
+    {
+      "market": "Atlanta Braves vs. Milwaukee Brewers \u2014 1st 5 Innings Spread: Milwaukee Brewers (-1.5)",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
       "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-22",
       "tags": [
         "Sports",
@@ -148,15 +86,71 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 12963.3,
-      "liquidity": 24493.34
+      "volume24hr": 10.0,
+      "liquidity": 1085.01
+    },
+    {
+      "market": "Atlanta Braves vs. Milwaukee Brewers: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 1085.01
+    },
+    {
+      "market": "Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: Spirit (-3.5) vs Legacy (+3.5)",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/cs2-lgc-ts7-2026-08-22",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4184.45,
+      "liquidity": 1852.82
+    },
+    {
+      "market": "Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 2 Rounds Handicap: Spirit (-6.5) vs Legacy (+6.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-lgc-ts7-2026-08-22",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 3709.17
+    },
+    {
+      "market": "Counter-Strike: Legacy vs Spirit (BO3) - Esports World Cup Playoffs \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-lgc-ts7-2026-08-22",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3747349.88,
+      "liquidity": 422.24
     }
   ],
   "log": [
-    {
-      "ts": "12:30:02",
-      "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:45:02",
       "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
@@ -272,6 +266,10 @@
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:00:02",
+      "text": " poll complete \u2014 1849 markets scanned, 10 flagged"
     }
   ]
 }
