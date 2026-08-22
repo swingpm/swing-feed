@@ -1,67 +1,71 @@
 {
-  "lastUpdate": "2026-08-22 21:15:02 UTC",
+  "lastUpdate": "2026-08-22 21:30:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Set 1 Winner: Pegula vs Swiatek",
-      "prev": 0.38,
-      "now": 0.9995,
-      "delta": 0.6195,
-      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - Exact Score \u2014 Exact Score: RCD Espanyol de Barcelona 1 - 2 Real Madrid CF?",
+      "prev": 0.3,
+      "now": 0.995,
+      "delta": 0.695,
+      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-exact-score",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 5537.32,
-      "liquidity": 129266.69
+      "volume24hr": 54361.91,
+      "liquidity": 114621.12
     },
     {
-      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF \u2014 Will Real Madrid CF win on 2026-08-22?",
+      "prev": 0.375,
+      "now": 0.995,
+      "delta": 0.62,
+      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 1138696.69,
-      "liquidity": 6274.21
+      "volume24hr": 1569371.59,
+      "liquidity": 550990.56
     },
     {
-      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: Real Madrid CF O/U 1.5",
+      "prev": 0.41,
+      "now": 0.995,
+      "delta": 0.585,
+      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 1138696.69,
-      "liquidity": 6285.32
+      "volume24hr": 18945.3,
+      "liquidity": 144806.97
     },
     {
-      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "market": "Will RCD Espanyol de Barcelona vs. Real Madrid CF end in a draw?",
+      "prev": 0.565,
+      "now": 0.0005,
+      "delta": -0.5645,
+      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 1138696.69,
-      "liquidity": 6274.21
+      "volume24hr": 260634.62,
+      "liquidity": 385383.9
     },
     {
-      "market": "Counter-Strike: Nuclear TigeRES vs SPARTA (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 3 Rounds Handicap: Nuclear TigeRES (-6.5) vs SPARTA (+6.5)",
-      "prev": 0.5,
-      "now": 0.03,
-      "delta": -0.47,
+      "market": "Counter-Strike: Nuclear TigeRES vs SPARTA (BO3) - Moscow Cyber Games European Qualifier Group Stage",
+      "prev": 0.56,
+      "now": 0.0005,
+      "delta": -0.5595,
       "url": "https://polymarket.com/event/cs2-ntr-sparta-2026-08-22",
       "tags": [
         "Esports",
@@ -69,28 +73,59 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 134896.02,
-      "liquidity": 950.55
+      "volume24hr": 86589.95,
+      "liquidity": 160099.28
     },
     {
-      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Set Handicap: Swiatek (-1.5) vs Pegula (+1.5)",
-      "prev": 0.425,
-      "now": 0.025,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: 2nd Half O/U 1.5",
+      "prev": 0.545,
+      "now": 0.005,
+      "delta": -0.54,
+      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 43482.6,
-      "liquidity": 26195.73
+      "volume24hr": 90.68,
+      "liquidity": 3421.32
+    },
+    {
+      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - Exact Score \u2014 Exact Score: RCD Espanyol de Barcelona 1 - 1 Real Madrid CF?",
+      "prev": 0.54,
+      "now": 0.0045,
+      "delta": -0.5355,
+      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 8653.6,
+      "liquidity": 116754.75
+    },
+    {
+      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: O/U 2.5",
+      "prev": 0.465,
+      "now": 0.9995,
+      "delta": 0.5345,
+      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 306807.31,
+      "liquidity": 391848.36
     },
     {
       "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: Both Teams to Score in Second Half",
-      "prev": 0.18,
-      "now": 0.5,
-      "delta": 0.32,
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -98,43 +133,14 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 1841002.45,
-      "liquidity": 1751335.56
+      "volume24hr": 2036755.68,
+      "liquidity": 4480.2
     },
     {
-      "market": "LoL: Sentinels vs FlyQuest (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.215,
-      "now": 0.5,
-      "delta": 0.285,
-      "url": "https://polymarket.com/event/lol-sen-fly-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 93.71,
-      "liquidity": 1.4
-    },
-    {
-      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek",
-      "prev": 0.33,
-      "now": 0.605,
-      "delta": 0.275,
-      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1086399.85,
-      "liquidity": 481008.47
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: RCD Espanyol de Barcelona O/U 2.5",
-      "prev": 0.2725,
-      "now": 0.0035,
-      "delta": -0.269,
+      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: RCD Espanyol de Barcelona 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -142,15 +148,11 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 6872.21,
-      "liquidity": 142935.49
+      "volume24hr": 2036755.68,
+      "liquidity": 3349.82
     }
   ],
   "log": [
-    {
-      "ts": "14:00:01",
-      "text": " poll complete \u2014 1861 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
@@ -266,6 +268,10 @@
     {
       "ts": "21:15:02",
       "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:30:02",
+      "text": " poll complete \u2014 1955 markets scanned, 10 flagged"
     }
   ]
 }
