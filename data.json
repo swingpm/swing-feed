@@ -1,162 +1,160 @@
 {
-  "lastUpdate": "2026-08-22 05:45:01 UTC",
+  "lastUpdate": "2026-08-22 06:00:02 UTC",
   "swings": [
     {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 10.5",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC 2nd Half O/U 1.5",
+      "prev": 0.405,
+      "now": 0.065,
+      "delta": -0.34,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 4183.49,
-      "liquidity": 12905.63
+      "volume24hr": 207442.29,
+      "liquidity": 517.39
     },
     {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 11.5",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2176.08,
-      "liquidity": 10662.22
-    },
-    {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 9.5",
-      "prev": 0.385,
-      "now": 0.0005,
-      "delta": -0.3845,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 27196.19,
-      "liquidity": 62869.33
-    },
-    {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers",
-      "prev": 0.275,
-      "now": 0.0005,
-      "delta": -0.2745,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 674927.13,
-      "liquidity": 492827.8
-    },
-    {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.29,
-      "now": 0.5,
-      "delta": 0.21,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner",
+      "prev": 0.315,
+      "now": 0.015,
+      "delta": -0.3,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 123516.13,
-      "liquidity": 2.58
+      "volume24hr": 1014148.23,
+      "liquidity": 234646.37
     },
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.29,
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
+      "prev": 0.225,
       "now": 0.5,
-      "delta": 0.21,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "delta": 0.275,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 123516.13,
-      "liquidity": 2.58
+      "volume24hr": 525.02,
+      "liquidity": 794255.23
     },
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.3,
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
+      "prev": 0.29,
+      "now": 0.5,
+      "delta": 0.21,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1559437.04,
+      "liquidity": 794255.23
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
+      "prev": 0.31,
+      "now": 0.5,
+      "delta": 0.19,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1559437.04,
+      "liquidity": 794255.23
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Both Teams Beat Roshan?",
+      "prev": 0.335,
       "now": 0.505,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "delta": 0.17,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 123516.13,
-      "liquidity": 3.88
+      "volume24hr": 1559437.04,
+      "liquidity": 3.84
     },
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.295,
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
+      "prev": 0.64,
       "now": 0.5,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "delta": -0.14,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 123516.13,
-      "liquidity": 2.58
+      "volume24hr": 96.58,
+      "liquidity": 794255.23
     },
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.345,
-      "now": 0.5,
-      "delta": 0.155,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs",
+      "prev": 0.315,
+      "now": 0.185,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 123516.13,
-      "liquidity": 0.2
+      "volume24hr": 497307.38,
+      "liquidity": 152740.07
     },
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.635,
-      "now": 0.5,
-      "delta": -0.135,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: BB (-1.5) vs Nigma Galaxy (+1.5)",
+      "prev": 0.415,
+      "now": 0.545,
+      "delta": 0.13,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 123516.13,
-      "liquidity": 2.58
+      "volume24hr": 24157.47,
+      "liquidity": 113083.97
+    },
+    {
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC 2nd Half O/U 0.5",
+      "prev": 0.275,
+      "now": 0.4,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 207442.29,
+      "liquidity": 2592.35
     }
   ],
   "log": [
-    {
-      "ts": "22:30:01",
-      "text": " poll complete \u2014 1953 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:45:02",
       "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
@@ -272,6 +270,10 @@
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1742 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:00:02",
+      "text": " poll complete \u2014 1741 markets scanned, 10 flagged"
     }
   ]
 }
