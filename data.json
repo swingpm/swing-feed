@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-22 01:00:02 UTC",
+  "lastUpdate": "2026-08-22 01:15:01 UTC",
   "swings": [
     {
-      "market": "Toronto Blue Jays vs. New York Yankees: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
+      "market": "Will there be a run scored in the first inning?: Cleveland Guardians vs. Colorado Rockies",
+      "prev": 0.23,
       "now": 0.9995,
-      "delta": 0.4995,
+      "delta": 0.7695,
+      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 578.98,
+      "liquidity": 2118.1
+    },
+    {
+      "market": "Toronto Blue Jays vs. New York Yankees: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-21",
       "tags": [
         "Sports",
@@ -13,146 +28,126 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 82.08,
-      "liquidity": 1557.81
+      "volume24hr": 29.27,
+      "liquidity": 1322.37
     },
     {
-      "market": "Cancun: Vit Kopriva vs Lloyd Harris \u2014 Set 1 Winner: Kopriva vs Harris",
+      "market": "Toronto Blue Jays vs. New York Yankees: 1st 5 Innings O/U 6.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-harri-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 5304.4,
-      "liquidity": 30795.6
-    },
-    {
-      "market": "Cancun: Vit Kopriva vs Lloyd Harris \u2014 Kopriva vs. Harris: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-harri-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 152259.67,
-      "liquidity": 5744.1
-    },
-    {
-      "market": "Cancun: Vit Kopriva vs Lloyd Harris \u2014 Kopriva vs. Harris: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-harri-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 152259.67,
-      "liquidity": 5737.06
-    },
-    {
-      "market": "Cancun: Vit Kopriva vs Lloyd Harris \u2014 Kopriva vs. Harris: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kopriva-harri-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 152259.67,
-      "liquidity": 5737.06
-    },
-    {
-      "market": "Golden State Valkyries vs. Chicago Sky \u2014 Natasha Cloud: Rebounds O/U 3.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wnba-gsv-chi-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 10.64,
-      "liquidity": 101.01
-    },
-    {
-      "market": "Golden State Valkyries vs. Chicago Sky \u2014 Natasha Cloud: Points O/U 10.5",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/wnba-gsv-chi-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 41.28,
-      "liquidity": 407.01
-    },
-    {
-      "market": "Minnesota Lynx vs. Washington Mystics \u2014 Natasha Howard: Assists O/U 2.5",
-      "prev": 0.505,
-      "now": 0.9945,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/wnba-min-wsh-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 476485.32,
-      "liquidity": 101.01
-    },
-    {
-      "market": "Golden State Valkyries vs. Chicago Sky \u2014 Natasha Cloud: Points O/U 9.5",
-      "prev": 0.505,
-      "now": 0.9945,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/wnba-gsv-chi-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 320999.04,
-      "liquidity": 101.29
-    },
-    {
-      "market": "Los Angeles Angels vs. Texas Rangers: 1st 5 Innings O/U 6.5",
-      "prev": 0.54,
-      "now": 0.075,
-      "delta": -0.465,
-      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-21",
+      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 95.0,
-      "liquidity": 74.75
+      "volume24hr": 5.0,
+      "liquidity": 1285.21
+    },
+    {
+      "market": "San Francisco Giants vs. Boston Red Sox \u2014 1st 5 Innings Spread: San Francisco Giants (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 156.47,
+      "liquidity": 1575.78
+    },
+    {
+      "market": "San Francisco Giants vs. Boston Red Sox \u2014 1st 5 Innings Spread: Boston Red Sox (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 12.84,
+      "liquidity": 1574.74
+    },
+    {
+      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Quebec City: Completed Match: Taro Daniel vs Jacob Fearnley",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 148606.12,
+      "liquidity": 1584.63
+    },
+    {
+      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Taro Daniel vs. Jacob Fearnley: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 6.31,
+      "liquidity": 5631.76
+    },
+    {
+      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Set Handicap: Daniel (-1.5) vs Fearnley (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 20.0,
+      "liquidity": 4295.51
+    },
+    {
+      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Daniel vs. Fearnley: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 10.37,
+      "liquidity": 5639.04
+    },
+    {
+      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Daniel vs. Fearnley: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 148606.12,
+      "liquidity": 3055.44
     }
   ],
   "log": [
-    {
-      "ts": "17:45:01",
-      "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:00:01",
       "text": " poll complete \u2014 1911 markets scanned, 10 flagged"
@@ -268,6 +263,10 @@
     {
       "ts": "01:00:02",
       "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:15:01",
+      "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
     }
   ]
 }
