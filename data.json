@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-22 12:15:02 UTC",
+  "lastUpdate": "2026-08-22 12:30:02 UTC",
   "swings": [
     {
-      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC 1st Half O/U 1.5",
-      "prev": 0.146,
-      "now": 0.9955,
-      "delta": 0.8495,
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Both Teams to Score in First Half",
+      "prev": 0.58,
+      "now": 0.0005,
+      "delta": -0.5795,
       "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -14,151 +14,144 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 585.24,
-      "liquidity": 810.84
+      "volume24hr": 2059.28,
+      "liquidity": 24267.38
     },
     {
-      "market": "Nagoya Grampus vs. Gamba \u014csaka - More Markets \u2014 Nagoya Grampus vs. Gamba \u014csaka: Nagoya Grampus O/U 2.5",
-      "prev": 0.17,
-      "now": 0.9995,
-      "delta": 0.8295,
-      "url": "https://polymarket.com/event/jap-ngr-gam-2026-08-22-more-markets",
+      "market": "Millwall FC vs. Norwich City FC - More Markets \u2014 Millwall FC vs. Norwich City FC: Both Teams to Score in First Half",
+      "prev": 0.525,
+      "now": 0.0055,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/elc-mil-nor-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "EFL Championship"
       ],
-      "volume24hr": 57.25,
-      "liquidity": 12911.08
+      "volume24hr": 17.04,
+      "liquidity": 2984.98
     },
     {
-      "market": "Nagoya Grampus vs. Gamba \u014csaka - More Markets \u2014 Spread: Nagoya Grampus (-1.5)",
-      "prev": 0.205,
-      "now": 0.9995,
-      "delta": 0.7945,
-      "url": "https://polymarket.com/event/jap-ngr-gam-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 6715.19,
-      "liquidity": 57974.13
-    },
-    {
-      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC O/U 1.5",
-      "prev": 0.39,
-      "now": 0.995,
-      "delta": 0.605,
-      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 699.66,
-      "liquidity": 757.44
-    },
-    {
-      "market": "Nagoya Grampus vs. Gamba \u014csaka - More Markets \u2014 Nagoya Grampus vs. Gamba \u014csaka: Gamba \u014csaka 2nd Half O/U 0.5",
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Manchester United FC 1st Half O/U 0.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/jap-ngr-gam-2026-08-22-more-markets",
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 88567.16,
-      "liquidity": 3272.04
+      "volume24hr": 2365.9,
+      "liquidity": 4223.56
     },
     {
-      "market": "Nagoya Grampus vs. Gamba \u014csaka - More Markets \u2014 Nagoya Grampus vs. Gamba \u014csaka: Both Teams to Score in Second Half",
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Manchester United FC 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/jap-ngr-gam-2026-08-22-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 88567.16,
-      "liquidity": 3222.31
+      "volume24hr": 771.22,
+      "liquidity": 4308.51
     },
     {
-      "market": "Nagoya Grampus vs. Gamba \u014csaka - More Markets \u2014 Nagoya Grampus vs. Gamba \u014csaka: 2nd Half O/U 1.5",
+      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Set 1 Winner: Tarvet vs Poullain",
       "prev": 0.5,
-      "now": 0.9975,
-      "delta": 0.4975,
-      "url": "https://polymarket.com/event/jap-ngr-gam-2026-08-22-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
+        "Games"
       ],
-      "volume24hr": 88567.16,
-      "liquidity": 6166.97
+      "volume24hr": 98.0,
+      "liquidity": 6691.66
     },
     {
-      "market": "Nagoya Grampus vs. Gamba \u014csaka - More Markets \u2014 Nagoya Grampus vs. Gamba \u014csaka: 2nd Half O/U 2.5",
+      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Tarvet vs. Poullain: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/jap-ngr-gam-2026-08-22-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
+        "Games"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 3216.3
+      "volume24hr": 78327.05,
+      "liquidity": 5805.6
     },
     {
-      "market": "Nagoya Grampus vs. Gamba \u014csaka - More Markets \u2014 Nagoya Grampus vs. Gamba \u014csaka: Nagoya Grampus 2nd Half O/U 1.5",
+      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Tarvet vs. Poullain: Set 1 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.9975,
-      "delta": 0.4975,
-      "url": "https://polymarket.com/event/jap-ngr-gam-2026-08-22-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
+        "Games"
       ],
-      "volume24hr": 88567.16,
-      "liquidity": 6162.09
+      "volume24hr": 78327.05,
+      "liquidity": 5774.97
     },
     {
-      "market": "Nagoya Grampus vs. Gamba \u014csaka - More Markets \u2014 Nagoya Grampus vs. Gamba \u014csaka: Gamba \u014csaka 2nd Half O/U 1.5",
+      "market": "Roehampton: Oliver Tarvet vs Lucas Poullain \u2014 Tarvet vs. Poullain: Set 1 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/jap-ngr-gam-2026-08-22-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-tarvet-poullai-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 78327.05,
+      "liquidity": 5789.98
+    },
+    {
+      "market": "Millwall FC vs. Norwich City FC - More Markets \u2014 Millwall FC vs. Norwich City FC: Millwall FC 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/elc-mil-nor-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "EFL Championship"
       ],
-      "volume24hr": 88567.16,
-      "liquidity": 3255.78
+      "volume24hr": 81577.22,
+      "liquidity": 2646.39
+    },
+    {
+      "market": "LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend \u2014 First Blood in Game 1?",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lol-jdg-tes-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 609921.91,
+      "liquidity": 1066.84
     }
   ],
   "log": [
-    {
-      "ts": "05:00:01",
-      "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:15:01",
       "text": " poll complete \u2014 1803 markets scanned, 10 flagged"
@@ -274,6 +267,10 @@
     {
       "ts": "12:15:02",
       "text": " poll complete \u2014 1916 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:30:02",
+      "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
     }
   ]
 }
