@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-22 12:45:02 UTC",
+  "lastUpdate": "2026-08-22 13:00:02 UTC",
   "swings": [
     {
-      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: O/U 3.5",
-      "prev": 0.305,
-      "now": 0.9995,
-      "delta": 0.6945,
+      "market": "Millwall FC vs. Norwich City FC - More Markets \u2014 Spread: Millwall FC (-1.5)",
+      "prev": 0.315,
+      "now": 0.925,
+      "delta": 0.61,
+      "url": "https://polymarket.com/event/elc-mil-nor-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 5547.02,
+      "liquidity": 56439.4
+    },
+    {
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: SV Wehen Wiesbaden O/U 0.5",
+      "prev": 0.535,
+      "now": 0.0055,
+      "delta": -0.5295,
       "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -13,29 +28,14 @@
         "Soccer",
         "DFB-Pokal"
       ],
-      "volume24hr": 10606.48,
-      "liquidity": 154681.1
+      "volume24hr": 171.78,
+      "liquidity": 9989.95
     },
     {
-      "market": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 2?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-dnf-drx-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1859062.47,
-      "liquidity": 718.74
-    },
-    {
-      "market": "LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 24.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "market": "LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.51,
+      "now": 0.0055,
+      "delta": -0.5045,
       "url": "https://polymarket.com/event/lol-jdg-tes-2026-08-22",
       "tags": [
         "Esports",
@@ -43,14 +43,59 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 844104.41,
-      "liquidity": 708.05
+      "volume24hr": 1383.72,
+      "liquidity": 922.01
     },
     {
-      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: 2nd Half O/U 1.5",
+      "market": "Millwall FC vs. Norwich City FC - More Markets \u2014 Millwall FC vs. Norwich City FC: Millwall FC 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/elc-mil-nor-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 103663.4,
+      "liquidity": 8979.64
+    },
+    {
+      "market": "Counter-Strike: Lavked vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-lavked-bw-2026-08-22",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 19.24,
+      "liquidity": 5598.79
+    },
+    {
+      "market": "Counter-Strike: Lavked vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: BW (-1.5) vs Lavked (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-lavked-bw-2026-08-22",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1849.1,
+      "liquidity": 15903.89
+    },
+    {
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: SV Wehen Wiesbaden 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -58,44 +103,29 @@
         "Soccer",
         "DFB-Pokal"
       ],
-      "volume24hr": 123989.81,
-      "liquidity": 3098.35
+      "volume24hr": 137034.96,
+      "liquidity": 2727.34
     },
     {
-      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: 2nd Half O/U 2.5",
+      "market": "LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 36.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-jdg-tes-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "DFB-Pokal"
+        "Sports"
       ],
-      "volume24hr": 123989.81,
-      "liquidity": 3049.42
-    },
-    {
-      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: Bayer 04 Leverkusen 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 123989.81,
-      "liquidity": 3125.9
+      "volume24hr": 4.99,
+      "liquidity": 707.41
     },
     {
       "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: SV Wehen Wiesbaden O/U 1.5",
-      "prev": 0.026,
-      "now": 0.5005,
-      "delta": 0.4745,
+      "prev": 0.5005,
+      "now": 0.0055,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -104,59 +134,25 @@
         "DFB-Pokal"
       ],
       "volume24hr": 11.0,
-      "liquidity": 40.27
+      "liquidity": 9994.9
     },
     {
-      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 Spread: Bayer 04 Leverkusen (-2.5)",
-      "prev": 0.49,
-      "now": 0.9495,
-      "delta": 0.4595,
-      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 14101.0,
-      "liquidity": 69197.25
-    },
-    {
-      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: Bayer 04 Leverkusen O/U 2.5",
-      "prev": 0.57,
-      "now": 0.9995,
-      "delta": 0.4295,
-      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 480.7,
-      "liquidity": 7674.79
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs \u2014 Game 3: Ends in Daytime?",
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: SV Wehen Wiesbaden O/U 2.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/dota2-vsn2-ty-2026-08-22",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "Dota 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "DFB-Pokal"
       ],
-      "volume24hr": 11552776.83,
-      "liquidity": 112.32
+      "volume24hr": 137034.96,
+      "liquidity": 9989.93
     }
   ],
   "log": [
-    {
-      "ts": "05:30:01",
-      "text": " poll complete \u2014 1739 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1742 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "12:45:02",
       "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:00:02",
+      "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
     }
   ]
 }
