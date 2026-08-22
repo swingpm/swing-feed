@@ -1,161 +1,154 @@
 {
-  "lastUpdate": "2026-08-22 03:00:01 UTC",
+  "lastUpdate": "2026-08-22 03:15:01 UTC",
   "swings": [
     {
-      "market": "Chicago Cubs vs. Seattle Mariners: 1st 5 Innings O/U 6.5",
-      "prev": 0.39,
+      "market": "Tigres de la UANL vs. Atlante FC - More Markets \u2014 Spread: Tigres de la UANL (-1.5)",
+      "prev": 0.2,
       "now": 0.9995,
-      "delta": 0.6095,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 176.38,
-      "liquidity": 1057.18
-    },
-    {
-      "market": "Minnesota Lynx vs. Washington Mystics \u2014 Kayla McBride: Points O/U 14.5",
-      "prev": 0.5005,
-      "now": 0.9995,
-      "delta": 0.499,
-      "url": "https://polymarket.com/event/wnba-min-wsh-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 870.65
-    },
-    {
-      "market": "Minnesota Lynx vs. Washington Mystics \u2014 Natasha Howard: Points O/U 10.5",
-      "prev": 0.5005,
-      "now": 0.9995,
-      "delta": 0.499,
-      "url": "https://polymarket.com/event/wnba-min-wsh-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 870.65
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 143.28,
-      "liquidity": 541.68
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 51.68,
-      "liquidity": 225.18
-    },
-    {
-      "market": "Will the game go to extra innings?: Detroit Tigers vs. Kansas City Royals",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 793454.16,
-      "liquidity": 281.62
-    },
-    {
-      "market": "Packers vs. Broncos: 1H O/U 22.5",
-      "prev": 0.9845,
-      "now": 0.5,
-      "delta": -0.4845,
-      "url": "https://polymarket.com/event/nfl-gb-den-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 94481.87,
-      "liquidity": 0.02
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: 1st 5 Innings O/U 5.5",
-      "prev": 0.535,
-      "now": 0.9995,
-      "delta": 0.4645,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 12.63,
-      "liquidity": 316.41
-    },
-    {
-      "market": "Detroit Tigers vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-3.5)",
-      "prev": 0.452,
-      "now": 0.0005,
-      "delta": -0.4515,
-      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 3164.86
-    },
-    {
-      "market": "Tigres de la UANL vs. Atlante FC \u2014 Will Tigres de la UANL win on 2026-08-21?",
-      "prev": 0.505,
-      "now": 0.95,
-      "delta": 0.445,
-      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21",
+      "delta": 0.7995,
+      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 91622.76,
-      "liquidity": 160264.81
+      "volume24hr": 7914.46,
+      "liquidity": 70771.8
+    },
+    {
+      "market": "Tigres de la UANL vs. Atlante FC - More Markets \u2014 Tigres de la UANL vs. Atlante FC: Tigres de la UANL O/U 1.5",
+      "prev": 0.205,
+      "now": 0.9995,
+      "delta": 0.7945,
+      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 883.73,
+      "liquidity": 12336.81
+    },
+    {
+      "market": "Tigres de la UANL vs. Atlante FC - More Markets \u2014 Tigres de la UANL vs. Atlante FC: O/U 1.5",
+      "prev": 0.265,
+      "now": 0.9995,
+      "delta": 0.7345,
+      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 23980.97,
+      "liquidity": 125772.85
+    },
+    {
+      "market": "Los Angeles Angels vs. Texas Rangers",
+      "prev": 0.205,
+      "now": 0.725,
+      "delta": 0.52,
+      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 337821.59,
+      "liquidity": 166321.97
+    },
+    {
+      "market": "Club Le\u00f3n FC vs. CF Monterrey - More Markets \u2014 Club Le\u00f3n FC vs. CF Monterrey: Both Teams to Score",
+      "prev": 0.52,
+      "now": 0.0005,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/mex-leo-mon1-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 5802.22,
+      "liquidity": 37914.8
+    },
+    {
+      "market": "Tigres de la UANL vs. Atlante FC - More Markets \u2014 Tigres de la UANL vs. Atlante FC: Both Teams to Score in Second Half",
+      "prev": 0.51,
+      "now": 0.005,
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 104933.18,
+      "liquidity": 2194.91
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Cincinnati Open: Completed Match: Coco Gauff vs Marta Kostyuk",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 482.0,
+      "liquidity": 2363.63
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Gauff vs. Kostyuk: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1594.25,
+      "liquidity": 9820.34
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Gauff vs. Kostyuk: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 566358.17,
+      "liquidity": 3206.13
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Gauff vs. Kostyuk: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 566358.17,
+      "liquidity": 3206.13
     }
   ],
   "log": [
-    {
-      "ts": "19:45:02",
-      "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:00:01",
       "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
@@ -271,6 +264,10 @@
     {
       "ts": "03:00:01",
       "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:15:01",
+      "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
     }
   ]
 }
