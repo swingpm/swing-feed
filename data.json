@@ -1,11 +1,71 @@
 {
-  "lastUpdate": "2026-08-22 18:30:01 UTC",
+  "lastUpdate": "2026-08-22 18:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 LoL: SK Gaming vs Movistar KOI - Game 2 Winner",
-      "prev": 0.045,
+      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Estoril Praia vs. Rio Ave FC: Rio Ave FC O/U 1.5",
+      "prev": 0.26,
+      "now": 0.9955,
+      "delta": 0.7355,
+      "url": "https://polymarket.com/event/por-est-rio-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 37.32,
+      "liquidity": 4463.12
+    },
+    {
+      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Spread: Rio Ave FC (-1.5)",
+      "prev": 0.15,
+      "now": 0.775,
+      "delta": 0.625,
+      "url": "https://polymarket.com/event/por-est-rio-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 1227.16,
+      "liquidity": 13743.87
+    },
+    {
+      "market": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.405,
       "now": 0.9995,
-      "delta": 0.9545,
+      "delta": 0.5945,
+      "url": "https://polymarket.com/event/val-vit-ff3-2026-08-22",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 6850.82,
+      "liquidity": 82330.51
+    },
+    {
+      "market": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Valorant: Team Vitality vs Fire Flux Esports - Map 2 Winner",
+      "prev": 0.585,
+      "now": 0.0005,
+      "delta": -0.5845,
+      "url": "https://polymarket.com/event/val-vit-ff3-2026-08-22",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 38172.93,
+      "liquidity": 294196.9
+    },
+    {
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Games Total: O/U 2.5",
+      "prev": 0.5405,
+      "now": 0.0005,
+      "delta": -0.54,
       "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
       "tags": [
         "Esports",
@@ -13,153 +73,86 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 190408.54,
-      "liquidity": 475502.21
+      "volume24hr": 2087.53,
+      "liquidity": 16653.32
     },
     {
-      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Game Handicap: SK (-1.5) vs Movistar KOI (+1.5)",
-      "prev": 0.055,
-      "now": 0.65,
-      "delta": 0.595,
-      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 866703.33,
-      "liquidity": 505.83
-    },
-    {
-      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: Both Teams to Score in Second Half",
-      "prev": 0.58,
-      "now": 0.005,
-      "delta": -0.575,
-      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 1304831.26,
-      "liquidity": 5538.74
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Atlanta Braves vs. Milwaukee Brewers",
-      "prev": 0.45,
-      "now": 0.9995,
-      "delta": 0.5495,
-      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 16102.93,
-      "liquidity": 25951.31
-    },
-    {
-      "market": "Valencia CF vs. RC Celta de Vigo - More Markets \u2014 Valencia CF vs. RC Celta de Vigo: Valencia CF 1st Half O/U 0.5",
-      "prev": 0.53,
-      "now": 0.0055,
-      "delta": -0.5245,
-      "url": "https://polymarket.com/event/lal-val-cel-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 108401.44,
-      "liquidity": 2875.19
-    },
-    {
-      "market": "Valencia CF vs. RC Celta de Vigo - More Markets \u2014 Valencia CF vs. RC Celta de Vigo: RC Celta de Vigo 1st Half O/U 0.5",
-      "prev": 0.53,
-      "now": 0.0055,
-      "delta": -0.5245,
-      "url": "https://polymarket.com/event/lal-val-cel-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 62.7,
-      "liquidity": 2905.09
-    },
-    {
-      "market": "FC Internazionale Milano vs. AC Monza - More Markets \u2014 FC Internazionale Milano vs. AC Monza: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/sea-int-mon-2026-08-22-more-markets",
+      "market": "Udinese Calcio vs. Como 1907 - More Markets \u2014 Udinese Calcio vs. Como 1907: Udinese Calcio O/U 1.5",
+      "prev": 0.51,
+      "now": 0.0045,
+      "delta": -0.5055,
+      "url": "https://polymarket.com/event/sea-udi-com-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "sea"
       ],
-      "volume24hr": 482097.59,
-      "liquidity": 3400.32
+      "volume24hr": 79.48,
+      "liquidity": 11886.75
     },
     {
-      "market": "Valencia CF vs. RC Celta de Vigo - More Markets \u2014 Valencia CF vs. RC Celta de Vigo: 1st Half O/U 2.5",
-      "prev": 0.4995,
-      "now": 0.0005,
-      "delta": -0.499,
-      "url": "https://polymarket.com/event/lal-val-cel-2026-08-22-more-markets",
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "La Liga"
+        "Sports"
       ],
-      "volume24hr": 32.2,
-      "liquidity": 8268.39
+      "volume24hr": 3131.01,
+      "liquidity": 3279.22
     },
     {
-      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: 2nd Half O/U 2.5",
+      "market": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map Handicap: VIT (-1.5) vs Fire Flux Esports (+1.5)",
+      "prev": 0.5,
+      "now": 0.0035,
+      "delta": -0.4965,
+      "url": "https://polymarket.com/event/val-vit-ff3-2026-08-22",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1014.75,
+      "liquidity": 3161.98
+    },
+    {
+      "market": "Udinese Calcio vs. Como 1907 - More Markets \u2014 Udinese Calcio vs. Como 1907: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
+      "url": "https://polymarket.com/event/sea-udi-com-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "sea"
       ],
-      "volume24hr": 1.23,
-      "liquidity": 5451.89
+      "volume24hr": 5.05,
+      "liquidity": 3224.51
     },
     {
-      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: Tottenham Hotspur FC 2nd Half O/U 0.5",
+      "market": "Udinese Calcio vs. Como 1907 - More Markets \u2014 Udinese Calcio vs. Como 1907: 2nd Half O/U 1.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
+      "url": "https://polymarket.com/event/sea-udi-com-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "sea"
       ],
-      "volume24hr": 1304831.26,
-      "liquidity": 5854.3
+      "volume24hr": 224643.25,
+      "liquidity": 3114.47
     }
   ],
   "log": [
-    {
-      "ts": "11:15:01",
-      "text": " poll complete \u2014 1934 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:30:01",
       "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
@@ -275,6 +268,10 @@
     {
       "ts": "18:30:01",
       "text": " poll complete \u2014 1885 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:45:01",
+      "text": " poll complete \u2014 1915 markets scanned, 10 flagged"
     }
   ]
 }
