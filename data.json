@@ -1,158 +1,158 @@
 {
-  "lastUpdate": "2026-08-22 01:45:01 UTC",
+  "lastUpdate": "2026-08-22 02:00:01 UTC",
   "swings": [
     {
-      "market": "New York Mets vs. Chicago White Sox: O/U 8.5",
-      "prev": 0.31,
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 11.5",
+      "prev": 0.43,
       "now": 0.9995,
-      "delta": 0.6895,
-      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
+      "delta": 0.5695,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 63193.31,
-      "liquidity": 143521.14
+      "volume24hr": 6999.35,
+      "liquidity": 133396.7
     },
     {
-      "market": "Washington Nationals vs. Miami Marlins",
-      "prev": 0.695,
-      "now": 0.105,
-      "delta": -0.59,
-      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 324504.57,
-      "liquidity": 210597.13
-    },
-    {
-      "market": "New York Mets vs. Chicago White Sox \u2014 Spread: New York Mets (-1.5)",
-      "prev": 0.855,
-      "now": 0.265,
-      "delta": -0.59,
-      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1348.76,
-      "liquidity": 32332.97
-    },
-    {
-      "market": "New York Mets vs. Chicago White Sox \u2014 Spread: New York Mets (-2.5)",
-      "prev": 0.73,
-      "now": 0.145,
-      "delta": -0.585,
-      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 674.28,
-      "liquidity": 11210.83
-    },
-    {
-      "market": "Golden State Valkyries vs. Chicago Sky",
-      "prev": 0.575,
-      "now": 0.005,
-      "delta": -0.57,
-      "url": "https://polymarket.com/event/wnba-gsv-chi-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 275433.81,
-      "liquidity": 298527.09
-    },
-    {
-      "market": "Washington Nationals vs. Miami Marlins: O/U 2.5",
-      "prev": 0.49,
-      "now": 0.9975,
-      "delta": 0.5075,
-      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 484134.43,
-      "liquidity": 846.23
-    },
-    {
-      "market": "Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe \u2014 Cincinnati Open: Completed Match: Lorenzo Musetti vs Frances Tiafoe",
-      "prev": 0.5,
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 12.5",
+      "prev": 0.45,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-musetti-tiafoe-2026-08-21",
+      "delta": 0.5495,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-21",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1087124.72,
-      "liquidity": 2558.66
+      "volume24hr": 674.82,
+      "liquidity": 1374.5
     },
     {
-      "market": "Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe \u2014 Musetti vs. Tiafoe: Set 2 Games O/U 8.5",
-      "prev": 0.5,
+      "market": "Will there be a run scored in the first inning?: Cincinnati Reds vs. Arizona Diamondbacks",
+      "prev": 0.495,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-musetti-tiafoe-2026-08-21",
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1087124.72,
-      "liquidity": 4028.28
+      "volume24hr": 3569.29,
+      "liquidity": 20750.64
     },
     {
-      "market": "Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe \u2014 Musetti vs. Tiafoe: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-musetti-tiafoe-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 159.59,
-      "liquidity": 6609.32
-    },
-    {
-      "market": "Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe \u2014 Lorenzo Musetti vs. Frances Tiafoe: Total Sets O/U 2.5",
+      "market": "Athletics vs. Houston Astros \u2014 1st 5 Innings Spread: Athletics (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-musetti-tiafoe-2026-08-21",
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-21",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1636.61,
-      "liquidity": 7155.8
+      "volume24hr": 1.3,
+      "liquidity": 1807.17
+    },
+    {
+      "market": "Athletics vs. Houston Astros: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 177.21,
+      "liquidity": 1303.9
+    },
+    {
+      "market": "Athletics vs. Houston Astros: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 84.16,
+      "liquidity": 1667.63
+    },
+    {
+      "market": "Athletics vs. Houston Astros: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 29.98,
+      "liquidity": 1832.91
+    },
+    {
+      "market": "Athletics vs. Houston Astros: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 20.0,
+      "liquidity": 1137.64
+    },
+    {
+      "market": "Los Angeles Angels vs. Texas Rangers \u2014 1st 5 Innings Spread: Texas Rangers (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 1559.7
+    },
+    {
+      "market": "Los Angeles Angels vs. Texas Rangers: 1st 5 Innings O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 310.0,
+      "liquidity": 1887.24
     }
   ],
   "log": [
-    {
-      "ts": "18:30:02",
-      "text": " poll complete \u2014 1863 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
@@ -268,6 +268,10 @@
     {
       "ts": "01:45:01",
       "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:00:01",
+      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
     }
   ]
 }
