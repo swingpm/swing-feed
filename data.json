@@ -1,11 +1,53 @@
 {
-  "lastUpdate": "2026-08-22 22:45:01 UTC",
+  "lastUpdate": "2026-08-22 23:00:01 UTC",
   "swings": [
     {
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek",
+      "prev": 0.385,
+      "now": 0.9995,
+      "delta": 0.6145,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2499814.97,
+      "liquidity": 2561819.44
+    },
+    {
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Cincinnati Open: Completed Match: Jessica Pegula vs Iga Swiatek",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2581511.11,
+      "liquidity": 1395.68
+    },
+    {
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1417.19,
+      "liquidity": 10521.32
+    },
+    {
       "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Match O/U 22.5",
-      "prev": 0.895,
-      "now": 0.5,
-      "delta": -0.395,
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
       "tags": [
         "Tennis",
@@ -13,13 +55,13 @@
         "Games"
       ],
       "volume24hr": 22.0,
-      "liquidity": 461709.21
+      "liquidity": 5746.15
     },
     {
       "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Match O/U 23.5",
-      "prev": 0.895,
-      "now": 0.5,
-      "delta": -0.395,
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
       "tags": [
         "Tennis",
@@ -27,13 +69,13 @@
         "Games"
       ],
       "volume24hr": 636.52,
-      "liquidity": 461709.21
+      "liquidity": 5701.31
     },
     {
       "market": "Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map Handicap: G2 (-1.5) vs BESTIA (+1.5)",
-      "prev": 0.895,
-      "now": 0.5,
-      "delta": -0.395,
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/val-bst1-g21-2026-08-22",
       "tags": [
         "Esports",
@@ -41,44 +83,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3632.05,
-      "liquidity": 173054.78
+      "volume24hr": 3642.05,
+      "liquidity": 58203.16
     },
     {
-      "market": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.64,
+      "market": "Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: G2 Esports (-3.5) vs BESTIA (+3.5)",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.3595,
-      "url": "https://polymarket.com/event/lol-dsg-dig-2026-08-22",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/val-bst1-g21-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 6748.95,
-      "liquidity": 39390.06
+      "volume24hr": 492.18,
+      "liquidity": 1451.23
     },
     {
-      "market": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.235,
-      "now": 0.5,
-      "delta": 0.265,
-      "url": "https://polymarket.com/event/lol-dsg-dig-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 409256.22,
-      "liquidity": 1467356.48
-    },
-    {
-      "market": "Washington Nationals vs. Miami Marlins: O/U 6.5",
-      "prev": 0.68,
-      "now": 0.42,
-      "delta": -0.26,
+      "market": "Washington Nationals vs. Miami Marlins \u2014 Spread: Miami Marlins (-4.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-22",
       "tags": [
         "Sports",
@@ -86,74 +113,39 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 2167.96,
-      "liquidity": 19563.97
+      "volume24hr": 182742.63,
+      "liquidity": 2827.21
     },
     {
-      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Game 3: Odd/Even Total Kills?",
-      "prev": 0.255,
-      "now": 0.5,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1175324.49,
-      "liquidity": 0.0
-    },
-    {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 11.5",
-      "prev": 0.635,
-      "now": 0.39,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 330272.61,
-      "liquidity": 687.16
-    },
-    {
-      "market": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "market": "Monterrey Open, Qualification: En-Shuo Liang vs Sinja Kraus \u2014 Liang vs. Kraus: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.265,
-      "delta": -0.235,
-      "url": "https://polymarket.com/event/lol-dsg-dig-2026-08-22",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-liang-kraus-2026-08-22",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 65.0,
-      "liquidity": 151.4
-    },
-    {
-      "market": "Saints vs. Rams \u2014 NO vs. LA: O/U 38.5",
-      "prev": 0.315,
-      "now": 0.085,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/nfl-no-la-2026-08-22",
-      "tags": [
+        "Tennis",
         "Sports",
-        "NFL",
         "Games"
       ],
-      "volume24hr": 6852.39,
-      "liquidity": 143571.2
+      "volume24hr": 131957.28,
+      "liquidity": 3182.12
+    },
+    {
+      "market": "Monterrey Open, Qualification: En-Shuo Liang vs Sinja Kraus \u2014 Liang vs. Kraus: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-liang-kraus-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 131957.28,
+      "liquidity": 3232.64
     }
   ],
   "log": [
-    {
-      "ts": "15:30:02",
-      "text": " poll complete \u2014 1893 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:45:02",
       "text": " poll complete \u2014 1938 markets scanned, 10 flagged"
@@ -269,6 +261,10 @@
     {
       "ts": "22:45:01",
       "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:00:01",
+      "text": " poll complete \u2014 1880 markets scanned, 10 flagged"
     }
   ]
 }
