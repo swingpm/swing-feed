@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-08-22 16:00:01 UTC",
+  "lastUpdate": "2026-08-22 16:15:01 UTC",
   "swings": [
     {
-      "market": "Nottingham Forest FC vs. Leeds United FC - Exact Score \u2014 Exact Score: Nottingham Forest FC 0 - 1 Leeds United FC?",
-      "prev": 0.115,
-      "now": 0.9995,
-      "delta": 0.8845,
-      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-exact-score",
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: 2nd Half O/U 1.5",
+      "prev": 0.545,
+      "now": 0.0045,
+      "delta": -0.5405,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
@@ -14,79 +14,15 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 13366.68,
-      "liquidity": 214585.96
+      "volume24hr": 513944.62,
+      "liquidity": 3459.51
     },
     {
-      "market": "Nottingham Forest FC vs. Leeds United FC \u2014 Will Leeds United FC win on 2026-08-22?",
-      "prev": 0.125,
-      "now": 0.9995,
-      "delta": 0.8745,
-      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 120628.87,
-      "liquidity": 703049.82
-    },
-    {
-      "market": "Ipswich Town FC vs. Sunderland AFC \u2014 Will Ipswich Town FC win on 2026-08-22?",
-      "prev": 0.135,
-      "now": 0.9995,
-      "delta": 0.8645,
-      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 131155.04,
-      "liquidity": 1153606.82
-    },
-    {
-      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: Leeds United FC O/U 0.5",
-      "prev": 0.155,
-      "now": 0.9995,
-      "delta": 0.8445,
-      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 7155.61,
-      "liquidity": 184298.67
-    },
-    {
-      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: Ipswich Town FC O/U 1.5",
-      "prev": 0.17,
-      "now": 0.9955,
-      "delta": 0.8255,
-      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 396.14,
-      "liquidity": 17107.47
-    },
-    {
-      "market": "Will Nottingham Forest FC vs. Leeds United FC end in a draw?",
-      "prev": 0.715,
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Everton FC O/U 2.5",
+      "prev": 0.52,
       "now": 0.0005,
-      "delta": -0.7145,
-      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22",
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
@@ -94,15 +30,15 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 45611.73,
-      "liquidity": 552858.83
+      "volume24hr": 1285.86,
+      "liquidity": 18612.68
     },
     {
-      "market": "Will Ipswich Town FC vs. Sunderland AFC end in a draw?",
-      "prev": 0.695,
-      "now": 0.0005,
-      "delta": -0.6945,
-      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22",
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
@@ -110,15 +46,15 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 75972.39,
-      "liquidity": 474377.27
+      "volume24hr": 513944.62,
+      "liquidity": 2651.4
     },
     {
-      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: O/U 0.5",
-      "prev": 0.305,
-      "now": 0.9995,
-      "delta": 0.6945,
-      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-more-markets",
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
@@ -126,15 +62,15 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 60400.07,
-      "liquidity": 434026.76
+      "volume24hr": 513944.62,
+      "liquidity": 3451.26
     },
     {
-      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: O/U 2.5",
-      "prev": 0.325,
-      "now": 0.9995,
-      "delta": 0.6745,
-      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22-more-markets",
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Everton FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
@@ -142,15 +78,15 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 145440.17,
-      "liquidity": 435488.68
+      "volume24hr": 513944.62,
+      "liquidity": 3466.71
     },
     {
-      "market": "Nottingham Forest FC vs. Leeds United FC - Exact Score \u2014 Exact Score: Nottingham Forest FC 0 - 0 Leeds United FC?",
-      "prev": 0.67,
-      "now": 0.0005,
-      "delta": -0.6695,
-      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-exact-score",
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Crystal Palace FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
@@ -158,15 +94,73 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 13995.26,
-      "liquidity": 210628.75
+      "volume24hr": 513944.62,
+      "liquidity": 3459.51
+    },
+    {
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Crystal Palace FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 513944.62,
+      "liquidity": 3459.51
+    },
+    {
+      "market": "Racing Club de Lens vs. AJ Auxerre - More Markets \u2014 Racing Club de Lens vs. AJ Auxerre: AJ Auxerre 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/fl1-rcl-aja-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 124.04,
+      "liquidity": 3567.22
+    },
+    {
+      "market": "LoL: Fnatic vs Shifters (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "prev": 0.005,
+      "now": 0.495,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/lol-fnc-shft-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 1.0
+    },
+    {
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Crystal Palace FC O/U 0.5",
+      "prev": 0.485,
+      "now": 0.004,
+      "delta": -0.481,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 618.22,
+      "liquidity": 13902.92
     }
   ],
   "log": [
-    {
-      "ts": "08:45:01",
-      "text": " poll complete \u2014 1782 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:00:01",
       "text": " poll complete \u2014 1806 markets scanned, 10 flagged"
@@ -282,6 +276,10 @@
     {
       "ts": "16:00:01",
       "text": " poll complete \u2014 1915 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:15:01",
+      "text": " poll complete \u2014 1911 markets scanned, 10 flagged"
     }
   ]
 }
