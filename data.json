@@ -1,26 +1,41 @@
 {
-  "lastUpdate": "2026-08-22 10:30:01 UTC",
+  "lastUpdate": "2026-08-22 10:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 First Blood in Game 1?",
-      "prev": 0.51,
-      "now": 0.005,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: O/U 4.5",
+      "prev": 0.235,
+      "now": 0.9995,
+      "delta": 0.7645,
+      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 4686.85,
+      "liquidity": 59931.01
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
+      "prev": 0.73,
+      "now": 0.0055,
+      "delta": -0.7245,
+      "url": "https://polymarket.com/event/dota2-vsn2-ty-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 49.28,
-      "liquidity": 1241.66
+      "volume24hr": 99.79,
+      "liquidity": 116.01
     },
     {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Kashima Antlers 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
+      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Avispa Fukuoka O/U 1.5",
+      "prev": 0.335,
+      "now": 0.995,
+      "delta": 0.66,
       "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -28,14 +43,14 @@
         "Soccer",
         "Japan J League"
       ],
-      "volume24hr": 113359.53,
-      "liquidity": 3137.58
+      "volume24hr": 99.63,
+      "liquidity": 2241.13
     },
     {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: 2nd Half O/U 0.5",
-      "prev": 0.505,
-      "now": 0.9945,
-      "delta": 0.4895,
+      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Kashima Antlers O/U 2.5",
+      "prev": 0.395,
+      "now": 0.9995,
+      "delta": 0.6045,
       "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -43,89 +58,14 @@
         "Soccer",
         "Japan J League"
       ],
-      "volume24hr": 113359.53,
-      "liquidity": 3069.94
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Spread: Avispa Fukuoka (-1.5)",
-      "prev": 0.452,
-      "now": 0.0025,
-      "delta": -0.4495,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 1582.68,
-      "liquidity": 13879.26
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Kashima Antlers O/U 1.5",
-      "prev": 0.565,
-      "now": 0.9945,
-      "delta": 0.4295,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 107.06,
-      "liquidity": 2127.47
-    },
-    {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3172330.65,
-      "liquidity": 112.32
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka \u2014 Will Kashima Antlers win on 2026-08-22?",
-      "prev": 0.37,
-      "now": 0.765,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 84979.54,
-      "liquidity": 140429.16
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Spread: Avispa Fukuoka (-2.5)",
-      "prev": 0.387,
-      "now": 0.0025,
-      "delta": -0.3845,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 113359.53,
-      "liquidity": 11912.2
+      "volume24hr": 830.22,
+      "liquidity": 5885.61
     },
     {
       "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Avispa Fukuoka O/U 2.5",
-      "prev": 0.443,
-      "now": 0.06,
-      "delta": -0.383,
+      "prev": 0.06,
+      "now": 0.6035,
+      "delta": 0.5435,
       "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -134,13 +74,28 @@
         "Japan J League"
       ],
       "volume24hr": 249.56,
-      "liquidity": 1729.17
+      "liquidity": 271.59
     },
     {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: O/U 2.5",
-      "prev": 0.775,
+      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Odd/Even Total Kills?",
+      "prev": 0.515,
+      "now": 0.0055,
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3685005.52,
+      "liquidity": 761.26
+    },
+    {
+      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: 2nd Half O/U 1.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.2245,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +103,56 @@
         "Soccer",
         "Japan J League"
       ],
-      "volume24hr": 18654.65,
-      "liquidity": 144883.08
+      "volume24hr": 146053.61,
+      "liquidity": 5764.86
+    },
+    {
+      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Kashima Antlers 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 146053.61,
+      "liquidity": 5715.75
+    },
+    {
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 695352.21,
+      "liquidity": 806.01
+    },
+    {
+      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Avispa Fukuoka 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J League"
+      ],
+      "volume24hr": 146053.61,
+      "liquidity": 3074.99
     }
   ],
   "log": [
-    {
-      "ts": "03:15:01",
-      "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:30:02",
       "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "10:30:01",
       "text": " poll complete \u2014 1911 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:45:01",
+      "text": " poll complete \u2014 1889 markets scanned, 10 flagged"
     }
   ]
 }
