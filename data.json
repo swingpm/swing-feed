@@ -1,101 +1,11 @@
 {
-  "lastUpdate": "2026-08-22 09:45:01 UTC",
+  "lastUpdate": "2026-08-22 10:00:01 UTC",
   "swings": [
     {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Kashima Antlers 1st Half O/U 0.5",
-      "prev": 0.295,
-      "now": 0.9995,
-      "delta": 0.7045,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 47.61,
-      "liquidity": 3686.31
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs \u2014 Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
-      "prev": 0.295,
-      "now": 0.955,
-      "delta": 0.66,
-      "url": "https://polymarket.com/event/dota2-vsn2-ty-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1319180.33,
-      "liquidity": 245709.82
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs \u2014 Game Handicap: VSN (-1.5) vs Team Yandex (+1.5)",
-      "prev": 0.19,
-      "now": 0.805,
-      "delta": 0.615,
-      "url": "https://polymarket.com/event/dota2-vsn2-ty-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 98210.53,
-      "liquidity": 107918.3
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: 1st Half O/U 0.5",
-      "prev": 0.46,
-      "now": 0.9995,
-      "delta": 0.5395,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 2089.03,
-      "liquidity": 18008.23
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: 1st Half O/U 1.5",
-      "prev": 0.12,
-      "now": 0.625,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 819.85,
-      "liquidity": 361.11
-    },
-    {
-      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 27.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1284.3,
-      "liquidity": 1562.78
-    },
-    {
       "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Kashima Antlers 1st Half O/U 1.5",
-      "prev": 0.045,
-      "now": 0.5425,
-      "delta": 0.4975,
+      "prev": 0.5425,
+      "now": 0.0045,
+      "delta": -0.538,
       "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -104,13 +14,88 @@
         "Japan J League"
       ],
       "volume24hr": 109.86,
-      "liquidity": 343.15
+      "liquidity": 2333.53
     },
     {
-      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 21.5 in Game 2?",
+      "market": "Valorant: ONSIDE GAMING vs FULL SENSE (BO3) - VCT Pacific Play-In \u2014 Games Total: O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-osg-fs1-2026-08-22",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4197.25,
+      "liquidity": 52332.96
+    },
+    {
+      "market": "Valorant: ONSIDE GAMING vs FULL SENSE (BO3) - VCT Pacific Play-In \u2014 Map 2 Rounds Handicap: FULL SENSE (-2.5) vs ONSIDE GAMING (+2.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-osg-fs1-2026-08-22",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 87713.39,
+      "liquidity": 9429.49
+    },
+    {
+      "market": "Valorant: ONSIDE GAMING vs FULL SENSE (BO3) - VCT Pacific Play-In \u2014 Map Handicap: OSG (-1.5) vs FULL SENSE (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/val-osg-fs1-2026-08-22",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 87713.39,
+      "liquidity": 10692.53
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs \u2014 Game Handicap: TY (-1.5) vs TEAM VISION (+1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-vsn2-ty-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3708742.83,
+      "liquidity": 598.46
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs \u2014 Total Kills Over/Under 40.5 in Game 1?",
       "prev": 0.5,
       "now": 0.9945,
       "delta": 0.4945,
+      "url": "https://polymarket.com/event/dota2-vsn2-ty-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3708742.83,
+      "liquidity": 52.82
+    },
+    {
+      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
       "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
       "tags": [
         "Esports",
@@ -118,29 +103,44 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 2042101.92,
+      "volume24hr": 2583623.32,
       "liquidity": 708.01
     },
     {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Both Teams to Score in First Half",
-      "prev": 0.07,
-      "now": 0.56,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
+      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 33.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Japan J League"
+        "Sports"
       ],
-      "volume24hr": 195.83,
-      "liquidity": 347.53
+      "volume24hr": 2583623.32,
+      "liquidity": 708.01
+    },
+    {
+      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 36.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2583623.32,
+      "liquidity": 388.01
     },
     {
       "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Avispa Fukuoka 1st Half O/U 1.5",
-      "prev": 0.03,
-      "now": 0.4995,
-      "delta": 0.4695,
+      "prev": 0.4995,
+      "now": 0.0055,
+      "delta": -0.494,
       "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -149,14 +149,10 @@
         "Japan J League"
       ],
       "volume24hr": 298.47,
-      "liquidity": 0.03
+      "liquidity": 2293.9
     }
   ],
   "log": [
-    {
-      "ts": "02:30:01",
-      "text": " poll complete \u2014 1847 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:45:01",
       "text": " poll complete \u2014 1861 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "09:45:01",
       "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:00:01",
+      "text": " poll complete \u2014 1866 markets scanned, 10 flagged"
     }
   ]
 }
