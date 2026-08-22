@@ -1,42 +1,41 @@
 {
-  "lastUpdate": "2026-08-22 01:15:01 UTC",
+  "lastUpdate": "2026-08-22 01:30:01 UTC",
   "swings": [
     {
-      "market": "Will there be a run scored in the first inning?: Cleveland Guardians vs. Colorado Rockies",
-      "prev": 0.23,
+      "market": "Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe \u2014 Musetti vs. Tiafoe: Match O/U 23.5",
+      "prev": 0.165,
+      "now": 0.9795,
+      "delta": 0.8145,
+      "url": "https://polymarket.com/event/atp-musetti-tiafoe-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1624.34,
+      "liquidity": 374.31
+    },
+    {
+      "market": "New York Mets vs. Chicago White Sox \u2014 1st 5 Innings Spread: New York Mets (-1.5)",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.7695,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 578.98,
-      "liquidity": 2118.1
+      "volume24hr": 20.0,
+      "liquidity": 1160.55
     },
     {
-      "market": "Toronto Blue Jays vs. New York Yankees: 1st 5 Innings O/U 5.5",
+      "market": "New York Mets vs. Chicago White Sox \u2014 1st 5 Innings Spread: Chicago White Sox (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 29.27,
-      "liquidity": 1322.37
-    },
-    {
-      "market": "Toronto Blue Jays vs. New York Yankees: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-21",
+      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
       "tags": [
         "Sports",
         "Games",
@@ -44,114 +43,115 @@
         "baseball"
       ],
       "volume24hr": 5.0,
-      "liquidity": 1285.21
+      "liquidity": 1174.97
     },
     {
-      "market": "San Francisco Giants vs. Boston Red Sox \u2014 1st 5 Innings Spread: San Francisco Giants (-1.5)",
+      "market": "New York Mets vs. Chicago White Sox: 1st 5 Innings O/U 3.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 156.47,
-      "liquidity": 1575.78
+      "volume24hr": 19.99,
+      "liquidity": 1281.54
     },
     {
-      "market": "San Francisco Giants vs. Boston Red Sox \u2014 1st 5 Innings Spread: Boston Red Sox (-1.5)",
+      "market": "New York Mets vs. Chicago White Sox: 1st 5 Innings O/U 4.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 12.84,
-      "liquidity": 1574.74
+      "volume24hr": 970.02,
+      "liquidity": 2169.54
     },
     {
-      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Quebec City: Completed Match: Taro Daniel vs Jacob Fearnley",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 148606.12,
-      "liquidity": 1584.63
-    },
-    {
-      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Taro Daniel vs. Jacob Fearnley: Total Sets O/U 2.5",
+      "market": "New York Mets vs. Chicago White Sox: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
+      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 6.31,
-      "liquidity": 5631.76
+      "volume24hr": 15.0,
+      "liquidity": 1446.49
     },
     {
-      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Set Handicap: Daniel (-1.5) vs Fearnley (+1.5)",
+      "market": "New York Mets vs. Chicago White Sox: 1st 5 Innings O/U 6.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 20.0,
-      "liquidity": 4295.51
+      "volume24hr": 377048.47,
+      "liquidity": 1284.49
     },
     {
-      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Daniel vs. Fearnley: Match O/U 21.5",
+      "market": "Golden State Valkyries vs. Chicago Sky \u2014 Kamilla Cardoso: Points O/U 13.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-gsv-chi-2026-08-21",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 10.37,
-      "liquidity": 5639.04
+      "volume24hr": 18.93,
+      "liquidity": 407.29
     },
     {
-      "market": "Quebec City: Taro Daniel vs Jacob Fearnley \u2014 Daniel vs. Fearnley: Set 2 Games O/U 8.5",
+      "market": "Golden State Valkyries vs. Chicago Sky \u2014 Kamilla Cardoso: Rebounds O/U 8.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-daniel-fearnle-2026-08-21",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-gsv-chi-2026-08-21",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 148606.12,
-      "liquidity": 3055.44
+      "volume24hr": 239.43,
+      "liquidity": 100.01
+    },
+    {
+      "market": "Golden State Valkyries vs. Chicago Sky \u2014 Kamilla Cardoso: Assists O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-gsv-chi-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 431143.71,
+      "liquidity": 101.46
     }
   ],
   "log": [
-    {
-      "ts": "18:00:01",
-      "text": " poll complete \u2014 1911 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:15:01",
       "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
@@ -267,6 +267,10 @@
     {
       "ts": "01:15:01",
       "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:30:01",
+      "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
     }
   ]
 }
