@@ -1,128 +1,53 @@
 {
-  "lastUpdate": "2026-08-22 02:15:01 UTC",
+  "lastUpdate": "2026-08-22 02:30:01 UTC",
   "swings": [
     {
-      "market": "Leones Futbol Club vs. CSD Independiente del Valle \u2014 Will CSD Independiente del Valle win on 2026-08-21?",
-      "prev": 0.0185,
-      "now": 0.979,
-      "delta": 0.9605,
-      "url": "https://polymarket.com/event/ecu1-leo-ind-2026-08-21",
+      "market": "New York Mets vs. Chicago White Sox \u2014 Spread: Chicago White Sox (-1.5)",
+      "prev": 0.0665,
+      "now": 0.8945,
+      "delta": 0.828,
+      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-21",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "LigaPro Primera A"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 34398.58,
-      "liquidity": 142510.82
+      "volume24hr": 10546.44,
+      "liquidity": 1577.85
     },
     {
-      "market": "Leones Futbol Club vs. CSD Independiente del Valle \u2014 Will Leones Futbol Club win on 2026-08-21?",
-      "prev": 0.805,
-      "now": 0.0055,
-      "delta": -0.7995,
-      "url": "https://polymarket.com/event/ecu1-leo-ind-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "LigaPro Primera A"
-      ],
-      "volume24hr": 93269.52,
-      "liquidity": 150958.12
-    },
-    {
-      "market": "Washington Nationals vs. Miami Marlins: O/U 3.5",
-      "prev": 0.465,
+      "market": "Will there be a run scored in the first inning?: Pittsburgh Pirates vs. Los Angeles Dodgers",
+      "prev": 0.445,
       "now": 0.9995,
-      "delta": 0.5345,
-      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-21",
+      "delta": 0.5545,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 895.52,
-      "liquidity": 9880.91
+      "volume24hr": 41298.35,
+      "liquidity": 27748.83
     },
     {
-      "market": "Will the game go to extra innings?: San Francisco Giants vs. Boston Red Sox",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
+      "market": "Will there be a run scored in the first inning?: Chicago Cubs vs. Seattle Mariners",
+      "prev": 0.455,
+      "now": 0.9995,
+      "delta": 0.5445,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 444314.72,
-      "liquidity": 1491.37
+      "volume24hr": 14276.29,
+      "liquidity": 35570.87
     },
     {
-      "market": "San Francisco Giants vs. Boston Red Sox \u2014 Spread: Boston Red Sox (-5.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 2407.17
-    },
-    {
-      "market": "San Francisco Giants vs. Boston Red Sox \u2014 Spread: Boston Red Sox (-4.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 2756.15
-    },
-    {
-      "market": "San Francisco Giants vs. Boston Red Sox: O/U 13.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 44.41,
-      "liquidity": 2625.08
-    },
-    {
-      "market": "San Francisco Giants vs. Boston Red Sox: O/U 12.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 15.63,
-      "liquidity": 2592.35
-    },
-    {
-      "market": "Cleveland Guardians vs. Colorado Rockies: 1st 5 Innings O/U 4.5",
+      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 1st 5 Innings Spread: Cleveland Guardians (-1.5)",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
@@ -133,30 +58,98 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 1452.83
+      "volume24hr": 25.81,
+      "liquidity": 1516.11
     },
     {
-      "market": "Will the game go to extra innings?: Toronto Blue Jays vs. New York Yankees",
+      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 1st 5 Innings Spread: Colorado Rockies (-1.5)",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-21",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1014088.57,
-      "liquidity": 1409.19
+      "volume24hr": 5.12,
+      "liquidity": 1722.58
+    },
+    {
+      "market": "Cleveland Guardians vs. Colorado Rockies: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 18.0,
+      "liquidity": 1569.66
+    },
+    {
+      "market": "Cleveland Guardians vs. Colorado Rockies: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 1696.81
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Gauff vs. Kostyuk: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 313560.04,
+      "liquidity": 5733.87
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Gauff vs. Kostyuk: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 313560.04,
+      "liquidity": 5834.85
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Gauff vs. Kostyuk: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 313560.04,
+      "liquidity": 5834.85
     }
   ],
   "log": [
-    {
-      "ts": "19:00:01",
-      "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:15:01",
       "text": " poll complete \u2014 1863 markets scanned, 10 flagged"
@@ -272,6 +265,10 @@
     {
       "ts": "02:15:01",
       "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:30:01",
+      "text": " poll complete \u2014 1847 markets scanned, 10 flagged"
     }
   ]
 }
