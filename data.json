@@ -1,45 +1,146 @@
 {
-  "lastUpdate": "2026-08-22 07:00:01 UTC",
+  "lastUpdate": "2026-08-22 07:15:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Hong Kong on August 22? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 22?",
-      "prev": 0.275,
-      "now": 0.96,
-      "delta": 0.685,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-22-2026",
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 23717.97,
-      "liquidity": 279.35
+      "volume24hr": 3218621.82,
+      "liquidity": 806.6
     },
     {
-      "market": "Highest temperature in Hong Kong on August 22? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 22?",
-      "prev": 0.665,
-      "now": 0.055,
-      "delta": -0.61,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-22-2026",
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 13170.94,
-      "liquidity": 430.95
+      "volume24hr": 3218621.82,
+      "liquidity": 806.61
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3218621.82,
+      "liquidity": 806.6
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3218621.82,
+      "liquidity": 1275.98
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 40.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3218621.82,
+      "liquidity": 764.66
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Ends in Daytime?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3218621.82,
+      "liquidity": 627.17
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Both Teams Beat Roshan?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3218621.82,
+      "liquidity": 283.39
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3218621.82,
+      "liquidity": 681.17
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3218621.82,
+      "liquidity": 285.08
     },
     {
       "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.225,
-      "now": 0.5,
-      "delta": 0.275,
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
@@ -48,119 +149,10 @@
         "Sports"
       ],
       "volume24hr": 518.0,
-      "liquidity": 391404.35
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
-      "prev": 0.515,
-      "now": 0.28,
-      "delta": -0.235,
-      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 157.41,
-      "liquidity": 0.2
-    },
-    {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 1?",
-      "prev": 0.46,
-      "now": 0.24,
-      "delta": -0.22,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1134.13,
-      "liquidity": 4953.94
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.29,
-      "now": 0.5,
-      "delta": 0.21,
-      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3010852.26,
-      "liquidity": 391404.35
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: RCD Espanyol de Barcelona 2nd Half O/U 0.5",
-      "prev": 0.59,
-      "now": 0.39,
-      "delta": -0.2,
-      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 61980.48,
-      "liquidity": 625.83
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
-      "prev": 0.31,
-      "now": 0.5,
-      "delta": 0.19,
-      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3010852.26,
-      "liquidity": 391404.35
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 2: Both Teams Beat Roshan?",
-      "prev": 0.335,
-      "now": 0.5,
-      "delta": 0.165,
-      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3010852.26,
-      "liquidity": 391404.35
-    },
-    {
-      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 1?",
-      "prev": 0.425,
-      "now": 0.525,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 248086.04,
-      "liquidity": 24.12
+      "liquidity": 529.82
     }
   ],
   "log": [
-    {
-      "ts": "23:45:02",
-      "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:00:01",
       "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
@@ -276,6 +268,10 @@
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1796 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:15:01",
+      "text": " poll complete \u2014 1781 markets scanned, 10 flagged"
     }
   ]
 }
