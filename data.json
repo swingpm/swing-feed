@@ -1,27 +1,11 @@
 {
-  "lastUpdate": "2026-08-22 06:00:02 UTC",
+  "lastUpdate": "2026-08-22 06:15:01 UTC",
   "swings": [
     {
-      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC 2nd Half O/U 1.5",
-      "prev": 0.405,
-      "now": 0.065,
-      "delta": -0.34,
-      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 207442.29,
-      "liquidity": 517.39
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner",
-      "prev": 0.315,
-      "now": 0.015,
-      "delta": -0.3,
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
@@ -29,14 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1014148.23,
-      "liquidity": 234646.37
+      "volume24hr": 195.15,
+      "liquidity": 814.51
     },
     {
       "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.225,
-      "now": 0.5,
-      "delta": 0.275,
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
@@ -45,13 +29,13 @@
         "Sports"
       ],
       "volume24hr": 525.02,
-      "liquidity": 794255.23
+      "liquidity": 1227.01
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
-      "prev": 0.29,
-      "now": 0.5,
-      "delta": 0.21,
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
@@ -59,14 +43,74 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1559437.04,
-      "liquidity": 794255.23
+      "volume24hr": 5.0,
+      "liquidity": 841.52
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 923.72
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 866.25
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 40.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 843.35
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Ends in Daytime?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 65.0,
+      "liquidity": 681.11
     },
     {
       "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
-      "prev": 0.31,
-      "now": 0.5,
-      "delta": 0.19,
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
@@ -74,14 +118,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1559437.04,
-      "liquidity": 794255.23
+      "volume24hr": 1831673.13,
+      "liquidity": 732.81
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Both Teams Beat Roshan?",
-      "prev": 0.335,
-      "now": 0.505,
-      "delta": 0.17,
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
@@ -89,14 +133,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1559437.04,
-      "liquidity": 3.84
+      "volume24hr": 1831673.13,
+      "liquidity": 729.7
     },
     {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
-      "prev": 0.64,
-      "now": 0.5,
-      "delta": -0.14,
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 1?",
+      "prev": 0.495,
+      "now": 0.0005,
+      "delta": -0.4945,
       "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
         "Esports",
@@ -104,61 +148,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 96.58,
-      "liquidity": 794255.23
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs",
-      "prev": 0.315,
-      "now": 0.185,
-      "delta": -0.13,
-      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 497307.38,
-      "liquidity": 152740.07
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: BB (-1.5) vs Nigma Galaxy (+1.5)",
-      "prev": 0.415,
-      "now": 0.545,
-      "delta": 0.13,
-      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 24157.47,
-      "liquidity": 113083.97
-    },
-    {
-      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC 2nd Half O/U 0.5",
-      "prev": 0.275,
-      "now": 0.4,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 207442.29,
-      "liquidity": 2592.35
+      "volume24hr": 5.0,
+      "liquidity": 814.56
     }
   ],
   "log": [
-    {
-      "ts": "22:45:02",
-      "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:00:01",
       "text": " poll complete \u2014 1854 markets scanned, 10 flagged"
@@ -274,6 +268,10 @@
     {
       "ts": "06:00:02",
       "text": " poll complete \u2014 1741 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:15:01",
+      "text": " poll complete \u2014 1749 markets scanned, 10 flagged"
     }
   ]
 }
