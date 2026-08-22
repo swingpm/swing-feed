@@ -1,133 +1,148 @@
 {
-  "lastUpdate": "2026-08-22 17:30:02 UTC",
+  "lastUpdate": "2026-08-22 17:45:01 UTC",
   "swings": [
     {
-      "market": "\u00c7aykur Rizespor vs. Samsunspor - More Markets \u2014 \u00c7aykur Rizespor vs. Samsunspor: Samsunspor O/U 1.5",
-      "prev": 0.35,
-      "now": 0.9945,
-      "delta": 0.6445,
-      "url": "https://polymarket.com/event/tur-riz-sam-2026-08-22-more-markets",
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 LoL: SK Gaming vs Movistar KOI - Game 1 Winner",
+      "prev": 0.225,
+      "now": 0.9995,
+      "delta": 0.7745,
+      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 211066.78,
+      "liquidity": 633335.52
+    },
+    {
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Game Handicap: MKOI (-1.5) vs SK Gaming (+1.5)",
+      "prev": 0.57,
+      "now": 0.0005,
+      "delta": -0.5695,
+      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 74845.73,
+      "liquidity": 351468.49
+    },
+    {
+      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: Brentford FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "S\u00fcper Lig"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 93865.69,
-      "liquidity": 596.2
+      "volume24hr": 979574.73,
+      "liquidity": 3407.41
     },
     {
-      "market": "\u00c7aykur Rizespor vs. Samsunspor - More Markets \u2014 \u00c7aykur Rizespor vs. Samsunspor: Samsunspor 2nd Half O/U 0.5",
-      "prev": 0.45,
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.5,
       "now": 0.995,
-      "delta": 0.545,
-      "url": "https://polymarket.com/event/tur-riz-sam-2026-08-22-more-markets",
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "S\u00fcper Lig"
+        "Sports"
       ],
-      "volume24hr": 93865.69,
-      "liquidity": 1247.99
+      "volume24hr": 17.85,
+      "liquidity": 13.5
     },
     {
-      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: Both Teams to Score in First Half",
-      "prev": 0.525,
-      "now": 0.0005,
-      "delta": -0.5245,
-      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 1002.74,
-      "liquidity": 17849.98
-    },
-    {
-      "market": "Racing Club de Lens vs. AJ Auxerre - More Markets \u2014 Racing Club de Lens vs. AJ Auxerre: AJ Auxerre O/U 2.5",
-      "prev": 0.5195,
-      "now": 0.0005,
-      "delta": -0.519,
-      "url": "https://polymarket.com/event/fl1-rcl-aja-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 190.97,
-      "liquidity": 19023.64
-    },
-    {
-      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: Tottenham Hotspur FC 1st Half O/U 0.5",
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 33.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
+        "Sports"
       ],
-      "volume24hr": 115.76,
-      "liquidity": 1504.37
+      "volume24hr": 460434.45,
+      "liquidity": 12.7
     },
     {
-      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: Tottenham Hotspur FC 1st Half O/U 1.5",
+      "market": "FC Internazionale Milano vs. AC Monza - More Markets \u2014 FC Internazionale Milano vs. AC Monza: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 226.87,
-      "liquidity": 1517.03
-    },
-    {
-      "market": "Udinese Calcio vs. Como 1907 - More Markets \u2014 Udinese Calcio vs. Como 1907: Como 1907 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sea-udi-com-2026-08-22-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/sea-int-mon-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "sea"
       ],
-      "volume24hr": 20.0,
-      "liquidity": 2937.48
+      "volume24hr": 391457.09,
+      "liquidity": 2991.56
     },
     {
-      "market": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Kenta Miyoshi \u2014 Winston-Salem Open, Qualification: Completed Match: Pierre-Hugues Herbert vs Kenta Miyoshi",
+      "market": "FC Internazionale Milano vs. AC Monza - More Markets \u2014 FC Internazionale Milano vs. AC Monza: FC Internazionale Milano 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-herbert-miyoshi-2026-08-22",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/sea-int-mon-2026-08-22-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "sea"
       ],
-      "volume24hr": 137900.72,
-      "liquidity": 1982.46
+      "volume24hr": 391457.09,
+      "liquidity": 2991.0
     },
     {
-      "market": "\u00c7aykur Rizespor vs. Samsunspor - More Markets \u2014 \u00c7aykur Rizespor vs. Samsunspor: 2nd Half O/U 0.5",
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
+      "now": 0.99,
+      "delta": 0.49,
+      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 594.9,
+      "liquidity": 6.58
+    },
+    {
+      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: 2nd Half O/U 2.5",
+      "prev": 0.25,
+      "now": 0.73,
+      "delta": 0.48,
+      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 1.23,
+      "liquidity": 20.19
+    },
+    {
+      "market": "\u00c7aykur Rizespor vs. Samsunspor - More Markets \u2014 \u00c7aykur Rizespor vs. Samsunspor: \u00c7aykur Rizespor O/U 2.5",
+      "prev": 0.025,
+      "now": 0.4955,
+      "delta": 0.4705,
       "url": "https://polymarket.com/event/tur-riz-sam-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -135,30 +150,11 @@
         "Soccer",
         "S\u00fcper Lig"
       ],
-      "volume24hr": 93865.69,
-      "liquidity": 1248.0
-    },
-    {
-      "market": "Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Ends in Daytime?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/dota2-boombo-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 6658291.43,
-      "liquidity": 688.92
+      "volume24hr": 63.22,
+      "liquidity": 37.78
     }
   ],
   "log": [
-    {
-      "ts": "10:15:01",
-      "text": " poll complete \u2014 1859 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:30:01",
       "text": " poll complete \u2014 1911 markets scanned, 10 flagged"
@@ -274,6 +270,10 @@
     {
       "ts": "17:30:02",
       "text": " poll complete \u2014 1977 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:45:01",
+      "text": " poll complete \u2014 1921 markets scanned, 10 flagged"
     }
   ]
 }
