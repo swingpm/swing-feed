@@ -1,152 +1,156 @@
 {
-  "lastUpdate": "2026-08-22 05:00:01 UTC",
+  "lastUpdate": "2026-08-22 05:15:01 UTC",
   "swings": [
     {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Cancun: Completed Match: Sebastian Baez vs Coleman Wong",
-      "prev": 0.5,
+      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: Deportivo Toluca FC 2nd Half O/U 1.5",
+      "prev": 0.07,
+      "now": 0.9975,
+      "delta": 0.9275,
+      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 31.0,
+      "liquidity": 3061.96
+    },
+    {
+      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC \u2014 Will Deportivo Toluca FC win on 2026-08-22?",
+      "prev": 0.105,
+      "now": 0.875,
+      "delta": 0.77,
+      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 135495.47,
+      "liquidity": 93868.48
+    },
+    {
+      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: 2nd Half O/U 2.5",
+      "prev": 0.37,
+      "now": 0.995,
+      "delta": 0.625,
+      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 99769.71,
+      "liquidity": 3059.79
+    },
+    {
+      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: O/U 2.5",
+      "prev": 0.385,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "delta": 0.6145,
+      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 1050.0,
-      "liquidity": 3971.5
+      "volume24hr": 11447.2,
+      "liquidity": 187515.31
     },
     {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 4.92,
-      "liquidity": 5617.21
-    },
-    {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Set 2 Winner: Baez vs Wong",
-      "prev": 0.5,
+      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: Deportivo Toluca FC O/U 1.5",
+      "prev": 0.4955,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "delta": 0.504,
+      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 140887.49,
-      "liquidity": 3480.85
+      "volume24hr": 743.19,
+      "liquidity": 15798.99
     },
     {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Sebastian Baez vs. Coleman Wong: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "market": "Will Quer\u00e9taro FC vs. Deportivo Toluca FC end in a draw?",
+      "prev": 0.625,
+      "now": 0.13,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 929.88,
-      "liquidity": 5793.23
+      "volume24hr": 15786.25,
+      "liquidity": 28961.18
     },
     {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Set Handicap: Baez (-1.5) vs Wong (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "market": "Chicago Cubs vs. Seattle Mariners: O/U 13.5",
+      "prev": 0.49,
+      "now": 0.0045,
+      "delta": -0.4855,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1587.76,
-      "liquidity": 11294.4
+      "volume24hr": 727428.93,
+      "liquidity": 2819.73
     },
     {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
+      "prev": 0.075,
+      "now": 0.495,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 140887.49,
-      "liquidity": 3057.62
+      "volume24hr": 525.02,
+      "liquidity": 3.84
     },
     {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Match O/U 22.5",
+      "market": "Packers vs. Broncos \u2014 Packers Team Total: O/U 17.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/nfl-gb-den-2026-08-22",
       "tags": [
-        "Tennis",
         "Sports",
+        "NFL",
         "Games"
       ],
-      "volume24hr": 1156.58,
-      "liquidity": 5590.13
+      "volume24hr": 133461.68,
+      "liquidity": 78.57
     },
     {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Set 2 Games O/U 9.5",
+      "market": "Packers vs. Broncos: 1H O/U 22.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/nfl-gb-den-2026-08-22",
       "tags": [
-        "Tennis",
         "Sports",
+        "NFL",
         "Games"
       ],
-      "volume24hr": 140887.49,
-      "liquidity": 3045.25
-    },
-    {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 140887.49,
-      "liquidity": 5591.12
-    },
-    {
-      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 140887.49,
-      "liquidity": 3045.25
+      "volume24hr": 133461.68,
+      "liquidity": 813.53
     }
   ],
   "log": [
-    {
-      "ts": "21:45:01",
-      "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:00:02",
       "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
@@ -262,6 +266,10 @@
     {
       "ts": "05:00:01",
       "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:15:01",
+      "text": " poll complete \u2014 1803 markets scanned, 10 flagged"
     }
   ]
 }
