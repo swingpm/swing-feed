@@ -1,166 +1,158 @@
 {
-  "lastUpdate": "2026-08-22 08:15:02 UTC",
+  "lastUpdate": "2026-08-22 08:30:02 UTC",
   "swings": [
     {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: O/U 4.5",
-      "prev": 0.13,
-      "now": 0.9995,
-      "delta": 0.8695,
-      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J2 League"
-      ],
-      "volume24hr": 42469.21,
-      "liquidity": 47822.81
-    },
-    {
-      "market": "Highest temperature in Shanghai on August 22? \u2014 Will the highest temperature in Shanghai be 31\u00b0C on August 22?",
-      "prev": 0.16,
-      "now": 0.975,
-      "delta": 0.815,
-      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-22-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Shanghai",
-        "Highest temperature"
-      ],
-      "volume24hr": 12973.41,
-      "liquidity": 637.15
-    },
-    {
-      "market": "Highest temperature in Shanghai on August 22? \u2014 Will the highest temperature in Shanghai be 30\u00b0C on August 22?",
-      "prev": 0.765,
-      "now": 0.0005,
-      "delta": -0.7645,
-      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-22-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Shanghai",
-        "Highest temperature"
-      ],
-      "volume24hr": 15311.75,
-      "liquidity": 27011.45
-    },
-    {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Both Teams to Score",
-      "prev": 0.425,
-      "now": 0.9995,
-      "delta": 0.5745,
-      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J2 League"
-      ],
-      "volume24hr": 3028.96,
-      "liquidity": 28630.7
-    },
-    {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Hokkaid\u014d Consadole Sapporo O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J2 League"
-      ],
-      "volume24hr": 29.23,
-      "liquidity": 3248.57
-    },
-    {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Hokkaid\u014d Consadole Sapporo O/U 1.5",
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game Handicap: NGX (-1.5) vs BoomBoys (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "Japan J2 League"
+        "Sports"
       ],
-      "volume24hr": 8.44,
-      "liquidity": 2937.26
+      "volume24hr": 5260509.56,
+      "liquidity": 17527.15
     },
     {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Both Teams to Score in Second Half",
+      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 1?",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 55.99,
+      "liquidity": 861.27
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Ends in Daytime?",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "Japan J2 League"
+        "Sports"
       ],
-      "volume24hr": 111056.57,
-      "liquidity": 1361.92
+      "volume24hr": 5260509.56,
+      "liquidity": 641.17
     },
     {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J2 League"
-      ],
-      "volume24hr": 111056.57,
-      "liquidity": 1371.61
-    },
-    {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Hokkaid\u014d Consadole Sapporo 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J2 League"
-      ],
-      "volume24hr": 111056.57,
-      "liquidity": 1385.61
-    },
-    {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Hokkaid\u014d Consadole Sapporo 2nd Half O/U 1.5",
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Any Player Ultra Kill?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "Japan J2 League"
+        "Sports"
       ],
-      "volume24hr": 111056.57,
-      "liquidity": 1347.01
+      "volume24hr": 5260509.56,
+      "liquidity": 711.79
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5260509.56,
+      "liquidity": 699.73
+    },
+    {
+      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 79.28,
+      "liquidity": 1270.19
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Both Teams Beat Roshan?",
+      "prev": 0.495,
+      "now": 0.005,
+      "delta": -0.49,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5260509.56,
+      "liquidity": 696.04
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 3: Both Teams Destroy Barracks?",
+      "prev": 0.495,
+      "now": 0.005,
+      "delta": -0.49,
+      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5260509.56,
+      "liquidity": 696.04
+    },
+    {
+      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 LoL: Dplus KIA vs Gen.G - Game 1 Winner",
+      "prev": 0.365,
+      "now": 0.085,
+      "delta": -0.28,
+      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 299734.53,
+      "liquidity": 191699.64
+    },
+    {
+      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "prev": 0.24,
+      "now": 0.52,
+      "delta": 0.28,
+      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3456.61,
+      "liquidity": 2.8
     }
   ],
   "log": [
-    {
-      "ts": "01:00:02",
-      "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:15:01",
       "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
@@ -276,6 +268,10 @@
     {
       "ts": "08:15:02",
       "text": " poll complete \u2014 1813 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:30:02",
+      "text": " poll complete \u2014 1808 markets scanned, 10 flagged"
     }
   ]
 }
