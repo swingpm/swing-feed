@@ -1,127 +1,57 @@
 {
-  "lastUpdate": "2026-08-22 18:15:01 UTC",
+  "lastUpdate": "2026-08-22 18:30:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 26.5",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/val-vit-ff3-2026-08-22",
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 LoL: SK Gaming vs Movistar KOI - Game 2 Winner",
+      "prev": 0.045,
+      "now": 0.9995,
+      "delta": 0.9545,
+      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
       "tags": [
         "Esports",
-        "Valorant",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 143166.54,
-      "liquidity": 0.0
+      "volume24hr": 190408.54,
+      "liquidity": 475502.21
     },
     {
-      "market": "Quebec City: Hugo Gaston vs Luca Van Assche \u2014 Set 1 Winner: Gaston vs Assche",
-      "prev": 0.5,
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Game Handicap: SK (-1.5) vs Movistar KOI (+1.5)",
+      "prev": 0.055,
+      "now": 0.65,
+      "delta": 0.595,
+      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 866703.33,
+      "liquidity": 505.83
+    },
+    {
+      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: Both Teams to Score in Second Half",
+      "prev": 0.58,
       "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-gaston-assche-2026-08-22",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1814.0,
-      "liquidity": 9427.59
-    },
-    {
-      "market": "Quebec City: Hugo Gaston vs Luca Van Assche \u2014 Gaston vs. Assche: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-gaston-assche-2026-08-22",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 252346.55,
-      "liquidity": 5532.73
-    },
-    {
-      "market": "Quebec City: Hugo Gaston vs Luca Van Assche \u2014 Gaston vs. Assche: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-gaston-assche-2026-08-22",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 252346.55,
-      "liquidity": 5532.73
-    },
-    {
-      "market": "Quebec City: Hugo Gaston vs Luca Van Assche \u2014 Gaston vs. Assche: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-gaston-assche-2026-08-22",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 252346.55,
-      "liquidity": 5537.68
-    },
-    {
-      "market": "Valencia CF vs. RC Celta de Vigo - More Markets \u2014 Valencia CF vs. RC Celta de Vigo: 1st Half O/U 0.5",
-      "prev": 0.7,
-      "now": 0.245,
-      "delta": -0.455,
-      "url": "https://polymarket.com/event/lal-val-cel-2026-08-22-more-markets",
+      "delta": -0.575,
+      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 2373.49,
-      "liquidity": 9314.71
+      "volume24hr": 1304831.26,
+      "liquidity": 5538.74
     },
     {
-      "market": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 24.5",
+      "market": "Will there be a run scored in the first inning?: Atlanta Braves vs. Milwaukee Brewers",
       "prev": 0.45,
-      "now": 0.005,
-      "delta": -0.445,
-      "url": "https://polymarket.com/event/val-vit-ff3-2026-08-22",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 143166.54,
-      "liquidity": 6.6
-    },
-    {
-      "market": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 25.5",
-      "prev": 0.45,
-      "now": 0.005,
-      "delta": -0.445,
-      "url": "https://polymarket.com/event/val-vit-ff3-2026-08-22",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 143166.54,
-      "liquidity": 6.25
-    },
-    {
-      "market": "Will the game go to extra innings?: Atlanta Braves vs. Milwaukee Brewers",
-      "prev": 0.09,
-      "now": 0.5,
-      "delta": 0.41,
+      "now": 0.9995,
+      "delta": 0.5495,
       "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-22",
       "tags": [
         "Sports",
@@ -129,30 +59,103 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 10.87,
-      "liquidity": 1432082.11
+      "volume24hr": 16102.93,
+      "liquidity": 25951.31
     },
     {
-      "market": "LoL: Leviatan Esports vs Vivo Keyd Stars (BO3) - CBLOL Regular Season \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-lev-vks-2026-08-22",
+      "market": "Valencia CF vs. RC Celta de Vigo - More Markets \u2014 Valencia CF vs. RC Celta de Vigo: Valencia CF 1st Half O/U 0.5",
+      "prev": 0.53,
+      "now": 0.0055,
+      "delta": -0.5245,
+      "url": "https://polymarket.com/event/lal-val-cel-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 362187.52,
-      "liquidity": 441.92
+      "volume24hr": 108401.44,
+      "liquidity": 2875.19
+    },
+    {
+      "market": "Valencia CF vs. RC Celta de Vigo - More Markets \u2014 Valencia CF vs. RC Celta de Vigo: RC Celta de Vigo 1st Half O/U 0.5",
+      "prev": 0.53,
+      "now": 0.0055,
+      "delta": -0.5245,
+      "url": "https://polymarket.com/event/lal-val-cel-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 62.7,
+      "liquidity": 2905.09
+    },
+    {
+      "market": "FC Internazionale Milano vs. AC Monza - More Markets \u2014 FC Internazionale Milano vs. AC Monza: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/sea-int-mon-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 482097.59,
+      "liquidity": 3400.32
+    },
+    {
+      "market": "Valencia CF vs. RC Celta de Vigo - More Markets \u2014 Valencia CF vs. RC Celta de Vigo: 1st Half O/U 2.5",
+      "prev": 0.4995,
+      "now": 0.0005,
+      "delta": -0.499,
+      "url": "https://polymarket.com/event/lal-val-cel-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 32.2,
+      "liquidity": 8268.39
+    },
+    {
+      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 1.23,
+      "liquidity": 5451.89
+    },
+    {
+      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: Tottenham Hotspur FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 1304831.26,
+      "liquidity": 5854.3
     }
   ],
   "log": [
-    {
-      "ts": "11:00:01",
-      "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:15:01",
       "text": " poll complete \u2014 1934 markets scanned, 10 flagged"
@@ -268,6 +271,10 @@
     {
       "ts": "18:15:01",
       "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:30:01",
+      "text": " poll complete \u2014 1885 markets scanned, 10 flagged"
     }
   ]
 }
