@@ -1,54 +1,54 @@
 {
-  "lastUpdate": "2026-08-22 22:30:01 UTC",
+  "lastUpdate": "2026-08-22 22:45:01 UTC",
   "swings": [
     {
-      "market": "Will there be a run scored in the first inning?: St. Louis Cardinals vs. Philadelphia Phillies",
-      "prev": 0.32,
-      "now": 0.9995,
-      "delta": 0.6795,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-22",
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Match O/U 22.5",
+      "prev": 0.895,
+      "now": 0.5,
+      "delta": -0.395,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
       "tags": [
+        "Tennis",
         "Sports",
+        "Games"
+      ],
+      "volume24hr": 22.0,
+      "liquidity": 461709.21
+    },
+    {
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Match O/U 23.5",
+      "prev": 0.895,
+      "now": 0.5,
+      "delta": -0.395,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 636.52,
+      "liquidity": 461709.21
+    },
+    {
+      "market": "Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map Handicap: G2 (-1.5) vs BESTIA (+1.5)",
+      "prev": 0.895,
+      "now": 0.5,
+      "delta": -0.395,
+      "url": "https://polymarket.com/event/val-bst1-g21-2026-08-22",
+      "tags": [
+        "Esports",
+        "Valorant",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 842.21,
-      "liquidity": 5398.79
-    },
-    {
-      "market": "UFC Fight Night: Gauge Young vs. Stan Dorsainvil (Lightweight, Prelims) \u2014 Will Gauge Young win by KO or TKO?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/ufc-gau-stador-2026-08-22",
-      "tags": [
-        "Sports",
-        "UFC",
-        "Games"
-      ],
-      "volume24hr": 222.82,
-      "liquidity": 2330.85
-    },
-    {
-      "market": "UFC Fight Night: Gauge Young vs. Stan Dorsainvil (Lightweight, Prelims)",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/ufc-gau-stador-2026-08-22",
-      "tags": [
-        "Sports",
-        "UFC",
-        "Games"
-      ],
-      "volume24hr": 520069.72,
-      "liquidity": 430135.31
+      "volume24hr": 3632.05,
+      "liquidity": 173054.78
     },
     {
       "market": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.26,
-      "now": 0.64,
-      "delta": 0.38,
+      "prev": 0.64,
+      "now": 0.9995,
+      "delta": 0.3595,
       "url": "https://polymarket.com/event/lol-dsg-dig-2026-08-22",
       "tags": [
         "Esports",
@@ -56,74 +56,59 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 6671.15,
-      "liquidity": 8.34
+      "volume24hr": 6748.95,
+      "liquidity": 39390.06
     },
     {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: Philadelphia Phillies (-1.5)",
-      "prev": 0.405,
-      "now": 0.765,
-      "delta": 0.36,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 23.95
-    },
-    {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5",
-      "prev": 0.48,
-      "now": 0.81,
-      "delta": 0.33,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 44.0,
-      "liquidity": 1376.19
-    },
-    {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: St. Louis Cardinals (-1.5)",
-      "prev": 0.19,
+      "market": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.235,
       "now": 0.5,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-22",
+      "delta": 0.265,
+      "url": "https://polymarket.com/event/lol-dsg-dig-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 409256.22,
+      "liquidity": 1467356.48
+    },
+    {
+      "market": "Washington Nationals vs. Miami Marlins: O/U 6.5",
+      "prev": 0.68,
+      "now": 0.42,
+      "delta": -0.26,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-22",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 9.0,
-      "liquidity": 370671.73
+      "volume24hr": 2167.96,
+      "liquidity": 19563.97
     },
     {
-      "market": "Indiana Fever vs. New York Liberty \u2014 Rebecca Allen: Points O/U 8.5",
-      "prev": 0.2,
+      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Game 3: Odd/Even Total Kills?",
+      "prev": 0.255,
       "now": 0.5,
-      "delta": 0.3,
-      "url": "https://polymarket.com/event/wnba-ind-nyl-2026-08-22",
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Sports"
       ],
-      "volume24hr": 233347.79,
-      "liquidity": 6.12
+      "volume24hr": 1175324.49,
+      "liquidity": 0.0
     },
     {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 3.5",
-      "prev": 0.625,
-      "now": 0.915,
-      "delta": 0.29,
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 11.5",
+      "prev": 0.635,
+      "now": 0.39,
+      "delta": -0.245,
       "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-22",
       "tags": [
         "Sports",
@@ -131,30 +116,40 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 285746.24,
-      "liquidity": 1549.04
+      "volume24hr": 330272.61,
+      "liquidity": 687.16
     },
     {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 5.5",
-      "prev": 0.375,
-      "now": 0.665,
-      "delta": 0.29,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-22",
+      "market": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.265,
+      "delta": -0.235,
+      "url": "https://polymarket.com/event/lol-dsg-dig-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 65.0,
+      "liquidity": 151.4
+    },
+    {
+      "market": "Saints vs. Rams \u2014 NO vs. LA: O/U 38.5",
+      "prev": 0.315,
+      "now": 0.085,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/nfl-no-la-2026-08-22",
       "tags": [
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 7.02,
-      "liquidity": 5392.33
+      "volume24hr": 6852.39,
+      "liquidity": 143571.2
     }
   ],
   "log": [
-    {
-      "ts": "15:15:01",
-      "text": " poll complete \u2014 1869 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:30:02",
       "text": " poll complete \u2014 1893 markets scanned, 10 flagged"
@@ -270,6 +265,10 @@
     {
       "ts": "22:30:01",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:45:01",
+      "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
     }
   ]
 }
