@@ -1,11 +1,101 @@
 {
-  "lastUpdate": "2026-08-22 05:15:01 UTC",
+  "lastUpdate": "2026-08-22 05:30:01 UTC",
   "swings": [
     {
-      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: Deportivo Toluca FC 2nd Half O/U 1.5",
-      "prev": 0.07,
-      "now": 0.9975,
-      "delta": 0.9275,
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: FC Ju\u00e1rez O/U 1.5",
+      "prev": 0.505,
+      "now": 0.0005,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 2115.25,
+      "liquidity": 30166.33
+    },
+    {
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 214191.47,
+      "liquidity": 3158.79
+    },
+    {
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 1.23,
+      "liquidity": 3158.79
+    },
+    {
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: FC Ju\u00e1rez 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 214191.47,
+      "liquidity": 3158.79
+    },
+    {
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: FC Ju\u00e1rez 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 214191.47,
+      "liquidity": 3158.79
+    },
+    {
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: CF Am\u00e9rica 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 214191.47,
+      "liquidity": 3158.79
+    },
+    {
+      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: Deportivo Toluca FC O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mex-que-tol-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -13,29 +103,14 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 31.0,
-      "liquidity": 3061.96
+      "volume24hr": 913.97,
+      "liquidity": 23597.48
     },
     {
-      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC \u2014 Will Deportivo Toluca FC win on 2026-08-22?",
-      "prev": 0.105,
-      "now": 0.875,
-      "delta": 0.77,
-      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 135495.47,
-      "liquidity": 93868.48
-    },
-    {
-      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: 2nd Half O/U 2.5",
-      "prev": 0.37,
-      "now": 0.995,
-      "delta": 0.625,
+      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: Quer\u00e9taro FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mex-que-tol-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -43,118 +118,41 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 99769.71,
-      "liquidity": 3059.79
+      "volume24hr": 113227.72,
+      "liquidity": 2670.96
     },
     {
-      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: O/U 2.5",
-      "prev": 0.385,
-      "now": 0.9995,
-      "delta": 0.6145,
-      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 11447.2,
-      "liquidity": 187515.31
-    },
-    {
-      "market": "Quer\u00e9taro FC vs. Deportivo Toluca FC - More Markets \u2014 Quer\u00e9taro FC vs. Deportivo Toluca FC: Deportivo Toluca FC O/U 1.5",
-      "prev": 0.4955,
-      "now": 0.9995,
-      "delta": 0.504,
-      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 743.19,
-      "liquidity": 15798.99
-    },
-    {
-      "market": "Will Quer\u00e9taro FC vs. Deportivo Toluca FC end in a draw?",
-      "prev": 0.625,
-      "now": 0.13,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mex-que-tol-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 15786.25,
-      "liquidity": 28961.18
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 13.5",
-      "prev": 0.49,
+      "market": "FC Ju\u00e1rez vs. CF Am\u00e9rica - More Markets \u2014 FC Ju\u00e1rez vs. CF Am\u00e9rica: Both Teams to Score in Second Half",
+      "prev": 0.5,
       "now": 0.0045,
-      "delta": -0.4855,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mex-jua-ame-2026-08-21-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 214191.47,
+      "liquidity": 3102.84
+    },
+    {
+      "market": "Will the game go to extra innings?: Pittsburgh Pirates vs. Los Angeles Dodgers",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 727428.93,
-      "liquidity": 2819.73
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.075,
-      "now": 0.495,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 525.02,
-      "liquidity": 3.84
-    },
-    {
-      "market": "Packers vs. Broncos \u2014 Packers Team Total: O/U 17.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-gb-den-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 133461.68,
-      "liquidity": 78.57
-    },
-    {
-      "market": "Packers vs. Broncos: 1H O/U 22.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-gb-den-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 133461.68,
-      "liquidity": 813.53
+      "volume24hr": 1004897.42,
+      "liquidity": 132.96
     }
   ],
   "log": [
-    {
-      "ts": "22:00:02",
-      "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
@@ -270,6 +268,10 @@
     {
       "ts": "05:15:01",
       "text": " poll complete \u2014 1803 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:30:01",
+      "text": " poll complete \u2014 1739 markets scanned, 10 flagged"
     }
   ]
 }
