@@ -1,162 +1,148 @@
 {
-  "lastUpdate": "2026-08-22 04:45:01 UTC",
+  "lastUpdate": "2026-08-22 05:00:01 UTC",
   "swings": [
     {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5",
-      "prev": 0.265,
-      "now": 0.995,
-      "delta": 0.73,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 127911.01,
-      "liquidity": 101669.44
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 10.5",
-      "prev": 0.35,
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Cancun: Completed Match: Sebastian Baez vs Coleman Wong",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.6495,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 25284.37,
-      "liquidity": 121620.61
+      "volume24hr": 1050.0,
+      "liquidity": 3971.5
     },
     {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 7.5",
-      "prev": 0.375,
-      "now": 0.995,
-      "delta": 0.62,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 117919.89,
-      "liquidity": 119366.26
-    },
-    {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers \u2014 Spread: Los Angeles Dodgers (-1.5)",
-      "prev": 0.735,
-      "now": 0.16,
-      "delta": -0.575,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 53137.47,
-      "liquidity": 63289.59
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 9.5",
-      "prev": 0.455,
-      "now": 0.9995,
-      "delta": 0.5445,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-21",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 100822.87,
-      "liquidity": 139013.4
-    },
-    {
-      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 133.21,
-      "liquidity": 391.57
-    },
-    {
-      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 18.33,
-      "liquidity": 384.02
-    },
-    {
-      "market": "Will the game go to extra innings?: Cincinnati Reds vs. Arizona Diamondbacks",
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Match O/U 21.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 466143.42,
-      "liquidity": 1460.4
+      "volume24hr": 4.92,
+      "liquidity": 5617.21
     },
     {
-      "market": "Cincinnati Reds vs. Arizona Diamondbacks \u2014 Spread: Arizona Diamondbacks (-3.5)",
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Set 2 Winner: Baez vs Wong",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 18508.61
+      "volume24hr": 140887.49,
+      "liquidity": 3480.85
     },
     {
-      "market": "Cincinnati Reds vs. Arizona Diamondbacks \u2014 Spread: Arizona Diamondbacks (-4.5)",
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Sebastian Baez vs. Coleman Wong: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 929.88,
+      "liquidity": 5793.23
+    },
+    {
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Set Handicap: Baez (-1.5) vs Wong (+1.5)",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 280.18,
-      "liquidity": 18489.18
+      "volume24hr": 1587.76,
+      "liquidity": 11294.4
+    },
+    {
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 140887.49,
+      "liquidity": 3057.62
+    },
+    {
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1156.58,
+      "liquidity": 5590.13
+    },
+    {
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 140887.49,
+      "liquidity": 3045.25
+    },
+    {
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 140887.49,
+      "liquidity": 5591.12
+    },
+    {
+      "market": "Cancun: Sebastian Baez vs Coleman Wong \u2014 Baez vs. Wong: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-baez-wong-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 140887.49,
+      "liquidity": 3045.25
     }
   ],
   "log": [
-    {
-      "ts": "21:30:01",
-      "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:45:01",
       "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
@@ -272,6 +258,10 @@
     {
       "ts": "04:45:01",
       "text": " poll complete \u2014 1811 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:00:01",
+      "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
     }
   ]
 }
