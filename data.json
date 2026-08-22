@@ -1,162 +1,162 @@
 {
-  "lastUpdate": "2026-08-22 13:30:02 UTC",
+  "lastUpdate": "2026-08-22 13:45:02 UTC",
   "swings": [
     {
-      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.9,
-      "now": 1.0,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: 2nd Half O/U 0.5",
+      "prev": 0.76,
+      "now": 0.0045,
+      "delta": -0.7555,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 1.19,
+      "liquidity": 2964.13
+    },
+    {
+      "market": "Chengdu Rongcheng FC vs. Shanghai Shenhua FC - More Markets \u2014 Chengdu Rongcheng FC vs. Shanghai Shenhua FC: Chengdu Rongcheng FC O/U 2.5",
+      "prev": 0.33,
+      "now": 0.9955,
+      "delta": 0.6655,
+      "url": "https://polymarket.com/event/chi-ron-sgr-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Chinese Super League"
+      ],
+      "volume24hr": 51.61,
+      "liquidity": 14815.27
+    },
+    {
+      "market": "Millwall FC vs. Norwich City FC - More Markets \u2014 Spread: Millwall FC (-2.5)",
+      "prev": 0.345,
+      "now": 0.9995,
+      "delta": 0.6545,
+      "url": "https://polymarket.com/event/elc-mil-nor-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 3599.36,
+      "liquidity": 19110.87
+    },
+    {
+      "market": "Millwall FC vs. Norwich City FC - More Markets \u2014 Millwall FC vs. Norwich City FC: Millwall FC O/U 2.5",
+      "prev": 0.38,
+      "now": 0.9995,
+      "delta": 0.6195,
+      "url": "https://polymarket.com/event/elc-mil-nor-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 7.04,
+      "liquidity": 14538.96
+    },
+    {
+      "market": "Chengdu Rongcheng FC vs. Shanghai Shenhua FC - More Markets \u2014 Spread: Shanghai Shenhua FC (-1.5)",
+      "prev": 0.619,
+      "now": 0.0005,
+      "delta": -0.6185,
+      "url": "https://polymarket.com/event/chi-ron-sgr-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Chinese Super League"
+      ],
+      "volume24hr": 1403.59,
+      "liquidity": 32521.98
+    },
+    {
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: 2nd Half O/U 1.5",
+      "prev": 0.565,
+      "now": 0.005,
+      "delta": -0.56,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 83.82,
+      "liquidity": 2924.49
+    },
+    {
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: O/U 2.5",
+      "prev": 0.555,
+      "now": 0.0005,
+      "delta": -0.5545,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 241132.24,
+      "liquidity": 153256.2
+    },
+    {
+      "market": "Millwall FC vs. Norwich City FC - More Markets \u2014 Millwall FC vs. Norwich City FC: O/U 2.5",
+      "prev": 0.465,
+      "now": 0.9995,
+      "delta": 0.5345,
+      "url": "https://polymarket.com/event/elc-mil-nor-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 32727.96,
+      "liquidity": 66936.72
+    },
+    {
+      "market": "LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend \u2014 LoL: JD Gaming vs Top Esports - Game 2 Winner",
+      "prev": 0.435,
+      "now": 0.965,
+      "delta": 0.53,
+      "url": "https://polymarket.com/event/lol-jdg-tes-2026-08-22",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 361849.86,
-      "liquidity": 0.0
+      "volume24hr": 24646.21,
+      "liquidity": 197379.51
     },
     {
-      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.9,
-      "now": 1.0,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
+      "market": "Hull City AFC vs. Manchester United FC - Exact Score \u2014 Exact Score: Hull City AFC 2 - 0 Manchester United FC?",
+      "prev": 0.4725,
+      "now": 0.9995,
+      "delta": 0.527,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-exact-score",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 361849.86,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 361849.86,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 361849.86,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 361849.86,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.9,
-      "now": 1.0,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 361849.86,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: MVK Esports vs GAM Esports (BO5) - LCP Playoffs \u2014 First Blood in Game 2?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-mvk-gam-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 361849.86,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Counter-Strike: Lavked vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.9,
-      "now": 1.0,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/cs2-lavked-bw-2026-08-22",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 115023.35,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Counter-Strike: Lavked vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/cs2-lavked-bw-2026-08-22",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 115023.35,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Counter-Strike: Lavked vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: Lavked (-6.5) vs Bushido Wildcats (+6.5)",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/cs2-lavked-bw-2026-08-22",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 115023.35,
-      "liquidity": 0.0
+      "volume24hr": 15308.82,
+      "liquidity": 46788.71
     }
   ],
   "log": [
-    {
-      "ts": "06:15:01",
-      "text": " poll complete \u2014 1749 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:30:01",
       "text": " poll complete \u2014 1778 markets scanned, 10 flagged"
@@ -272,6 +272,10 @@
     {
       "ts": "13:30:02",
       "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:45:02",
+      "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
     }
   ]
 }
