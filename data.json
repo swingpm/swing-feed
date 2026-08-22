@@ -1,27 +1,11 @@
 {
-  "lastUpdate": "2026-08-22 14:45:01 UTC",
+  "lastUpdate": "2026-08-22 15:00:01 UTC",
   "swings": [
     {
-      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: 1st Half O/U 1.5",
-      "prev": 0.455,
-      "now": 0.995,
-      "delta": 0.54,
-      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 378.33,
-      "liquidity": 4080.83
-    },
-    {
       "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: 1st Half O/U 0.5",
-      "prev": 0.745,
-      "now": 0.21,
-      "delta": -0.535,
+      "prev": 0.21,
+      "now": 0.9995,
+      "delta": 0.7895,
       "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -30,15 +14,15 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 4743.83,
-      "liquidity": 1174.64
+      "volume24hr": 7399.53,
+      "liquidity": 148569.75
     },
     {
-      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: Both Teams to Score in First Half",
-      "prev": 0.515,
-      "now": 0.0125,
-      "delta": -0.5025,
-      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-more-markets",
+      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: 1st Half O/U 2.5",
+      "prev": 0.57,
+      "now": 0.0005,
+      "delta": -0.5695,
+      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
@@ -46,14 +30,29 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 5803.96,
-      "liquidity": 395.78
+      "volume24hr": 685.82,
+      "liquidity": 15208.17
     },
     {
-      "market": "Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
-      "prev": 0.495,
+      "market": "West Ham United FC vs. Charlton Athletic FC - More Markets \u2014 West Ham United FC vs. Charlton Athletic FC: Both Teams to Score in First Half",
+      "prev": 0.565,
       "now": 0.005,
-      "delta": -0.49,
+      "delta": -0.56,
+      "url": "https://polymarket.com/event/elc-whu-cha-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 32.0,
+      "liquidity": 2439.61
+    },
+    {
+      "market": "Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs \u2014 Dota 2: BoomBoys vs Team Spirit - Game 2 Winner",
+      "prev": 0.535,
+      "now": 0.025,
+      "delta": -0.51,
       "url": "https://polymarket.com/event/dota2-boombo-ts8-2026-08-22",
       "tags": [
         "Esports",
@@ -61,14 +60,30 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 9.82,
-      "liquidity": 623.61
+      "volume24hr": 1275852.52,
+      "liquidity": 218316.29
     },
     {
-      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: 1st Half O/U 2.5",
-      "prev": 0.11,
-      "now": 0.57,
-      "delta": 0.46,
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Everton FC 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 345763.24,
+      "liquidity": 8102.88
+    },
+    {
+      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: Sunderland AFC 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -77,46 +92,14 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 660.02,
-      "liquidity": 8.06
+      "volume24hr": 22.02,
+      "liquidity": 4026.18
     },
     {
-      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: Nottingham Forest FC 1st Half O/U 0.5",
-      "prev": 0.58,
-      "now": 0.12,
-      "delta": -0.46,
-      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 231241.84,
-      "liquidity": 685.01
-    },
-    {
-      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: 1st Half O/U 0.5",
-      "prev": 0.7,
-      "now": 0.245,
-      "delta": -0.455,
-      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 6001.77,
-      "liquidity": 22359.99
-    },
-    {
-      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: Sunderland AFC 1st Half O/U 0.5",
-      "prev": 0.58,
-      "now": 0.995,
-      "delta": 0.415,
+      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: Ipswich Town FC 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
       "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -125,45 +108,59 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 232391.65,
-      "liquidity": 3553.79
+      "volume24hr": 8.11,
+      "liquidity": 851.91
     },
     {
-      "market": "LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
+      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: Nottingham Forest FC 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-jdg-tes-2026-08-22",
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 1930873.67,
-      "liquidity": 112.32
+      "volume24hr": 182.84,
+      "liquidity": 2125.69
     },
     {
-      "market": "LoL: JD Gaming vs Top Esports (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: Leeds United FC 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-jdg-tes-2026-08-22",
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 1930873.67,
-      "liquidity": 112.32
+      "volume24hr": 237734.25,
+      "liquidity": 2111.9
+    },
+    {
+      "market": "Everton FC vs. Crystal Palace FC - More Markets \u2014 Everton FC vs. Crystal Palace FC: Crystal Palace FC 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/epl-eve-cry-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 345763.24,
+      "liquidity": 3528.59
     }
   ],
   "log": [
-    {
-      "ts": "07:30:01",
-      "text": " poll complete \u2014 1786 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:45:01",
       "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
@@ -279,6 +276,10 @@
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:00:01",
+      "text": " poll complete \u2014 1884 markets scanned, 10 flagged"
     }
   ]
 }
