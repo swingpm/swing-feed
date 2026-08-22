@@ -1,153 +1,157 @@
 {
-  "lastUpdate": "2026-08-22 21:45:01 UTC",
+  "lastUpdate": "2026-08-22 22:00:01 UTC",
   "swings": [
     {
-      "market": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) \u2014 Will Jackson McVey win by KO or TKO?",
-      "prev": 0.335,
+      "market": "Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: G2 Esports (-3.5) vs BESTIA (+3.5)",
+      "prev": 0.495,
       "now": 0.995,
-      "delta": 0.66,
-      "url": "https://polymarket.com/event/ufc-wes5-jac22-2026-08-22",
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/val-bst1-g21-2026-08-22",
       "tags": [
-        "Sports",
-        "UFC",
-        "Games"
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 321.83,
-      "liquidity": 318.0
+      "volume24hr": 883.88,
+      "liquidity": 1278.26
     },
     {
-      "market": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) \u2014 Will the fight be won by KO or TKO?",
-      "prev": 0.43,
-      "now": 0.995,
-      "delta": 0.565,
-      "url": "https://polymarket.com/event/ufc-wes5-jac22-2026-08-22",
-      "tags": [
-        "Sports",
-        "UFC",
-        "Games"
-      ],
-      "volume24hr": 296021.06,
-      "liquidity": 364.69
-    },
-    {
-      "market": "LoL: Sentinels vs FlyQuest (BO3) - LCS Regular Season \u2014 Game Handicap: SEN (-1.5) vs FlyQuest (+1.5)",
+      "market": "Washington Nationals vs. Miami Marlins: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/lol-sen-fly-2026-08-22",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 221.9,
+      "liquidity": 1758.94
+    },
+    {
+      "market": "Washington Nationals vs. Miami Marlins: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 22.42,
+      "liquidity": 1350.5
+    },
+    {
+      "market": "Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Total Rounds: Over/Under 22.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-bst1-g21-2026-08-22",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 154649.36,
+      "liquidity": 110.67
+    },
+    {
+      "market": "Washington Nationals vs. Miami Marlins \u2014 1st 5 Innings Spread: Miami Marlins (-1.5)",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 874.87
+    },
+    {
+      "market": "Washington Nationals vs. Miami Marlins \u2014 1st 5 Innings Spread: Washington Nationals (-1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 130380.69,
+      "liquidity": 1176.09
+    },
+    {
+      "market": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims) \u2014 O/U 2.5 Rounds",
+      "prev": 0.485,
+      "now": 0.005,
+      "delta": -0.48,
+      "url": "https://polymarket.com/event/ufc-wes5-jac22-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 301.25,
+      "liquidity": 1005.17
+    },
+    {
+      "market": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/lol-dsg-dig-2026-08-22",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 917417.25,
-      "liquidity": 9614.86
+      "volume24hr": 148525.4,
+      "liquidity": 433587.49
     },
     {
-      "market": "Saints vs. Rams: 1H O/U 19.5",
-      "prev": 0.5,
-      "now": 0.9805,
-      "delta": 0.4805,
-      "url": "https://polymarket.com/event/nfl-no-la-2026-08-22",
+      "market": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/lol-dsg-dig-2026-08-22",
       "tags": [
-        "Sports",
-        "NFL",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 325.0,
-      "liquidity": 5070.89
+      "volume24hr": 148525.4,
+      "liquidity": 433587.49
     },
     {
-      "market": "Saints vs. Rams \u2014 1H Spread: Saints (-0.5)",
+      "market": "Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 1 Rounds Handicap: G2 Esports (-6.5) vs BESTIA (+6.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/nfl-no-la-2026-08-22",
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/val-bst1-g21-2026-08-22",
       "tags": [
-        "Sports",
-        "NFL",
-        "Games"
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 523.0,
-      "liquidity": 716.18
-    },
-    {
-      "market": "Saints vs. Rams: 1H Moneyline",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/nfl-no-la-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 348028.86,
-      "liquidity": 708.44
-    },
-    {
-      "market": "Bills vs. Browns \u2014 Browns Team Total: O/U 19.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/nfl-buf-cle-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 182665.57,
-      "liquidity": 721.77
-    },
-    {
-      "market": "Bills vs. Browns \u2014 Bills Team Total: O/U 17.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-buf-cle-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 182665.57,
-      "liquidity": 721.77
-    },
-    {
-      "market": "Bills vs. Browns: 1H O/U 19.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-buf-cle-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 84.75,
-      "liquidity": 864.88
-    },
-    {
-      "market": "Bills vs. Browns: 1H Moneyline",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-buf-cle-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 182665.57,
-      "liquidity": 721.77
+      "volume24hr": 5.0,
+      "liquidity": 256.47
     }
   ],
   "log": [
-    {
-      "ts": "14:30:01",
-      "text": " poll complete \u2014 1897 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1906 markets scanned, 10 flagged"
@@ -263,6 +267,10 @@
     {
       "ts": "21:45:01",
       "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:00:01",
+      "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
     }
   ]
 }
