@@ -1,71 +1,11 @@
 {
-  "lastUpdate": "2026-08-22 10:45:01 UTC",
+  "lastUpdate": "2026-08-22 11:00:01 UTC",
   "swings": [
     {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: O/U 4.5",
-      "prev": 0.235,
-      "now": 0.9995,
-      "delta": 0.7645,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 4686.85,
-      "liquidity": 59931.01
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
-      "prev": 0.73,
-      "now": 0.0055,
-      "delta": -0.7245,
-      "url": "https://polymarket.com/event/dota2-vsn2-ty-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 99.79,
-      "liquidity": 116.01
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Avispa Fukuoka O/U 1.5",
-      "prev": 0.335,
-      "now": 0.995,
-      "delta": 0.66,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 99.63,
-      "liquidity": 2241.13
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Kashima Antlers O/U 2.5",
-      "prev": 0.395,
-      "now": 0.9995,
-      "delta": 0.6045,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 830.22,
-      "liquidity": 5885.61
-    },
-    {
       "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Avispa Fukuoka O/U 2.5",
-      "prev": 0.06,
-      "now": 0.6035,
-      "delta": 0.5435,
+      "prev": 0.6035,
+      "now": 0.069,
+      "delta": -0.5345,
       "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -73,56 +13,11 @@
         "Soccer",
         "Japan J League"
       ],
-      "volume24hr": 249.56,
-      "liquidity": 271.59
+      "volume24hr": 260.26,
+      "liquidity": 173.38
     },
     {
-      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Game 3: Odd/Even Total Kills?",
-      "prev": 0.515,
-      "now": 0.0055,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3685005.52,
-      "liquidity": 761.26
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 146053.61,
-      "liquidity": 5764.86
-    },
-    {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Kashima Antlers 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 146053.61,
-      "liquidity": 5715.75
-    },
-    {
-      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 36.5 in Game 1?",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
@@ -133,30 +28,132 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 695352.21,
-      "liquidity": 806.01
+      "volume24hr": 1039075.84,
+      "liquidity": 708.05
     },
     {
-      "market": "Kashima Antlers vs. Avispa Fukuoka - More Markets \u2014 Kashima Antlers vs. Avispa Fukuoka: Avispa Fukuoka 2nd Half O/U 0.5",
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 39.5 in Game 1?",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/jap-kas-avi-2026-08-22-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1039075.84,
+      "liquidity": 708.05
+    },
+    {
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 42.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1039075.84,
+      "liquidity": 708.05
+    },
+    {
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1.96,
+      "liquidity": 708.7
+    },
+    {
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.53,
+      "now": 0.9995,
+      "delta": 0.4695,
+      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 12774.81,
+      "liquidity": 88936.42
+    },
+    {
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 33.5 in Game 1?",
+      "prev": 0.54,
+      "now": 0.9955,
+      "delta": 0.4555,
+      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 120.0,
+      "liquidity": 909.11
+    },
+    {
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC 2nd Half O/U 1.5",
+      "prev": 0.495,
+      "now": 0.065,
+      "delta": -0.43,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 146053.61,
-      "liquidity": 3074.99
+      "volume24hr": 432594.87,
+      "liquidity": 87.0
+    },
+    {
+      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dk-gen-2026-08-22",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3855971.03,
+      "liquidity": 112.32
+    },
+    {
+      "market": "Counter-Strike: Team Nemesis vs Color (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.105,
+      "now": 0.5,
+      "delta": 0.395,
+      "url": "https://polymarket.com/event/cs2-nem-color-2026-08-22",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 70060.19,
+      "liquidity": 183102.96
     }
   ],
   "log": [
-    {
-      "ts": "03:30:02",
-      "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:45:02",
       "text": " poll complete \u2014 1911 markets scanned, 10 flagged"
@@ -272,6 +269,10 @@
     {
       "ts": "10:45:01",
       "text": " poll complete \u2014 1889 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:00:01",
+      "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
     }
   ]
 }
