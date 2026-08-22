@@ -1,56 +1,11 @@
 {
-  "lastUpdate": "2026-08-22 03:15:01 UTC",
+  "lastUpdate": "2026-08-22 03:30:02 UTC",
   "swings": [
     {
-      "market": "Tigres de la UANL vs. Atlante FC - More Markets \u2014 Spread: Tigres de la UANL (-1.5)",
-      "prev": 0.2,
-      "now": 0.9995,
-      "delta": 0.7995,
-      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 7914.46,
-      "liquidity": 70771.8
-    },
-    {
-      "market": "Tigres de la UANL vs. Atlante FC - More Markets \u2014 Tigres de la UANL vs. Atlante FC: Tigres de la UANL O/U 1.5",
-      "prev": 0.205,
-      "now": 0.9995,
-      "delta": 0.7945,
-      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 883.73,
-      "liquidity": 12336.81
-    },
-    {
-      "market": "Tigres de la UANL vs. Atlante FC - More Markets \u2014 Tigres de la UANL vs. Atlante FC: O/U 1.5",
-      "prev": 0.265,
-      "now": 0.9995,
-      "delta": 0.7345,
-      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 23980.97,
-      "liquidity": 125772.85
-    },
-    {
       "market": "Los Angeles Angels vs. Texas Rangers",
-      "prev": 0.205,
-      "now": 0.725,
-      "delta": 0.52,
+      "prev": 0.725,
+      "now": 0.005,
+      "delta": -0.72,
       "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-21",
       "tags": [
         "Sports",
@@ -58,101 +13,142 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 337821.59,
-      "liquidity": 166321.97
+      "volume24hr": 414741.23,
+      "liquidity": 231704.57
     },
     {
-      "market": "Club Le\u00f3n FC vs. CF Monterrey - More Markets \u2014 Club Le\u00f3n FC vs. CF Monterrey: Both Teams to Score",
-      "prev": 0.52,
-      "now": 0.0005,
-      "delta": -0.5195,
-      "url": "https://polymarket.com/event/mex-leo-mon1-2026-08-22-more-markets",
+      "market": "Cleveland Guardians vs. Colorado Rockies: O/U 12.5",
+      "prev": 0.175,
+      "now": 0.675,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Liga MX"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 5802.22,
-      "liquidity": 37914.8
+      "volume24hr": 386813.35,
+      "liquidity": 2.0
     },
     {
-      "market": "Tigres de la UANL vs. Atlante FC - More Markets \u2014 Tigres de la UANL vs. Atlante FC: Both Teams to Score in Second Half",
-      "prev": 0.51,
-      "now": 0.005,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/mex-tig-atla-2026-08-21-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 104933.18,
-      "liquidity": 2194.91
-    },
-    {
-      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Cincinnati Open: Completed Match: Coco Gauff vs Marta Kostyuk",
+      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 482.0,
-      "liquidity": 2363.63
+      "volume24hr": 15.62,
+      "liquidity": 594.56
     },
     {
-      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Gauff vs. Kostyuk: Match O/U 21.5",
+      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 1?",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 1594.25,
-      "liquidity": 9820.34
+      "volume24hr": 5.0,
+      "liquidity": 666.15
     },
     {
-      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Gauff vs. Kostyuk: Set 2 Games O/U 8.5",
+      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 6797240.34,
+      "liquidity": 614.34
+    },
+    {
+      "market": "Cincinnati Reds vs. Arizona Diamondbacks \u2014 1st 5 Innings Spread: Cincinnati Reds (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-21",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 36.0,
+      "liquidity": 1615.82
+    },
+    {
+      "market": "Cancun: Moez Echargui vs Moise Kouame \u2014 Cancun: Completed Match: Moez Echargui vs Moise Kouame",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-echargu-kouame-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 566358.17,
-      "liquidity": 3206.13
+      "volume24hr": 142312.8,
+      "liquidity": 1763.63
     },
     {
-      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk \u2014 Gauff vs. Kostyuk: Set 2 Games O/U 9.5",
+      "market": "Cancun: Moez Echargui vs Moise Kouame \u2014 Set Handicap: Echargui (-1.5) vs Kouame (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "url": "https://polymarket.com/event/atp-echargu-kouame-2026-08-21",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 566358.17,
-      "liquidity": 3206.13
+      "volume24hr": 142312.8,
+      "liquidity": 2942.76
+    },
+    {
+      "market": "Cancun: Moez Echargui vs Moise Kouame \u2014 Echargui vs. Kouame: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-echargu-kouame-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 312.93,
+      "liquidity": 4639.27
+    },
+    {
+      "market": "Cancun: Moez Echargui vs Moise Kouame \u2014 Moez Echargui vs. Moise Kouame: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-echargu-kouame-2026-08-21",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 32.0,
+      "liquidity": 4631.3
     }
   ],
   "log": [
-    {
-      "ts": "20:00:01",
-      "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 1957 markets scanned, 10 flagged"
@@ -268,6 +264,10 @@
     {
       "ts": "03:15:01",
       "text": " poll complete \u2014 1909 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:30:02",
+      "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
     }
   ]
 }
