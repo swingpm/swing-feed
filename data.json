@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "2026-08-22 18:45:01 UTC",
+  "lastUpdate": "2026-08-22 19:00:01 UTC",
   "swings": [
     {
-      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Estoril Praia vs. Rio Ave FC: Rio Ave FC O/U 1.5",
-      "prev": 0.26,
-      "now": 0.9955,
-      "delta": 0.7355,
+      "market": "Commanders vs. Lions \u2014 Spread: DET (-3.5)",
+      "prev": 0.38,
+      "now": 0.935,
+      "delta": 0.555,
+      "url": "https://polymarket.com/event/nfl-was-det-2026-08-22",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 625.83,
+      "liquidity": 6528.86
+    },
+    {
+      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Estoril Praia vs. Rio Ave FC: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.0045,
+      "delta": -0.5005,
       "url": "https://polymarket.com/event/por-est-rio-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -13,14 +27,56 @@
         "Soccer",
         "Primeira Liga"
       ],
-      "volume24hr": 37.32,
-      "liquidity": 4463.12
+      "volume24hr": 143181.54,
+      "liquidity": 2997.93
     },
     {
-      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Spread: Rio Ave FC (-1.5)",
-      "prev": 0.15,
-      "now": 0.775,
-      "delta": 0.625,
+      "market": "Cincinnati Open: Flavio Cobolli vs Arthur Fils \u2014 Cobolli vs. Fils: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-cobolli-fils-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 11.9,
+      "liquidity": 9155.79
+    },
+    {
+      "market": "Cincinnati Open: Flavio Cobolli vs Arthur Fils \u2014 Cobolli vs. Fils: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-cobolli-fils-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 498121.3,
+      "liquidity": 5430.24
+    },
+    {
+      "market": "Cincinnati Open: Flavio Cobolli vs Arthur Fils \u2014 Cobolli vs. Fils: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-cobolli-fils-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 498121.3,
+      "liquidity": 5430.24
+    },
+    {
+      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Estoril Praia vs. Rio Ave FC: Rio Ave FC O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/por-est-rio-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -28,135 +84,71 @@
         "Soccer",
         "Primeira Liga"
       ],
-      "volume24hr": 1227.16,
-      "liquidity": 13743.87
+      "volume24hr": 55.91,
+      "liquidity": 10753.88
     },
     {
-      "market": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.405,
-      "now": 0.9995,
-      "delta": 0.5945,
-      "url": "https://polymarket.com/event/val-vit-ff3-2026-08-22",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 6850.82,
-      "liquidity": 82330.51
-    },
-    {
-      "market": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Valorant: Team Vitality vs Fire Flux Esports - Map 2 Winner",
-      "prev": 0.585,
-      "now": 0.0005,
-      "delta": -0.5845,
-      "url": "https://polymarket.com/event/val-vit-ff3-2026-08-22",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 38172.93,
-      "liquidity": 294196.9
-    },
-    {
-      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Games Total: O/U 2.5",
-      "prev": 0.5405,
-      "now": 0.0005,
-      "delta": -0.54,
-      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2087.53,
-      "liquidity": 16653.32
-    },
-    {
-      "market": "Udinese Calcio vs. Como 1907 - More Markets \u2014 Udinese Calcio vs. Como 1907: Udinese Calcio O/U 1.5",
-      "prev": 0.51,
-      "now": 0.0045,
-      "delta": -0.5055,
-      "url": "https://polymarket.com/event/sea-udi-com-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 79.48,
-      "liquidity": 11886.75
-    },
-    {
-      "market": "LoL: SK Gaming vs Movistar KOI (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 2?",
-      "prev": 0.495,
-      "now": 0.9995,
-      "delta": 0.5045,
-      "url": "https://polymarket.com/event/lol-sk-mkoi-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3131.01,
-      "liquidity": 3279.22
-    },
-    {
-      "market": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map Handicap: VIT (-1.5) vs Fire Flux Esports (+1.5)",
-      "prev": 0.5,
-      "now": 0.0035,
-      "delta": -0.4965,
-      "url": "https://polymarket.com/event/val-vit-ff3-2026-08-22",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1014.75,
-      "liquidity": 3161.98
-    },
-    {
-      "market": "Udinese Calcio vs. Como 1907 - More Markets \u2014 Udinese Calcio vs. Como 1907: Both Teams to Score in Second Half",
+      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Estoril Praia vs. Rio Ave FC: 2nd Half O/U 1.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/sea-udi-com-2026-08-22-more-markets",
+      "url": "https://polymarket.com/event/por-est-rio-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Primeira Liga"
       ],
-      "volume24hr": 5.05,
-      "liquidity": 3224.51
+      "volume24hr": 143181.54,
+      "liquidity": 3646.08
     },
     {
-      "market": "Udinese Calcio vs. Como 1907 - More Markets \u2014 Udinese Calcio vs. Como 1907: 2nd Half O/U 1.5",
+      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Estoril Praia vs. Rio Ave FC: 2nd Half O/U 2.5",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/sea-udi-com-2026-08-22-more-markets",
+      "url": "https://polymarket.com/event/por-est-rio-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Primeira Liga"
       ],
-      "volume24hr": 224643.25,
-      "liquidity": 3114.47
+      "volume24hr": 143181.54,
+      "liquidity": 3625.08
+    },
+    {
+      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Estoril Praia vs. Rio Ave FC: Estoril Praia 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/por-est-rio-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 143181.54,
+      "liquidity": 3646.08
+    },
+    {
+      "market": "Estoril Praia vs. Rio Ave FC - More Markets \u2014 Estoril Praia vs. Rio Ave FC: Rio Ave FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/por-est-rio-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 143181.54,
+      "liquidity": 3181.73
     }
   ],
   "log": [
-    {
-      "ts": "11:30:01",
-      "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1904 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 1915 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:00:01",
+      "text": " poll complete \u2014 1864 markets scanned, 10 flagged"
     }
   ]
 }
