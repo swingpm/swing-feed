@@ -1,146 +1,26 @@
 {
-  "lastUpdate": "2026-08-22 20:15:01 UTC",
+  "lastUpdate": "2026-08-22 20:30:01 UTC",
   "swings": [
     {
-      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: Both Teams to Score in First Half",
-      "prev": 0.165,
-      "now": 0.9955,
-      "delta": 0.8305,
-      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
+      "market": "Parma Calcio 1913 vs. Cagliari Calcio \u2014 Will Cagliari Calcio win on 2026-08-22?",
+      "prev": 0.205,
+      "now": 0.815,
+      "delta": 0.61,
+      "url": "https://polymarket.com/event/sea-par-cag-2026-08-22",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga"
+        "sea"
       ],
-      "volume24hr": 1476.75,
-      "liquidity": 6843.98
+      "volume24hr": 71981.1,
+      "liquidity": 133011.71
     },
     {
-      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: O/U 3.5",
-      "prev": 0.355,
-      "now": 0.995,
-      "delta": 0.64,
-      "url": "https://polymarket.com/event/fl1-lmf-sbr-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 511.09,
-      "liquidity": 13349.33
-    },
-    {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Borussia Dortmund O/U 0.5",
-      "prev": 0.4,
-      "now": 0.995,
-      "delta": 0.595,
-      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "German Super Cup"
-      ],
-      "volume24hr": 375.63,
-      "liquidity": 10704.08
-    },
-    {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Both Teams to Score",
-      "prev": 0.405,
-      "now": 0.9995,
-      "delta": 0.5945,
-      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "German Super Cup"
-      ],
-      "volume24hr": 30874.06,
-      "liquidity": 147151.11
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: Both Teams to Score",
-      "prev": 0.46,
-      "now": 0.9995,
-      "delta": 0.5395,
-      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 59406.26,
-      "liquidity": 235989.15
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: Real Madrid CF 1st Half O/U 1.5",
-      "prev": 0.7,
-      "now": 0.17,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 545.25,
-      "liquidity": 341.88
-    },
-    {
-      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: Le Mans FC O/U 1.5",
-      "prev": 0.47,
-      "now": 0.995,
-      "delta": 0.525,
-      "url": "https://polymarket.com/event/fl1-lmf-sbr-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 145512.55,
-      "liquidity": 4219.51
-    },
-    {
-      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: RCD Espanyol de Barcelona O/U 0.5",
-      "prev": 0.475,
-      "now": 0.997,
-      "delta": 0.522,
-      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 611.78,
-      "liquidity": 7119.97
-    },
-    {
-      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: Stade Brestois 29 O/U 1.5",
-      "prev": 0.49,
-      "now": 0.995,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/fl1-lmf-sbr-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 145512.55,
-      "liquidity": 3492.77
-    },
-    {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: 2nd Half O/U 0.5",
+      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +28,131 @@
         "Soccer",
         "German Super Cup"
       ],
-      "volume24hr": 638890.86,
-      "liquidity": 2501.91
+      "volume24hr": 698389.54,
+      "liquidity": 4236.19
+    },
+    {
+      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "German Super Cup"
+      ],
+      "volume24hr": 698389.54,
+      "liquidity": 4799.95
+    },
+    {
+      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "German Super Cup"
+      ],
+      "volume24hr": 698389.54,
+      "liquidity": 3267.0
+    },
+    {
+      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Borussia Dortmund 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "German Super Cup"
+      ],
+      "volume24hr": 698389.54,
+      "liquidity": 3267.0
+    },
+    {
+      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Bayern Munich 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "German Super Cup"
+      ],
+      "volume24hr": 698389.54,
+      "liquidity": 3267.0
+    },
+    {
+      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: Bayern Munich 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "German Super Cup"
+      ],
+      "volume24hr": 698389.54,
+      "liquidity": 4184.24
+    },
+    {
+      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 305710.36,
+      "liquidity": 495.0
+    },
+    {
+      "market": "Fenerbah\u00e7e SK vs. Konyaspor - More Markets \u2014 Fenerbah\u00e7e SK vs. Konyaspor: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/tur-fen-kon-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "S\u00fcper Lig"
+      ],
+      "volume24hr": 119121.01,
+      "liquidity": 198.0
+    },
+    {
+      "market": "Fenerbah\u00e7e SK vs. Konyaspor - More Markets \u2014 Fenerbah\u00e7e SK vs. Konyaspor: Konyaspor 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/tur-fen-kon-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "S\u00fcper Lig"
+      ],
+      "volume24hr": 119121.01,
+      "liquidity": 198.0
     }
   ],
   "log": [
-    {
-      "ts": "13:00:02",
-      "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:15:02",
       "text": " poll complete \u2014 1883 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "20:15:01",
       "text": " poll complete \u2014 1848 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:30:01",
+      "text": " poll complete \u2014 1871 markets scanned, 10 flagged"
     }
   ]
 }
