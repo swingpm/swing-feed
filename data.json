@@ -1,162 +1,160 @@
 {
-  "lastUpdate": "2026-08-22 11:45:01 UTC",
+  "lastUpdate": "2026-08-22 12:00:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Bilibili Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs \u2014 Valorant: Bilibili Gaming vs TYLOO - Map 3 Winner",
-      "prev": 0.705,
-      "now": 0.0005,
-      "delta": -0.7045,
-      "url": "https://polymarket.com/event/val-blg-tyloo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 17582.08,
-      "liquidity": 119424.47
-    },
-    {
-      "market": "Valorant: Bilibili Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs \u2014 Games Total: O/U 3.5",
-      "prev": 0.59,
-      "now": 0.0005,
-      "delta": -0.5895,
-      "url": "https://polymarket.com/event/val-blg-tyloo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1306.44,
-      "liquidity": 14764.47
-    },
-    {
-      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.5,
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: 1st Half O/U 0.5",
+      "prev": 0.215,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22",
+      "delta": 0.7845,
+      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 9355.25,
+      "liquidity": 131386.92
+    },
+    {
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC 1st Half O/U 0.5",
+      "prev": 0.245,
+      "now": 0.9995,
+      "delta": 0.7545,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 434.11,
+      "liquidity": 20122.28
+    },
+    {
+      "market": "Hull City AFC vs. Manchester United FC - More Markets \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC O/U 0.5",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 42989.72,
+      "liquidity": 162820.57
+    },
+    {
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: 1st Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 64.73,
+      "liquidity": 8262.01
+    },
+    {
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: Bayer 04 Leverkusen 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 94240.93,
+      "liquidity": 6630.27
+    },
+    {
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: SV Wehen Wiesbaden 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 94240.93,
+      "liquidity": 3290.91
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs \u2014 First Blood in Game 3?",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/dota2-vsn2-ty-2026-08-22",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4618.68,
-      "liquidity": 5697.12
+      "volume24hr": 9.75,
+      "liquidity": 17914.17
     },
     {
-      "market": "Fagiano Okayama vs. T\u014dky\u014d Verdy - More Markets \u2014 Fagiano Okayama vs. T\u014dky\u014d Verdy: Fagiano Okayama O/U 0.5",
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: Both Teams to Score in First Half",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/jap-fag-fct1-2026-08-22-more-markets",
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "DFB-Pokal"
       ],
-      "volume24hr": 417.58,
-      "liquidity": 10909.32
+      "volume24hr": 19.16,
+      "liquidity": 2281.65
     },
     {
-      "market": "Fagiano Okayama vs. T\u014dky\u014d Verdy - More Markets \u2014 Fagiano Okayama vs. T\u014dky\u014d Verdy: Fagiano Okayama O/U 1.5",
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: SV Wehen Wiesbaden 1st Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/jap-fag-fct1-2026-08-22-more-markets",
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "DFB-Pokal"
       ],
-      "volume24hr": 693.43,
-      "liquidity": 11856.09
+      "volume24hr": 94240.93,
+      "liquidity": 2293.84
     },
     {
-      "market": "Fagiano Okayama vs. T\u014dky\u014d Verdy - More Markets \u2014 Fagiano Okayama vs. T\u014dky\u014d Verdy: T\u014dky\u014d Verdy O/U 0.5",
+      "market": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen - More Markets \u2014 SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: Bayer 04 Leverkusen 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/jap-fag-fct1-2026-08-22-more-markets",
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/dfb-sv-lev-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "DFB-Pokal"
       ],
-      "volume24hr": 167.42,
-      "liquidity": 10909.08
-    },
-    {
-      "market": "Fagiano Okayama vs. T\u014dky\u014d Verdy - More Markets \u2014 Fagiano Okayama vs. T\u014dky\u014d Verdy: T\u014dky\u014d Verdy O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/jap-fag-fct1-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 176.24,
-      "liquidity": 11955.99
-    },
-    {
-      "market": "Fagiano Okayama vs. T\u014dky\u014d Verdy - More Markets \u2014 Fagiano Okayama vs. T\u014dky\u014d Verdy: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/jap-fag-fct1-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 177697.67,
-      "liquidity": 3271.56
-    },
-    {
-      "market": "Fagiano Okayama vs. T\u014dky\u014d Verdy - More Markets \u2014 Fagiano Okayama vs. T\u014dky\u014d Verdy: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/jap-fag-fct1-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 177697.67,
-      "liquidity": 3326.67
-    },
-    {
-      "market": "Fagiano Okayama vs. T\u014dky\u014d Verdy - More Markets \u2014 Fagiano Okayama vs. T\u014dky\u014d Verdy: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/jap-fag-fct1-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 123.95,
-      "liquidity": 3289.29
+      "volume24hr": 73.34,
+      "liquidity": 2335.13
     }
   ],
   "log": [
-    {
-      "ts": "04:30:01",
-      "text": " poll complete \u2014 1824 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:45:01",
       "text": " poll complete \u2014 1811 markets scanned, 10 flagged"
@@ -272,6 +270,10 @@
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1904 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:00:01",
+      "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
     }
   ]
 }
