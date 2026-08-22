@@ -1,162 +1,152 @@
 {
-  "lastUpdate": "2026-08-22 21:00:01 UTC",
+  "lastUpdate": "2026-08-22 21:15:02 UTC",
   "swings": [
     {
-      "market": "Fluminense FC vs. Clube do Remo \u2014 Will Fluminense FC win on 2026-08-22?",
-      "prev": 0.335,
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Set 1 Winner: Pegula vs Swiatek",
+      "prev": 0.38,
       "now": 0.9995,
-      "delta": 0.6645,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22",
+      "delta": 0.6195,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
+        "Games"
       ],
-      "volume24hr": 170709.44,
-      "liquidity": 225135.75
+      "volume24hr": 5537.32,
+      "liquidity": 129266.69
     },
     {
-      "market": "Will Fluminense FC vs. Clube do Remo end in a draw?",
-      "prev": 0.62,
-      "now": 0.0005,
-      "delta": -0.6195,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 15212.86,
-      "liquidity": 185863.1
-    },
-    {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: O/U 2.5",
-      "prev": 0.4,
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Set 1 Games O/U 8.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.5995,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1138696.69,
+      "liquidity": 6274.21
+    },
+    {
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1138696.69,
+      "liquidity": 6285.32
+    },
+    {
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Pegula vs. Swiatek: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1138696.69,
+      "liquidity": 6274.21
+    },
+    {
+      "market": "Counter-Strike: Nuclear TigeRES vs SPARTA (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 3 Rounds Handicap: Nuclear TigeRES (-6.5) vs SPARTA (+6.5)",
+      "prev": 0.5,
+      "now": 0.03,
+      "delta": -0.47,
+      "url": "https://polymarket.com/event/cs2-ntr-sparta-2026-08-22",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 134896.02,
+      "liquidity": 950.55
+    },
+    {
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek \u2014 Set Handicap: Swiatek (-1.5) vs Pegula (+1.5)",
+      "prev": 0.425,
+      "now": 0.025,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 43482.6,
+      "liquidity": 26195.73
+    },
+    {
+      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: Both Teams to Score in Second Half",
+      "prev": 0.18,
+      "now": 0.5,
+      "delta": 0.32,
+      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "La Liga"
       ],
-      "volume24hr": 206526.0,
-      "liquidity": 138703.07
+      "volume24hr": 1841002.45,
+      "liquidity": 1751335.56
     },
     {
-      "market": "Atlanta Braves vs. Milwaukee Brewers: O/U 6.5",
-      "prev": 0.505,
-      "now": 0.0045,
-      "delta": -0.5005,
-      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-22",
+      "market": "LoL: Sentinels vs FlyQuest (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.215,
+      "now": 0.5,
+      "delta": 0.285,
+      "url": "https://polymarket.com/event/lol-sen-fly-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 8.92,
-      "liquidity": 3135.46
+      "volume24hr": 93.71,
+      "liquidity": 1.4
     },
     {
-      "market": "Will the game go to extra innings?: Toronto Blue Jays vs. New York Yankees",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-22",
+      "market": "Cincinnati Open: Jessica Pegula vs Iga Swiatek",
+      "prev": 0.33,
+      "now": 0.605,
+      "delta": 0.275,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 10.87,
-      "liquidity": 969.37
+      "volume24hr": 1086399.85,
+      "liquidity": 481008.47
     },
     {
-      "market": "Toronto Blue Jays vs. New York Yankees \u2014 Spread: Toronto Blue Jays (-3.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1104055.03,
-      "liquidity": 3701.82
-    },
-    {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
+      "market": "RCD Espanyol de Barcelona vs. Real Madrid CF - More Markets \u2014 RCD Espanyol de Barcelona vs. Real Madrid CF: RCD Espanyol de Barcelona O/U 2.5",
+      "prev": 0.2725,
+      "now": 0.0035,
+      "delta": -0.269,
+      "url": "https://polymarket.com/event/lal-esp-rea-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "La Liga"
       ],
-      "volume24hr": 384396.29,
-      "liquidity": 2199.0
-    },
-    {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 384396.29,
-      "liquidity": 5534.52
-    },
-    {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 384396.29,
-      "liquidity": 2857.83
-    },
-    {
-      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Fluminense FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 384396.29,
-      "liquidity": 5492.49
+      "volume24hr": 6872.21,
+      "liquidity": 142935.49
     }
   ],
   "log": [
-    {
-      "ts": "13:45:02",
-      "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:00:01",
       "text": " poll complete \u2014 1861 markets scanned, 10 flagged"
@@ -272,6 +262,10 @@
     {
       "ts": "21:00:01",
       "text": " poll complete \u2014 1921 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:15:02",
+      "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
     }
   ]
 }
