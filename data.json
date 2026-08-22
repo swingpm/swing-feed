@@ -1,54 +1,59 @@
 {
-  "lastUpdate": "2026-08-22 15:45:02 UTC",
+  "lastUpdate": "2026-08-22 16:00:01 UTC",
   "swings": [
     {
-      "market": "Elon Musk # tweets August 20 - August 22, 2026? \u2014 Will Elon Musk post 65-89 tweets from August 20 to August 22, 2026?",
-      "prev": 0.5985,
-      "now": 0.0005,
-      "delta": -0.598,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-20-august-22",
-      "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
-      ],
-      "volume24hr": 134709.03,
-      "liquidity": 90626.98
-    },
-    {
-      "market": "Elon Musk # tweets August 20 - August 22, 2026? \u2014 Will Elon Musk post 90-114 tweets from August 20 to August 22, 2026?",
-      "prev": 0.4225,
+      "market": "Nottingham Forest FC vs. Leeds United FC - Exact Score \u2014 Exact Score: Nottingham Forest FC 0 - 1 Leeds United FC?",
+      "prev": 0.115,
       "now": 0.9995,
-      "delta": 0.577,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-20-august-22",
-      "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
-      ],
-      "volume24hr": 61467.09,
-      "liquidity": 16400.68
-    },
-    {
-      "market": "West Ham United FC vs. Charlton Athletic FC - More Markets \u2014 West Ham United FC vs. Charlton Athletic FC: West Ham United FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/elc-whu-cha-2026-08-22-more-markets",
+      "delta": 0.8845,
+      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-exact-score",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 115106.18,
-      "liquidity": 3256.65
+      "volume24hr": 13366.68,
+      "liquidity": 214585.96
     },
     {
-      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: Nottingham Forest FC O/U 2.5",
-      "prev": 0.007,
-      "now": 0.5,
-      "delta": 0.493,
+      "market": "Nottingham Forest FC vs. Leeds United FC \u2014 Will Leeds United FC win on 2026-08-22?",
+      "prev": 0.125,
+      "now": 0.9995,
+      "delta": 0.8745,
+      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 120628.87,
+      "liquidity": 703049.82
+    },
+    {
+      "market": "Ipswich Town FC vs. Sunderland AFC \u2014 Will Ipswich Town FC win on 2026-08-22?",
+      "prev": 0.135,
+      "now": 0.9995,
+      "delta": 0.8645,
+      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 131155.04,
+      "liquidity": 1153606.82
+    },
+    {
+      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: Leeds United FC O/U 0.5",
+      "prev": 0.155,
+      "now": 0.9995,
+      "delta": 0.8445,
       "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -57,104 +62,107 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 7204.87,
-      "liquidity": 0.01
+      "volume24hr": 7155.61,
+      "liquidity": 184298.67
     },
     {
-      "market": "West Ham United FC vs. Charlton Athletic FC - More Markets \u2014 Spread: Charlton Athletic FC (-1.5)",
-      "prev": 0.5175,
-      "now": 0.0815,
-      "delta": -0.436,
-      "url": "https://polymarket.com/event/elc-whu-cha-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "EFL Championship"
-      ],
-      "volume24hr": 1657.3,
-      "liquidity": 9648.39
-    },
-    {
-      "market": "West Ham United FC vs. Charlton Athletic FC - More Markets \u2014 West Ham United FC vs. Charlton Athletic FC: West Ham United FC O/U 0.5",
-      "prev": 0.565,
+      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: Ipswich Town FC O/U 1.5",
+      "prev": 0.17,
       "now": 0.9955,
-      "delta": 0.4305,
-      "url": "https://polymarket.com/event/elc-whu-cha-2026-08-22-more-markets",
+      "delta": 0.8255,
+      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 100.35,
-      "liquidity": 1423.32
+      "volume24hr": 396.14,
+      "liquidity": 17107.47
     },
     {
-      "market": "West Ham United FC vs. Charlton Athletic FC - More Markets \u2014 West Ham United FC vs. Charlton Athletic FC: Both Teams to Score",
-      "prev": 0.565,
-      "now": 0.995,
-      "delta": 0.43,
-      "url": "https://polymarket.com/event/elc-whu-cha-2026-08-22-more-markets",
+      "market": "Will Nottingham Forest FC vs. Leeds United FC end in a draw?",
+      "prev": 0.715,
+      "now": 0.0005,
+      "delta": -0.7145,
+      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Championship"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 1922.5,
-      "liquidity": 17876.33
+      "volume24hr": 45611.73,
+      "liquidity": 552858.83
     },
     {
-      "market": "Elon Musk # tweets August 20 - August 22, 2026? \u2014 Will Elon Musk post 90-114 tweets from August 20 to August 22, 2026?",
-      "prev": 0.59,
+      "market": "Will Ipswich Town FC vs. Sunderland AFC end in a draw?",
+      "prev": 0.695,
+      "now": 0.0005,
+      "delta": -0.6945,
+      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 75972.39,
+      "liquidity": 474377.27
+    },
+    {
+      "market": "Nottingham Forest FC vs. Leeds United FC - More Markets \u2014 Nottingham Forest FC vs. Leeds United FC: O/U 0.5",
+      "prev": 0.305,
       "now": 0.9995,
-      "delta": 0.4095,
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-20-august-22-2026",
+      "delta": 0.6945,
+      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-more-markets",
       "tags": [
-        "Culture",
-        "Politics",
-        "Tweet Markets"
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 13495.52,
-      "liquidity": 3435.37
+      "volume24hr": 60400.07,
+      "liquidity": 434026.76
     },
     {
-      "market": "Valorant: Team Liquid vs Eintracht Frankfurt (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: Team Liquid (-2.5) vs Eintracht Frankfurt (+2.5)",
-      "prev": 0.5,
-      "now": 0.905,
-      "delta": 0.405,
-      "url": "https://polymarket.com/event/val-tl1-sge-2026-08-22",
+      "market": "Ipswich Town FC vs. Sunderland AFC - More Markets \u2014 Ipswich Town FC vs. Sunderland AFC: O/U 2.5",
+      "prev": 0.325,
+      "now": 0.9995,
+      "delta": 0.6745,
+      "url": "https://polymarket.com/event/epl-ips-sun-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 145144.85,
-      "liquidity": 1082.67
+      "volume24hr": 145440.17,
+      "liquidity": 435488.68
     },
     {
-      "market": "Valorant: Team Liquid vs Eintracht Frankfurt (BO3) - VCT EMEA Playoffs \u2014 Map 2 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/val-tl1-sge-2026-08-22",
+      "market": "Nottingham Forest FC vs. Leeds United FC - Exact Score \u2014 Exact Score: Nottingham Forest FC 0 - 0 Leeds United FC?",
+      "prev": 0.67,
+      "now": 0.0005,
+      "delta": -0.6695,
+      "url": "https://polymarket.com/event/epl-not-lee-2026-08-22-exact-score",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 145144.85,
-      "liquidity": 1082.67
+      "volume24hr": 13995.26,
+      "liquidity": 210628.75
     }
   ],
   "log": [
-    {
-      "ts": "08:30:02",
-      "text": " poll complete \u2014 1808 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:45:01",
       "text": " poll complete \u2014 1782 markets scanned, 10 flagged"
@@ -270,6 +278,10 @@
     {
       "ts": "15:45:02",
       "text": " poll complete \u2014 1938 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:00:01",
+      "text": " poll complete \u2014 1915 markets scanned, 10 flagged"
     }
   ]
 }
