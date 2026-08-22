@@ -1,11 +1,41 @@
 {
-  "lastUpdate": "2026-08-22 17:00:02 UTC",
+  "lastUpdate": "2026-08-22 17:15:02 UTC",
   "swings": [
     {
-      "market": "Racing Club de Lens vs. AJ Auxerre - More Markets \u2014 Racing Club de Lens vs. AJ Auxerre: AJ Auxerre O/U 1.5",
-      "prev": 0.215,
-      "now": 0.9945,
-      "delta": 0.7795,
+      "market": "FC Internazionale Milano vs. AC Monza - More Markets \u2014 FC Internazionale Milano vs. AC Monza: Both Teams to Score",
+      "prev": 0.35,
+      "now": 0.9995,
+      "delta": 0.6495,
+      "url": "https://polymarket.com/event/sea-int-mon-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 28181.69,
+      "liquidity": 177256.58
+    },
+    {
+      "market": "FC Internazionale Milano vs. AC Monza - More Markets \u2014 FC Internazionale Milano vs. AC Monza: AC Monza O/U 0.5",
+      "prev": 0.35,
+      "now": 0.9995,
+      "delta": 0.6495,
+      "url": "https://polymarket.com/event/sea-int-mon-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 3539.92,
+      "liquidity": 22705.92
+    },
+    {
+      "market": "Racing Club de Lens vs. AJ Auxerre - More Markets \u2014 Spread: Racing Club de Lens (-2.5)",
+      "prev": 0.39,
+      "now": 0.903,
+      "delta": 0.513,
       "url": "https://polymarket.com/event/fl1-rcl-aja-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -13,14 +43,44 @@
         "Soccer",
         "Ligue 1"
       ],
-      "volume24hr": 298.62,
-      "liquidity": 140.38
+      "volume24hr": 1102.63,
+      "liquidity": 249.1
     },
     {
-      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
-      "prev": 0.77,
-      "now": 0.135,
-      "delta": -0.635,
+      "market": "Athletic Club vs. Sevilla FC - More Markets \u2014 Athletic Club vs. Sevilla FC: Athletic Club 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/lal-bil-sev-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 328029.56,
+      "liquidity": 3584.47
+    },
+    {
+      "market": "FC Internazionale Milano vs. AC Monza - More Markets \u2014 FC Internazionale Milano vs. AC Monza: AC Monza 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/sea-int-mon-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 2241.82,
+      "liquidity": 3289.99
+    },
+    {
+      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs \u2014 Map 3 Rounds Handicap: FURIA (-3.5) vs FUT Esports (+3.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
       "tags": [
         "Esports",
@@ -28,135 +88,71 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 6429457.4,
-      "liquidity": 129229.85
+      "volume24hr": 1815.83,
+      "liquidity": 1685.97
     },
     {
-      "market": "Commanders vs. Lions: 1H O/U 20.5",
-      "prev": 0.845,
-      "now": 0.29,
-      "delta": -0.555,
-      "url": "https://polymarket.com/event/nfl-was-det-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 72.0,
-      "liquidity": 28.33
-    },
-    {
-      "market": "\u00c7aykur Rizespor vs. Samsunspor - More Markets \u2014 \u00c7aykur Rizespor vs. Samsunspor: Both Teams to Score in First Half",
-      "prev": 0.53,
-      "now": 0.003,
-      "delta": -0.527,
-      "url": "https://polymarket.com/event/tur-riz-sam-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "S\u00fcper Lig"
-      ],
-      "volume24hr": 193.16,
-      "liquidity": 3649.61
-    },
-    {
-      "market": "Racing Club de Lens vs. AJ Auxerre - More Markets \u2014 Spread: Racing Club de Lens (-2.5)",
-      "prev": 0.895,
-      "now": 0.39,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/fl1-rcl-aja-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 737.93,
-      "liquidity": 13726.02
-    },
-    {
-      "market": "\u00c7aykur Rizespor vs. Samsunspor - More Markets \u2014 \u00c7aykur Rizespor vs. Samsunspor: \u00c7aykur Rizespor 1st Half O/U 0.5",
+      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs \u2014 Map 3 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/tur-riz-sam-2026-08-22-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "S\u00fcper Lig"
+        "Sports"
       ],
-      "volume24hr": 42.0,
-      "liquidity": 3656.14
+      "volume24hr": 416.63,
+      "liquidity": 554.85
     },
     {
-      "market": "\u00c7aykur Rizespor vs. Samsunspor - More Markets \u2014 \u00c7aykur Rizespor vs. Samsunspor: 1st Half O/U 1.5",
+      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs \u2014 Map 3 Total Rounds: Over/Under 24.5",
       "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/tur-riz-sam-2026-08-22-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "S\u00fcper Lig"
+        "Sports"
       ],
-      "volume24hr": 433.31,
-      "liquidity": 3186.79
+      "volume24hr": 8541013.34,
+      "liquidity": 308.34
     },
     {
-      "market": "\u00c7aykur Rizespor vs. Samsunspor - More Markets \u2014 \u00c7aykur Rizespor vs. Samsunspor: \u00c7aykur Rizespor 1st Half O/U 1.5",
+      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs \u2014 Map 3 Rounds Handicap: FUT Esports (-3.5) vs FURIA (+3.5)",
       "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/tur-riz-sam-2026-08-22-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "S\u00fcper Lig"
+        "Sports"
       ],
-      "volume24hr": 87695.74,
-      "liquidity": 3627.91
+      "volume24hr": 8541013.34,
+      "liquidity": 309.03
     },
     {
-      "market": "\u00c7aykur Rizespor vs. Samsunspor - More Markets \u2014 \u00c7aykur Rizespor vs. Samsunspor: Samsunspor 1st Half O/U 1.5",
+      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs \u2014 Map 3 Rounds Handicap: FURIA (-6.5) vs FUT Esports (+6.5)",
       "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/tur-riz-sam-2026-08-22-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "S\u00fcper Lig"
+        "Sports"
       ],
-      "volume24hr": 87695.74,
-      "liquidity": 3677.07
-    },
-    {
-      "market": "Brentford FC vs. Tottenham Hotspur FC - More Markets \u2014 Brentford FC vs. Tottenham Hotspur FC: Brentford FC 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/epl-bre-tot-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 39.98,
-      "liquidity": 3754.04
+      "volume24hr": 8541013.34,
+      "liquidity": 309.03
     }
   ],
   "log": [
-    {
-      "ts": "09:45:01",
-      "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:00:01",
       "text": " poll complete \u2014 1866 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "17:00:02",
       "text": " poll complete \u2014 1992 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:15:02",
+      "text": " poll complete \u2014 2010 markets scanned, 10 flagged"
     }
   ]
 }
