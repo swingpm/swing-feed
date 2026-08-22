@@ -1,86 +1,150 @@
 {
-  "lastUpdate": "2026-08-22 08:00:01 UTC",
+  "lastUpdate": "2026-08-22 08:15:02 UTC",
   "swings": [
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 LoL: Team WE vs LGD Gaming - Game 1 Winner",
-      "prev": 0.265,
+      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: O/U 4.5",
+      "prev": 0.13,
       "now": 0.9995,
-      "delta": 0.7345,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "delta": 0.8695,
+      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Japan J2 League"
       ],
-      "volume24hr": 713903.84,
-      "liquidity": 1494454.71
+      "volume24hr": 42469.21,
+      "liquidity": 47822.81
     },
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "market": "Highest temperature in Shanghai on August 22? \u2014 Will the highest temperature in Shanghai be 31\u00b0C on August 22?",
+      "prev": 0.16,
+      "now": 0.975,
+      "delta": 0.815,
+      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-22-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shanghai",
+        "Highest temperature"
+      ],
+      "volume24hr": 12973.41,
+      "liquidity": 637.15
+    },
+    {
+      "market": "Highest temperature in Shanghai on August 22? \u2014 Will the highest temperature in Shanghai be 30\u00b0C on August 22?",
+      "prev": 0.765,
+      "now": 0.0005,
+      "delta": -0.7645,
+      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-22-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shanghai",
+        "Highest temperature"
+      ],
+      "volume24hr": 15311.75,
+      "liquidity": 27011.45
+    },
+    {
+      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Both Teams to Score",
+      "prev": 0.425,
+      "now": 0.9995,
+      "delta": 0.5745,
+      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J2 League"
+      ],
+      "volume24hr": 3028.96,
+      "liquidity": 28630.7
+    },
+    {
+      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Hokkaid\u014d Consadole Sapporo O/U 0.5",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Japan J2 League"
       ],
-      "volume24hr": 2560.75,
-      "liquidity": 6861.8
+      "volume24hr": 29.23,
+      "liquidity": 3248.57
     },
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 1?",
+      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Hokkaid\u014d Consadole Sapporo O/U 1.5",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Japan J2 League"
       ],
-      "volume24hr": 150.0,
-      "liquidity": 835.5
+      "volume24hr": 8.44,
+      "liquidity": 2937.26
     },
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Odd/Even Total Kills?",
+      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
+      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Japan J2 League"
       ],
-      "volume24hr": 5.88,
-      "liquidity": 708.69
+      "volume24hr": 111056.57,
+      "liquidity": 1361.92
     },
     {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 39.5 in Game 1?",
+      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J2 League"
+      ],
+      "volume24hr": 111056.57,
+      "liquidity": 1371.61
+    },
+    {
+      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Hokkaid\u014d Consadole Sapporo 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Japan J2 League"
+      ],
+      "volume24hr": 111056.57,
+      "liquidity": 1385.61
+    },
+    {
+      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: Hokkaid\u014d Consadole Sapporo 2nd Half O/U 1.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1324743.13,
-      "liquidity": 733.5
-    },
-    {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
       "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -88,75 +152,11 @@
         "Soccer",
         "Japan J2 League"
       ],
-      "volume24hr": 107526.79,
-      "liquidity": 1109.52
-    },
-    {
-      "market": "Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija - More Markets \u2014 Hokkaid\u014d Consadole Sapporo vs. RB \u014cmiya Ardija: RB \u014cmiya Ardija 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/ja2-con-omi-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J2 League"
-      ],
-      "volume24hr": 107526.79,
-      "liquidity": 1102.46
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs \u2014 First Blood in Game 3?",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/dota2-ngx-boombo-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4627000.0,
-      "liquidity": 111.76
-    },
-    {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 24.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1324743.13,
-      "liquidity": 732.51
-    },
-    {
-      "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.525,
-      "now": 0.9955,
-      "delta": 0.4705,
-      "url": "https://polymarket.com/event/lol-we-lgd-2026-08-22",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1005.72,
-      "liquidity": 2933.12
+      "volume24hr": 111056.57,
+      "liquidity": 1347.01
     }
   ],
   "log": [
-    {
-      "ts": "00:45:01",
-      "text": " poll complete \u2014 1904 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:00:02",
       "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
@@ -272,6 +272,10 @@
     {
       "ts": "08:00:01",
       "text": " poll complete \u2014 1790 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:15:02",
+      "text": " poll complete \u2014 1813 markets scanned, 10 flagged"
     }
   ]
 }
