@@ -1,55 +1,11 @@
 {
-  "lastUpdate": "2026-08-22 19:30:01 UTC",
+  "lastUpdate": "2026-08-22 19:45:01 UTC",
   "swings": [
     {
-      "market": "Borussia Dortmund vs. Bayern Munich - More Markets \u2014 Borussia Dortmund vs. Bayern Munich: 1st Half O/U 1.5",
-      "prev": 0.23,
-      "now": 0.9995,
-      "delta": 0.7695,
-      "url": "https://polymarket.com/event/gsc-bvb-bmu-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "German Super Cup"
-      ],
-      "volume24hr": 10357.3,
-      "liquidity": 128402.02
-    },
-    {
-      "market": "Bills vs. Browns: 1H O/U 19.5",
-      "prev": 0.285,
-      "now": 0.9885,
-      "delta": 0.7035,
-      "url": "https://polymarket.com/event/nfl-buf-cle-2026-08-22",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 84.75,
-      "liquidity": 5097.05
-    },
-    {
-      "market": "Toronto Blue Jays vs. New York Yankees: 1st 5 Innings O/U 2.5",
-      "prev": 0.375,
-      "now": 0.9955,
-      "delta": 0.6205,
-      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 1148.38
-    },
-    {
-      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: 1st Half O/U 0.5",
-      "prev": 0.45,
-      "now": 0.9995,
-      "delta": 0.5495,
+      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: Both Teams to Score in First Half",
+      "prev": 0.11,
+      "now": 0.995,
+      "delta": 0.885,
       "url": "https://polymarket.com/event/fl1-lmf-sbr-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -57,99 +13,146 @@
         "Soccer",
         "Ligue 1"
       ],
-      "volume24hr": 479.67,
-      "liquidity": 13650.31
+      "volume24hr": 133961.98,
+      "liquidity": 2742.11
     },
     {
-      "market": "Cincinnati Open: Flavio Cobolli vs Arthur Fils \u2014 Cobolli vs. Fils: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cobolli-fils-2026-08-22",
+      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: Le Mans FC 1st Half O/U 0.5",
+      "prev": 0.11,
+      "now": 0.995,
+      "delta": 0.885,
+      "url": "https://polymarket.com/event/fl1-lmf-sbr-2026-08-22-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Ligue 1"
       ],
-      "volume24hr": 755281.09,
-      "liquidity": 3012.98
+      "volume24hr": 133961.98,
+      "liquidity": 1811.93
     },
     {
-      "market": "Quebec City: Hugo Gaston vs Luca Van Assche \u2014 Quebec City: Completed Match: Hugo Gaston vs Luca Van Assche",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gaston-assche-2026-08-22",
+      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Clube do Remo 1st Half O/U 0.5",
+      "prev": 0.14,
+      "now": 0.995,
+      "delta": 0.855,
+      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
       ],
-      "volume24hr": 440997.51,
-      "liquidity": 1397.38
+      "volume24hr": 805.13,
+      "liquidity": 2844.45
     },
     {
-      "market": "Quebec City: Hugo Gaston vs Luca Van Assche \u2014 Hugo Gaston vs. Luca Van Assche: Total Sets O/U 2.5",
-      "prev": 0.5,
+      "market": "Le Mans FC vs. Stade Brestois 29 - More Markets \u2014 Le Mans FC vs. Stade Brestois 29: 1st Half O/U 1.5",
+      "prev": 0.15,
+      "now": 0.995,
+      "delta": 0.845,
+      "url": "https://polymarket.com/event/fl1-lmf-sbr-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 31.2,
+      "liquidity": 6160.48
+    },
+    {
+      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Clube do Remo O/U 0.5",
+      "prev": 0.405,
+      "now": 0.989,
+      "delta": 0.584,
+      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 16.0,
+      "liquidity": 2805.07
+    },
+    {
+      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: 1st Half O/U 0.5",
+      "prev": 0.45,
+      "now": 0.995,
+      "delta": 0.545,
+      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 199.53,
+      "liquidity": 7922.09
+    },
+    {
+      "market": "Valencia CF vs. RC Celta de Vigo - More Markets \u2014 Valencia CF vs. RC Celta de Vigo: 2nd Half O/U 0.5",
+      "prev": 0.54,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gaston-assche-2026-08-22",
+      "delta": -0.5395,
+      "url": "https://polymarket.com/event/lal-val-cel-2026-08-22-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 92.45,
-      "liquidity": 5618.53
+      "volume24hr": 413781.76,
+      "liquidity": 3526.87
     },
     {
-      "market": "Quebec City: Hugo Gaston vs Luca Van Assche \u2014 Set 2 Winner: Gaston vs Assche",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gaston-assche-2026-08-22",
+      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Clube do Remo O/U 1.5",
+      "prev": 0.095,
+      "now": 0.62,
+      "delta": 0.525,
+      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
       ],
-      "volume24hr": 440997.51,
-      "liquidity": 3773.26
+      "volume24hr": 8.18,
+      "liquidity": 1445.53
     },
     {
-      "market": "Quebec City: Hugo Gaston vs Luca Van Assche \u2014 Gaston vs. Assche: Set 2 Games O/U 8.5",
+      "market": "Fluminense FC vs. Clube do Remo - More Markets \u2014 Fluminense FC vs. Clube do Remo: Both Teams to Score in First Half",
+      "prev": 0.045,
+      "now": 0.56,
+      "delta": 0.515,
+      "url": "https://polymarket.com/event/bra-flu-cre-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 2.0,
+      "liquidity": 41.04
+    },
+    {
+      "market": "Atlanta Braves vs. Milwaukee Brewers: 1st 5 Innings O/U 4.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gaston-assche-2026-08-22",
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-22",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 440997.51,
-      "liquidity": 3487.47
-    },
-    {
-      "market": "Quebec City: Hugo Gaston vs Luca Van Assche \u2014 Gaston vs. Assche: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gaston-assche-2026-08-22",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 440997.51,
-      "liquidity": 3471.28
+      "volume24hr": 12963.3,
+      "liquidity": 24493.34
     }
   ],
   "log": [
-    {
-      "ts": "12:15:02",
-      "text": " poll complete \u2014 1916 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:30:02",
       "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
@@ -265,6 +268,10 @@
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:45:01",
+      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
     }
   ]
 }
