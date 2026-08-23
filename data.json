@@ -1,153 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 15:45:02 UTC",
+  "lastUpdate": "2026-08-23 16:00:02 UTC",
   "swings": [
     {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Newcastle United FC 1st Half O/U 0.5",
-      "prev": 0.46,
-      "now": 0.9995,
-      "delta": 0.5395,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 512.64,
-      "liquidity": 11901.58
-    },
-    {
-      "market": "The International 2026: Winner \u2014 Will A Win The International 2026?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/the-international-2026-winner-20260629212545745",
-      "tags": [
-        "Dota2",
-        "Dota 2",
-        "Sports",
-        "Esports",
-        "The International"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "The International 2026: Winner \u2014 Will B Win The International 2026?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/the-international-2026-winner-20260629212545745",
-      "tags": [
-        "Dota2",
-        "Dota 2",
-        "Sports",
-        "Esports",
-        "The International"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "The International 2026: Winner \u2014 Will C Win The International 2026?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/the-international-2026-winner-20260629212545745",
-      "tags": [
-        "Dota2",
-        "Dota 2",
-        "Sports",
-        "Esports",
-        "The International"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "The International 2026: Winner \u2014 Will another team Win The International 2026?",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/the-international-2026-winner-20260629212545745",
-      "tags": [
-        "Dota2",
-        "Dota 2",
-        "Sports",
-        "Esports",
-        "The International"
-      ],
-      "volume24hr": 0.0,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Newcastle United FC 1st Half O/U 1.5",
-      "prev": 0.115,
-      "now": 0.61,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 244.01,
-      "liquidity": 6.07
-    },
-    {
-      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 First Blood in Game 1?",
-      "prev": 0.4895,
-      "now": 0.0005,
-      "delta": -0.489,
-      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 348367.43,
-      "liquidity": 19.56
-    },
-    {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Both Teams to Score in First Half",
-      "prev": 0.27,
-      "now": 0.745,
-      "delta": 0.475,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 395.98,
-      "liquidity": 49.87
-    },
-    {
-      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 LoL: Team Heretics vs GIANTX - Game 1 Winner",
-      "prev": 0.595,
-      "now": 0.12,
-      "delta": -0.475,
-      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 157467.98,
-      "liquidity": 165382.39
-    },
-    {
       "market": "AC Horsens vs. Lyngby BK - More Markets \u2014 AC Horsens vs. Lyngby BK: AC Horsens O/U 1.5",
-      "prev": 0.625,
-      "now": 0.18,
-      "delta": -0.445,
+      "prev": 0.18,
+      "now": 0.995,
+      "delta": 0.815,
       "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -156,14 +14,145 @@
         "Denmark Superliga"
       ],
       "volume24hr": 20.29,
-      "liquidity": 845.01
+      "liquidity": 5.94
+    },
+    {
+      "market": "AC Horsens vs. Lyngby BK \u2014 Will AC Horsens win on 2026-08-23?",
+      "prev": 0.115,
+      "now": 0.905,
+      "delta": 0.79,
+      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 364321.46,
+      "liquidity": 27242.97
+    },
+    {
+      "market": "Valorant: Enterprise Esports vs Team Liquid (BO3) - VCT EMEA Playoffs \u2014 Valorant: Enterprise Esports vs Team Liquid - Map 2 Winner",
+      "prev": 0.705,
+      "now": 0.0005,
+      "delta": -0.7045,
+      "url": "https://polymarket.com/event/val-ep1-tl1-2026-08-23",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93232.02,
+      "liquidity": 541817.36
+    },
+    {
+      "market": "AC Horsens vs. Lyngby BK - More Markets \u2014 AC Horsens vs. Lyngby BK: O/U 2.5",
+      "prev": 0.39,
+      "now": 0.9995,
+      "delta": 0.6095,
+      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 112994.43,
+      "liquidity": 247926.79
+    },
+    {
+      "market": "Will AC Horsens vs. Lyngby BK end in a draw?",
+      "prev": 0.655,
+      "now": 0.095,
+      "delta": -0.56,
+      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 7025.6,
+      "liquidity": 7609.77
+    },
+    {
+      "market": "Valorant: Enterprise Esports vs Team Liquid (BO3) - VCT EMEA Playoffs \u2014 Map Handicap: TL (-1.5) vs Enterprise Esports (+1.5)",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/val-ep1-tl1-2026-08-23",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 122.22,
+      "liquidity": 6997.25
+    },
+    {
+      "market": "Valorant: Enterprise Esports vs Team Liquid (BO3) - VCT EMEA Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-ep1-tl1-2026-08-23",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 157.19,
+      "liquidity": 9098.72
+    },
+    {
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Club Atl\u00e9tico de Madrid 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 233674.87,
+      "liquidity": 3287.32
+    },
+    {
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Club Atl\u00e9tico de Madrid 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 222.73,
+      "liquidity": 3237.82
+    },
+    {
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Villarreal CF 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 749.05,
+      "liquidity": 3287.32
     }
   ],
   "log": [
-    {
-      "ts": "08:30:02",
-      "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:45:02",
       "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
@@ -279,6 +268,10 @@
     {
       "ts": "15:45:02",
       "text": " poll complete \u2014 1954 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:00:02",
+      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
     }
   ]
 }
