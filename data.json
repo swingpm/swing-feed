@@ -1,159 +1,157 @@
 {
-  "lastUpdate": "2026-08-23 19:00:02 UTC",
+  "lastUpdate": "2026-08-23 19:15:02 UTC",
   "swings": [
     {
-      "market": "Detroit Tigers vs. Kansas City Royals: 1st 5 Innings O/U 5.5",
-      "prev": 0.325,
+      "market": "Paris Saint-Germain FC vs. Stade Rennais FC 1901 - More Markets \u2014 Paris Saint-Germain FC vs. Stade Rennais FC 1901: Stade Rennais FC 1901 1st Half O/U 0.5",
+      "prev": 0.345,
       "now": 0.995,
-      "delta": 0.67,
-      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 29.99,
-      "liquidity": 3250.8
-    },
-    {
-      "market": "Detroit Tigers vs. Kansas City Royals: 1st 5 Innings O/U 6.5",
-      "prev": 0.22,
-      "now": 0.825,
-      "delta": 0.605,
-      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 50.21,
-      "liquidity": 641.95
-    },
-    {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o O/U 0.5",
-      "prev": 0.57,
-      "now": 0.005,
-      "delta": -0.565,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
+      "delta": 0.65,
+      "url": "https://polymarket.com/event/fl1-psg-ren-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Primeira Liga"
+        "Ligue 1"
       ],
-      "volume24hr": 104472.54,
-      "liquidity": 10006.44
+      "volume24hr": 9.74,
+      "liquidity": 29474.32
     },
     {
-      "market": "Detroit Tigers vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-1.5)",
-      "prev": 0.245,
-      "now": 0.805,
-      "delta": 0.56,
-      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1597.0,
-      "liquidity": 346.75
-    },
-    {
-      "market": "Detroit Tigers vs. Kansas City Royals: 1st 5 Innings O/U 4.5",
-      "prev": 0.455,
-      "now": 0.9955,
-      "delta": 0.5405,
-      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 498.02,
-      "liquidity": 553.63
-    },
-    {
-      "market": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele \u2014 Herbert vs. Vandecasteele: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-herbert-vandeca-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 181710.92,
-      "liquidity": 2649.61
-    },
-    {
-      "market": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele \u2014 Herbert vs. Vandecasteele: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-herbert-vandeca-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 181710.92,
-      "liquidity": 2649.61
-    },
-    {
-      "market": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele \u2014 Herbert vs. Vandecasteele: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-herbert-vandeca-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 181710.92,
-      "liquidity": 2663.34
-    },
-    {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o O/U 2.5",
+      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
+      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Primeira Liga"
+        "Sports"
       ],
-      "volume24hr": 10.5,
-      "liquidity": 10006.9
+      "volume24hr": 894.32,
+      "liquidity": 602.63
     },
     {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o O/U 1.5",
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game Handicap: SHFT (-1.5) vs Karmine Corp (+1.5)",
       "prev": 0.5,
-      "now": 0.0015,
-      "delta": -0.4985,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 7898.07
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: Philadelphia Phillies (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Primeira Liga"
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 45.92,
+      "liquidity": 1721.3
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: St. Louis Cardinals (-1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 34.94,
+      "liquidity": 1252.33
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 35.0,
+      "liquidity": 1252.56
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 810.87,
+      "liquidity": 2220.7
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 139.95,
+      "liquidity": 1821.66
+    },
+    {
+      "market": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Dhakshineswar Suresh \u2014 Winston-Salem Open, Qualification: Completed Match: Abedallah Shelbayh vs Dhakshineswar Suresh",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-shelbay-suresh-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 201727.05,
+      "liquidity": 945.52
+    },
+    {
+      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5005,
+      "now": 0.9995,
+      "delta": 0.499,
+      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
       "volume24hr": 5.0,
-      "liquidity": 10673.67
+      "liquidity": 630.63
     }
   ],
   "log": [
-    {
-      "ts": "11:45:01",
-      "text": " poll complete \u2014 2080 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:00:01",
       "text": " poll complete \u2014 2077 markets scanned, 10 flagged"
@@ -269,6 +267,10 @@
     {
       "ts": "19:00:02",
       "text": " poll complete \u2014 1978 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:15:02",
+      "text": " poll complete \u2014 2031 markets scanned, 10 flagged"
     }
   ]
 }
