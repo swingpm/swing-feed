@@ -1,71 +1,115 @@
 {
-  "lastUpdate": "2026-08-23 02:30:01 UTC",
+  "lastUpdate": "2026-08-23 02:45:01 UTC",
   "swings": [
     {
-      "market": "San Francisco Giants vs. Boston Red Sox",
-      "prev": 0.805,
-      "now": 0.005,
-      "delta": -0.8,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 209069.41,
-      "liquidity": 243624.81
-    },
-    {
-      "market": "New York Mets vs. Chicago White Sox: O/U 13.5",
-      "prev": 0.275,
+      "market": "Nashville SC vs. Columbus Crew - More Markets \u2014 Nashville SC vs. Columbus Crew: Nashville SC O/U 2.5",
+      "prev": 0.04,
       "now": 0.9995,
-      "delta": 0.7245,
-      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 120.93,
-      "liquidity": 8214.64
-    },
-    {
-      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: 1st Half O/U 2.5",
-      "prev": 0.285,
-      "now": 0.9995,
-      "delta": 0.7145,
-      "url": "https://polymarket.com/event/mex-gua-tij-2026-08-22-more-markets",
+      "delta": 0.9595,
+      "url": "https://polymarket.com/event/mls-nas-clb-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Liga MX"
+        "MLS"
       ],
-      "volume24hr": 135.93,
-      "liquidity": 32980.22
+      "volume24hr": 445.33,
+      "liquidity": 13133.5
     },
     {
-      "market": "San Francisco Giants vs. Boston Red Sox \u2014 Spread: San Francisco Giants (-1.5)",
-      "prev": 0.63,
+      "market": "Nashville SC vs. Columbus Crew - More Markets \u2014 Nashville SC vs. Columbus Crew: O/U 4.5",
+      "prev": 0.074,
+      "now": 0.9995,
+      "delta": 0.9255,
+      "url": "https://polymarket.com/event/mls-nas-clb-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 11647.12,
+      "liquidity": 179387.47
+    },
+    {
+      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-1.5)",
+      "prev": 0.83,
       "now": 0.0005,
-      "delta": -0.6295,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-22",
+      "delta": -0.8295,
+      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-22",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 12162.47,
-      "liquidity": 29471.87
+      "volume24hr": 5067.16,
+      "liquidity": 60768.82
     },
     {
-      "market": "Vancouver Whitecaps FC vs. FC Dallas - More Markets \u2014 Vancouver Whitecaps FC vs. FC Dallas: 1st Half O/U 2.5",
-      "prev": 0.485,
+      "market": "Nashville SC vs. Columbus Crew - More Markets \u2014 Nashville SC vs. Columbus Crew: Nashville SC O/U 1.5",
+      "prev": 0.27,
+      "now": 0.9955,
+      "delta": 0.7255,
+      "url": "https://polymarket.com/event/mls-nas-clb-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 136.85,
+      "liquidity": 13014.5
+    },
+    {
+      "market": "Nashville SC vs. Columbus Crew - More Markets \u2014 Nashville SC vs. Columbus Crew: O/U 3.5",
+      "prev": 0.37,
       "now": 0.9995,
-      "delta": 0.5145,
+      "delta": 0.6295,
+      "url": "https://polymarket.com/event/mls-nas-clb-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 11253.92,
+      "liquidity": 172954.81
+    },
+    {
+      "market": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) \u2014 O/U 2.5 Rounds",
+      "prev": 0.38,
+      "now": 0.9995,
+      "delta": 0.6195,
+      "url": "https://polymarket.com/event/ufc-ant-gre3-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 3168.05,
+      "liquidity": 1618.4
+    },
+    {
+      "market": "Cleveland Guardians vs. Colorado Rockies: O/U 6.5",
+      "prev": 0.485,
+      "now": 0.9955,
+      "delta": 0.5105,
+      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 240022.22,
+      "liquidity": 10467.58
+    },
+    {
+      "market": "Vancouver Whitecaps FC vs. FC Dallas - More Markets \u2014 Vancouver Whitecaps FC vs. FC Dallas: Both Teams to Score in First Half",
+      "prev": 0.51,
+      "now": 0.003,
+      "delta": -0.507,
       "url": "https://polymarket.com/event/mls-vwh-dal-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -73,90 +117,40 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 321.43,
-      "liquidity": 15512.2
+      "volume24hr": 70.85,
+      "liquidity": 3485.2
     },
     {
-      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: Club Tijuana 1st Half O/U 0.5",
-      "prev": 0.51,
-      "now": 0.0045,
-      "delta": -0.5055,
-      "url": "https://polymarket.com/event/mex-gua-tij-2026-08-22-more-markets",
+      "market": "New York Mets vs. Chicago White Sox \u2014 Spread: New York Mets (-3.5)",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Liga MX"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 14.52,
-      "liquidity": 2273.64
+      "volume24hr": 9.0,
+      "liquidity": 10065.22
     },
     {
-      "market": "San Francisco Giants vs. Boston Red Sox: O/U 3.5",
+      "market": "Cincinnati Open: Sara Bejlek vs Coco Gauff \u2014 Cincinnati Open: Completed Match: Sara Bejlek vs Coco Gauff",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-22",
+      "url": "https://polymarket.com/event/wta-bejlek-gauff-2026-08-22",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 17.46,
-      "liquidity": 2416.58
-    },
-    {
-      "market": "San Francisco Giants vs. Boston Red Sox: O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 385995.28,
-      "liquidity": 4519.1
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 25.0,
-      "liquidity": 1292.16
-    },
-    {
-      "market": "San Francisco Giants vs. Boston Red Sox: O/U 4.5",
-      "prev": 0.5,
-      "now": 0.9975,
-      "delta": 0.4975,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 20.4,
-      "liquidity": 1972.87
+      "volume24hr": 484.0,
+      "liquidity": 1395.68
     }
   ],
   "log": [
-    {
-      "ts": "19:15:01",
-      "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
@@ -272,6 +266,10 @@
     {
       "ts": "02:30:01",
       "text": " poll complete \u2014 1912 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:45:01",
+      "text": " poll complete \u2014 1907 markets scanned, 10 flagged"
     }
   ]
 }
