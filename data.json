@@ -1,116 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 18:00:01 UTC",
+  "lastUpdate": "2026-08-23 18:15:01 UTC",
   "swings": [
     {
-      "market": "Will there be a run scored in the first inning?: St. Louis Cardinals vs. Philadelphia Phillies",
-      "prev": 0.435,
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 LoL: Shifters vs Karmine Corp - Game 1 Winner",
+      "prev": 0.263,
       "now": 0.9995,
-      "delta": 0.5645,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 40815.78,
-      "liquidity": 51143.16
-    },
-    {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: Both Teams to Score in First Half",
-      "prev": 0.535,
-      "now": 0.0045,
-      "delta": -0.5305,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 96454.57,
-      "liquidity": 2371.46
-    },
-    {
-      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 268035.09,
-      "liquidity": 6813.47
-    },
-    {
-      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: US Lecce 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 268035.09,
-      "liquidity": 6705.46
-    },
-    {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 96454.57,
-      "liquidity": 2373.92
-    },
-    {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: CD Santa Clara 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 96454.57,
-      "liquidity": 2385.41
-    },
-    {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 96454.57,
-      "liquidity": 2316.43
-    },
-    {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "delta": 0.7365,
       "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
       "tags": [
         "Esports",
@@ -118,14 +13,59 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 290043.1,
-      "liquidity": 15.83
+      "volume24hr": 332040.84,
+      "liquidity": 710991.4
     },
     {
-      "market": "Getafe CF vs. Real Racing Club - More Markets \u2014 Getafe CF vs. Real Racing Club: Real Racing Club 1st Half O/U 1.5",
-      "prev": 0.06,
-      "now": 0.5,
-      "delta": 0.44,
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game Handicap: KC (-1.5) vs Shifters (+1.5)",
+      "prev": 0.605,
+      "now": 0.0005,
+      "delta": -0.6045,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 32195.82,
+      "liquidity": 295688.13
+    },
+    {
+      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.175,
+      "now": 0.72,
+      "delta": 0.545,
+      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 509.05,
+      "liquidity": 8.8
+    },
+    {
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Games Total: O/U 2.5",
+      "prev": 0.34,
+      "now": 0.875,
+      "delta": 0.535,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 26791.31,
+      "liquidity": 160244.68
+    },
+    {
+      "market": "Getafe CF vs. Real Racing Club - More Markets \u2014 Getafe CF vs. Real Racing Club: Real Racing Club 1st Half O/U 0.5",
+      "prev": 0.61,
+      "now": 0.11,
+      "delta": -0.5,
       "url": "https://polymarket.com/event/lal-get-rrc-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -133,30 +73,86 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 459.0,
-      "liquidity": 374617.44
+      "volume24hr": 1315.63,
+      "liquidity": 684.78
     },
     {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o O/U 1.5",
-      "prev": 0.575,
-      "now": 0.15,
-      "delta": -0.425,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Primeira Liga"
+        "Sports"
+      ],
+      "volume24hr": 732.95,
+      "liquidity": 1062.05
+    },
+    {
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 33.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 120.0,
+      "liquidity": 746.01
+    },
+    {
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
       "volume24hr": 5.0,
-      "liquidity": 1081.64
+      "liquidity": 633.4
+    },
+    {
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 21.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 805.43
+    },
+    {
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 36.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 537420.03,
+      "liquidity": 1017.88
     }
   ],
   "log": [
-    {
-      "ts": "10:45:01",
-      "text": " poll complete \u2014 2019 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:00:01",
       "text": " poll complete \u2014 2046 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "18:00:01",
       "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:15:01",
+      "text": " poll complete \u2014 1992 markets scanned, 10 flagged"
     }
   ]
 }
