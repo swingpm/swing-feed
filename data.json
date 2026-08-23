@@ -1,58 +1,101 @@
 {
-  "lastUpdate": "2026-08-23 13:45:01 UTC",
+  "lastUpdate": "2026-08-23 14:00:01 UTC",
   "swings": [
     {
-      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - Exact Score \u2014 Exact Score: Any Other Score?",
-      "prev": 0.39,
+      "market": "Young Boys Bern vs. FC Vaduz - More Markets \u2014 Spread: Young Boys Bern (-1.5)",
+      "prev": 0.25,
       "now": 0.9995,
-      "delta": 0.6095,
-      "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-exact-score",
+      "delta": 0.7495,
+      "url": "https://polymarket.com/event/sui-yb-vad-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "Switzerland Super League"
       ],
-      "volume24hr": 190.4,
-      "liquidity": 12089.73
+      "volume24hr": 34006.03,
+      "liquidity": 39186.8
     },
     {
-      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Spread: Brighton & Hove Albion FC (-2.5)",
-      "prev": 0.385,
-      "now": 0.9695,
-      "delta": 0.5845,
-      "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 860.16,
-      "liquidity": 39476.85
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 5: Both Teams Destroy Barracks?",
-      "prev": 0.665,
-      "now": 0.1,
-      "delta": -0.565,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Games Total: O/U 2.5",
+      "prev": 0.235,
+      "now": 0.9,
+      "delta": 0.665,
+      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 44.63,
-      "liquidity": 128.96
+      "volume24hr": 18639.14,
+      "liquidity": 123026.21
     },
     {
-      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: O/U 4.5",
-      "prev": 0.315,
-      "now": 0.865,
-      "delta": 0.55,
+      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game Handicap: AL (-1.5) vs Bilibili Gaming (+1.5)",
+      "prev": 0.68,
+      "now": 0.115,
+      "delta": -0.565,
+      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1173.54,
+      "liquidity": 985.85
+    },
+    {
+      "market": "Young Boys Bern vs. FC Vaduz - More Markets \u2014 Young Boys Bern vs. FC Vaduz: O/U 5.5",
+      "prev": 0.46,
+      "now": 0.9995,
+      "delta": 0.5395,
+      "url": "https://polymarket.com/event/sui-yb-vad-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Switzerland Super League"
+      ],
+      "volume24hr": 10929.78,
+      "liquidity": 83134.68
+    },
+    {
+      "market": "Young Boys Bern vs. FC Vaduz - More Markets \u2014 Young Boys Bern vs. FC Vaduz: FC Vaduz O/U 2.5",
+      "prev": 0.54,
+      "now": 0.0045,
+      "delta": -0.5355,
+      "url": "https://polymarket.com/event/sui-yb-vad-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Switzerland Super League"
+      ],
+      "volume24hr": 674.78,
+      "liquidity": 10943.61
+    },
+    {
+      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 LoL: Bilibili Gaming vs Anyone's Legend - Game 2 Winner",
+      "prev": 0.36,
+      "now": 0.885,
+      "delta": 0.525,
+      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 410233.07,
+      "liquidity": 195084.78
+    },
+    {
+      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: Both Teams to Score in First Half",
+      "prev": 0.505,
+      "now": 0.0045,
+      "delta": -0.5005,
       "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -61,14 +104,14 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 18249.87,
-      "liquidity": 104490.53
+      "volume24hr": 28.59,
+      "liquidity": 4281.61
     },
     {
-      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: AFC Bournemouth 1st Half O/U 0.5",
+      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Manchester City FC 1st Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -77,90 +120,43 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 990.44,
-      "liquidity": 16860.63
+      "volume24hr": 292.21,
+      "liquidity": 1628.07
     },
     {
-      "market": "Shanghai Haigang FC vs. Qingdao Hainiu FC - More Markets \u2014 Shanghai Haigang FC vs. Qingdao Hainiu FC: Both Teams to Score in Second Half",
+      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Manchester City FC 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/chi-shp-hai-2026-08-23-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Chinese Super League"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 156128.47,
-      "liquidity": 3226.35
+      "volume24hr": 831.66,
+      "liquidity": 1691.3
     },
     {
-      "market": "Shanghai Haigang FC vs. Qingdao Hainiu FC - More Markets \u2014 Shanghai Haigang FC vs. Qingdao Hainiu FC: 2nd Half O/U 1.5",
+      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: Aston Villa FC 1st Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/chi-shp-hai-2026-08-23-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Chinese Super League"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 156128.47,
-      "liquidity": 3226.23
-    },
-    {
-      "market": "Shanghai Haigang FC vs. Qingdao Hainiu FC - More Markets \u2014 Shanghai Haigang FC vs. Qingdao Hainiu FC: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/chi-shp-hai-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Chinese Super League"
-      ],
-      "volume24hr": 156128.47,
-      "liquidity": 3373.96
-    },
-    {
-      "market": "Shanghai Haigang FC vs. Qingdao Hainiu FC - More Markets \u2014 Shanghai Haigang FC vs. Qingdao Hainiu FC: Shanghai Haigang FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/chi-shp-hai-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Chinese Super League"
-      ],
-      "volume24hr": 156128.47,
-      "liquidity": 3242.03
-    },
-    {
-      "market": "Shanghai Haigang FC vs. Qingdao Hainiu FC - More Markets \u2014 Shanghai Haigang FC vs. Qingdao Hainiu FC: Qingdao Hainiu FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/chi-shp-hai-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Chinese Super League"
-      ],
-      "volume24hr": 156128.47,
-      "liquidity": 3241.78
+      "volume24hr": 129.46,
+      "liquidity": 13542.79
     }
   ],
   "log": [
-    {
-      "ts": "06:30:01",
-      "text": " poll complete \u2014 1803 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:45:01",
       "text": " poll complete \u2014 1810 markets scanned, 10 flagged"
@@ -276,6 +272,10 @@
     {
       "ts": "13:45:01",
       "text": " poll complete \u2014 1982 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:00:01",
+      "text": " poll complete \u2014 1969 markets scanned, 10 flagged"
     }
   ]
 }
