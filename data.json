@@ -1,172 +1,158 @@
 {
-  "lastUpdate": "2026-08-23 15:00:02 UTC",
+  "lastUpdate": "2026-08-23 15:15:02 UTC",
   "swings": [
     {
-      "market": "Manchester City FC vs. AFC Bournemouth - Exact Score \u2014 Exact Score: Manchester City FC 2 - 1 AFC Bournemouth?",
-      "prev": 0.055,
-      "now": 0.9995,
-      "delta": 0.9445,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 9385.22,
-      "liquidity": 198764.06
-    },
-    {
-      "market": "Manchester City FC vs. AFC Bournemouth \u2014 Will Manchester City FC win on 2026-08-23?",
-      "prev": 0.065,
-      "now": 0.9995,
-      "delta": 0.9345,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 1398113.66,
-      "liquidity": 898368.1
-    },
-    {
-      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Manchester City FC O/U 1.5",
-      "prev": 0.075,
-      "now": 0.9995,
-      "delta": 0.9245,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 64037.67,
-      "liquidity": 198625.87
-    },
-    {
-      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: O/U 2.5",
-      "prev": 0.11,
-      "now": 0.9995,
-      "delta": 0.8895,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 177031.7,
-      "liquidity": 369659.03
-    },
-    {
-      "market": "Manchester City FC vs. AFC Bournemouth \u2014 Will AFC Bournemouth win on 2026-08-23?",
-      "prev": 0.655,
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: 1st Half O/U 2.5",
+      "prev": 0.4995,
       "now": 0.0005,
-      "delta": -0.6545,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23",
+      "delta": -0.499,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "Club Friendlies"
       ],
-      "volume24hr": 516224.18,
-      "liquidity": 419183.0
+      "volume24hr": 5.0,
+      "liquidity": 880.11
     },
     {
-      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: 2nd Half O/U 0.5",
-      "prev": 0.65,
-      "now": 0.005,
-      "delta": -0.645,
-      "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-more-markets",
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: SV Meppen 1912 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "Club Friendlies"
       ],
-      "volume24hr": 439989.29,
-      "liquidity": 4668.66
+      "volume24hr": 77008.77,
+      "liquidity": 875.12
     },
     {
-      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Manchester City FC O/U 0.5",
-      "prev": 0.36,
-      "now": 0.9995,
-      "delta": 0.6395,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: Werder Bremen 1st Half O/U 1.5",
+      "prev": 0.4995,
+      "now": 0.0025,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "Club Friendlies"
       ],
-      "volume24hr": 22490.91,
-      "liquidity": 254674.43
+      "volume24hr": 5.0,
+      "liquidity": 875.12
     },
     {
-      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Both Teams to Score",
-      "prev": 0.385,
-      "now": 0.9995,
-      "delta": 0.6145,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "Club Friendlies"
       ],
-      "volume24hr": 40165.06,
-      "liquidity": 266501.23
+      "volume24hr": 77008.77,
+      "liquidity": 11.89
     },
     {
-      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: O/U 1.5",
-      "prev": 0.475,
-      "now": 0.9995,
-      "delta": 0.5245,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "Club Friendlies"
       ],
-      "volume24hr": 267329.67,
-      "liquidity": 425022.27
+      "volume24hr": 77008.77,
+      "liquidity": 11.89
     },
     {
-      "market": "Manchester City FC vs. AFC Bournemouth - Exact Score \u2014 Exact Score: Manchester City FC 0 - 1 AFC Bournemouth?",
-      "prev": 0.5245,
-      "now": 0.0005,
-      "delta": -0.524,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-exact-score",
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "Club Friendlies"
       ],
-      "volume24hr": 13808.91,
-      "liquidity": 223250.09
+      "volume24hr": 77008.77,
+      "liquidity": 11.89
+    },
+    {
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: Werder Bremen 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 77008.77,
+      "liquidity": 11.89
+    },
+    {
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: SV Meppen 1912 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 77008.77,
+      "liquidity": 11.89
+    },
+    {
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: SV Meppen 1912 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 77008.77,
+      "liquidity": 11.89
+    },
+    {
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: 2nd Half O/U 2.5",
+      "prev": 0.5095,
+      "now": 0.9945,
+      "delta": 0.485,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Club Friendlies"
+      ],
+      "volume24hr": 77008.77,
+      "liquidity": 31.89
     }
   ],
   "log": [
-    {
-      "ts": "07:45:01",
-      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:00:02",
       "text": " poll complete \u2014 1851 markets scanned, 10 flagged"
@@ -282,6 +268,10 @@
     {
       "ts": "15:00:02",
       "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:15:02",
+      "text": " poll complete \u2014 1981 markets scanned, 10 flagged"
     }
   ]
 }
