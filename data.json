@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 05:00:01 UTC",
+  "lastUpdate": "2026-08-23 05:15:01 UTC",
   "swings": [
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: CF Cruz Azul O/U 0.5",
-      "prev": 0.68,
-      "now": 0.105,
-      "delta": -0.575,
+      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: 2nd Half O/U 0.5",
+      "prev": 0.57,
+      "now": 0.0005,
+      "delta": -0.5695,
       "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -13,134 +13,14 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 302.99,
-      "liquidity": 67.21
-    },
-    {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: O/U 2.5",
-      "prev": 0.575,
-      "now": 0.175,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 42257.31,
-      "liquidity": 26602.44
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.14,
-      "now": 0.5,
-      "delta": 0.36,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 948106.11,
-      "liquidity": 0.1
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.14,
-      "now": 0.5,
-      "delta": 0.36,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 948106.11,
-      "liquidity": 0.1
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
-      "prev": 0.14,
-      "now": 0.5,
-      "delta": 0.36,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 948106.11,
-      "liquidity": 0.1
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.19,
-      "now": 0.5,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 948106.11,
-      "liquidity": 0.1
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Any Player Ultra Kill?",
-      "prev": 0.19,
-      "now": 0.5,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 948106.11,
-      "liquidity": 0.1
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
-      "prev": 0.195,
-      "now": 0.5,
-      "delta": 0.305,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 948106.11,
-      "liquidity": 0.1
-    },
-    {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Both Teams to Score",
-      "prev": 0.455,
-      "now": 0.16,
-      "delta": -0.295,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 4745.77,
-      "liquidity": 4198.59
+      "volume24hr": 208567.68,
+      "liquidity": 3216.41
     },
     {
       "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Atlas FC O/U 2.5",
-      "prev": 0.2185,
-      "now": 0.5085,
-      "delta": 0.29,
+      "prev": 0.5085,
+      "now": 0.0005,
+      "delta": -0.508,
       "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +28,131 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 402.16,
-      "liquidity": 251.21
+      "volume24hr": 683.95,
+      "liquidity": 14235.04
+    },
+    {
+      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 208567.68,
+      "liquidity": 3261.07
+    },
+    {
+      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 6.66,
+      "liquidity": 3261.07
+    },
+    {
+      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 208567.68,
+      "liquidity": 3222.3
+    },
+    {
+      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: CF Cruz Azul 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 208567.68,
+      "liquidity": 3261.02
+    },
+    {
+      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: CF Cruz Azul 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 208567.68,
+      "liquidity": 3261.07
+    },
+    {
+      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Atlas FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 208567.68,
+      "liquidity": 3216.4
+    },
+    {
+      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Atlas FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 208567.68,
+      "liquidity": 3213.72
+    },
+    {
+      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: CF Cruz Azul O/U 1.5",
+      "prev": 0.461,
+      "now": 0.0005,
+      "delta": -0.4605,
+      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 87.84,
+      "liquidity": 13462.08
     }
   ],
   "log": [
-    {
-      "ts": "21:45:01",
-      "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "05:00:01",
       "text": " poll complete \u2014 1853 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:15:01",
+      "text": " poll complete \u2014 1919 markets scanned, 10 flagged"
     }
   ]
 }
