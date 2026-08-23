@@ -1,23 +1,68 @@
 {
-  "lastUpdate": "2026-08-23 04:15:02 UTC",
+  "lastUpdate": "2026-08-23 04:30:01 UTC",
   "swings": [
     {
-      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Spread: Atlanta Dream (-8.5)",
-      "prev": 0.33,
-      "now": 0.9995,
-      "delta": 0.6695,
-      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "market": "Los Angeles FC vs. Portland Timbers \u2014 Will Portland Timbers win on 2026-08-22?",
+      "prev": 0.58,
+      "now": 0.055,
+      "delta": -0.525,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 49075.7,
-      "liquidity": 150756.77
+      "volume24hr": 50315.48,
+      "liquidity": 154161.9
     },
     {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 369.11,
+      "liquidity": 1404.87
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Both Teams Beat Roshan?",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 10438610.4,
+      "liquidity": 808.45
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Ends in Daytime?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1.56,
+      "liquidity": 799.14
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
@@ -28,11 +73,26 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 9884328.36,
-      "liquidity": 308.67
+      "volume24hr": 2.08,
+      "liquidity": 813.12
     },
     {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 2?",
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 29.41,
+      "liquidity": 798.31
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
@@ -43,120 +103,56 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 9884328.36,
-      "liquidity": 412.62
+      "volume24hr": 14.31,
+      "liquidity": 797.71
     },
     {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 9884328.36,
-      "liquidity": 358.17
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 2?",
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: 2nd Half O/U 0.5",
       "prev": 0.5,
       "now": 0.9945,
       "delta": 0.4945,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "Dota 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 9884328.36,
-      "liquidity": 6.0
+      "volume24hr": 155512.58,
+      "liquidity": 625.82
     },
     {
-      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Spread: Atlanta Dream (-5.5)",
-      "prev": 0.505,
-      "now": 0.9995,
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Los Angeles FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9945,
       "delta": 0.4945,
-      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 29776.29,
-      "liquidity": 95163.39
+      "volume24hr": 155512.58,
+      "liquidity": 628.0
     },
     {
-      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Allisha Gray: Points O/U 19.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Los Angeles FC O/U 0.5",
+      "prev": 0.525,
+      "now": 0.9995,
+      "delta": 0.4745,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 537364.95,
-      "liquidity": 410.62
-    },
-    {
-      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Rhyne Howard: Points O/U 18.5",
-      "prev": 0.5,
-      "now": 0.905,
-      "delta": 0.405,
-      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 537364.95,
-      "liquidity": 410.62
-    },
-    {
-      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Alyssa Thomas: Points O/U 14.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 537364.95,
-      "liquidity": 410.62
-    },
-    {
-      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Naz Hillmon: Points O/U 9.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 4.55,
-      "liquidity": 410.62
+      "volume24hr": 998.06,
+      "liquidity": 13077.57
     }
   ],
   "log": [
-    {
-      "ts": "21:00:01",
-      "text": " poll complete \u2014 1921 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:15:02",
       "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "04:15:02",
       "text": " poll complete \u2014 1782 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:30:01",
+      "text": " poll complete \u2014 1814 markets scanned, 10 flagged"
     }
   ]
 }
