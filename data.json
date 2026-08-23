@@ -1,11 +1,41 @@
 {
-  "lastUpdate": "2026-08-23 22:15:01 UTC",
+  "lastUpdate": "2026-08-23 22:30:01 UTC",
   "swings": [
     {
-      "market": "Minnesota Twins vs. San Diego Padres \u2014 Spread: San Diego Padres (-2.5)",
-      "prev": 0.245,
-      "now": 0.875,
-      "delta": 0.63,
+      "market": "Cincinnati Reds vs. Arizona Diamondbacks",
+      "prev": 0.795,
+      "now": 0.105,
+      "delta": -0.69,
+      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 297803.78,
+      "liquidity": 47255.22
+    },
+    {
+      "market": "Cincinnati Reds vs. Arizona Diamondbacks \u2014 Spread: Cincinnati Reds (-1.5)",
+      "prev": 0.62,
+      "now": 0.055,
+      "delta": -0.565,
+      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1958.07,
+      "liquidity": 430.57
+    },
+    {
+      "market": "Minnesota Twins vs. San Diego Padres: O/U 7.5",
+      "prev": 0.455,
+      "now": 0.9995,
+      "delta": 0.5445,
       "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
       "tags": [
         "Sports",
@@ -13,133 +43,57 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 469.77,
-      "liquidity": 15218.49
+      "volume24hr": 6982.02,
+      "liquidity": 121629.65
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Game Spread: Fils (-2.5) vs Tiafoe (+2.5)",
-      "prev": 0.29,
-      "now": 0.88,
-      "delta": 0.59,
+      "market": "Counter-Strike: ex-RUBY vs Black Phoenix (BO3) - Moscow Cyber Games European Qualifier Group Stage",
+      "prev": 0.515,
+      "now": 0.005,
+      "delta": -0.51,
+      "url": "https://polymarket.com/event/cs2-ruby1-blackp-2026-08-23",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93328.89,
+      "liquidity": 121949.85
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Cincinnati Open: Completed Match: Arthur Fils vs Frances Tiafoe",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 689.52,
-      "liquidity": 85.01
+      "volume24hr": 2.24,
+      "liquidity": 752.14
     },
     {
-      "market": "Minnesota Twins vs. San Diego Padres \u2014 Spread: San Diego Padres (-1.5)",
-      "prev": 0.385,
-      "now": 0.93,
-      "delta": 0.545,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4539.95,
-      "liquidity": 11072.29
-    },
-    {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: 1st Half O/U 0.5",
-      "prev": 0.47,
-      "now": 0.9955,
-      "delta": 0.5255,
-      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 1531.89,
-      "liquidity": 4617.75
-    },
-    {
-      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 24.5 in Game 2?",
-      "prev": 0.4995,
-      "now": 0.0005,
-      "delta": -0.499,
-      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 616.22
-    },
-    {
-      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 33.5 in Game 2?",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 445.26
-    },
-    {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: Associa\u00e7\u00e3o Chapecoense de Futebol 1st Half O/U 0.5",
+      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Match O/U 22.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 240.0,
-      "liquidity": 1632.17
-    },
-    {
-      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 27.5 in Game 2?",
-      "prev": 0.4845,
       "now": 0.0005,
-      "delta": -0.484,
-      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-08-23",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 248.78,
-      "liquidity": 446.26
-    },
-    {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: S\u00e3o Paulo FC 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.017,
-      "delta": -0.483,
-      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
-      "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
+        "Games"
       ],
-      "volume24hr": 115304.65,
-      "liquidity": 446.32
+      "volume24hr": 8268.43,
+      "liquidity": 42394.98
     },
     {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Chicago Cubs (-3.5)",
-      "prev": 0.795,
-      "now": 0.355,
-      "delta": -0.44,
+      "market": "Chicago Cubs vs. Seattle Mariners \u2014 1st 5 Innings Spread: Seattle Mariners (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
       "tags": [
         "Sports",
@@ -147,15 +101,55 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 660335.53,
-      "liquidity": 89.0
+      "volume24hr": 44.0,
+      "liquidity": 12927.06
+    },
+    {
+      "market": "Chicago Cubs vs. Seattle Mariners \u2014 1st 5 Innings Spread: Chicago Cubs (-1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 2554.36
+    },
+    {
+      "market": "Kingston 2: Aidan Mayo vs Joao Vitor Goncalves Ceolin \u2014 Kingston 2, Jamaica, Qualifying: Completed Match: Aidan Mayo vs Joao Vitor Goncalves Ceolin",
+      "prev": 0.5,
+      "now": 0.9975,
+      "delta": 0.4975,
+      "url": "https://polymarket.com/event/atp-mayo-ceoli-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 175674.35,
+      "liquidity": 1415.43
+    },
+    {
+      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-7.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 280064.34,
+      "liquidity": 334.56
     }
   ],
   "log": [
-    {
-      "ts": "15:00:02",
-      "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:15:02",
       "text": " poll complete \u2014 1981 markets scanned, 10 flagged"
@@ -271,6 +265,10 @@
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1928 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:30:01",
+      "text": " poll complete \u2014 1887 markets scanned, 10 flagged"
     }
   ]
 }
