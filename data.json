@@ -1,11 +1,131 @@
 {
-  "lastUpdate": "2026-08-23 04:30:01 UTC",
+  "lastUpdate": "2026-08-23 04:45:01 UTC",
   "swings": [
     {
-      "market": "Los Angeles FC vs. Portland Timbers \u2014 Will Portland Timbers win on 2026-08-22?",
-      "prev": 0.58,
-      "now": 0.055,
-      "delta": -0.525,
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 1.39,
+      "liquidity": 3496.9
+    },
+    {
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 196034.99,
+      "liquidity": 3440.28
+    },
+    {
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 196034.99,
+      "liquidity": 3244.76
+    },
+    {
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Los Angeles FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 196034.99,
+      "liquidity": 3244.76
+    },
+    {
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Portland Timbers 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 196034.99,
+      "liquidity": 3435.96
+    },
+    {
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Portland Timbers 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 196034.99,
+      "liquidity": 3244.76
+    },
+    {
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: O/U 2.5",
+      "prev": 0.34,
+      "now": 0.0005,
+      "delta": -0.3395,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 32768.73,
+      "liquidity": 184799.23
+    },
+    {
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Los Angeles FC O/U 1.5",
+      "prev": 0.285,
+      "now": 0.0005,
+      "delta": -0.2845,
+      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 523.32,
+      "liquidity": 24619.6
+    },
+    {
+      "market": "Will Los Angeles FC vs. Portland Timbers end in a draw?",
+      "prev": 0.72,
+      "now": 0.9995,
+      "delta": 0.2795,
       "url": "https://polymarket.com/event/mls-laf-por-2026-08-22",
       "tags": [
         "Sports",
@@ -13,104 +133,14 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 50315.48,
-      "liquidity": 154161.9
+      "volume24hr": 16271.27,
+      "liquidity": 276306.85
     },
     {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 2?",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 369.11,
-      "liquidity": 1404.87
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Both Teams Beat Roshan?",
-      "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10438610.4,
-      "liquidity": 808.45
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Ends in Daytime?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1.56,
-      "liquidity": 799.14
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2.08,
-      "liquidity": 813.12
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 29.41,
-      "liquidity": 798.31
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 14.31,
-      "liquidity": 797.71
-    },
-    {
-      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Portland Timbers O/U 2.5",
+      "prev": 0.2455,
+      "now": 0.0005,
+      "delta": -0.245,
       "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -118,45 +148,11 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 155512.58,
-      "liquidity": 625.82
-    },
-    {
-      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Los Angeles FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 155512.58,
-      "liquidity": 628.0
-    },
-    {
-      "market": "Los Angeles FC vs. Portland Timbers - More Markets \u2014 Los Angeles FC vs. Portland Timbers: Los Angeles FC O/U 0.5",
-      "prev": 0.525,
-      "now": 0.9995,
-      "delta": 0.4745,
-      "url": "https://polymarket.com/event/mls-laf-por-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 998.06,
-      "liquidity": 13077.57
+      "volume24hr": 1024.03,
+      "liquidity": 24155.6
     }
   ],
   "log": [
-    {
-      "ts": "21:15:02",
-      "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:30:02",
       "text": " poll complete \u2014 1955 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "04:30:01",
       "text": " poll complete \u2014 1814 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:45:01",
+      "text": " poll complete \u2014 1819 markets scanned, 10 flagged"
     }
   ]
 }
