@@ -1,41 +1,56 @@
 {
-  "lastUpdate": "2026-08-23 18:15:01 UTC",
+  "lastUpdate": "2026-08-23 18:30:02 UTC",
   "swings": [
     {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 LoL: Shifters vs Karmine Corp - Game 1 Winner",
-      "prev": 0.263,
+      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: US Lecce O/U 1.5",
+      "prev": 0.155,
       "now": 0.9995,
-      "delta": 0.7365,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "delta": 0.8445,
+      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "sea"
       ],
-      "volume24hr": 332040.84,
-      "liquidity": 710991.4
+      "volume24hr": 434.58,
+      "liquidity": 3297.46
     },
     {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game Handicap: KC (-1.5) vs Shifters (+1.5)",
-      "prev": 0.605,
-      "now": 0.0005,
-      "delta": -0.6045,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Spread: US Lecce (-1.5)",
+      "prev": 0.114,
+      "now": 0.89,
+      "delta": 0.776,
+      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 11697.58,
+      "liquidity": 52685.44
+    },
+    {
+      "market": "LoL: LOS vs LOUD (BO3) - CBLOL Regular Season \u2014 LoL: LOS vs LOUD - Game 1 Winner",
+      "prev": 0.785,
+      "now": 0.065,
+      "delta": -0.72,
+      "url": "https://polymarket.com/event/lol-los-lll-2026-08-23",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 32195.82,
-      "liquidity": 295688.13
+      "volume24hr": 105560.9,
+      "liquidity": 219155.68
     },
     {
       "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.175,
-      "now": 0.72,
-      "delta": 0.545,
+      "prev": 0.72,
+      "now": 0.0005,
+      "delta": -0.7195,
       "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
       "tags": [
         "Esports",
@@ -44,119 +59,100 @@
         "Sports"
       ],
       "volume24hr": 509.05,
-      "liquidity": 8.8
+      "liquidity": 21829.3
     },
     {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Games Total: O/U 2.5",
-      "prev": 0.34,
-      "now": 0.875,
-      "delta": 0.535,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map Handicap: FF (-1.5) vs BBL Esports (+1.5)",
+      "prev": 0.42,
+      "now": 0.9995,
+      "delta": 0.5795,
+      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 26791.31,
-      "liquidity": 160244.68
+      "volume24hr": 10.0,
+      "liquidity": 17304.94
     },
     {
-      "market": "Getafe CF vs. Real Racing Club - More Markets \u2014 Getafe CF vs. Real Racing Club: Real Racing Club 1st Half O/U 0.5",
-      "prev": 0.61,
-      "now": 0.11,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/lal-get-rrc-2026-08-23-more-markets",
+      "market": "Will there be a run scored in the first inning?: Detroit Tigers vs. Kansas City Royals",
+      "prev": 0.49,
+      "now": 0.9995,
+      "delta": 0.5095,
+      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "La Liga"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1315.63,
-      "liquidity": 684.78
+      "volume24hr": 1950.67,
+      "liquidity": 9777.17
     },
     {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: BBL Esports (-2.5) vs Fire Flux Esports (+2.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 732.95,
-      "liquidity": 1062.05
+      "volume24hr": 456878.82,
+      "liquidity": 9507.3
     },
     {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 33.5 in Game 1?",
+      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: Fire Flux Esports (-2.5) vs BBL Esports (+2.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 120.0,
-      "liquidity": 746.01
+      "volume24hr": 456878.82,
+      "liquidity": 9514.3
     },
     {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: Fire Flux Esports (-4.5) vs BBL Esports (+4.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 633.4
+      "volume24hr": 456878.82,
+      "liquidity": 9472.08
     },
     {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 21.5 in Game 1?",
+      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: Fire Flux Esports (-3.5) vs BBL Esports (+3.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 805.43
-    },
-    {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 36.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 537420.03,
-      "liquidity": 1017.88
+      "volume24hr": 456878.82,
+      "liquidity": 9472.08
     }
   ],
   "log": [
-    {
-      "ts": "11:00:01",
-      "text": " poll complete \u2014 2046 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:15:01",
       "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "18:15:01",
       "text": " poll complete \u2014 1992 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:30:02",
+      "text": " poll complete \u2014 2017 markets scanned, 10 flagged"
     }
   ]
 }
