@@ -1,124 +1,12 @@
 {
-  "lastUpdate": "2026-08-23 14:45:02 UTC",
+  "lastUpdate": "2026-08-23 15:00:02 UTC",
   "swings": [
     {
-      "market": "Dutch Grand Prix: Driver Winner \u2014 Will Kimi Antonelli win the 2026 F1 Dutch Grand Prix?",
-      "prev": 0.7,
-      "now": 0.125,
-      "delta": -0.575,
-      "url": "https://polymarket.com/event/f1-dutch-grand-prix-winner-2026-08-23",
-      "tags": [
-        "Formula 1",
-        "f1",
-        "Sports",
-        "Grand Prix",
-        "Games"
-      ],
-      "volume24hr": 30391.75,
-      "liquidity": 149889.54
-    },
-    {
-      "market": "Angers SCO vs. Lille OSC - More Markets \u2014 Angers SCO vs. Lille OSC: Angers SCO O/U 0.5",
-      "prev": 0.64,
-      "now": 0.09,
-      "delta": -0.55,
-      "url": "https://polymarket.com/event/fl1-ang-lil-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 51.27,
-      "liquidity": 2447.79
-    },
-    {
-      "market": "Ethereum Up or Down on August 23?",
-      "prev": 0.981,
-      "now": 0.442,
-      "delta": -0.539,
-      "url": "https://polymarket.com/event/ethereum-up-or-down-on-august-23-2026",
-      "tags": [
-        "Ethereum",
-        "Up or Down",
-        "Today \ud83d\ude80",
-        "Daily",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Daily-Close"
-      ],
-      "volume24hr": 81142.6,
-      "liquidity": 15636.77
-    },
-    {
-      "market": "Dutch Grand Prix: Driver Winner \u2014 Will Lando Norris win the 2026 F1 Dutch Grand Prix?",
-      "prev": 0.295,
-      "now": 0.815,
-      "delta": 0.52,
-      "url": "https://polymarket.com/event/f1-dutch-grand-prix-winner-2026-08-23",
-      "tags": [
-        "Formula 1",
-        "f1",
-        "Sports",
-        "Grand Prix",
-        "Games"
-      ],
-      "volume24hr": 72840.04,
-      "liquidity": 169936.28
-    },
-    {
-      "market": "Angers SCO vs. Lille OSC - More Markets \u2014 Angers SCO vs. Lille OSC: Lille OSC O/U 1.5",
-      "prev": 0.9895,
-      "now": 0.5005,
-      "delta": -0.489,
-      "url": "https://polymarket.com/event/fl1-ang-lil-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 7206.33,
-      "liquidity": 100.0
-    },
-    {
-      "market": "Angers SCO vs. Lille OSC - More Markets \u2014 Angers SCO vs. Lille OSC: Lille OSC O/U 2.5",
-      "prev": 0.665,
-      "now": 0.19,
-      "delta": -0.475,
-      "url": "https://polymarket.com/event/fl1-ang-lil-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 3639.03
-    },
-    {
-      "market": "Angers SCO vs. Lille OSC - More Markets \u2014 Angers SCO vs. Lille OSC: Angers SCO O/U 2.5",
-      "prev": 0.039,
-      "now": 0.5,
-      "delta": 0.461,
-      "url": "https://polymarket.com/event/fl1-ang-lil-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 99676.69,
-      "liquidity": 0.01
-    },
-    {
-      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Manchester City FC O/U 0.5",
-      "prev": 0.795,
-      "now": 0.36,
-      "delta": -0.435,
-      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
+      "market": "Manchester City FC vs. AFC Bournemouth - Exact Score \u2014 Exact Score: Manchester City FC 2 - 1 AFC Bournemouth?",
+      "prev": 0.055,
+      "now": 0.9995,
+      "delta": 0.9445,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-exact-score",
       "tags": [
         "Sports",
         "Games",
@@ -126,34 +14,30 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 21179.0,
-      "liquidity": 55722.4
+      "volume24hr": 9385.22,
+      "liquidity": 198764.06
     },
     {
-      "market": "Bitcoin Up or Down on August 23?",
-      "prev": 0.895,
-      "now": 0.46,
-      "delta": -0.435,
-      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-23-2026",
+      "market": "Manchester City FC vs. AFC Bournemouth \u2014 Will Manchester City FC win on 2026-08-23?",
+      "prev": 0.065,
+      "now": 0.9995,
+      "delta": 0.9345,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23",
       "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Up or Down",
-        "Today \ud83d\ude80",
-        "Daily",
-        "Daily-Close"
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 284065.57,
-      "liquidity": 19186.63
+      "volume24hr": 1398113.66,
+      "liquidity": 898368.1
     },
     {
       "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Manchester City FC O/U 1.5",
-      "prev": 0.5,
-      "now": 0.075,
-      "delta": -0.425,
+      "prev": 0.075,
+      "now": 0.9995,
+      "delta": 0.9245,
       "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -162,15 +46,123 @@
         "Premier League",
         "EPL"
       ],
-      "volume24hr": 42137.27,
-      "liquidity": 99147.92
+      "volume24hr": 64037.67,
+      "liquidity": 198625.87
+    },
+    {
+      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: O/U 2.5",
+      "prev": 0.11,
+      "now": 0.9995,
+      "delta": 0.8895,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 177031.7,
+      "liquidity": 369659.03
+    },
+    {
+      "market": "Manchester City FC vs. AFC Bournemouth \u2014 Will AFC Bournemouth win on 2026-08-23?",
+      "prev": 0.655,
+      "now": 0.0005,
+      "delta": -0.6545,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 516224.18,
+      "liquidity": 419183.0
+    },
+    {
+      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: 2nd Half O/U 0.5",
+      "prev": 0.65,
+      "now": 0.005,
+      "delta": -0.645,
+      "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 439989.29,
+      "liquidity": 4668.66
+    },
+    {
+      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Manchester City FC O/U 0.5",
+      "prev": 0.36,
+      "now": 0.9995,
+      "delta": 0.6395,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 22490.91,
+      "liquidity": 254674.43
+    },
+    {
+      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Both Teams to Score",
+      "prev": 0.385,
+      "now": 0.9995,
+      "delta": 0.6145,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 40165.06,
+      "liquidity": 266501.23
+    },
+    {
+      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: O/U 1.5",
+      "prev": 0.475,
+      "now": 0.9995,
+      "delta": 0.5245,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 267329.67,
+      "liquidity": 425022.27
+    },
+    {
+      "market": "Manchester City FC vs. AFC Bournemouth - Exact Score \u2014 Exact Score: Manchester City FC 0 - 1 AFC Bournemouth?",
+      "prev": 0.5245,
+      "now": 0.0005,
+      "delta": -0.524,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 13808.91,
+      "liquidity": 223250.09
     }
   ],
   "log": [
-    {
-      "ts": "07:30:01",
-      "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:45:01",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
@@ -286,6 +278,10 @@
     {
       "ts": "14:45:02",
       "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:00:02",
+      "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
     }
   ]
 }
