@@ -1,116 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 09:30:01 UTC",
+  "lastUpdate": "2026-08-23 09:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 27.5 in Game 2?",
-      "prev": 0.515,
-      "now": 0.0105,
-      "delta": -0.5045,
-      "url": "https://polymarket.com/event/lol-hle1-t1-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 307.71,
-      "liquidity": 65.31
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.4955,
-      "now": 0.0005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 528.11,
-      "liquidity": 1232.99
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1742130.74,
-      "liquidity": 308.62
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Both Teams Beat Roshan?",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 14157843.41,
-      "liquidity": 738.04
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1.72,
-      "liquidity": 779.6
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1742130.74,
-      "liquidity": 110.62
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1742130.74,
-      "liquidity": 110.62
-    },
-    {
       "market": "Counter-Strike: Raccoons vs Vexar (BO3) - Exort Fiesta Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.17,
-      "now": 0.5,
-      "delta": 0.33,
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/cs2-raccoo-vex1-2026-08-23",
       "tags": [
         "Esports",
@@ -118,14 +13,59 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 50082.67,
-      "liquidity": 128661.58
+      "volume24hr": 52743.19,
+      "liquidity": 9870.19
     },
     {
-      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.21,
-      "now": 0.5,
-      "delta": 0.29,
+      "market": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2615619.47,
+      "liquidity": 813.0
+    },
+    {
+      "market": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 24.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2615619.47,
+      "liquidity": 743.0
+    },
+    {
+      "market": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 36.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2615619.47,
+      "liquidity": 743.01
+    },
+    {
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 1?",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
       "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23",
       "tags": [
         "Esports",
@@ -133,30 +73,86 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 89474.75,
-      "liquidity": 509357.52
+      "volume24hr": 169807.38,
+      "liquidity": 1286.09
     },
     {
-      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.21,
-      "now": 0.5,
-      "delta": 0.29,
-      "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23",
+      "market": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.47,
+      "now": 0.005,
+      "delta": -0.465,
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-08-23",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 89474.75,
-      "liquidity": 509357.52
+      "volume24hr": 3615.65,
+      "liquidity": 863.58
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1759390.21,
+      "liquidity": 110.62
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1759390.21,
+      "liquidity": 110.62
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Games Total: O/U 4.5",
+      "prev": 0.44,
+      "now": 0.735,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 12168.53,
+      "liquidity": 14092.08
+    },
+    {
+      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.25,
+      "now": 0.545,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3567.25,
+      "liquidity": 225.28
     }
   ],
   "log": [
-    {
-      "ts": "02:15:01",
-      "text": " poll complete \u2014 1880 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:30:01",
       "text": " poll complete \u2014 1912 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "09:30:01",
       "text": " poll complete \u2014 1921 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:45:01",
+      "text": " poll complete \u2014 1957 markets scanned, 10 flagged"
     }
   ]
 }
