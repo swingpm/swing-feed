@@ -1,86 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 12:00:01 UTC",
+  "lastUpdate": "2026-08-23 12:15:01 UTC",
   "swings": [
     {
-      "market": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland - More Markets \u2014 Spread: FC Nordsj\u00e6lland (-2.5)",
-      "prev": 0.22,
-      "now": 0.9955,
-      "delta": 0.7755,
-      "url": "https://polymarket.com/event/den-sjs-nor-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 266.5,
-      "liquidity": 24514.89
-    },
-    {
-      "market": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland - More Markets \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: FC Nordsj\u00e6lland O/U 2.5",
-      "prev": 0.28,
-      "now": 0.9995,
-      "delta": 0.7195,
-      "url": "https://polymarket.com/event/den-sjs-nor-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 1404.4,
-      "liquidity": 11048.95
-    },
-    {
-      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: Both Teams to Score",
-      "prev": 0.305,
-      "now": 0.9955,
-      "delta": 0.6905,
-      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 3958.62,
-      "liquidity": 16040.28
-    },
-    {
-      "market": "Shanghai Haigang FC vs. Qingdao Hainiu FC - More Markets \u2014 Shanghai Haigang FC vs. Qingdao Hainiu FC: Qingdao Hainiu FC 1st Half O/U 0.5",
-      "prev": 0.34,
-      "now": 0.997,
-      "delta": 0.657,
-      "url": "https://polymarket.com/event/chi-shp-hai-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Chinese Super League"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 5941.62
-    },
-    {
-      "market": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland - More Markets \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: O/U 2.5",
-      "prev": 0.375,
-      "now": 0.9995,
-      "delta": 0.6245,
-      "url": "https://polymarket.com/event/den-sjs-nor-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 23185.42,
-      "liquidity": 123191.53
-    },
-    {
       "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Spread: Go Ahead Eagles (-1.5)",
-      "prev": 0.805,
-      "now": 0.19,
-      "delta": -0.615,
+      "prev": 0.19,
+      "now": 0.9995,
+      "delta": 0.8095,
       "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -88,75 +13,146 @@
         "Soccer",
         "Eredivisie"
       ],
-      "volume24hr": 5321.88,
-      "liquidity": 60060.29
+      "volume24hr": 5433.33,
+      "liquidity": 150702.28
     },
     {
-      "market": "FC Machida Zelvia vs. Urawa Red Diamonds - More Markets \u2014 Spread: FC Machida Zelvia (-1.5)",
-      "prev": 0.115,
-      "now": 0.69,
-      "delta": 0.575,
-      "url": "https://polymarket.com/event/jap-zel-ura-2026-08-23-more-markets",
+      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: O/U 3.5",
+      "prev": 0.435,
+      "now": 0.9995,
+      "delta": 0.5645,
+      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "Eredivisie"
       ],
-      "volume24hr": 4498.78,
-      "liquidity": 12299.5
+      "volume24hr": 51960.97,
+      "liquidity": 220875.38
     },
     {
-      "market": "FC Machida Zelvia vs. Urawa Red Diamonds \u2014 Will FC Machida Zelvia win on 2026-08-23?",
-      "prev": 0.365,
-      "now": 0.925,
-      "delta": 0.56,
-      "url": "https://polymarket.com/event/jap-zel-ura-2026-08-23",
+      "market": "West Bromwich Albion FC vs. Burnley FC - More Markets \u2014 West Bromwich Albion FC vs. Burnley FC: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/elc-wba-bur-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "EFL Championship"
       ],
-      "volume24hr": 56671.92,
-      "liquidity": 167141.31
+      "volume24hr": 76167.47,
+      "liquidity": 10227.6
     },
     {
-      "market": "Shanghai Haigang FC vs. Qingdao Hainiu FC - More Markets \u2014 Shanghai Haigang FC vs. Qingdao Hainiu FC: Both Teams to Score in First Half",
-      "prev": 0.22,
-      "now": 0.77,
-      "delta": 0.55,
-      "url": "https://polymarket.com/event/chi-shp-hai-2026-08-23-more-markets",
+      "market": "West Bromwich Albion FC vs. Burnley FC - More Markets \u2014 West Bromwich Albion FC vs. Burnley FC: West Bromwich Albion FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9985,
+      "delta": 0.4985,
+      "url": "https://polymarket.com/event/elc-wba-bur-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Chinese Super League"
+        "EFL Championship"
       ],
-      "volume24hr": 105.81,
-      "liquidity": 342.09
+      "volume24hr": 76167.47,
+      "liquidity": 9642.96
     },
     {
-      "market": "FC Machida Zelvia vs. Urawa Red Diamonds - More Markets \u2014 FC Machida Zelvia vs. Urawa Red Diamonds: O/U 3.5",
-      "prev": 0.45,
-      "now": 0.995,
-      "delta": 0.545,
-      "url": "https://polymarket.com/event/jap-zel-ura-2026-08-23-more-markets",
+      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: Go Ahead Eagles 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "Eredivisie"
       ],
-      "volume24hr": 10747.16,
-      "liquidity": 120239.19
+      "volume24hr": 191975.83,
+      "liquidity": 8645.52
+    },
+    {
+      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: ADO Den Haag 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 191975.83,
+      "liquidity": 3570.96
+    },
+    {
+      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: Go Ahead Eagles O/U 2.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 105.01,
+      "liquidity": 12187.76
+    },
+    {
+      "market": "Daejeon Hana Citizen FC vs. Gangwon FC - More Markets \u2014 Daejeon Hana Citizen FC vs. Gangwon FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/kor-dae1-gwo-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 135078.31,
+      "liquidity": 5053.56
+    },
+    {
+      "market": "Daejeon Hana Citizen FC vs. Gangwon FC - More Markets \u2014 Daejeon Hana Citizen FC vs. Gangwon FC: Daejeon Hana Citizen FC O/U 2.5",
+      "prev": 0.51,
+      "now": 0.9945,
+      "delta": 0.4845,
+      "url": "https://polymarket.com/event/kor-dae1-gwo-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 135078.31,
+      "liquidity": 13.04
+    },
+    {
+      "market": "Daejeon Hana Citizen FC vs. Gangwon FC - More Markets \u2014 Daejeon Hana Citizen FC vs. Gangwon FC: Gangwon FC O/U 1.5",
+      "prev": 0.027,
+      "now": 0.504,
+      "delta": 0.477,
+      "url": "https://polymarket.com/event/kor-dae1-gwo-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 51.28,
+      "liquidity": 54.06
     }
   ],
   "log": [
-    {
-      "ts": "04:45:01",
-      "text": " poll complete \u2014 1819 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:00:01",
       "text": " poll complete \u2014 1853 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "12:00:01",
       "text": " poll complete \u2014 2077 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:15:01",
+      "text": " poll complete \u2014 2033 markets scanned, 10 flagged"
     }
   ]
 }
