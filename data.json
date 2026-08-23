@@ -1,161 +1,158 @@
 {
-  "lastUpdate": "2026-08-23 19:15:02 UTC",
+  "lastUpdate": "2026-08-23 19:30:02 UTC",
   "swings": [
     {
-      "market": "Paris Saint-Germain FC vs. Stade Rennais FC 1901 - More Markets \u2014 Paris Saint-Germain FC vs. Stade Rennais FC 1901: Stade Rennais FC 1901 1st Half O/U 0.5",
-      "prev": 0.345,
+      "market": "Washington Nationals vs. Miami Marlins \u2014 1st 5 Innings Spread: Miami Marlins (-1.5)",
+      "prev": 0.27,
       "now": 0.995,
-      "delta": 0.65,
-      "url": "https://polymarket.com/event/fl1-psg-ren-2026-08-23-more-markets",
+      "delta": 0.725,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 19.98,
+      "liquidity": 243.56
+    },
+    {
+      "market": "Getafe CF vs. Real Racing Club \u2014 Will Getafe CF win on 2026-08-23?",
+      "prev": 0.175,
+      "now": 0.895,
+      "delta": 0.72,
+      "url": "https://polymarket.com/event/lal-get-rrc-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Ligue 1"
+        "La Liga"
       ],
-      "volume24hr": 9.74,
-      "liquidity": 29474.32
+      "volume24hr": 113423.25,
+      "liquidity": 61295.8
     },
     {
-      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 894.32,
-      "liquidity": 602.63
-    },
-    {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game Handicap: SHFT (-1.5) vs Karmine Corp (+1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 7898.07
-    },
-    {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: Philadelphia Phillies (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 45.92,
-      "liquidity": 1721.3
-    },
-    {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies \u2014 1st 5 Innings Spread: St. Louis Cardinals (-1.5)",
-      "prev": 0.5,
+      "market": "Washington Nationals vs. Miami Marlins: 1st 5 Innings O/U 3.5",
+      "prev": 0.29,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "delta": 0.7095,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 34.94,
-      "liquidity": 1252.33
+      "volume24hr": 751.51,
+      "liquidity": 1143.59
     },
     {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 35.0,
-      "liquidity": 1252.56
-    },
-    {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 810.87,
-      "liquidity": 2220.7
-    },
-    {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 139.95,
-      "liquidity": 1821.66
-    },
-    {
-      "market": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Dhakshineswar Suresh \u2014 Winston-Salem Open, Qualification: Completed Match: Abedallah Shelbayh vs Dhakshineswar Suresh",
-      "prev": 0.5,
+      "market": "Getafe CF vs. Real Racing Club - More Markets \u2014 Getafe CF vs. Real Racing Club: O/U 0.5",
+      "prev": 0.365,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-shelbay-suresh-2026-08-23",
+      "delta": 0.6345,
+      "url": "https://polymarket.com/event/lal-get-rrc-2026-08-23-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 201727.05,
-      "liquidity": 945.52
+      "volume24hr": 82512.23,
+      "liquidity": 248724.46
     },
     {
-      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.5005,
-      "now": 0.9995,
-      "delta": 0.499,
-      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
+      "market": "Alanyaspor vs. Be\u015fikta\u015f JK - More Markets \u2014 Alanyaspor vs. Be\u015fikta\u015f JK: 1st Half O/U 0.5",
+      "prev": 0.635,
+      "now": 0.0025,
+      "delta": -0.6325,
+      "url": "https://polymarket.com/event/tur-ala-bes-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "S\u00fcper Lig"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 630.63
+      "volume24hr": 134.66,
+      "liquidity": 3426.87
+    },
+    {
+      "market": "Washington Nationals vs. Miami Marlins: 1st 5 Innings O/U 2.5",
+      "prev": 0.37,
+      "now": 0.9995,
+      "delta": 0.6295,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 25.0,
+      "liquidity": 1417.35
+    },
+    {
+      "market": "Will Getafe CF vs. Real Racing Club end in a draw?",
+      "prev": 0.665,
+      "now": 0.09,
+      "delta": -0.575,
+      "url": "https://polymarket.com/event/lal-get-rrc-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 56249.96,
+      "liquidity": 218499.74
+    },
+    {
+      "market": "Alanyaspor vs. Be\u015fikta\u015f JK - More Markets \u2014 Alanyaspor vs. Be\u015fikta\u015f JK: Be\u015fikta\u015f JK 1st Half O/U 0.5",
+      "prev": 0.565,
+      "now": 0.0025,
+      "delta": -0.5625,
+      "url": "https://polymarket.com/event/tur-ala-bes-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "S\u00fcper Lig"
+      ],
+      "volume24hr": 52.63,
+      "liquidity": 3571.3
+    },
+    {
+      "market": "Alanyaspor vs. Be\u015fikta\u015f JK - More Markets \u2014 Alanyaspor vs. Be\u015fikta\u015f JK: Alanyaspor 1st Half O/U 0.5",
+      "prev": 0.525,
+      "now": 0.003,
+      "delta": -0.522,
+      "url": "https://polymarket.com/event/tur-ala-bes-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "S\u00fcper Lig"
+      ],
+      "volume24hr": 5.43,
+      "liquidity": 3350.55
+    },
+    {
+      "market": "Toronto Blue Jays vs. New York Yankees: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 431.66,
+      "liquidity": 1944.22
     }
   ],
   "log": [
-    {
-      "ts": "12:00:01",
-      "text": " poll complete \u2014 2077 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:15:01",
       "text": " poll complete \u2014 2033 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "19:15:02",
       "text": " poll complete \u2014 2031 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:30:02",
+      "text": " poll complete \u2014 2053 markets scanned, 10 flagged"
     }
   ]
 }
