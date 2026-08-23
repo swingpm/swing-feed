@@ -1,86 +1,25 @@
 {
-  "lastUpdate": "2026-08-23 01:00:01 UTC",
+  "lastUpdate": "2026-08-23 01:15:01 UTC",
   "swings": [
     {
-      "market": "Valorant: Sentinels vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Valorant: Sentinels vs KR\u00dc Esports - Map 2 Winner",
-      "prev": 0.72,
-      "now": 0.115,
-      "delta": -0.605,
-      "url": "https://polymarket.com/event/val-sen-kru1-2026-08-22",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 88452.13,
-      "liquidity": 110313.51
-    },
-    {
-      "market": "Valorant: Sentinels vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Games Total: O/U 2.5",
-      "prev": 0.725,
-      "now": 0.13,
-      "delta": -0.595,
-      "url": "https://polymarket.com/event/val-sen-kru1-2026-08-22",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3065.37,
-      "liquidity": 139.09
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Minnesota Twins vs. San Diego Padres",
-      "prev": 0.45,
-      "now": 0.9995,
-      "delta": 0.5495,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-22",
+      "market": "UFC Fight Night: Mason Jones vs. MarQuel Mederos (Lightweight, Main Card) \u2014 Will MarQuel Mederos win by KO or TKO?",
+      "prev": 0.1,
+      "now": 0.9945,
+      "delta": 0.8945,
+      "url": "https://polymarket.com/event/ufc-mas-mar83-2026-08-22",
       "tags": [
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "UFC",
+        "Games"
       ],
-      "volume24hr": 10428.18,
-      "liquidity": 35868.54
+      "volume24hr": 98.99,
+      "liquidity": 758.64
     },
     {
-      "market": "Cruzeiro EC vs. CR Flamengo - More Markets \u2014 Cruzeiro EC vs. CR Flamengo: Cruzeiro EC O/U 0.5",
-      "prev": 0.46,
-      "now": 0.997,
-      "delta": 0.537,
-      "url": "https://polymarket.com/event/bra-cru-fla-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 464.59,
-      "liquidity": 1396.23
-    },
-    {
-      "market": "Cruzeiro EC vs. CR Flamengo - More Markets \u2014 Cruzeiro EC vs. CR Flamengo: Both Teams to Score",
-      "prev": 0.475,
-      "now": 0.9995,
-      "delta": 0.5245,
-      "url": "https://polymarket.com/event/bra-cru-fla-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 3207.29,
-      "liquidity": 23296.69
-    },
-    {
-      "market": "Charlotte FC vs. D.C. United SC - More Markets \u2014 Charlotte FC vs. D.C. United SC: D.C. United SC O/U 0.5",
-      "prev": 0.495,
-      "now": 0.997,
-      "delta": 0.502,
+      "market": "Charlotte FC vs. D.C. United SC - More Markets \u2014 Charlotte FC vs. D.C. United SC: Charlotte FC O/U 1.5",
+      "prev": 0.2,
+      "now": 0.9885,
+      "delta": 0.7885,
       "url": "https://polymarket.com/event/mls-clt-dcu-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -88,73 +27,126 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 212.53,
-      "liquidity": 4806.89
+      "volume24hr": 132147.03,
+      "liquidity": 1778.41
     },
     {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-22",
+      "market": "UFC Fight Night: Mason Jones vs. MarQuel Mederos (Lightweight, Main Card) \u2014 O/U 1.5 Rounds",
+      "prev": 0.775,
+      "now": 0.0055,
+      "delta": -0.7695,
+      "url": "https://polymarket.com/event/ufc-mas-mar83-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 244.25,
+      "liquidity": 670.49
+    },
+    {
+      "market": "UFC Fight Night: Mason Jones vs. MarQuel Mederos (Lightweight, Main Card)",
+      "prev": 0.765,
+      "now": 0.0005,
+      "delta": -0.7645,
+      "url": "https://polymarket.com/event/ufc-mas-mar83-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 424722.83,
+      "liquidity": 352983.9
+    },
+    {
+      "market": "Tampa Bay Rays vs. Baltimore Orioles: O/U 4.5",
+      "prev": 0.28,
+      "now": 0.9945,
+      "delta": 0.7145,
+      "url": "https://polymarket.com/event/mlb-tb-bal-2026-08-22",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 25.0,
-      "liquidity": 1171.92
+      "volume24hr": 1035.58,
+      "liquidity": 11676.21
     },
     {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-22",
+      "market": "UFC Fight Night: Mason Jones vs. MarQuel Mederos (Lightweight, Main Card) \u2014 Will the fight be won by KO or TKO?",
+      "prev": 0.29,
+      "now": 0.9945,
+      "delta": 0.7045,
+      "url": "https://polymarket.com/event/ufc-mas-mar83-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 262.93,
+      "liquidity": 1052.73
+    },
+    {
+      "market": "Inter Miami CF vs. Toronto FC - More Markets \u2014 Inter Miami CF vs. Toronto FC: Toronto FC O/U 1.5",
+      "prev": 0.3,
+      "now": 0.9945,
+      "delta": 0.6945,
+      "url": "https://polymarket.com/event/mls-mia-tor-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 30.0,
-      "liquidity": 1641.84
+      "volume24hr": 739.75,
+      "liquidity": 2274.51
     },
     {
-      "market": "Monterrey Open, Qualification: Lanlana Tararudee vs Maria Timofeeva \u2014 Monterrey Open, Qualification: Completed Match: Lanlana Tararudee vs Maria Timofeeva",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-tararud-timofee-2026-08-22",
+      "market": "Inter Miami CF vs. Toronto FC \u2014 Will Toronto FC win on 2026-08-22?",
+      "prev": 0.16,
+      "now": 0.805,
+      "delta": 0.645,
+      "url": "https://polymarket.com/event/mls-mia-tor-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 136140.84,
+      "liquidity": 98232.78
+    },
+    {
+      "market": "UFC Fight Night: Mason Jones vs. MarQuel Mederos (Lightweight, Main Card) \u2014 O/U 2.5 Rounds",
+      "prev": 0.64,
+      "now": 0.005,
+      "delta": -0.635,
+      "url": "https://polymarket.com/event/ufc-mas-mar83-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 6192.25,
+      "liquidity": 981.86
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Frances Tiafoe \u2014 Nakashima vs. Tiafoe: Match O/U 21.5",
+      "prev": 0.625,
+      "now": 0.0005,
+      "delta": -0.6245,
+      "url": "https://polymarket.com/event/atp-nakashi-tiafoe-2026-08-22",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 134190.63,
-      "liquidity": 1102.21
-    },
-    {
-      "market": "Monterrey Open, Qualification: Lanlana Tararudee vs Maria Timofeeva \u2014 Tararudee vs. Timofeeva: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-tararud-timofee-2026-08-22",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 134190.63,
-      "liquidity": 1099.03
+      "volume24hr": 3732.32,
+      "liquidity": 15125.65
     }
   ],
   "log": [
-    {
-      "ts": "17:45:01",
-      "text": " poll complete \u2014 1921 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:00:01",
       "text": " poll complete \u2014 1886 markets scanned, 10 flagged"
@@ -270,6 +262,10 @@
     {
       "ts": "01:00:01",
       "text": " poll complete \u2014 1885 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:15:01",
+      "text": " poll complete \u2014 1910 markets scanned, 10 flagged"
     }
   ]
 }
