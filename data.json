@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-23 16:45:01 UTC",
+  "lastUpdate": "2026-08-23 17:00:01 UTC",
   "swings": [
     {
-      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Both Teams to Score",
-      "prev": 0.295,
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: O/U 3.5",
+      "prev": 0.185,
+      "now": 0.995,
+      "delta": 0.81,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 94755.9,
+      "liquidity": 187033.14
+    },
+    {
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Villarreal CF O/U 1.5",
+      "prev": 0.275,
       "now": 0.9995,
-      "delta": 0.7045,
+      "delta": 0.7245,
       "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -13,44 +28,59 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 25440.85,
-      "liquidity": 251886.41
+      "volume24hr": 584.52,
+      "liquidity": 8564.52
     },
     {
-      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: O/U 1.5",
-      "prev": 0.405,
+      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: Both Teams to Score",
+      "prev": 0.3,
       "now": 0.9995,
-      "delta": 0.5945,
-      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
+      "delta": 0.6995,
+      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga"
+        "Eredivisie"
       ],
-      "volume24hr": 38322.26,
-      "liquidity": 330931.7
+      "volume24hr": 681.71,
+      "liquidity": 9212.15
     },
     {
-      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Villarreal CF 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.996,
-      "delta": 0.496,
-      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 399355.3,
-      "liquidity": 6894.96
-    },
-    {
-      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Club Atl\u00e9tico de Madrid 2nd Half O/U 0.5",
-      "prev": 0.5,
+      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: SC Cambuur-Leeuwarden O/U 0.5",
+      "prev": 0.3,
       "now": 0.9955,
-      "delta": 0.4955,
+      "delta": 0.6955,
+      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 130.0,
+      "liquidity": 4355.15
+    },
+    {
+      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 LoL: Team Heretics vs GIANTX - Game 2 Winner",
+      "prev": 0.62,
+      "now": 0.03,
+      "delta": -0.59,
+      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 325201.34,
+      "liquidity": 125127.92
+    },
+    {
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Club Atl\u00e9tico de Madrid O/U 1.5",
+      "prev": 0.41,
+      "now": 0.995,
+      "delta": 0.585,
       "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -58,105 +88,72 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 399355.3,
-      "liquidity": 7182.63
+      "volume24hr": 2737.7,
+      "liquidity": 19291.4
     },
     {
-      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: US Lecce 1st Half O/U 1.5",
-      "prev": 0.05,
-      "now": 0.5,
-      "delta": 0.45,
-      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
+      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Games Total: O/U 2.5",
+      "prev": 0.61,
+      "now": 0.055,
+      "delta": -0.555,
+      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1558.29,
+      "liquidity": 386.61
+    },
+    {
+      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Game Handicap: GX (-1.5) vs Team Heretics (+1.5)",
+      "prev": 0.385,
+      "now": 0.94,
+      "delta": 0.555,
+      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 26934.98,
+      "liquidity": 403.85
+    },
+    {
+      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Newcastle United FC O/U 1.5",
+      "prev": 0.485,
+      "now": 0.9995,
+      "delta": 0.5145,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 95423.86,
-      "liquidity": 863203.23
+      "volume24hr": 2464.91,
+      "liquidity": 36912.4
     },
     {
-      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: 2nd Half O/U 1.5",
-      "prev": 0.555,
+      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: SC Cambuur-Leeuwarden 2nd Half O/U 0.5",
+      "prev": 0.49,
       "now": 0.9955,
-      "delta": 0.4405,
-      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
+      "delta": 0.5055,
+      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga"
+        "Eredivisie"
       ],
-      "volume24hr": 399355.3,
-      "liquidity": 6977.52
-    },
-    {
-      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Frosinone Calcio 1st Half O/U 1.5",
-      "prev": 0.06,
-      "now": 0.5,
-      "delta": 0.44,
-      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 174874.82,
-      "liquidity": 427413.99
-    },
-    {
-      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: O/U 2.5",
-      "prev": 0.155,
-      "now": 0.585,
-      "delta": 0.43,
-      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 108520.6,
-      "liquidity": 97886.37
-    },
-    {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: CD Santa Clara 1st Half O/U 1.5",
-      "prev": 0.495,
-      "now": 0.08,
-      "delta": -0.415,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 83553.98,
-      "liquidity": 2641.12
-    },
-    {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o 1st Half O/U 1.5",
-      "prev": 0.495,
-      "now": 0.085,
-      "delta": -0.41,
-      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 83553.98,
-      "liquidity": 2640.37
+      "volume24hr": 104943.21,
+      "liquidity": 4257.74
     }
   ],
   "log": [
-    {
-      "ts": "09:30:01",
-      "text": " poll complete \u2014 1921 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:45:01",
       "text": " poll complete \u2014 1957 markets scanned, 10 flagged"
@@ -272,6 +269,10 @@
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 1961 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:00:01",
+      "text": " poll complete \u2014 1966 markets scanned, 10 flagged"
     }
   ]
 }
