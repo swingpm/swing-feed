@@ -1,160 +1,154 @@
 {
-  "lastUpdate": "2026-08-23 02:45:01 UTC",
+  "lastUpdate": "2026-08-23 03:00:01 UTC",
   "swings": [
     {
-      "market": "Nashville SC vs. Columbus Crew - More Markets \u2014 Nashville SC vs. Columbus Crew: Nashville SC O/U 2.5",
-      "prev": 0.04,
+      "market": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) \u2014 O/U 3.5 Rounds",
+      "prev": 0.4,
       "now": 0.9995,
-      "delta": 0.9595,
-      "url": "https://polymarket.com/event/mls-nas-clb-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 445.33,
-      "liquidity": 13133.5
-    },
-    {
-      "market": "Nashville SC vs. Columbus Crew - More Markets \u2014 Nashville SC vs. Columbus Crew: O/U 4.5",
-      "prev": 0.074,
-      "now": 0.9995,
-      "delta": 0.9255,
-      "url": "https://polymarket.com/event/mls-nas-clb-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 11647.12,
-      "liquidity": 179387.47
-    },
-    {
-      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-1.5)",
-      "prev": 0.83,
-      "now": 0.0005,
-      "delta": -0.8295,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5067.16,
-      "liquidity": 60768.82
-    },
-    {
-      "market": "Nashville SC vs. Columbus Crew - More Markets \u2014 Nashville SC vs. Columbus Crew: Nashville SC O/U 1.5",
-      "prev": 0.27,
-      "now": 0.9955,
-      "delta": 0.7255,
-      "url": "https://polymarket.com/event/mls-nas-clb-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 136.85,
-      "liquidity": 13014.5
-    },
-    {
-      "market": "Nashville SC vs. Columbus Crew - More Markets \u2014 Nashville SC vs. Columbus Crew: O/U 3.5",
-      "prev": 0.37,
-      "now": 0.9995,
-      "delta": 0.6295,
-      "url": "https://polymarket.com/event/mls-nas-clb-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 11253.92,
-      "liquidity": 172954.81
-    },
-    {
-      "market": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) \u2014 O/U 2.5 Rounds",
-      "prev": 0.38,
-      "now": 0.9995,
-      "delta": 0.6195,
+      "delta": 0.5995,
       "url": "https://polymarket.com/event/ufc-ant-gre3-2026-08-22",
       "tags": [
         "Sports",
         "UFC",
         "Games"
       ],
-      "volume24hr": 3168.05,
-      "liquidity": 1618.4
+      "volume24hr": 4760.19,
+      "liquidity": 11959.91
     },
     {
-      "market": "Cleveland Guardians vs. Colorado Rockies: O/U 6.5",
-      "prev": 0.485,
-      "now": 0.9955,
-      "delta": 0.5105,
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-22",
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+      "prev": 0.575,
+      "now": 0.035,
+      "delta": -0.54,
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1903639.57,
+      "liquidity": 217945.08
+    },
+    {
+      "market": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) \u2014 Fight to Go the Distance?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/ufc-ant-gre3-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 69487.7,
+      "liquidity": 109463.08
+    },
+    {
+      "market": "UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card) \u2014 O/U 4.5 Rounds",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/ufc-ant-gre3-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 253.16,
+      "liquidity": 5743.9
+    },
+    {
+      "market": "Cincinnati Reds vs. Arizona Diamondbacks: O/U 15.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-22",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 240022.22,
-      "liquidity": 10467.58
+      "volume24hr": 11.15,
+      "liquidity": 1278.42
     },
     {
-      "market": "Vancouver Whitecaps FC vs. FC Dallas - More Markets \u2014 Vancouver Whitecaps FC vs. FC Dallas: Both Teams to Score in First Half",
-      "prev": 0.51,
-      "now": 0.003,
-      "delta": -0.507,
-      "url": "https://polymarket.com/event/mls-vwh-dal-2026-08-22-more-markets",
+      "market": "Connecticut Sun vs. Los Angeles Sparks \u2014 Le\u00efla Lacan: Points O/U 11.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-conn-la-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 394644.7,
+      "liquidity": 919.28
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Allisha Gray: Rebounds O/U 3.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 411173.17,
+      "liquidity": 878.07
+    },
+    {
+      "market": "Connecticut Sun vs. Los Angeles Sparks \u2014 Le\u00efla Lacan: Points O/U 12.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-conn-la-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 394644.7,
+      "liquidity": 784.28
+    },
+    {
+      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: CD Guadalajara 2nd Half O/U 0.5",
+      "prev": 0.54,
+      "now": 0.9945,
+      "delta": 0.4545,
+      "url": "https://polymarket.com/event/mex-gua-tij-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "MLS"
+        "Liga MX"
       ],
-      "volume24hr": 70.85,
-      "liquidity": 3485.2
+      "volume24hr": 172763.09,
+      "liquidity": 5508.01
     },
     {
-      "market": "New York Mets vs. Chicago White Sox \u2014 Spread: New York Mets (-3.5)",
-      "prev": 0.495,
-      "now": 0.9995,
-      "delta": 0.5045,
-      "url": "https://polymarket.com/event/mlb-nym-cws-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 9.0,
-      "liquidity": 10065.22
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Coco Gauff \u2014 Cincinnati Open: Completed Match: Sara Bejlek vs Coco Gauff",
+      "market": "Bears vs. Bengals \u2014 Bears Team Total: O/U 18.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-bejlek-gauff-2026-08-22",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/nfl-chi-cin-2026-08-22",
       "tags": [
-        "Tennis",
         "Sports",
+        "NFL",
         "Games"
       ],
-      "volume24hr": 484.0,
-      "liquidity": 1395.68
+      "volume24hr": 222803.95,
+      "liquidity": 718.27
     }
   ],
   "log": [
-    {
-      "ts": "19:30:01",
-      "text": " poll complete \u2014 1891 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
@@ -270,6 +264,10 @@
     {
       "ts": "02:45:01",
       "text": " poll complete \u2014 1907 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:00:01",
+      "text": " poll complete \u2014 1873 markets scanned, 10 flagged"
     }
   ]
 }
