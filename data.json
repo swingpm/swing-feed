@@ -1,164 +1,158 @@
 {
-  "lastUpdate": "2026-08-23 16:30:01 UTC",
+  "lastUpdate": "2026-08-23 16:45:01 UTC",
   "swings": [
     {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Both Teams to Score in First Half",
-      "prev": 0.595,
-      "now": 0.0005,
-      "delta": -0.5945,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Both Teams to Score",
+      "prev": 0.295,
+      "now": 0.9995,
+      "delta": 0.7045,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "La Liga"
       ],
-      "volume24hr": 769.71,
-      "liquidity": 19476.99
+      "volume24hr": 25440.85,
+      "liquidity": 251886.41
     },
     {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Liverpool FC 1st Half O/U 0.5",
-      "prev": 0.56,
-      "now": 0.0045,
-      "delta": -0.5555,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: O/U 1.5",
+      "prev": 0.405,
+      "now": 0.9995,
+      "delta": 0.5945,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "La Liga"
       ],
-      "volume24hr": 58.94,
-      "liquidity": 6058.26
+      "volume24hr": 38322.26,
+      "liquidity": 330931.7
     },
     {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Liverpool FC 1st Half O/U 1.5",
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Villarreal CF 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0015,
-      "delta": -0.4985,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "now": 0.996,
+      "delta": 0.496,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "La Liga"
       ],
-      "volume24hr": 285.1,
-      "liquidity": 5603.74
+      "volume24hr": 399355.3,
+      "liquidity": 6894.96
     },
     {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Newcastle United FC 1st Half O/U 1.5",
-      "prev": 0.49,
-      "now": 0.005,
-      "delta": -0.485,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 748.66,
-      "liquidity": 6033.9
-    },
-    {
-      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay a Dragon?",
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: Club Atl\u00e9tico de Madrid 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4951193.86,
-      "liquidity": 110.62
-    },
-    {
-      "market": "Philadelphia: Anna Frey vs Ashlyn Krueger \u2014 Anna Frey vs. Ashlyn Krueger: Total Sets O/U 2.5",
-      "prev": 0.115,
-      "now": 0.5,
-      "delta": 0.385,
-      "url": "https://polymarket.com/event/wta-frey-krueger-2026-08-23",
-      "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 8.0,
-      "liquidity": 423901.05
+      "volume24hr": 399355.3,
+      "liquidity": 7182.63
     },
     {
-      "market": "Philadelphia: Anna Frey vs Ashlyn Krueger \u2014 Set Handicap: Krueger (-1.5) vs Frey (+1.5)",
-      "prev": 0.87,
+      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: US Lecce 1st Half O/U 1.5",
+      "prev": 0.05,
       "now": 0.5,
-      "delta": -0.37,
-      "url": "https://polymarket.com/event/wta-frey-krueger-2026-08-23",
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "sea"
       ],
-      "volume24hr": 38.25,
-      "liquidity": 423901.05
+      "volume24hr": 95423.86,
+      "liquidity": 863203.23
     },
     {
-      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.45,
-      "now": 0.1,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: 2nd Half O/U 1.5",
+      "prev": 0.555,
+      "now": 0.9955,
+      "delta": 0.4405,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 4951193.86,
-      "liquidity": 110.62
+      "volume24hr": 399355.3,
+      "liquidity": 6977.52
     },
     {
-      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Destroy Inhibitors?",
-      "prev": 0.45,
-      "now": 0.1,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
+      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Frosinone Calcio 1st Half O/U 1.5",
+      "prev": 0.06,
+      "now": 0.5,
+      "delta": 0.44,
+      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "sea"
       ],
-      "volume24hr": 4951193.86,
-      "liquidity": 110.62
+      "volume24hr": 174874.82,
+      "liquidity": 427413.99
     },
     {
-      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 3: Odd/Even Total Kills?",
-      "prev": 0.45,
-      "now": 0.1,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
+      "market": "Club Atl\u00e9tico de Madrid vs. Villarreal CF - More Markets \u2014 Club Atl\u00e9tico de Madrid vs. Villarreal CF: O/U 2.5",
+      "prev": 0.155,
+      "now": 0.585,
+      "delta": 0.43,
+      "url": "https://polymarket.com/event/lal-mad-vil-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 4951193.86,
-      "liquidity": 110.62
+      "volume24hr": 108520.6,
+      "liquidity": 97886.37
+    },
+    {
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: CD Santa Clara 1st Half O/U 1.5",
+      "prev": 0.495,
+      "now": 0.08,
+      "delta": -0.415,
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 83553.98,
+      "liquidity": 2641.12
+    },
+    {
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o 1st Half O/U 1.5",
+      "prev": 0.495,
+      "now": 0.085,
+      "delta": -0.41,
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 83553.98,
+      "liquidity": 2640.37
     }
   ],
   "log": [
-    {
-      "ts": "09:15:01",
-      "text": " poll complete \u2014 1861 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:30:01",
       "text": " poll complete \u2014 1921 markets scanned, 10 flagged"
@@ -274,6 +268,10 @@
     {
       "ts": "16:30:01",
       "text": " poll complete \u2014 1984 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:45:01",
+      "text": " poll complete \u2014 1961 markets scanned, 10 flagged"
     }
   ]
 }
