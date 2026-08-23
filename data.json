@@ -1,162 +1,158 @@
 {
-  "lastUpdate": "2026-08-23 15:15:02 UTC",
+  "lastUpdate": "2026-08-23 15:30:01 UTC",
   "swings": [
     {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: 1st Half O/U 2.5",
-      "prev": 0.4995,
-      "now": 0.0005,
-      "delta": -0.499,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 880.11
-    },
-    {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: SV Meppen 1912 1st Half O/U 1.5",
+      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Slay a Dragon?",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Club Friendlies"
+        "Sports"
       ],
-      "volume24hr": 77008.77,
-      "liquidity": 875.12
+      "volume24hr": 231575.41,
+      "liquidity": 5.56
     },
     {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: Werder Bremen 1st Half O/U 1.5",
-      "prev": 0.4995,
-      "now": 0.0025,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Club Friendlies"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 875.12
-    },
-    {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: Both Teams to Score in Second Half",
+      "market": "AC Horsens vs. Lyngby BK - More Markets \u2014 AC Horsens vs. Lyngby BK: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Club Friendlies"
+        "Denmark Superliga"
       ],
-      "volume24hr": 77008.77,
-      "liquidity": 11.89
+      "volume24hr": 124327.62,
+      "liquidity": 5471.94
     },
     {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: 2nd Half O/U 0.5",
+      "market": "AC Horsens vs. Lyngby BK - More Markets \u2014 AC Horsens vs. Lyngby BK: Lyngby BK 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Club Friendlies"
+        "Denmark Superliga"
       ],
-      "volume24hr": 77008.77,
-      "liquidity": 11.89
+      "volume24hr": 124327.62,
+      "liquidity": 5471.94
     },
     {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "market": "AC Horsens vs. Lyngby BK - More Markets \u2014 AC Horsens vs. Lyngby BK: Lyngby BK O/U 1.5",
+      "prev": 0.22,
+      "now": 0.68,
+      "delta": 0.46,
+      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Club Friendlies"
+        "Denmark Superliga"
       ],
-      "volume24hr": 77008.77,
-      "liquidity": 11.89
+      "volume24hr": 124327.62,
+      "liquidity": 652.31
     },
     {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: Werder Bremen 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "market": "AC Horsens vs. Lyngby BK - More Markets \u2014 AC Horsens vs. Lyngby BK: Lyngby BK O/U 2.5",
+      "prev": 0.06,
+      "now": 0.52,
+      "delta": 0.46,
+      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Club Friendlies"
+        "Denmark Superliga"
       ],
-      "volume24hr": 77008.77,
-      "liquidity": 11.89
+      "volume24hr": 124327.62,
+      "liquidity": 685.41
     },
     {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: SV Meppen 1912 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "market": "Valorant: Enterprise Esports vs Team Liquid (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: Team Liquid (-7.5) vs Enterprise Esports (+7.5)",
+      "prev": 0.55,
+      "now": 1.0,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/val-ep1-tl1-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "Club Friendlies"
+        "Sports"
       ],
-      "volume24hr": 77008.77,
-      "liquidity": 11.89
+      "volume24hr": 122514.65,
+      "liquidity": 0.0
     },
     {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: SV Meppen 1912 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "market": "Valorant: Enterprise Esports vs Team Liquid (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 17.5",
+      "prev": 0.45,
+      "now": 0.0,
+      "delta": -0.45,
+      "url": "https://polymarket.com/event/val-ep1-tl1-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "Club Friendlies"
+        "Sports"
       ],
-      "volume24hr": 77008.77,
-      "liquidity": 11.89
+      "volume24hr": 122514.65,
+      "liquidity": 0.0
     },
     {
-      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: 2nd Half O/U 2.5",
-      "prev": 0.5095,
-      "now": 0.9945,
-      "delta": 0.485,
-      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
+      "market": "Valorant: Enterprise Esports vs Team Liquid (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 15.5",
+      "prev": 0.55,
+      "now": 1.0,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/val-ep1-tl1-2026-08-23",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 122514.65,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Valorant: Enterprise Esports vs Team Liquid (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: Team Liquid (-8.5) vs Enterprise Esports (+8.5)",
+      "prev": 0.55,
+      "now": 1.0,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/val-ep1-tl1-2026-08-23",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 122514.65,
+      "liquidity": 0.0
+    },
+    {
+      "market": "AC Horsens vs. Lyngby BK \u2014 Will AC Horsens win on 2026-08-23?",
+      "prev": 0.555,
+      "now": 0.165,
+      "delta": -0.39,
+      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Club Friendlies"
+        "Denmark Superliga"
       ],
-      "volume24hr": 77008.77,
-      "liquidity": 31.89
+      "volume24hr": 353651.92,
+      "liquidity": 156238.11
     }
   ],
   "log": [
-    {
-      "ts": "08:00:02",
-      "text": " poll complete \u2014 1851 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:15:02",
       "text": " poll complete \u2014 1857 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "15:15:02",
       "text": " poll complete \u2014 1981 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:30:01",
+      "text": " poll complete \u2014 1937 markets scanned, 10 flagged"
     }
   ]
 }
