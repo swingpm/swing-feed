@@ -1,41 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 07:30:01 UTC",
+  "lastUpdate": "2026-08-23 07:45:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.495,
-      "now": 0.9975,
-      "delta": 0.5025,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 517.44,
-      "liquidity": 2397.31
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
-      "prev": 0.495,
-      "now": 0.995,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 29.5,
-      "liquidity": 835.62
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 First Blood in Game 1?",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 LoL: ThunderTalk Gaming vs LGD Gaming - Game 1 Winner",
+      "prev": 0.43,
+      "now": 0.025,
+      "delta": -0.405,
       "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
       "tags": [
         "Esports",
@@ -43,89 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 290.91,
-      "liquidity": 1169.66
+      "volume24hr": 257367.21,
+      "liquidity": 196663.84
     },
     {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 1913.02
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 9207453.27,
-      "liquidity": 823.42
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 9207453.27,
-      "liquidity": 797.75
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Total Kills Over/Under 70.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 9207453.27,
-      "liquidity": 1400.9
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Ends in Daytime?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2.0,
-      "liquidity": 764.21
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Both Teams Beat Roshan?",
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
       "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
+      "now": 0.225,
+      "delta": -0.27,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -133,14 +28,61 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 9207453.27,
-      "liquidity": 836.16
+      "volume24hr": 472.0,
+      "liquidity": 27.45
     },
     {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
+      "market": "Highest temperature in Guangzhou on August 23? \u2014 Will the highest temperature in Guangzhou be 33\u00b0C on August 23?",
+      "prev": 0.74,
+      "now": 0.995,
+      "delta": 0.255,
+      "url": "https://polymarket.com/event/highest-temperature-in-guangzhou-on-august-23-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Guangzhou",
+        "Highest temperature"
+      ],
+      "volume24hr": 3084.82,
+      "liquidity": 1514.01
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game Handicap: LGD (-1.5) vs ThunderTalk Gaming (+1.5)",
+      "prev": 0.355,
+      "now": 0.585,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 24236.86,
+      "liquidity": 94244.02
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+      "prev": 0.395,
+      "now": 0.175,
+      "delta": -0.22,
+      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 158213.3,
+      "liquidity": 194021.09
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
       "prev": 0.495,
-      "now": 0.005,
-      "delta": -0.49,
+      "now": 0.285,
+      "delta": -0.21,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -148,15 +90,73 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 9207453.27,
-      "liquidity": 820.23
+      "volume24hr": 1.72,
+      "liquidity": 30.44
+    },
+    {
+      "market": "Highest temperature in Guangzhou on August 23? \u2014 Will the highest temperature in Guangzhou be 34\u00b0C on August 23?",
+      "prev": 0.215,
+      "now": 0.008,
+      "delta": -0.207,
+      "url": "https://polymarket.com/event/highest-temperature-in-guangzhou-on-august-23-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Guangzhou",
+        "Highest temperature"
+      ],
+      "volume24hr": 2320.57,
+      "liquidity": 338.24
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.555,
+      "now": 0.725,
+      "delta": 0.17,
+      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3385.72,
+      "liquidity": 200.2
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Both Teams Beat Roshan?",
+      "prev": 0.495,
+      "now": 0.335,
+      "delta": -0.16,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 9666962.65,
+      "liquidity": 18.76
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game Handicap: TT (-1.5) vs LGD Gaming (+1.5)",
+      "prev": 0.19,
+      "now": 0.0325,
+      "delta": -0.1575,
+      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4745.42,
+      "liquidity": 9630.4
     }
   ],
   "log": [
-    {
-      "ts": "00:15:01",
-      "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:30:01",
       "text": " poll complete \u2014 1846 markets scanned, 10 flagged"
@@ -272,6 +272,10 @@
     {
       "ts": "07:30:01",
       "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:45:01",
+      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
     }
   ]
 }
