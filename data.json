@@ -1,162 +1,154 @@
 {
-  "lastUpdate": "2026-08-23 01:30:01 UTC",
+  "lastUpdate": "2026-08-23 01:45:01 UTC",
   "swings": [
     {
-      "market": "Cruzeiro EC vs. CR Flamengo \u2014 Will Cruzeiro EC win on 2026-08-22?",
-      "prev": 0.14,
-      "now": 0.995,
-      "delta": 0.855,
-      "url": "https://polymarket.com/event/bra-cru-fla-2026-08-22",
+      "market": "UFC Fight Night: Roman Dolidze vs. Reinier de Ridder (Light Heavyweight, Main Card) \u2014 Will Reinier de Ridder win by KO or TKO?",
+      "prev": 0.37,
+      "now": 0.9755,
+      "delta": 0.6055,
+      "url": "https://polymarket.com/event/ufc-rom2-rei1-2026-08-22",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
+        "UFC",
+        "Games"
       ],
-      "volume24hr": 11743.53,
-      "liquidity": 276549.46
+      "volume24hr": 792.55,
+      "liquidity": 2115.93
     },
     {
-      "market": "Cruzeiro EC vs. CR Flamengo - More Markets \u2014 Cruzeiro EC vs. CR Flamengo: Cruzeiro EC O/U 1.5",
-      "prev": 0.175,
-      "now": 0.995,
-      "delta": 0.82,
-      "url": "https://polymarket.com/event/bra-cru-fla-2026-08-22-more-markets",
+      "market": "CD Universidad Cat\u00f3lica vs. CD \u00d1ublense \u2014 Will CD \u00d1ublense win on 2026-08-22?",
+      "prev": 0.755,
+      "now": 0.19,
+      "delta": -0.565,
+      "url": "https://polymarket.com/event/chi1-cuc-cdu-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Brazil Serie A"
+        "Soccer"
       ],
-      "volume24hr": 103325.02,
-      "liquidity": 11628.18
+      "volume24hr": 11245.87,
+      "liquidity": 4073.98
     },
     {
-      "market": "Will Cruzeiro EC vs. CR Flamengo end in a draw?",
-      "prev": 0.69,
-      "now": 0.005,
-      "delta": -0.685,
-      "url": "https://polymarket.com/event/bra-cru-fla-2026-08-22",
+      "market": "Athletics vs. Houston Astros",
+      "prev": 0.125,
+      "now": 0.655,
+      "delta": 0.53,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Brazil Serie A"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 3856.07,
-      "liquidity": 55178.05
+      "volume24hr": 231535.01,
+      "liquidity": 226770.28
     },
     {
-      "market": "FC Cincinnati vs. Seattle Sounders FC \u2014 Will FC Cincinnati win on 2026-08-22?",
-      "prev": 0.84,
-      "now": 0.16,
-      "delta": -0.68,
-      "url": "https://polymarket.com/event/mls-fcc-sea-2026-08-22",
+      "market": "Athletics vs. Houston Astros \u2014 Spread: Houston Astros (-1.5)",
+      "prev": 0.635,
+      "now": 0.115,
+      "delta": -0.52,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "MLS"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 266894.81,
-      "liquidity": 121638.21
+      "volume24hr": 14976.84,
+      "liquidity": 2538.34
     },
     {
-      "market": "Cruzeiro EC vs. CR Flamengo - More Markets \u2014 Cruzeiro EC vs. CR Flamengo: O/U 2.5",
-      "prev": 0.335,
-      "now": 0.995,
-      "delta": 0.66,
-      "url": "https://polymarket.com/event/bra-cru-fla-2026-08-22-more-markets",
+      "market": "Will the game go to extra innings?: Tampa Bay Rays vs. Baltimore Orioles",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-tb-bal-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Brazil Serie A"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 70622.33,
-      "liquidity": 163390.81
+      "volume24hr": 16.0,
+      "liquidity": 608.01
     },
     {
-      "market": "Charlotte FC vs. D.C. United SC - More Markets \u2014 Charlotte FC vs. D.C. United SC: Charlotte FC O/U 2.5",
-      "prev": 0.36,
-      "now": 0.997,
-      "delta": 0.637,
-      "url": "https://polymarket.com/event/mls-clt-dcu-2026-08-22-more-markets",
+      "market": "Los Angeles Angels vs. Texas Rangers: O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "MLS"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1780.24,
-      "liquidity": 9609.29
+      "volume24hr": 18.15,
+      "liquidity": 6662.62
     },
     {
-      "market": "Charlotte FC vs. D.C. United SC - More Markets \u2014 Spread: Charlotte FC (-1.5)",
-      "prev": 0.283,
-      "now": 0.9185,
-      "delta": 0.6355,
-      "url": "https://polymarket.com/event/mls-clt-dcu-2026-08-22-more-markets",
+      "market": "Los Angeles Angels vs. Texas Rangers: O/U 3.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "MLS"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 4073.99,
-      "liquidity": 3512.49
+      "volume24hr": 628077.15,
+      "liquidity": 1014.93
     },
     {
-      "market": "Will FC Cincinnati vs. Seattle Sounders FC end in a draw?",
-      "prev": 0.135,
-      "now": 0.76,
-      "delta": 0.625,
-      "url": "https://polymarket.com/event/mls-fcc-sea-2026-08-22",
+      "market": "UFC Fight Night: Roman Dolidze vs. Reinier de Ridder (Light Heavyweight, Main Card) \u2014 Will Roman Dolidze win by KO or TKO?",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/ufc-rom2-rei1-2026-08-22",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
+        "UFC",
+        "Games"
       ],
-      "volume24hr": 2401.12,
-      "liquidity": 10362.86
+      "volume24hr": 1043.88,
+      "liquidity": 2266.05
     },
     {
-      "market": "New York Red Bulls vs. Chicago Fire FC \u2014 Will Chicago Fire FC win on 2026-08-22?",
-      "prev": 0.685,
-      "now": 0.13,
-      "delta": -0.555,
-      "url": "https://polymarket.com/event/mls-nyr-chi-2026-08-22",
+      "market": "UFC Fight Night: Roman Dolidze vs. Reinier de Ridder (Light Heavyweight, Main Card) \u2014 O/U 1.5 Rounds",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/ufc-rom2-rei1-2026-08-22",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
+        "UFC",
+        "Games"
       ],
-      "volume24hr": 31604.1,
-      "liquidity": 10470.54
+      "volume24hr": 38.29,
+      "liquidity": 1908.46
     },
     {
-      "market": "Cruzeiro EC vs. CR Flamengo - More Markets \u2014 Cruzeiro EC vs. CR Flamengo: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/bra-cru-fla-2026-08-22-more-markets",
+      "market": "Athletics vs. Houston Astros: O/U 6.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Brazil Serie A"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 103325.02,
-      "liquidity": 2199.0
+      "volume24hr": 55.67,
+      "liquidity": 2029.46
     }
   ],
   "log": [
-    {
-      "ts": "18:15:01",
-      "text": " poll complete \u2014 1877 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:30:01",
       "text": " poll complete \u2014 1885 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "01:30:01",
       "text": " poll complete \u2014 1912 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:45:01",
+      "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
     }
   ]
 }
