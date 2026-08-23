@@ -1,146 +1,56 @@
 {
-  "lastUpdate": "2026-08-23 17:15:01 UTC",
+  "lastUpdate": "2026-08-23 17:30:01 UTC",
   "swings": [
     {
-      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: SC Cambuur-Leeuwarden O/U 1.5",
-      "prev": 0.19,
-      "now": 0.9995,
-      "delta": 0.8095,
-      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 17954.39
-    },
-    {
-      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: O/U 5.5",
-      "prev": 0.435,
-      "now": 0.9995,
-      "delta": 0.5645,
-      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 13808.89,
-      "liquidity": 167149.67
-    },
-    {
-      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 110544.71,
-      "liquidity": 8947.36
-    },
-    {
-      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: SC Cambuur-Leeuwarden 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 110544.71,
-      "liquidity": 8658.37
-    },
-    {
-      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: Feyenoord Rotterdam 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 110544.71,
-      "liquidity": 8993.79
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: BBL Esports (-2.5) vs Fire Flux Esports (+2.5)",
-      "prev": 0.5,
+      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Juventus FC 1st Half O/U 1.5",
+      "prev": 0.585,
       "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
+      "delta": -0.58,
+      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "sea"
       ],
-      "volume24hr": 161064.47,
-      "liquidity": 285.68
+      "volume24hr": 85.34,
+      "liquidity": 2504.13
     },
     {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 161064.47,
-      "liquidity": 285.12
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 20.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 161064.47,
-      "liquidity": 219.78
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 161064.47,
-      "liquidity": 285.12
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Rounds Handicap: Fire Flux Esports (-2.5) vs BBL Esports (+2.5)",
-      "prev": 0.5,
+      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: 1st Half O/U 1.5",
+      "prev": 0.58,
       "now": 0.005,
-      "delta": -0.495,
+      "delta": -0.575,
+      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 6211.71,
+      "liquidity": 118687.27
+    },
+    {
+      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Both Teams to Score in First Half",
+      "prev": 0.535,
+      "now": 0.005,
+      "delta": -0.53,
+      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 1495.29,
+      "liquidity": 2483.13
+    },
+    {
+      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 26.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
       "tags": [
         "Esports",
@@ -148,15 +58,101 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 161064.47,
-      "liquidity": 196.58
+      "volume24hr": 4.99,
+      "liquidity": 302.89
+    },
+    {
+      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 25.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4.99,
+      "liquidity": 302.89
+    },
+    {
+      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: Le Havre AC O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 416.7,
+      "liquidity": 17797.3
+    },
+    {
+      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 46.0,
+      "liquidity": 4289.41
+    },
+    {
+      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 165109.08,
+      "liquidity": 4633.46
+    },
+    {
+      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 165109.08,
+      "liquidity": 4343.12
+    },
+    {
+      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Ligue 1"
+      ],
+      "volume24hr": 165109.08,
+      "liquidity": 4813.9
     }
   ],
   "log": [
-    {
-      "ts": "10:00:01",
-      "text": " poll complete \u2014 1967 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:15:01",
       "text": " poll complete \u2014 1963 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "17:15:01",
       "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:30:01",
+      "text": " poll complete \u2014 2005 markets scanned, 10 flagged"
     }
   ]
 }
