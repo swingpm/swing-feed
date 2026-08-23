@@ -1,159 +1,150 @@
 {
-  "lastUpdate": "2026-08-23 02:00:01 UTC",
+  "lastUpdate": "2026-08-23 02:15:01 UTC",
   "swings": [
     {
-      "market": "Chicago Cubs vs. Seattle Mariners",
-      "prev": 0.945,
-      "now": 0.0005,
-      "delta": -0.9445,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
+      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: CD Guadalajara 1st Half O/U 1.5",
+      "prev": 0.34,
+      "now": 0.9955,
+      "delta": 0.6555,
+      "url": "https://polymarket.com/event/mex-gua-tij-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 250281.75,
-      "liquidity": 416261.0
+      "volume24hr": 166335.21,
+      "liquidity": 5523.92
     },
     {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 7.5",
-      "prev": 0.125,
-      "now": 0.9995,
-      "delta": 0.8745,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 189546.11,
-      "liquidity": 353074.51
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 8.5",
-      "prev": 0.145,
-      "now": 0.9995,
-      "delta": 0.8545,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 23711.69,
-      "liquidity": 314921.33
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Chicago Cubs (-1.5)",
-      "prev": 0.845,
-      "now": 0.0005,
-      "delta": -0.8445,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 7956.58,
-      "liquidity": 125588.18
-    },
-    {
-      "market": "CD Universidad Cat\u00f3lica vs. CD \u00d1ublense \u2014 Will CD \u00d1ublense win on 2026-08-22?",
-      "prev": 0.19,
-      "now": 0.995,
-      "delta": 0.805,
-      "url": "https://polymarket.com/event/chi1-cuc-cdu-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer"
-      ],
-      "volume24hr": 12292.68,
-      "liquidity": 215168.61
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 6.5",
-      "prev": 0.295,
-      "now": 0.9995,
-      "delta": 0.7045,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 16281.26,
-      "liquidity": 138823.91
-    },
-    {
-      "market": "Will CD Universidad Cat\u00f3lica vs. CD \u00d1ublense end in a draw?",
-      "prev": 0.525,
-      "now": 0.005,
-      "delta": -0.52,
-      "url": "https://polymarket.com/event/chi1-cuc-cdu-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer"
-      ],
-      "volume24hr": 2452.51,
-      "liquidity": 50920.96
-    },
-    {
-      "market": "Eagles vs. Patriots \u2014 PHI vs. NE: O/U 37.5",
-      "prev": 0.495,
-      "now": 0.9995,
-      "delta": 0.5045,
+      "market": "Eagles vs. Patriots \u2014 Spread: PHI (-2.5)",
+      "prev": 0.725,
+      "now": 0.12,
+      "delta": -0.605,
       "url": "https://polymarket.com/event/nfl-phi-ne-2026-08-22",
       "tags": [
         "Sports",
         "NFL",
         "Games"
       ],
-      "volume24hr": 13750.07,
-      "liquidity": 207476.85
+      "volume24hr": 9840.49,
+      "liquidity": 24157.19
     },
     {
-      "market": "Tampa Bay Rays vs. Baltimore Orioles: O/U 6.5",
-      "prev": 0.505,
-      "now": 0.0045,
-      "delta": -0.5005,
-      "url": "https://polymarket.com/event/mlb-tb-bal-2026-08-22",
+      "market": "Eagles vs. Patriots \u2014 Spread: PHI (-1.5)",
+      "prev": 0.73,
+      "now": 0.125,
+      "delta": -0.605,
+      "url": "https://polymarket.com/event/nfl-phi-ne-2026-08-22",
       "tags": [
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 26.66,
-      "liquidity": 2691.31
+      "volume24hr": 9820.12,
+      "liquidity": 3462.05
     },
     {
-      "market": "Vancouver Whitecaps FC vs. FC Dallas - More Markets \u2014 Vancouver Whitecaps FC vs. FC Dallas: Vancouver Whitecaps FC 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.997,
-      "delta": 0.497,
-      "url": "https://polymarket.com/event/mls-vwh-dal-2026-08-22-more-markets",
+      "market": "UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) \u2014 Will Vitor Petrino win by KO or TKO?",
+      "prev": 0.605,
+      "now": 0.0005,
+      "delta": -0.6045,
+      "url": "https://polymarket.com/event/ufc-ser2-vit3-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 119.51,
+      "liquidity": 1232.91
+    },
+    {
+      "market": "Eagles vs. Patriots \u2014 Spread: NE (-1.5)",
+      "prev": 0.27,
+      "now": 0.84,
+      "delta": 0.57,
+      "url": "https://polymarket.com/event/nfl-phi-ne-2026-08-22",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 60.28,
+      "liquidity": 486.7
+    },
+    {
+      "market": "Bears vs. Bengals \u2014 CHI vs. CIN: O/U 37.5",
+      "prev": 0.675,
+      "now": 0.11,
+      "delta": -0.565,
+      "url": "https://polymarket.com/event/nfl-chi-cin-2026-08-22",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 38824.94,
+      "liquidity": 117503.2
+    },
+    {
+      "market": "Eagles vs. Patriots",
+      "prev": 0.725,
+      "now": 0.17,
+      "delta": -0.555,
+      "url": "https://polymarket.com/event/nfl-phi-ne-2026-08-22",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 204071.64,
+      "liquidity": 144879.8
+    },
+    {
+      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: 1st Half O/U 1.5",
+      "prev": 0.46,
+      "now": 0.9995,
+      "delta": 0.5395,
+      "url": "https://polymarket.com/event/mex-gua-tij-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "MLS"
+        "Liga MX"
       ],
-      "volume24hr": 444169.09,
-      "liquidity": 2140.91
+      "volume24hr": 98.01,
+      "liquidity": 11384.53
+    },
+    {
+      "market": "UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card) \u2014 O/U 2.5 Rounds",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/ufc-ser2-vit3-2026-08-22",
+      "tags": [
+        "Sports",
+        "UFC",
+        "Games"
+      ],
+      "volume24hr": 1547.75,
+      "liquidity": 4743.84
+    },
+    {
+      "market": "Cincinnati Open: Sara Bejlek vs Coco Gauff \u2014 Bejlek vs. Gauff: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-bejlek-gauff-2026-08-22",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 17.81,
+      "liquidity": 5155.07
     }
   ],
   "log": [
-    {
-      "ts": "18:45:01",
-      "text": " poll complete \u2014 1915 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:00:01",
       "text": " poll complete \u2014 1864 markets scanned, 10 flagged"
@@ -269,6 +260,10 @@
     {
       "ts": "02:00:01",
       "text": " poll complete \u2014 1881 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:15:01",
+      "text": " poll complete \u2014 1880 markets scanned, 10 flagged"
     }
   ]
 }
