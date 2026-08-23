@@ -1,41 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 03:15:01 UTC",
+  "lastUpdate": "2026-08-23 03:30:01 UTC",
   "swings": [
     {
-      "market": "Minnesota Twins vs. San Diego Padres",
-      "prev": 0.915,
-      "now": 0.095,
-      "delta": -0.82,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 301391.6,
-      "liquidity": 49300.0
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres \u2014 Spread: Minnesota Twins (-1.5)",
-      "prev": 0.805,
-      "now": 0.04,
-      "delta": -0.765,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1652.34,
-      "liquidity": 605.24
-    },
-    {
-      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: O/U 5.5",
-      "prev": 0.281,
+      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: Club Tijuana O/U 1.5",
+      "prev": 0.22,
       "now": 0.9995,
-      "delta": 0.7185,
+      "delta": 0.7795,
       "url": "https://polymarket.com/event/mex-gua-tij-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -43,14 +13,14 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 3295.43,
-      "liquidity": 53768.75
+      "volume24hr": 811.88,
+      "liquidity": 17448.8
     },
     {
-      "market": "Minnesota Twins vs. San Diego Padres: O/U 9.5",
-      "prev": 0.285,
-      "now": 0.9995,
-      "delta": 0.7145,
+      "market": "Minnesota Twins vs. San Diego Padres: O/U 11.5",
+      "prev": 0.3,
+      "now": 0.995,
+      "delta": 0.695,
       "url": "https://polymarket.com/event/mlb-min-sd-2026-08-22",
       "tags": [
         "Sports",
@@ -58,44 +28,14 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 8296.63,
-      "liquidity": 48601.88
+      "volume24hr": 954.88,
+      "liquidity": 428.12
     },
     {
-      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: Club Tijuana O/U 0.5",
-      "prev": 0.325,
-      "now": 0.9955,
-      "delta": 0.6705,
-      "url": "https://polymarket.com/event/mex-gua-tij-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 323.84,
-      "liquidity": 3979.57
-    },
-    {
-      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: Both Teams to Score",
-      "prev": 0.335,
-      "now": 0.9995,
-      "delta": 0.6645,
-      "url": "https://polymarket.com/event/mex-gua-tij-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 3537.59,
-      "liquidity": 24083.02
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres: O/U 10.5",
-      "prev": 0.34,
-      "now": 0.9995,
-      "delta": 0.6595,
+      "market": "Minnesota Twins vs. San Diego Padres \u2014 Spread: San Diego Padres (-1.5)",
+      "prev": 0.2415,
+      "now": 0.8435,
+      "delta": 0.602,
       "url": "https://polymarket.com/event/mlb-min-sd-2026-08-22",
       "tags": [
         "Sports",
@@ -103,59 +43,116 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 107.16,
-      "liquidity": 7586.76
+      "volume24hr": 3815.62,
+      "liquidity": 5808.0
     },
     {
-      "market": "Cancun: Sebastian Baez vs Lloyd Harris \u2014 Baez vs. Harris: Match O/U 22.5",
-      "prev": 0.6,
-      "now": 0.0005,
-      "delta": -0.5995,
-      "url": "https://polymarket.com/event/atp-baez-harri-2026-08-22",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1673.8,
-      "liquidity": 5621.78
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres: O/U 8.5",
-      "prev": 0.46,
-      "now": 0.9995,
-      "delta": 0.5395,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 44627.53,
-      "liquidity": 85957.99
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
+      "market": "Vancouver Whitecaps FC vs. FC Dallas - More Markets \u2014 Vancouver Whitecaps FC vs. FC Dallas: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/mls-vwh-dal-2026-08-22-more-markets",
       "tags": [
-        "Esports",
-        "Dota 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 666.51,
-      "liquidity": 1070.96
+      "volume24hr": 484929.23,
+      "liquidity": 5586.06
+    },
+    {
+      "market": "Vancouver Whitecaps FC vs. FC Dallas - More Markets \u2014 Vancouver Whitecaps FC vs. FC Dallas: Vancouver Whitecaps FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/mls-vwh-dal-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 484929.23,
+      "liquidity": 5578.93
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Angel Reese: Points O/U 16.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 449930.2,
+      "liquidity": 920.12
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Angel Reese: Points O/U 15.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 19.23,
+      "liquidity": 927.12
+    },
+    {
+      "market": "CD Guadalajara vs. Club Tijuana - More Markets \u2014 CD Guadalajara vs. Club Tijuana: Club Tijuana 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/mex-gua-tij-2026-08-22-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 211887.31,
+      "liquidity": 4267.6
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Alyssa Thomas: Assists O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 449930.2,
+      "liquidity": 892.12
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Alyssa Thomas: Assists O/U 7.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 449930.2,
+      "liquidity": 891.98
     }
   ],
   "log": [
-    {
-      "ts": "20:00:02",
-      "text": " poll complete \u2014 1849 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:15:01",
       "text": " poll complete \u2014 1848 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "03:15:01",
       "text": " poll complete \u2014 1886 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:30:01",
+      "text": " poll complete \u2014 1880 markets scanned, 10 flagged"
     }
   ]
 }
