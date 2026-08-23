@@ -1,11 +1,27 @@
 {
-  "lastUpdate": "2026-08-23 13:15:01 UTC",
+  "lastUpdate": "2026-08-23 13:30:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.45,
-      "now": 0.995,
-      "delta": 0.545,
+      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: Aston Villa FC 1st Half O/U 1.5",
+      "prev": 0.525,
+      "now": 0.0225,
+      "delta": -0.5025,
+      "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 124.36,
+      "liquidity": 542.6
+    },
+    {
+      "market": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FUT Esports (-9.5) vs Spirit (+9.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/cs2-fut-ts7-2026-08-23",
       "tags": [
         "Esports",
@@ -13,61 +29,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 113.14,
-      "liquidity": 1096.92
+      "volume24hr": 2112560.06,
+      "liquidity": 109.42
     },
     {
-      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: Brighton & Hove Albion FC 1st Half O/U 1.5",
-      "prev": 0.145,
-      "now": 0.675,
-      "delta": 0.53,
-      "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 94.6,
-      "liquidity": 345.45
-    },
-    {
-      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: Brighton & Hove Albion FC 1st Half O/U 0.5",
-      "prev": 0.485,
-      "now": 0.995,
-      "delta": 0.51,
-      "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 191360.5,
-      "liquidity": 2427.72
-    },
-    {
-      "market": "PSV vs. FC Groningen - More Markets \u2014 PSV vs. FC Groningen: PSV 1st Half O/U 1.5",
-      "prev": 0.49,
-      "now": 0.995,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/ere-psv-gro-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 121.95,
-      "liquidity": 6143.45
-    },
-    {
-      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 1?",
+      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 1: Odd/Even Total Kills?",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
+      "now": 0.9945,
+      "delta": 0.4945,
       "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
       "tags": [
         "Esports",
@@ -75,90 +44,118 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1250274.22,
-      "liquidity": 844.9
+      "volume24hr": 1505626.36,
+      "liquidity": 755.12
     },
     {
-      "market": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group \u2014 Game 3: Any Player Quadra Kill?",
+      "market": "Young Boys Bern vs. FC Vaduz - More Markets \u2014 Young Boys Bern vs. FC Vaduz: Young Boys Bern 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-fox1-ns-2026-08-23",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/sui-yb-vad-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Switzerland Super League"
+      ],
+      "volume24hr": 73157.88,
+      "liquidity": 1594.87
+    },
+    {
+      "market": "Young Boys Bern vs. FC Vaduz - More Markets \u2014 Young Boys Bern vs. FC Vaduz: 2nd Half O/U 0.5",
+      "prev": 0.505,
+      "now": 0.9955,
+      "delta": 0.4905,
+      "url": "https://polymarket.com/event/sui-yb-vad-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Switzerland Super League"
+      ],
+      "volume24hr": 73157.88,
+      "liquidity": 1655.59
+    },
+    {
+      "market": "Shanghai Haigang FC vs. Qingdao Hainiu FC - More Markets \u2014 Shanghai Haigang FC vs. Qingdao Hainiu FC: Qingdao Hainiu FC O/U 2.5",
+      "prev": 0.03,
+      "now": 0.4955,
+      "delta": 0.4655,
+      "url": "https://polymarket.com/event/chi-shp-hai-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Chinese Super League"
+      ],
+      "volume24hr": 141169.82,
+      "liquidity": 35.64
+    },
+    {
+      "market": "Manchester City FC vs. AFC Bournemouth - More Markets \u2014 Manchester City FC vs. AFC Bournemouth: Both Teams to Score in First Half",
+      "prev": 0.155,
+      "now": 0.615,
+      "delta": 0.46,
+      "url": "https://polymarket.com/event/epl-mac-bou-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 1488.39,
+      "liquidity": 14.71
+    },
+    {
+      "market": "Brighton & Hove Albion FC vs. Aston Villa FC - More Markets \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: 1st Half O/U 2.5",
+      "prev": 0.23,
+      "now": 0.675,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/epl-bri-ast-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 1744.73,
+      "liquidity": 4605.88
+    },
+    {
+      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.725,
+      "now": 0.3,
+      "delta": -0.425,
+      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 3619692.12,
-      "liquidity": 760.91
+      "volume24hr": 2498.67,
+      "liquidity": 9.11
     },
     {
-      "market": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-fox1-ns-2026-08-23",
+      "market": "Shanghai Haigang FC vs. Qingdao Hainiu FC - More Markets \u2014 Shanghai Haigang FC vs. Qingdao Hainiu FC: O/U 3.5",
+      "prev": 0.615,
+      "now": 0.205,
+      "delta": -0.41,
+      "url": "https://polymarket.com/event/chi-shp-hai-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Chinese Super League"
       ],
-      "volume24hr": 3619692.12,
-      "liquidity": 796.06
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Spirit (-3.5) vs FUT Esports (+3.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-fut-ts7-2026-08-23",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2450.44,
-      "liquidity": 1148.48
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FUT Esports (-3.5) vs Spirit (+3.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-fut-ts7-2026-08-23",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1850890.31,
-      "liquidity": 119.36
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Spirit (-6.5) vs FUT Esports (+6.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-fut-ts7-2026-08-23",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1850890.31,
-      "liquidity": 119.36
+      "volume24hr": 30074.48,
+      "liquidity": 2114.72
     }
   ],
   "log": [
-    {
-      "ts": "06:00:01",
-      "text": " poll complete \u2014 1848 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:15:01",
       "text": " poll complete \u2014 1795 markets scanned, 10 flagged"
@@ -273,6 +270,10 @@
     },
     {
       "ts": "13:15:01",
+      "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:30:01",
       "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
     }
   ]
