@@ -1,69 +1,128 @@
 {
-  "lastUpdate": "2026-08-23 01:45:01 UTC",
+  "lastUpdate": "2026-08-23 02:00:01 UTC",
   "swings": [
     {
-      "market": "UFC Fight Night: Roman Dolidze vs. Reinier de Ridder (Light Heavyweight, Main Card) \u2014 Will Reinier de Ridder win by KO or TKO?",
-      "prev": 0.37,
-      "now": 0.9755,
-      "delta": 0.6055,
-      "url": "https://polymarket.com/event/ufc-rom2-rei1-2026-08-22",
+      "market": "Chicago Cubs vs. Seattle Mariners",
+      "prev": 0.945,
+      "now": 0.0005,
+      "delta": -0.9445,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
       "tags": [
         "Sports",
-        "UFC",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 792.55,
-      "liquidity": 2115.93
+      "volume24hr": 250281.75,
+      "liquidity": 416261.0
+    },
+    {
+      "market": "Chicago Cubs vs. Seattle Mariners: O/U 7.5",
+      "prev": 0.125,
+      "now": 0.9995,
+      "delta": 0.8745,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 189546.11,
+      "liquidity": 353074.51
+    },
+    {
+      "market": "Chicago Cubs vs. Seattle Mariners: O/U 8.5",
+      "prev": 0.145,
+      "now": 0.9995,
+      "delta": 0.8545,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 23711.69,
+      "liquidity": 314921.33
+    },
+    {
+      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Chicago Cubs (-1.5)",
+      "prev": 0.845,
+      "now": 0.0005,
+      "delta": -0.8445,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 7956.58,
+      "liquidity": 125588.18
     },
     {
       "market": "CD Universidad Cat\u00f3lica vs. CD \u00d1ublense \u2014 Will CD \u00d1ublense win on 2026-08-22?",
-      "prev": 0.755,
-      "now": 0.19,
-      "delta": -0.565,
+      "prev": 0.19,
+      "now": 0.995,
+      "delta": 0.805,
       "url": "https://polymarket.com/event/chi1-cuc-cdu-2026-08-22",
       "tags": [
         "Sports",
         "Games",
         "Soccer"
       ],
-      "volume24hr": 11245.87,
-      "liquidity": 4073.98
+      "volume24hr": 12292.68,
+      "liquidity": 215168.61
     },
     {
-      "market": "Athletics vs. Houston Astros",
-      "prev": 0.125,
-      "now": 0.655,
-      "delta": 0.53,
-      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 231535.01,
-      "liquidity": 226770.28
-    },
-    {
-      "market": "Athletics vs. Houston Astros \u2014 Spread: Houston Astros (-1.5)",
-      "prev": 0.635,
-      "now": 0.115,
-      "delta": -0.52,
-      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 14976.84,
-      "liquidity": 2538.34
-    },
-    {
-      "market": "Will the game go to extra innings?: Tampa Bay Rays vs. Baltimore Orioles",
-      "prev": 0.5,
+      "market": "Chicago Cubs vs. Seattle Mariners: O/U 6.5",
+      "prev": 0.295,
       "now": 0.9995,
-      "delta": 0.4995,
+      "delta": 0.7045,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 16281.26,
+      "liquidity": 138823.91
+    },
+    {
+      "market": "Will CD Universidad Cat\u00f3lica vs. CD \u00d1ublense end in a draw?",
+      "prev": 0.525,
+      "now": 0.005,
+      "delta": -0.52,
+      "url": "https://polymarket.com/event/chi1-cuc-cdu-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer"
+      ],
+      "volume24hr": 2452.51,
+      "liquidity": 50920.96
+    },
+    {
+      "market": "Eagles vs. Patriots \u2014 PHI vs. NE: O/U 37.5",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/nfl-phi-ne-2026-08-22",
+      "tags": [
+        "Sports",
+        "NFL",
+        "Games"
+      ],
+      "volume24hr": 13750.07,
+      "liquidity": 207476.85
+    },
+    {
+      "market": "Tampa Bay Rays vs. Baltimore Orioles: O/U 6.5",
+      "prev": 0.505,
+      "now": 0.0045,
+      "delta": -0.5005,
       "url": "https://polymarket.com/event/mlb-tb-bal-2026-08-22",
       "tags": [
         "Sports",
@@ -71,88 +130,26 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 16.0,
-      "liquidity": 608.01
+      "volume24hr": 26.66,
+      "liquidity": 2691.31
     },
     {
-      "market": "Los Angeles Angels vs. Texas Rangers: O/U 4.5",
+      "market": "Vancouver Whitecaps FC vs. FC Dallas - More Markets \u2014 Vancouver Whitecaps FC vs. FC Dallas: Vancouver Whitecaps FC 1st Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-22",
+      "now": 0.997,
+      "delta": 0.497,
+      "url": "https://polymarket.com/event/mls-vwh-dal-2026-08-22-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 18.15,
-      "liquidity": 6662.62
-    },
-    {
-      "market": "Los Angeles Angels vs. Texas Rangers: O/U 3.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 628077.15,
-      "liquidity": 1014.93
-    },
-    {
-      "market": "UFC Fight Night: Roman Dolidze vs. Reinier de Ridder (Light Heavyweight, Main Card) \u2014 Will Roman Dolidze win by KO or TKO?",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/ufc-rom2-rei1-2026-08-22",
-      "tags": [
-        "Sports",
-        "UFC",
-        "Games"
-      ],
-      "volume24hr": 1043.88,
-      "liquidity": 2266.05
-    },
-    {
-      "market": "UFC Fight Night: Roman Dolidze vs. Reinier de Ridder (Light Heavyweight, Main Card) \u2014 O/U 1.5 Rounds",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/ufc-rom2-rei1-2026-08-22",
-      "tags": [
-        "Sports",
-        "UFC",
-        "Games"
-      ],
-      "volume24hr": 38.29,
-      "liquidity": 1908.46
-    },
-    {
-      "market": "Athletics vs. Houston Astros: O/U 6.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 55.67,
-      "liquidity": 2029.46
+      "volume24hr": 444169.09,
+      "liquidity": 2140.91
     }
   ],
   "log": [
-    {
-      "ts": "18:30:01",
-      "text": " poll complete \u2014 1885 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 1915 markets scanned, 10 flagged"
@@ -268,6 +265,10 @@
     {
       "ts": "01:45:01",
       "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:00:01",
+      "text": " poll complete \u2014 1881 markets scanned, 10 flagged"
     }
   ]
 }
