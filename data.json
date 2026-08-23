@@ -1,125 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 05:30:01 UTC",
+  "lastUpdate": "2026-08-23 05:45:01 UTC",
   "swings": [
     {
-      "market": "Cowboys vs. Cardinals: 1H O/U 19.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 222.17,
-      "liquidity": 974.74
-    },
-    {
-      "market": "Cowboys vs. Cardinals \u2014 Cowboys Team Total: O/U 18.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 289872.2,
-      "liquidity": 110.62
-    },
-    {
-      "market": "Cowboys vs. Cardinals \u2014 Cardinals Team Total: O/U 19.5",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 35.24,
-      "liquidity": 110.62
-    },
-    {
-      "market": "Cowboys vs. Cardinals \u2014 Cowboys Team Total: O/U 19.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 289872.2,
-      "liquidity": 110.62
-    },
-    {
-      "market": "Cowboys vs. Cardinals: 1H Moneyline",
-      "prev": 0.505,
-      "now": 0.9,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 289872.2,
-      "liquidity": 818.27
-    },
-    {
-      "market": "Cowboys vs. Cardinals \u2014 1H Spread: Cardinals (-0.5)",
-      "prev": 0.45,
-      "now": 0.1,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 27.35,
-      "liquidity": 1110.62
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.23,
-      "now": 0.5,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4666701.52,
-      "liquidity": 0.1
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
-      "prev": 0.23,
-      "now": 0.5,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4666701.52,
-      "liquidity": 0.1
-    },
-    {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.235,
-      "now": 0.5,
-      "delta": 0.265,
+      "prev": 0.5,
+      "now": 0.23,
+      "delta": -0.27,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -128,13 +14,13 @@
         "Sports"
       ],
       "volume24hr": 513.0,
-      "liquidity": 0.1
+      "liquidity": 2.85
     },
     {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
-      "prev": 0.455,
-      "now": 0.24,
-      "delta": -0.215,
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.5,
+      "now": 0.23,
+      "delta": -0.27,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -142,15 +28,131 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 93.34,
-      "liquidity": 50.52
+      "volume24hr": 472.0,
+      "liquidity": 2.85
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
+      "prev": 0.5,
+      "now": 0.23,
+      "delta": -0.27,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5842446.84,
+      "liquidity": 2.85
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.295,
+      "delta": -0.205,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 27.78,
+      "liquidity": 2.2
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.295,
+      "delta": -0.205,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5842446.84,
+      "liquidity": 2.2
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.295,
+      "delta": -0.205,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5842446.84,
+      "liquidity": 2.2
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.315,
+      "delta": -0.185,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5842446.84,
+      "liquidity": 2.0
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.315,
+      "delta": -0.185,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5842446.84,
+      "liquidity": 2.0
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.315,
+      "delta": -0.185,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5842446.84,
+      "liquidity": 2.0
+    },
+    {
+      "market": "Elche CF vs. FC Barcelona - More Markets \u2014 Elche CF vs. FC Barcelona: Elche CF 2nd Half O/U 1.5",
+      "prev": 0.295,
+      "now": 0.115,
+      "delta": -0.18,
+      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 85600.69,
+      "liquidity": 325.77
     }
   ],
   "log": [
-    {
-      "ts": "22:15:01",
-      "text": " poll complete \u2014 1957 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:30:01",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
@@ -266,6 +268,10 @@
     {
       "ts": "05:30:01",
       "text": " poll complete \u2014 1880 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:45:01",
+      "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
     }
   ]
 }
