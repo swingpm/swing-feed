@@ -1,53 +1,68 @@
 {
-  "lastUpdate": "2026-08-23 09:00:01 UTC",
+  "lastUpdate": "2026-08-23 09:15:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Counter-Strike: FURIA vs Legacy - Map 1 Winner",
-      "prev": 0.365,
-      "now": 0.9995,
-      "delta": 0.6345,
-      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
+      "market": "Counter-Strike: Raccoons vs Vexar (BO3) - Exort Fiesta Group Stage \u2014 Counter-Strike: Raccoons vs Vexar - Map 2 Winner",
+      "prev": 0.69,
+      "now": 0.17,
+      "delta": -0.52,
+      "url": "https://polymarket.com/event/cs2-raccoo-vex1-2026-08-23",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 193716.72,
-      "liquidity": 800906.07
+      "volume24hr": 296.04,
+      "liquidity": 699.33
     },
     {
-      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "market": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group \u2014 First Blood in Game 2?",
+      "prev": 0.525,
+      "now": 0.0055,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 9.35,
+      "liquidity": 743.57
+    },
+    {
+      "market": "Counter-Strike: Raccoons vs Vexar (BO3) - Exort Fiesta Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.685,
+      "now": 0.17,
+      "delta": -0.515,
+      "url": "https://polymarket.com/event/cs2-raccoo-vex1-2026-08-23",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 49131.06,
+      "liquidity": 34.6
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Total Kills Over/Under 90.5 in Game 2?",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 156.85,
-      "liquidity": 1256.13
+      "volume24hr": 5.0,
+      "liquidity": 903.26
     },
     {
-      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FURIA (-3.5) vs Legacy (+3.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 158.86,
-      "liquidity": 1343.14
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 36.5 in Game 2?",
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Odd/Even Total Kills?",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
@@ -58,105 +73,86 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1397278.35,
-      "liquidity": 708.0
+      "volume24hr": 1677898.21,
+      "liquidity": 743.0
     },
     {
-      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 39.5 in Game 2?",
+      "market": "Valorant: JD Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs \u2014 Map 1 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-jdg-tyloo-2026-08-23",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1397278.35,
-      "liquidity": 708.0
+      "volume24hr": 17.63,
+      "liquidity": 673.22
     },
     {
-      "market": "LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 42.5 in Game 2?",
+      "market": "Valorant: JD Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs \u2014 Map 1 Total Rounds: Over/Under 20.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-jdg-tyloo-2026-08-23",
       "tags": [
         "Esports",
-        "league of legends",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1397278.35,
-      "liquidity": 708.0
+      "volume24hr": 62184.73,
+      "liquidity": 673.22
     },
     {
-      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map Handicap: FURIA (-1.5) vs Legacy (+1.5)",
-      "prev": 0.26,
-      "now": 0.67,
-      "delta": 0.41,
-      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 52857.61,
-      "liquidity": 36479.7
-    },
-    {
-      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: FURIA (-6.5) vs Legacy (+6.5)",
+      "market": "Valorant: JD Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs \u2014 Map 1 Total Rounds: Over/Under 22.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-jdg-tyloo-2026-08-23",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 576758.73,
-      "liquidity": 440.78
+      "volume24hr": 62184.73,
+      "liquidity": 666.22
     },
     {
-      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 1 Rounds Handicap: Legacy (-3.5) vs FURIA (+3.5)",
+      "market": "Valorant: JD Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs \u2014 Map 1 Rounds Handicap: TYLOO (-2.5) vs JD Gaming (+2.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/val-jdg-tyloo-2026-08-23",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 576758.73,
-      "liquidity": 440.78
+      "volume24hr": 331.66,
+      "liquidity": 673.22
     },
     {
-      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
-      "prev": 0.535,
-      "now": 0.845,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
+      "market": "Valorant: JD Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs \u2014 Map Handicap: TYLOO (-2.5) vs JD Gaming (+2.5)",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/val-jdg-tyloo-2026-08-23",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "Valorant",
         "Games",
         "Sports"
       ],
-      "volume24hr": 320458.33,
-      "liquidity": 357857.11
+      "volume24hr": 115.08,
+      "liquidity": 1755.26
     }
   ],
   "log": [
-    {
-      "ts": "01:45:01",
-      "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:00:01",
       "text": " poll complete \u2014 1881 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "09:00:01",
       "text": " poll complete \u2014 1826 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:15:01",
+      "text": " poll complete \u2014 1861 markets scanned, 10 flagged"
     }
   ]
 }
