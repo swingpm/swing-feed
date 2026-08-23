@@ -1,53 +1,68 @@
 {
-  "lastUpdate": "2026-08-23 04:00:01 UTC",
+  "lastUpdate": "2026-08-23 04:15:02 UTC",
   "swings": [
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: 1st Half O/U 1.5",
-      "prev": 0.3,
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Spread: Atlanta Dream (-8.5)",
+      "prev": 0.33,
       "now": 0.9995,
-      "delta": 0.6995,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "delta": 0.6695,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Liga MX"
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 510.39,
-      "liquidity": 27118.14
+      "volume24hr": 49075.7,
+      "liquidity": 150756.77
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: CF Cruz Azul 1st Half O/U 0.5",
-      "prev": 0.575,
-      "now": 0.0055,
-      "delta": -0.5695,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 55.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "Liga MX"
+        "Sports"
       ],
-      "volume24hr": 111666.49,
-      "liquidity": 2318.85
+      "volume24hr": 9884328.36,
+      "liquidity": 308.67
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Atlas FC O/U 1.5",
-      "prev": 0.445,
-      "now": 0.997,
-      "delta": 0.552,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 60.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "Liga MX"
+        "Sports"
       ],
-      "volume24hr": 941.73,
-      "liquidity": 8984.86
+      "volume24hr": 9884328.36,
+      "liquidity": 412.62
     },
     {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 First Blood in Game 2?",
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 65.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 9884328.36,
+      "liquidity": 358.17
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Total Kills Over/Under 45.5 in Game 2?",
       "prev": 0.5,
       "now": 0.9945,
       "delta": 0.4945,
@@ -58,105 +73,86 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 66.67,
-      "liquidity": 20.6
+      "volume24hr": 9884328.36,
+      "liquidity": 6.0
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: CF Cruz Azul 1st Half O/U 1.5",
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Spread: Atlanta Dream (-5.5)",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 29776.29,
+      "liquidity": 95163.39
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Allisha Gray: Points O/U 19.5",
       "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Liga MX"
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 111666.49,
-      "liquidity": 2318.85
+      "volume24hr": 537364.95,
+      "liquidity": 410.62
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Atlas FC 1st Half O/U 1.5",
-      "prev": 0.524,
-      "now": 0.997,
-      "delta": 0.473,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 111666.49,
-      "liquidity": 7749.93
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.54,
-      "now": 0.185,
-      "delta": -0.355,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 20574.05,
-      "liquidity": 5553.27
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
-      "prev": 0.495,
-      "now": 0.175,
-      "delta": -0.32,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3679731.19,
-      "liquidity": 213534.09
-    },
-    {
-      "market": "CF Cruz Azul vs. Atlas FC \u2014 Will Atlas FC win on 2026-08-22?",
-      "prev": 0.425,
-      "now": 0.745,
-      "delta": 0.32,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 64338.4,
-      "liquidity": 151810.47
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs \u2014 Game Handicap: TS (-1.5) vs Team Yandex (+1.5)",
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Rhyne Howard: Points O/U 18.5",
       "prev": 0.5,
-      "now": 0.815,
-      "delta": 0.315,
-      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22",
+      "now": 0.905,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
       "tags": [
-        "Esports",
-        "Dota 2",
+        "Sports",
         "Games",
-        "Sports"
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 327835.73,
-      "liquidity": 109.92
+      "volume24hr": 537364.95,
+      "liquidity": 410.62
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Alyssa Thomas: Points O/U 14.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 537364.95,
+      "liquidity": 410.62
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury \u2014 Naz Hillmon: Points O/U 9.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-atl-phx-2026-08-22",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 4.55,
+      "liquidity": 410.62
     }
   ],
   "log": [
-    {
-      "ts": "20:45:01",
-      "text": " poll complete \u2014 1887 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:00:01",
       "text": " poll complete \u2014 1921 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:15:02",
+      "text": " poll complete \u2014 1782 markets scanned, 10 flagged"
     }
   ]
 }
