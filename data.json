@@ -1,159 +1,155 @@
 {
-  "lastUpdate": "2026-08-23 18:45:02 UTC",
+  "lastUpdate": "2026-08-23 19:00:02 UTC",
   "swings": [
     {
-      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: Venezia FC O/U 0.5",
-      "prev": 0.53,
-      "now": 0.0005,
-      "delta": -0.5295,
-      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
+      "market": "Detroit Tigers vs. Kansas City Royals: 1st 5 Innings O/U 5.5",
+      "prev": 0.325,
+      "now": 0.995,
+      "delta": 0.67,
+      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "sea"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1179.72,
-      "liquidity": 19221.67
+      "volume24hr": 29.99,
+      "liquidity": 3250.8
     },
     {
-      "market": "Club Brugge vs. Cercle Brugge - More Markets \u2014 Club Brugge vs. Cercle Brugge: Both Teams to Score",
-      "prev": 0.51,
+      "market": "Detroit Tigers vs. Kansas City Royals: 1st 5 Innings O/U 6.5",
+      "prev": 0.22,
+      "now": 0.825,
+      "delta": 0.605,
+      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 50.21,
+      "liquidity": 641.95
+    },
+    {
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o O/U 0.5",
+      "prev": 0.57,
       "now": 0.005,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/bel1-bru-cer-2026-08-23-more-markets",
+      "delta": -0.565,
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Belgium Pro League"
+        "Primeira Liga"
       ],
-      "volume24hr": 927.88,
-      "liquidity": 6095.91
+      "volume24hr": 104472.54,
+      "liquidity": 10006.44
     },
     {
-      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: Venezia FC O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
+      "market": "Detroit Tigers vs. Kansas City Royals \u2014 Spread: Kansas City Royals (-1.5)",
+      "prev": 0.245,
+      "now": 0.805,
+      "delta": 0.56,
+      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "sea"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 641.81,
-      "liquidity": 19464.96
+      "volume24hr": 1597.0,
+      "liquidity": 346.75
     },
     {
-      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Frosinone Calcio O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
+      "market": "Detroit Tigers vs. Kansas City Royals: 1st 5 Innings O/U 4.5",
+      "prev": 0.455,
+      "now": 0.9955,
+      "delta": 0.5405,
+      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "sea"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 11010.0,
-      "liquidity": 67680.27
+      "volume24hr": 498.02,
+      "liquidity": 553.63
     },
     {
-      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 3582.65
-    },
-    {
-      "market": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Dhakshineswar Suresh \u2014 Shelbayh vs. Suresh: Set 2 Games O/U 8.5",
+      "market": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele \u2014 Herbert vs. Vandecasteele: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-shelbay-suresh-2026-08-23",
+      "url": "https://polymarket.com/event/atp-herbert-vandeca-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 151480.35,
-      "liquidity": 2499.36
+      "volume24hr": 181710.92,
+      "liquidity": 2649.61
     },
     {
-      "market": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Dhakshineswar Suresh \u2014 Shelbayh vs. Suresh: Set 2 Games O/U 9.5",
+      "market": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele \u2014 Herbert vs. Vandecasteele: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-shelbay-suresh-2026-08-23",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-herbert-vandeca-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 151480.35,
-      "liquidity": 2499.36
+      "volume24hr": 181710.92,
+      "liquidity": 2649.61
     },
     {
-      "market": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Dhakshineswar Suresh \u2014 Shelbayh vs. Suresh: Set 2 Games O/U 10.5",
+      "market": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele \u2014 Herbert vs. Vandecasteele: Set 2 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-shelbay-suresh-2026-08-23",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-herbert-vandeca-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 151480.35,
-      "liquidity": 2499.36
+      "volume24hr": 181710.92,
+      "liquidity": 2663.34
     },
     {
-      "market": "Club Brugge vs. Cercle Brugge - More Markets \u2014 Spread: Club Brugge (-1.5)",
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/bel1-bru-cer-2026-08-23-more-markets",
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Belgium Pro League"
+        "Primeira Liga"
       ],
-      "volume24hr": 3805.65,
-      "liquidity": 26615.81
+      "volume24hr": 10.5,
+      "liquidity": 10006.9
     },
     {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
-      "prev": 0.9995,
-      "now": 0.5005,
-      "delta": -0.499,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0015,
+      "delta": -0.4985,
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Primeira Liga"
       ],
       "volume24hr": 5.0,
-      "liquidity": 0.01
+      "liquidity": 10673.67
     }
   ],
   "log": [
-    {
-      "ts": "11:30:01",
-      "text": " poll complete \u2014 2027 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 2080 markets scanned, 10 flagged"
@@ -269,6 +265,10 @@
     {
       "ts": "18:45:02",
       "text": " poll complete \u2014 1985 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:00:02",
+      "text": " poll complete \u2014 1978 markets scanned, 10 flagged"
     }
   ]
 }
