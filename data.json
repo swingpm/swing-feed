@@ -1,162 +1,155 @@
 {
-  "lastUpdate": "2026-08-23 18:30:02 UTC",
+  "lastUpdate": "2026-08-23 18:45:02 UTC",
   "swings": [
     {
-      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: US Lecce O/U 1.5",
-      "prev": 0.155,
+      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: Venezia FC O/U 0.5",
+      "prev": 0.53,
+      "now": 0.0005,
+      "delta": -0.5295,
+      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 1179.72,
+      "liquidity": 19221.67
+    },
+    {
+      "market": "Club Brugge vs. Cercle Brugge - More Markets \u2014 Club Brugge vs. Cercle Brugge: Both Teams to Score",
+      "prev": 0.51,
+      "now": 0.005,
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/bel1-bru-cer-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Belgium Pro League"
+      ],
+      "volume24hr": 927.88,
+      "liquidity": 6095.91
+    },
+    {
+      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: Venezia FC O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 641.81,
+      "liquidity": 19464.96
+    },
+    {
+      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Frosinone Calcio O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 11010.0,
+      "liquidity": 67680.27
+    },
+    {
+      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 3582.65
+    },
+    {
+      "market": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Dhakshineswar Suresh \u2014 Shelbayh vs. Suresh: Set 2 Games O/U 8.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.8445,
-      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-shelbay-suresh-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 151480.35,
+      "liquidity": 2499.36
+    },
+    {
+      "market": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Dhakshineswar Suresh \u2014 Shelbayh vs. Suresh: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-shelbay-suresh-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 151480.35,
+      "liquidity": 2499.36
+    },
+    {
+      "market": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Dhakshineswar Suresh \u2014 Shelbayh vs. Suresh: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-shelbay-suresh-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 151480.35,
+      "liquidity": 2499.36
+    },
+    {
+      "market": "Club Brugge vs. Cercle Brugge - More Markets \u2014 Spread: Club Brugge (-1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/bel1-bru-cer-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Belgium Pro League"
       ],
-      "volume24hr": 434.58,
-      "liquidity": 3297.46
+      "volume24hr": 3805.65,
+      "liquidity": 26615.81
     },
     {
-      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Spread: US Lecce (-1.5)",
-      "prev": 0.114,
-      "now": 0.89,
-      "delta": 0.776,
-      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 11697.58,
-      "liquidity": 52685.44
-    },
-    {
-      "market": "LoL: LOS vs LOUD (BO3) - CBLOL Regular Season \u2014 LoL: LOS vs LOUD - Game 1 Winner",
-      "prev": 0.785,
-      "now": 0.065,
-      "delta": -0.72,
-      "url": "https://polymarket.com/event/lol-los-lll-2026-08-23",
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
+      "prev": 0.9995,
+      "now": 0.5005,
+      "delta": -0.499,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 105560.9,
-      "liquidity": 219155.68
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.72,
-      "now": 0.0005,
-      "delta": -0.7195,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 509.05,
-      "liquidity": 21829.3
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map Handicap: FF (-1.5) vs BBL Esports (+1.5)",
-      "prev": 0.42,
-      "now": 0.9995,
-      "delta": 0.5795,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 17304.94
-    },
-    {
-      "market": "Will there be a run scored in the first inning?: Detroit Tigers vs. Kansas City Royals",
-      "prev": 0.49,
-      "now": 0.9995,
-      "delta": 0.5095,
-      "url": "https://polymarket.com/event/mlb-det-kc-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1950.67,
-      "liquidity": 9777.17
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: BBL Esports (-2.5) vs Fire Flux Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 456878.82,
-      "liquidity": 9507.3
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: Fire Flux Esports (-2.5) vs BBL Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 456878.82,
-      "liquidity": 9514.3
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: Fire Flux Esports (-4.5) vs BBL Esports (+4.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 456878.82,
-      "liquidity": 9472.08
-    },
-    {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 2 Rounds Handicap: Fire Flux Esports (-3.5) vs BBL Esports (+3.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 456878.82,
-      "liquidity": 9472.08
+      "volume24hr": 5.0,
+      "liquidity": 0.01
     }
   ],
   "log": [
-    {
-      "ts": "11:15:01",
-      "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:30:01",
       "text": " poll complete \u2014 2027 markets scanned, 10 flagged"
@@ -272,6 +265,10 @@
     {
       "ts": "18:30:02",
       "text": " poll complete \u2014 2017 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:45:02",
+      "text": " poll complete \u2014 1985 markets scanned, 10 flagged"
     }
   ]
 }
