@@ -1,71 +1,56 @@
 {
-  "lastUpdate": "2026-08-23 11:00:01 UTC",
+  "lastUpdate": "2026-08-23 11:15:01 UTC",
   "swings": [
     {
-      "market": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland - More Markets \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: FC Nordsj\u00e6lland 1st Half O/U 0.5",
-      "prev": 0.14,
-      "now": 0.9995,
-      "delta": 0.8595,
-      "url": "https://polymarket.com/event/den-sjs-nor-2026-08-23-more-markets",
+      "market": "LoL: CTBC Flying Oyster vs Team Secret Whales (BO5) - LCP Playoffs \u2014 Game Handicap: TSW (-2.5) vs CTBC Flying Oyster (+2.5)",
+      "prev": 0.855,
+      "now": 0.18,
+      "delta": -0.675,
+      "url": "https://polymarket.com/event/lol-cfo-tsw-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Denmark Superliga"
+        "Sports"
       ],
-      "volume24hr": 1564.43,
-      "liquidity": 23295.54
+      "volume24hr": 1062.05,
+      "liquidity": 66.35
     },
     {
-      "market": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland - More Markets \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: 1st Half O/U 0.5",
-      "prev": 0.2,
-      "now": 0.9995,
-      "delta": 0.7995,
-      "url": "https://polymarket.com/event/den-sjs-nor-2026-08-23-more-markets",
+      "market": "LoL: CTBC Flying Oyster vs Team Secret Whales (BO5) - LCP Playoffs \u2014 LoL: CTBC Flying Oyster vs Team Secret Whales - Game 3 Winner",
+      "prev": 0.145,
+      "now": 0.805,
+      "delta": 0.66,
+      "url": "https://polymarket.com/event/lol-cfo-tsw-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Denmark Superliga"
+        "Sports"
       ],
-      "volume24hr": 3283.67,
-      "liquidity": 42233.08
+      "volume24hr": 37388.83,
+      "liquidity": 119251.24
     },
     {
-      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: Go Ahead Eagles 1st Half O/U 0.5",
-      "prev": 0.345,
-      "now": 0.9955,
-      "delta": 0.6505,
-      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
+      "market": "LoL: CTBC Flying Oyster vs Team Secret Whales (BO5) - LCP Playoffs \u2014 Games Total: O/U 3.5",
+      "prev": 0.145,
+      "now": 0.795,
+      "delta": 0.65,
+      "url": "https://polymarket.com/event/lol-cfo-tsw-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Eredivisie"
+        "Sports"
       ],
-      "volume24hr": 9.83,
-      "liquidity": 5782.42
+      "volume24hr": 3798.29,
+      "liquidity": 103.27
     },
     {
-      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: 1st Half O/U 0.5",
-      "prev": 0.48,
-      "now": 0.9995,
-      "delta": 0.5195,
-      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 745.78,
-      "liquidity": 21188.44
-    },
-    {
-      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 2?",
-      "prev": 0.495,
-      "now": 0.995,
-      "delta": 0.5,
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Game 2: Odd/Even Total Kills?",
+      "prev": 0.49,
+      "now": 0.9945,
+      "delta": 0.5045,
       "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23",
       "tags": [
         "Esports",
@@ -73,56 +58,56 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 236.58,
-      "liquidity": 724.8
+      "volume24hr": 1461006.35,
+      "liquidity": 706.81
     },
     {
-      "market": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 30.5 in Game 1?",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-fox1-ns-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5404.51,
-      "liquidity": 31560.25
-    },
-    {
-      "market": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland - More Markets \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: S\u00f8nderjyske Fodbold 1st Half O/U 1.5",
+      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 3 Rounds Handicap: FURIA (-3.5) vs Legacy (+3.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/den-sjs-nor-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 106.38,
-      "liquidity": 4208.05
-    },
-    {
-      "market": "Counter-Strike: Color vs SPARTA (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: SPARTA (-1.5) vs Color (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/cs2-color-sparta-2026-08-23",
+      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 62597.14,
-      "liquidity": 8481.16
+      "volume24hr": 42.87,
+      "liquidity": 4841.21
     },
     {
-      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "market": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs \u2014 Map 3 Rounds Handicap: FURIA (-6.5) vs Legacy (+6.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-furia-lgc-2026-08-23",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1772178.19,
+      "liquidity": 5240.81
+    },
+    {
+      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: ADO Den Haag 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 111.11,
+      "liquidity": 3616.85
+    },
+    {
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 33.5 in Game 2?",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
@@ -133,14 +118,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 18.49,
-      "liquidity": 734.8
+      "volume24hr": 1461006.35,
+      "liquidity": 743.0
     },
     {
-      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 24.5 in Game 2?",
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 36.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23",
       "tags": [
         "Esports",
@@ -148,15 +133,26 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1169580.81,
-      "liquidity": 736.01
+      "volume24hr": 1461006.35,
+      "liquidity": 714.37
+    },
+    {
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 39.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1461006.35,
+      "liquidity": 728.37
     }
   ],
   "log": [
-    {
-      "ts": "03:45:02",
-      "text": " poll complete \u2014 1846 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "11:00:01",
       "text": " poll complete \u2014 2046 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:15:01",
+      "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
     }
   ]
 }
