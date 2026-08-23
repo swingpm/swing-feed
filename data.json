@@ -1,160 +1,156 @@
 {
-  "lastUpdate": "2026-08-23 21:45:01 UTC",
+  "lastUpdate": "2026-08-23 22:00:01 UTC",
   "swings": [
     {
-      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: 1st Half O/U 1.5",
-      "prev": 0.135,
-      "now": 0.9975,
-      "delta": 0.8625,
-      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 994.83,
-      "liquidity": 6972.59
-    },
-    {
-      "market": "Counter-Strike: ex-RUBY vs Black Phoenix (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.125,
-      "now": 0.9,
-      "delta": 0.775,
-      "url": "https://polymarket.com/event/cs2-ruby1-blackp-2026-08-23",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 15.0,
-      "liquidity": 433.15
-    },
-    {
-      "market": "Elche CF vs. FC Barcelona - More Markets \u2014 Elche CF vs. FC Barcelona: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 46.39,
-      "liquidity": 4044.09
-    },
-    {
-      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1036454.73,
-      "liquidity": 2167.71
-    },
-    {
-      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1036454.73,
-      "liquidity": 2167.71
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres \u2014 1st 5 Innings Spread: San Diego Padres (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
+      "market": "San Francisco Giants vs. Boston Red Sox: O/U 11.5",
+      "prev": 0.56,
+      "now": 0.005,
+      "delta": -0.555,
+      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 15.0,
-      "liquidity": 1239.33
+      "volume24hr": 7425.74,
+      "liquidity": 19726.73
     },
     {
-      "market": "FC Porto vs. FC Arouca - More Markets \u2014 FC Porto vs. FC Arouca: FC Arouca O/U 0.5",
+      "market": "San Francisco Giants vs. Boston Red Sox: O/U 9.5",
+      "prev": 0.525,
+      "now": 0.0005,
+      "delta": -0.5245,
+      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 31690.71,
+      "liquidity": 157500.93
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers \u2014 1st 5 Innings Spread: Los Angeles Dodgers (-1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 691.33,
+      "liquidity": 2060.9
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Primeira Liga"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 1048.33,
-      "liquidity": 15606.45
+      "volume24hr": 5.0,
+      "liquidity": 1781.63
     },
     {
-      "market": "FC Porto vs. FC Arouca - More Markets \u2014 FC Porto vs. FC Arouca: FC Arouca O/U 1.5",
-      "prev": 0.4995,
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 55.91,
+      "liquidity": 1296.86
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.499,
-      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Primeira Liga"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 126.04,
-      "liquidity": 8932.61
+      "volume24hr": 7156.59,
+      "liquidity": 16931.96
     },
     {
-      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: New York City FC 1st Half O/U 0.5",
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
-      "now": 0.9975,
-      "delta": 0.4975,
-      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "MLS"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 158823.08,
-      "liquidity": 3589.91
+      "volume24hr": 1497.15,
+      "liquidity": 7668.03
     },
     {
-      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: New York City FC 1st Half O/U 1.5",
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 6.5",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "MLS"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 158823.08,
-      "liquidity": 3194.57
+      "volume24hr": 25.0,
+      "liquidity": 1748.56
+    },
+    {
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 137984.45,
+      "liquidity": 4786.67
+    },
+    {
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 137984.45,
+      "liquidity": 4704.47
     }
   ],
   "log": [
-    {
-      "ts": "14:30:01",
-      "text": " poll complete \u2014 1924 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:45:02",
       "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
@@ -270,6 +266,10 @@
     {
       "ts": "21:45:01",
       "text": " poll complete \u2014 1983 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:00:01",
+      "text": " poll complete \u2014 1896 markets scanned, 10 flagged"
     }
   ]
 }
