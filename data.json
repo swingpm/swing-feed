@@ -1,154 +1,146 @@
 {
-  "lastUpdate": "2026-08-23 17:45:01 UTC",
+  "lastUpdate": "2026-08-23 18:00:01 UTC",
   "swings": [
     {
-      "market": "Will Newcastle United FC vs. Liverpool FC end in a draw?",
-      "prev": 0.035,
+      "market": "Will there be a run scored in the first inning?: St. Louis Cardinals vs. Philadelphia Phillies",
+      "prev": 0.435,
       "now": 0.9995,
-      "delta": 0.9645,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23",
+      "delta": 0.5645,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 40815.78,
+      "liquidity": 51143.16
+    },
+    {
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: Both Teams to Score in First Half",
+      "prev": 0.535,
+      "now": 0.0045,
+      "delta": -0.5305,
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "Primeira Liga"
       ],
-      "volume24hr": 456157.68,
-      "liquidity": 824047.74
+      "volume24hr": 96454.57,
+      "liquidity": 2371.46
     },
     {
-      "market": "Newcastle United FC vs. Liverpool FC \u2014 Will Newcastle United FC win on 2026-08-23?",
-      "prev": 0.955,
-      "now": 0.0005,
-      "delta": -0.9545,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 1309028.58,
-      "liquidity": 1048538.07
-    },
-    {
-      "market": "Newcastle United FC vs. Liverpool FC - Exact Score \u2014 Exact Score: Newcastle United FC 2 - 2 Liverpool FC?",
-      "prev": 0.05,
-      "now": 0.9995,
-      "delta": 0.9495,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 16857.27,
-      "liquidity": 73250.8
-    },
-    {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: O/U 3.5",
-      "prev": 0.055,
-      "now": 0.9995,
-      "delta": 0.9445,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 274695.79,
-      "liquidity": 616608.72
-    },
-    {
-      "market": "Newcastle United FC vs. Liverpool FC - Exact Score \u2014 Exact Score: Newcastle United FC 2 - 1 Liverpool FC?",
-      "prev": 0.905,
-      "now": 0.0005,
-      "delta": -0.9045,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 4757.94,
-      "liquidity": 20536.09
-    },
-    {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Liverpool FC O/U 1.5",
-      "prev": 0.34,
-      "now": 0.9995,
-      "delta": 0.6595,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 18425.33,
-      "liquidity": 54155.23
-    },
-    {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Newcastle United FC 2nd Half O/U 1.5",
+      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "sea"
       ],
-      "volume24hr": 972931.96,
-      "liquidity": 4609.67
+      "volume24hr": 268035.09,
+      "liquidity": 6813.47
     },
     {
-      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Liverpool FC 2nd Half O/U 1.5",
+      "market": "Venezia FC vs. US Lecce - More Markets \u2014 Venezia FC vs. US Lecce: US Lecce 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/sea-ven-lec-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "sea"
       ],
-      "volume24hr": 972931.96,
-      "liquidity": 8151.16
+      "volume24hr": 268035.09,
+      "liquidity": 6705.46
     },
     {
-      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 21.5 in Game 2?",
-      "prev": 0.5005,
-      "now": 0.9995,
-      "delta": 0.499,
-      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 96454.57,
+      "liquidity": 2373.92
+    },
+    {
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: CD Santa Clara 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 96454.57,
+      "liquidity": 2385.41
+    },
+    {
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 96454.57,
+      "liquidity": 2316.43
+    },
+    {
+      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 779.0
+      "volume24hr": 290043.1,
+      "liquidity": 15.83
     },
     {
-      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: CD Santa Clara 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9975,
-      "delta": 0.4975,
+      "market": "Getafe CF vs. Real Racing Club - More Markets \u2014 Getafe CF vs. Real Racing Club: Real Racing Club 1st Half O/U 1.5",
+      "prev": 0.06,
+      "now": 0.5,
+      "delta": 0.44,
+      "url": "https://polymarket.com/event/lal-get-rrc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 459.0,
+      "liquidity": 374617.44
+    },
+    {
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: FC Famalic\u00e3o O/U 1.5",
+      "prev": 0.575,
+      "now": 0.15,
+      "delta": -0.425,
       "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -157,14 +149,10 @@
         "Primeira Liga"
       ],
       "volume24hr": 5.0,
-      "liquidity": 5821.96
+      "liquidity": 1081.64
     }
   ],
   "log": [
-    {
-      "ts": "10:30:01",
-      "text": " poll complete \u2014 1951 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:45:01",
       "text": " poll complete \u2014 2019 markets scanned, 10 flagged"
@@ -280,6 +268,10 @@
     {
       "ts": "17:45:01",
       "text": " poll complete \u2014 1941 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:00:01",
+      "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
     }
   ]
 }
