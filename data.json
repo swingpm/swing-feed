@@ -1,55 +1,41 @@
 {
-  "lastUpdate": "2026-08-23 10:45:01 UTC",
+  "lastUpdate": "2026-08-23 11:00:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Color vs SPARTA (BO3) - NODWIN Clutch Series Group Stage \u2014 Counter-Strike: Color vs SPARTA - Map 2 Winner",
-      "prev": 0.805,
-      "now": 0.17,
-      "delta": -0.635,
-      "url": "https://polymarket.com/event/cs2-color-sparta-2026-08-23",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1526.96,
-      "liquidity": 1306.8
-    },
-    {
-      "market": "Augsburg: Kai Wehnelt vs Daniel Siniakov \u2014 Augsburg, Germany, Qualifying: Completed Match: Kai Wehnelt vs Daniel Siniakov",
-      "prev": 0.5,
+      "market": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland - More Markets \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: FC Nordsj\u00e6lland 1st Half O/U 0.5",
+      "prev": 0.14,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-wehnelt-siniako-2026-08-23",
+      "delta": 0.8595,
+      "url": "https://polymarket.com/event/den-sjs-nor-2026-08-23-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
-      ],
-      "volume24hr": 2714.0,
-      "liquidity": 14964.7
-    },
-    {
-      "market": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group \u2014 First Blood in Game 1?",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/lol-fox1-ns-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
         "Games",
-        "Sports"
+        "Soccer",
+        "Denmark Superliga"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 729.57
+      "volume24hr": 1564.43,
+      "liquidity": 23295.54
     },
     {
-      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: ADO Den Haag O/U 2.5",
-      "prev": 0.54,
-      "now": 0.065,
-      "delta": -0.475,
+      "market": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland - More Markets \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: 1st Half O/U 0.5",
+      "prev": 0.2,
+      "now": 0.9995,
+      "delta": 0.7995,
+      "url": "https://polymarket.com/event/den-sjs-nor-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Denmark Superliga"
+      ],
+      "volume24hr": 3283.67,
+      "liquidity": 42233.08
+    },
+    {
+      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: Go Ahead Eagles 1st Half O/U 0.5",
+      "prev": 0.345,
+      "now": 0.9955,
+      "delta": 0.6505,
       "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -57,14 +43,59 @@
         "Soccer",
         "Eredivisie"
       ],
-      "volume24hr": 80922.81,
-      "liquidity": 2520.29
+      "volume24hr": 9.83,
+      "liquidity": 5782.42
+    },
+    {
+      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: 1st Half O/U 0.5",
+      "prev": 0.48,
+      "now": 0.9995,
+      "delta": 0.5195,
+      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Eredivisie"
+      ],
+      "volume24hr": 745.78,
+      "liquidity": 21188.44
+    },
+    {
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "prev": 0.495,
+      "now": 0.995,
+      "delta": 0.5,
+      "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 236.58,
+      "liquidity": 724.8
+    },
+    {
+      "market": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/lol-fox1-ns-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5404.51,
+      "liquidity": 31560.25
     },
     {
       "market": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland - More Markets \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: S\u00f8nderjyske Fodbold 1st Half O/U 1.5",
-      "prev": 0.04,
-      "now": 0.5,
-      "delta": 0.46,
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/den-sjs-nor-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -73,58 +104,28 @@
         "Denmark Superliga"
       ],
       "volume24hr": 106.38,
-      "liquidity": 0.01
+      "liquidity": 4208.05
     },
     {
-      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: ADO Den Haag 1st Half O/U 0.5",
-      "prev": 0.67,
-      "now": 0.215,
-      "delta": -0.455,
-      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
+      "market": "Counter-Strike: Color vs SPARTA (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: SPARTA (-1.5) vs Color (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-color-sparta-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "Eredivisie"
+        "Sports"
       ],
-      "volume24hr": 37.12,
-      "liquidity": 351.54
+      "volume24hr": 62597.14,
+      "liquidity": 8481.16
     },
     {
-      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: Go Ahead Eagles 1st Half O/U 0.5",
-      "prev": 0.735,
-      "now": 0.345,
-      "delta": -0.39,
-      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 7.56,
-      "liquidity": 708.89
-    },
-    {
-      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: Go Ahead Eagles 1st Half O/U 1.5",
-      "prev": 0.45,
-      "now": 0.06,
-      "delta": -0.39,
-      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Eredivisie"
-      ],
-      "volume24hr": 233.54,
-      "liquidity": 604.89
-    },
-    {
-      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Games Total: O/U 2.5",
-      "prev": 0.325,
-      "now": 0.71,
-      "delta": 0.385,
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23",
       "tags": [
         "Esports",
@@ -132,30 +133,26 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3839.09,
-      "liquidity": 1780.45
+      "volume24hr": 18.49,
+      "liquidity": 734.8
     },
     {
-      "market": "Go Ahead Eagles vs. ADO Den Haag - More Markets \u2014 Go Ahead Eagles vs. ADO Den Haag: ADO Den Haag 1st Half O/U 1.5",
-      "prev": 0.395,
-      "now": 0.0155,
-      "delta": -0.3795,
-      "url": "https://polymarket.com/event/ere-goa-ado-2026-08-23-more-markets",
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend \u2014 Total Kills Over/Under 24.5 in Game 2?",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Eredivisie"
+        "Sports"
       ],
-      "volume24hr": 111.11,
-      "liquidity": 387.28
+      "volume24hr": 1169580.81,
+      "liquidity": 736.01
     }
   ],
   "log": [
-    {
-      "ts": "03:30:01",
-      "text": " poll complete \u2014 1880 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:45:02",
       "text": " poll complete \u2014 1846 markets scanned, 10 flagged"
@@ -271,6 +268,10 @@
     {
       "ts": "10:45:01",
       "text": " poll complete \u2014 2019 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:00:01",
+      "text": " poll complete \u2014 2046 markets scanned, 10 flagged"
     }
   ]
 }
