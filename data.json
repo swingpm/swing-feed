@@ -1,162 +1,152 @@
 {
-  "lastUpdate": "2026-08-23 05:15:01 UTC",
+  "lastUpdate": "2026-08-23 05:30:01 UTC",
   "swings": [
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: 2nd Half O/U 0.5",
-      "prev": 0.57,
-      "now": 0.0005,
-      "delta": -0.5695,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 208567.68,
-      "liquidity": 3216.41
-    },
-    {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Atlas FC O/U 2.5",
-      "prev": 0.5085,
-      "now": 0.0005,
-      "delta": -0.508,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 683.95,
-      "liquidity": 14235.04
-    },
-    {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Both Teams to Score in Second Half",
+      "market": "Cowboys vs. Cardinals: 1H O/U 19.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 208567.68,
-      "liquidity": 3261.07
+      "volume24hr": 222.17,
+      "liquidity": 974.74
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: 2nd Half O/U 1.5",
+      "market": "Cowboys vs. Cardinals \u2014 Cowboys Team Total: O/U 18.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 6.66,
-      "liquidity": 3261.07
+      "volume24hr": 289872.2,
+      "liquidity": 110.62
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: 2nd Half O/U 2.5",
+      "market": "Cowboys vs. Cardinals \u2014 Cardinals Team Total: O/U 19.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 208567.68,
-      "liquidity": 3222.3
+      "volume24hr": 35.24,
+      "liquidity": 110.62
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: CF Cruz Azul 2nd Half O/U 0.5",
+      "market": "Cowboys vs. Cardinals \u2014 Cowboys Team Total: O/U 19.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 208567.68,
-      "liquidity": 3261.02
+      "volume24hr": 289872.2,
+      "liquidity": 110.62
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: CF Cruz Azul 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "market": "Cowboys vs. Cardinals: 1H Moneyline",
+      "prev": 0.505,
+      "now": 0.9,
+      "delta": 0.395,
+      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 208567.68,
-      "liquidity": 3261.07
+      "volume24hr": 289872.2,
+      "liquidity": 818.27
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Atlas FC 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "market": "Cowboys vs. Cardinals \u2014 1H Spread: Cardinals (-0.5)",
+      "prev": 0.45,
+      "now": 0.1,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/nfl-dal-ari-2026-08-23",
       "tags": [
         "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
+        "NFL",
+        "Games"
       ],
-      "volume24hr": 208567.68,
-      "liquidity": 3216.4
+      "volume24hr": 27.35,
+      "liquidity": 1110.62
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: Atlas FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.23,
+      "now": 0.5,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "Liga MX"
+        "Sports"
       ],
-      "volume24hr": 208567.68,
-      "liquidity": 3213.72
+      "volume24hr": 4666701.52,
+      "liquidity": 0.1
     },
     {
-      "market": "CF Cruz Azul vs. Atlas FC - More Markets \u2014 CF Cruz Azul vs. Atlas FC: CF Cruz Azul O/U 1.5",
-      "prev": 0.461,
-      "now": 0.0005,
-      "delta": -0.4605,
-      "url": "https://polymarket.com/event/mex-caz-atl-2026-08-22-more-markets",
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
+      "prev": 0.23,
+      "now": 0.5,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "Liga MX"
+        "Sports"
       ],
-      "volume24hr": 87.84,
-      "liquidity": 13462.08
+      "volume24hr": 4666701.52,
+      "liquidity": 0.1
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
+      "prev": 0.235,
+      "now": 0.5,
+      "delta": 0.265,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 513.0,
+      "liquidity": 0.1
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
+      "prev": 0.455,
+      "now": 0.24,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93.34,
+      "liquidity": 50.52
     }
   ],
   "log": [
-    {
-      "ts": "22:00:01",
-      "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1957 markets scanned, 10 flagged"
@@ -272,6 +262,10 @@
     {
       "ts": "05:15:01",
       "text": " poll complete \u2014 1919 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:30:01",
+      "text": " poll complete \u2014 1880 markets scanned, 10 flagged"
     }
   ]
 }
