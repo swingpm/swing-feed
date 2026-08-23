@@ -1,11 +1,146 @@
 {
-  "lastUpdate": "2026-08-23 20:15:01 UTC",
+  "lastUpdate": "2026-08-23 20:30:01 UTC",
   "swings": [
     {
-      "market": "Alanyaspor vs. Be\u015fikta\u015f JK - More Markets \u2014 Alanyaspor vs. Be\u015fikta\u015f JK: Alanyaspor O/U 0.5",
-      "prev": 0.28,
-      "now": 0.9945,
-      "delta": 0.7145,
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies \u2014 Spread: Philadelphia Phillies (-1.5)",
+      "prev": 0.01,
+      "now": 0.9995,
+      "delta": 0.9895,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 62176.92,
+      "liquidity": 107899.83
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 9.5",
+      "prev": 0.019,
+      "now": 0.9995,
+      "delta": 0.9805,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 9953.34,
+      "liquidity": 89320.81
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies",
+      "prev": 0.9755,
+      "now": 0.0005,
+      "delta": -0.975,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 301082.52,
+      "liquidity": 437424.26
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 8.5",
+      "prev": 0.0505,
+      "now": 0.9995,
+      "delta": 0.949,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 159894.05,
+      "liquidity": 293904.91
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies \u2014 Spread: St. Louis Cardinals (-1.5)",
+      "prev": 0.93,
+      "now": 0.0005,
+      "delta": -0.9295,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1979.69,
+      "liquidity": 19924.16
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5",
+      "prev": 0.0995,
+      "now": 0.9995,
+      "delta": 0.9,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 176229.65,
+      "liquidity": 266106.54
+    },
+    {
+      "market": "Tampa Bay Rays vs. Baltimore Orioles \u2014 Spread: Tampa Bay Rays (-2.5)",
+      "prev": 0.815,
+      "now": 0.0005,
+      "delta": -0.8145,
+      "url": "https://polymarket.com/event/mlb-tb-bal-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1710.17,
+      "liquidity": 12208.06
+    },
+    {
+      "market": "Elche CF vs. FC Barcelona - More Markets \u2014 Elche CF vs. FC Barcelona: FC Barcelona 1st Half O/U 1.5",
+      "prev": 0.24,
+      "now": 0.995,
+      "delta": 0.755,
+      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 356.1,
+      "liquidity": 4196.88
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies \u2014 Spread: St. Louis Cardinals (-2.5)",
+      "prev": 0.745,
+      "now": 0.0005,
+      "delta": -0.7445,
+      "url": "https://polymarket.com/event/mlb-stl-phi-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 8378.11,
+      "liquidity": 114751.43
+    },
+    {
+      "market": "Alanyaspor vs. Be\u015fikta\u015f JK - More Markets \u2014 Alanyaspor vs. Be\u015fikta\u015f JK: 2nd Half O/U 1.5",
+      "prev": 0.665,
+      "now": 0.005,
+      "delta": -0.66,
       "url": "https://polymarket.com/event/tur-ala-bes-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -13,150 +148,11 @@
         "Soccer",
         "S\u00fcper Lig"
       ],
-      "volume24hr": 3805.37,
-      "liquidity": 3339.01
-    },
-    {
-      "market": "Alanyaspor vs. Be\u015fikta\u015f JK \u2014 Will Alanyaspor win on 2026-08-23?",
-      "prev": 0.125,
-      "now": 0.675,
-      "delta": 0.55,
-      "url": "https://polymarket.com/event/tur-ala-bes-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "S\u00fcper Lig"
-      ],
-      "volume24hr": 19884.96,
-      "liquidity": 19706.52
-    },
-    {
-      "market": "Atalanta BC vs. US Sassuolo Calcio - More Markets \u2014 Atalanta BC vs. US Sassuolo Calcio: O/U 2.5",
-      "prev": 0.465,
-      "now": 0.995,
-      "delta": 0.53,
-      "url": "https://polymarket.com/event/sea-ata-sas-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 24274.2,
-      "liquidity": 140086.98
-    },
-    {
-      "market": "Toronto Blue Jays vs. New York Yankees: O/U 8.5",
-      "prev": 0.47,
-      "now": 0.9995,
-      "delta": 0.5295,
-      "url": "https://polymarket.com/event/mlb-tor-nyy-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 53066.18,
-      "liquidity": 44397.75
-    },
-    {
-      "market": "Atalanta BC vs. US Sassuolo Calcio - More Markets \u2014 Atalanta BC vs. US Sassuolo Calcio: US Sassuolo Calcio O/U 0.5",
-      "prev": 0.47,
-      "now": 0.9985,
-      "delta": 0.5285,
-      "url": "https://polymarket.com/event/sea-ata-sas-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 72.05,
-      "liquidity": 4574.25
-    },
-    {
-      "market": "Atalanta BC vs. US Sassuolo Calcio - More Markets \u2014 Atalanta BC vs. US Sassuolo Calcio: Both Teams to Score",
-      "prev": 0.475,
-      "now": 0.9995,
-      "delta": 0.5245,
-      "url": "https://polymarket.com/event/sea-ata-sas-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 2991.17,
-      "liquidity": 23334.03
-    },
-    {
-      "market": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.501,
-      "now": 0.9995,
-      "delta": 0.4985,
-      "url": "https://polymarket.com/event/lol-shft-kc-2026-08-23",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 74.99,
-      "liquidity": 638.13
-    },
-    {
-      "market": "Atalanta BC vs. US Sassuolo Calcio - More Markets \u2014 Atalanta BC vs. US Sassuolo Calcio: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/sea-ata-sas-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 146766.6,
-      "liquidity": 1832.6
-    },
-    {
-      "market": "Atalanta BC vs. US Sassuolo Calcio - More Markets \u2014 Atalanta BC vs. US Sassuolo Calcio: US Sassuolo Calcio 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/sea-ata-sas-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 146766.6,
-      "liquidity": 1815.16
-    },
-    {
-      "market": "Los Angeles Angels vs. Texas Rangers: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1327.7,
-      "liquidity": 215.82
+      "volume24hr": 140555.85,
+      "liquidity": 2025.82
     }
   ],
   "log": [
-    {
-      "ts": "13:00:01",
-      "text": " poll complete \u2014 1959 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:15:01",
       "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "20:15:01",
       "text": " poll complete \u2014 2035 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:30:01",
+      "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
     }
   ]
 }
