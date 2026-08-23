@@ -1,116 +1,146 @@
 {
-  "lastUpdate": "2026-08-23 12:45:01 UTC",
+  "lastUpdate": "2026-08-23 13:00:01 UTC",
   "swings": [
     {
-      "market": "FC Machida Zelvia vs. Urawa Red Diamonds - More Markets \u2014 FC Machida Zelvia vs. Urawa Red Diamonds: Urawa Red Diamonds O/U 1.5",
-      "prev": 0.51,
-      "now": 0.0045,
-      "delta": -0.5055,
-      "url": "https://polymarket.com/event/jap-zel-ura-2026-08-23-more-markets",
+      "market": "West Bromwich Albion FC vs. Burnley FC - More Markets \u2014 West Bromwich Albion FC vs. Burnley FC: 2nd Half O/U 2.5",
+      "prev": 0.605,
+      "now": 0.005,
+      "delta": -0.6,
+      "url": "https://polymarket.com/event/elc-wba-bur-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "EFL Championship"
       ],
-      "volume24hr": 188.18,
-      "liquidity": 11269.97
+      "volume24hr": 98899.98,
+      "liquidity": 2911.93
     },
     {
-      "market": "Daejeon Hana Citizen FC vs. Gangwon FC - More Markets \u2014 Daejeon Hana Citizen FC vs. Gangwon FC: Gangwon FC O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/kor-dae1-gwo-2026-08-23-more-markets",
+      "market": "West Bromwich Albion FC vs. Burnley FC - More Markets \u2014 West Bromwich Albion FC vs. Burnley FC: Burnley FC O/U 1.5",
+      "prev": 0.555,
+      "now": 0.005,
+      "delta": -0.55,
+      "url": "https://polymarket.com/event/elc-wba-bur-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "K-league"
+        "EFL Championship"
+      ],
+      "volume24hr": 440.48,
+      "liquidity": 11178.96
+    },
+    {
+      "market": "West Bromwich Albion FC vs. Burnley FC - More Markets \u2014 West Bromwich Albion FC vs. Burnley FC: Both Teams to Score in Second Half",
+      "prev": 0.555,
+      "now": 0.0055,
+      "delta": -0.5495,
+      "url": "https://polymarket.com/event/elc-wba-bur-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Championship"
+      ],
+      "volume24hr": 98899.98,
+      "liquidity": 2883.98
+    },
+    {
+      "market": "Counter-Strike: WBT vs Noir Verse (BO3) - CCT Europe Challengers Series Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-wbt-noirve-2026-08-23",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 120218.93,
+      "liquidity": 4051.2
+    },
+    {
+      "market": "Counter-Strike: WBT vs Noir Verse (BO3) - CCT Europe Challengers Series Playoffs \u2014 Map Handicap: Noir Verse (-1.5) vs WBT (+1.5)",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/cs2-wbt-noirve-2026-08-23",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
       "volume24hr": 5.0,
-      "liquidity": 11869.45
+      "liquidity": 2158.38
     },
     {
-      "market": "Daejeon Hana Citizen FC vs. Gangwon FC - More Markets \u2014 Daejeon Hana Citizen FC vs. Gangwon FC: Gangwon FC O/U 1.5",
+      "market": "West Bromwich Albion FC vs. Burnley FC - More Markets \u2014 West Bromwich Albion FC vs. Burnley FC: Burnley FC 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/kor-dae1-gwo-2026-08-23-more-markets",
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/elc-wba-bur-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "K-league"
+        "EFL Championship"
       ],
-      "volume24hr": 107.56,
-      "liquidity": 11869.45
+      "volume24hr": 98899.98,
+      "liquidity": 2922.73
     },
     {
-      "market": "Daejeon Hana Citizen FC vs. Gangwon FC - More Markets \u2014 Daejeon Hana Citizen FC vs. Gangwon FC: Gangwon FC O/U 2.5",
+      "market": "West Bromwich Albion FC vs. Burnley FC - More Markets \u2014 West Bromwich Albion FC vs. Burnley FC: Burnley FC 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/kor-dae1-gwo-2026-08-23-more-markets",
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/elc-wba-bur-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "K-league"
+        "EFL Championship"
       ],
-      "volume24hr": 32.5,
-      "liquidity": 10889.07
+      "volume24hr": 98899.98,
+      "liquidity": 2885.35
     },
     {
-      "market": "FC Machida Zelvia vs. Urawa Red Diamonds - More Markets \u2014 FC Machida Zelvia vs. Urawa Red Diamonds: Urawa Red Diamonds 2nd Half O/U 0.5",
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/jap-zel-ura-2026-08-23-more-markets",
+      "now": 0.95,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "Club Friendlies"
       ],
-      "volume24hr": 166536.6,
-      "liquidity": 3212.17
+      "volume24hr": 73814.56,
+      "liquidity": 324.5
     },
     {
-      "market": "FC Machida Zelvia vs. Urawa Red Diamonds - More Markets \u2014 FC Machida Zelvia vs. Urawa Red Diamonds: Urawa Red Diamonds 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/jap-zel-ura-2026-08-23-more-markets",
+      "market": "Werder Bremen vs. SV Meppen 1912 - More Markets \u2014 Werder Bremen vs. SV Meppen 1912: O/U 2.5",
+      "prev": 0.505,
+      "now": 0.955,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/clf-svw-mep-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Japan J League"
+        "Club Friendlies"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 3212.17
+      "volume24hr": 55.99,
+      "liquidity": 434.05
     },
     {
-      "market": "Daejeon Hana Citizen FC vs. Gangwon FC - More Markets \u2014 Daejeon Hana Citizen FC vs. Gangwon FC: Gangwon FC 2nd Half O/U 1.5",
+      "market": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group \u2014 Game 1: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/kor-dae1-gwo-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 142336.39,
-      "liquidity": 3238.06
-    },
-    {
-      "market": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group \u2014 Game 3: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/lol-fox1-ns-2026-08-23",
       "tags": [
         "Esports",
@@ -118,45 +148,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 3521992.42,
-      "liquidity": 787.52
-    },
-    {
-      "market": "FC Machida Zelvia vs. Urawa Red Diamonds - More Markets \u2014 FC Machida Zelvia vs. Urawa Red Diamonds: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/jap-zel-ura-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 166536.6,
-      "liquidity": 3529.67
-    },
-    {
-      "market": "FC Machida Zelvia vs. Urawa Red Diamonds - More Markets \u2014 FC Machida Zelvia vs. Urawa Red Diamonds: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0055,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/jap-zel-ura-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Japan J League"
-      ],
-      "volume24hr": 166536.6,
-      "liquidity": 2897.57
+      "volume24hr": 3608034.03,
+      "liquidity": 110.62
     }
   ],
   "log": [
-    {
-      "ts": "05:30:01",
-      "text": " poll complete \u2014 1880 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 2011 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:00:01",
+      "text": " poll complete \u2014 1959 markets scanned, 10 flagged"
     }
   ]
 }
