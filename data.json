@@ -1,160 +1,157 @@
 {
-  "lastUpdate": "2026-08-23 22:00:01 UTC",
+  "lastUpdate": "2026-08-23 22:15:01 UTC",
   "swings": [
     {
-      "market": "San Francisco Giants vs. Boston Red Sox: O/U 11.5",
-      "prev": 0.56,
-      "now": 0.005,
-      "delta": -0.555,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-23",
+      "market": "Minnesota Twins vs. San Diego Padres \u2014 Spread: San Diego Padres (-2.5)",
+      "prev": 0.245,
+      "now": 0.875,
+      "delta": 0.63,
+      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 7425.74,
-      "liquidity": 19726.73
+      "volume24hr": 469.77,
+      "liquidity": 15218.49
     },
     {
-      "market": "San Francisco Giants vs. Boston Red Sox: O/U 9.5",
-      "prev": 0.525,
+      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Game Spread: Fils (-2.5) vs Tiafoe (+2.5)",
+      "prev": 0.29,
+      "now": 0.88,
+      "delta": 0.59,
+      "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 689.52,
+      "liquidity": 85.01
+    },
+    {
+      "market": "Minnesota Twins vs. San Diego Padres \u2014 Spread: San Diego Padres (-1.5)",
+      "prev": 0.385,
+      "now": 0.93,
+      "delta": 0.545,
+      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 4539.95,
+      "liquidity": 11072.29
+    },
+    {
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: 1st Half O/U 0.5",
+      "prev": 0.47,
+      "now": 0.9955,
+      "delta": 0.5255,
+      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 1531.89,
+      "liquidity": 4617.75
+    },
+    {
+      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 24.5 in Game 2?",
+      "prev": 0.4995,
       "now": 0.0005,
-      "delta": -0.5245,
-      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-23",
+      "delta": -0.499,
+      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 31690.71,
-      "liquidity": 157500.93
-    },
-    {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers \u2014 1st 5 Innings Spread: Los Angeles Dodgers (-1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 691.33,
-      "liquidity": 2060.9
-    },
-    {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
       "volume24hr": 5.0,
-      "liquidity": 1781.63
+      "liquidity": 616.22
     },
     {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 55.91,
-      "liquidity": 1296.86
-    },
-    {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
+      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 33.5 in Game 2?",
+      "prev": 0.495,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 445.26
+    },
+    {
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: Associa\u00e7\u00e3o Chapecoense de Futebol 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Brazil Serie A"
       ],
-      "volume24hr": 7156.59,
-      "liquidity": 16931.96
+      "volume24hr": 240.0,
+      "liquidity": 1632.17
     },
     {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
+      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.4845,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
+      "delta": -0.484,
+      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 248.78,
+      "liquidity": 446.26
+    },
+    {
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: S\u00e3o Paulo FC 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.017,
+      "delta": -0.483,
+      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 115304.65,
+      "liquidity": 446.32
+    },
+    {
+      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Chicago Cubs (-3.5)",
+      "prev": 0.795,
+      "now": 0.355,
+      "delta": -0.44,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1497.15,
-      "liquidity": 7668.03
-    },
-    {
-      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 25.0,
-      "liquidity": 1748.56
-    },
-    {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 137984.45,
-      "liquidity": 4786.67
-    },
-    {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 137984.45,
-      "liquidity": 4704.47
+      "volume24hr": 660335.53,
+      "liquidity": 89.0
     }
   ],
   "log": [
-    {
-      "ts": "14:45:02",
-      "text": " poll complete \u2014 1971 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:00:02",
       "text": " poll complete \u2014 1958 markets scanned, 10 flagged"
@@ -270,6 +267,10 @@
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 1896 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:15:01",
+      "text": " poll complete \u2014 1928 markets scanned, 10 flagged"
     }
   ]
 }
