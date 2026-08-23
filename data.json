@@ -1,56 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 21:30:01 UTC",
+  "lastUpdate": "2026-08-23 21:45:01 UTC",
   "swings": [
     {
-      "market": "FC Porto vs. FC Arouca - More Markets \u2014 Spread: FC Porto (-1.5)",
-      "prev": 0.35,
-      "now": 0.975,
-      "delta": 0.625,
-      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 22424.64,
-      "liquidity": 94538.83
-    },
-    {
-      "market": "FC Porto vs. FC Arouca - More Markets \u2014 FC Porto vs. FC Arouca: FC Porto O/U 1.5",
-      "prev": 0.39,
-      "now": 0.997,
-      "delta": 0.607,
-      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 565.56,
-      "liquidity": 132.74
-    },
-    {
-      "market": "FC Porto vs. FC Arouca - More Markets \u2014 FC Porto vs. FC Arouca: O/U 1.5",
-      "prev": 0.455,
-      "now": 0.9995,
-      "delta": 0.5445,
-      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Primeira Liga"
-      ],
-      "volume24hr": 39151.5,
-      "liquidity": 168850.28
-    },
-    {
-      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: 1st Half O/U 0.5",
-      "prev": 0.46,
-      "now": 0.9945,
-      "delta": 0.5345,
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: 1st Half O/U 1.5",
+      "prev": 0.135,
+      "now": 0.9975,
+      "delta": 0.8625,
       "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -58,41 +13,41 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 2523.25,
-      "liquidity": 14877.96
+      "volume24hr": 994.83,
+      "liquidity": 6972.59
     },
     {
-      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Game Handicap: SEN (-1.5) vs Disguised (+1.5)",
-      "prev": 0.465,
-      "now": 0.995,
-      "delta": 0.53,
-      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
+      "market": "Counter-Strike: ex-RUBY vs Black Phoenix (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.125,
+      "now": 0.9,
+      "delta": 0.775,
+      "url": "https://polymarket.com/event/cs2-ruby1-blackp-2026-08-23",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 43406.34,
-      "liquidity": 230822.97
+      "volume24hr": 15.0,
+      "liquidity": 433.15
     },
     {
-      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Games Total: O/U 2.5",
-      "prev": 0.54,
-      "now": 0.035,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
+      "market": "Elche CF vs. FC Barcelona - More Markets \u2014 Elche CF vs. FC Barcelona: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 7618.63,
-      "liquidity": 33327.8
+      "volume24hr": 46.39,
+      "liquidity": 4044.09
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Set 1 Games O/U 9.5",
+      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
@@ -102,11 +57,11 @@
         "Sports",
         "Games"
       ],
-      "volume24hr": 966258.74,
-      "liquidity": 4727.34
+      "volume24hr": 1036454.73,
+      "liquidity": 2167.71
     },
     {
-      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Set 1 Games O/U 10.5",
+      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Set 2 Games O/U 10.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
@@ -116,45 +71,86 @@
         "Sports",
         "Games"
       ],
-      "volume24hr": 203.02,
-      "liquidity": 4799.06
+      "volume24hr": 1036454.73,
+      "liquidity": 2167.71
     },
     {
-      "market": "Athletics vs. Houston Astros \u2014 Spread: Houston Astros (-6.5)",
+      "market": "Minnesota Twins vs. San Diego Padres \u2014 1st 5 Innings Spread: San Diego Padres (-1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-23",
+      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 199.81
+      "volume24hr": 15.0,
+      "liquidity": 1239.33
     },
     {
-      "market": "Los Angeles Angels vs. Texas Rangers \u2014 Spread: Texas Rangers (-5.5)",
+      "market": "FC Porto vs. FC Arouca - More Markets \u2014 FC Porto vs. FC Arouca: FC Arouca O/U 0.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-23",
+      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Primeira Liga"
       ],
-      "volume24hr": 24.0,
-      "liquidity": 3637.46
+      "volume24hr": 1048.33,
+      "liquidity": 15606.45
+    },
+    {
+      "market": "FC Porto vs. FC Arouca - More Markets \u2014 FC Porto vs. FC Arouca: FC Arouca O/U 1.5",
+      "prev": 0.4995,
+      "now": 0.0005,
+      "delta": -0.499,
+      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 126.04,
+      "liquidity": 8932.61
+    },
+    {
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: New York City FC 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9975,
+      "delta": 0.4975,
+      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 158823.08,
+      "liquidity": 3589.91
+    },
+    {
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: New York City FC 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0025,
+      "delta": -0.4975,
+      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 158823.08,
+      "liquidity": 3194.57
     }
   ],
   "log": [
-    {
-      "ts": "14:15:01",
-      "text": " poll complete \u2014 1915 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:30:01",
       "text": " poll complete \u2014 1924 markets scanned, 10 flagged"
@@ -270,6 +266,10 @@
     {
       "ts": "21:30:01",
       "text": " poll complete \u2014 1988 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:45:01",
+      "text": " poll complete \u2014 1983 markets scanned, 10 flagged"
     }
   ]
 }
