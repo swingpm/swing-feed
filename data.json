@@ -1,161 +1,150 @@
 {
-  "lastUpdate": "2026-08-23 23:30:01 UTC",
+  "lastUpdate": "2026-08-23 23:45:01 UTC",
   "swings": [
     {
-      "market": "Will the game go to extra innings?: Chicago Cubs vs. Seattle Mariners",
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Winston-Salem Open: Completed Match: Martin Landaluce vs Mattia Bellucci",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 833264.38,
-      "liquidity": 1327.04
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Chicago Cubs (-7.5)",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 8513.79
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Chicago Cubs (-8.5)",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 8513.79
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Chicago Cubs (-6.5)",
-      "prev": 0.505,
       "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 10531.77
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 19.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 833264.38,
-      "liquidity": 2493.96
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 18.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 833264.38,
-      "liquidity": 2513.52
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Chicago Cubs (-5.5)",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 19.43,
-      "liquidity": 9404.16
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 Spread: Chicago Cubs (-9.5)",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 833264.38,
-      "liquidity": 2536.2
-    },
-    {
-      "market": "Seattle Storm vs. Dallas Wings \u2014 Jessica Shepard: Assists O/U 4.5",
-      "prev": 0.505,
-      "now": 0.015,
-      "delta": -0.49,
-      "url": "https://polymarket.com/event/wnba-sea-dal-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 893.12,
-      "liquidity": 864.61
-    },
-    {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci",
-      "prev": 0.5555,
-      "now": 0.0675,
-      "delta": -0.488,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 367115.19,
-      "liquidity": 294129.2
+      "volume24hr": 385124.88,
+      "liquidity": 1378.67
+    },
+    {
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Set Handicap: Landaluce (-1.5) vs Bellucci (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 385124.88,
+      "liquidity": 3700.86
+    },
+    {
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 58.36,
+      "liquidity": 4601.07
+    },
+    {
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Martin Landaluce vs. Mattia Bellucci: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 385124.88,
+      "liquidity": 4465.57
+    },
+    {
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 172.01,
+      "liquidity": 4863.51
+    },
+    {
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 241411.95,
+      "liquidity": 2039.73
+    },
+    {
+      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Brazil Serie A"
+      ],
+      "volume24hr": 241411.95,
+      "liquidity": 2039.73
+    },
+    {
+      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Busta vs. Vallejo: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-busta-vallejo-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 142848.7,
+      "liquidity": 5816.39
+    },
+    {
+      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Busta vs. Vallejo: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-busta-vallejo-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 142848.7,
+      "liquidity": 5366.46
+    },
+    {
+      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Busta vs. Vallejo: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-busta-vallejo-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 142848.7,
+      "liquidity": 5604.63
     }
   ],
   "log": [
-    {
-      "ts": "16:15:01",
-      "text": " poll complete \u2014 1922 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:30:01",
       "text": " poll complete \u2014 1984 markets scanned, 10 flagged"
@@ -271,6 +260,10 @@
     {
       "ts": "23:30:01",
       "text": " poll complete \u2014 1884 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:45:01",
+      "text": " poll complete \u2014 1838 markets scanned, 10 flagged"
     }
   ]
 }
