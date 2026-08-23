@@ -1,101 +1,144 @@
 {
-  "lastUpdate": "2026-08-23 21:15:01 UTC",
+  "lastUpdate": "2026-08-23 21:30:01 UTC",
   "swings": [
     {
-      "market": "Red Bull Bragantino vs. Gr\u00eamio FBPA \u2014 Will Red Bull Bragantino win on 2026-08-23?",
-      "prev": 0.085,
+      "market": "FC Porto vs. FC Arouca - More Markets \u2014 Spread: FC Porto (-1.5)",
+      "prev": 0.35,
+      "now": 0.975,
+      "delta": 0.625,
+      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 22424.64,
+      "liquidity": 94538.83
+    },
+    {
+      "market": "FC Porto vs. FC Arouca - More Markets \u2014 FC Porto vs. FC Arouca: FC Porto O/U 1.5",
+      "prev": 0.39,
+      "now": 0.997,
+      "delta": 0.607,
+      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Primeira Liga"
+      ],
+      "volume24hr": 565.56,
+      "liquidity": 132.74
+    },
+    {
+      "market": "FC Porto vs. FC Arouca - More Markets \u2014 FC Porto vs. FC Arouca: O/U 1.5",
+      "prev": 0.455,
       "now": 0.9995,
-      "delta": 0.9145,
-      "url": "https://polymarket.com/event/bra-bra-gre-2026-08-23",
+      "delta": 0.5445,
+      "url": "https://polymarket.com/event/por-por-aro-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "Primeira Liga"
       ],
-      "volume24hr": 141854.76,
-      "liquidity": 516247.28
+      "volume24hr": 39151.5,
+      "liquidity": 168850.28
     },
     {
-      "market": "Will Red Bull Bragantino vs. Gr\u00eamio FBPA end in a draw?",
-      "prev": 0.895,
-      "now": 0.0005,
-      "delta": -0.8945,
-      "url": "https://polymarket.com/event/bra-bra-gre-2026-08-23",
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: 1st Half O/U 0.5",
+      "prev": 0.46,
+      "now": 0.9945,
+      "delta": 0.5345,
+      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "MLS"
       ],
-      "volume24hr": 14770.26,
-      "liquidity": 75886.31
+      "volume24hr": 2523.25,
+      "liquidity": 14877.96
     },
     {
-      "market": "Red Bull Bragantino vs. Gr\u00eamio FBPA - More Markets \u2014 Red Bull Bragantino vs. Gr\u00eamio FBPA: O/U 0.5",
-      "prev": 0.115,
-      "now": 0.9995,
-      "delta": 0.8845,
-      "url": "https://polymarket.com/event/bra-bra-gre-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Brazil Serie A"
-      ],
-      "volume24hr": 65371.48,
-      "liquidity": 114179.74
-    },
-    {
-      "market": "Los Angeles Angels vs. Texas Rangers \u2014 Spread: Texas Rangers (-2.5)",
-      "prev": 0.84,
-      "now": 0.005,
-      "delta": -0.835,
-      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10967.68,
-      "liquidity": 66915.79
-    },
-    {
-      "market": "Elche CF vs. FC Barcelona - More Markets \u2014 Elche CF vs. FC Barcelona: FC Barcelona 2nd Half O/U 1.5",
-      "prev": 0.225,
+      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Game Handicap: SEN (-1.5) vs Disguised (+1.5)",
+      "prev": 0.465,
       "now": 0.995,
-      "delta": 0.77,
-      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-more-markets",
+      "delta": 0.53,
+      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 43406.34,
+      "liquidity": 230822.97
+    },
+    {
+      "market": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season \u2014 Games Total: O/U 2.5",
+      "prev": 0.54,
+      "now": 0.035,
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 7618.63,
+      "liquidity": 33327.8
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 966258.74,
+      "liquidity": 4727.34
+    },
+    {
+      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 203.02,
+      "liquidity": 4799.06
+    },
+    {
+      "market": "Athletics vs. Houston Astros \u2014 Spread: Houston Astros (-6.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "La Liga"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 23.48,
-      "liquidity": 2190.87
+      "volume24hr": 5.0,
+      "liquidity": 199.81
     },
     {
-      "market": "Elche CF vs. FC Barcelona - More Markets \u2014 Elche CF vs. FC Barcelona: O/U 3.5",
-      "prev": 0.355,
-      "now": 0.9995,
-      "delta": 0.6445,
-      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 56868.79,
-      "liquidity": 233829.54
-    },
-    {
-      "market": "Los Angeles Angels vs. Texas Rangers \u2014 Spread: Texas Rangers (-3.5)",
-      "prev": 0.745,
-      "now": 0.11,
-      "delta": -0.635,
+      "market": "Los Angeles Angels vs. Texas Rangers \u2014 Spread: Texas Rangers (-5.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-23",
       "tags": [
         "Sports",
@@ -103,60 +146,11 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 3983.15,
-      "liquidity": 112.12
-    },
-    {
-      "market": "Los Angeles Angels vs. Texas Rangers: O/U 7.5",
-      "prev": 0.365,
-      "now": 0.9995,
-      "delta": 0.6345,
-      "url": "https://polymarket.com/event/mlb-laa-tex-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 91579.54,
-      "liquidity": 149778.08
-    },
-    {
-      "market": "Elche CF vs. FC Barcelona - More Markets \u2014 Elche CF vs. FC Barcelona: 2nd Half O/U 1.5",
-      "prev": 0.375,
-      "now": 0.9955,
-      "delta": 0.6205,
-      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 1491092.12,
-      "liquidity": 3068.32
-    },
-    {
-      "market": "Elche CF vs. FC Barcelona - Exact Score \u2014 Exact Score: Any Other Score?",
-      "prev": 0.435,
-      "now": 0.9955,
-      "delta": 0.5605,
-      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 1423.6,
-      "liquidity": 2982.95
+      "volume24hr": 24.0,
+      "liquidity": 3637.46
     }
   ],
   "log": [
-    {
-      "ts": "14:00:01",
-      "text": " poll complete \u2014 1969 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1915 markets scanned, 10 flagged"
@@ -272,6 +266,10 @@
     {
       "ts": "21:15:01",
       "text": " poll complete \u2014 1967 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:30:01",
+      "text": " poll complete \u2014 1988 markets scanned, 10 flagged"
     }
   ]
 }
