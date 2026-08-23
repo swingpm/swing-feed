@@ -1,55 +1,83 @@
 {
-  "lastUpdate": "2026-08-23 19:45:01 UTC",
+  "lastUpdate": "2026-08-23 20:00:01 UTC",
   "swings": [
     {
-      "market": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Quinn Vandecasteele",
-      "prev": 0.885,
-      "now": 0.005,
-      "delta": -0.88,
-      "url": "https://polymarket.com/event/atp-herbert-vandeca-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 310427.4,
-      "liquidity": 314913.76
-    },
-    {
-      "market": "Paris Saint-Germain FC vs. Stade Rennais FC 1901 - More Markets \u2014 Paris Saint-Germain FC vs. Stade Rennais FC 1901: Both Teams to Score in First Half",
-      "prev": 0.555,
-      "now": 0.005,
-      "delta": -0.55,
-      "url": "https://polymarket.com/event/fl1-psg-ren-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 51.9,
-      "liquidity": 3390.96
-    },
-    {
-      "market": "Athletics vs. Houston Astros \u2014 Spread: Houston Astros (-4.5)",
-      "prev": 0.295,
-      "now": 0.83,
-      "delta": 0.535,
-      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-23",
+      "market": "Washington Nationals vs. Miami Marlins: O/U 5.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-wsh-mia-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 2597.15,
-      "liquidity": 16.3
+      "volume24hr": 5.0,
+      "liquidity": 2690.59
     },
     {
-      "market": "Red Bull Bragantino vs. Gr\u00eamio FBPA - More Markets \u2014 Red Bull Bragantino vs. Gr\u00eamio FBPA: Red Bull Bragantino 1st Half O/U 0.5",
-      "prev": 0.665,
-      "now": 0.16,
-      "delta": -0.505,
+      "market": "Winston-Salem Open: Giovanni Mpetshi Perricard vs Jenson Brooksby \u2014 Perricard vs. Brooksby: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-perrica-brooksb-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 152335.59,
+      "liquidity": 4752.35
+    },
+    {
+      "market": "Winston-Salem Open: Giovanni Mpetshi Perricard vs Jenson Brooksby \u2014 Perricard vs. Brooksby: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-perrica-brooksb-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 152335.59,
+      "liquidity": 4828.26
+    },
+    {
+      "market": "Winston-Salem Open: Giovanni Mpetshi Perricard vs Jenson Brooksby \u2014 Perricard vs. Brooksby: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-perrica-brooksb-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 152335.59,
+      "liquidity": 4828.26
+    },
+    {
+      "market": "LoL: LOS vs LOUD (BO3) - CBLOL Regular Season \u2014 First Blood in Game 1?",
+      "prev": 0.4995,
+      "now": 0.0005,
+      "delta": -0.499,
+      "url": "https://polymarket.com/event/lol-los-lll-2026-08-23",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 497.7
+    },
+    {
+      "market": "Red Bull Bragantino vs. Gr\u00eamio FBPA - More Markets \u2014 Red Bull Bragantino vs. Gr\u00eamio FBPA: Red Bull Bragantino 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/bra-bra-gre-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -57,105 +85,71 @@
         "Soccer",
         "Brazil Serie A"
       ],
-      "volume24hr": 249099.68,
-      "liquidity": 341.7
+      "volume24hr": 260438.91,
+      "liquidity": 3343.92
     },
     {
-      "market": "Getafe CF vs. Real Racing Club - More Markets \u2014 Getafe CF vs. Real Racing Club: 2nd Half O/U 2.5",
-      "prev": 0.505,
-      "now": 0.0045,
-      "delta": -0.5005,
-      "url": "https://polymarket.com/event/lal-get-rrc-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 50.0,
-      "liquidity": 3170.07
-    },
-    {
-      "market": "Torino FC vs. AC Milan - More Markets \u2014 Torino FC vs. AC Milan: Both Teams to Score in First Half",
+      "market": "LoL: LOS vs LOUD (BO3) - CBLOL Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sea-tor-mil-2026-08-23-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-los-lll-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "sea"
+        "Sports"
       ],
-      "volume24hr": 731.5,
-      "liquidity": 4410.82
+      "volume24hr": 667.38,
+      "liquidity": 596.13
     },
     {
-      "market": "Torino FC vs. AC Milan - More Markets \u2014 Torino FC vs. AC Milan: 1st Half O/U 2.5",
+      "market": "LoL: LOS vs LOUD (BO3) - CBLOL Regular Season \u2014 Total Kills Over/Under 24.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.0025,
-      "delta": -0.4975,
-      "url": "https://polymarket.com/event/sea-tor-mil-2026-08-23-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-los-lll-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "sea"
+        "Sports"
       ],
-      "volume24hr": 34.07,
-      "liquidity": 6695.4
+      "volume24hr": 437917.05,
+      "liquidity": 459.17
     },
     {
-      "market": "Atalanta BC vs. US Sassuolo Calcio - More Markets \u2014 Atalanta BC vs. US Sassuolo Calcio: Atalanta BC 1st Half O/U 1.5",
+      "market": "LoL: LOS vs LOUD (BO3) - CBLOL Regular Season \u2014 Total Kills Over/Under 33.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/sea-ata-sas-2026-08-23-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-los-lll-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "sea"
+        "Sports"
       ],
-      "volume24hr": 125061.48,
-      "liquidity": 5806.26
+      "volume24hr": 437917.05,
+      "liquidity": 497.86
     },
     {
-      "market": "Torino FC vs. AC Milan - More Markets \u2014 Torino FC vs. AC Milan: Torino FC 1st Half O/U 1.5",
+      "market": "LoL: LOS vs LOUD (BO3) - CBLOL Regular Season \u2014 Total Kills Over/Under 21.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/sea-tor-mil-2026-08-23-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/lol-los-lll-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "sea"
+        "Sports"
       ],
-      "volume24hr": 903.08,
-      "liquidity": 5626.97
-    },
-    {
-      "market": "Paris Saint-Germain FC vs. Stade Rennais FC 1901 - More Markets \u2014 Paris Saint-Germain FC vs. Stade Rennais FC 1901: Paris Saint-Germain FC 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/fl1-psg-ren-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 33.33,
-      "liquidity": 3434.67
+      "volume24hr": 437917.05,
+      "liquidity": 452.17
     }
   ],
   "log": [
-    {
-      "ts": "12:30:01",
-      "text": " poll complete \u2014 2036 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 2011 markets scanned, 10 flagged"
@@ -271,6 +265,10 @@
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 2034 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:00:01",
+      "text": " poll complete \u2014 2045 markets scanned, 10 flagged"
     }
   ]
 }
