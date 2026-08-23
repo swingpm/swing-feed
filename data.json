@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-23 05:45:01 UTC",
+  "lastUpdate": "2026-08-23 06:00:01 UTC",
   "swings": [
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.5,
-      "now": 0.23,
-      "delta": -0.27,
+      "prev": 0.23,
+      "now": 0.5,
+      "delta": 0.27,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -14,13 +14,13 @@
         "Sports"
       ],
       "volume24hr": 513.0,
-      "liquidity": 2.85
+      "liquidity": 0.1
     },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.5,
-      "now": 0.23,
-      "delta": -0.27,
+      "prev": 0.23,
+      "now": 0.5,
+      "delta": 0.27,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -29,13 +29,13 @@
         "Sports"
       ],
       "volume24hr": 472.0,
-      "liquidity": 2.85
+      "liquidity": 0.1
     },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Any Player Rampage?",
-      "prev": 0.5,
-      "now": 0.23,
-      "delta": -0.27,
+      "prev": 0.23,
+      "now": 0.5,
+      "delta": 0.27,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -43,14 +43,44 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5842446.84,
-      "liquidity": 2.85
+      "volume24hr": 6098947.21,
+      "liquidity": 0.1
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 4?",
+      "prev": 0.5,
+      "now": 0.75,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 6098947.21,
+      "liquidity": 19.53
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Total Kills Over/Under 50.5 in Game 1?",
+      "prev": 0.28,
+      "now": 0.485,
+      "delta": 0.205,
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93.34,
+      "liquidity": 9.85
     },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Any Player Ultra Kill?",
-      "prev": 0.5,
-      "now": 0.295,
-      "delta": -0.205,
+      "prev": 0.295,
+      "now": 0.5,
+      "delta": 0.205,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -59,13 +89,13 @@
         "Sports"
       ],
       "volume24hr": 27.78,
-      "liquidity": 2.2
+      "liquidity": 0.1
     },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.5,
-      "now": 0.295,
-      "delta": -0.205,
+      "prev": 0.295,
+      "now": 0.5,
+      "delta": 0.205,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -73,14 +103,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5842446.84,
-      "liquidity": 2.2
+      "volume24hr": 6098947.21,
+      "liquidity": 0.1
     },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Any Player Ultra Kill?",
-      "prev": 0.5,
-      "now": 0.295,
-      "delta": -0.205,
+      "prev": 0.295,
+      "now": 0.5,
+      "delta": 0.205,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -88,14 +118,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5842446.84,
-      "liquidity": 2.2
+      "volume24hr": 6098947.21,
+      "liquidity": 0.1
     },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
-      "prev": 0.5,
-      "now": 0.315,
-      "delta": -0.185,
+      "prev": 0.315,
+      "now": 0.5,
+      "delta": 0.185,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -103,14 +133,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5842446.84,
-      "liquidity": 2.0
+      "volume24hr": 6098947.21,
+      "liquidity": 0.1
     },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 2: Both Teams Destroy Barracks?",
-      "prev": 0.5,
-      "now": 0.315,
-      "delta": -0.185,
+      "prev": 0.315,
+      "now": 0.5,
+      "delta": 0.185,
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
       "tags": [
         "Esports",
@@ -118,45 +148,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5842446.84,
-      "liquidity": 2.0
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Both Teams Destroy Barracks?",
-      "prev": 0.5,
-      "now": 0.315,
-      "delta": -0.185,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5842446.84,
-      "liquidity": 2.0
-    },
-    {
-      "market": "Elche CF vs. FC Barcelona - More Markets \u2014 Elche CF vs. FC Barcelona: Elche CF 2nd Half O/U 1.5",
-      "prev": 0.295,
-      "now": 0.115,
-      "delta": -0.18,
-      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 85600.69,
-      "liquidity": 325.77
+      "volume24hr": 6098947.21,
+      "liquidity": 0.1
     }
   ],
   "log": [
-    {
-      "ts": "22:30:01",
-      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:45:01",
       "text": " poll complete \u2014 1923 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1874 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:00:01",
+      "text": " poll complete \u2014 1848 markets scanned, 10 flagged"
     }
   ]
 }
