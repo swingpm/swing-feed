@@ -1,41 +1,75 @@
 {
-  "lastUpdate": "2026-08-23 16:15:01 UTC",
+  "lastUpdate": "2026-08-23 16:30:01 UTC",
   "swings": [
     {
-      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: 1st Half O/U 2.5",
-      "prev": 0.395,
-      "now": 0.9995,
-      "delta": 0.6045,
-      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
+      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Both Teams to Score in First Half",
+      "prev": 0.595,
+      "now": 0.0005,
+      "delta": -0.5945,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Eredivisie"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 834.25,
-      "liquidity": 9541.72
+      "volume24hr": 769.71,
+      "liquidity": 19476.99
     },
     {
-      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: Both Teams to Score in First Half",
-      "prev": 0.535,
-      "now": 0.0055,
-      "delta": -0.5295,
-      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
+      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Liverpool FC 1st Half O/U 0.5",
+      "prev": 0.56,
+      "now": 0.0045,
+      "delta": -0.5555,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Ligue 1"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 4.55,
-      "liquidity": 6414.12
+      "volume24hr": 58.94,
+      "liquidity": 6058.26
     },
     {
-      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Slay Baron Nashor?",
+      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Liverpool FC 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0015,
+      "delta": -0.4985,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 285.1,
+      "liquidity": 5603.74
+    },
+    {
+      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Newcastle United FC 1st Half O/U 1.5",
       "prev": 0.49,
-      "now": 0.995,
-      "delta": 0.505,
+      "now": 0.005,
+      "delta": -0.485,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 748.66,
+      "liquidity": 6033.9
+    },
+    {
+      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
       "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
       "tags": [
         "Esports",
@@ -43,120 +77,84 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 4936109.39,
-      "liquidity": 276.37
+      "volume24hr": 4951193.86,
+      "liquidity": 110.62
     },
     {
-      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Game Handicap: TH (-1.5) vs GIANTX (+1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
+      "market": "Philadelphia: Anna Frey vs Ashlyn Krueger \u2014 Anna Frey vs. Ashlyn Krueger: Total Sets O/U 2.5",
+      "prev": 0.115,
+      "now": 0.5,
+      "delta": 0.385,
+      "url": "https://polymarket.com/event/wta-frey-krueger-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 8.0,
+      "liquidity": 423901.05
+    },
+    {
+      "market": "Philadelphia: Anna Frey vs Ashlyn Krueger \u2014 Set Handicap: Krueger (-1.5) vs Frey (+1.5)",
+      "prev": 0.87,
+      "now": 0.5,
+      "delta": -0.37,
+      "url": "https://polymarket.com/event/wta-frey-krueger-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 38.25,
+      "liquidity": 423901.05
+    },
+    {
+      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.45,
+      "now": 0.1,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 9251.49
+      "volume24hr": 4951193.86,
+      "liquidity": 110.62
     },
     {
-      "market": "SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam - More Markets \u2014 SC Cambuur-Leeuwarden vs. Feyenoord Rotterdam: SC Cambuur-Leeuwarden 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/ere-cam-fey-2026-08-23-more-markets",
+      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 3: Both Teams Destroy Inhibitors?",
+      "prev": 0.45,
+      "now": 0.1,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Eredivisie"
+        "Sports"
       ],
-      "volume24hr": 86455.65,
-      "liquidity": 4051.94
+      "volume24hr": 4951193.86,
+      "liquidity": 110.62
     },
     {
-      "market": "AC Horsens vs. Lyngby BK - More Markets \u2014 AC Horsens vs. Lyngby BK: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23-more-markets",
+      "market": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend \u2014 Game 3: Odd/Even Total Kills?",
+      "prev": 0.45,
+      "now": 0.1,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/lol-blg-al-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "Denmark Superliga"
+        "Sports"
       ],
-      "volume24hr": 244412.0,
-      "liquidity": 2241.0
-    },
-    {
-      "market": "AC Horsens vs. Lyngby BK - More Markets \u2014 AC Horsens vs. Lyngby BK: AC Horsens 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 244412.0,
-      "liquidity": 2241.0
-    },
-    {
-      "market": "AC Horsens vs. Lyngby BK - More Markets \u2014 AC Horsens vs. Lyngby BK: Lyngby BK 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/den-hor-lyn-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Denmark Superliga"
-      ],
-      "volume24hr": 244412.0,
-      "liquidity": 2241.0
-    },
-    {
-      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: Le Havre AC 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 113995.7,
-      "liquidity": 4570.25
-    },
-    {
-      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: AS Monaco FC 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 275.4,
-      "liquidity": 4698.98
+      "volume24hr": 4951193.86,
+      "liquidity": 110.62
     }
   ],
   "log": [
-    {
-      "ts": "09:00:01",
-      "text": " poll complete \u2014 1826 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:15:01",
       "text": " poll complete \u2014 1861 markets scanned, 10 flagged"
@@ -272,6 +270,10 @@
     {
       "ts": "16:15:01",
       "text": " poll complete \u2014 1922 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:30:01",
+      "text": " poll complete \u2014 1984 markets scanned, 10 flagged"
     }
   ]
 }
