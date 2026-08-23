@@ -1,160 +1,148 @@
 {
-  "lastUpdate": "2026-08-23 07:00:01 UTC",
+  "lastUpdate": "2026-08-23 07:15:01 UTC",
   "swings": [
     {
-      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Isomura vs. Fitriadi: Set 2 Games O/U 8.5",
-      "prev": 0.995,
-      "now": 0.5,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 65748.34,
-      "liquidity": 0.01
-    },
-    {
-      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi",
-      "prev": 0.34,
-      "now": 0.01,
-      "delta": -0.33,
-      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 61186.36,
-      "liquidity": 11937.15
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game Handicap: TS (-2.5) vs TEAM VISION (+2.5)",
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 ITF M15 Maanshan 7 Men: Completed Match: Kokoro Isomura vs M Rifqi Fitriadi",
       "prev": 0.5,
-      "now": 0.22,
-      "delta": -0.28,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 7619078.1,
-      "liquidity": 13248.67
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 3: Ends in Daytime?",
-      "prev": 0.725,
-      "now": 0.5,
-      "delta": -0.225,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 7619078.1,
-      "liquidity": 1239450.25
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Both Teams Destroy Barracks?",
-      "prev": 0.31,
-      "now": 0.495,
-      "delta": 0.185,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 7619078.1,
-      "liquidity": 3.02
-    },
-    {
-      "market": "Elche CF vs. FC Barcelona - More Markets \u2014 Elche CF vs. FC Barcelona: Elche CF 2nd Half O/U 1.5",
-      "prev": 0.115,
-      "now": 0.295,
-      "delta": 0.18,
-      "url": "https://polymarket.com/event/lal-elc-bar-2026-08-23-more-markets",
-      "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 106892.18,
-      "liquidity": 288.8
+      "volume24hr": 4561.98,
+      "liquidity": 15822.01
     },
     {
-      "market": "Getafe CF vs. Real Racing Club - More Markets \u2014 Getafe CF vs. Real Racing Club: Getafe CF 2nd Half O/U 1.5",
-      "prev": 0.165,
-      "now": 0.345,
-      "delta": 0.18,
-      "url": "https://polymarket.com/event/lal-get-rrc-2026-08-23-more-markets",
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Isomura vs. Fitriadi: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 76874.72,
-      "liquidity": 238.28
+      "volume24hr": 68801.47,
+      "liquidity": 1058.44
     },
     {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
-      "prev": 0.275,
-      "now": 0.115,
-      "delta": -0.16,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Set Handicap: Isomura (-1.5) vs Fitriadi (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 1073783.52,
-      "liquidity": 206258.55
+      "volume24hr": 68801.47,
+      "liquidity": 888.54
     },
     {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game 1: Both Teams Beat Roshan?",
-      "prev": 0.335,
-      "now": 0.495,
-      "delta": 0.16,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Kokoro Isomura vs. M Rifqi Fitriadi: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 7619078.1,
-      "liquidity": 15.95
+      "volume24hr": 68801.47,
+      "liquidity": 1518.98
     },
     {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs \u2014 Game Handicap: VSN (-1.5) vs Team Spirit (+1.5)",
-      "prev": 0.315,
-      "now": 0.16,
-      "delta": -0.155,
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Isomura vs. Fitriadi: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 16118.21,
-      "liquidity": 154901.51
+      "volume24hr": 68801.47,
+      "liquidity": 1521.95
+    },
+    {
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Set 2 Winner: Isomura vs Fitriadi",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 68801.47,
+      "liquidity": 1401.17
+    },
+    {
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Isomura vs. Fitriadi: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 68801.47,
+      "liquidity": 1053.45
+    },
+    {
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Isomura vs. Fitriadi: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 68801.47,
+      "liquidity": 1053.45
+    },
+    {
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Set Handicap: Fitriadi (-1.5) vs Isomura (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 68801.47,
+      "liquidity": 1799.15
+    },
+    {
+      "market": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi \u2014 Isomura vs. Fitriadi: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/itf-isomura-fitria-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 68801.47,
+      "liquidity": 1006.93
     }
   ],
   "log": [
-    {
-      "ts": "23:45:02",
-      "text": " poll complete \u2014 1889 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:00:01",
       "text": " poll complete \u2014 1901 markets scanned, 10 flagged"
@@ -270,6 +258,10 @@
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1812 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:15:01",
+      "text": " poll complete \u2014 1827 markets scanned, 10 flagged"
     }
   ]
 }
