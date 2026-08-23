@@ -1,143 +1,26 @@
 {
-  "lastUpdate": "2026-08-23 22:30:01 UTC",
+  "lastUpdate": "2026-08-23 22:45:02 UTC",
   "swings": [
     {
-      "market": "Cincinnati Reds vs. Arizona Diamondbacks",
-      "prev": 0.795,
-      "now": 0.105,
-      "delta": -0.69,
-      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 297803.78,
-      "liquidity": 47255.22
-    },
-    {
-      "market": "Cincinnati Reds vs. Arizona Diamondbacks \u2014 Spread: Cincinnati Reds (-1.5)",
-      "prev": 0.62,
-      "now": 0.055,
-      "delta": -0.565,
-      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1958.07,
-      "liquidity": 430.57
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres: O/U 7.5",
-      "prev": 0.455,
-      "now": 0.9995,
-      "delta": 0.5445,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6982.02,
-      "liquidity": 121629.65
-    },
-    {
-      "market": "Counter-Strike: ex-RUBY vs Black Phoenix (BO3) - Moscow Cyber Games European Qualifier Group Stage",
-      "prev": 0.515,
-      "now": 0.005,
-      "delta": -0.51,
-      "url": "https://polymarket.com/event/cs2-ruby1-blackp-2026-08-23",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 93328.89,
-      "liquidity": 121949.85
-    },
-    {
-      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Cincinnati Open: Completed Match: Arthur Fils vs Frances Tiafoe",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 2.24,
-      "liquidity": 752.14
-    },
-    {
-      "market": "Cincinnati Open: Arthur Fils vs Frances Tiafoe \u2014 Fils vs. Tiafoe: Match O/U 22.5",
-      "prev": 0.5,
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: New England Revolution O/U 1.5",
+      "prev": 0.54,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 8268.43,
-      "liquidity": 42394.98
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 1st 5 Innings Spread: Seattle Mariners (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
+      "delta": -0.5395,
+      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 44.0,
-      "liquidity": 12927.06
+      "volume24hr": 2153.18,
+      "liquidity": 24915.96
     },
     {
-      "market": "Chicago Cubs vs. Seattle Mariners \u2014 1st 5 Innings Spread: Chicago Cubs (-1.5)",
-      "prev": 0.5,
+      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-4.5)",
+      "prev": 0.465,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 2554.36
-    },
-    {
-      "market": "Kingston 2: Aidan Mayo vs Joao Vitor Goncalves Ceolin \u2014 Kingston 2, Jamaica, Qualifying: Completed Match: Aidan Mayo vs Joao Vitor Goncalves Ceolin",
-      "prev": 0.5,
-      "now": 0.9975,
-      "delta": 0.4975,
-      "url": "https://polymarket.com/event/atp-mayo-ceoli-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 175674.35,
-      "liquidity": 1415.43
-    },
-    {
-      "market": "Cleveland Guardians vs. Colorado Rockies \u2014 Spread: Cleveland Guardians (-7.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
+      "delta": 0.5345,
       "url": "https://polymarket.com/event/mlb-cle-col-2026-08-23",
       "tags": [
         "Sports",
@@ -145,15 +28,128 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 280064.34,
-      "liquidity": 334.56
+      "volume24hr": 17667.12,
+      "liquidity": 37457.26
+    },
+    {
+      "market": "Monterrey Open, Qualification: Panna Udvardy vs Darja Vidmanova \u2014 Udvardy vs. Vidmanova: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-udvardy-vidmano-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 178779.69,
+      "liquidity": 3112.38
+    },
+    {
+      "market": "Monterrey Open, Qualification: Panna Udvardy vs Darja Vidmanova \u2014 Udvardy vs. Vidmanova: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-udvardy-vidmano-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 178779.69,
+      "liquidity": 3141.78
+    },
+    {
+      "market": "Monterrey Open, Qualification: Panna Udvardy vs Darja Vidmanova \u2014 Udvardy vs. Vidmanova: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-udvardy-vidmano-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 178779.69,
+      "liquidity": 3148.34
+    },
+    {
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 214731.81,
+      "liquidity": 2984.69
+    },
+    {
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 214731.81,
+      "liquidity": 2993.38
+    },
+    {
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 214731.81,
+      "liquidity": 3033.13
+    },
+    {
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 214731.81,
+      "liquidity": 2983.0
+    },
+    {
+      "market": "New England Revolution vs. New York City FC - More Markets \u2014 New England Revolution vs. New York City FC: New England Revolution 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/mls-ner-nyc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 214731.81,
+      "liquidity": 2984.69
     }
   ],
   "log": [
-    {
-      "ts": "15:15:02",
-      "text": " poll complete \u2014 1981 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:30:01",
       "text": " poll complete \u2014 1937 markets scanned, 10 flagged"
@@ -269,6 +265,10 @@
     {
       "ts": "22:30:01",
       "text": " poll complete \u2014 1887 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:45:02",
+      "text": " poll complete \u2014 1903 markets scanned, 10 flagged"
     }
   ]
 }
