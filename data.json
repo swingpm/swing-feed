@@ -1,162 +1,166 @@
 {
-  "lastUpdate": "2026-08-23 17:30:01 UTC",
+  "lastUpdate": "2026-08-23 17:45:01 UTC",
   "swings": [
     {
-      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Juventus FC 1st Half O/U 1.5",
-      "prev": 0.585,
-      "now": 0.005,
-      "delta": -0.58,
-      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
+      "market": "Will Newcastle United FC vs. Liverpool FC end in a draw?",
+      "prev": 0.035,
+      "now": 0.9995,
+      "delta": 0.9645,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 85.34,
-      "liquidity": 2504.13
+      "volume24hr": 456157.68,
+      "liquidity": 824047.74
     },
     {
-      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: 1st Half O/U 1.5",
-      "prev": 0.58,
-      "now": 0.005,
-      "delta": -0.575,
-      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
+      "market": "Newcastle United FC vs. Liverpool FC \u2014 Will Newcastle United FC win on 2026-08-23?",
+      "prev": 0.955,
+      "now": 0.0005,
+      "delta": -0.9545,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 6211.71,
-      "liquidity": 118687.27
+      "volume24hr": 1309028.58,
+      "liquidity": 1048538.07
     },
     {
-      "market": "Frosinone Calcio vs. Juventus FC - More Markets \u2014 Frosinone Calcio vs. Juventus FC: Both Teams to Score in First Half",
-      "prev": 0.535,
-      "now": 0.005,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/sea-fro-juv-2026-08-23-more-markets",
+      "market": "Newcastle United FC vs. Liverpool FC - Exact Score \u2014 Exact Score: Newcastle United FC 2 - 2 Liverpool FC?",
+      "prev": 0.05,
+      "now": 0.9995,
+      "delta": 0.9495,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-exact-score",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 1495.29,
-      "liquidity": 2483.13
+      "volume24hr": 16857.27,
+      "liquidity": 73250.8
     },
     {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 26.5",
+      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: O/U 3.5",
+      "prev": 0.055,
+      "now": 0.9995,
+      "delta": 0.9445,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 274695.79,
+      "liquidity": 616608.72
+    },
+    {
+      "market": "Newcastle United FC vs. Liverpool FC - Exact Score \u2014 Exact Score: Newcastle United FC 2 - 1 Liverpool FC?",
+      "prev": 0.905,
+      "now": 0.0005,
+      "delta": -0.9045,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 4757.94,
+      "liquidity": 20536.09
+    },
+    {
+      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Liverpool FC O/U 1.5",
+      "prev": 0.34,
+      "now": 0.9995,
+      "delta": 0.6595,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 18425.33,
+      "liquidity": 54155.23
+    },
+    {
+      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Newcastle United FC 2nd Half O/U 1.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 972931.96,
+      "liquidity": 4609.67
+    },
+    {
+      "market": "Newcastle United FC vs. Liverpool FC - More Markets \u2014 Newcastle United FC vs. Liverpool FC: Liverpool FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/epl-new-liv-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 972931.96,
+      "liquidity": 8151.16
+    },
+    {
+      "market": "LoL: Team Heretics vs GIANTX (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 21.5 in Game 2?",
+      "prev": 0.5005,
+      "now": 0.9995,
+      "delta": 0.499,
+      "url": "https://polymarket.com/event/lol-th-gx-2026-08-23",
       "tags": [
         "Esports",
-        "Valorant",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4.99,
-      "liquidity": 302.89
+      "volume24hr": 5.0,
+      "liquidity": 779.0
     },
     {
-      "market": "Valorant: BBL Esports vs Fire Flux Esports (BO3) - VCT EMEA Playoffs \u2014 Map 1 Total Rounds: Over/Under 25.5",
+      "market": "CD Santa Clara vs. FC Famalic\u00e3o - More Markets \u2014 CD Santa Clara vs. FC Famalic\u00e3o: CD Santa Clara 1st Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/val-bbl1-ff3-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 4.99,
-      "liquidity": 302.89
-    },
-    {
-      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: Le Havre AC O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
+      "now": 0.9975,
+      "delta": 0.4975,
+      "url": "https://polymarket.com/event/por-cds-fam-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Ligue 1"
+        "Primeira Liga"
       ],
-      "volume24hr": 416.7,
-      "liquidity": 17797.3
-    },
-    {
-      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 46.0,
-      "liquidity": 4289.41
-    },
-    {
-      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 165109.08,
-      "liquidity": 4633.46
-    },
-    {
-      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 165109.08,
-      "liquidity": 4343.12
-    },
-    {
-      "market": "Le Havre AC vs. AS Monaco FC - More Markets \u2014 Le Havre AC vs. AS Monaco FC: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/fl1-hac-asm-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Ligue 1"
-      ],
-      "volume24hr": 165109.08,
-      "liquidity": 4813.9
+      "volume24hr": 5.0,
+      "liquidity": 5821.96
     }
   ],
   "log": [
-    {
-      "ts": "10:15:01",
-      "text": " poll complete \u2014 1963 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:30:01",
       "text": " poll complete \u2014 1951 markets scanned, 10 flagged"
@@ -272,6 +276,10 @@
     {
       "ts": "17:30:01",
       "text": " poll complete \u2014 2005 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:45:01",
+      "text": " poll complete \u2014 1941 markets scanned, 10 flagged"
     }
   ]
 }
