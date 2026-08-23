@@ -1,39 +1,26 @@
 {
-  "lastUpdate": "2026-08-23 23:00:01 UTC",
+  "lastUpdate": "2026-08-23 23:15:01 UTC",
   "swings": [
     {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Set 2 Winner: Landaluce vs Bellucci",
-      "prev": 0.13,
-      "now": 0.91,
-      "delta": 0.78,
-      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "market": "LoL: Dignitas vs FlyQuest (BO3) - LCS Regular Season \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.75,
+      "now": 0.24,
+      "delta": -0.51,
+      "url": "https://polymarket.com/event/lol-dig-fly-2026-08-23",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 8.33,
-      "liquidity": 1221.43
+      "volume24hr": 186.4,
+      "liquidity": 331.4
     },
     {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Match O/U 23.5",
-      "prev": 0.155,
-      "now": 0.83,
-      "delta": 0.675,
-      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 27.0,
-      "liquidity": 220.56
-    },
-    {
-      "market": "Chicago Cubs vs. Seattle Mariners: O/U 11.5",
-      "prev": 0.355,
-      "now": 0.9945,
-      "delta": 0.6395,
+      "market": "Chicago Cubs vs. Seattle Mariners: O/U 12.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
       "tags": [
         "Sports",
@@ -41,14 +28,85 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 17097.3,
-      "liquidity": 84.38
+      "volume24hr": 1054.82,
+      "liquidity": 10660.36
     },
     {
-      "market": "Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Valorant: Team Envy vs G2 Esports - Map 2 Winner",
-      "prev": 0.06,
-      "now": 0.6345,
-      "delta": 0.5745,
+      "market": "Chicago Cubs vs. Seattle Mariners: O/U 13.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-chc-sea-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 56.54,
+      "liquidity": 1081.67
+    },
+    {
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 346867.2,
+      "liquidity": 1673.34
+    },
+    {
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 346867.2,
+      "liquidity": 1658.02
+    },
+    {
+      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 346867.2,
+      "liquidity": 1673.34
+    },
+    {
+      "market": "Monterrey Open, Qualification: Panna Udvardy vs Darja Vidmanova \u2014 Udvardy vs. Vidmanova: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-udvardy-vidmano-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 200.76,
+      "liquidity": 4215.67
+    },
+    {
+      "market": "Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Games Total: O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/val-nv2-g21-2026-08-23",
       "tags": [
         "Esports",
@@ -56,105 +114,40 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 38850.15,
-      "liquidity": 123204.58
+      "volume24hr": 401.04,
+      "liquidity": 7534.36
     },
     {
-      "market": "Cincinnati Reds vs. Arizona Diamondbacks: O/U 8.5",
-      "prev": 0.615,
-      "now": 0.05,
-      "delta": -0.565,
-      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 170479.61,
-      "liquidity": 4663.99
-    },
-    {
-      "market": "Will the game go to extra innings?: Pittsburgh Pirates vs. Los Angeles Dodgers",
+      "market": "Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map Handicap: G2 (-1.5) vs Team Envy (+1.5)",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/val-nv2-g21-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 457944.3,
-      "liquidity": 1200.8
+      "volume24hr": 1591.81,
+      "liquidity": 14488.11
     },
     {
-      "market": "Will the game go to extra innings?: Minnesota Twins vs. San Diego Padres",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 482243.74,
-      "liquidity": 1567.35
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres \u2014 Spread: San Diego Padres (-4.5)",
+      "market": "Monterrey Open, Qualification: Panna Udvardy vs Darja Vidmanova \u2014 Monterrey Open, Qualification: Completed Match: Panna Udvardy vs Darja Vidmanova",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
+      "url": "https://polymarket.com/event/wta-udvardy-vidmano-2026-08-23",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 15.12,
-      "liquidity": 5715.48
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres \u2014 Spread: San Diego Padres (-7.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 482243.74,
-      "liquidity": 1012.4
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres \u2014 Spread: San Diego Padres (-3.5)",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/mlb-min-sd-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 482243.74,
-      "liquidity": 9744.79
+      "volume24hr": 265720.33,
+      "liquidity": 979.62
     }
   ],
   "log": [
-    {
-      "ts": "15:45:02",
-      "text": " poll complete \u2014 1954 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:00:02",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
@@ -270,6 +263,10 @@
     {
       "ts": "23:00:01",
       "text": " poll complete \u2014 1919 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:15:01",
+      "text": " poll complete \u2014 1901 markets scanned, 10 flagged"
     }
   ]
 }
