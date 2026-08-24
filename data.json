@@ -1,103 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 14:15:02 UTC",
+  "lastUpdate": "2026-08-24 14:30:02 UTC",
   "swings": [
     {
-      "market": "Augsburg: Sandro Kopp vs Eduardo Ribeiro \u2014 Augsburg: Completed Match: Sandro Kopp vs Eduardo Ribeiro",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kopp-ribeiro-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 106.0,
-      "liquidity": 791.51
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1472292.41,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1472292.41,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1472292.41,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1472292.41,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 26\u00b0C on August 24?",
-      "prev": 0.28,
-      "now": 0.665,
-      "delta": 0.385,
-      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Paris",
-        "France",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 5847.38,
-      "liquidity": 308.47
-    },
-    {
       "market": "What price will Ethereum hit on August 24? \u2014 Will Ethereum dip to $2,400 on August 24?",
-      "prev": 0.48,
-      "now": 0.125,
-      "delta": -0.355,
+      "prev": 0.125,
+      "now": 0.485,
+      "delta": 0.36,
       "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-24-2026",
       "tags": [
         "Crypto",
@@ -109,32 +17,138 @@
         "Today \ud83d\ude80",
         "Hit Price"
       ],
-      "volume24hr": 54317.88,
-      "liquidity": 2293.86
+      "volume24hr": 55284.75,
+      "liquidity": 77.61
     },
     {
-      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 27\u00b0C on August 24?",
-      "prev": 0.62,
-      "now": 0.3,
-      "delta": -0.32,
-      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-24-2026",
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 3: Both Teams Destroy Barracks?",
+      "prev": 0.31,
+      "now": 0.5,
+      "delta": 0.19,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
       "tags": [
-        "Weather",
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 106384.16,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 3: Both Teams Beat Roshan?",
+      "prev": 0.335,
+      "now": 0.5,
+      "delta": 0.165,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 106384.16,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: G1 (-1.5) vs Leo Team (+1.5)",
+      "prev": 0.475,
+      "now": 0.32,
+      "delta": -0.155,
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 26226.11,
+      "liquidity": 9037.44
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Counter-Strike: GenOne vs Leo Team - Map 1 Winner",
+      "prev": 0.51,
+      "now": 0.36,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 6605.06,
+      "liquidity": 138396.33
+    },
+    {
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Ends in Daytime?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 106384.16,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Both Teams Destroy Barracks?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 106384.16,
+      "liquidity": 0.0
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 2nd Half O/U 0.5",
+      "prev": 0.635,
+      "now": 0.54,
+      "delta": -0.095,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 146536.38,
+      "liquidity": 748.7
+    },
+    {
+      "market": "What price will Ethereum hit on August 24? \u2014 Will Ethereum reach $2,600 on August 24?",
+      "prev": 0.22,
+      "now": 0.145,
+      "delta": -0.075,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-24-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
         "Recurring",
         "Hide From New",
-        "Paris",
-        "France",
-        "Daily Temperature",
-        "Highest temperature"
+        "Ethereum",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
       ],
-      "volume24hr": 4772.8,
-      "liquidity": 252.75
+      "volume24hr": 5951.25,
+      "liquidity": 10350.65
     },
     {
       "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin reach $80,000 on August 24?",
-      "prev": 0.35,
-      "now": 0.605,
-      "delta": 0.255,
+      "prev": 0.605,
+      "now": 0.535,
+      "delta": -0.07,
       "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
       "tags": [
         "Crypto",
@@ -146,34 +160,11 @@
         "Today \ud83d\ude80",
         "Hit Price"
       ],
-      "volume24hr": 22347.96,
-      "liquidity": 7655.47
-    },
-    {
-      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin dip to $76,000 on August 24?",
-      "prev": 0.315,
-      "now": 0.065,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 5704.3,
-      "liquidity": 12696.28
+      "volume24hr": 23257.84,
+      "liquidity": 7906.95
     }
   ],
   "log": [
-    {
-      "ts": "07:00:01",
-      "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:15:02",
       "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
@@ -289,6 +280,10 @@
     {
       "ts": "14:15:02",
       "text": " poll complete \u2014 1793 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:30:02",
+      "text": " poll complete \u2014 1789 markets scanned, 10 flagged"
     }
   ]
 }
