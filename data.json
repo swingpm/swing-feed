@@ -1,70 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 19:30:01 UTC",
+  "lastUpdate": "2026-08-24 19:45:02 UTC",
   "swings": [
     {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: AS Roma 1st Half O/U 0.5",
-      "prev": 0.375,
-      "now": 0.995,
-      "delta": 0.62,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 301.25,
-      "liquidity": 6078.92
-    },
-    {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: 2nd Half O/U 0.5",
-      "prev": 0.6,
+      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: ACF Fiorentina 1st Half O/U 0.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.5995,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 424848.37,
-      "liquidity": 3482.96
-    },
-    {
-      "market": "LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season",
-      "prev": 0.095,
-      "now": 0.665,
-      "delta": 0.57,
-      "url": "https://polymarket.com/event/lol-gx-g2-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 674846.01,
-      "liquidity": 156798.01
-    },
-    {
-      "market": "US Open, Qualification ATP: Joel Schwaerzler vs Gustavo Heide \u2014 Set 2 Winner: Schwaerzler vs Heide",
-      "prev": 0.465,
-      "now": 0.9995,
-      "delta": 0.5345,
-      "url": "https://polymarket.com/event/atp-schwaer-heide-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 8.25,
-      "liquidity": 11122.52
-    },
-    {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: 1st Half O/U 0.5",
-      "prev": 0.47,
-      "now": 0.9955,
-      "delta": 0.5255,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
       "tags": [
         "Sports",
@@ -72,90 +13,138 @@
         "Soccer",
         "sea"
       ],
-      "volume24hr": 7920.2,
-      "liquidity": 145883.36
+      "volume24hr": 2632.16,
+      "liquidity": 10563.59
     },
     {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Set 2 Winner: Cecchinato vs Broady",
-      "prev": 0.475,
-      "now": 0.98,
-      "delta": 0.505,
+      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: ACF Fiorentina 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 1003.39,
+      "liquidity": 4230.99
+    },
+    {
+      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 US Open, Qualification ATP: Completed Match: Marco Cecchinato vs Liam Broady",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 10.87,
-      "liquidity": 1748.0
+      "volume24hr": 55.0,
+      "liquidity": 1438.71
     },
     {
-      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Fulham FC vs. Chelsea FC: Fulham FC 1st Half O/U 0.5",
-      "prev": 0.495,
-      "now": 0.995,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
+      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
+        "Games"
       ],
-      "volume24hr": 1772.33,
-      "liquidity": 6873.28
+      "volume24hr": 219037.83,
+      "liquidity": 3031.85
     },
     {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: Both Teams to Score in Second Half",
+      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Marco Cecchinato vs. Liam Broady: Total Sets O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 1.27,
-      "liquidity": 3480.71
+      "volume24hr": 6.03,
+      "liquidity": 5643.81
     },
     {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: CA Osasuna 2nd Half O/U 0.5",
+      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Set Handicap: Cecchinato (-1.5) vs Broady (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 118.08,
+      "liquidity": 3944.76
+    },
+    {
+      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 424848.37,
-      "liquidity": 4890.69
+      "volume24hr": 219037.83,
+      "liquidity": 3461.21
     },
     {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: CA Osasuna 2nd Half O/U 1.5",
+      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Match O/U 22.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 424848.37,
-      "liquidity": 3894.85
+      "volume24hr": 219037.83,
+      "liquidity": 6007.24
+    },
+    {
+      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 219037.83,
+      "liquidity": 3428.25
+    },
+    {
+      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 219037.83,
+      "liquidity": 5610.84
     }
   ],
   "log": [
-    {
-      "ts": "12:15:02",
-      "text": " poll complete \u2014 1740 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:30:02",
       "text": " poll complete \u2014 1743 markets scanned, 10 flagged"
@@ -271,6 +260,10 @@
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:45:02",
+      "text": " poll complete \u2014 1896 markets scanned, 10 flagged"
     }
   ]
 }
