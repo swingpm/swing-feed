@@ -1,45 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 06:15:01 UTC",
+  "lastUpdate": "2026-08-24 06:30:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Beijing on August 24? \u2014 Will the highest temperature in Beijing be 32\u00b0C on August 24?",
-      "prev": 0.375,
-      "now": 0.0005,
-      "delta": -0.3745,
-      "url": "https://polymarket.com/event/highest-temperature-in-beijing-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Beijing",
-        "Highest temperature"
-      ],
-      "volume24hr": 3834.34,
-      "liquidity": 25748.43
-    },
-    {
-      "market": "Highest temperature in Beijing on August 24? \u2014 Will the highest temperature in Beijing be 33\u00b0C on August 24?",
-      "prev": 0.505,
-      "now": 0.795,
-      "delta": 0.29,
-      "url": "https://polymarket.com/event/highest-temperature-in-beijing-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Beijing",
-        "Highest temperature"
-      ],
-      "volume24hr": 2199.77,
-      "liquidity": 220.05
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-2.5) vs Kiwoom DRX Challengers (+2.5)",
-      "prev": 0.38,
-      "now": 0.25,
-      "delta": -0.13,
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
@@ -47,110 +13,79 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 4504.27,
-      "liquidity": 249.74
+      "volume24hr": 306.0,
+      "liquidity": 198.0
     },
     {
-      "market": "Highest temperature in Beijing on August 24? \u2014 Will the highest temperature in Beijing be 34\u00b0C on August 24?",
-      "prev": 0.075,
-      "now": 0.17,
-      "delta": 0.095,
-      "url": "https://polymarket.com/event/highest-temperature-in-beijing-on-august-24-2026",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
-        "Weather",
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 644609.05,
+      "liquidity": 148.5
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-2.5) vs Kiwoom DRX Challengers (+2.5)",
+      "prev": 0.25,
+      "now": 0.395,
+      "delta": 0.145,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4520.66,
+      "liquidity": 39.86
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 2 Winner",
+      "prev": 0.615,
+      "now": 0.495,
+      "delta": -0.12,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 43356.64,
+      "liquidity": 238333.98
+    },
+    {
+      "market": "Bitcoin Up or Down on August 24?",
+      "prev": 0.485,
+      "now": 0.585,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-24-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
         "Recurring",
         "Hide From New",
-        "Daily Temperature",
-        "Beijing",
-        "Highest temperature"
+        "Bitcoin",
+        "Up or Down",
+        "Today \ud83d\ude80",
+        "Daily",
+        "Daily-Close"
       ],
-      "volume24hr": 2378.16,
-      "liquidity": 280.11
-    },
-    {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 2nd Half O/U 0.5",
-      "prev": 0.45,
-      "now": 0.36,
-      "delta": -0.09,
-      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 55525.63,
-      "liquidity": 1193.86
-    },
-    {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 2nd Half O/U 0.5",
-      "prev": 0.535,
-      "now": 0.62,
-      "delta": 0.085,
-      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 55525.63,
-      "liquidity": 1257.55
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 31\u00b0C on August 24?",
-      "prev": 0.715,
-      "now": 0.795,
-      "delta": 0.08,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 8610.23,
-      "liquidity": 478.35
-    },
-    {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 2nd Half O/U 1.5",
-      "prev": 0.21,
-      "now": 0.14,
-      "delta": -0.07,
-      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 55525.63,
-      "liquidity": 410.47
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 32\u00b0C on August 24?",
-      "prev": 0.235,
-      "now": 0.165,
-      "delta": -0.07,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 6007.79,
-      "liquidity": 441.43
+      "volume24hr": 89770.93,
+      "liquidity": 49317.88
     },
     {
       "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 24?",
-      "prev": 0.61,
-      "now": 0.555,
-      "delta": -0.055,
+      "prev": 0.555,
+      "now": 0.65,
+      "delta": 0.095,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
       "tags": [
         "Weather",
@@ -160,15 +95,74 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 17160.59,
-      "liquidity": 402.55
+      "volume24hr": 17238.27,
+      "liquidity": 483.48
+    },
+    {
+      "market": "# of views of MrBeast video day 2? \u2014 Will MrBeast's next video get between 41 and 43 million views on day 2?",
+      "prev": 0.315,
+      "now": 0.235,
+      "delta": -0.08,
+      "url": "https://polymarket.com/event/of-views-of-mrbeast-video-day-2-20260824",
+      "tags": [
+        "views",
+        "Culture",
+        "MrBeast",
+        "YouTube"
+      ],
+      "volume24hr": 4217.05,
+      "liquidity": 250.3
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 3.5",
+      "prev": 0.625,
+      "now": 0.69,
+      "delta": 0.065,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3046.51,
+      "liquidity": 8876.78
+    },
+    {
+      "market": "Bitcoin above ___ on August 24? \u2014 Will the price of Bitcoin be above $78,000 on August 24?",
+      "prev": 0.26,
+      "now": 0.315,
+      "delta": 0.055,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-24-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 4081.59,
+      "liquidity": 30741.72
+    },
+    {
+      "market": "# of views of MrBeast video day 2? \u2014 Will MrBeast's next video get between 43 and 45 million views on day 2?",
+      "prev": 0.66,
+      "now": 0.715,
+      "delta": 0.055,
+      "url": "https://polymarket.com/event/of-views-of-mrbeast-video-day-2-20260824",
+      "tags": [
+        "views",
+        "Culture",
+        "MrBeast",
+        "YouTube"
+      ],
+      "volume24hr": 1452.4,
+      "liquidity": 336.98
     }
   ],
   "log": [
-    {
-      "ts": "23:00:01",
-      "text": " poll complete \u2014 1919 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:15:01",
       "text": " poll complete \u2014 1901 markets scanned, 10 flagged"
@@ -284,6 +278,10 @@
     {
       "ts": "06:15:01",
       "text": " poll complete \u2014 1741 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:30:01",
+      "text": " poll complete \u2014 1722 markets scanned, 10 flagged"
     }
   ]
 }
