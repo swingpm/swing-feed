@@ -1,124 +1,39 @@
 {
-  "lastUpdate": "2026-08-24 16:30:02 UTC",
+  "lastUpdate": "2026-08-24 16:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D",
-      "prev": 0.795,
-      "now": 0.0005,
-      "delta": -0.7945,
-      "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 856154.01,
-      "liquidity": 1403161.86
-    },
-    {
-      "market": "Roehampton 2: Johannus Monday vs Iliyan Radulov \u2014 Roehampton 2: Completed Match: Johannus Monday vs Iliyan Radulov",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-monday-radulov-2026-08-24",
+      "market": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva \u2014 Dedura-Palomero vs. Silva: Match O/U 22.5",
+      "prev": 0.76,
+      "now": 0.005,
+      "delta": -0.755,
+      "url": "https://polymarket.com/event/atp-dedurap-sil-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 110.0,
-      "liquidity": 795.16
+      "volume24hr": 520.54,
+      "liquidity": 4916.22
     },
     {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Fearnley vs. Baena: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
+      "market": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva \u2014 Dedura-Palomero vs. Silva: Match O/U 23.5",
+      "prev": 0.685,
+      "now": 0.005,
+      "delta": -0.68,
+      "url": "https://polymarket.com/event/atp-dedurap-sil-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 74146.21,
-      "liquidity": 5287.26
-    },
-    {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Fearnley vs. Baena: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 74146.21,
-      "liquidity": 5405.57
-    },
-    {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Fearnley vs. Baena: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 74146.21,
-      "liquidity": 5402.14
-    },
-    {
-      "market": "Philadelphia: Veronika Erjavec vs Julia Grabher \u2014 Erjavec vs. Grabher: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-erjavec-grabher-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 5448.07
-    },
-    {
-      "market": "Philadelphia: Veronika Erjavec vs Julia Grabher \u2014 Erjavec vs. Grabher: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-erjavec-grabher-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 65910.12,
-      "liquidity": 5277.56
-    },
-    {
-      "market": "Philadelphia: Veronika Erjavec vs Julia Grabher \u2014 Erjavec vs. Grabher: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-erjavec-grabher-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 65910.12,
-      "liquidity": 5401.51
+      "volume24hr": 24.35,
+      "liquidity": 9368.14
     },
     {
       "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Game Spread: Fearnley (-4.5) vs Baena (+4.5)",
-      "prev": 0.265,
-      "now": 0.665,
-      "delta": 0.4,
+      "prev": 0.665,
+      "now": 0.065,
+      "delta": -0.6,
       "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
       "tags": [
         "Tennis",
@@ -126,28 +41,109 @@
         "Games"
       ],
       "volume24hr": 139.39,
-      "liquidity": 164.71
+      "liquidity": 107.54
     },
     {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Fearnley vs. Baena: Match O/U 22.5",
-      "prev": 0.565,
-      "now": 0.18,
-      "delta": -0.385,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
+      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 2?",
+      "prev": 0.235,
+      "now": 0.825,
+      "delta": 0.59,
+      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1367.44,
+      "liquidity": 21.37
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 US Open, Qualification WTA: Completed Match: Rebecca Sramkova vs Alevtina Ibragimova",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 74146.21,
-      "liquidity": 508749.4
+      "volume24hr": 113917.71,
+      "liquidity": 945.56
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Sramkova vs. Ibragimova: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 113917.71,
+      "liquidity": 2703.26
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Sramkova vs. Ibragimova: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 9.1,
+      "liquidity": 5288.2
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Rebecca Sramkova vs. Alevtina Ibragimova: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 113917.71,
+      "liquidity": 5288.2
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Sramkova vs. Ibragimova: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 113917.71,
+      "liquidity": 2703.26
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Sramkova vs. Ibragimova: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 5.88,
+      "liquidity": 5666.62
     }
   ],
   "log": [
-    {
-      "ts": "09:15:01",
-      "text": " poll complete \u2014 1751 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:30:01",
       "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
@@ -263,6 +259,10 @@
     {
       "ts": "16:30:02",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:45:01",
+      "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
     }
   ]
 }
