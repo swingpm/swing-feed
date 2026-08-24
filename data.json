@@ -1,158 +1,158 @@
 {
-  "lastUpdate": "2026-08-24 02:30:02 UTC",
+  "lastUpdate": "2026-08-24 02:45:01 UTC",
   "swings": [
     {
-      "market": "Atlanta Braves vs. Milwaukee Brewers: O/U 8.5",
-      "prev": 0.68,
+      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: Club Necaxa O/U 0.5",
+      "prev": 0.345,
+      "now": 0.9985,
+      "delta": 0.6535,
+      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 298.33,
+      "liquidity": 3150.02
+    },
+    {
+      "market": "Pumas de la UNAM vs. Club Necaxa \u2014 Will Club Necaxa win on 2026-08-23?",
+      "prev": 0.225,
+      "now": 0.745,
+      "delta": 0.52,
+      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 32187.09,
+      "liquidity": 150056.88
+    },
+    {
+      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: CA Boca Juniors O/U 1.5",
+      "prev": 0.515,
       "now": 0.0005,
-      "delta": -0.6795,
-      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-23",
+      "delta": -0.5145,
+      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 64536.87,
-      "liquidity": 112292.67
+      "volume24hr": 183731.3,
+      "liquidity": 13044.48
     },
     {
-      "market": "Atlanta Braves vs. Milwaukee Brewers: O/U 6.5",
-      "prev": 0.62,
+      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: Racing Club O/U 1.5",
+      "prev": 0.51,
       "now": 0.005,
-      "delta": -0.615,
-      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-23",
+      "delta": -0.505,
+      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 47853.44,
-      "liquidity": 29028.83
+      "volume24hr": 112.25,
+      "liquidity": 12203.18
     },
     {
-      "market": "Atlanta Braves vs. Milwaukee Brewers \u2014 Spread: Atlanta Braves (-1.5)",
-      "prev": 0.4,
-      "now": 0.9995,
-      "delta": 0.5995,
-      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 33623.19,
-      "liquidity": 38018.05
-    },
-    {
-      "market": "Cancun: Sebastian Baez vs Hubert Hurkacz \u2014 Cancun: Completed Match: Sebastian Baez vs Hubert Hurkacz",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-baez-hurkacz-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 107565.62,
-      "liquidity": 1380.77
-    },
-    {
-      "market": "Cancun: Sebastian Baez vs Hubert Hurkacz \u2014 Sebastian Baez vs. Hubert Hurkacz: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-baez-hurkacz-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 7.56,
-      "liquidity": 5642.42
-    },
-    {
-      "market": "Cancun: Sebastian Baez vs Hubert Hurkacz \u2014 Set Handicap: Baez (-1.5) vs Hurkacz (+1.5)",
+      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: Racing Club O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-baez-hurkacz-2026-08-23",
+      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 107565.62,
-      "liquidity": 4708.19
+      "volume24hr": 5.0,
+      "liquidity": 11874.44
     },
     {
-      "market": "Cancun: Sebastian Baez vs Hubert Hurkacz \u2014 Baez vs. Hurkacz: Match O/U 22.5",
+      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: 2nd Half O/U 2.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-baez-hurkacz-2026-08-23",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 10.37,
-      "liquidity": 6028.26
+      "volume24hr": 183731.3,
+      "liquidity": 3250.05
     },
     {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map Handicap: KR\u00dc (-1.5) vs Evil Geniuses (+1.5)",
+      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.0045,
       "delta": -0.4955,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3243.06,
-      "liquidity": 2316.17
-    },
-    {
-      "market": "Will the game go to extra innings?: Atlanta Braves vs. Milwaukee Brewers",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-23",
+      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 112.47,
-      "liquidity": 1537.25
+      "volume24hr": 183731.3,
+      "liquidity": 3266.23
     },
     {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: KR\u00dc Esports (-2.5) vs Evil Geniuses (+2.5)",
+      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
       "tags": [
-        "Esports",
-        "Valorant",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 290158.17,
-      "liquidity": 440.92
+      "volume24hr": 183731.3,
+      "liquidity": 3627.73
+    },
+    {
+      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 183731.3,
+      "liquidity": 3608.63
+    },
+    {
+      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: Racing Club 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 183731.3,
+      "liquidity": 3616.0
     }
   ],
   "log": [
-    {
-      "ts": "19:15:02",
-      "text": " poll complete \u2014 2031 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:30:02",
       "text": " poll complete \u2014 2053 markets scanned, 10 flagged"
@@ -268,6 +268,10 @@
     {
       "ts": "02:30:02",
       "text": " poll complete \u2014 1703 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:45:01",
+      "text": " poll complete \u2014 1629 markets scanned, 10 flagged"
     }
   ]
 }
