@@ -1,152 +1,148 @@
 {
-  "lastUpdate": "2026-08-24 22:15:01 UTC",
+  "lastUpdate": "2026-08-24 22:30:01 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Set 2 Games O/U 10.5",
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Monterrey Open: Completed Match: Camila Osorio vs Ann Li",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 176959.6,
+      "liquidity": 1594.08
+    },
+    {
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 131264.08,
-      "liquidity": 3041.23
+      "volume24hr": 176959.6,
+      "liquidity": 3051.81
     },
     {
-      "market": "Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo \u2014 Philadelphia: Completed Match: Ekaterina Ovcharenko vs Kaitlin Quevedo",
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1.85,
+      "liquidity": 5656.52
+    },
+    {
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 176959.6,
+      "liquidity": 3034.83
+    },
+    {
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 176959.6,
+      "liquidity": 3051.81
+    },
+    {
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 176959.6,
+      "liquidity": 6022.59
+    },
+    {
+      "market": "Philadelphia: Talia Gibson vs Lizette Cabrera \u2014 Philadelphia: Completed Match: Talia Gibson vs Lizette Cabrera",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-ovchare-quevedo-2026-08-24",
+      "url": "https://polymarket.com/event/wta-gibson-cabrera-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 112514.05,
-      "liquidity": 1790.09
+      "volume24hr": 350.0,
+      "liquidity": 1719.43
     },
     {
-      "market": "Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo \u2014 Ekaterina Ovcharenko vs. Kaitlin Quevedo: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-ovchare-quevedo-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 112514.05,
-      "liquidity": 5641.19
-    },
-    {
-      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 US Open, Qualification ATP: Completed Match: Keegan Smith vs Alexis Galarneau",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 131264.08,
-      "liquidity": 1260.39
-    },
-    {
-      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Keegan Smith vs. Alexis Galarneau: Total Sets O/U 2.5",
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Game Spread: Osorio (-0.5) vs Li (+0.5)",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 17.07,
-      "liquidity": 5523.09
+      "volume24hr": 176959.6,
+      "liquidity": 3408.62
     },
     {
-      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Set 2 Winner: Smith vs Galarneau",
+      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
+      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 131264.08,
-      "liquidity": 3381.67
+      "volume24hr": 152530.84,
+      "liquidity": 2777.77
     },
     {
-      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 131264.08,
-      "liquidity": 2941.12
-    },
-    {
-      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 47.54,
-      "liquidity": 5285.87
-    },
-    {
-      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Match O/U 22.5",
+      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
+      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 58.4,
-      "liquidity": 5404.29
-    },
-    {
-      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 131264.08,
-      "liquidity": 2946.07
+      "volume24hr": 152530.84,
+      "liquidity": 2777.77
     }
   ],
   "log": [
-    {
-      "ts": "15:00:01",
-      "text": " poll complete \u2014 1798 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:15:01",
       "text": " poll complete \u2014 1747 markets scanned, 10 flagged"
@@ -262,6 +258,10 @@
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:30:01",
+      "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
     }
   ]
 }
