@@ -1,154 +1,152 @@
 {
-  "lastUpdate": "2026-08-24 17:15:01 UTC",
+  "lastUpdate": "2026-08-24 17:30:01 UTC",
   "swings": [
     {
-      "market": "SC Verl vs. Hamburger SV - More Markets \u2014 SC Verl vs. Hamburger SV: Hamburger SV O/U 2.5",
-      "prev": 0.33,
-      "now": 0.9945,
-      "delta": 0.6645,
-      "url": "https://polymarket.com/event/dfb-scv-hsv-2026-08-24-more-markets",
+      "market": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee",
+      "prev": 0.65,
+      "now": 0.005,
+      "delta": -0.645,
+      "url": "https://polymarket.com/event/atp-lajal-jordanl-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 245603.65,
+      "liquidity": 299295.13
+    },
+    {
+      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas \u2014 Set 2 Winner: Pavlovic vs Varillas",
+      "prev": 0.5745,
+      "now": 0.0005,
+      "delta": -0.574,
+      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 253.12,
+      "liquidity": 13348.39
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 1st Half O/U 0.5",
+      "prev": 0.53,
+      "now": 0.0005,
+      "delta": -0.5295,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "DFB-Pokal"
+        "sea"
       ],
-      "volume24hr": 269.12,
-      "liquidity": 886.8
+      "volume24hr": 2031.96,
+      "liquidity": 16385.58
     },
     {
-      "market": "US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze \u2014 Set Handicap: Bolkvadze (-1.5) vs Andreeva (+1.5)",
-      "prev": 0.425,
-      "now": 0.9995,
-      "delta": 0.5745,
-      "url": "https://polymarket.com/event/wta-andree-bolkvad-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 13.86,
-      "liquidity": 4789.43
-    },
-    {
-      "market": "SC Verl vs. Hamburger SV - More Markets \u2014 SC Verl vs. Hamburger SV: O/U 3.5",
-      "prev": 0.275,
-      "now": 0.835,
-      "delta": 0.56,
-      "url": "https://polymarket.com/event/dfb-scv-hsv-2026-08-24-more-markets",
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 1st Half O/U 0.5",
+      "prev": 0.525,
+      "now": 0.0005,
+      "delta": -0.5245,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "DFB-Pokal"
+        "sea"
       ],
-      "volume24hr": 18277.86,
-      "liquidity": 80693.65
+      "volume24hr": 222.59,
+      "liquidity": 10791.68
     },
     {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 US Open, Qualification ATP: Completed Match: Jacob Fearnley vs Roberto Carballes Baena",
+      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
+      "prev": 0.8465,
+      "now": 0.345,
+      "delta": -0.5015,
+      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 147553.3,
+      "liquidity": 284595.45
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 431.41,
+      "liquidity": 10390.42
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 1581.35,
+      "liquidity": 10391.41
+    },
+    {
+      "market": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee \u2014 Game Spread: Lajal (-6.5) vs Lee (+6.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-lajal-jordanl-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 274.33,
+      "liquidity": 3042.39
+    },
+    {
+      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas \u2014 Pavlovic vs. Varillas: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
+      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 126155.11,
-      "liquidity": 755.51
+      "volume24hr": 148474.6,
+      "liquidity": 2695.7
     },
     {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Jacob Fearnley vs. Roberto Carballes Baena: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 126155.11,
-      "liquidity": 5716.17
-    },
-    {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Fearnley vs. Baena: Set 2 Games O/U 8.5",
+      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas \u2014 Pavlovic vs. Varillas: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
+      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 126155.11,
-      "liquidity": 2706.17
-    },
-    {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Set Handicap: Fearnley (-1.5) vs Baena (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 151.62,
-      "liquidity": 4735.01
-    },
-    {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Fearnley vs. Baena: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 126155.11,
-      "liquidity": 2713.21
-    },
-    {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Fearnley vs. Baena: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 3.58,
-      "liquidity": 5174.57
-    },
-    {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Fearnley vs. Baena: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 5.78,
-      "liquidity": 5280.17
+      "volume24hr": 148474.6,
+      "liquidity": 2705.65
     }
   ],
   "log": [
-    {
-      "ts": "10:00:01",
-      "text": " poll complete \u2014 1722 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:15:02",
       "text": " poll complete \u2014 1741 markets scanned, 10 flagged"
@@ -264,6 +262,10 @@
     {
       "ts": "17:15:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:30:01",
+      "text": " poll complete \u2014 1875 markets scanned, 10 flagged"
     }
   ]
 }
