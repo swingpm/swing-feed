@@ -1,70 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 10:00:01 UTC",
+  "lastUpdate": "2026-08-24 10:15:02 UTC",
   "swings": [
     {
-      "market": "Augsburg: Robert Strombachs vs Kai Wehnelt \u2014 Augsburg, Germany, Qualifying: Completed Match: Robert Strombachs vs Kai Wehnelt",
-      "prev": 0.5,
-      "now": 0.9975,
-      "delta": 0.4975,
-      "url": "https://polymarket.com/event/atp-stromba-wehnelt-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 117812.96,
-      "liquidity": 740.6
-    },
-    {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.4495,
-      "now": 0.005,
-      "delta": -0.4445,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 71897.58,
-      "liquidity": 501.01
-    },
-    {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
-      "prev": 0.445,
-      "now": 0.005,
-      "delta": -0.44,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 71897.58,
-      "liquidity": 510.91
-    },
-    {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 18.5",
-      "prev": 0.445,
-      "now": 0.005,
-      "delta": -0.44,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 71897.58,
-      "liquidity": 510.91
-    },
-    {
       "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 1 Winner",
-      "prev": 0.59,
-      "now": 0.22,
-      "delta": -0.37,
+      "prev": 0.22,
+      "now": 0.9995,
+      "delta": 0.7795,
       "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
@@ -72,90 +13,144 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 123988.44,
-      "liquidity": 191816.69
+      "volume24hr": 207311.22,
+      "liquidity": 1464507.54
     },
     {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: BET-M 33 (-6.5) vs HyperSpirit (+6.5)",
-      "prev": 0.55,
-      "now": 0.9,
-      "delta": 0.35,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Counter-Strike: Nuclear TigeRES vs FORZE Reload - Map 1 Winner",
+      "prev": 0.57,
+      "now": 0.0005,
+      "delta": -0.5695,
+      "url": "https://polymarket.com/event/cs2-ntr-forzer-2026-08-24",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 71897.58,
-      "liquidity": 109.02
+      "volume24hr": 10542.33,
+      "liquidity": 310457.91
     },
     {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: BET-M 33 (-9.5) vs HyperSpirit (+9.5)",
+      "market": "Augsburg: Dominik Recek vs Benito Sanchez Martinez \u2014 Augsburg, Germany, Qualifying: Completed Match: Dominik Recek vs Benito Sanchez Martinez",
+      "prev": 0.5,
+      "now": 0.9975,
+      "delta": 0.4975,
+      "url": "https://polymarket.com/event/atp-recek-benitos-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 136768.16,
+      "liquidity": 339.5
+    },
+    {
+      "market": "Augsburg: Denis Yevseyev vs Svyatoslav Gulin \u2014 Augsburg, Germany, Qualifying: Completed Match: Denis Yevseyev vs Svyatoslav Gulin",
+      "prev": 0.5,
+      "now": 0.9975,
+      "delta": 0.4975,
+      "url": "https://polymarket.com/event/atp-yevseye-gulin-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 107526.1,
+      "liquidity": 740.6
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Slay Baron Nashor?",
       "prev": 0.45,
       "now": 0.1,
       "delta": -0.35,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 71897.58,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: BET-M 33 (-12.5) vs HyperSpirit (+12.5)",
-      "prev": 0.45,
-      "now": 0.1,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 71897.58,
-      "liquidity": 78.57
-    },
-    {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: BET-M 33 (-3.5) vs HyperSpirit (+3.5)",
-      "prev": 0.551,
-      "now": 0.9,
-      "delta": 0.349,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 438.62
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.275,
-      "now": 0.525,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 78986.77,
-      "liquidity": 4.76
+      "volume24hr": 1805575.19,
+      "liquidity": 109.02
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Slay a Dragon?",
+      "prev": 0.55,
+      "now": 0.9,
+      "delta": 0.35,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1805575.19,
+      "liquidity": 109.02
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Destroy Inhibitors?",
+      "prev": 0.45,
+      "now": 0.1,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1805575.19,
+      "liquidity": 109.02
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Any Player Quadra Kill?",
+      "prev": 0.55,
+      "now": 0.9,
+      "delta": 0.35,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1805575.19,
+      "liquidity": 109.02
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.45,
+      "now": 0.1,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1805575.19,
+      "liquidity": 109.02
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Odd/Even Total Kills?",
+      "prev": 0.45,
+      "now": 0.1,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1805575.19,
+      "liquidity": 109.02
     }
   ],
   "log": [
-    {
-      "ts": "02:45:01",
-      "text": " poll complete \u2014 1629 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:00:01",
       "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
@@ -271,6 +266,10 @@
     {
       "ts": "10:00:01",
       "text": " poll complete \u2014 1722 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:15:02",
+      "text": " poll complete \u2014 1741 markets scanned, 10 flagged"
     }
   ]
 }
