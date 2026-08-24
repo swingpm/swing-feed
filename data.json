@@ -1,11 +1,81 @@
 {
-  "lastUpdate": "2026-08-24 21:30:01 UTC",
+  "lastUpdate": "2026-08-24 21:45:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Dota 2: DYNASTY vs FTS - Game 2 Winner",
-      "prev": 0.415,
-      "now": 0.9995,
-      "delta": 0.5845,
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 95253.53,
+      "liquidity": 5727.83
+    },
+    {
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 95253.53,
+      "liquidity": 5788.73
+    },
+    {
+      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 95253.53,
+      "liquidity": 5788.77
+    },
+    {
+      "market": "Philadelphia: Talia Gibson vs Lizette Cabrera \u2014 Set Handicap: Cabrera (-1.5) vs Gibson (+1.5)",
+      "prev": 0.49,
+      "now": 0.04,
+      "delta": -0.45,
+      "url": "https://polymarket.com/event/wta-gibson-cabrera-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 125224.42,
+      "liquidity": 115.0
+    },
+    {
+      "market": "US Open, Qualification ATP: Harry Wendelken vs Stefano Travaglia \u2014 Set 2 Winner: Wendelken vs Travaglia",
+      "prev": 0.475,
+      "now": 0.065,
+      "delta": -0.41,
+      "url": "https://polymarket.com/event/atp-wendelk-travagl-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 132.46
+    },
+    {
+      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Both Teams Beat Roshan?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
       "url": "https://polymarket.com/event/dota2-dynast1-fts-2026-08-24",
       "tags": [
         "Esports",
@@ -13,14 +83,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 81699.49,
-      "liquidity": 600171.52
+      "volume24hr": 139427.57,
+      "liquidity": 109.02
     },
     {
-      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Games Total: O/U 2.5",
-      "prev": 0.54,
-      "now": 0.0005,
-      "delta": -0.5395,
+      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/dota2-dynast1-fts-2026-08-24",
       "tags": [
         "Esports",
@@ -28,129 +98,54 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 103.87,
-      "liquidity": 12735.36
+      "volume24hr": 139427.57,
+      "liquidity": 109.02
     },
     {
-      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: Both Teams to Score in Second Half",
+      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Any Player Rampage?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/dota2-dynast1-fts-2026-08-24",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "La Liga"
+        "Sports"
       ],
-      "volume24hr": 442894.14,
-      "liquidity": 3396.28
+      "volume24hr": 139427.57,
+      "liquidity": 109.02
     },
     {
-      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: M\u00e1laga CF 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 442894.14,
-      "liquidity": 3435.92
-    },
-    {
-      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 US Open, Qualification ATP: Completed Match: Raul Brancaccio vs Thiago Seyboth Wild",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
+      "market": "US Open, Qualification ATP: Harry Wendelken vs Stefano Travaglia \u2014 Wendelken vs. Travaglia: Match O/U 23.5",
+      "prev": 0.55,
+      "now": 0.945,
+      "delta": 0.395,
+      "url": "https://polymarket.com/event/atp-wendelk-travagl-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 267705.89,
-      "liquidity": 458.51
+      "volume24hr": 6.45,
+      "liquidity": 686.87
     },
     {
-      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Brancaccio vs. Wild: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
+      "market": "Philadelphia: Talia Gibson vs Lizette Cabrera",
+      "prev": 0.585,
+      "now": 0.225,
+      "delta": -0.36,
+      "url": "https://polymarket.com/event/wta-gibson-cabrera-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 267705.89,
-      "liquidity": 727.6
-    },
-    {
-      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Brancaccio vs. Wild: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267705.89,
-      "liquidity": 738.21
-    },
-    {
-      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Raul Brancaccio vs. Thiago Seyboth Wild: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 23.53,
-      "liquidity": 846.45
-    },
-    {
-      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Brancaccio vs. Wild: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 26.7,
-      "liquidity": 738.21
-    },
-    {
-      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Brancaccio vs. Wild: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 267705.89,
-      "liquidity": 738.16
+      "volume24hr": 123835.22,
+      "liquidity": 367030.47
     }
   ],
   "log": [
-    {
-      "ts": "14:15:02",
-      "text": " poll complete \u2014 1793 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:30:02",
       "text": " poll complete \u2014 1789 markets scanned, 10 flagged"
@@ -266,6 +261,10 @@
     {
       "ts": "21:30:01",
       "text": " poll complete \u2014 1869 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:45:01",
+      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
     }
   ]
 }
