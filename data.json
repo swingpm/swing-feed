@@ -1,155 +1,155 @@
 {
-  "lastUpdate": "2026-08-24 18:45:02 UTC",
+  "lastUpdate": "2026-08-24 19:00:02 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Set 1 Winner: Cecchinato vs Broady",
-      "prev": 0.315,
-      "now": 0.9995,
-      "delta": 0.6845,
-      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
+      "market": "Counter-Strike: CYBERSHOKE Prospects vs ex-Zero Tenacity (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: ex-ZT (-1.5) vs CYBERSHOKE Prospects (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/cs2-cyb-zerote-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 931.82,
+      "liquidity": 5746.15
+    },
+    {
+      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: 2nd Half O/U 1.5",
+      "prev": 0.635,
+      "now": 0.16,
+      "delta": -0.475,
+      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 344182.56,
+      "liquidity": 1596.23
+    },
+    {
+      "market": "US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch \u2014 Set 2 Winner: Gaubas vs Feldbausch",
+      "prev": 0.475,
+      "now": 0.945,
+      "delta": 0.47,
+      "url": "https://polymarket.com/event/atp-gaubas-feldbau-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 541.36,
-      "liquidity": 9201.95
+      "volume24hr": 2097.55,
+      "liquidity": 3113.98
     },
     {
-      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Set 2 Winner: Avanesyan vs Garcia",
-      "prev": 0.575,
-      "now": 0.0005,
-      "delta": -0.5745,
-      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
+      "market": "US Open, Qualification ATP: Spencer Johnson vs Cristian Garin \u2014 Set 2 Winner: Johnson vs Garin",
+      "prev": 0.16,
+      "now": 0.595,
+      "delta": 0.435,
+      "url": "https://polymarket.com/event/atp-johnso-garin-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 121.36,
-      "liquidity": 4575.57
+      "volume24hr": 507.92,
+      "liquidity": 2084.1
     },
     {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 O/U 0.5",
-      "prev": 0.51,
-      "now": 0.0005,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: ACF Fiorentina 2nd Half O/U 1.5",
+      "prev": 0.095,
+      "now": 0.5,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "sea"
       ],
-      "volume24hr": 1395.74,
-      "liquidity": 13502.01
+      "volume24hr": 141881.04,
+      "liquidity": 1409996.43
     },
     {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "market": "US Open, Qualification ATP: Joel Schwaerzler vs Gustavo Heide \u2014 Set 2 Winner: Schwaerzler vs Heide",
+      "prev": 0.89,
+      "now": 0.49,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/atp-schwaer-heide-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
+        "Games"
+      ],
+      "volume24hr": 8.25,
+      "liquidity": 1996.17
+    },
+    {
+      "market": "Counter-Strike: CYBERSHOKE Prospects vs ex-Zero Tenacity (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: CYBERSHOKE Prospects (-3.5) vs ex-Zero Tenacity (+3.5)",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-cyb-zerote-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "sea"
+        "Sports"
       ],
-      "volume24hr": 591143.02,
-      "liquidity": 3856.26
+      "volume24hr": 102278.29,
+      "liquidity": 109.02
     },
     {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: 2nd Half O/U 2.5",
+      "market": "Counter-Strike: CYBERSHOKE Prospects vs ex-Zero Tenacity (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-cyb-zerote-2026-08-24",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "sea"
+        "Sports"
       ],
-      "volume24hr": 1.16,
-      "liquidity": 4283.95
+      "volume24hr": 102278.29,
+      "liquidity": 109.02
     },
     {
-      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 US Open, Qualification WTA: Completed Match: Elina Avanesyan vs Andrea Lazaro Garcia",
+      "market": "Counter-Strike: CYBERSHOKE Prospects vs ex-Zero Tenacity (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: CYBERSHOKE Prospects (-9.5) vs ex-Zero Tenacity (+9.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-cyb-zerote-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 86325.16,
-      "liquidity": 1389.11
+      "volume24hr": 102278.29,
+      "liquidity": 109.02
     },
     {
-      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Elina Avanesyan vs. Andrea Lazaro Garcia: Total Sets O/U 2.5",
+      "market": "Counter-Strike: CYBERSHOKE Prospects vs ex-Zero Tenacity (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: CYBERSHOKE Prospects (-6.5) vs ex-Zero Tenacity (+6.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-cyb-zerote-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 1.61,
-      "liquidity": 5793.92
-    },
-    {
-      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Avanesyan vs. Garcia: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 86325.16,
-      "liquidity": 3036.28
-    },
-    {
-      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Avanesyan vs. Garcia: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 86325.16,
-      "liquidity": 3082.79
-    },
-    {
-      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Avanesyan vs. Garcia: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 86325.16,
-      "liquidity": 3036.28
+      "volume24hr": 102278.29,
+      "liquidity": 109.02
     }
   ],
   "log": [
-    {
-      "ts": "11:30:02",
-      "text": " poll complete \u2014 1765 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1776 markets scanned, 10 flagged"
@@ -265,6 +265,10 @@
     {
       "ts": "18:45:02",
       "text": " poll complete \u2014 1837 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:00:02",
+      "text": " poll complete \u2014 1872 markets scanned, 10 flagged"
     }
   ]
 }
