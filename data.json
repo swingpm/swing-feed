@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 11:00:01 UTC",
+  "lastUpdate": "2026-08-24 11:15:02 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Counter-Strike: Nuclear TigeRES vs FORZE Reload - Map 2 Winner",
-      "prev": 0.46,
-      "now": 0.015,
-      "delta": -0.445,
+      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.525,
+      "now": 0.005,
+      "delta": -0.52,
       "url": "https://polymarket.com/event/cs2-ntr-forzer-2026-08-24",
       "tags": [
         "Esports",
@@ -13,44 +13,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 28637.2,
-      "liquidity": 6853.51
+      "volume24hr": 3.33,
+      "liquidity": 580.62
     },
     {
-      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.46,
-      "now": 0.04,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/cs2-ntr-forzer-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5547.72,
-      "liquidity": 266.75
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Game 1: Any Player Penta Kill?",
+      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map Handicap: FORZE.R (-1.5) vs Nuclear TigeRES (+1.5)",
       "prev": 0.5,
-      "now": 0.08,
-      "delta": -0.42,
-      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/cs2-ntr-forzer-2026-08-24",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 119580.01,
-      "liquidity": 58.55
+      "volume24hr": 15.0,
+      "liquidity": 11369.09
     },
     {
       "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.595,
-      "now": 0.9985,
-      "delta": 0.4035,
+      "prev": 0.9985,
+      "now": 0.5,
+      "delta": -0.4985,
       "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
@@ -59,104 +44,114 @@
         "Sports"
       ],
       "volume24hr": 306.0,
-      "liquidity": 153.71
+      "liquidity": 0.01
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 4: Both Teams Slay Baron Nashor?",
+      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-ntr-forzer-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 493.94
+    },
+    {
+      "market": "Augsburg: Matthew William Donald vs Benjamin Hassan \u2014 Augsburg, Germany, Qualifying: Completed Match: Matthew William Donald vs Benjamin Hassan",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-donald-hassan-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 175.0,
+      "liquidity": 525.65
+    },
+    {
+      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Rounds Handicap: Nuclear TigeRES (-3.5) vs FORZE Reload (+3.5)",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "url": "https://polymarket.com/event/cs2-ntr-forzer-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 378.81,
+      "liquidity": 101.95
+    },
+    {
+      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Rounds Handicap: Nuclear TigeRES (-6.5) vs FORZE Reload (+6.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-ntr-forzer-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 179624.94,
+      "liquidity": 101.95
+    },
+    {
+      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.75,
+      "now": 0.47,
+      "delta": -0.28,
+      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2190.5,
+      "liquidity": 111.92
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: FOX.Y (-2.5) vs Hanwha Life Esports Challengers (+2.5)",
+      "prev": 0.41,
+      "now": 0.65,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1822602.68,
-      "liquidity": 109.02
+      "volume24hr": 8431.65,
+      "liquidity": 8711.43
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 4: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: RC Deportivo A Coru\u00f1a 1st Half O/U 1.5",
+      "prev": 0.065,
+      "now": 0.28,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 1822602.68,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 4: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1822602.68,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 4: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1822602.68,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 4: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1822602.68,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 4: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1822602.68,
-      "liquidity": 109.02
+      "volume24hr": 76906.75,
+      "liquidity": 1149.79
     }
   ],
   "log": [
-    {
-      "ts": "03:45:01",
-      "text": " poll complete \u2014 1718 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1717 markets scanned, 10 flagged"
@@ -272,6 +267,10 @@
     {
       "ts": "11:00:01",
       "text": " poll complete \u2014 1751 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:15:02",
+      "text": " poll complete \u2014 1756 markets scanned, 10 flagged"
     }
   ]
 }
