@@ -1,162 +1,151 @@
 {
-  "lastUpdate": "2026-08-24 01:15:01 UTC",
+  "lastUpdate": "2026-08-24 01:30:01 UTC",
   "swings": [
     {
-      "market": "Will Atl\u00e9tico San Luis vs. CF Pachuca end in a draw?",
-      "prev": 0.06,
-      "now": 0.9995,
-      "delta": 0.9395,
-      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 47850.29,
-      "liquidity": 202627.57
-    },
-    {
-      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-10.5)",
-      "prev": 0.937,
+      "market": "Washington Mystics vs. Portland Fire \u2014 Spread: Washington Mystics (-5.5)",
+      "prev": 0.7,
       "now": 0.0005,
-      "delta": -0.9365,
-      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
+      "delta": -0.6995,
+      "url": "https://polymarket.com/event/wnba-wsh-por-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "WNBA",
         "Basketball"
       ],
-      "volume24hr": 24122.05,
-      "liquidity": 47422.53
+      "volume24hr": 33885.53,
+      "liquidity": 103046.73
     },
     {
-      "market": "Atl\u00e9tico San Luis vs. CF Pachuca \u2014 Will Atl\u00e9tico San Luis win on 2026-08-23?",
-      "prev": 0.935,
-      "now": 0.0005,
-      "delta": -0.9345,
-      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 199122.43,
-      "liquidity": 306685.61
-    },
-    {
-      "market": "Atl\u00e9tico San Luis vs. CF Pachuca - More Markets \u2014 Atl\u00e9tico San Luis vs. CF Pachuca: Both Teams to Score",
-      "prev": 0.15,
-      "now": 0.9995,
-      "delta": 0.8495,
-      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 1605.55,
-      "liquidity": 41159.42
-    },
-    {
-      "market": "Atl\u00e9tico San Luis vs. CF Pachuca - More Markets \u2014 Atl\u00e9tico San Luis vs. CF Pachuca: O/U 1.5",
-      "prev": 0.155,
-      "now": 0.9995,
-      "delta": 0.8445,
-      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 8995.34,
-      "liquidity": 81697.56
-    },
-    {
-      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-13.5)",
-      "prev": 0.73,
-      "now": 0.0005,
-      "delta": -0.7295,
-      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 91629.56,
-      "liquidity": 70903.54
-    },
-    {
-      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-12.5)",
-      "prev": 0.715,
-      "now": 0.0005,
-      "delta": -0.7145,
-      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 21575.98,
-      "liquidity": 63846.89
-    },
-    {
-      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-14.5)",
-      "prev": 0.64,
-      "now": 0.0005,
-      "delta": -0.6395,
-      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 15852.33,
-      "liquidity": 74349.65
-    },
-    {
-      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Atlanta United FC vs. Sporting Kansas City: Atlanta United FC O/U 2.5",
-      "prev": 0.555,
+      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map Handicap: EG (-1.5) vs KR\u00dc Esports (+1.5)",
+      "prev": 0.505,
       "now": 0.005,
-      "delta": -0.55,
-      "url": "https://polymarket.com/event/mls-atl-skc-2026-08-23-more-markets",
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "MLS"
+        "Sports"
       ],
-      "volume24hr": 855.91,
-      "liquidity": 12651.49
+      "volume24hr": 5.0,
+      "liquidity": 1864.22
     },
     {
-      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-11.5)",
-      "prev": 0.54,
+      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Monterrey Open, Qualification: Completed Match: Anna Bondar vs En-Shuo Liang",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 351400.64,
+      "liquidity": 1385.74
+    },
+    {
+      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Anna Bondar vs. En-Shuo Liang: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 558.25,
+      "liquidity": 5666.73
+    },
+    {
+      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Set Handicap: Bondar (-1.5) vs Liang (+1.5)",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.5395,
-      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 468.46,
+      "liquidity": 4377.85
+    },
+    {
+      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Bondar vs. Liang: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 42.94,
+      "liquidity": 5683.31
+    },
+    {
+      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Set Handicap: Liang (-1.5) vs Bondar (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 351400.64,
+      "liquidity": 5147.04
+    },
+    {
+      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Bondar vs. Liang: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 351400.64,
+      "liquidity": 5642.44
+    },
+    {
+      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Game Spread: Bondar (-3.5) vs Liang (+3.5)",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 351400.64,
+      "liquidity": 2816.22
+    },
+    {
+      "market": "Indiana Fever vs. Chicago Sky \u2014 Kamilla Cardoso: Points O/U 15.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
+      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "WNBA",
         "Basketball"
       ],
-      "volume24hr": 45203.37,
-      "liquidity": 73878.16
+      "volume24hr": 792747.43,
+      "liquidity": 410.62
     }
   ],
   "log": [
-    {
-      "ts": "18:00:01",
-      "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:15:01",
       "text": " poll complete \u2014 1992 markets scanned, 10 flagged"
@@ -272,6 +261,10 @@
     {
       "ts": "01:15:01",
       "text": " poll complete \u2014 1748 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:30:01",
+      "text": " poll complete \u2014 1764 markets scanned, 10 flagged"
     }
   ]
 }
