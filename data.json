@@ -1,155 +1,148 @@
 {
-  "lastUpdate": "2026-08-24 21:45:01 UTC",
+  "lastUpdate": "2026-08-24 22:00:01 UTC",
   "swings": [
     {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 1 Games O/U 8.5",
+      "market": "Winston-Salem Open: Martin Damm vs Abedallah Shelbayh \u2014 Set Handicap: Damm (-1.5) vs Shelbayh (+1.5)",
+      "prev": 0.34,
+      "now": 0.995,
+      "delta": 0.655,
+      "url": "https://polymarket.com/event/atp-damm-shelbay-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 109.83,
+      "liquidity": 3247.2
+    },
+    {
+      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Set 1 Winner: Choinski vs Rottgering",
+      "prev": 0.605,
+      "now": 0.0005,
+      "delta": -0.6045,
+      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 164.44,
+      "liquidity": 8217.4
+    },
+    {
+      "market": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt",
+      "prev": 0.51,
+      "now": 0.0005,
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/atp-gorzny-hewitt-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 222975.93,
+      "liquidity": 666944.47
+    },
+    {
+      "market": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt \u2014 Winston-Salem Open: Completed Match: Sebastian Gorzny vs Cruz Hewitt",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gorzny-hewitt-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 223713.82,
+      "liquidity": 1389.11
+    },
+    {
+      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 89364.45,
+      "liquidity": 5801.69
+    },
+    {
+      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 89364.45,
+      "liquidity": 5781.13
+    },
+    {
+      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 89364.45,
+      "liquidity": 5783.77
+    },
+    {
+      "market": "US Open, Qualification WTA: Polina Kudermetova vs Linda Fruhvirtova \u2014 US Open, Qualification WTA: Completed Match: Polina Kudermetova vs Linda Fruhvirtova",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-kuderme-fruhvir-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 73859.94,
+      "liquidity": 1785.11
+    },
+    {
+      "market": "US Open, Qualification WTA: Polina Kudermetova vs Linda Fruhvirtova \u2014 Kudermetova vs. Fruhvirtova: Match O/U 21.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "url": "https://polymarket.com/event/wta-kuderme-fruhvir-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 95253.53,
-      "liquidity": 5727.83
+      "volume24hr": 17.92,
+      "liquidity": 5625.84
     },
     {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 1 Games O/U 9.5",
+      "market": "US Open, Qualification WTA: Polina Kudermetova vs Linda Fruhvirtova \u2014 Polina Kudermetova vs. Linda Fruhvirtova: Total Sets O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "url": "https://polymarket.com/event/wta-kuderme-fruhvir-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 95253.53,
-      "liquidity": 5788.73
-    },
-    {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 95253.53,
-      "liquidity": 5788.77
-    },
-    {
-      "market": "Philadelphia: Talia Gibson vs Lizette Cabrera \u2014 Set Handicap: Cabrera (-1.5) vs Gibson (+1.5)",
-      "prev": 0.49,
-      "now": 0.04,
-      "delta": -0.45,
-      "url": "https://polymarket.com/event/wta-gibson-cabrera-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 125224.42,
-      "liquidity": 115.0
-    },
-    {
-      "market": "US Open, Qualification ATP: Harry Wendelken vs Stefano Travaglia \u2014 Set 2 Winner: Wendelken vs Travaglia",
-      "prev": 0.475,
-      "now": 0.065,
-      "delta": -0.41,
-      "url": "https://polymarket.com/event/atp-wendelk-travagl-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 132.46
-    },
-    {
-      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Both Teams Beat Roshan?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/dota2-dynast1-fts-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 139427.57,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/dota2-dynast1-fts-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 139427.57,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/dota2-dynast1-fts-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 139427.57,
-      "liquidity": 109.02
-    },
-    {
-      "market": "US Open, Qualification ATP: Harry Wendelken vs Stefano Travaglia \u2014 Wendelken vs. Travaglia: Match O/U 23.5",
-      "prev": 0.55,
-      "now": 0.945,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/atp-wendelk-travagl-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 6.45,
-      "liquidity": 686.87
-    },
-    {
-      "market": "Philadelphia: Talia Gibson vs Lizette Cabrera",
-      "prev": 0.585,
-      "now": 0.225,
-      "delta": -0.36,
-      "url": "https://polymarket.com/event/wta-gibson-cabrera-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 123835.22,
-      "liquidity": 367030.47
+      "volume24hr": 263.33,
+      "liquidity": 5744.64
     }
   ],
   "log": [
-    {
-      "ts": "14:30:02",
-      "text": " poll complete \u2014 1789 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1795 markets scanned, 10 flagged"
@@ -265,6 +258,10 @@
     {
       "ts": "21:45:01",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:00:01",
+      "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
     }
   ]
 }
