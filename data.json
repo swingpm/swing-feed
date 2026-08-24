@@ -1,113 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 18:15:02 UTC",
+  "lastUpdate": "2026-08-24 18:30:02 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
-      "prev": 0.1305,
-      "now": 0.635,
-      "delta": 0.5045,
-      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 262557.59,
-      "liquidity": 519140.1
-    },
-    {
-      "market": "US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch \u2014 Gaubas vs. Feldbausch: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gaubas-feldbau-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 79038.72,
-      "liquidity": 5452.99
-    },
-    {
-      "market": "US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch \u2014 Gaubas vs. Feldbausch: Set 1 Games O/U 9.5",
-      "prev": 0.5,
+      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: 1st Half O/U 0.5",
+      "prev": 0.545,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gaubas-feldbau-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 79038.72,
-      "liquidity": 5457.94
-    },
-    {
-      "market": "US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch \u2014 Gaubas vs. Feldbausch: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-gaubas-feldbau-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 79038.72,
-      "liquidity": 5457.94
-    },
-    {
-      "market": "Winston-Salem Open: Lorenzo Sonego vs Vit Kopriva \u2014 Winston-Salem Open: Completed Match: Lorenzo Sonego vs Vit Kopriva",
-      "prev": 0.0055,
-      "now": 0.5,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-sonego-kopriva-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 654757.0
-    },
-    {
-      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 Game Spread: Droguet (-5.5) vs Rincon (+5.5)",
-      "prev": 0.0125,
-      "now": 0.5,
-      "delta": 0.4875,
-      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 782.17,
-      "liquidity": 0.21
-    },
-    {
-      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $70 on August 27?",
-      "prev": 0.982,
-      "now": 0.5045,
-      "delta": -0.4775,
-      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
-      "tags": [
-        "Solana",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 150285.88,
-      "liquidity": 2.84
-    },
-    {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: CA Osasuna 1st Half O/U 1.5",
-      "prev": 0.04,
-      "now": 0.5,
-      "delta": 0.46,
+      "delta": -0.5445,
       "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
       "tags": [
         "Sports",
@@ -115,14 +13,71 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 6.67,
-      "liquidity": 0.01
+      "volume24hr": 6443.78,
+      "liquidity": 191947.46
+    },
+    {
+      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: CA Osasuna 1st Half O/U 0.5",
+      "prev": 0.51,
+      "now": 0.0005,
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 1.92,
+      "liquidity": 3157.2
+    },
+    {
+      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 US Open, Qualification ATP: Completed Match: Titouan Droguet vs Daniel Rincon",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 993081.74,
+      "liquidity": 760.49
+    },
+    {
+      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 Game Spread: Droguet (-5.5) vs Rincon (+5.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 782.17,
+      "liquidity": 7040.75
+    },
+    {
+      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas \u2014 US Open, Qualification ATP: Completed Match: Luka Pavlovic vs Juan Pablo Varillas",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 358390.65,
+      "liquidity": 760.49
     },
     {
       "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: Both Teams to Score in First Half",
-      "prev": 0.05,
-      "now": 0.5,
-      "delta": 0.45,
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
       "tags": [
         "Sports",
@@ -131,29 +86,69 @@
         "La Liga"
       ],
       "volume24hr": 237.22,
-      "liquidity": 0.02
+      "liquidity": 2694.22
     },
     {
-      "market": "CA Osasuna vs. Levante UD - Exact Score \u2014 Exact Score: CA Osasuna 3 - 3 Levante UD?",
-      "prev": 0.002,
-      "now": 0.445,
-      "delta": 0.443,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-exact-score",
+      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: CA Osasuna 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 8387.01,
-      "liquidity": 6.83
+      "volume24hr": 6.67,
+      "liquidity": 2690.33
+    },
+    {
+      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: Levante UD 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 1023.11,
+      "liquidity": 2934.84
+    },
+    {
+      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas \u2014 Game Spread: Pavlovic (-4.5) vs Varillas (+4.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 358390.65,
+      "liquidity": 6081.06
+    },
+    {
+      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: Levante UD 1st Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 224770.4,
+      "liquidity": 2592.31
     }
   ],
   "log": [
-    {
-      "ts": "11:00:01",
-      "text": " poll complete \u2014 1751 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:15:02",
       "text": " poll complete \u2014 1756 markets scanned, 10 flagged"
@@ -269,6 +264,10 @@
     {
       "ts": "18:15:02",
       "text": " poll complete \u2014 1855 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:30:02",
+      "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
     }
   ]
 }
