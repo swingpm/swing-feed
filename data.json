@@ -1,25 +1,104 @@
 {
-  "lastUpdate": "2026-08-24 12:15:02 UTC",
+  "lastUpdate": "2026-08-24 12:30:02 UTC",
   "swings": [
     {
-      "market": "Augsburg: Federico Iannaccone vs Oleksii Krutykh \u2014 Augsburg, Germany, Qualifying: Completed Match: Federico Iannaccone vs Oleksii Krutykh",
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Any Player Ultra Kill?",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-iannacc-krutykh-2026-08-24",
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 101631.55,
+      "liquidity": 23.81
+    },
+    {
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Ends in Daytime?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 101631.55,
+      "liquidity": 109.02
+    },
+    {
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 101631.55,
+      "liquidity": 109.02
+    },
+    {
+      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin dip to $76,000 on August 24?",
+      "prev": 0.55,
+      "now": 0.16,
+      "delta": -0.39,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 4899.82,
+      "liquidity": 7371.66
+    },
+    {
+      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: INOX (-1.5) vs Butterfly (+1.5)",
+      "prev": 0.675,
+      "now": 0.31,
+      "delta": -0.365,
+      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 81873.83,
+      "liquidity": 10.75
+    },
+    {
+      "market": "Roehampton 2: Radu Albot vs Leonardo Rossi",
+      "prev": 0.395,
+      "now": 0.065,
+      "delta": -0.33,
+      "url": "https://polymarket.com/event/atp-albot-rossi-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 40.0,
-      "liquidity": 735.62
+      "volume24hr": 184856.39,
+      "liquidity": 262990.4
     },
     {
-      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: BTF (-1.5) vs INOX Division (+1.5)",
-      "prev": 0.495,
-      "now": 0.0055,
-      "delta": -0.4895,
+      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.355,
+      "now": 0.66,
+      "delta": 0.305,
       "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
       "tags": [
         "Esports",
@@ -27,135 +106,60 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 994.16
+      "volume24hr": 2299.21,
+      "liquidity": 40.86
     },
     {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 3: Any Player Rampage?",
+      "prev": 0.225,
+      "now": 0.5,
+      "delta": 0.275,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1415980.02,
-      "liquidity": 109.02
+      "volume24hr": 81.55,
+      "liquidity": 46.26
     },
     {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "market": "What price will Ethereum hit on August 24? \u2014 Will Ethereum dip to $2,400 on August 24?",
+      "prev": 0.22,
+      "now": 0.48,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-24-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Ethereum",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 53484.63,
+      "liquidity": 63.26
+    },
+    {
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 3: Any Player Ultra Kill?",
+      "prev": 0.29,
+      "now": 0.495,
+      "delta": 0.205,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 306.0,
-      "liquidity": 438.62
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 20.0,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1415980.02,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1415980.02,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 7.84,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 438.62
-    },
-    {
-      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Rounds Handicap: Butterfly (-6.5) vs INOX Division (+6.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 75253.85,
-      "liquidity": 109.02
+      "volume24hr": 101631.55,
+      "liquidity": 100.5
     }
   ],
   "log": [
-    {
-      "ts": "05:00:01",
-      "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:15:01",
       "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
@@ -271,6 +275,10 @@
     {
       "ts": "12:15:02",
       "text": " poll complete \u2014 1740 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:30:02",
+      "text": " poll complete \u2014 1743 markets scanned, 10 flagged"
     }
   ]
 }
