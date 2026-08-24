@@ -1,133 +1,81 @@
 {
-  "lastUpdate": "2026-08-24 04:15:01 UTC",
+  "lastUpdate": "2026-08-24 04:30:01 UTC",
   "swings": [
     {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Set 1 Games O/U 8.5",
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Set 1 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 84.56,
-      "liquidity": 5444.37
+      "volume24hr": 53.25,
+      "liquidity": 5453.28
     },
     {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 266217.82,
-      "liquidity": 5454.69
-    },
-    {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Set 1 Games O/U 10.5",
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Set 1 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 109558.18,
+      "liquidity": 5298.14
+    },
+    {
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 109558.18,
+      "liquidity": 5447.99
+    },
+    {
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Set 1 Winner: Sherif vs Oliynykova",
+      "prev": 0.235,
+      "now": 0.0005,
+      "delta": -0.2345,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 893.92,
+      "liquidity": 10700.01
+    },
+    {
+      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Set 2 Winner: Ruzic vs Bartunkova",
+      "prev": 0.37,
+      "now": 0.18,
+      "delta": -0.19,
       "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 266217.82,
-      "liquidity": 5478.77
+      "volume24hr": 62.4,
+      "liquidity": 717.91
     },
     {
-      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 31\u00b0C on August 24?",
-      "prev": 0.77,
-      "now": 0.63,
-      "delta": -0.14,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 4657.77,
-      "liquidity": 337.3
-    },
-    {
-      "market": "Ethereum above ___ on August 24? \u2014 Will the price of Ethereum be above $2,500 on August 24?",
-      "prev": 0.06,
-      "now": 0.185,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-24-2026",
-      "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 50568.61,
-      "liquidity": 4718.73
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 32\u00b0C on August 24?",
-      "prev": 0.215,
-      "now": 0.32,
-      "delta": 0.105,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 3577.02,
-      "liquidity": 321.54
-    },
-    {
-      "market": "Seahawks vs. Titans \u2014 Spread: TEN (-4.5)",
-      "prev": 0.1,
-      "now": 0.0005,
-      "delta": -0.0995,
-      "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 18929.99,
-      "liquidity": 3570.26
-    },
-    {
-      "market": "Seahawks vs. Titans \u2014 Spread: TEN (-5.5)",
-      "prev": 0.0995,
-      "now": 0.0005,
-      "delta": -0.099,
-      "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 3035.32,
-      "liquidity": 3522.73
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 24?",
-      "prev": 0.075,
-      "now": 0.0015,
-      "delta": -0.0735,
+      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 24?",
+      "prev": 0.6,
+      "now": 0.775,
+      "delta": 0.175,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
       "tags": [
         "Weather",
@@ -137,34 +85,70 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 22196.92,
-      "liquidity": 10216.18
+      "volume24hr": 2557.55,
+      "liquidity": 1483.39
     },
     {
-      "market": "What will Gold (XAUUSD) hit in August 2026? \u2014 Will Gold (XAUUSD) hit (HIGH) $4,700 in August?",
-      "prev": 0.739,
-      "now": 0.6705,
-      "delta": -0.0685,
-      "url": "https://polymarket.com/event/what-price-will-xauusd-hit-in-august-2026",
+      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 24?",
+      "prev": 0.375,
+      "now": 0.235,
+      "delta": -0.14,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
       "tags": [
-        "Finance",
-        "Monthly",
-        "Hit Price",
+        "Weather",
+        "Recurring",
         "Hide From New",
-        "Finance Updown",
-        "Pyth Finance",
-        "Commodities",
-        "Gold"
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
       ],
-      "volume24hr": 7872.25,
-      "liquidity": 29503.79
+      "volume24hr": 12381.33,
+      "liquidity": 1492.95
+    },
+    {
+      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Match O/U 21.5",
+      "prev": 0.485,
+      "now": 0.355,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 655.13,
+      "liquidity": 149.72
+    },
+    {
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova",
+      "prev": 0.355,
+      "now": 0.23,
+      "delta": -0.125,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 105503.33,
+      "liquidity": 190046.15
+    },
+    {
+      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova",
+      "prev": 0.16,
+      "now": 0.065,
+      "delta": -0.095,
+      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 286281.11,
+      "liquidity": 384506.87
     }
   ],
   "log": [
-    {
-      "ts": "21:00:01",
-      "text": " poll complete \u2014 1990 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:15:01",
       "text": " poll complete \u2014 1967 markets scanned, 10 flagged"
@@ -280,6 +264,10 @@
     {
       "ts": "04:15:01",
       "text": " poll complete \u2014 1700 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:30:01",
+      "text": " poll complete \u2014 1703 markets scanned, 10 flagged"
     }
   ]
 }
