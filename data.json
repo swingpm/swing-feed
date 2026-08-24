@@ -1,89 +1,70 @@
 {
-  "lastUpdate": "2026-08-24 04:00:01 UTC",
+  "lastUpdate": "2026-08-24 04:15:01 UTC",
   "swings": [
     {
-      "market": "Ethereum above ___ on August 24? \u2014 Will the price of Ethereum be above $2,600 on August 24?",
+      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.0175,
-      "delta": -0.4825,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-24-2026",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
       "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 84.56,
+      "liquidity": 5444.37
+    },
+    {
+      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 266217.82,
+      "liquidity": 5454.69
+    },
+    {
+      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 266217.82,
+      "liquidity": 5478.77
+    },
+    {
+      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 31\u00b0C on August 24?",
+      "prev": 0.77,
+      "now": 0.63,
+      "delta": -0.14,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
+      "tags": [
+        "Weather",
         "Recurring",
-        "Hide From New"
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 47460.62,
-      "liquidity": 15.47
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Rounds Handicap: Evil Geniuses (-5.5) vs KR\u00dc Esports (+5.5)",
-      "prev": 0.55,
-      "now": 1.0,
-      "delta": 0.45,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 417459.92,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Rounds Handicap: Evil Geniuses (-6.5) vs KR\u00dc Esports (+6.5)",
-      "prev": 0.55,
-      "now": 1.0,
-      "delta": 0.45,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 417459.92,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Rounds Handicap: Evil Geniuses (-8.5) vs KR\u00dc Esports (+8.5)",
-      "prev": 0.55,
-      "now": 1.0,
-      "delta": 0.45,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 417459.92,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Rounds Handicap: Evil Geniuses (-7.5) vs KR\u00dc Esports (+7.5)",
-      "prev": 0.55,
-      "now": 1.0,
-      "delta": 0.45,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 417459.92,
-      "liquidity": 0.0
+      "volume24hr": 4657.77,
+      "liquidity": 337.3
     },
     {
       "market": "Ethereum above ___ on August 24? \u2014 Will the price of Ethereum be above $2,500 on August 24?",
-      "prev": 0.5,
-      "now": 0.06,
-      "delta": -0.44,
+      "prev": 0.06,
+      "now": 0.185,
+      "delta": 0.125,
       "url": "https://polymarket.com/event/ethereum-above-on-august-24-2026",
       "tags": [
         "Ethereum",
@@ -94,73 +75,92 @@
         "Recurring",
         "Hide From New"
       ],
-      "volume24hr": 47460.62,
-      "liquidity": 9.58
+      "volume24hr": 50568.61,
+      "liquidity": 4718.73
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Set 1 Winner: Sherif vs Oliynykova",
-      "prev": 0.475,
-      "now": 0.245,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 32\u00b0C on August 24?",
+      "prev": 0.215,
+      "now": 0.32,
+      "delta": 0.105,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
       "tags": [
-        "Tennis",
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 3577.02,
+      "liquidity": 321.54
+    },
+    {
+      "market": "Seahawks vs. Titans \u2014 Spread: TEN (-4.5)",
+      "prev": 0.1,
+      "now": 0.0005,
+      "delta": -0.0995,
+      "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
+      "tags": [
         "Sports",
+        "NFL",
         "Games"
       ],
-      "volume24hr": 780.38,
-      "liquidity": 2196.89
+      "volume24hr": 18929.99,
+      "liquidity": 3570.26
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova",
-      "prev": 0.455,
-      "now": 0.325,
-      "delta": -0.13,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "Seahawks vs. Titans \u2014 Spread: TEN (-5.5)",
+      "prev": 0.0995,
+      "now": 0.0005,
+      "delta": -0.099,
+      "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
+        "NFL",
         "Games"
       ],
-      "volume24hr": 75120.85,
-      "liquidity": 494291.35
+      "volume24hr": 3035.32,
+      "liquidity": 3522.73
     },
     {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Total Rounds: Over/Under 19.5",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
+      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 24?",
+      "prev": 0.075,
+      "now": 0.0015,
+      "delta": -0.0735,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
       ],
-      "volume24hr": 417459.92,
-      "liquidity": 0.0
+      "volume24hr": 22196.92,
+      "liquidity": 10216.18
     },
     {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Total Rounds: Over/Under 17.5",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
+      "market": "What will Gold (XAUUSD) hit in August 2026? \u2014 Will Gold (XAUUSD) hit (HIGH) $4,700 in August?",
+      "prev": 0.739,
+      "now": 0.6705,
+      "delta": -0.0685,
+      "url": "https://polymarket.com/event/what-price-will-xauusd-hit-in-august-2026",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Finance",
+        "Monthly",
+        "Hit Price",
+        "Hide From New",
+        "Finance Updown",
+        "Pyth Finance",
+        "Commodities",
+        "Gold"
       ],
-      "volume24hr": 417459.92,
-      "liquidity": 0.0
+      "volume24hr": 7872.25,
+      "liquidity": 29503.79
     }
   ],
   "log": [
-    {
-      "ts": "20:45:01",
-      "text": " poll complete \u2014 2009 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:00:01",
       "text": " poll complete \u2014 1990 markets scanned, 10 flagged"
@@ -276,6 +276,10 @@
     {
       "ts": "04:00:01",
       "text": " poll complete \u2014 1717 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:15:01",
+      "text": " poll complete \u2014 1700 markets scanned, 10 flagged"
     }
   ]
 }
