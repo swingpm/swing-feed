@@ -1,163 +1,158 @@
 {
-  "lastUpdate": "2026-08-24 20:30:01 UTC",
+  "lastUpdate": "2026-08-24 20:45:01 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification ATP: Spencer Johnson vs Cristian Garin \u2014 US Open, Qualification ATP: Completed Match: Spencer Johnson vs Cristian Garin",
+      "market": "Will Hallescher FC vs. FC Schalke 04 end in a draw?",
+      "prev": 0.08,
+      "now": 0.9995,
+      "delta": 0.9195,
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 23581.67,
+      "liquidity": 403181.5
+    },
+    {
+      "market": "Hallescher FC vs. FC Schalke 04 \u2014 Will FC Schalke 04 win on 2026-08-24?",
+      "prev": 0.91,
+      "now": 0.0005,
+      "delta": -0.9095,
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 79878.39,
+      "liquidity": 645037.38
+    },
+    {
+      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: O/U 3.5",
+      "prev": 0.355,
+      "now": 0.9995,
+      "delta": 0.6445,
+      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 24763.54,
+      "liquidity": 186419.42
+    },
+    {
+      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: O/U 3.5",
+      "prev": 0.36,
+      "now": 0.9995,
+      "delta": 0.6395,
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 11791.77,
+      "liquidity": 176743.58
+    },
+    {
+      "market": "AS Roma vs. ACF Fiorentina - Exact Score \u2014 Exact Score: AS Roma 3 - 0 ACF Fiorentina?",
+      "prev": 0.635,
+      "now": 0.0005,
+      "delta": -0.6345,
+      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 3744.42,
+      "liquidity": 37886.53
+    },
+    {
+      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: Both Teams to Score in Second Half",
+      "prev": 0.51,
+      "now": 0.0045,
+      "delta": -0.5055,
+      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 510809.07,
+      "liquidity": 2852.18
+    },
+    {
+      "market": "AS Roma vs. ACF Fiorentina - Exact Score \u2014 Exact Score: Any Other Score?",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-johnso-garin-2026-08-24",
+      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-exact-score",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "sea"
       ],
-      "volume24hr": 375208.55,
-      "liquidity": 1389.11
+      "volume24hr": 159.08,
+      "liquidity": 19885.53
     },
     {
-      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Fulham FC vs. Chelsea FC: Fulham FC 2nd Half O/U 0.5",
+      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.9955,
       "delta": 0.4955,
-      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "DFB-Pokal"
       ],
-      "volume24hr": 1994325.93,
-      "liquidity": 6460.58
+      "volume24hr": 135005.12,
+      "liquidity": 2235.12
     },
     {
-      "market": "US Open, Qualification ATP: Spencer Johnson vs Cristian Garin \u2014 Game Spread: Johnson (-1.5) vs Garin (+1.5)",
+      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: 2nd Half O/U 2.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-johnso-garin-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 375208.55,
-      "liquidity": 2814.62
-    },
-    {
-      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 117117.21,
-      "liquidity": 52.52
-    },
-    {
-      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: FC Schalke 04 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 117117.21,
-      "liquidity": 121.95
-    },
-    {
-      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: RC Deportivo A Coru\u00f1a 1st Half O/U 0.5",
-      "prev": 0.505,
-      "now": 0.995,
-      "delta": 0.49,
-      "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 384.24,
-      "liquidity": 3014.5
-    },
-    {
-      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: Hallescher FC O/U 1.5",
-      "prev": 0.135,
-      "now": 0.52,
-      "delta": 0.385,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 945.69,
-      "liquidity": 499.57
-    },
-    {
-      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Spread: Chelsea FC (-1.5)",
-      "prev": 0.695,
-      "now": 0.315,
-      "delta": -0.38,
-      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Premier League",
-        "EPL"
-      ],
-      "volume24hr": 141196.69,
-      "liquidity": 89484.39
-    },
-    {
-      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: FC Schalke 04 O/U 1.5",
-      "prev": 0.62,
-      "now": 0.9945,
-      "delta": 0.3745,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 6771.6,
-      "liquidity": 128996.35
-    },
-    {
-      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Fulham FC vs. Chelsea FC: 2nd Half O/U 1.5",
-      "prev": 0.645,
       "now": 0.9955,
-      "delta": 0.3505,
-      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Premier League",
-        "EPL"
+        "DFB-Pokal"
       ],
-      "volume24hr": 48.37,
-      "liquidity": 5938.42
+      "volume24hr": 135005.12,
+      "liquidity": 2235.1
+    },
+    {
+      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: Hallescher FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 135005.12,
+      "liquidity": 2194.61
     }
   ],
   "log": [
-    {
-      "ts": "13:15:01",
-      "text": " poll complete \u2014 1781 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:30:02",
       "text": " poll complete \u2014 1798 markets scanned, 10 flagged"
@@ -273,6 +268,10 @@
     {
       "ts": "20:30:01",
       "text": " poll complete \u2014 1898 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:45:01",
+      "text": " poll complete \u2014 1907 markets scanned, 10 flagged"
     }
   ]
 }
