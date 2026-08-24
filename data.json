@@ -1,159 +1,148 @@
 {
-  "lastUpdate": "2026-08-24 00:15:01 UTC",
+  "lastUpdate": "2026-08-24 00:30:02 UTC",
   "swings": [
     {
-      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova",
-      "prev": 0.168,
-      "now": 0.7155,
-      "delta": 0.5475,
+      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Bondar vs. Liang: Match O/U 21.5",
+      "prev": 0.27,
+      "now": 0.835,
+      "delta": 0.565,
+      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 491.71,
+      "liquidity": 63.8
+    },
+    {
+      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Monterrey Open, Qualification: Completed Match: Maria Timofeeva vs Kamilla Rakhimova",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 98255.39,
-      "liquidity": 136557.39
+      "volume24hr": 120454.04,
+      "liquidity": 1380.77
     },
     {
-      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Bondar vs. Liang: Set 1 Games O/U 8.5",
+      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Maria Timofeeva vs. Kamilla Rakhimova: Total Sets O/U 2.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 123.53,
-      "liquidity": 5791.06
+      "volume24hr": 16.67,
+      "liquidity": 5713.49
     },
     {
-      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Bondar vs. Liang: Set 1 Games O/U 9.5",
+      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Set Handicap: Timofeeva (-1.5) vs Rakhimova (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 228968.9,
-      "liquidity": 5780.63
+      "volume24hr": 30.0,
+      "liquidity": 4724.64
     },
     {
-      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Bondar vs. Liang: Set 1 Games O/U 10.5",
+      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Timofeeva vs. Rakhimova: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 14.57,
+      "liquidity": 5653.81
+    },
+    {
+      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Set Handicap: Rakhimova (-1.5) vs Timofeeva (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 228968.9,
-      "liquidity": 5781.12
+      "volume24hr": 4.99,
+      "liquidity": 5135.13
     },
     {
-      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Atlanta United FC vs. Sporting Kansas City: Sporting Kansas City 1st Half O/U 1.5",
+      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Timofeeva vs. Rakhimova: Match O/U 23.5",
       "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/mls-atl-skc-2026-08-23-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
+        "Games"
       ],
-      "volume24hr": 3.09,
-      "liquidity": 3420.54
+      "volume24hr": 7.13,
+      "liquidity": 6023.31
     },
     {
-      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Gauff vs. Pegula: Match O/U 23.5",
+      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Cincinnati Open: Completed Match: Coco Gauff vs Jessica Pegula",
       "prev": 0.5,
-      "now": 0.0305,
-      "delta": -0.4695,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/wta-gauff-pegula-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1783.04,
-      "liquidity": 1676.11
+      "volume24hr": 1066162.47,
+      "liquidity": 2262.98
     },
     {
-      "market": "Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Rounds Handicap: G2 Esports (-7.5) vs Team Envy (+7.5)",
-      "prev": 0.45,
-      "now": 0.1,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/val-nv2-g21-2026-08-23",
+      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Coco Gauff vs. Jessica Pegula: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/wta-gauff-pegula-2026-08-23",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 110.67
-    },
-    {
-      "market": "Washington Mystics vs. Portland Fire \u2014 Carla Leite: Assists O/U 7.5",
-      "prev": 0.805,
-      "now": 0.48,
-      "delta": -0.325,
-      "url": "https://polymarket.com/event/wnba-wsh-por-2026-08-23",
-      "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
+        "Games"
       ],
-      "volume24hr": 264455.72,
-      "liquidity": 1.9
+      "volume24hr": 9926.68,
+      "liquidity": 19243.05
     },
     {
-      "market": "Will CA River Plate vs. CA V\u00e9lez Sarsfield end in a draw?",
-      "prev": 0.709,
-      "now": 0.9995,
-      "delta": 0.2905,
-      "url": "https://polymarket.com/event/arg-riv-vel-2026-08-23",
+      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Gauff vs. Pegula: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-gauff-pegula-2026-08-23",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Games"
       ],
-      "volume24hr": 7208.13,
-      "liquidity": 220711.77
-    },
-    {
-      "market": "Highest temperature in Taipei on August 24? \u2014 Will the highest temperature in Taipei be 32\u00b0C or higher on August 24?",
-      "prev": 0.305,
-      "now": 0.555,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Taipei",
-        "Highest temperature"
-      ],
-      "volume24hr": 4167.46,
-      "liquidity": 70.54
+      "volume24hr": 1066162.47,
+      "liquidity": 3828.55
     }
   ],
   "log": [
-    {
-      "ts": "17:00:01",
-      "text": " poll complete \u2014 1966 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:15:01",
       "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
@@ -269,6 +258,10 @@
     {
       "ts": "00:15:01",
       "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:30:02",
+      "text": " poll complete \u2014 1792 markets scanned, 10 flagged"
     }
   ]
 }
