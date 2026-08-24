@@ -1,152 +1,172 @@
 {
-  "lastUpdate": "2026-08-24 03:30:01 UTC",
+  "lastUpdate": "2026-08-24 03:45:01 UTC",
   "swings": [
     {
-      "market": "Seahawks vs. Titans \u2014 Seahawks Team Total: O/U 16.5",
-      "prev": 0.905,
-      "now": 0.1,
-      "delta": -0.805,
-      "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 1310630.45,
-      "liquidity": 110.62
-    },
-    {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Set 2 Winner: Tagger vs Starodubtseva",
-      "prev": 0.69,
-      "now": 0.0005,
-      "delta": -0.6895,
-      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 46.32,
-      "liquidity": 4753.51
-    },
-    {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva",
-      "prev": 0.535,
-      "now": 0.0005,
-      "delta": -0.5345,
-      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 331860.48,
-      "liquidity": 145137.62
-    },
-    {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Monterrey Open: Completed Match: Lilli Tagger vs Yulia Starodubtseva",
+      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $82,000 on August 25?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "now": 0.0345,
+      "delta": -0.4655,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 500.0,
-      "liquidity": 1791.45
+      "volume24hr": 103200.54,
+      "liquidity": 4695.24
     },
     {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Lilli Tagger vs. Yulia Starodubtseva: Total Sets O/U 2.5",
+      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $80,000 on August 25?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "now": 0.12,
+      "delta": -0.38,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 5.41,
-      "liquidity": 5826.25
+      "volume24hr": 124.75,
+      "liquidity": 4518.63
     },
     {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Tagger vs. Starodubtseva: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "market": "Bitcoin above ___ on August 24? \u2014 Will the price of Bitcoin be above $76,000 on August 24?",
+      "prev": 0.45,
+      "now": 0.775,
+      "delta": 0.325,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 333040.85,
-      "liquidity": 3158.47
+      "volume24hr": 591452.86,
+      "liquidity": 4570.32
     },
     {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Set Handicap: Tagger (-1.5) vs Starodubtseva (+1.5)",
+      "market": "Bitcoin above ___ on August 24? \u2014 Will the price of Bitcoin be above $78,000 on August 24?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "now": 0.23,
+      "delta": -0.27,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 333040.85,
-      "liquidity": 5269.57
+      "volume24hr": 591452.86,
+      "liquidity": 4630.25
     },
     {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Tagger vs. Starodubtseva: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Match O/U 22.5",
+      "prev": 0.7,
+      "now": 0.435,
+      "delta": -0.265,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 333040.85,
-      "liquidity": 3128.5
+      "volume24hr": 63249.38,
+      "liquidity": 7095.55
     },
     {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Tagger vs. Starodubtseva: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Set Handicap: Oliynykova (-1.5) vs Sherif (+1.5)",
+      "prev": 0.305,
+      "now": 0.5,
+      "delta": 0.195,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 333040.85,
-      "liquidity": 5742.42
+      "volume24hr": 63249.38,
+      "liquidity": 415937.31
     },
     {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Tagger vs. Starodubtseva: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Set 1 Games O/U 8.5",
+      "prev": 0.67,
+      "now": 0.5,
+      "delta": -0.17,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 333040.85,
-      "liquidity": 3163.42
+      "volume24hr": 53.25,
+      "liquidity": 415937.31
+    },
+    {
+      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $76,000 on August 25?",
+      "prev": 0.5,
+      "now": 0.665,
+      "delta": 0.165,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 103200.54,
+      "liquidity": 4578.47
+    },
+    {
+      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $78,000 on August 25?",
+      "prev": 0.5,
+      "now": 0.35,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 103200.54,
+      "liquidity": 4531.57
+    },
+    {
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Set Handicap: Sherif (-1.5) vs Oliynykova (+1.5)",
+      "prev": 0.645,
+      "now": 0.5,
+      "delta": -0.145,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 21.69,
+      "liquidity": 415937.31
     }
   ],
   "log": [
-    {
-      "ts": "20:15:01",
-      "text": " poll complete \u2014 2035 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:30:01",
       "text": " poll complete \u2014 2038 markets scanned, 10 flagged"
@@ -262,6 +282,10 @@
     {
       "ts": "03:30:01",
       "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:45:01",
+      "text": " poll complete \u2014 1718 markets scanned, 10 flagged"
     }
   ]
 }
