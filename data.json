@@ -1,104 +1,70 @@
 {
-  "lastUpdate": "2026-08-24 12:30:02 UTC",
+  "lastUpdate": "2026-08-24 12:45:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Any Player Ultra Kill?",
+      "market": "Roehampton 2: Radu Albot vs Leonardo Rossi \u2014 Roehampton 2, Great Britain, Qualifying: Completed Match: Radu Albot vs Leonardo Rossi",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 101631.55,
-      "liquidity": 23.81
-    },
-    {
-      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Ends in Daytime?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 101631.55,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Both Teams Destroy Barracks?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 101631.55,
-      "liquidity": 109.02
-    },
-    {
-      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin dip to $76,000 on August 24?",
-      "prev": 0.55,
-      "now": 0.16,
-      "delta": -0.39,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 4899.82,
-      "liquidity": 7371.66
-    },
-    {
-      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: INOX (-1.5) vs Butterfly (+1.5)",
-      "prev": 0.675,
-      "now": 0.31,
-      "delta": -0.365,
-      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 81873.83,
-      "liquidity": 10.75
-    },
-    {
-      "market": "Roehampton 2: Radu Albot vs Leonardo Rossi",
-      "prev": 0.395,
-      "now": 0.065,
-      "delta": -0.33,
+      "now": 0.9975,
+      "delta": 0.4975,
       "url": "https://polymarket.com/event/atp-albot-rossi-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 184856.39,
-      "liquidity": 262990.4
+      "volume24hr": 40.0,
+      "liquidity": 542.6
+    },
+    {
+      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 94378.42,
+      "liquidity": 196.02
+    },
+    {
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Both Teams Beat Roshan?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 104683.3,
+      "liquidity": 109.02
+    },
+    {
+      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 104683.3,
+      "liquidity": 109.02
     },
     {
       "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.355,
-      "now": 0.66,
-      "delta": 0.305,
+      "prev": 0.66,
+      "now": 0.275,
+      "delta": -0.385,
       "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
       "tags": [
         "Esports",
@@ -106,64 +72,85 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 2299.21,
-      "liquidity": 40.86
+      "volume24hr": 2346.21,
+      "liquidity": 25.94
     },
     {
-      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 3: Any Player Rampage?",
-      "prev": 0.225,
+      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: MASONIC vs HyperSpirit - Map 2 Winner",
+      "prev": 0.34,
+      "now": 0.0005,
+      "delta": -0.3395,
+      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 22976.24,
+      "liquidity": 247886.96
+    },
+    {
+      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: HS (-1.5) vs MASONIC (+1.5)",
+      "prev": 0.665,
+      "now": 0.995,
+      "delta": 0.33,
+      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 94378.42,
+      "liquidity": 8044.94
+    },
+    {
+      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.3,
+      "now": 0.0005,
+      "delta": -0.2995,
+      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 6738.13,
+      "liquidity": 16093.33
+    },
+    {
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Match O/U 21.5",
+      "prev": 0.235,
       "now": 0.5,
-      "delta": 0.275,
-      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
+      "delta": 0.265,
+      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 203.46,
+      "liquidity": 330139.43
+    },
+    {
+      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Counter-Strike: INOX Division vs Butterfly - Map 2 Winner",
+      "prev": 0.485,
+      "now": 0.715,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
       "tags": [
         "Esports",
-        "Dota 2",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 81.55,
-      "liquidity": 46.26
-    },
-    {
-      "market": "What price will Ethereum hit on August 24? \u2014 Will Ethereum dip to $2,400 on August 24?",
-      "prev": 0.22,
-      "now": 0.48,
-      "delta": 0.26,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Ethereum",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 53484.63,
-      "liquidity": 63.26
-    },
-    {
-      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 3: Any Player Ultra Kill?",
-      "prev": 0.29,
-      "now": 0.495,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 101631.55,
-      "liquidity": 100.5
+      "volume24hr": 12793.0,
+      "liquidity": 16277.95
     }
   ],
   "log": [
-    {
-      "ts": "05:15:01",
-      "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:30:01",
       "text": " poll complete \u2014 1745 markets scanned, 10 flagged"
@@ -279,6 +266,10 @@
     {
       "ts": "12:30:02",
       "text": " poll complete \u2014 1743 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:45:01",
+      "text": " poll complete \u2014 1784 markets scanned, 10 flagged"
     }
   ]
 }
