@@ -1,112 +1,25 @@
 {
-  "lastUpdate": "2026-08-24 23:00:01 UTC",
+  "lastUpdate": "2026-08-24 23:15:01 UTC",
   "swings": [
     {
-      "market": "Will there be a run scored in the first inning?: Tampa Bay Rays vs. Detroit Tigers",
-      "prev": 0.425,
-      "now": 0.9995,
-      "delta": 0.5745,
-      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 28736.31,
-      "liquidity": 56532.85
-    },
-    {
-      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering",
-      "prev": 0.835,
-      "now": 0.285,
-      "delta": -0.55,
-      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "market": "Winston-Salem Open: Roman Safiullin vs Hugo Grenier \u2014 Set 1 Winner: Safiullin vs Grenier",
+      "prev": 0.725,
+      "now": 0.005,
+      "delta": -0.72,
+      "url": "https://polymarket.com/event/atp-safiull-grenier-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 217628.32,
-      "liquidity": 488563.79
+      "volume24hr": 834.36,
+      "liquidity": 18093.89
     },
     {
-      "market": "Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas \u2014 Set 1 Winner: Brooksby vs Tsitsipas",
-      "prev": 0.395,
-      "now": 0.9,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/atp-brooksb-tsitsip-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 529.46,
-      "liquidity": 4278.23
-    },
-    {
-      "market": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez \u2014 Set 1 Winner: Dolehide vs Podrez",
-      "prev": 0.575,
-      "now": 0.078,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 232.05,
-      "liquidity": 1165.68
-    },
-    {
-      "market": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez \u2014 Set Handicap: Dolehide (-1.5) vs Podrez (+1.5)",
-      "prev": 0.575,
-      "now": 0.1105,
-      "delta": -0.4645,
-      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 78353.11,
-      "liquidity": 36282.69
-    },
-    {
-      "market": "Will the game go to extra innings?: Colorado Rockies vs. Washington Nationals",
-      "prev": 0.085,
-      "now": 0.5,
-      "delta": 0.415,
-      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.75,
-      "liquidity": 311501.4
-    },
-    {
-      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.125,
-      "delta": -0.375,
-      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 680897.42,
-      "liquidity": 242.25
-    },
-    {
-      "market": "LoL: INTZ e-Sports vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 LoL: INTZ e-Sports vs Vivo Keyd Stars Academy - Game 2 Winner",
-      "prev": 0.83,
-      "now": 0.47,
-      "delta": -0.36,
+      "market": "LoL: INTZ e-Sports vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.535,
+      "now": 0.0005,
+      "delta": -0.5345,
       "url": "https://polymarket.com/event/lol-itz-vksa-2026-08-24",
       "tags": [
         "Esports",
@@ -114,44 +27,123 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 38228.98,
-      "liquidity": 36825.69
+      "volume24hr": 2908.01,
+      "liquidity": 36146.09
     },
     {
-      "market": "Will there be a run scored in the first inning?: Boston Red Sox vs. Miami Marlins",
-      "prev": 0.36,
-      "now": 0.005,
-      "delta": -0.355,
-      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 11794.55,
-      "liquidity": 120963.25
-    },
-    {
-      "market": "Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas \u2014 Set Handicap: Tsitsipas (-1.5) vs Brooksby (+1.5)",
-      "prev": 0.39,
-      "now": 0.08,
-      "delta": -0.31,
+      "market": "Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas \u2014 Set 1 Winner: Brooksby vs Tsitsipas",
+      "prev": 0.9,
+      "now": 0.4,
+      "delta": -0.5,
       "url": "https://polymarket.com/event/atp-brooksb-tsitsip-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1366.89,
-      "liquidity": 300.98
+      "volume24hr": 529.46,
+      "liquidity": 859.49
+    },
+    {
+      "market": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez \u2014 Dolehide vs. Podrez: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 232837.11,
+      "liquidity": 5791.17
+    },
+    {
+      "market": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez \u2014 Dolehide vs. Podrez: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 232837.11,
+      "liquidity": 5791.73
+    },
+    {
+      "market": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez \u2014 Dolehide vs. Podrez: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 232837.11,
+      "liquidity": 5791.73
+    },
+    {
+      "market": "US Open, Qualification ATP: Otto Virtanen vs Ugo Blanchet \u2014 US Open, Qualification ATP: Completed Match: Otto Virtanen vs Ugo Blanchet",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-virtane-blanche-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 115808.08,
+      "liquidity": 1389.11
+    },
+    {
+      "market": "US Open, Qualification ATP: Otto Virtanen vs Ugo Blanchet \u2014 Otto Virtanen vs. Ugo Blanchet: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-virtane-blanche-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 115808.08,
+      "liquidity": 6058.19
+    },
+    {
+      "market": "US Open, Qualification ATP: Otto Virtanen vs Ugo Blanchet \u2014 Virtanen vs. Blanchet: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-virtane-blanche-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 115808.08,
+      "liquidity": 3036.28
+    },
+    {
+      "market": "US Open, Qualification ATP: Otto Virtanen vs Ugo Blanchet \u2014 Virtanen vs. Blanchet: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-virtane-blanche-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 28.87,
+      "liquidity": 6039.84
     }
   ],
   "log": [
-    {
-      "ts": "15:45:01",
-      "text": " poll complete \u2014 1804 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:00:01",
       "text": " poll complete \u2014 1782 markets scanned, 10 flagged"
@@ -267,6 +259,10 @@
     {
       "ts": "23:00:01",
       "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:15:01",
+      "text": " poll complete \u2014 1823 markets scanned, 10 flagged"
     }
   ]
 }
