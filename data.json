@@ -1,99 +1,85 @@
 {
-  "lastUpdate": "2026-08-24 20:15:02 UTC",
+  "lastUpdate": "2026-08-24 20:30:01 UTC",
   "swings": [
     {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: AS Roma O/U 2.5",
-      "prev": 0.21,
-      "now": 0.9955,
-      "delta": 0.7855,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 583.36,
-      "liquidity": 16311.25
-    },
-    {
-      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: Both Teams to Score in First Half",
-      "prev": 0.27,
-      "now": 0.9955,
-      "delta": 0.7255,
-      "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 1850.36,
-      "liquidity": 8599.24
-    },
-    {
-      "market": "Winston-Salem Open: Kamil Majchrzak vs Benjamin Bonzi \u2014 Set 2 Winner: Majchrzak vs Bonzi",
-      "prev": 0.71,
-      "now": 0.0005,
-      "delta": -0.7095,
-      "url": "https://polymarket.com/event/atp-majchrz-bonzi-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 296.56,
-      "liquidity": 972.15
-    },
-    {
-      "market": "Winston-Salem Open: Kamil Majchrzak vs Benjamin Bonzi \u2014 Kamil Majchrzak vs. Benjamin Bonzi: Total Sets O/U 2.5",
-      "prev": 0.7,
-      "now": 0.0005,
-      "delta": -0.6995,
-      "url": "https://polymarket.com/event/atp-majchrz-bonzi-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 95437.87,
-      "liquidity": 4203.16
-    },
-    {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 Spread: AS Roma (-2.5)",
-      "prev": 0.145,
-      "now": 0.805,
-      "delta": 0.66,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 3084.77,
-      "liquidity": 20408.47
-    },
-    {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: O/U 2.5",
-      "prev": 0.41,
+      "market": "US Open, Qualification ATP: Spencer Johnson vs Cristian Garin \u2014 US Open, Qualification ATP: Completed Match: Spencer Johnson vs Cristian Garin",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.5895,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-johnso-garin-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 375208.55,
+      "liquidity": 1389.11
+    },
+    {
+      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Fulham FC vs. Chelsea FC: Fulham FC 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 174226.77,
-      "liquidity": 208292.36
+      "volume24hr": 1994325.93,
+      "liquidity": 6460.58
     },
     {
-      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: 1st Half O/U 1.5",
-      "prev": 0.415,
-      "now": 0.9955,
-      "delta": 0.5805,
+      "market": "US Open, Qualification ATP: Spencer Johnson vs Cristian Garin \u2014 Game Spread: Johnson (-1.5) vs Garin (+1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-johnso-garin-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 375208.55,
+      "liquidity": 2814.62
+    },
+    {
+      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 117117.21,
+      "liquidity": 52.52
+    },
+    {
+      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: FC Schalke 04 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 117117.21,
+      "liquidity": 121.95
+    },
+    {
+      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: RC Deportivo A Coru\u00f1a 1st Half O/U 0.5",
+      "prev": 0.505,
+      "now": 0.995,
+      "delta": 0.49,
       "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
       "tags": [
         "Sports",
@@ -101,60 +87,73 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 1647.58,
-      "liquidity": 17149.24
+      "volume24hr": 384.24,
+      "liquidity": 3014.5
     },
     {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 Spread: AS Roma (-1.5)",
-      "prev": 0.41,
-      "now": 0.97,
-      "delta": 0.56,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
+      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: Hallescher FC O/U 1.5",
+      "prev": 0.135,
+      "now": 0.52,
+      "delta": 0.385,
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "DFB-Pokal"
       ],
-      "volume24hr": 33885.34,
-      "liquidity": 126866.51
+      "volume24hr": 945.69,
+      "liquidity": 499.57
     },
     {
-      "market": "Counter-Strike: 100 Thieves vs Eternal Fire (BO3) - IEM Beijing: Global Open Qualifier Playoffs \u2014 Map 1 Rounds Handicap: 100 Thieves (-3.5) vs Eternal Fire (+3.5)",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/cs2-100t-ef1-2026-08-24",
+      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Spread: Chelsea FC (-1.5)",
+      "prev": 0.695,
+      "now": 0.315,
+      "delta": -0.38,
+      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 109444.42,
-      "liquidity": 0.0
+      "volume24hr": 141196.69,
+      "liquidity": 89484.39
     },
     {
-      "market": "Counter-Strike: 100 Thieves vs Eternal Fire (BO3) - IEM Beijing: Global Open Qualifier Playoffs \u2014 Map 1 Rounds Handicap: Eternal Fire (-3.5) vs 100 Thieves (+3.5)",
-      "prev": 0.5,
-      "now": 1.0,
-      "delta": 0.5,
-      "url": "https://polymarket.com/event/cs2-100t-ef1-2026-08-24",
+      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: FC Schalke 04 O/U 1.5",
+      "prev": 0.62,
+      "now": 0.9945,
+      "delta": 0.3745,
+      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "DFB-Pokal"
       ],
-      "volume24hr": 109444.42,
-      "liquidity": 0.0
+      "volume24hr": 6771.6,
+      "liquidity": 128996.35
+    },
+    {
+      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Fulham FC vs. Chelsea FC: 2nd Half O/U 1.5",
+      "prev": 0.645,
+      "now": 0.9955,
+      "delta": 0.3505,
+      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 48.37,
+      "liquidity": 5938.42
     }
   ],
   "log": [
-    {
-      "ts": "13:00:02",
-      "text": " poll complete \u2014 1758 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:15:01",
       "text": " poll complete \u2014 1781 markets scanned, 10 flagged"
@@ -270,6 +269,10 @@
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:30:01",
+      "text": " poll complete \u2014 1898 markets scanned, 10 flagged"
     }
   ]
 }
