@@ -1,69 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 01:00:01 UTC",
+  "lastUpdate": "2026-08-24 01:15:01 UTC",
   "swings": [
     {
-      "market": "O'Higgins FC vs. CD Palestino \u2014 Will CD Palestino win on 2026-08-23?",
-      "prev": 0.245,
-      "now": 0.975,
-      "delta": 0.73,
-      "url": "https://polymarket.com/event/chi1-ohf-cdp-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer"
-      ],
-      "volume24hr": 40763.12,
-      "liquidity": 186305.52
-    },
-    {
-      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Atlanta United FC vs. Sporting Kansas City: Both Teams to Score",
-      "prev": 0.35,
+      "market": "Will Atl\u00e9tico San Luis vs. CF Pachuca end in a draw?",
+      "prev": 0.06,
       "now": 0.9995,
-      "delta": 0.6495,
-      "url": "https://polymarket.com/event/mls-atl-skc-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 12534.58,
-      "liquidity": 139226.6
-    },
-    {
-      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Atlanta United FC vs. Sporting Kansas City: Sporting Kansas City O/U 0.5",
-      "prev": 0.35,
-      "now": 0.9955,
-      "delta": 0.6455,
-      "url": "https://polymarket.com/event/mls-atl-skc-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "MLS"
-      ],
-      "volume24hr": 85.0,
-      "liquidity": 3310.84
-    },
-    {
-      "market": "Will O'Higgins FC vs. CD Palestino end in a draw?",
-      "prev": 0.635,
-      "now": 0.015,
-      "delta": -0.62,
-      "url": "https://polymarket.com/event/chi1-ohf-cdp-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer"
-      ],
-      "volume24hr": 5924.95,
-      "liquidity": 174095.14
-    },
-    {
-      "market": "Atl\u00e9tico San Luis vs. CF Pachuca \u2014 Will Atl\u00e9tico San Luis win on 2026-08-23?",
-      "prev": 0.34,
-      "now": 0.935,
-      "delta": 0.595,
+      "delta": 0.9395,
       "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23",
       "tags": [
         "Sports",
@@ -71,14 +13,119 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 143972.25,
-      "liquidity": 186981.14
+      "volume24hr": 47850.29,
+      "liquidity": 202627.57
     },
     {
-      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Spread: Atlanta United FC (-1.5)",
-      "prev": 0.785,
-      "now": 0.21,
-      "delta": -0.575,
+      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-10.5)",
+      "prev": 0.937,
+      "now": 0.0005,
+      "delta": -0.9365,
+      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 24122.05,
+      "liquidity": 47422.53
+    },
+    {
+      "market": "Atl\u00e9tico San Luis vs. CF Pachuca \u2014 Will Atl\u00e9tico San Luis win on 2026-08-23?",
+      "prev": 0.935,
+      "now": 0.0005,
+      "delta": -0.9345,
+      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 199122.43,
+      "liquidity": 306685.61
+    },
+    {
+      "market": "Atl\u00e9tico San Luis vs. CF Pachuca - More Markets \u2014 Atl\u00e9tico San Luis vs. CF Pachuca: Both Teams to Score",
+      "prev": 0.15,
+      "now": 0.9995,
+      "delta": 0.8495,
+      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 1605.55,
+      "liquidity": 41159.42
+    },
+    {
+      "market": "Atl\u00e9tico San Luis vs. CF Pachuca - More Markets \u2014 Atl\u00e9tico San Luis vs. CF Pachuca: O/U 1.5",
+      "prev": 0.155,
+      "now": 0.9995,
+      "delta": 0.8445,
+      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 8995.34,
+      "liquidity": 81697.56
+    },
+    {
+      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-13.5)",
+      "prev": 0.73,
+      "now": 0.0005,
+      "delta": -0.7295,
+      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 91629.56,
+      "liquidity": 70903.54
+    },
+    {
+      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-12.5)",
+      "prev": 0.715,
+      "now": 0.0005,
+      "delta": -0.7145,
+      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 21575.98,
+      "liquidity": 63846.89
+    },
+    {
+      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-14.5)",
+      "prev": 0.64,
+      "now": 0.0005,
+      "delta": -0.6395,
+      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 15852.33,
+      "liquidity": 74349.65
+    },
+    {
+      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Atlanta United FC vs. Sporting Kansas City: Atlanta United FC O/U 2.5",
+      "prev": 0.555,
+      "now": 0.005,
+      "delta": -0.55,
       "url": "https://polymarket.com/event/mls-atl-skc-2026-08-23-more-markets",
       "tags": [
         "Sports",
@@ -86,75 +133,26 @@
         "Soccer",
         "MLS"
       ],
-      "volume24hr": 1898.35,
-      "liquidity": 1176.74
+      "volume24hr": 855.91,
+      "liquidity": 12651.49
     },
     {
-      "market": "Atl\u00e9tico San Luis vs. CF Pachuca - More Markets \u2014 Atl\u00e9tico San Luis vs. CF Pachuca: Atl\u00e9tico San Luis O/U 0.5",
-      "prev": 0.445,
-      "now": 0.9955,
-      "delta": 0.5505,
-      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 839.92,
-      "liquidity": 9907.58
-    },
-    {
-      "market": "Washington Mystics vs. Portland Fire \u2014 Spread: Washington Mystics (-3.5)",
-      "prev": 0.205,
-      "now": 0.71,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/wnba-wsh-por-2026-08-23",
+      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-11.5)",
+      "prev": 0.54,
+      "now": 0.0005,
+      "delta": -0.5395,
+      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "WNBA",
         "Basketball"
       ],
-      "volume24hr": 29195.39,
-      "liquidity": 162401.97
-    },
-    {
-      "market": "Atl\u00e9tico San Luis vs. CF Pachuca - More Markets \u2014 Atl\u00e9tico San Luis vs. CF Pachuca: O/U 0.5",
-      "prev": 0.495,
-      "now": 0.9995,
-      "delta": 0.5045,
-      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 2735.19,
-      "liquidity": 80056.66
-    },
-    {
-      "market": "Atlanta Braves vs. Milwaukee Brewers: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 970.83,
-      "liquidity": 2490.16
+      "volume24hr": 45203.37,
+      "liquidity": 73878.16
     }
   ],
   "log": [
-    {
-      "ts": "17:45:01",
-      "text": " poll complete \u2014 1941 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:00:01",
       "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
@@ -270,6 +268,10 @@
     {
       "ts": "01:00:01",
       "text": " poll complete \u2014 1753 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:15:01",
+      "text": " poll complete \u2014 1748 markets scanned, 10 flagged"
     }
   ]
 }
