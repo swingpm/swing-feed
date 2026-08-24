@@ -1,152 +1,175 @@
 {
-  "lastUpdate": "2026-08-24 14:00:01 UTC",
+  "lastUpdate": "2026-08-24 14:15:02 UTC",
   "swings": [
     {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Augsburg: Completed Match: Andrej Nedic vs Juan Estevez",
+      "market": "Augsburg: Sandro Kopp vs Eduardo Ribeiro \u2014 Augsburg: Completed Match: Sandro Kopp vs Eduardo Ribeiro",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "url": "https://polymarket.com/event/atp-kopp-ribeiro-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 512922.81,
-      "liquidity": 800.04
+      "volume24hr": 106.0,
+      "liquidity": 791.51
     },
     {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Augsburg: Completed Match: Marko Topo vs Miguel Damas",
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Slay a Dragon?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 135844.62,
-      "liquidity": 750.54
+      "volume24hr": 1472292.41,
+      "liquidity": 109.02
     },
     {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Marko Topo vs. Miguel Damas: Total Sets O/U 2.5",
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Destroy Inhibitors?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 135844.62,
-      "liquidity": 5754.43
+      "volume24hr": 1472292.41,
+      "liquidity": 109.02
     },
     {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Match O/U 21.5",
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Any Player Penta Kill?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 368.2,
-      "liquidity": 5639.13
+      "volume24hr": 1472292.41,
+      "liquidity": 109.02
     },
     {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Set 2 Winner: Topo vs Damas",
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Odd/Even Total Kills?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 135844.62,
-      "liquidity": 3172.49
+      "volume24hr": 1472292.41,
+      "liquidity": 109.02
     },
     {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 26\u00b0C on August 24?",
+      "prev": 0.28,
+      "now": 0.665,
+      "delta": 0.385,
+      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Paris",
+        "France",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 135844.62,
-      "liquidity": 3038.16
+      "volume24hr": 5847.38,
+      "liquidity": 308.47
     },
     {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "market": "What price will Ethereum hit on August 24? \u2014 Will Ethereum dip to $2,400 on August 24?",
+      "prev": 0.48,
+      "now": 0.125,
+      "delta": -0.355,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Ethereum",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
       ],
-      "volume24hr": 81.08,
-      "liquidity": 5635.63
+      "volume24hr": 54317.88,
+      "liquidity": 2293.86
     },
     {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 27\u00b0C on August 24?",
+      "prev": 0.62,
+      "now": 0.3,
+      "delta": -0.32,
+      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Paris",
+        "France",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 135844.62,
-      "liquidity": 3043.13
+      "volume24hr": 4772.8,
+      "liquidity": 252.75
     },
     {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Set Handicap: Damas (-1.5) vs Topo (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin reach $80,000 on August 24?",
+      "prev": 0.35,
+      "now": 0.605,
+      "delta": 0.255,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
       ],
-      "volume24hr": 19.53,
-      "liquidity": 4778.84
+      "volume24hr": 22347.96,
+      "liquidity": 7655.47
     },
     {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin dip to $76,000 on August 24?",
+      "prev": 0.315,
+      "now": 0.065,
+      "delta": -0.25,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
       ],
-      "volume24hr": 62.41,
-      "liquidity": 5625.07
+      "volume24hr": 5704.3,
+      "liquidity": 12696.28
     }
   ],
   "log": [
-    {
-      "ts": "06:45:01",
-      "text": " poll complete \u2014 1726 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
@@ -262,6 +285,10 @@
     {
       "ts": "14:00:01",
       "text": " poll complete \u2014 1777 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:15:02",
+      "text": " poll complete \u2014 1793 markets scanned, 10 flagged"
     }
   ]
 }
