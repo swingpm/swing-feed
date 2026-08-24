@@ -1,101 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 09:15:01 UTC",
+  "lastUpdate": "2026-08-24 09:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game Handicap: ICxI (-1.5) vs Nemiga Gaming (+1.5)",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1787486.65,
-      "liquidity": 854.1
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1787486.65,
-      "liquidity": 854.1
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1787486.65,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1787486.65,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1787486.65,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.88,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Dota 2: Inner Circle vs Nemiga Gaming - Game 2 Winner",
-      "prev": 0.65,
-      "now": 0.9725,
-      "delta": 0.3225,
+      "now": 0.996,
+      "delta": 0.496,
       "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
       "tags": [
         "Esports",
@@ -103,44 +13,59 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 45505.46,
-      "liquidity": 141633.8
+      "volume24hr": 100845.22,
+      "liquidity": 1810.99
     },
     {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Penta Kill?",
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Ends in Daytime?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 100845.22,
+      "liquidity": 664.62
+    },
+    {
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 100845.22,
+      "liquidity": 664.62
+    },
+    {
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Games Total: O/U 2.5",
       "prev": 0.495,
-      "now": 0.2,
-      "delta": -0.295,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "now": 0.0005,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 178164.0,
-      "liquidity": 125.2
+      "volume24hr": 16.5,
+      "liquidity": 4075.84
     },
     {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.255,
-      "now": 0.5,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 178164.0,
-      "liquidity": 6.2
-    },
-    {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.305,
-      "now": 0.12,
-      "delta": -0.185,
+      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.095,
+      "delta": -0.405,
       "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
       "tags": [
         "Esports",
@@ -148,15 +73,86 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 421.2,
-      "liquidity": 36.92
+      "volume24hr": 66525.58,
+      "liquidity": 39.11
+    },
+    {
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 3: Any Player Rampage?",
+      "prev": 0.225,
+      "now": 0.5,
+      "delta": 0.275,
+      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 18.73,
+      "liquidity": 46.3
+    },
+    {
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 3: Any Player Ultra Kill?",
+      "prev": 0.29,
+      "now": 0.495,
+      "delta": 0.205,
+      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 100845.22,
+      "liquidity": 100.5
+    },
+    {
+      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.35,
+      "now": 0.24,
+      "delta": -0.11,
+      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 66525.58,
+      "liquidity": 40.05
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: FOX.Y (-1.5) vs Hanwha Life Esports Challengers (+1.5)",
+      "prev": 0.535,
+      "now": 0.64,
+      "delta": 0.105,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 36633.5,
+      "liquidity": 137975.16
+    },
+    {
+      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.52,
+      "now": 0.415,
+      "delta": -0.105,
+      "url": "https://polymarket.com/event/cs2-ntr-forzer-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5491.42,
+      "liquidity": 70.84
     }
   ],
   "log": [
-    {
-      "ts": "02:00:01",
-      "text": " poll complete \u2014 1725 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:15:01",
       "text": " poll complete \u2014 1710 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "09:15:01",
       "text": " poll complete \u2014 1751 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:30:01",
+      "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
     }
   ]
 }
