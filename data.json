@@ -1,136 +1,109 @@
 {
-  "lastUpdate": "2026-08-23 23:45:01 UTC",
+  "lastUpdate": "2026-08-24 00:00:01 UTC",
   "swings": [
     {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Winston-Salem Open: Completed Match: Martin Landaluce vs Mattia Bellucci",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 385124.88,
-      "liquidity": 1378.67
-    },
-    {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Set Handicap: Landaluce (-1.5) vs Bellucci (+1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 385124.88,
-      "liquidity": 3700.86
-    },
-    {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 58.36,
-      "liquidity": 4601.07
-    },
-    {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Martin Landaluce vs. Mattia Bellucci: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 385124.88,
-      "liquidity": 4465.57
-    },
-    {
-      "market": "Winston-Salem Open: Martin Landaluce vs Mattia Bellucci \u2014 Landaluce vs. Bellucci: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-landalu-bellucc-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 172.01,
-      "liquidity": 4863.51
-    },
-    {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
+      "market": "CA River Plate vs. CA V\u00e9lez Sarsfield \u2014 Will CA River Plate win on 2026-08-23?",
+      "prev": 0.8345,
+      "now": 0.195,
+      "delta": -0.6395,
+      "url": "https://polymarket.com/event/arg-riv-vel-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 241411.95,
-      "liquidity": 2039.73
+      "volume24hr": 133292.86,
+      "liquidity": 160565.8
     },
     {
-      "market": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC - More Markets \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/bra-cha-sao-2026-08-23-more-markets",
+      "market": "Will CA River Plate vs. CA V\u00e9lez Sarsfield end in a draw?",
+      "prev": 0.1425,
+      "now": 0.709,
+      "delta": 0.5665,
+      "url": "https://polymarket.com/event/arg-riv-vel-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Brazil Serie A"
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 241411.95,
-      "liquidity": 2039.73
+      "volume24hr": 2700.01,
+      "liquidity": 25129.81
     },
     {
-      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Busta vs. Vallejo: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Atlanta United FC vs. Sporting Kansas City: Sporting Kansas City 1st Half O/U 0.5",
+      "prev": 0.615,
+      "now": 0.1,
+      "delta": -0.515,
+      "url": "https://polymarket.com/event/mls-atl-skc-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "MLS"
+      ],
+      "volume24hr": 411.32,
+      "liquidity": 670.97
+    },
+    {
+      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Set 2 Winner: Busta vs Vallejo",
+      "prev": 0.24,
+      "now": 0.745,
+      "delta": 0.505,
       "url": "https://polymarket.com/event/atp-busta-vallejo-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 142848.7,
-      "liquidity": 5816.39
+      "volume24hr": 239.24,
+      "liquidity": 467.03
     },
     {
-      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Busta vs. Vallejo: Set 1 Games O/U 9.5",
+      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Gauff vs. Pegula: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-busta-vallejo-2026-08-24",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-pegula-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 142848.7,
-      "liquidity": 5366.46
+      "volume24hr": 4.17,
+      "liquidity": 5788.29
     },
     {
-      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Busta vs. Vallejo: Set 1 Games O/U 10.5",
+      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Gauff vs. Pegula: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-pegula-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 50.0,
+      "liquidity": 5747.27
+    },
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Gauff vs. Pegula: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-gauff-pegula-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 50.0,
+      "liquidity": 5777.97
+    },
+    {
+      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Winston-Salem Open: Completed Match: Pablo Carreno Busta vs Adolfo Vallejo",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
@@ -140,15 +113,41 @@
         "Sports",
         "Games"
       ],
-      "volume24hr": 142848.7,
-      "liquidity": 5604.63
+      "volume24hr": 215832.86,
+      "liquidity": 14.93
+    },
+    {
+      "market": "Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Total Rounds: Over/Under 20.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/val-nv2-g21-2026-08-23",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 265114.49,
+      "liquidity": 395.74
+    },
+    {
+      "market": "Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Total Rounds: Over/Under 19.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/val-nv2-g21-2026-08-23",
+      "tags": [
+        "Esports",
+        "Valorant",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 658.23,
+      "liquidity": 633.34
     }
   ],
   "log": [
-    {
-      "ts": "16:30:01",
-      "text": " poll complete \u2014 1984 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 1961 markets scanned, 10 flagged"
@@ -264,6 +263,10 @@
     {
       "ts": "23:45:01",
       "text": " poll complete \u2014 1838 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:00:01",
+      "text": " poll complete \u2014 1847 markets scanned, 10 flagged"
     }
   ]
 }
