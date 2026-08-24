@@ -1,11 +1,71 @@
 {
-  "lastUpdate": "2026-08-24 17:45:01 UTC",
+  "lastUpdate": "2026-08-24 18:00:01 UTC",
   "swings": [
     {
-      "market": "VSG Altglienicke vs. VfL Wolfsburg - More Markets \u2014 VSG Altglienicke vs. VfL Wolfsburg: VSG Altglienicke O/U 1.5",
-      "prev": 0.195,
-      "now": 0.995,
-      "delta": 0.8,
+      "market": "FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln - More Markets \u2014 FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln: 1. FC K\u00f6ln O/U 2.5",
+      "prev": 0.64,
+      "now": 0.0045,
+      "delta": -0.6355,
+      "url": "https://polymarket.com/event/dfb-wur-koe-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 4.76,
+      "liquidity": 8323.7
+    },
+    {
+      "market": "SC Verl vs. Hamburger SV - More Markets \u2014 SC Verl vs. Hamburger SV: SC Verl O/U 0.5",
+      "prev": 0.575,
+      "now": 0.0005,
+      "delta": -0.5745,
+      "url": "https://polymarket.com/event/dfb-scv-hsv-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 350.34,
+      "liquidity": 10208.79
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio O/U 0.5",
+      "prev": 0.43,
+      "now": 0.9995,
+      "delta": 0.5695,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 1388.63,
+      "liquidity": 33025.4
+    },
+    {
+      "market": "Dota 2: RE.Arise vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Dota 2: RE.Arise vs Team Lynx - Game 2 Winner",
+      "prev": 0.595,
+      "now": 0.035,
+      "delta": -0.56,
+      "url": "https://polymarket.com/event/dota2-rearis-lynx-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 32447.81,
+      "liquidity": 150692.08
+    },
+    {
+      "market": "VSG Altglienicke vs. VfL Wolfsburg - More Markets \u2014 VSG Altglienicke vs. VfL Wolfsburg: VfL Wolfsburg O/U 2.5",
+      "prev": 0.545,
+      "now": 0.005,
+      "delta": -0.54,
       "url": "https://polymarket.com/event/dfb-alt-wob-2026-08-24-more-markets",
       "tags": [
         "Sports",
@@ -13,142 +73,85 @@
         "Soccer",
         "DFB-Pokal"
       ],
-      "volume24hr": 282.8,
-      "liquidity": 7692.17
+      "volume24hr": 227.27,
+      "liquidity": 13732.83
     },
     {
-      "market": "LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 24.5 in Game 1?",
-      "prev": 0.3,
-      "now": 0.995,
-      "delta": 0.695,
-      "url": "https://polymarket.com/event/lol-gx-g2-2026-08-24",
+      "market": "Dota 2: RE.Arise vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Games Total: O/U 2.5",
+      "prev": 0.57,
+      "now": 0.045,
+      "delta": -0.525,
+      "url": "https://polymarket.com/event/dota2-rearis-lynx-2026-08-24",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 3265.63,
-      "liquidity": 250.56
+      "volume24hr": 7.27,
+      "liquidity": 47.9
     },
     {
-      "market": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
-      "prev": 0.605,
+      "market": "FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln - More Markets \u2014 Spread: 1. FC K\u00f6ln (-1.5)",
+      "prev": 0.515,
       "now": 0.0005,
-      "delta": -0.6045,
-      "url": "https://polymarket.com/event/wta-masarov-shymano-2026-08-24",
+      "delta": -0.5145,
+      "url": "https://polymarket.com/event/dfb-wur-koe-2026-08-24-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
       ],
-      "volume24hr": 461916.51,
-      "liquidity": 768817.08
+      "volume24hr": 7812.06,
+      "liquidity": 134485.09
     },
     {
-      "market": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich \u2014 US Open, Qualification WTA: Completed Match: Rebeka Masarova vs Iryna Shymanovich",
+      "market": "SC Verl vs. Hamburger SV - More Markets \u2014 SC Verl vs. Hamburger SV: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.0045,
+      "delta": -0.5005,
+      "url": "https://polymarket.com/event/dfb-scv-hsv-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 112285.23,
+      "liquidity": 2752.65
+    },
+    {
+      "market": "FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln - More Markets \u2014 FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln: Both Teams to Score in Second Half",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/dfb-wur-koe-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
+      ],
+      "volume24hr": 92425.05,
+      "liquidity": 2719.3
+    },
+    {
+      "market": "Philadelphia: Veronika Erjavec vs Julia Grabher \u2014 Philadelphia: Completed Match: Veronika Erjavec vs Julia Grabher",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-masarov-shymano-2026-08-24",
+      "url": "https://polymarket.com/event/wta-erjavec-grabher-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 463830.94,
-      "liquidity": 755.51
-    },
-    {
-      "market": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini \u2014 US Open, Qualification WTA: Completed Match: Ayla Aksu vs Lucrezia Stefanini",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-aksu-stefani-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 120642.56,
-      "liquidity": 755.51
-    },
-    {
-      "market": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini \u2014 Ayla Aksu vs. Lucrezia Stefanini: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-aksu-stefani-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 17.49,
-      "liquidity": 5723.59
-    },
-    {
-      "market": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini \u2014 Aksu vs. Stefanini: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-aksu-stefani-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 120642.56,
-      "liquidity": 2722.06
-    },
-    {
-      "market": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini \u2014 Aksu vs. Stefanini: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-aksu-stefani-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 351.62,
-      "liquidity": 5304.42
-    },
-    {
-      "market": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini \u2014 Aksu vs. Stefanini: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-aksu-stefani-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 120642.56,
-      "liquidity": 2702.65
-    },
-    {
-      "market": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini \u2014 Aksu vs. Stefanini: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-aksu-stefani-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 5683.99
+      "volume24hr": 135287.01,
+      "liquidity": 955.51
     }
   ],
   "log": [
-    {
-      "ts": "10:30:02",
-      "text": " poll complete \u2014 1741 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:45:01",
       "text": " poll complete \u2014 1754 markets scanned, 10 flagged"
@@ -264,6 +267,10 @@
     {
       "ts": "17:45:01",
       "text": " poll complete \u2014 1864 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:00:01",
+      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
     }
   ]
 }
