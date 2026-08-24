@@ -1,101 +1,101 @@
 {
-  "lastUpdate": "2026-08-24 09:00:02 UTC",
+  "lastUpdate": "2026-08-24 09:15:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Total Rounds: Over/Under 24.5",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 63250.63,
-      "liquidity": 520.81
+      "volume24hr": 1787486.65,
+      "liquidity": 854.1
     },
     {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Rounds Handicap: BET-M 33 (-3.5) vs HyperSpirit (+3.5)",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1787486.65,
+      "liquidity": 854.1
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay a Dragon?",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 63250.63,
+      "volume24hr": 1787486.65,
       "liquidity": 109.02
     },
     {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Rounds Handicap: BET-M 33 (-6.5) vs HyperSpirit (+6.5)",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Quadra Kill?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 63250.63,
+      "volume24hr": 1787486.65,
       "liquidity": 109.02
     },
     {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Rounds Handicap: BET-M 33 (-9.5) vs HyperSpirit (+9.5)",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Penta Kill?",
       "prev": 0.5,
       "now": 0.1,
       "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 63250.63,
-      "liquidity": 144.02
+      "volume24hr": 1787486.65,
+      "liquidity": 109.02
     },
     {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Total Rounds: Over/Under 18.5",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Odd/Even Total Kills?",
       "prev": 0.5,
       "now": 0.9,
       "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 63250.63,
-      "liquidity": 144.02
-    },
-    {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.225,
-      "now": 0.5,
-      "delta": 0.275,
-      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 72917.3,
-      "liquidity": 343796.48
+      "volume24hr": 5.88,
+      "liquidity": 109.02
     },
     {
       "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Dota 2: Inner Circle vs Nemiga Gaming - Game 2 Winner",
-      "prev": 0.395,
-      "now": 0.65,
-      "delta": 0.255,
+      "prev": 0.65,
+      "now": 0.9725,
+      "delta": 0.3225,
       "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
       "tags": [
         "Esports",
@@ -103,60 +103,56 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 27203.99,
-      "liquidity": 184424.84
+      "volume24hr": 45505.46,
+      "liquidity": 141633.8
     },
     {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Any Player Ultra Kill?",
-      "prev": 0.29,
-      "now": 0.5,
-      "delta": 0.21,
-      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.495,
+      "now": 0.2,
+      "delta": -0.295,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 72917.3,
-      "liquidity": 343796.48
+      "volume24hr": 178164.0,
+      "liquidity": 125.2
     },
     {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Both Teams Destroy Barracks?",
-      "prev": 0.31,
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.255,
       "now": 0.5,
-      "delta": 0.19,
-      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 72917.3,
-      "liquidity": 343796.48
+      "volume24hr": 178164.0,
+      "liquidity": 6.2
     },
     {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Both Teams Beat Roshan?",
-      "prev": 0.335,
-      "now": 0.5,
-      "delta": 0.165,
-      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.305,
+      "now": 0.12,
+      "delta": -0.185,
+      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
       "tags": [
         "Esports",
-        "Dota 2",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 72917.3,
-      "liquidity": 343796.48
+      "volume24hr": 421.2,
+      "liquidity": 36.92
     }
   ],
   "log": [
-    {
-      "ts": "01:45:01",
-      "text": " poll complete \u2014 1747 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:00:01",
       "text": " poll complete \u2014 1725 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "09:00:02",
       "text": " poll complete \u2014 1714 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:15:01",
+      "text": " poll complete \u2014 1751 markets scanned, 10 flagged"
     }
   ]
 }
