@@ -1,166 +1,149 @@
 {
-  "lastUpdate": "2026-08-24 13:00:02 UTC",
+  "lastUpdate": "2026-08-24 13:15:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: INOX (-1.5) vs Butterfly (+1.5)",
-      "prev": 0.38,
-      "now": 0.995,
-      "delta": 0.615,
-      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 100205.3,
-      "liquidity": 3850.21
-    },
-    {
-      "market": "Counter-Strike: Lavked vs Vexar (BO3) - Exort Fiesta Group Stage",
-      "prev": 0.71,
-      "now": 0.2,
-      "delta": -0.51,
-      "url": "https://polymarket.com/event/cs2-lavked-vex1-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 54699.15,
-      "liquidity": 114926.66
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Set 2 Winner: Nedic vs Estevez",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 105672.97,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: HyperSpirit (-3.5) vs MASONIC (+3.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 105672.97,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: HyperSpirit (-6.5) vs MASONIC (+6.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 105672.97,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: HyperSpirit (-9.5) vs MASONIC (+9.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 105672.97,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Counter-Strike: Lavked vs Vexar (BO3) - Exort Fiesta Group Stage \u2014 Counter-Strike: Lavked vs Vexar - Map 2 Winner",
-      "prev": 0.36,
       "now": 0.0005,
-      "delta": -0.3595,
-      "url": "https://polymarket.com/event/cs2-lavked-vex1-2026-08-24",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 265669.66,
+      "liquidity": 2780.05
+    },
+    {
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 265669.66,
+      "liquidity": 2709.65
+    },
+    {
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 265669.66,
+      "liquidity": 2709.65
+    },
+    {
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 265669.66,
+      "liquidity": 2696.93
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Set 1 Winner: Topo vs Damas",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 17.0,
+      "liquidity": 5649.45
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 76851.12,
+      "liquidity": 4773.56
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 76851.12,
+      "liquidity": 4745.65
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 76851.12,
+      "liquidity": 5282.14
+    },
+    {
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez",
+      "prev": 0.6815,
+      "now": 0.261,
+      "delta": -0.4205,
+      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 265002.38,
+      "liquidity": 262587.33
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 4379.19,
-      "liquidity": 57255.8
-    },
-    {
-      "market": "Counter-Strike: Lavked vs Vexar (BO3) - Exort Fiesta Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.64,
-      "now": 0.9945,
-      "delta": 0.3545,
-      "url": "https://polymarket.com/event/cs2-lavked-vex1-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 66811.42,
-      "liquidity": 670.79
-    },
-    {
-      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
-      "prev": 0.16,
-      "now": 0.5,
-      "delta": 0.34,
-      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 100205.3,
-      "liquidity": 325638.07
-    },
-    {
-      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin reach $80,000 on August 24?",
-      "prev": 0.455,
-      "now": 0.76,
-      "delta": 0.305,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 16687.77,
-      "liquidity": 5974.12
+      "volume24hr": 1459261.04,
+      "liquidity": 109.02
     }
   ],
   "log": [
-    {
-      "ts": "05:45:01",
-      "text": " poll complete \u2014 1735 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:00:01",
       "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
@@ -276,6 +259,10 @@
     {
       "ts": "13:00:02",
       "text": " poll complete \u2014 1758 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:15:01",
+      "text": " poll complete \u2014 1781 markets scanned, 10 flagged"
     }
   ]
 }
