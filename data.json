@@ -1,154 +1,152 @@
 {
-  "lastUpdate": "2026-08-24 21:15:01 UTC",
+  "lastUpdate": "2026-08-24 21:30:01 UTC",
   "swings": [
     {
-      "market": "Winston-Salem Open: Adam Walton vs Jesper de Jong \u2014 Winston-Salem Open: Completed Match: Adam Walton vs Jesper de Jong",
-      "prev": 0.5,
+      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Dota 2: DYNASTY vs FTS - Game 2 Winner",
+      "prev": 0.415,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-walton-jong-2026-08-24",
+      "delta": 0.5845,
+      "url": "https://polymarket.com/event/dota2-dynast1-fts-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 113607.94,
-      "liquidity": 1389.11
+      "volume24hr": 81699.49,
+      "liquidity": 600171.52
     },
     {
-      "market": "Winston-Salem Open: Adam Walton vs Jesper de Jong \u2014 Walton vs. Jong: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-walton-jong-2026-08-24",
+      "market": "Dota 2: DYNASTY vs FTS (BO3) - EPL Masters 2 Play-In Group A \u2014 Games Total: O/U 2.5",
+      "prev": 0.54,
+      "now": 0.0005,
+      "delta": -0.5395,
+      "url": "https://polymarket.com/event/dota2-dynast1-fts-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 113607.94,
-      "liquidity": 3253.61
+      "volume24hr": 103.87,
+      "liquidity": 12735.36
     },
     {
-      "market": "Winston-Salem Open: Adam Walton vs Jesper de Jong \u2014 Adam Walton vs. Jesper de Jong: Total Sets O/U 2.5",
+      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: Both Teams to Score in Second Half",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-walton-jong-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 113607.94,
-      "liquidity": 5722.05
-    },
-    {
-      "market": "Winston-Salem Open: Adam Walton vs Jesper de Jong \u2014 Walton vs. Jong: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-walton-jong-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 113607.94,
-      "liquidity": 3040.42
-    },
-    {
-      "market": "Winston-Salem Open: Adam Walton vs Jesper de Jong \u2014 Walton vs. Jong: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-walton-jong-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 19.81,
-      "liquidity": 5613.81
-    },
-    {
-      "market": "Winston-Salem Open: Adam Walton vs Jesper de Jong \u2014 Walton vs. Jong: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-walton-jong-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 113607.94,
-      "liquidity": 3254.42
-    },
-    {
-      "market": "Winston-Salem Open: Adam Walton vs Jesper de Jong \u2014 Set Handicap: Walton (-1.5) vs Jong (+1.5)",
-      "prev": 0.51,
-      "now": 0.9995,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/atp-walton-jong-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 113607.94,
-      "liquidity": 5898.36
-    },
-    {
-      "market": "Gil Vicente FC vs. Casa Pia AC - More Markets \u2014 Gil Vicente FC vs. Casa Pia AC: O/U 4.5",
-      "prev": 0.0055,
-      "now": 0.495,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/por-gil-cas-2026-08-24-more-markets",
+      "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Primeira Liga"
+        "La Liga"
       ],
-      "volume24hr": 3657.13,
-      "liquidity": 82.01
+      "volume24hr": 442894.14,
+      "liquidity": 3396.28
     },
     {
-      "market": "Gil Vicente FC vs. Casa Pia AC - More Markets \u2014 Gil Vicente FC vs. Casa Pia AC: Casa Pia AC O/U 1.5",
-      "prev": 0.0125,
-      "now": 0.5,
-      "delta": 0.4875,
-      "url": "https://polymarket.com/event/por-gil-cas-2026-08-24-more-markets",
+      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: M\u00e1laga CF 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Primeira Liga"
+        "La Liga"
       ],
-      "volume24hr": 16.38,
-      "liquidity": 0.03
+      "volume24hr": 442894.14,
+      "liquidity": 3435.92
     },
     {
-      "market": "Winston-Salem Open: Adam Walton vs Jesper de Jong \u2014 Walton vs. Jong: Match O/U 21.5",
-      "prev": 0.42,
-      "now": 0.0005,
-      "delta": -0.4195,
-      "url": "https://polymarket.com/event/atp-walton-jong-2026-08-24",
+      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 US Open, Qualification ATP: Completed Match: Raul Brancaccio vs Thiago Seyboth Wild",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 113607.94,
-      "liquidity": 5620.23
+      "volume24hr": 267705.89,
+      "liquidity": 458.51
+    },
+    {
+      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Brancaccio vs. Wild: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 267705.89,
+      "liquidity": 727.6
+    },
+    {
+      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Brancaccio vs. Wild: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 267705.89,
+      "liquidity": 738.21
+    },
+    {
+      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Raul Brancaccio vs. Thiago Seyboth Wild: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 23.53,
+      "liquidity": 846.45
+    },
+    {
+      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Brancaccio vs. Wild: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 26.7,
+      "liquidity": 738.21
+    },
+    {
+      "market": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild \u2014 Brancaccio vs. Wild: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-brancac-wild-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 267705.89,
+      "liquidity": 738.16
     }
   ],
   "log": [
-    {
-      "ts": "14:00:01",
-      "text": " poll complete \u2014 1777 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:15:02",
       "text": " poll complete \u2014 1793 markets scanned, 10 flagged"
@@ -264,6 +262,10 @@
     {
       "ts": "21:15:01",
       "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:30:01",
+      "text": " poll complete \u2014 1869 markets scanned, 10 flagged"
     }
   ]
 }
