@@ -1,162 +1,154 @@
 {
-  "lastUpdate": "2026-08-24 20:45:01 UTC",
+  "lastUpdate": "2026-08-24 21:00:01 UTC",
   "swings": [
     {
-      "market": "Will Hallescher FC vs. FC Schalke 04 end in a draw?",
-      "prev": 0.08,
-      "now": 0.9995,
-      "delta": 0.9195,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24",
+      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Fulham FC vs. Chelsea FC: 2nd Half O/U 2.5",
+      "prev": 0.6,
+      "now": 0.005,
+      "delta": -0.595,
+      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "DFB-Pokal"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 23581.67,
-      "liquidity": 403181.5
+      "volume24hr": 11.23,
+      "liquidity": 5346.05
     },
     {
-      "market": "Hallescher FC vs. FC Schalke 04 \u2014 Will FC Schalke 04 win on 2026-08-24?",
-      "prev": 0.91,
-      "now": 0.0005,
-      "delta": -0.9095,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 79878.39,
-      "liquidity": 645037.38
-    },
-    {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: O/U 3.5",
-      "prev": 0.355,
-      "now": 0.9995,
-      "delta": 0.6445,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 24763.54,
-      "liquidity": 186419.42
-    },
-    {
-      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: O/U 3.5",
-      "prev": 0.36,
-      "now": 0.9995,
-      "delta": 0.6395,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 11791.77,
-      "liquidity": 176743.58
-    },
-    {
-      "market": "AS Roma vs. ACF Fiorentina - Exact Score \u2014 Exact Score: AS Roma 3 - 0 ACF Fiorentina?",
-      "prev": 0.635,
-      "now": 0.0005,
-      "delta": -0.6345,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 3744.42,
-      "liquidity": 37886.53
-    },
-    {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: Both Teams to Score in Second Half",
-      "prev": 0.51,
-      "now": 0.0045,
-      "delta": -0.5055,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 510809.07,
-      "liquidity": 2852.18
-    },
-    {
-      "market": "AS Roma vs. ACF Fiorentina - Exact Score \u2014 Exact Score: Any Other Score?",
+      "market": "US Open, Qualification WTA: Mia Ristic vs Ayana Akli \u2014 US Open, Qualification WTA: Completed Match: Mia Ristic vs Ayana Akli",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-exact-score",
+      "url": "https://polymarket.com/event/wta-ristic-akli-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "sea"
+        "Games"
       ],
-      "volume24hr": 159.08,
-      "liquidity": 19885.53
+      "volume24hr": 246826.57,
+      "liquidity": 1389.11
     },
     {
-      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: Both Teams to Score in Second Half",
+      "market": "US Open, Qualification WTA: Mia Ristic vs Ayana Akli \u2014 Ristic vs. Akli: Match O/U 23.5",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-ristic-akli-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
+        "Games"
       ],
-      "volume24hr": 135005.12,
-      "liquidity": 2235.12
+      "volume24hr": 246826.57,
+      "liquidity": 5640.2
     },
     {
-      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: 2nd Half O/U 2.5",
+      "market": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt \u2014 Gorzny vs. Hewitt: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gorzny-hewitt-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
+        "Games"
       ],
-      "volume24hr": 135005.12,
-      "liquidity": 2235.1
+      "volume24hr": 107971.44,
+      "liquidity": 3156.16
     },
     {
-      "market": "Hallescher FC vs. FC Schalke 04 - More Markets \u2014 Hallescher FC vs. FC Schalke 04: Hallescher FC 2nd Half O/U 1.5",
+      "market": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt \u2014 Gorzny vs. Hewitt: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/dfb-hal-s04-2026-08-24-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gorzny-hewitt-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 107971.44,
+      "liquidity": 3242.63
+    },
+    {
+      "market": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt \u2014 Gorzny vs. Hewitt: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gorzny-hewitt-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 107971.44,
+      "liquidity": 3166.72
+    },
+    {
+      "market": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt \u2014 Gorzny vs. Hewitt: Match O/U 23.5",
+      "prev": 0.49,
+      "now": 0.9895,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gorzny-hewitt-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 6.75,
+      "liquidity": 15.66
+    },
+    {
+      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Fulham FC vs. Chelsea FC: Fulham FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "DFB-Pokal"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 135005.12,
-      "liquidity": 2194.61
+      "volume24hr": 2224880.54,
+      "liquidity": 5315.69
+    },
+    {
+      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Fulham FC vs. Chelsea FC: Chelsea FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "volume24hr": 2224880.54,
+      "liquidity": 5300.05
+    },
+    {
+      "market": "US Open, Qualification WTA: Mia Ristic vs Ayana Akli \u2014 Game Spread: Ristic (-1.5) vs Akli (+1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/wta-ristic-akli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 246826.57,
+      "liquidity": 3413.57
     }
   ],
   "log": [
-    {
-      "ts": "13:30:02",
-      "text": " poll complete \u2014 1798 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:45:01",
       "text": " poll complete \u2014 1783 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "20:45:01",
       "text": " poll complete \u2014 1907 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:00:01",
+      "text": " poll complete \u2014 1870 markets scanned, 10 flagged"
     }
   ]
 }
