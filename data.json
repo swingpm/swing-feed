@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 09:30:01 UTC",
+  "lastUpdate": "2026-08-24 09:45:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game Handicap: ICxI (-1.5) vs Nemiga Gaming (+1.5)",
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Both Teams Beat Roshan?",
       "prev": 0.5,
-      "now": 0.996,
-      "delta": 0.496,
+      "now": 0.995,
+      "delta": 0.495,
       "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
       "tags": [
         "Esports",
@@ -13,26 +13,11 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 100845.22,
-      "liquidity": 1810.99
+      "volume24hr": 109553.47,
+      "liquidity": 717.51
     },
     {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Ends in Daytime?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 100845.22,
-      "liquidity": 664.62
-    },
-    {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Both Teams Destroy Barracks?",
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Any Player Ultra Kill?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
@@ -43,14 +28,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 100845.22,
-      "liquidity": 664.62
+      "volume24hr": 109553.47,
+      "liquidity": 717.51
     },
     {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Games Total: O/U 2.5",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
       "tags": [
         "Esports",
@@ -58,74 +43,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 16.5,
-      "liquidity": 4075.84
+      "volume24hr": 109553.47,
+      "liquidity": 717.51
     },
     {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
-      "prev": 0.5,
-      "now": 0.095,
-      "delta": -0.405,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 66525.58,
-      "liquidity": 39.11
-    },
-    {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 3: Any Player Rampage?",
-      "prev": 0.225,
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.14,
       "now": 0.5,
-      "delta": 0.275,
-      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 18.73,
-      "liquidity": 46.3
-    },
-    {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 3: Any Player Ultra Kill?",
-      "prev": 0.29,
-      "now": 0.495,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 100845.22,
-      "liquidity": 100.5
-    },
-    {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.35,
-      "now": 0.24,
-      "delta": -0.11,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 66525.58,
-      "liquidity": 40.05
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: FOX.Y (-1.5) vs Hanwha Life Esports Challengers (+1.5)",
-      "prev": 0.535,
-      "now": 0.64,
-      "delta": 0.105,
+      "delta": 0.36,
       "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
@@ -133,30 +58,105 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 36633.5,
-      "liquidity": 137975.16
+      "volume24hr": 230226.82,
+      "liquidity": 932870.09
     },
     {
-      "market": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.52,
-      "now": 0.415,
-      "delta": -0.105,
-      "url": "https://polymarket.com/event/cs2-ntr-forzer-2026-08-24",
+      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.095,
+      "now": 0.445,
+      "delta": 0.35,
+      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5491.42,
-      "liquidity": 70.84
+      "volume24hr": 68805.91,
+      "liquidity": 38.52
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.205,
+      "now": 0.5,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 230226.82,
+      "liquidity": 932870.09
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.74,
+      "now": 0.5,
+      "delta": -0.24,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 7.84,
+      "liquidity": 932870.09
+    },
+    {
+      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.24,
+      "now": 0.4495,
+      "delta": 0.2095,
+      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 68805.91,
+      "liquidity": 38.52
+    },
+    {
+      "market": "Highest temperature in Madrid on August 24? \u2014 Will the highest temperature in Madrid be 27\u00b0C on August 24?",
+      "prev": 0.37,
+      "now": 0.56,
+      "delta": 0.19,
+      "url": "https://polymarket.com/event/highest-temperature-in-madrid-on-august-24-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Madrid",
+        "Highest temperature"
+      ],
+      "volume24hr": 7476.53,
+      "liquidity": 516.39
+    },
+    {
+      "market": "Highest temperature in Madrid on August 24? \u2014 Will the highest temperature in Madrid be 28\u00b0C on August 24?",
+      "prev": 0.51,
+      "now": 0.33,
+      "delta": -0.18,
+      "url": "https://polymarket.com/event/highest-temperature-in-madrid-on-august-24-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Madrid",
+        "Highest temperature"
+      ],
+      "volume24hr": 3815.28,
+      "liquidity": 507.66
     }
   ],
   "log": [
-    {
-      "ts": "02:15:01",
-      "text": " poll complete \u2014 1710 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:30:02",
       "text": " poll complete \u2014 1703 markets scanned, 10 flagged"
@@ -272,6 +272,10 @@
     {
       "ts": "09:30:01",
       "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:45:01",
+      "text": " poll complete \u2014 1755 markets scanned, 10 flagged"
     }
   ]
 }
