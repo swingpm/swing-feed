@@ -1,167 +1,148 @@
 {
-  "lastUpdate": "2026-08-24 15:30:02 UTC",
+  "lastUpdate": "2026-08-24 15:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D \u2014 Counter-Strike: Alliance vs  Phantom Academy - Map 2 Winner",
-      "prev": 0.1125,
-      "now": 0.9995,
-      "delta": 0.887,
-      "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 20247.66,
-      "liquidity": 158587.55
-    },
-    {
-      "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D",
-      "prev": 0.1555,
-      "now": 0.735,
-      "delta": 0.5795,
-      "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 386440.76,
-      "liquidity": 101319.4
-    },
-    {
-      "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D \u2014 Games Total: O/U 2.5",
-      "prev": 0.52,
-      "now": 0.995,
-      "delta": 0.475,
-      "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 46.66,
-      "liquidity": 5160.27
-    },
-    {
-      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Set 1 Winner: Marino vs Ferro",
-      "prev": 0.56,
-      "now": 0.983,
-      "delta": 0.423,
-      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 30.27,
-      "liquidity": 943.31
-    },
-    {
-      "market": "What price will Ethereum hit on August 24? \u2014 Will Ethereum dip to $2,400 on August 24?",
-      "prev": 0.08,
-      "now": 0.47,
-      "delta": 0.39,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Ethereum",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 55849.47,
-      "liquidity": 116.51
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 First Blood in Game 1?",
-      "prev": 0.495,
-      "now": 0.115,
-      "delta": -0.38,
-      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 241.96,
-      "liquidity": 127.56
-    },
-    {
-      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro",
-      "prev": 0.465,
-      "now": 0.765,
-      "delta": 0.3,
-      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 58679.1,
-      "liquidity": 375130.74
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
+      "market": "US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov \u2014 Coppejans vs. Rodionov: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.23,
-      "delta": -0.27,
-      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-coppeja-rodiono-2026-08-24",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 802789.5,
-      "liquidity": 67.4
+      "volume24hr": 68459.12,
+      "liquidity": 4932.99
     },
     {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.43,
-      "now": 0.175,
-      "delta": -0.255,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "market": "US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov \u2014 Coppejans vs. Rodionov: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-coppeja-rodiono-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 97418.93,
-      "liquidity": 41.22
+      "volume24hr": 68459.12,
+      "liquidity": 4893.35
     },
     {
-      "market": "Bitcoin above ___ on August 24? \u2014 Will the price of Bitcoin be above $80,000 on August 24?",
-      "prev": 0.1855,
-      "now": 0.426,
-      "delta": 0.2405,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-24-2026",
+      "market": "US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov \u2014 Coppejans vs. Rodionov: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-coppeja-rodiono-2026-08-24",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 84799.89,
-      "liquidity": 12539.56
+      "volume24hr": 68459.12,
+      "liquidity": 4932.99
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Marino vs. Ferro: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 64912.38,
+      "liquidity": 5441.44
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Marino vs. Ferro: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 64912.38,
+      "liquidity": 5441.44
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Marino vs. Ferro: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 64912.38,
+      "liquidity": 5441.44
+    },
+    {
+      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Set 2 Winner: Hemery vs Barton",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 176687.91,
+      "liquidity": 2478.94
+    },
+    {
+      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Hemery vs. Barton: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 176687.91,
+      "liquidity": 4960.77
+    },
+    {
+      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Calvin Hemery vs. Hynek Barton: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 176687.91,
+      "liquidity": 5063.88
+    },
+    {
+      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Set Handicap: Hemery (-1.5) vs Barton (+1.5)",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 176687.91,
+      "liquidity": 4378.52
     }
   ],
   "log": [
-    {
-      "ts": "08:15:01",
-      "text": " poll complete \u2014 1682 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:30:01",
       "text": " poll complete \u2014 1708 markets scanned, 10 flagged"
@@ -277,6 +258,10 @@
     {
       "ts": "15:30:02",
       "text": " poll complete \u2014 1789 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:45:01",
+      "text": " poll complete \u2014 1804 markets scanned, 10 flagged"
     }
   ]
 }
