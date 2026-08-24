@@ -1,54 +1,137 @@
 {
-  "lastUpdate": "2026-08-24 01:45:01 UTC",
+  "lastUpdate": "2026-08-24 02:00:01 UTC",
   "swings": [
     {
-      "market": "Seahawks vs. Titans: 1H Moneyline",
-      "prev": 0.55,
+      "market": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch \u2014 Set Handicap: Hijikata (-1.5) vs Blanch (+1.5)",
+      "prev": 0.42,
+      "now": 0.9995,
+      "delta": 0.5795,
+      "url": "https://polymarket.com/event/atp-hijikat-blanc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 659.58,
+      "liquidity": 5217.82
+    },
+    {
+      "market": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch \u2014 Hijikata vs. Blanch: Match O/U 23.5",
+      "prev": 0.51,
+      "now": 0.0005,
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/atp-hijikat-blanc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 6.59,
+      "liquidity": 5611.88
+    },
+    {
+      "market": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch \u2014 Winston-Salem Open: Completed Match: Rinky Hijikata vs Darwin Blanch",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hijikat-blanc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 85166.81,
+      "liquidity": 1385.71
+    },
+    {
+      "market": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch \u2014 Rinky Hijikata vs. Darwin Blanch: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-hijikat-blanc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 85166.81,
+      "liquidity": 5561.82
+    },
+    {
+      "market": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch \u2014 Hijikata vs. Blanch: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hijikat-blanc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 6.72,
+      "liquidity": 5622.47
+    },
+    {
+      "market": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch \u2014 Hijikata vs. Blanch: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hijikat-blanc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 85166.81,
+      "liquidity": 3043.47
+    },
+    {
+      "market": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch \u2014 Hijikata vs. Blanch: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hijikat-blanc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 85166.81,
+      "liquidity": 3072.55
+    },
+    {
+      "market": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch \u2014 Hijikata vs. Blanch: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hijikat-blanc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 85166.81,
+      "liquidity": 3072.52
+    },
+    {
+      "market": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch \u2014 Game Spread: Hijikata (-2.5) vs Blanch (+2.5)",
+      "prev": 0.5,
       "now": 0.995,
-      "delta": 0.445,
-      "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-hijikat-blanc-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "NFL",
         "Games"
       ],
-      "volume24hr": 22425.69,
-      "liquidity": 198.7
+      "volume24hr": 85166.81,
+      "liquidity": 2816.22
     },
     {
-      "market": "Seahawks vs. Titans \u2014 1H Spread: Titans (-2.5)",
-      "prev": 0.165,
-      "now": 0.0005,
-      "delta": -0.1645,
-      "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 6297.68,
-      "liquidity": 31625.41
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Games Total: O/U 2.5",
-      "prev": 0.48,
-      "now": 0.61,
-      "delta": 0.13,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 376.27,
-      "liquidity": 96.53
-    },
-    {
-      "market": "Atlanta Braves vs. Milwaukee Brewers: O/U 7.5",
-      "prev": 0.245,
-      "now": 0.12,
-      "delta": -0.125,
+      "market": "Atlanta Braves vs. Milwaukee Brewers: O/U 4.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
       "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-23",
       "tags": [
         "Sports",
@@ -56,104 +139,11 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 226729.07,
-      "liquidity": 3427.86
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Valorant: Evil Geniuses vs KR\u00dc Esports - Map 2 Winner",
-      "prev": 0.485,
-      "now": 0.61,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 17058.4,
-      "liquidity": 131224.35
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map Handicap: KR\u00dc (-1.5) vs Evil Geniuses (+1.5)",
-      "prev": 0.515,
-      "now": 0.4,
-      "delta": -0.115,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3243.06,
-      "liquidity": 63.3
-    },
-    {
-      "market": "Seahawks vs. Titans \u2014 1H Spread: Titans (-3.5)",
-      "prev": 0.11,
-      "now": 0.0005,
-      "delta": -0.1095,
-      "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 351.0,
-      "liquidity": 2538.71
-    },
-    {
-      "market": "Atlanta Braves vs. Milwaukee Brewers \u2014 Spread: Atlanta Braves (-1.5)",
-      "prev": 0.605,
-      "now": 0.71,
-      "delta": 0.105,
-      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 30220.45,
-      "liquidity": 282.71
-    },
-    {
-      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 A'ja Wilson: Points O/U 27.5",
-      "prev": 0.095,
-      "now": 0.0,
-      "delta": -0.095,
-      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 565028.47,
-      "liquidity": 0.0
-    },
-    {
-      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Jackie Young: Points O/U 19.5",
-      "prev": 0.905,
-      "now": 1.0,
-      "delta": 0.095,
-      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 19.23,
-      "liquidity": 0.0
+      "volume24hr": 1005953.14,
+      "liquidity": 8.31
     }
   ],
   "log": [
-    {
-      "ts": "18:30:02",
-      "text": " poll complete \u2014 2017 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:45:02",
       "text": " poll complete \u2014 1985 markets scanned, 10 flagged"
@@ -269,6 +259,10 @@
     {
       "ts": "01:45:01",
       "text": " poll complete \u2014 1747 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:00:01",
+      "text": " poll complete \u2014 1725 markets scanned, 10 flagged"
     }
   ]
 }
