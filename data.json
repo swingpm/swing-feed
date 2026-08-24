@@ -1,150 +1,26 @@
 {
-  "lastUpdate": "2026-08-24 08:15:01 UTC",
+  "lastUpdate": "2026-08-24 08:30:01 UTC",
   "swings": [
     {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay a Dragon?",
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 1: Both Teams Beat Roshan?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 306.0,
-      "liquidity": 974.36
+      "volume24hr": 43733.95,
+      "liquidity": 641.58
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Total Rounds: Over/Under 24.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 225.0,
-      "liquidity": 907.43
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1411850.11,
-      "liquidity": 720.61
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.88,
-      "liquidity": 721.31
-    },
-    {
-      "market": "Highest temperature in Chengdu on August 24? \u2014 Will the highest temperature in Chengdu be 37\u00b0C on August 24?",
-      "prev": 0.5425,
-      "now": 0.9675,
-      "delta": 0.425,
-      "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Chengdu",
-        "Highest temperature"
-      ],
-      "volume24hr": 8345.79,
-      "liquidity": 375.32
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 145755.25,
-      "liquidity": 0.2
-    },
-    {
-      "market": "Highest temperature in Chengdu on August 24? \u2014 Will the highest temperature in Chengdu be 36\u00b0C on August 24?",
-      "prev": 0.405,
-      "now": 0.0005,
-      "delta": -0.4045,
-      "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Chengdu",
-        "Highest temperature"
-      ],
-      "volume24hr": 8315.03,
-      "liquidity": 16653.71
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.155,
-      "now": 0.5,
-      "delta": 0.345,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 145755.25,
-      "liquidity": 0.2
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Odd/Even Total Kills?",
-      "prev": 0.74,
-      "now": 0.5,
-      "delta": -0.24,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 7.84,
-      "liquidity": 10.88
-    },
-    {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: 33 (-1.5) vs HyperSpirit (+1.5)",
-      "prev": 0.495,
-      "now": 0.7,
-      "delta": 0.205,
+      "now": 0.105,
+      "delta": -0.395,
       "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
       "tags": [
         "Esports",
@@ -152,15 +28,139 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 9257.61,
-      "liquidity": 71.09
+      "volume24hr": 61513.66,
+      "liquidity": 43.85
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 4 Winner",
+      "prev": 0.71,
+      "now": 0.915,
+      "delta": 0.205,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 186636.59,
+      "liquidity": 234224.06
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 4.5",
+      "prev": 0.28,
+      "now": 0.085,
+      "delta": -0.195,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1295.81,
+      "liquidity": 662.29
+    },
+    {
+      "market": "Bitcoin Up or Down on August 24?",
+      "prev": 0.56,
+      "now": 0.415,
+      "delta": -0.145,
+      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-24-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Up or Down",
+        "Today \ud83d\ude80",
+        "Daily",
+        "Daily-Close"
+      ],
+      "volume24hr": 97977.64,
+      "liquidity": 44341.41
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-1.5) vs Kiwoom DRX Challengers (+1.5)",
+      "prev": 0.515,
+      "now": 0.605,
+      "delta": 0.09,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 19169.97,
+      "liquidity": 2.1
+    },
+    {
+      "market": "Bitcoin above ___ on August 24? \u2014 Will the price of Bitcoin be above $78,000 on August 24?",
+      "prev": 0.27,
+      "now": 0.18,
+      "delta": -0.09,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-24-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 4990.48,
+      "liquidity": 29124.23
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In",
+      "prev": 0.865,
+      "now": 0.945,
+      "delta": 0.08,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 318634.84,
+      "liquidity": 239124.54
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 2nd Half O/U 0.5",
+      "prev": 0.435,
+      "now": 0.355,
+      "delta": -0.08,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 56916.78,
+      "liquidity": 1118.5
+    },
+    {
+      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Dota 2: Inner Circle vs Nemiga Gaming - Game 2 Winner",
+      "prev": 0.53,
+      "now": 0.45,
+      "delta": -0.08,
+      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 326.23,
+      "liquidity": 1810.39
     }
   ],
   "log": [
-    {
-      "ts": "01:00:01",
-      "text": " poll complete \u2014 1753 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:15:01",
       "text": " poll complete \u2014 1748 markets scanned, 10 flagged"
@@ -276,6 +276,10 @@
     {
       "ts": "08:15:01",
       "text": " poll complete \u2014 1682 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:30:01",
+      "text": " poll complete \u2014 1708 markets scanned, 10 flagged"
     }
   ]
 }
