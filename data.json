@@ -1,154 +1,159 @@
 {
-  "lastUpdate": "2026-08-24 19:45:02 UTC",
+  "lastUpdate": "2026-08-24 20:00:01 UTC",
   "swings": [
     {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: ACF Fiorentina 1st Half O/U 0.5",
+      "market": "Fulham FC vs. Chelsea FC - More Markets \u2014 Fulham FC vs. Chelsea FC: Fulham FC 1st Half O/U 1.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
+      "url": "https://polymarket.com/event/epl-ful-che-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Premier League",
+        "EPL"
       ],
-      "volume24hr": 2632.16,
-      "liquidity": 10563.59
+      "volume24hr": 1016.58,
+      "liquidity": 20693.57
     },
     {
-      "market": "AS Roma vs. ACF Fiorentina - More Markets \u2014 AS Roma vs. ACF Fiorentina: ACF Fiorentina 1st Half O/U 1.5",
+      "market": "US Open, Qualification WTA: Mia Ristic vs Ayana Akli \u2014 Ristic vs. Akli: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/sea-rom-fio-2026-08-24-more-markets",
+      "url": "https://polymarket.com/event/wta-ristic-akli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 98926.05,
+      "liquidity": 3150.37
+    },
+    {
+      "market": "US Open, Qualification WTA: Mia Ristic vs Ayana Akli \u2014 Ristic vs. Akli: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-ristic-akli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 98926.05,
+      "liquidity": 3150.37
+    },
+    {
+      "market": "US Open, Qualification WTA: Mia Ristic vs Ayana Akli \u2014 Ristic vs. Akli: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-ristic-akli-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 98926.05,
+      "liquidity": 3146.69
+    },
+    {
+      "market": "Al Ittihad Saudi Club vs. Al Hazem SC - More Markets \u2014 Al Ittihad Saudi Club vs. Al Hazem SC: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/spl-ith-haz-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "sea"
+        "Saudi Professional League"
       ],
-      "volume24hr": 1003.39,
-      "liquidity": 4230.99
+      "volume24hr": 103184.83,
+      "liquidity": 5931.15
     },
     {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 US Open, Qualification ATP: Completed Match: Marco Cecchinato vs Liam Broady",
+      "market": "Al Ittihad Saudi Club vs. Al Hazem SC - More Markets \u2014 Al Ittihad Saudi Club vs. Al Hazem SC: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/spl-ith-haz-2026-08-24-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
       ],
-      "volume24hr": 55.0,
-      "liquidity": 1438.71
+      "volume24hr": 103184.83,
+      "liquidity": 5928.27
     },
     {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Set 2 Games O/U 8.5",
+      "market": "Al Ittihad Saudi Club vs. Al Hazem SC - More Markets \u2014 Al Ittihad Saudi Club vs. Al Hazem SC: Al Ittihad Saudi Club 2nd Half O/U 0.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/spl-ith-haz-2026-08-24-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
       ],
-      "volume24hr": 219037.83,
-      "liquidity": 3031.85
+      "volume24hr": 103184.83,
+      "liquidity": 5958.08
     },
     {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Marco Cecchinato vs. Liam Broady: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
+      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $70 on August 27?",
+      "prev": 0.982,
+      "now": 0.502,
+      "delta": -0.48,
+      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Solana",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 6.03,
-      "liquidity": 5643.81
+      "volume24hr": 150307.85,
+      "liquidity": 2.74
     },
     {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Set Handicap: Cecchinato (-1.5) vs Broady (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
+      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: 1st Half O/U 0.5",
+      "prev": 0.58,
+      "now": 0.996,
+      "delta": 0.416,
+      "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 118.08,
-      "liquidity": 3944.76
+      "volume24hr": 2193.06,
+      "liquidity": 21676.71
     },
     {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
+      "market": "Al Ittihad Saudi Club vs. Al Hazem SC - More Markets \u2014 Al Ittihad Saudi Club vs. Al Hazem SC: O/U 5.5",
+      "prev": 0.555,
+      "now": 0.155,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/spl-ith-haz-2026-08-24-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
       ],
-      "volume24hr": 219037.83,
-      "liquidity": 3461.21
-    },
-    {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 219037.83,
-      "liquidity": 6007.24
-    },
-    {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 219037.83,
-      "liquidity": 3428.25
-    },
-    {
-      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Cecchinato vs. Broady: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 219037.83,
-      "liquidity": 5610.84
+      "volume24hr": 19075.88,
+      "liquidity": 3714.89
     }
   ],
   "log": [
-    {
-      "ts": "12:30:02",
-      "text": " poll complete \u2014 1743 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1784 markets scanned, 10 flagged"
@@ -264,6 +269,10 @@
     {
       "ts": "19:45:02",
       "text": " poll complete \u2014 1896 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:00:01",
+      "text": " poll complete \u2014 1899 markets scanned, 10 flagged"
     }
   ]
 }
