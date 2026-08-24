@@ -1,45 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 05:45:01 UTC",
+  "lastUpdate": "2026-08-24 06:00:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 31\u00b0C on August 24?",
-      "prev": 0.455,
-      "now": 0.865,
-      "delta": 0.41,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 7242.19,
-      "liquidity": 513.85
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 32\u00b0C on August 24?",
-      "prev": 0.44,
-      "now": 0.125,
-      "delta": -0.315,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 4926.07,
-      "liquidity": 415.9
-    },
-    {
       "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 1 Winner",
-      "prev": 0.8,
-      "now": 0.495,
-      "delta": -0.305,
+      "prev": 0.495,
+      "now": 0.965,
+      "delta": 0.47,
       "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
@@ -47,14 +13,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 158381.4,
-      "liquidity": 161420.79
+      "volume24hr": 248553.01,
+      "liquidity": 123502.3
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-1.5) vs Kiwoom DRX Challengers (+1.5)",
+      "prev": 0.5,
+      "now": 0.68,
+      "delta": 0.18,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 18998.93,
+      "liquidity": 10.3
     },
     {
       "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 24?",
-      "prev": 0.27,
-      "now": 0.485,
-      "delta": 0.215,
+      "prev": 0.485,
+      "now": 0.335,
+      "delta": -0.15,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
       "tags": [
         "Weather",
@@ -64,31 +45,31 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 5676.53,
-      "liquidity": 644.26
+      "volume24hr": 6372.77,
+      "liquidity": 409.87
     },
     {
-      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 24?",
-      "prev": 0.695,
-      "now": 0.505,
-      "delta": -0.19,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
+      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 31\u00b0C on August 24?",
+      "prev": 0.865,
+      "now": 0.715,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
       "tags": [
         "Weather",
         "Recurring",
         "Hide From New",
+        "Seoul",
         "Daily Temperature",
-        "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 16527.0,
-      "liquidity": 620.92
+      "volume24hr": 8269.59,
+      "liquidity": 521.91
     },
     {
       "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: 2nd Half O/U 0.5",
-      "prev": 0.72,
-      "now": 0.595,
-      "delta": -0.125,
+      "prev": 0.595,
+      "now": 0.715,
+      "delta": 0.12,
       "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
       "tags": [
         "Sports",
@@ -96,44 +77,48 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 54908.07,
-      "liquidity": 236.11
+      "volume24hr": 57971.67,
+      "liquidity": 329.15
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 3.5",
-      "prev": 0.56,
-      "now": 0.67,
+      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 32\u00b0C on August 24?",
+      "prev": 0.125,
+      "now": 0.235,
       "delta": 0.11,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 2864.19,
-      "liquidity": 4261.43
+      "volume24hr": 5647.92,
+      "liquidity": 333.97
     },
     {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-2.5) vs Kiwoom DRX Challengers (+2.5)",
-      "prev": 0.48,
-      "now": 0.38,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 24?",
+      "prev": 0.505,
+      "now": 0.61,
+      "delta": 0.105,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
       ],
-      "volume24hr": 4484.27,
-      "liquidity": 4.8
+      "volume24hr": 17096.37,
+      "liquidity": 606.58
     },
     {
       "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 2nd Half O/U 0.5",
-      "prev": 0.455,
-      "now": 0.36,
-      "delta": -0.095,
+      "prev": 0.36,
+      "now": 0.45,
+      "delta": 0.09,
       "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
       "tags": [
         "Sports",
@@ -141,30 +126,43 @@
         "Soccer",
         "sea"
       ],
-      "volume24hr": 55309.2,
-      "liquidity": 871.4
+      "volume24hr": 55473.99,
+      "liquidity": 852.44
     },
     {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 2nd Half O/U 0.5",
-      "prev": 0.62,
-      "now": 0.535,
-      "delta": -0.085,
-      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "market": "# of views of MrBeast video day 2? \u2014 Will MrBeast's next video get between 41 and 43 million views on day 2?",
+      "prev": 0.375,
+      "now": 0.305,
+      "delta": -0.07,
+      "url": "https://polymarket.com/event/of-views-of-mrbeast-video-day-2-20260824",
       "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
+        "views",
+        "Culture",
+        "MrBeast",
+        "YouTube"
       ],
-      "volume24hr": 55309.2,
-      "liquidity": 776.36
+      "volume24hr": 3979.55,
+      "liquidity": 297.54
+    },
+    {
+      "market": "Highest temperature in Shanghai on August 24? \u2014 Will the highest temperature in Shanghai be 33\u00b0C on August 24?",
+      "prev": 0.09,
+      "now": 0.025,
+      "delta": -0.065,
+      "url": "https://polymarket.com/event/highest-temperature-in-shanghai-on-august-24-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Shanghai",
+        "Highest temperature"
+      ],
+      "volume24hr": 7189.52,
+      "liquidity": 1369.23
     }
   ],
   "log": [
-    {
-      "ts": "22:30:01",
-      "text": " poll complete \u2014 1887 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:45:02",
       "text": " poll complete \u2014 1903 markets scanned, 10 flagged"
@@ -280,6 +278,10 @@
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1735 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:00:01",
+      "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
     }
   ]
 }
