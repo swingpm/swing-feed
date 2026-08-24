@@ -1,26 +1,41 @@
 {
-  "lastUpdate": "2026-08-24 08:30:01 UTC",
+  "lastUpdate": "2026-08-24 08:45:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Game 1: Both Teams Beat Roshan?",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Quadra Kill?",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 43733.95,
-      "liquidity": 641.58
+      "volume24hr": 1619131.55,
+      "liquidity": 109.02
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1619131.55,
+      "liquidity": 109.02
     },
     {
       "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Total Rounds: Over/Under 24.5",
-      "prev": 0.5,
-      "now": 0.105,
-      "delta": -0.395,
+      "prev": 0.105,
+      "now": 0.5,
+      "delta": 0.395,
       "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
       "tags": [
         "Esports",
@@ -28,64 +43,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 61513.66,
-      "liquidity": 43.85
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 4 Winner",
-      "prev": 0.71,
-      "now": 0.915,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 186636.59,
-      "liquidity": 234224.06
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 4.5",
-      "prev": 0.28,
-      "now": 0.085,
-      "delta": -0.195,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1295.81,
-      "liquidity": 662.29
-    },
-    {
-      "market": "Bitcoin Up or Down on August 24?",
-      "prev": 0.56,
-      "now": 0.415,
-      "delta": -0.145,
-      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Up or Down",
-        "Today \ud83d\ude80",
-        "Daily",
-        "Daily-Close"
-      ],
-      "volume24hr": 97977.64,
-      "liquidity": 44341.41
+      "volume24hr": 62109.01,
+      "liquidity": 122726.71
     },
     {
       "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-1.5) vs Kiwoom DRX Challengers (+1.5)",
-      "prev": 0.515,
-      "now": 0.605,
-      "delta": 0.09,
+      "prev": 0.605,
+      "now": 0.9995,
+      "delta": 0.3945,
       "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
@@ -94,46 +59,73 @@
         "Sports"
       ],
       "volume24hr": 19169.97,
-      "liquidity": 2.1
+      "liquidity": 29149.05
     },
     {
-      "market": "Bitcoin above ___ on August 24? \u2014 Will the price of Bitcoin be above $78,000 on August 24?",
-      "prev": 0.27,
-      "now": 0.18,
-      "delta": -0.09,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-24-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 4990.48,
-      "liquidity": 29124.23
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In",
-      "prev": 0.865,
-      "now": 0.945,
-      "delta": 0.08,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.5,
+      "now": 0.725,
+      "delta": 0.225,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 318634.84,
-      "liquidity": 239124.54
+      "volume24hr": 7.84,
+      "liquidity": 29.12
     },
     {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 2nd Half O/U 0.5",
-      "prev": 0.435,
-      "now": 0.355,
-      "delta": -0.08,
+      "market": "# of views of MrBeast video day 2? \u2014 Will MrBeast's next video get between 41 and 43 million views on day 2?",
+      "prev": 0.425,
+      "now": 0.635,
+      "delta": 0.21,
+      "url": "https://polymarket.com/event/of-views-of-mrbeast-video-day-2-20260824",
+      "tags": [
+        "views",
+        "Culture",
+        "MrBeast",
+        "YouTube"
+      ],
+      "volume24hr": 5316.5,
+      "liquidity": 173.48
+    },
+    {
+      "market": "# of views of MrBeast video day 2? \u2014 Will MrBeast's next video get between 43 and 45 million views on day 2?",
+      "prev": 0.575,
+      "now": 0.365,
+      "delta": -0.21,
+      "url": "https://polymarket.com/event/of-views-of-mrbeast-video-day-2-20260824",
+      "tags": [
+        "views",
+        "Culture",
+        "MrBeast",
+        "YouTube"
+      ],
+      "volume24hr": 2394.03,
+      "liquidity": 246.96
+    },
+    {
+      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Total Rounds: Over/Under 21.5",
+      "prev": 0.3,
+      "now": 0.16,
+      "delta": -0.14,
+      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 62109.01,
+      "liquidity": 39.55
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 2nd Half O/U 0.5",
+      "prev": 0.535,
+      "now": 0.635,
+      "delta": 0.1,
       "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
       "tags": [
         "Sports",
@@ -141,30 +133,26 @@
         "Soccer",
         "sea"
       ],
-      "volume24hr": 56916.78,
-      "liquidity": 1118.5
+      "volume24hr": 58365.3,
+      "liquidity": 1303.21
     },
     {
-      "market": "Dota 2: Inner Circle vs Nemiga Gaming (BO3) - EPL Masters 2 Play-In Group A \u2014 Dota 2: Inner Circle vs Nemiga Gaming - Game 2 Winner",
-      "prev": 0.53,
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 2nd Half O/U 0.5",
+      "prev": 0.355,
       "now": 0.45,
-      "delta": -0.08,
-      "url": "https://polymarket.com/event/dota2-ic-nemiga-2026-08-24",
+      "delta": 0.095,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
       "tags": [
-        "Esports",
-        "Dota 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "sea"
       ],
-      "volume24hr": 326.23,
-      "liquidity": 1810.39
+      "volume24hr": 58365.3,
+      "liquidity": 1144.29
     }
   ],
   "log": [
-    {
-      "ts": "01:15:01",
-      "text": " poll complete \u2014 1748 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:30:01",
       "text": " poll complete \u2014 1764 markets scanned, 10 flagged"
@@ -280,6 +268,10 @@
     {
       "ts": "08:30:01",
       "text": " poll complete \u2014 1708 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:45:01",
+      "text": " poll complete \u2014 1688 markets scanned, 10 flagged"
     }
   ]
 }
