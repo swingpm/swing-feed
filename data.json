@@ -1,152 +1,148 @@
 {
-  "lastUpdate": "2026-08-24 22:00:01 UTC",
+  "lastUpdate": "2026-08-24 22:15:01 UTC",
   "swings": [
     {
-      "market": "Winston-Salem Open: Martin Damm vs Abedallah Shelbayh \u2014 Set Handicap: Damm (-1.5) vs Shelbayh (+1.5)",
-      "prev": 0.34,
+      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 131264.08,
+      "liquidity": 3041.23
+    },
+    {
+      "market": "Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo \u2014 Philadelphia: Completed Match: Ekaterina Ovcharenko vs Kaitlin Quevedo",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-ovchare-quevedo-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 112514.05,
+      "liquidity": 1790.09
+    },
+    {
+      "market": "Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo \u2014 Ekaterina Ovcharenko vs. Kaitlin Quevedo: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-ovchare-quevedo-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 112514.05,
+      "liquidity": 5641.19
+    },
+    {
+      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 US Open, Qualification ATP: Completed Match: Keegan Smith vs Alexis Galarneau",
+      "prev": 0.5,
       "now": 0.995,
-      "delta": 0.655,
-      "url": "https://polymarket.com/event/atp-damm-shelbay-2026-08-24",
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 109.83,
-      "liquidity": 3247.2
+      "volume24hr": 131264.08,
+      "liquidity": 1260.39
     },
     {
-      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Set 1 Winner: Choinski vs Rottgering",
-      "prev": 0.605,
-      "now": 0.0005,
-      "delta": -0.6045,
-      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 164.44,
-      "liquidity": 8217.4
-    },
-    {
-      "market": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt",
-      "prev": 0.51,
-      "now": 0.0005,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/atp-gorzny-hewitt-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 222975.93,
-      "liquidity": 666944.47
-    },
-    {
-      "market": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt \u2014 Winston-Salem Open: Completed Match: Sebastian Gorzny vs Cruz Hewitt",
+      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Keegan Smith vs. Alexis Galarneau: Total Sets O/U 2.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-gorzny-hewitt-2026-08-24",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 223713.82,
-      "liquidity": 1389.11
+      "volume24hr": 17.07,
+      "liquidity": 5523.09
     },
     {
-      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 1 Games O/U 8.5",
+      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Set 2 Winner: Smith vs Galarneau",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 89364.45,
-      "liquidity": 5801.69
+      "volume24hr": 131264.08,
+      "liquidity": 3381.67
     },
     {
-      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 1 Games O/U 9.5",
+      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 89364.45,
-      "liquidity": 5781.13
+      "volume24hr": 131264.08,
+      "liquidity": 2941.12
     },
     {
-      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 1 Games O/U 10.5",
+      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Match O/U 21.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 89364.45,
-      "liquidity": 5783.77
+      "volume24hr": 47.54,
+      "liquidity": 5285.87
     },
     {
-      "market": "US Open, Qualification WTA: Polina Kudermetova vs Linda Fruhvirtova \u2014 US Open, Qualification WTA: Completed Match: Polina Kudermetova vs Linda Fruhvirtova",
+      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Match O/U 22.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-kuderme-fruhvir-2026-08-24",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 73859.94,
-      "liquidity": 1785.11
+      "volume24hr": 58.4,
+      "liquidity": 5404.29
     },
     {
-      "market": "US Open, Qualification WTA: Polina Kudermetova vs Linda Fruhvirtova \u2014 Kudermetova vs. Fruhvirtova: Match O/U 21.5",
+      "market": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau \u2014 Smith vs. Galarneau: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-kuderme-fruhvir-2026-08-24",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-smit-galarne-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 17.92,
-      "liquidity": 5625.84
-    },
-    {
-      "market": "US Open, Qualification WTA: Polina Kudermetova vs Linda Fruhvirtova \u2014 Polina Kudermetova vs. Linda Fruhvirtova: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-kuderme-fruhvir-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 263.33,
-      "liquidity": 5744.64
+      "volume24hr": 131264.08,
+      "liquidity": 2946.07
     }
   ],
   "log": [
-    {
-      "ts": "14:45:01",
-      "text": " poll complete \u2014 1795 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:00:01",
       "text": " poll complete \u2014 1798 markets scanned, 10 flagged"
@@ -262,6 +258,10 @@
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:15:01",
+      "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
     }
   ]
 }
