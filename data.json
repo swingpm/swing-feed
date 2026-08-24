@@ -1,152 +1,166 @@
 {
-  "lastUpdate": "2026-08-24 05:30:01 UTC",
+  "lastUpdate": "2026-08-24 05:45:01 UTC",
   "swings": [
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Monterrey Open: Completed Match: Mayar Sherif vs Oleksandra Oliynykova",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 31\u00b0C on August 24?",
+      "prev": 0.455,
+      "now": 0.865,
+      "delta": 0.41,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 2050.0,
-      "liquidity": 9365.13
+      "volume24hr": 7242.19,
+      "liquidity": 513.85
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 32\u00b0C on August 24?",
+      "prev": 0.44,
+      "now": 0.125,
+      "delta": -0.315,
+      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Seoul",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 365614.03,
-      "liquidity": 2708.24
+      "volume24hr": 4926.07,
+      "liquidity": 415.9
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 1 Winner",
+      "prev": 0.8,
+      "now": 0.495,
+      "delta": -0.305,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 365614.03,
-      "liquidity": 2697.68
+      "volume24hr": 158381.4,
+      "liquidity": 161420.79
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Mayar Sherif vs. Oleksandra Oliynykova: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 24?",
+      "prev": 0.27,
+      "now": 0.485,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
       ],
-      "volume24hr": 96.64,
-      "liquidity": 5507.82
+      "volume24hr": 5676.53,
+      "liquidity": 644.26
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 24?",
+      "prev": 0.695,
+      "now": 0.505,
+      "delta": -0.19,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
       ],
-      "volume24hr": 570.93,
-      "liquidity": 5314.17
+      "volume24hr": 16527.0,
+      "liquidity": 620.92
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Set Handicap: Sherif (-1.5) vs Oliynykova (+1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a - More Markets \u2014 M\u00e1laga CF vs. RC Deportivo A Coru\u00f1a: 2nd Half O/U 0.5",
+      "prev": 0.72,
+      "now": 0.595,
+      "delta": -0.125,
+      "url": "https://polymarket.com/event/lal-mala-dep-2026-08-24-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 467.58,
-      "liquidity": 4298.61
+      "volume24hr": 54908.07,
+      "liquidity": 236.11
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 3.5",
+      "prev": 0.56,
+      "now": 0.67,
+      "delta": 0.11,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 365614.03,
-      "liquidity": 2762.44
+      "volume24hr": 2864.19,
+      "liquidity": 4261.43
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Set Handicap: Oliynykova (-1.5) vs Sherif (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-2.5) vs Kiwoom DRX Challengers (+2.5)",
+      "prev": 0.48,
+      "now": 0.38,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 365614.03,
-      "liquidity": 4435.39
+      "volume24hr": 4484.27,
+      "liquidity": 4.8
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 2nd Half O/U 0.5",
+      "prev": 0.455,
+      "now": 0.36,
+      "delta": -0.095,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "sea"
       ],
-      "volume24hr": 365614.03,
-      "liquidity": 4846.92
+      "volume24hr": 55309.2,
+      "liquidity": 871.4
     },
     {
-      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Sherif vs. Oliynykova: Match O/U 22.5",
-      "prev": 0.4,
-      "now": 0.005,
-      "delta": -0.395,
-      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 2nd Half O/U 0.5",
+      "prev": 0.62,
+      "now": 0.535,
+      "delta": -0.085,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "sea"
       ],
-      "volume24hr": 58.15,
-      "liquidity": 4846.92
+      "volume24hr": 55309.2,
+      "liquidity": 776.36
     }
   ],
   "log": [
-    {
-      "ts": "22:15:01",
-      "text": " poll complete \u2014 1928 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:30:01",
       "text": " poll complete \u2014 1887 markets scanned, 10 flagged"
@@ -262,6 +276,10 @@
     {
       "ts": "05:30:01",
       "text": " poll complete \u2014 1745 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:45:01",
+      "text": " poll complete \u2014 1735 markets scanned, 10 flagged"
     }
   ]
 }
