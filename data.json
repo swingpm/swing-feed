@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 07:15:02 UTC",
+  "lastUpdate": "2026-08-24 07:30:02 UTC",
   "swings": [
     {
       "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-1.5) vs Kiwoom DRX Challengers (+1.5)",
-      "prev": 0.485,
-      "now": 0.89,
-      "delta": 0.405,
+      "prev": 0.89,
+      "now": 0.485,
+      "delta": -0.405,
       "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
         "Esports",
@@ -14,13 +14,13 @@
         "Sports"
       ],
       "volume24hr": 19169.97,
-      "liquidity": 17.66
+      "liquidity": 1.5
     },
     {
       "market": "Highest temperature in Shenzhen on August 24? \u2014 Will the highest temperature in Shenzhen be 31\u00b0C on August 24?",
-      "prev": 0.67,
-      "now": 0.885,
-      "delta": 0.215,
+      "prev": 0.885,
+      "now": 0.515,
+      "delta": -0.37,
       "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-24-2026",
       "tags": [
         "Weather",
@@ -30,14 +30,14 @@
         "Shenzhen",
         "Highest temperature"
       ],
-      "volume24hr": 8948.7,
-      "liquidity": 986.93
+      "volume24hr": 10155.2,
+      "liquidity": 331.92
     },
     {
       "market": "Highest temperature in Guangzhou on August 24? \u2014 Will the highest temperature in Guangzhou be 33\u00b0C on August 24?",
-      "prev": 0.545,
-      "now": 0.73,
-      "delta": 0.185,
+      "prev": 0.73,
+      "now": 0.475,
+      "delta": -0.255,
       "url": "https://polymarket.com/event/highest-temperature-in-guangzhou-on-august-24-2026",
       "tags": [
         "Weather",
@@ -47,14 +47,14 @@
         "Guangzhou",
         "Highest temperature"
       ],
-      "volume24hr": 1955.61,
-      "liquidity": 210.46
+      "volume24hr": 2383.41,
+      "liquidity": 178.7
     },
     {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.25,
-      "now": 0.08,
-      "delta": -0.17,
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.645,
+      "now": 0.395,
+      "delta": -0.25,
       "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
@@ -62,14 +62,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 125343.32,
-      "liquidity": 36.54
+      "volume24hr": 126701.55,
+      "liquidity": 8.95
     },
     {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.25,
-      "now": 0.08,
-      "delta": -0.17,
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.645,
+      "now": 0.395,
+      "delta": -0.25,
       "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
@@ -77,48 +77,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 125343.32,
-      "liquidity": 36.54
+      "volume24hr": 126701.55,
+      "liquidity": 8.95
     },
     {
-      "market": "Highest temperature in Chengdu on August 24? \u2014 Will the highest temperature in Chengdu be 36\u00b0C on August 24?",
-      "prev": 0.51,
-      "now": 0.34,
-      "delta": -0.17,
-      "url": "https://polymarket.com/event/highest-temperature-in-chengdu-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Chengdu",
-        "Highest temperature"
-      ],
-      "volume24hr": 5476.95,
-      "liquidity": 143.08
-    },
-    {
-      "market": "Highest temperature in Shenzhen on August 24? \u2014 Will the highest temperature in Shenzhen be 32\u00b0C on August 24?",
-      "prev": 0.235,
-      "now": 0.105,
-      "delta": -0.13,
-      "url": "https://polymarket.com/event/highest-temperature-in-shenzhen-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Shenzhen",
-        "Highest temperature"
-      ],
-      "volume24hr": 3254.19,
-      "liquidity": 210.4
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.25,
-      "now": 0.155,
-      "delta": -0.095,
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.28,
+      "now": 0.525,
+      "delta": 0.245,
       "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
@@ -126,45 +92,71 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 125343.32,
-      "liquidity": 134.99
+      "volume24hr": 126701.55,
+      "liquidity": 7.83
     },
     {
-      "market": "\"Spider-Man: Brand New Day\" total domestic gross by August 31? (Higher Strikes) \u2014 Will the total domestic gross for Spider-Man: Brand New Day be between 900m and 920m by August 31?",
-      "prev": 0.31,
-      "now": 0.225,
-      "delta": -0.085,
-      "url": "https://polymarket.com/event/spider-man-brand-new-day-total-domestic-gross-by-august-31-higher-strikes-20260804222016411",
-      "tags": [
-        "Movies",
-        "Culture",
-        "Box Office",
-        "Spider-Man"
-      ],
-      "volume24hr": 10019.91,
-      "liquidity": 26984.83
-    },
-    {
-      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 3 Total Rounds: Over/Under 21.5",
-      "prev": 0.555,
-      "now": 0.64,
-      "delta": 0.085,
-      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.255,
+      "now": 0.5,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 55907.09,
-      "liquidity": 87.42
+      "volume24hr": 126701.55,
+      "liquidity": 2.6
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Slay a Dragon?",
+      "prev": 0.645,
+      "now": 0.4,
+      "delta": -0.245,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 126701.55,
+      "liquidity": 8.95
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.255,
+      "now": 0.495,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 126701.55,
+      "liquidity": 2.6
+    },
+    {
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.28,
+      "now": 0.515,
+      "delta": 0.235,
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 126701.55,
+      "liquidity": 7.83
     }
   ],
   "log": [
-    {
-      "ts": "00:00:01",
-      "text": " poll complete \u2014 1847 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:15:01",
       "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
@@ -280,6 +272,10 @@
     {
       "ts": "07:15:02",
       "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:30:02",
+      "text": " poll complete \u2014 1734 markets scanned, 10 flagged"
     }
   ]
 }
