@@ -1,143 +1,146 @@
 {
-  "lastUpdate": "2026-08-24 06:45:01 UTC",
+  "lastUpdate": "2026-08-24 07:00:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 24?",
-      "prev": 0.355,
-      "now": 0.003,
-      "delta": -0.352,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.9985,
+      "now": 0.5,
+      "delta": -0.4985,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 6569.04,
-      "liquidity": 11660.4
+      "volume24hr": 306.0,
+      "liquidity": 0.01
     },
     {
-      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 24?",
-      "prev": 0.65,
-      "now": 0.985,
-      "delta": 0.335,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.0015,
+      "now": 0.5,
+      "delta": 0.4985,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 17914.81,
-      "liquidity": 1776.73
+      "volume24hr": 225.0,
+      "liquidity": 0.01
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 3.5",
+      "prev": 0.675,
+      "now": 0.36,
+      "delta": -0.315,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5192.19,
+      "liquidity": 19254.76
     },
     {
       "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 2 Winner",
-      "prev": 0.495,
-      "now": 0.735,
-      "delta": 0.24,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 140537.99,
-      "liquidity": 148619.85
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 31\u00b0C on August 24?",
-      "prev": 0.77,
-      "now": 0.925,
-      "delta": 0.155,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 11259.35,
-      "liquidity": 920.3
-    },
-    {
-      "market": "Highest temperature in Beijing on August 24? \u2014 Will the highest temperature in Beijing be 33\u00b0C on August 24?",
-      "prev": 0.77,
-      "now": 0.9,
-      "delta": 0.13,
-      "url": "https://polymarket.com/event/highest-temperature-in-beijing-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Beijing",
-        "Highest temperature"
-      ],
-      "volume24hr": 2571.23,
-      "liquidity": 263.18
-    },
-    {
-      "market": "Highest temperature in Beijing on August 24? \u2014 Will the highest temperature in Beijing be 34\u00b0C on August 24?",
-      "prev": 0.205,
-      "now": 0.075,
-      "delta": -0.13,
-      "url": "https://polymarket.com/event/highest-temperature-in-beijing-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Beijing",
-        "Highest temperature"
-      ],
-      "volume24hr": 2465.03,
-      "liquidity": 337.32
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-1.5) vs Kiwoom DRX Challengers (+1.5)",
-      "prev": 0.605,
-      "now": 0.485,
-      "delta": -0.12,
-      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 19179.97,
-      "liquidity": 1.5
-    },
-    {
-      "market": "Highest temperature in Seoul (Incheon) on August 24? \u2014 Will the highest temperature in Seoul (Incheon) be 32\u00b0C on August 24?",
-      "prev": 0.185,
-      "now": 0.065,
-      "delta": -0.12,
-      "url": "https://polymarket.com/event/highest-temperature-in-seoul-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Seoul",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 7495.03,
-      "liquidity": 874.46
-    },
-    {
-      "market": "Hutton FC vs. Grays Athletic FC - More Markets \u2014 Hutton FC vs. Grays Athletic FC: O/U 1.5",
-      "prev": 0.9,
+      "prev": 0.735,
       "now": 0.995,
-      "delta": 0.095,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 213708.41,
+      "liquidity": 348413.86
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-2.5) vs Kiwoom DRX Challengers (+2.5)",
+      "prev": 0.405,
+      "now": 0.625,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4573.2,
+      "liquidity": 63.1
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In",
+      "prev": 0.8,
+      "now": 0.935,
+      "delta": 0.135,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 238898.75,
+      "liquidity": 262981.52
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 4.5",
+      "prev": 0.32,
+      "now": 0.19,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 334.97,
+      "liquidity": 230.09
+    },
+    {
+      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 3 Total Rounds: Over/Under 21.5",
+      "prev": 0.43,
+      "now": 0.555,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 55902.09,
+      "liquidity": 352.62
+    },
+    {
+      "market": "# of views of MrBeast video day 2? \u2014 Will MrBeast's next video get between 43 and 45 million views on day 2?",
+      "prev": 0.64,
+      "now": 0.75,
+      "delta": 0.11,
+      "url": "https://polymarket.com/event/of-views-of-mrbeast-video-day-2-20260824",
+      "tags": [
+        "views",
+        "Culture",
+        "MrBeast",
+        "YouTube"
+      ],
+      "volume24hr": 1519.03,
+      "liquidity": 251.05
+    },
+    {
+      "market": "Hutton FC vs. Grays Athletic FC - More Markets \u2014 Spread: Grays Athletic FC (-1.5)",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
       "url": "https://polymarket.com/event/efa-hut-gra1-2026-08-22-more-markets",
       "tags": [
         "Sports",
@@ -146,29 +149,10 @@
         "FA Cup"
       ],
       "volume24hr": 141146.7,
-      "liquidity": 10548.48
-    },
-    {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 2nd Half O/U 0.5",
-      "prev": 0.36,
-      "now": 0.45,
-      "delta": 0.09,
-      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 55540.51,
-      "liquidity": 1212.27
+      "liquidity": 0.0
     }
   ],
   "log": [
-    {
-      "ts": "23:30:01",
-      "text": " poll complete \u2014 1884 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:45:01",
       "text": " poll complete \u2014 1838 markets scanned, 10 flagged"
@@ -284,6 +268,10 @@
     {
       "ts": "06:45:01",
       "text": " poll complete \u2014 1726 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:00:01",
+      "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
     }
   ]
 }
