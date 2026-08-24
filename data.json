@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 15:00:01 UTC",
+  "lastUpdate": "2026-08-24 15:15:01 UTC",
   "swings": [
     {
-      "market": "Roehampton 2: Max Basing vs Christian Langmo \u2014 Set Handicap: Basing (-1.5) vs Langmo (+1.5)",
-      "prev": 0.005,
-      "now": 0.9995,
-      "delta": 0.9945,
-      "url": "https://polymarket.com/event/atp-basing-langmo-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 85306.04,
-      "liquidity": 3989.72
-    },
-    {
       "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D \u2014 Counter-Strike: Alliance vs  Phantom Academy - Map 2 Winner",
-      "prev": 0.02,
-      "now": 0.85,
-      "delta": 0.83,
+      "prev": 0.85,
+      "now": 0.1125,
+      "delta": -0.7375,
       "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
       "tags": [
         "Esports",
@@ -27,14 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 14924.43,
-      "liquidity": 430.03
+      "volume24hr": 17381.83,
+      "liquidity": 419.65
     },
     {
       "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D",
-      "prev": 0.03,
-      "now": 0.69,
-      "delta": 0.66,
+      "prev": 0.69,
+      "now": 0.1555,
+      "delta": -0.5345,
       "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
       "tags": [
         "Esports",
@@ -42,14 +28,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 365317.96,
-      "liquidity": 50520.93
+      "volume24hr": 370716.41,
+      "liquidity": 135263.39
     },
     {
-      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 26\u00b0C on August 24?",
-      "prev": 0.605,
-      "now": 0.05,
-      "delta": -0.555,
+      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 512021.21,
+      "liquidity": 1119696.08
+    },
+    {
+      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 27\u00b0C on August 24?",
+      "prev": 0.555,
+      "now": 0.92,
+      "delta": 0.365,
       "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-24-2026",
       "tags": [
         "Weather",
@@ -60,99 +61,102 @@
         "Daily Temperature",
         "Highest temperature"
       ],
-      "volume24hr": 7292.22,
-      "liquidity": 207.7
+      "volume24hr": 6131.92,
+      "liquidity": 307.65
     },
     {
-      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Set 1 Winner: Hemery vs Barton",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 1?",
+      "prev": 0.275,
+      "now": 0.595,
+      "delta": 0.32,
+      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 340.78,
+      "liquidity": 11.95
+    },
+    {
+      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 Game Spread: Droguet (-5.5) vs Rincon (+5.5)",
+      "prev": 0.675,
+      "now": 0.395,
+      "delta": -0.28,
+      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 126310.53,
-      "liquidity": 5713.35
+      "volume24hr": 59868.64,
+      "liquidity": 472.69
     },
     {
-      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Hemery vs. Barton: Set 1 Games O/U 8.5",
+      "market": "LoL: Deer Gaming vs DMG Esports (BO3) - NLC Playoffs \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.52,
+      "now": 0.255,
+      "delta": -0.265,
+      "url": "https://polymarket.com/event/lol-deer-dmg-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 97883.07,
+      "liquidity": 2.7
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: Leo (-1.5) vs GenOne (+1.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "now": 0.235,
+      "delta": -0.265,
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 87582.97,
+      "liquidity": 32.5
+    },
+    {
+      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 28\u00b0C on August 24?",
+      "prev": 0.35,
+      "now": 0.085,
+      "delta": -0.265,
+      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-24-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Paris",
+        "France",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 8203.23,
+      "liquidity": 838.1
+    },
+    {
+      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 Droguet vs. Rincon: Set 1 Games O/U 10.5",
+      "prev": 0.235,
+      "now": 0.5,
+      "delta": 0.265,
+      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 126310.53,
-      "liquidity": 5237.6
-    },
-    {
-      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Hemery vs. Barton: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 126310.53,
-      "liquidity": 5401.51
-    },
-    {
-      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Hemery vs. Barton: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 126310.53,
-      "liquidity": 5422.01
-    },
-    {
-      "market": "Roehampton 2: Max Basing vs Christian Langmo \u2014 Roehampton 2: Completed Match: Max Basing vs Christian Langmo",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-basing-langmo-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 605.0,
-      "liquidity": 795.16
-    },
-    {
-      "market": "Roehampton 2: Max Basing vs Christian Langmo \u2014 Set 2 Winner: Basing vs Langmo",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-basing-langmo-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 85306.04,
-      "liquidity": 2703.26
+      "volume24hr": 59868.64,
+      "liquidity": 302248.26
     }
   ],
   "log": [
-    {
-      "ts": "07:45:02",
-      "text": " poll complete \u2014 1702 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:00:01",
       "text": " poll complete \u2014 1654 markets scanned, 10 flagged"
@@ -268,6 +272,10 @@
     {
       "ts": "15:00:01",
       "text": " poll complete \u2014 1798 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:15:01",
+      "text": " poll complete \u2014 1747 markets scanned, 10 flagged"
     }
   ]
 }
