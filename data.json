@@ -1,144 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 12:45:01 UTC",
+  "lastUpdate": "2026-08-24 13:00:02 UTC",
   "swings": [
     {
-      "market": "Roehampton 2: Radu Albot vs Leonardo Rossi \u2014 Roehampton 2, Great Britain, Qualifying: Completed Match: Radu Albot vs Leonardo Rossi",
-      "prev": 0.5,
-      "now": 0.9975,
-      "delta": 0.4975,
-      "url": "https://polymarket.com/event/atp-albot-rossi-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 40.0,
-      "liquidity": 542.6
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 94378.42,
-      "liquidity": 196.02
-    },
-    {
-      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Both Teams Beat Roshan?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 104683.3,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Dota 2: Klim Sani4 vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Game 2: Any Player Rampage?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/dota2-ks-lynx-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 104683.3,
-      "liquidity": 109.02
-    },
-    {
-      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.66,
-      "now": 0.275,
-      "delta": -0.385,
-      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2346.21,
-      "liquidity": 25.94
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: MASONIC vs HyperSpirit - Map 2 Winner",
-      "prev": 0.34,
-      "now": 0.0005,
-      "delta": -0.3395,
-      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 22976.24,
-      "liquidity": 247886.96
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: HS (-1.5) vs MASONIC (+1.5)",
-      "prev": 0.665,
+      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: INOX (-1.5) vs Butterfly (+1.5)",
+      "prev": 0.38,
       "now": 0.995,
-      "delta": 0.33,
-      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 94378.42,
-      "liquidity": 8044.94
-    },
-    {
-      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.3,
-      "now": 0.0005,
-      "delta": -0.2995,
-      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 6738.13,
-      "liquidity": 16093.33
-    },
-    {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Match O/U 21.5",
-      "prev": 0.235,
-      "now": 0.5,
-      "delta": 0.265,
-      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 203.46,
-      "liquidity": 330139.43
-    },
-    {
-      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Counter-Strike: INOX Division vs Butterfly - Map 2 Winner",
-      "prev": 0.485,
-      "now": 0.715,
-      "delta": 0.23,
+      "delta": 0.615,
       "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
       "tags": [
         "Esports",
@@ -146,15 +13,150 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 12793.0,
-      "liquidity": 16277.95
+      "volume24hr": 100205.3,
+      "liquidity": 3850.21
+    },
+    {
+      "market": "Counter-Strike: Lavked vs Vexar (BO3) - Exort Fiesta Group Stage",
+      "prev": 0.71,
+      "now": 0.2,
+      "delta": -0.51,
+      "url": "https://polymarket.com/event/cs2-lavked-vex1-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 54699.15,
+      "liquidity": 114926.66
+    },
+    {
+      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 105672.97,
+      "liquidity": 109.02
+    },
+    {
+      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: HyperSpirit (-3.5) vs MASONIC (+3.5)",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 105672.97,
+      "liquidity": 109.02
+    },
+    {
+      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: HyperSpirit (-6.5) vs MASONIC (+6.5)",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 105672.97,
+      "liquidity": 109.02
+    },
+    {
+      "market": "Counter-Strike: MASONIC vs HyperSpirit (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 2 Rounds Handicap: HyperSpirit (-9.5) vs MASONIC (+9.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-msc-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 105672.97,
+      "liquidity": 109.02
+    },
+    {
+      "market": "Counter-Strike: Lavked vs Vexar (BO3) - Exort Fiesta Group Stage \u2014 Counter-Strike: Lavked vs Vexar - Map 2 Winner",
+      "prev": 0.36,
+      "now": 0.0005,
+      "delta": -0.3595,
+      "url": "https://polymarket.com/event/cs2-lavked-vex1-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4379.19,
+      "liquidity": 57255.8
+    },
+    {
+      "market": "Counter-Strike: Lavked vs Vexar (BO3) - Exort Fiesta Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.64,
+      "now": 0.9945,
+      "delta": 0.3545,
+      "url": "https://polymarket.com/event/cs2-lavked-vex1-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 66811.42,
+      "liquidity": 670.79
+    },
+    {
+      "market": "Counter-Strike: INOX Division vs Butterfly (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "prev": 0.16,
+      "now": 0.5,
+      "delta": 0.34,
+      "url": "https://polymarket.com/event/cs2-inox-btf-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 100205.3,
+      "liquidity": 325638.07
+    },
+    {
+      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin reach $80,000 on August 24?",
+      "prev": 0.455,
+      "now": 0.76,
+      "delta": 0.305,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 16687.77,
+      "liquidity": 5974.12
     }
   ],
   "log": [
-    {
-      "ts": "05:30:01",
-      "text": " poll complete \u2014 1745 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1735 markets scanned, 10 flagged"
@@ -270,6 +272,10 @@
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1784 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:00:02",
+      "text": " poll complete \u2014 1758 markets scanned, 10 flagged"
     }
   ]
 }
