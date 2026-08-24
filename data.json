@@ -1,159 +1,148 @@
 {
-  "lastUpdate": "2026-08-24 03:15:01 UTC",
+  "lastUpdate": "2026-08-24 03:30:01 UTC",
   "swings": [
     {
-      "market": "Seahawks vs. Titans \u2014 SEA vs. TEN: O/U 37.5",
-      "prev": 0.695,
-      "now": 0.17,
-      "delta": -0.525,
+      "market": "Seahawks vs. Titans \u2014 Seahawks Team Total: O/U 16.5",
+      "prev": 0.905,
+      "now": 0.1,
+      "delta": -0.805,
       "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
       "tags": [
         "Sports",
         "NFL",
         "Games"
       ],
-      "volume24hr": 53184.93,
-      "liquidity": 100729.02
+      "volume24hr": 1310630.45,
+      "liquidity": 110.62
     },
     {
-      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 127879.58,
-      "liquidity": 3986.25
-    },
-    {
-      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: Club Necaxa 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 127879.58,
-      "liquidity": 3558.28
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Rounds Handicap: KR\u00dc Esports (-2.5) vs Evil Geniuses (+2.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.1,
-      "liquidity": 307.34
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Total Rounds: Over/Under 22.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 306.64
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Total Rounds: Over/Under 20.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1031.8,
-      "liquidity": 495.72
-    },
-    {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
-      "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 387976.84,
-      "liquidity": 306.64
-    },
-    {
-      "market": "Seahawks vs. Titans \u2014 Spread: TEN (-2.5)",
-      "prev": 0.545,
-      "now": 0.985,
-      "delta": 0.44,
-      "url": "https://polymarket.com/event/nfl-sea-ten-2026-08-24",
-      "tags": [
-        "Sports",
-        "NFL",
-        "Games"
-      ],
-      "volume24hr": 7548.36,
-      "liquidity": 49886.5
-    },
-    {
-      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Tagger vs. Starodubtseva: Match O/U 21.5",
-      "prev": 0.885,
-      "now": 0.475,
-      "delta": -0.41,
+      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Set 2 Winner: Tagger vs Starodubtseva",
+      "prev": 0.69,
+      "now": 0.0005,
+      "delta": -0.6895,
       "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 31.98,
-      "liquidity": 0.55
+      "volume24hr": 46.32,
+      "liquidity": 4753.51
     },
     {
-      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 3 Rounds Handicap: Evil Geniuses (-2.5) vs KR\u00dc Esports (+2.5)",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
+      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva",
+      "prev": 0.535,
+      "now": 0.0005,
+      "delta": -0.5345,
+      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
       "tags": [
-        "Esports",
-        "Valorant",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 387976.84,
-      "liquidity": 110.62
+      "volume24hr": 331860.48,
+      "liquidity": 145137.62
+    },
+    {
+      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Monterrey Open: Completed Match: Lilli Tagger vs Yulia Starodubtseva",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 500.0,
+      "liquidity": 1791.45
+    },
+    {
+      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Lilli Tagger vs. Yulia Starodubtseva: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 5.41,
+      "liquidity": 5826.25
+    },
+    {
+      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Tagger vs. Starodubtseva: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 333040.85,
+      "liquidity": 3158.47
+    },
+    {
+      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Set Handicap: Tagger (-1.5) vs Starodubtseva (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 333040.85,
+      "liquidity": 5269.57
+    },
+    {
+      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Tagger vs. Starodubtseva: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 333040.85,
+      "liquidity": 3128.5
+    },
+    {
+      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Tagger vs. Starodubtseva: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 333040.85,
+      "liquidity": 5742.42
+    },
+    {
+      "market": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva \u2014 Tagger vs. Starodubtseva: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-tagger-starodu-2026-08-23",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 333040.85,
+      "liquidity": 3163.42
     }
   ],
   "log": [
-    {
-      "ts": "20:00:01",
-      "text": " poll complete \u2014 2045 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:15:01",
       "text": " poll complete \u2014 2035 markets scanned, 10 flagged"
@@ -269,6 +258,10 @@
     {
       "ts": "03:15:01",
       "text": " poll complete \u2014 1680 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:30:01",
+      "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
     }
   ]
 }
