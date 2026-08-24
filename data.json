@@ -1,53 +1,54 @@
 {
-  "lastUpdate": "2026-08-24 16:45:01 UTC",
+  "lastUpdate": "2026-08-24 17:00:01 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva \u2014 Dedura-Palomero vs. Silva: Match O/U 22.5",
-      "prev": 0.76,
-      "now": 0.005,
-      "delta": -0.755,
-      "url": "https://polymarket.com/event/atp-dedurap-sil-2026-08-24",
+      "market": "US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze \u2014 Andreeva vs. Bolkvadze: Match O/U 22.5",
+      "prev": 0.44,
+      "now": 0.9835,
+      "delta": 0.5435,
+      "url": "https://polymarket.com/event/wta-andree-bolkvad-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 520.54,
-      "liquidity": 4916.22
+      "volume24hr": 5.66,
+      "liquidity": 7248.16
     },
     {
-      "market": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva \u2014 Dedura-Palomero vs. Silva: Match O/U 23.5",
-      "prev": 0.685,
-      "now": 0.005,
-      "delta": -0.68,
-      "url": "https://polymarket.com/event/atp-dedurap-sil-2026-08-24",
+      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas \u2014 Pavlovic vs. Varillas: Match O/U 21.5",
+      "prev": 0.175,
+      "now": 0.715,
+      "delta": 0.54,
+      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 24.35,
-      "liquidity": 9368.14
+      "volume24hr": 60.77,
+      "liquidity": 165.12
     },
     {
-      "market": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena \u2014 Game Spread: Fearnley (-4.5) vs Baena (+4.5)",
-      "prev": 0.665,
-      "now": 0.065,
-      "delta": -0.6,
-      "url": "https://polymarket.com/event/atp-fearnle-baena-2026-08-24",
+      "market": "SC Verl vs. Hamburger SV - More Markets \u2014 SC Verl vs. Hamburger SV: 1st Half O/U 1.5",
+      "prev": 0.535,
+      "now": 0.0005,
+      "delta": -0.5345,
+      "url": "https://polymarket.com/event/dfb-scv-hsv-2026-08-24-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "DFB-Pokal"
       ],
-      "volume24hr": 139.39,
-      "liquidity": 107.54
+      "volume24hr": 1000.16,
+      "liquidity": 10147.09
     },
     {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 2?",
-      "prev": 0.235,
-      "now": 0.825,
-      "delta": 0.59,
+      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Game Handicap: Navi (-1.5) vs Fnatic (+1.5)",
+      "prev": 0.47,
+      "now": 0.9995,
+      "delta": 0.5295,
       "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
       "tags": [
         "Esports",
@@ -55,99 +56,95 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 1367.44,
-      "liquidity": 21.37
+      "volume24hr": 1134.84,
+      "liquidity": 69770.18
     },
     {
-      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 US Open, Qualification WTA: Completed Match: Rebecca Sramkova vs Alevtina Ibragimova",
+      "market": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich \u2014 Masarova vs. Shymanovich: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
+      "url": "https://polymarket.com/event/wta-masarov-shymano-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 113917.71,
-      "liquidity": 945.56
+      "volume24hr": 270113.26,
+      "liquidity": 2352.2
     },
     {
-      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Sramkova vs. Ibragimova: Set 2 Games O/U 8.5",
+      "market": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich \u2014 Masarova vs. Shymanovich: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-masarov-shymano-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 270113.26,
+      "liquidity": 2352.2
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich \u2014 Masarova vs. Shymanovich: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-masarov-shymano-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 270113.26,
+      "liquidity": 2298.25
+    },
+    {
+      "market": "US Open, Qualification WTA: Qinwen Zheng vs Xiaodi You \u2014 US Open, Qualification WTA: Completed Match: Qinwen Zheng vs Xiaodi You",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
+      "url": "https://polymarket.com/event/wta-zhen-you-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 113917.71,
-      "liquidity": 2703.26
+      "volume24hr": 806.0,
+      "liquidity": 1005.11
     },
     {
-      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Sramkova vs. Ibragimova: Match O/U 21.5",
+      "market": "US Open, Qualification WTA: Qinwen Zheng vs Xiaodi You \u2014 Qinwen Zheng vs. Xiaodi You: Total Sets O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
+      "url": "https://polymarket.com/event/wta-zhen-you-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 9.1,
-      "liquidity": 5288.2
+      "volume24hr": 11.3,
+      "liquidity": 5285.17
     },
     {
-      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Rebecca Sramkova vs. Alevtina Ibragimova: Total Sets O/U 2.5",
+      "market": "US Open, Qualification WTA: Qinwen Zheng vs Xiaodi You \u2014 Zheng vs. You: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
+      "url": "https://polymarket.com/event/wta-zhen-you-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 113917.71,
-      "liquidity": 5288.2
-    },
-    {
-      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Sramkova vs. Ibragimova: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 113917.71,
-      "liquidity": 2703.26
-    },
-    {
-      "market": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova \u2014 Sramkova vs. Ibragimova: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-sramkov-ibragim-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 5.88,
-      "liquidity": 5666.62
+      "volume24hr": 127671.21,
+      "liquidity": 2688.19
     }
   ],
   "log": [
-    {
-      "ts": "09:30:01",
-      "text": " poll complete \u2014 1729 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:45:01",
       "text": " poll complete \u2014 1755 markets scanned, 10 flagged"
@@ -263,6 +260,10 @@
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:00:01",
+      "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
     }
   ]
 }
