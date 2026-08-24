@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "2026-08-24 14:45:01 UTC",
+  "lastUpdate": "2026-08-24 15:00:01 UTC",
   "swings": [
     {
+      "market": "Roehampton 2: Max Basing vs Christian Langmo \u2014 Set Handicap: Basing (-1.5) vs Langmo (+1.5)",
+      "prev": 0.005,
+      "now": 0.9995,
+      "delta": 0.9945,
+      "url": "https://polymarket.com/event/atp-basing-langmo-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 85306.04,
+      "liquidity": 3989.72
+    },
+    {
       "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D \u2014 Counter-Strike: Alliance vs  Phantom Academy - Map 2 Winner",
-      "prev": 0.545,
-      "now": 0.02,
-      "delta": -0.525,
+      "prev": 0.02,
+      "now": 0.85,
+      "delta": 0.83,
       "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
       "tags": [
         "Esports",
@@ -13,33 +27,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 11163.01,
-      "liquidity": 181164.31
-    },
-    {
-      "market": "What price will Ethereum hit on August 24? \u2014 Will Ethereum dip to $2,400 on August 24?",
-      "prev": 0.485,
-      "now": 0.075,
-      "delta": -0.41,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Ethereum",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 55733.62,
-      "liquidity": 2292.11
+      "volume24hr": 14924.43,
+      "liquidity": 430.03
     },
     {
       "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D",
-      "prev": 0.42,
-      "now": 0.03,
-      "delta": -0.39,
+      "prev": 0.03,
+      "now": 0.69,
+      "delta": 0.66,
       "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
       "tags": [
         "Esports",
@@ -47,134 +42,113 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 357037.92,
-      "liquidity": 2669.63
+      "volume24hr": 365317.96,
+      "liquidity": 50520.93
     },
     {
-      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin reach $80,000 on August 24?",
-      "prev": 0.535,
-      "now": 0.87,
-      "delta": 0.335,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 25737.41,
-      "liquidity": 13244.32
-    },
-    {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.51,
-      "now": 0.175,
-      "delta": -0.335,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 46.05,
-      "liquidity": 40.98
-    },
-    {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Counter-Strike: GenOne vs Leo Team - Map 1 Winner",
-      "prev": 0.36,
+      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 26\u00b0C on August 24?",
+      "prev": 0.605,
       "now": 0.05,
-      "delta": -0.31,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "delta": -0.555,
+      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-24-2026",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 8253.56,
-      "liquidity": 161870.34
-    },
-    {
-      "market": "Ethereum above ___ on August 24? \u2014 Will the price of Ethereum be above $2,500 on August 24?",
-      "prev": 0.59,
-      "now": 0.865,
-      "delta": 0.275,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-24-2026",
-      "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 12729.95,
-      "liquidity": 27671.1
-    },
-    {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: G1 (-1.5) vs Leo Team (+1.5)",
-      "prev": 0.32,
-      "now": 0.055,
-      "delta": -0.265,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 26598.51,
-      "liquidity": 8983.84
-    },
-    {
-      "market": "What price will Ethereum hit on August 24? \u2014 Will Ethereum reach $2,550 on August 24?",
-      "prev": 0.49,
-      "now": 0.74,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
+        "Weather",
         "Recurring",
         "Hide From New",
-        "Ethereum",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
+        "Paris",
+        "France",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 716.96,
-      "liquidity": 9831.82
+      "volume24hr": 7292.22,
+      "liquidity": 207.7
     },
     {
-      "market": "Bitcoin above ___ on August 24? \u2014 Will the price of Bitcoin be above $80,000 on August 24?",
-      "prev": 0.1155,
-      "now": 0.3575,
-      "delta": 0.242,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-24-2026",
+      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Set 1 Winner: Hemery vs Barton",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 72643.32,
-      "liquidity": 34550.65
+      "volume24hr": 126310.53,
+      "liquidity": 5713.35
+    },
+    {
+      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Hemery vs. Barton: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 126310.53,
+      "liquidity": 5237.6
+    },
+    {
+      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Hemery vs. Barton: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 126310.53,
+      "liquidity": 5401.51
+    },
+    {
+      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Hemery vs. Barton: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 126310.53,
+      "liquidity": 5422.01
+    },
+    {
+      "market": "Roehampton 2: Max Basing vs Christian Langmo \u2014 Roehampton 2: Completed Match: Max Basing vs Christian Langmo",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-basing-langmo-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 605.0,
+      "liquidity": 795.16
+    },
+    {
+      "market": "Roehampton 2: Max Basing vs Christian Langmo \u2014 Set 2 Winner: Basing vs Langmo",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-basing-langmo-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 85306.04,
+      "liquidity": 2703.26
     }
   ],
   "log": [
-    {
-      "ts": "07:30:02",
-      "text": " poll complete \u2014 1734 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:45:02",
       "text": " poll complete \u2014 1702 markets scanned, 10 flagged"
@@ -290,6 +264,10 @@
     {
       "ts": "14:45:01",
       "text": " poll complete \u2014 1795 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:00:01",
+      "text": " poll complete \u2014 1798 markets scanned, 10 flagged"
     }
   ]
 }
