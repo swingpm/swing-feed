@@ -1,158 +1,151 @@
 {
-  "lastUpdate": "2026-08-24 18:30:02 UTC",
+  "lastUpdate": "2026-08-24 18:45:02 UTC",
   "swings": [
     {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: 1st Half O/U 0.5",
-      "prev": 0.545,
-      "now": 0.0005,
-      "delta": -0.5445,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "market": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady \u2014 Set 1 Winner: Cecchinato vs Broady",
+      "prev": 0.315,
+      "now": 0.9995,
+      "delta": 0.6845,
+      "url": "https://polymarket.com/event/atp-cecchin-broady-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 6443.78,
-      "liquidity": 191947.46
+      "volume24hr": 541.36,
+      "liquidity": 9201.95
     },
     {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: CA Osasuna 1st Half O/U 0.5",
+      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Set 2 Winner: Avanesyan vs Garcia",
+      "prev": 0.575,
+      "now": 0.0005,
+      "delta": -0.5745,
+      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 121.36,
+      "liquidity": 4575.57
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 O/U 0.5",
       "prev": 0.51,
       "now": 0.0005,
       "delta": -0.5095,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga"
+        "sea"
       ],
-      "volume24hr": 1.92,
-      "liquidity": 3157.2
+      "volume24hr": 1395.74,
+      "liquidity": 13502.01
     },
     {
-      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 US Open, Qualification ATP: Completed Match: Titouan Droguet vs Daniel Rincon",
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 591143.02,
+      "liquidity": 3856.26
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 1.16,
+      "liquidity": 4283.95
+    },
+    {
+      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 US Open, Qualification WTA: Completed Match: Elina Avanesyan vs Andrea Lazaro Garcia",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
+      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 993081.74,
-      "liquidity": 760.49
+      "volume24hr": 86325.16,
+      "liquidity": 1389.11
     },
     {
-      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 Game Spread: Droguet (-5.5) vs Rincon (+5.5)",
+      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Elina Avanesyan vs. Andrea Lazaro Garcia: Total Sets O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
+      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 782.17,
-      "liquidity": 7040.75
+      "volume24hr": 1.61,
+      "liquidity": 5793.92
     },
     {
-      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas \u2014 US Open, Qualification ATP: Completed Match: Luka Pavlovic vs Juan Pablo Varillas",
+      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Avanesyan vs. Garcia: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
+      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 358390.65,
-      "liquidity": 760.49
+      "volume24hr": 86325.16,
+      "liquidity": 3036.28
     },
     {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: Both Teams to Score in First Half",
+      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Avanesyan vs. Garcia: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 237.22,
-      "liquidity": 2694.22
-    },
-    {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: CA Osasuna 1st Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 6.67,
-      "liquidity": 2690.33
-    },
-    {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: Levante UD 1st Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 1023.11,
-      "liquidity": 2934.84
-    },
-    {
-      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas \u2014 Game Spread: Pavlovic (-4.5) vs Varillas (+4.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 358390.65,
-      "liquidity": 6081.06
+      "volume24hr": 86325.16,
+      "liquidity": 3082.79
     },
     {
-      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: Levante UD 1st Half O/U 1.5",
+      "market": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia \u2014 Avanesyan vs. Garcia: Set 2 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-avanesy-garcia-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 224770.4,
-      "liquidity": 2592.31
+      "volume24hr": 86325.16,
+      "liquidity": 3036.28
     }
   ],
   "log": [
-    {
-      "ts": "11:15:02",
-      "text": " poll complete \u2014 1756 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:30:02",
       "text": " poll complete \u2014 1765 markets scanned, 10 flagged"
@@ -268,6 +261,10 @@
     {
       "ts": "18:30:02",
       "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:45:02",
+      "text": " poll complete \u2014 1837 markets scanned, 10 flagged"
     }
   ]
 }
