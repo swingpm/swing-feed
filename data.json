@@ -1,165 +1,148 @@
 {
-  "lastUpdate": "2026-08-24 13:45:01 UTC",
+  "lastUpdate": "2026-08-24 14:00:01 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Madrid on August 24? \u2014 Will the highest temperature in Madrid be 28\u00b0C on August 24?",
-      "prev": 0.79,
-      "now": 0.0005,
-      "delta": -0.7895,
-      "url": "https://polymarket.com/event/highest-temperature-in-madrid-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Madrid",
-        "Highest temperature"
-      ],
-      "volume24hr": 5662.62,
-      "liquidity": 9299.54
-    },
-    {
-      "market": "Highest temperature in Madrid on August 24? \u2014 Will the highest temperature in Madrid be 29\u00b0C on August 24?",
-      "prev": 0.185,
-      "now": 0.9,
-      "delta": 0.715,
-      "url": "https://polymarket.com/event/highest-temperature-in-madrid-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Madrid",
-        "Highest temperature"
-      ],
-      "volume24hr": 5265.54,
-      "liquidity": 522.52
-    },
-    {
-      "market": "Counter-Strike: HOTU vs Black Phoenix (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.0505,
-      "now": 0.5,
-      "delta": 0.4495,
-      "url": "https://polymarket.com/event/cs2-hotu-blackp-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 252.81,
-      "liquidity": 0.01
-    },
-    {
-      "market": "Counter-Strike: HOTU vs Black Phoenix (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map Handicap: HOTU (-1.5) vs Black Phoenix (+1.5)",
-      "prev": 0.945,
-      "now": 0.5005,
-      "delta": -0.4445,
-      "url": "https://polymarket.com/event/cs2-hotu-blackp-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3479.06,
-      "liquidity": 0.03
-    },
-    {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez",
-      "prev": 0.326,
-      "now": 0.0395,
-      "delta": -0.2865,
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Augsburg: Completed Match: Andrej Nedic vs Juan Estevez",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 476151.06,
-      "liquidity": 330999.46
+      "volume24hr": 512922.81,
+      "liquidity": 800.04
     },
     {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Match O/U 22.5",
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Augsburg: Completed Match: Marko Topo vs Miguel Damas",
       "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 476818.34,
-      "liquidity": 3539.5
-    },
-    {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.75,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 476818.34,
-      "liquidity": 3490.5
-    },
-    {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Set Handicap: Topo (-1.5) vs Damas (+1.5)",
-      "prev": 0.5,
-      "now": 0.25,
-      "delta": -0.25,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 20.84,
-      "liquidity": 3495.5
+      "volume24hr": 135844.62,
+      "liquidity": 750.54
     },
     {
-      "market": "Counter-Strike: Lavked vs Vexar (BO3) - Exort Fiesta Group Stage",
-      "prev": 0.795,
-      "now": 0.995,
-      "delta": 0.2,
-      "url": "https://polymarket.com/event/cs2-lavked-vex1-2026-08-24",
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Marko Topo vs. Miguel Damas: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 136605.58,
-      "liquidity": 276744.86
+      "volume24hr": 135844.62,
+      "liquidity": 5754.43
     },
     {
-      "market": "Ethereum above ___ on August 24? \u2014 Will the price of Ethereum be above $2,500 on August 24?",
-      "prev": 0.585,
-      "now": 0.385,
-      "delta": -0.2,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-24-2026",
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
       "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 6022.31,
-      "liquidity": 25587.61
+      "volume24hr": 368.2,
+      "liquidity": 5639.13
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Set 2 Winner: Topo vs Damas",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 135844.62,
+      "liquidity": 3172.49
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 135844.62,
+      "liquidity": 3038.16
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 81.08,
+      "liquidity": 5635.63
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 135844.62,
+      "liquidity": 3043.13
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Set Handicap: Damas (-1.5) vs Topo (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 19.53,
+      "liquidity": 4778.84
+    },
+    {
+      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 62.41,
+      "liquidity": 5625.07
     }
   ],
   "log": [
-    {
-      "ts": "06:30:01",
-      "text": " poll complete \u2014 1722 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:45:01",
       "text": " poll complete \u2014 1726 markets scanned, 10 flagged"
@@ -275,6 +258,10 @@
     {
       "ts": "13:45:01",
       "text": " poll complete \u2014 1783 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:00:01",
+      "text": " poll complete \u2014 1777 markets scanned, 10 flagged"
     }
   ]
 }
