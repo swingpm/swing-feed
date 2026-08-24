@@ -1,161 +1,156 @@
 {
-  "lastUpdate": "2026-08-24 00:45:02 UTC",
+  "lastUpdate": "2026-08-24 01:00:01 UTC",
   "swings": [
     {
-      "market": "Indiana Fever vs. Chicago Sky \u2014 Spread: Indiana Fever (-4.5)",
-      "prev": 0.365,
-      "now": 0.755,
-      "delta": 0.39,
-      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
+      "market": "O'Higgins FC vs. CD Palestino \u2014 Will CD Palestino win on 2026-08-23?",
+      "prev": 0.245,
+      "now": 0.975,
+      "delta": 0.73,
+      "url": "https://polymarket.com/event/chi1-ohf-cdp-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer"
       ],
-      "volume24hr": 10702.34,
-      "liquidity": 1037.45
+      "volume24hr": 40763.12,
+      "liquidity": 186305.52
     },
     {
-      "market": "Indiana Fever vs. Chicago Sky \u2014 Spread: Indiana Fever (-3.5)",
-      "prev": 0.425,
-      "now": 0.795,
-      "delta": 0.37,
-      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
+      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Atlanta United FC vs. Sporting Kansas City: Both Teams to Score",
+      "prev": 0.35,
+      "now": 0.9995,
+      "delta": 0.6495,
+      "url": "https://polymarket.com/event/mls-atl-skc-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 91200.76,
-      "liquidity": 159444.93
+      "volume24hr": 12534.58,
+      "liquidity": 139226.6
     },
     {
-      "market": "Indiana Fever vs. Chicago Sky \u2014 Spread: Indiana Fever (-1.5)",
-      "prev": 0.495,
-      "now": 0.865,
-      "delta": 0.37,
-      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
+      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Atlanta United FC vs. Sporting Kansas City: Sporting Kansas City O/U 0.5",
+      "prev": 0.35,
+      "now": 0.9955,
+      "delta": 0.6455,
+      "url": "https://polymarket.com/event/mls-atl-skc-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 2753.68,
-      "liquidity": 7844.23
+      "volume24hr": 85.0,
+      "liquidity": 3310.84
     },
     {
-      "market": "Indiana Fever vs. Chicago Sky",
-      "prev": 0.545,
-      "now": 0.885,
-      "delta": 0.34,
-      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
+      "market": "Will O'Higgins FC vs. CD Palestino end in a draw?",
+      "prev": 0.635,
+      "now": 0.015,
+      "delta": -0.62,
+      "url": "https://polymarket.com/event/chi1-ohf-cdp-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer"
       ],
-      "volume24hr": 428501.98,
-      "liquidity": 198482.52
+      "volume24hr": 5924.95,
+      "liquidity": 174095.14
     },
     {
-      "market": "Indiana Fever vs. Chicago Sky \u2014 Kelsey Mitchell: Points O/U 24.5",
-      "prev": 0.365,
-      "now": 0.655,
-      "delta": 0.29,
-      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
+      "market": "Atl\u00e9tico San Luis vs. CF Pachuca \u2014 Will Atl\u00e9tico San Luis win on 2026-08-23?",
+      "prev": 0.34,
+      "now": 0.935,
+      "delta": 0.595,
+      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 8.14,
-      "liquidity": 22.19
+      "volume24hr": 143972.25,
+      "liquidity": 186981.14
     },
     {
-      "market": "Indiana Fever vs. Chicago Sky \u2014 Spread: Indiana Fever (-2.5)",
-      "prev": 0.465,
-      "now": 0.725,
-      "delta": 0.26,
-      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
+      "market": "Atlanta United FC vs. Sporting Kansas City - More Markets \u2014 Spread: Atlanta United FC (-1.5)",
+      "prev": 0.785,
+      "now": 0.21,
+      "delta": -0.575,
+      "url": "https://polymarket.com/event/mls-atl-skc-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "MLS"
       ],
-      "volume24hr": 79764.84,
-      "liquidity": 73938.01
+      "volume24hr": 1898.35,
+      "liquidity": 1176.74
     },
     {
-      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-10.5)",
-      "prev": 0.45,
+      "market": "Atl\u00e9tico San Luis vs. CF Pachuca - More Markets \u2014 Atl\u00e9tico San Luis vs. CF Pachuca: Atl\u00e9tico San Luis O/U 0.5",
+      "prev": 0.445,
+      "now": 0.9955,
+      "delta": 0.5505,
+      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 839.92,
+      "liquidity": 9907.58
+    },
+    {
+      "market": "Washington Mystics vs. Portland Fire \u2014 Spread: Washington Mystics (-3.5)",
+      "prev": 0.205,
       "now": 0.71,
-      "delta": 0.26,
-      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
+      "delta": 0.505,
+      "url": "https://polymarket.com/event/wnba-wsh-por-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "WNBA",
         "Basketball"
       ],
-      "volume24hr": 22684.35,
-      "liquidity": 51063.33
+      "volume24hr": 29195.39,
+      "liquidity": 162401.97
     },
     {
-      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 A'ja Wilson: Rebounds O/U 9.5",
-      "prev": 0.185,
-      "now": 0.435,
-      "delta": 0.25,
-      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
+      "market": "Atl\u00e9tico San Luis vs. CF Pachuca - More Markets \u2014 Atl\u00e9tico San Luis vs. CF Pachuca: O/U 0.5",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/mex-asl-pac-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "Soccer",
+        "Liga MX"
       ],
-      "volume24hr": 955.21,
-      "liquidity": 2.56
+      "volume24hr": 2735.19,
+      "liquidity": 80056.66
     },
     {
-      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Set 2 Winner: Busta vs Vallejo",
-      "prev": 0.745,
-      "now": 0.5,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/atp-busta-vallejo-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 387.61,
-      "liquidity": 0.89
-    },
-    {
-      "market": "Indiana Fever vs. Chicago Sky: O/U 187.5",
-      "prev": 0.655,
-      "now": 0.895,
-      "delta": 0.24,
-      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
+      "market": "Atlanta Braves vs. Milwaukee Brewers: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-atl-mil-2026-08-23",
       "tags": [
         "Sports",
         "Games",
-        "WNBA",
-        "Basketball"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 27768.4,
-      "liquidity": 72077.73
+      "volume24hr": 970.83,
+      "liquidity": 2490.16
     }
   ],
   "log": [
-    {
-      "ts": "17:30:01",
-      "text": " poll complete \u2014 2005 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:45:01",
       "text": " poll complete \u2014 1941 markets scanned, 10 flagged"
@@ -271,6 +266,10 @@
     {
       "ts": "00:45:02",
       "text": " poll complete \u2014 1757 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:00:01",
+      "text": " poll complete \u2014 1753 markets scanned, 10 flagged"
     }
   ]
 }
