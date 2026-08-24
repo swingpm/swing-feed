@@ -1,152 +1,148 @@
 {
-  "lastUpdate": "2026-08-24 22:30:01 UTC",
+  "lastUpdate": "2026-08-24 22:45:01 UTC",
   "swings": [
     {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Monterrey Open: Completed Match: Camila Osorio vs Ann Li",
+      "market": "US Open, Qualification ATP: Harry Wendelken vs Stefano Travaglia \u2014 US Open, Qualification ATP: Completed Match: Harry Wendelken vs Stefano Travaglia",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "url": "https://polymarket.com/event/atp-wendelk-travagl-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 176959.6,
-      "liquidity": 1594.08
+      "volume24hr": 209104.87,
+      "liquidity": 1389.11
     },
     {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 176959.6,
-      "liquidity": 3051.81
-    },
-    {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1.85,
-      "liquidity": 5656.52
-    },
-    {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 176959.6,
-      "liquidity": 3034.83
-    },
-    {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 176959.6,
-      "liquidity": 3051.81
-    },
-    {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Osorio vs. Li: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 176959.6,
-      "liquidity": 6022.59
-    },
-    {
-      "market": "Philadelphia: Talia Gibson vs Lizette Cabrera \u2014 Philadelphia: Completed Match: Talia Gibson vs Lizette Cabrera",
+      "market": "US Open, Qualification ATP: Harry Wendelken vs Stefano Travaglia \u2014 Harry Wendelken vs. Stefano Travaglia: Total Sets O/U 2.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-gibson-cabrera-2026-08-24",
+      "url": "https://polymarket.com/event/atp-wendelk-travagl-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 350.0,
-      "liquidity": 1719.43
+      "volume24hr": 16.7,
+      "liquidity": 5641.19
     },
     {
-      "market": "Monterrey Open: Camila Osorio vs Ann Li \u2014 Game Spread: Osorio (-0.5) vs Li (+0.5)",
+      "market": "US Open, Qualification ATP: Harry Wendelken vs Stefano Travaglia \u2014 Wendelken vs. Travaglia: Match O/U 21.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-wendelk-travagl-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 176959.6,
-      "liquidity": 3408.62
+      "volume24hr": 81.4,
+      "liquidity": 5635.76
     },
     {
-      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 2 Games O/U 8.5",
+      "market": "US Open, Qualification ATP: Harry Wendelken vs Stefano Travaglia \u2014 Wendelken vs. Travaglia: Match O/U 22.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-wendelk-travagl-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 152530.84,
-      "liquidity": 2777.77
+      "volume24hr": 209104.87,
+      "liquidity": 6008.93
     },
     {
-      "market": "Winston-Salem Open: Jan Choinski vs Mees Rottgering \u2014 Choinski vs. Rottgering: Set 2 Games O/U 9.5",
+      "market": "US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch \u2014 Tiffon vs. Gentzsch: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-choinsk-rottger-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tiffon-gentzsc-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 152530.84,
-      "liquidity": 2777.77
+      "volume24hr": 146231.63,
+      "liquidity": 5735.25
+    },
+    {
+      "market": "US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch \u2014 Tiffon vs. Gentzsch: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-tiffon-gentzsc-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 146231.63,
+      "liquidity": 5787.98
+    },
+    {
+      "market": "Philadelphia: Simona Waltert vs Fiona Crawley \u2014 Philadelphia: Completed Match: Simona Waltert vs Fiona Crawley",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-waltert-crawley-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 69694.38,
+      "liquidity": 1389.11
+    },
+    {
+      "market": "Philadelphia: Simona Waltert vs Fiona Crawley \u2014 Set 2 Winner: Waltert vs Crawley",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-waltert-crawley-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 69694.38,
+      "liquidity": 3674.03
+    },
+    {
+      "market": "Philadelphia: Simona Waltert vs Fiona Crawley \u2014 Waltert vs. Crawley: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-waltert-crawley-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 69694.38,
+      "liquidity": 3020.3
+    },
+    {
+      "market": "Philadelphia: Simona Waltert vs Fiona Crawley \u2014 Waltert vs. Crawley: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-waltert-crawley-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 69694.38,
+      "liquidity": 3025.24
     }
   ],
   "log": [
-    {
-      "ts": "15:15:01",
-      "text": " poll complete \u2014 1747 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:30:02",
       "text": " poll complete \u2014 1789 markets scanned, 10 flagged"
@@ -261,6 +257,10 @@
     },
     {
       "ts": "22:30:01",
+      "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:45:01",
       "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
     }
   ]
