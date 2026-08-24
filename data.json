@@ -1,152 +1,161 @@
 {
-  "lastUpdate": "2026-08-24 15:45:01 UTC",
+  "lastUpdate": "2026-08-24 16:00:01 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov \u2014 Coppejans vs. Rodionov: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-coppeja-rodiono-2026-08-24",
+      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 LoL: Natus Vincere vs Fnatic - Game 1 Winner",
+      "prev": 0.085,
+      "now": 0.9995,
+      "delta": 0.9145,
+      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 68459.12,
-      "liquidity": 4932.99
+      "volume24hr": 573119.37,
+      "liquidity": 861416.34
     },
     {
-      "market": "US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov \u2014 Coppejans vs. Rodionov: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-coppeja-rodiono-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 68459.12,
-      "liquidity": 4893.35
-    },
-    {
-      "market": "US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov \u2014 Coppejans vs. Rodionov: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-coppeja-rodiono-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 68459.12,
-      "liquidity": 4932.99
-    },
-    {
-      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Marino vs. Ferro: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 64912.38,
-      "liquidity": 5441.44
-    },
-    {
-      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Marino vs. Ferro: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 64912.38,
-      "liquidity": 5441.44
-    },
-    {
-      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Marino vs. Ferro: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 64912.38,
-      "liquidity": 5441.44
-    },
-    {
-      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Set 2 Winner: Hemery vs Barton",
-      "prev": 0.5,
+      "market": "Ethereum above ___ on August 24? \u2014 Will the price of Ethereum be above $2,500 on August 24?",
+      "prev": 0.78,
       "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "delta": -0.775,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-24-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 176687.91,
-      "liquidity": 2478.94
+      "volume24hr": 15664.44,
+      "liquidity": 280.8
     },
     {
-      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Hemery vs. Barton: Match O/U 21.5",
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: Leo (-1.5) vs GenOne (+1.5)",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 176687.91,
-      "liquidity": 4960.77
+      "volume24hr": 108128.39,
+      "liquidity": 2059.33
     },
     {
-      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Calvin Hemery vs. Hynek Barton: Total Sets O/U 2.5",
-      "prev": 0.5,
+      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 1?",
+      "prev": 0.485,
       "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "delta": -0.48,
+      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 176687.91,
-      "liquidity": 5063.88
+      "volume24hr": 2845.89,
+      "liquidity": 6.39
     },
     {
-      "market": "Augsburg: Calvin Hemery vs Hynek Barton \u2014 Set Handicap: Hemery (-1.5) vs Barton (+1.5)",
-      "prev": 0.5,
+      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Game Handicap: FNC (-1.5) vs Natus Vincere (+1.5)",
+      "prev": 0.47,
       "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/atp-hemery-barton-2026-08-24",
+      "delta": -0.465,
+      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 176687.91,
-      "liquidity": 4378.52
+      "volume24hr": 29981.88,
+      "liquidity": 277078.01
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.46,
+      "now": 0.9,
+      "delta": 0.44,
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 108128.39,
+      "liquidity": 457.62
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: GenOne (-3.5) vs Leo Team (+3.5)",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 108128.39,
+      "liquidity": 457.62
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: GenOne (-6.5) vs Leo Team (+6.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 108128.39,
+      "liquidity": 438.62
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 18.5",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 108128.39,
+      "liquidity": 438.62
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: GenOne (-12.5) vs Leo Team (+12.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 108128.39,
+      "liquidity": 438.62
     }
   ],
   "log": [
-    {
-      "ts": "08:30:01",
-      "text": " poll complete \u2014 1708 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:45:01",
       "text": " poll complete \u2014 1688 markets scanned, 10 flagged"
@@ -262,6 +271,10 @@
     {
       "ts": "15:45:01",
       "text": " poll complete \u2014 1804 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:00:01",
+      "text": " poll complete \u2014 1782 markets scanned, 10 flagged"
     }
   ]
 }
