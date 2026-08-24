@@ -1,26 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 02:45:01 UTC",
+  "lastUpdate": "2026-08-24 03:00:01 UTC",
   "swings": [
     {
-      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: Club Necaxa O/U 0.5",
-      "prev": 0.345,
-      "now": 0.9985,
-      "delta": 0.6535,
-      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Liga MX"
-      ],
-      "volume24hr": 298.33,
-      "liquidity": 3150.02
-    },
-    {
-      "market": "Pumas de la UNAM vs. Club Necaxa \u2014 Will Club Necaxa win on 2026-08-23?",
-      "prev": 0.225,
-      "now": 0.745,
-      "delta": 0.52,
+      "market": "Will Pumas de la UNAM vs. Club Necaxa end in a draw?",
+      "prev": 0.215,
+      "now": 0.975,
+      "delta": 0.76,
       "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23",
       "tags": [
         "Sports",
@@ -28,135 +13,146 @@
         "Soccer",
         "Liga MX"
       ],
-      "volume24hr": 32187.09,
-      "liquidity": 150056.88
+      "volume24hr": 19764.89,
+      "liquidity": 208277.85
     },
     {
-      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: CA Boca Juniors O/U 1.5",
-      "prev": 0.515,
+      "market": "Pumas de la UNAM vs. Club Necaxa \u2014 Will Club Necaxa win on 2026-08-23?",
+      "prev": 0.745,
       "now": 0.0005,
-      "delta": -0.5145,
-      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
+      "delta": -0.7445,
+      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Liga MX"
       ],
-      "volume24hr": 183731.3,
-      "liquidity": 13044.48
+      "volume24hr": 69668.01,
+      "liquidity": 253007.93
     },
     {
-      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: Racing Club O/U 1.5",
-      "prev": 0.51,
+      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: Pumas de la UNAM O/U 0.5",
+      "prev": 0.29,
+      "now": 0.9995,
+      "delta": 0.7095,
+      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 306.65,
+      "liquidity": 9236.68
+    },
+    {
+      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: Both Teams to Score",
+      "prev": 0.295,
+      "now": 0.9995,
+      "delta": 0.7045,
+      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 7335.18,
+      "liquidity": 174871.01
+    },
+    {
+      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: O/U 1.5",
+      "prev": 0.435,
+      "now": 0.9995,
+      "delta": 0.5645,
+      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 32437.72,
+      "liquidity": 200495.31
+    },
+    {
+      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: Pumas de la UNAM 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.9945,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Liga MX"
+      ],
+      "volume24hr": 112967.21,
+      "liquidity": 7763.0
+    },
+    {
+      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Rounds Handicap: Evil Geniuses (-6.5) vs KR\u00dc Esports (+6.5)",
+      "prev": 0.45,
       "now": 0.005,
-      "delta": -0.505,
-      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
+      "delta": -0.445,
+      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Sports"
       ],
-      "volume24hr": 112.25,
-      "liquidity": 12203.18
+      "volume24hr": 360168.81,
+      "liquidity": 6.13
     },
     {
-      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: Racing Club O/U 2.5",
+      "market": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In \u2014 Map 2 Total Rounds: Over/Under 24.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/val-eg2-kru1-2026-08-23",
       "tags": [
-        "Sports",
+        "Esports",
+        "Valorant",
         "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 11874.44
+      "volume24hr": 360168.81,
+      "liquidity": 110.62
     },
     {
-      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: 2nd Half O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
+      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: Both Teams to Score in Second Half",
+      "prev": 0.62,
+      "now": 0.995,
+      "delta": 0.375,
+      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Liga MX"
       ],
-      "volume24hr": 183731.3,
-      "liquidity": 3250.05
+      "volume24hr": 112967.21,
+      "liquidity": 5628.61
     },
     {
-      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
+      "market": "Pumas de la UNAM vs. Club Necaxa - More Markets \u2014 Pumas de la UNAM vs. Club Necaxa: Pumas de la UNAM 2nd Half O/U 1.5",
+      "prev": 0.355,
+      "now": 0.005,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/mex-pum-nec-2026-08-23-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "Liga MX"
       ],
-      "volume24hr": 183731.3,
-      "liquidity": 3266.23
-    },
-    {
-      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 183731.3,
-      "liquidity": 3627.73
-    },
-    {
-      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 183731.3,
-      "liquidity": 3608.63
-    },
-    {
-      "market": "Racing Club vs. CA Boca Juniors - More Markets \u2014 Racing Club vs. CA Boca Juniors: Racing Club 2nd Half O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/arg-rac-boc-2026-08-23-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 183731.3,
-      "liquidity": 3616.0
+      "volume24hr": 112967.21,
+      "liquidity": 2178.0
     }
   ],
   "log": [
-    {
-      "ts": "19:30:02",
-      "text": " poll complete \u2014 2053 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 2034 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "02:45:01",
       "text": " poll complete \u2014 1629 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:00:01",
+      "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
     }
   ]
 }
