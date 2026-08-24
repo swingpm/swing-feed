@@ -1,137 +1,144 @@
 {
-  "lastUpdate": "2026-08-24 05:00:01 UTC",
+  "lastUpdate": "2026-08-24 05:15:01 UTC",
   "swings": [
     {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Monterrey Open: Completed Match: Antonia Ruzic vs Nikola Bartunkova",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 196808.26,
+      "liquidity": 545789.47
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.08,
+      "now": 0.5,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 196808.26,
+      "liquidity": 545789.47
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.155,
+      "now": 0.5,
+      "delta": 0.345,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 196808.26,
+      "liquidity": 545789.47
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: DNS.C (-2.5) vs Kiwoom DRX Challengers (+2.5)",
+      "prev": 0.215,
+      "now": 0.475,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 4484.27,
+      "liquidity": 10.71
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.255,
+      "now": 0.5,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 196808.26,
+      "liquidity": 545789.47
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 1: Odd/Even Total Kills?",
+      "prev": 0.72,
+      "now": 0.5,
+      "delta": -0.22,
+      "url": "https://polymarket.com/event/lol-dnsc-drxc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.88,
+      "liquidity": 545789.47
+    },
+    {
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova",
+      "prev": 0.285,
+      "now": 0.135,
+      "delta": -0.15,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 2213.4,
-      "liquidity": 15945.18
+      "volume24hr": 315598.21,
+      "liquidity": 294838.12
     },
     {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Antonia Ruzic vs. Nikola Bartunkova: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
+      "market": "Counter-Strike: BET-M 33 vs HyperSpirit (BO3) - NODWIN Clutch Series Group Stage \u2014 Counter-Strike: BET-M 33 vs HyperSpirit - Map 2 Winner",
+      "prev": 0.62,
+      "now": 0.735,
+      "delta": 0.115,
+      "url": "https://polymarket.com/event/cs2-33-hs2-2026-08-24",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 102.33,
+      "liquidity": 2148.32
+    },
+    {
+      "market": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova \u2014 Set 2 Winner: Sherif vs Oliynykova",
+      "prev": 0.46,
+      "now": 0.355,
+      "delta": -0.105,
+      "url": "https://polymarket.com/event/wta-sherif-oliynyk-2026-08-23",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 39.47,
-      "liquidity": 5455.87
+      "volume24hr": 373.28,
+      "liquidity": 694.84
     },
     {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 368218.04,
-      "liquidity": 2681.3
-    },
-    {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 368218.04,
-      "liquidity": 2696.81
-    },
-    {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 182.1,
-      "liquidity": 5321.59
-    },
-    {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 368218.04,
-      "liquidity": 2714.79
-    },
-    {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Set Handicap: Bartunkova (-1.5) vs Ruzic (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 53.26,
-      "liquidity": 4097.51
-    },
-    {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Ruzic vs. Bartunkova: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 368218.04,
-      "liquidity": 5322.13
-    },
-    {
-      "market": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova \u2014 Game Spread: Bartunkova (-3.5) vs Ruzic (+3.5)",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-ruzic-bartunk-2026-08-23",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 368218.04,
-      "liquidity": 2814.62
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 24?",
-      "prev": 0.685,
-      "now": 0.31,
-      "delta": -0.375,
+      "market": "Highest temperature in Hong Kong on August 24? \u2014 Will the highest temperature in Hong Kong be 33\u00b0C on August 24?",
+      "prev": 0.655,
+      "now": 0.755,
+      "delta": 0.1,
       "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-24-2026",
       "tags": [
         "Weather",
@@ -141,15 +148,11 @@
         "Hong Kong",
         "Highest temperature"
       ],
-      "volume24hr": 3044.75,
-      "liquidity": 908.39
+      "volume24hr": 14843.45,
+      "liquidity": 414.6
     }
   ],
   "log": [
-    {
-      "ts": "21:45:01",
-      "text": " poll complete \u2014 1983 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 1896 markets scanned, 10 flagged"
@@ -265,6 +268,10 @@
     {
       "ts": "05:00:01",
       "text": " poll complete \u2014 1696 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:15:01",
+      "text": " poll complete \u2014 1694 markets scanned, 10 flagged"
     }
   ]
 }
