@@ -1,161 +1,155 @@
 {
-  "lastUpdate": "2026-08-24 18:00:01 UTC",
+  "lastUpdate": "2026-08-24 18:15:02 UTC",
   "swings": [
     {
-      "market": "FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln - More Markets \u2014 FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln: 1. FC K\u00f6ln O/U 2.5",
-      "prev": 0.64,
-      "now": 0.0045,
-      "delta": -0.6355,
-      "url": "https://polymarket.com/event/dfb-wur-koe-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 4.76,
-      "liquidity": 8323.7
-    },
-    {
-      "market": "SC Verl vs. Hamburger SV - More Markets \u2014 SC Verl vs. Hamburger SV: SC Verl O/U 0.5",
-      "prev": 0.575,
-      "now": 0.0005,
-      "delta": -0.5745,
-      "url": "https://polymarket.com/event/dfb-scv-hsv-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 350.34,
-      "liquidity": 10208.79
-    },
-    {
-      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio O/U 0.5",
-      "prev": 0.43,
-      "now": 0.9995,
-      "delta": 0.5695,
-      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "sea"
-      ],
-      "volume24hr": 1388.63,
-      "liquidity": 33025.4
-    },
-    {
-      "market": "Dota 2: RE.Arise vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Dota 2: RE.Arise vs Team Lynx - Game 2 Winner",
-      "prev": 0.595,
-      "now": 0.035,
-      "delta": -0.56,
-      "url": "https://polymarket.com/event/dota2-rearis-lynx-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 32447.81,
-      "liquidity": 150692.08
-    },
-    {
-      "market": "VSG Altglienicke vs. VfL Wolfsburg - More Markets \u2014 VSG Altglienicke vs. VfL Wolfsburg: VfL Wolfsburg O/U 2.5",
-      "prev": 0.545,
-      "now": 0.005,
-      "delta": -0.54,
-      "url": "https://polymarket.com/event/dfb-alt-wob-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 227.27,
-      "liquidity": 13732.83
-    },
-    {
-      "market": "Dota 2: RE.Arise vs Team Lynx (BO3) - EPL Masters 2 Play-In Group B \u2014 Games Total: O/U 2.5",
-      "prev": 0.57,
-      "now": 0.045,
-      "delta": -0.525,
-      "url": "https://polymarket.com/event/dota2-rearis-lynx-2026-08-24",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 7.27,
-      "liquidity": 47.9
-    },
-    {
-      "market": "FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln - More Markets \u2014 Spread: 1. FC K\u00f6ln (-1.5)",
-      "prev": 0.515,
-      "now": 0.0005,
-      "delta": -0.5145,
-      "url": "https://polymarket.com/event/dfb-wur-koe-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 7812.06,
-      "liquidity": 134485.09
-    },
-    {
-      "market": "SC Verl vs. Hamburger SV - More Markets \u2014 SC Verl vs. Hamburger SV: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.0045,
-      "delta": -0.5005,
-      "url": "https://polymarket.com/event/dfb-scv-hsv-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 112285.23,
-      "liquidity": 2752.65
-    },
-    {
-      "market": "FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln - More Markets \u2014 FC W\u00fcrzburger Kickers vs. 1. FC K\u00f6ln: Both Teams to Score in Second Half",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/dfb-wur-koe-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "DFB-Pokal"
-      ],
-      "volume24hr": 92425.05,
-      "liquidity": 2719.3
-    },
-    {
-      "market": "Philadelphia: Veronika Erjavec vs Julia Grabher \u2014 Philadelphia: Completed Match: Veronika Erjavec vs Julia Grabher",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-erjavec-grabher-2026-08-24",
+      "market": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
+      "prev": 0.1305,
+      "now": 0.635,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/atp-pavlovi-varilla-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 135287.01,
-      "liquidity": 955.51
+      "volume24hr": 262557.59,
+      "liquidity": 519140.1
+    },
+    {
+      "market": "US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch \u2014 Gaubas vs. Feldbausch: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-gaubas-feldbau-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 79038.72,
+      "liquidity": 5452.99
+    },
+    {
+      "market": "US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch \u2014 Gaubas vs. Feldbausch: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-gaubas-feldbau-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 79038.72,
+      "liquidity": 5457.94
+    },
+    {
+      "market": "US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch \u2014 Gaubas vs. Feldbausch: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-gaubas-feldbau-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 79038.72,
+      "liquidity": 5457.94
+    },
+    {
+      "market": "Winston-Salem Open: Lorenzo Sonego vs Vit Kopriva \u2014 Winston-Salem Open: Completed Match: Lorenzo Sonego vs Vit Kopriva",
+      "prev": 0.0055,
+      "now": 0.5,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-sonego-kopriva-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 654757.0
+    },
+    {
+      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 Game Spread: Droguet (-5.5) vs Rincon (+5.5)",
+      "prev": 0.0125,
+      "now": 0.5,
+      "delta": 0.4875,
+      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 782.17,
+      "liquidity": 0.21
+    },
+    {
+      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $70 on August 27?",
+      "prev": 0.982,
+      "now": 0.5045,
+      "delta": -0.4775,
+      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
+      "tags": [
+        "Solana",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 150285.88,
+      "liquidity": 2.84
+    },
+    {
+      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: CA Osasuna 1st Half O/U 1.5",
+      "prev": 0.04,
+      "now": 0.5,
+      "delta": 0.46,
+      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 6.67,
+      "liquidity": 0.01
+    },
+    {
+      "market": "CA Osasuna vs. Levante UD - More Markets \u2014 CA Osasuna vs. Levante UD: Both Teams to Score in First Half",
+      "prev": 0.05,
+      "now": 0.5,
+      "delta": 0.45,
+      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 237.22,
+      "liquidity": 0.02
+    },
+    {
+      "market": "CA Osasuna vs. Levante UD - Exact Score \u2014 Exact Score: CA Osasuna 3 - 3 Levante UD?",
+      "prev": 0.002,
+      "now": 0.445,
+      "delta": 0.443,
+      "url": "https://polymarket.com/event/lal-osa-lev-2026-08-24-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 8387.01,
+      "liquidity": 6.83
     }
   ],
   "log": [
-    {
-      "ts": "10:45:01",
-      "text": " poll complete \u2014 1754 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:00:01",
       "text": " poll complete \u2014 1751 markets scanned, 10 flagged"
@@ -271,6 +265,10 @@
     {
       "ts": "18:00:01",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:15:02",
+      "text": " poll complete \u2014 1855 markets scanned, 10 flagged"
     }
   ]
 }
