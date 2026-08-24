@@ -1,153 +1,164 @@
 {
-  "lastUpdate": "2026-08-24 13:15:01 UTC",
+  "lastUpdate": "2026-08-24 13:30:02 UTC",
   "swings": [
     {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Set 2 Winner: Nedic vs Estevez",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 265669.66,
-      "liquidity": 2780.05
-    },
-    {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Set 2 Games O/U 8.5",
+      "market": "Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius \u2014 Roehampton 2, Great Britain, Qualifying: Completed Match: Inaki Montes-De La Torre vs Oskari Paldanius",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "url": "https://polymarket.com/event/atp-torr-paldani-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 265669.66,
-      "liquidity": 2709.65
+      "volume24hr": 30.0,
+      "liquidity": 588.99
     },
     {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 265669.66,
-      "liquidity": 2709.65
-    },
-    {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 265669.66,
-      "liquidity": 2696.93
-    },
-    {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Set 1 Winner: Topo vs Damas",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 17.0,
-      "liquidity": 5649.45
-    },
-    {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 76851.12,
-      "liquidity": 4773.56
-    },
-    {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 76851.12,
-      "liquidity": 4745.65
-    },
-    {
-      "market": "Augsburg: Marko Topo vs Miguel Damas \u2014 Topo vs. Damas: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-topo-damas-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 76851.12,
-      "liquidity": 5282.14
-    },
-    {
-      "market": "Augsburg: Andrej Nedic vs Juan Estevez",
-      "prev": 0.6815,
-      "now": 0.261,
-      "delta": -0.4205,
-      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 265002.38,
-      "liquidity": 262587.33
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24",
+      "market": "Counter-Strike: Lavked vs Vexar (BO3) - Exort Fiesta Group Stage",
+      "prev": 0.34,
+      "now": 0.795,
+      "delta": 0.455,
+      "url": "https://polymarket.com/event/cs2-lavked-vex1-2026-08-24",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 1459261.04,
-      "liquidity": 109.02
+      "volume24hr": 67234.62,
+      "liquidity": 162643.04
+    },
+    {
+      "market": "Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius",
+      "prev": 0.595,
+      "now": 0.9995,
+      "delta": 0.4045,
+      "url": "https://polymarket.com/event/atp-torr-paldani-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 321744.59,
+      "liquidity": 372602.7
+    },
+    {
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Andrej Nedic vs. Juan Estevez: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.625,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 20.2,
+      "liquidity": 25.0
+    },
+    {
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Nedic vs. Estevez: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.625,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 205.28,
+      "liquidity": 25.0
+    },
+    {
+      "market": "Augsburg: Andrej Nedic vs Juan Estevez \u2014 Set Handicap: Nedic (-1.5) vs Estevez (+1.5)",
+      "prev": 0.5,
+      "now": 0.375,
+      "delta": -0.125,
+      "url": "https://polymarket.com/event/atp-nedic-estevez-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 16.05,
+      "liquidity": 25.0
+    },
+    {
+      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin reach $80,000 on August 24?",
+      "prev": 0.695,
+      "now": 0.57,
+      "delta": -0.125,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 17408.57,
+      "liquidity": 5046.86
+    },
+    {
+      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin reach $82,000 on August 24?",
+      "prev": 0.223,
+      "now": 0.123,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 12910.19,
+      "liquidity": 6176.4
+    },
+    {
+      "market": "Bitcoin above ___ on August 24? \u2014 Will the price of Bitcoin be above $80,000 on August 24?",
+      "prev": 0.275,
+      "now": 0.185,
+      "delta": -0.09,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-24-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 55264.3,
+      "liquidity": 26531.48
+    },
+    {
+      "market": "Bologna FC 1909 vs. SS Lazio - More Markets \u2014 Bologna FC 1909 vs. SS Lazio: SS Lazio 2nd Half O/U 0.5",
+      "prev": 0.36,
+      "now": 0.45,
+      "delta": 0.09,
+      "url": "https://polymarket.com/event/sea-bol-laz-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "sea"
+      ],
+      "volume24hr": 136722.18,
+      "liquidity": 1059.2
     }
   ],
   "log": [
-    {
-      "ts": "06:00:01",
-      "text": " poll complete \u2014 1721 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:15:01",
       "text": " poll complete \u2014 1741 markets scanned, 10 flagged"
@@ -263,6 +274,10 @@
     {
       "ts": "13:15:01",
       "text": " poll complete \u2014 1781 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:30:02",
+      "text": " poll complete \u2014 1798 markets scanned, 10 flagged"
     }
   ]
 }
