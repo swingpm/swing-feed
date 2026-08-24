@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-24 15:15:01 UTC",
+  "lastUpdate": "2026-08-24 15:30:02 UTC",
   "swings": [
     {
       "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D \u2014 Counter-Strike: Alliance vs  Phantom Academy - Map 2 Winner",
-      "prev": 0.85,
-      "now": 0.1125,
-      "delta": -0.7375,
+      "prev": 0.1125,
+      "now": 0.9995,
+      "delta": 0.887,
       "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
       "tags": [
         "Esports",
@@ -13,14 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 17381.83,
-      "liquidity": 419.65
+      "volume24hr": 20247.66,
+      "liquidity": 158587.55
     },
     {
       "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D",
-      "prev": 0.69,
-      "now": 0.1555,
-      "delta": -0.5345,
+      "prev": 0.1555,
+      "now": 0.735,
+      "delta": 0.5795,
       "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
       "tags": [
         "Esports",
@@ -28,91 +28,106 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 370716.41,
-      "liquidity": 135263.39
+      "volume24hr": 386440.76,
+      "liquidity": 101319.4
     },
     {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.08,
-      "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
+      "market": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D \u2014 Games Total: O/U 2.5",
+      "prev": 0.52,
+      "now": 0.995,
+      "delta": 0.475,
+      "url": "https://polymarket.com/event/cs2-all-phanto-2026-08-24",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 512021.21,
-      "liquidity": 1119696.08
+      "volume24hr": 46.66,
+      "liquidity": 5160.27
     },
     {
-      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 27\u00b0C on August 24?",
-      "prev": 0.555,
-      "now": 0.92,
-      "delta": 0.365,
-      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-24-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Paris",
-        "France",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 6131.92,
-      "liquidity": 307.65
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 1?",
-      "prev": 0.275,
-      "now": 0.595,
-      "delta": 0.32,
-      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 340.78,
-      "liquidity": 11.95
-    },
-    {
-      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 Game Spread: Droguet (-5.5) vs Rincon (+5.5)",
-      "prev": 0.675,
-      "now": 0.395,
-      "delta": -0.28,
-      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Set 1 Winner: Marino vs Ferro",
+      "prev": 0.56,
+      "now": 0.983,
+      "delta": 0.423,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 59868.64,
-      "liquidity": 472.69
+      "volume24hr": 30.27,
+      "liquidity": 943.31
     },
     {
-      "market": "LoL: Deer Gaming vs DMG Esports (BO3) - NLC Playoffs \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.52,
-      "now": 0.255,
-      "delta": -0.265,
-      "url": "https://polymarket.com/event/lol-deer-dmg-2026-08-24",
+      "market": "What price will Ethereum hit on August 24? \u2014 Will Ethereum dip to $2,400 on August 24?",
+      "prev": 0.08,
+      "now": 0.47,
+      "delta": 0.39,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-on-august-24-2026",
+      "tags": [
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Ethereum",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
+      ],
+      "volume24hr": 55849.47,
+      "liquidity": 116.51
+    },
+    {
+      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 First Blood in Game 1?",
+      "prev": 0.495,
+      "now": 0.115,
+      "delta": -0.38,
+      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 97883.07,
-      "liquidity": 2.7
+      "volume24hr": 241.96,
+      "liquidity": 127.56
     },
     {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: Leo (-1.5) vs GenOne (+1.5)",
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro",
+      "prev": 0.465,
+      "now": 0.765,
+      "delta": 0.3,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 58679.1,
+      "liquidity": 375130.74
+    },
+    {
+      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 30.5 in Game 2?",
       "prev": 0.5,
-      "now": 0.235,
-      "delta": -0.265,
+      "now": 0.23,
+      "delta": -0.27,
+      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 802789.5,
+      "liquidity": 67.4
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.43,
+      "now": 0.175,
+      "delta": -0.255,
       "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
       "tags": [
         "Esports",
@@ -120,47 +135,29 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 87582.97,
-      "liquidity": 32.5
+      "volume24hr": 97418.93,
+      "liquidity": 41.22
     },
     {
-      "market": "Highest temperature in Paris on August 24? \u2014 Will the highest temperature in Paris be 28\u00b0C on August 24?",
-      "prev": 0.35,
-      "now": 0.085,
-      "delta": -0.265,
-      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-24-2026",
+      "market": "Bitcoin above ___ on August 24? \u2014 Will the price of Bitcoin be above $80,000 on August 24?",
+      "prev": 0.1855,
+      "now": 0.426,
+      "delta": 0.2405,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-24-2026",
       "tags": [
-        "Weather",
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
         "Recurring",
-        "Hide From New",
-        "Paris",
-        "France",
-        "Daily Temperature",
-        "Highest temperature"
+        "Hide From New"
       ],
-      "volume24hr": 8203.23,
-      "liquidity": 838.1
-    },
-    {
-      "market": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon \u2014 Droguet vs. Rincon: Set 1 Games O/U 10.5",
-      "prev": 0.235,
-      "now": 0.5,
-      "delta": 0.265,
-      "url": "https://polymarket.com/event/atp-droguet-rincon-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 59868.64,
-      "liquidity": 302248.26
+      "volume24hr": 84799.89,
+      "liquidity": 12539.56
     }
   ],
   "log": [
-    {
-      "ts": "08:00:01",
-      "text": " poll complete \u2014 1654 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:15:01",
       "text": " poll complete \u2014 1682 markets scanned, 10 flagged"
@@ -276,6 +273,10 @@
     {
       "ts": "15:15:01",
       "text": " poll complete \u2014 1747 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:30:02",
+      "text": " poll complete \u2014 1789 markets scanned, 10 flagged"
     }
   ]
 }
