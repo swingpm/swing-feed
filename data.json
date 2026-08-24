@@ -1,152 +1,157 @@
 {
-  "lastUpdate": "2026-08-24 00:30:02 UTC",
+  "lastUpdate": "2026-08-24 00:45:02 UTC",
   "swings": [
     {
-      "market": "Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang \u2014 Bondar vs. Liang: Match O/U 21.5",
-      "prev": 0.27,
-      "now": 0.835,
-      "delta": 0.565,
-      "url": "https://polymarket.com/event/wta-bondar-liang-2026-08-23",
+      "market": "Indiana Fever vs. Chicago Sky \u2014 Spread: Indiana Fever (-4.5)",
+      "prev": 0.365,
+      "now": 0.755,
+      "delta": 0.39,
+      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 491.71,
-      "liquidity": 63.8
+      "volume24hr": 10702.34,
+      "liquidity": 1037.45
     },
     {
-      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Monterrey Open, Qualification: Completed Match: Maria Timofeeva vs Kamilla Rakhimova",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
+      "market": "Indiana Fever vs. Chicago Sky \u2014 Spread: Indiana Fever (-3.5)",
+      "prev": 0.425,
+      "now": 0.795,
+      "delta": 0.37,
+      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 120454.04,
-      "liquidity": 1380.77
+      "volume24hr": 91200.76,
+      "liquidity": 159444.93
     },
     {
-      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Maria Timofeeva vs. Kamilla Rakhimova: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
+      "market": "Indiana Fever vs. Chicago Sky \u2014 Spread: Indiana Fever (-1.5)",
+      "prev": 0.495,
+      "now": 0.865,
+      "delta": 0.37,
+      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 16.67,
-      "liquidity": 5713.49
+      "volume24hr": 2753.68,
+      "liquidity": 7844.23
     },
     {
-      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Set Handicap: Timofeeva (-1.5) vs Rakhimova (+1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
+      "market": "Indiana Fever vs. Chicago Sky",
+      "prev": 0.545,
+      "now": 0.885,
+      "delta": 0.34,
+      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 30.0,
-      "liquidity": 4724.64
+      "volume24hr": 428501.98,
+      "liquidity": 198482.52
     },
     {
-      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Timofeeva vs. Rakhimova: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
+      "market": "Indiana Fever vs. Chicago Sky \u2014 Kelsey Mitchell: Points O/U 24.5",
+      "prev": 0.365,
+      "now": 0.655,
+      "delta": 0.29,
+      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 14.57,
-      "liquidity": 5653.81
+      "volume24hr": 8.14,
+      "liquidity": 22.19
     },
     {
-      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Set Handicap: Rakhimova (-1.5) vs Timofeeva (+1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
+      "market": "Indiana Fever vs. Chicago Sky \u2014 Spread: Indiana Fever (-2.5)",
+      "prev": 0.465,
+      "now": 0.725,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 4.99,
-      "liquidity": 5135.13
+      "volume24hr": 79764.84,
+      "liquidity": 73938.01
     },
     {
-      "market": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova \u2014 Timofeeva vs. Rakhimova: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-timofee-rakhimo-2026-08-23",
+      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 Spread: Las Vegas Aces (-10.5)",
+      "prev": 0.45,
+      "now": 0.71,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 7.13,
-      "liquidity": 6023.31
+      "volume24hr": 22684.35,
+      "liquidity": 51063.33
     },
     {
-      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Cincinnati Open: Completed Match: Coco Gauff vs Jessica Pegula",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-gauff-pegula-2026-08-23",
+      "market": "Las Vegas Aces vs. Toronto Tempo \u2014 A'ja Wilson: Rebounds O/U 9.5",
+      "prev": 0.185,
+      "now": 0.435,
+      "delta": 0.25,
+      "url": "https://polymarket.com/event/wnba-las-tor-2026-08-23",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 1066162.47,
-      "liquidity": 2262.98
+      "volume24hr": 955.21,
+      "liquidity": 2.56
     },
     {
-      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Coco Gauff vs. Jessica Pegula: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/wta-gauff-pegula-2026-08-23",
+      "market": "Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo \u2014 Set 2 Winner: Busta vs Vallejo",
+      "prev": 0.745,
+      "now": 0.5,
+      "delta": -0.245,
+      "url": "https://polymarket.com/event/atp-busta-vallejo-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 9926.68,
-      "liquidity": 19243.05
+      "volume24hr": 387.61,
+      "liquidity": 0.89
     },
     {
-      "market": "Cincinnati Open: Coco Gauff vs Jessica Pegula \u2014 Gauff vs. Pegula: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-gauff-pegula-2026-08-23",
+      "market": "Indiana Fever vs. Chicago Sky: O/U 187.5",
+      "prev": 0.655,
+      "now": 0.895,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-23",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 1066162.47,
-      "liquidity": 3828.55
+      "volume24hr": 27768.4,
+      "liquidity": 72077.73
     }
   ],
   "log": [
-    {
-      "ts": "17:15:01",
-      "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:30:01",
       "text": " poll complete \u2014 2005 markets scanned, 10 flagged"
@@ -262,6 +267,10 @@
     {
       "ts": "00:30:02",
       "text": " poll complete \u2014 1792 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:45:02",
+      "text": " poll complete \u2014 1757 markets scanned, 10 flagged"
     }
   ]
 }
