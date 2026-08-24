@@ -1,165 +1,148 @@
 {
-  "lastUpdate": "2026-08-24 16:00:01 UTC",
+  "lastUpdate": "2026-08-24 16:15:01 UTC",
   "swings": [
     {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 LoL: Natus Vincere vs Fnatic - Game 1 Winner",
-      "prev": 0.085,
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Marino vs. Ferro: Match O/U 22.5",
+      "prev": 0.535,
+      "now": 0.0005,
+      "delta": -0.5345,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 192.03,
+      "liquidity": 5763.97
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Set 2 Winner: Marino vs Ferro",
+      "prev": 0.465,
+      "now": 0.995,
+      "delta": 0.53,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 9.89,
+      "liquidity": 2833.39
+    },
+    {
+      "market": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva \u2014 Set 1 Winner: Dedura-Palomero vs Silva",
+      "prev": 0.52,
+      "now": 0.0005,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/atp-dedurap-sil-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 539.73,
+      "liquidity": 15611.83
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Marino vs. Ferro: Match O/U 23.5",
+      "prev": 0.52,
+      "now": 0.0005,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 4.99,
+      "liquidity": 5294.88
+    },
+    {
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Set Handicap: Marino (-1.5) vs Ferro (+1.5)",
+      "prev": 0.49,
       "now": 0.9995,
-      "delta": 0.9145,
-      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
+      "delta": 0.5095,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 573119.37,
-      "liquidity": 861416.34
+      "volume24hr": 267.38,
+      "liquidity": 4436.4
     },
     {
-      "market": "Ethereum above ___ on August 24? \u2014 Will the price of Ethereum be above $2,500 on August 24?",
-      "prev": 0.78,
-      "now": 0.005,
-      "delta": -0.775,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-24-2026",
-      "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 15664.44,
-      "liquidity": 280.8
-    },
-    {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map Handicap: Leo (-1.5) vs GenOne (+1.5)",
+      "market": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva \u2014 Dedura-Palomero vs. Silva: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-dedurap-sil-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 108128.39,
-      "liquidity": 2059.33
+      "volume24hr": 207389.03,
+      "liquidity": 5483.01
     },
     {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Total Kills Over/Under 27.5 in Game 1?",
-      "prev": 0.485,
-      "now": 0.005,
-      "delta": -0.48,
-      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 2845.89,
-      "liquidity": 6.39
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season \u2014 Game Handicap: FNC (-1.5) vs Natus Vincere (+1.5)",
-      "prev": 0.47,
-      "now": 0.005,
-      "delta": -0.465,
-      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 29981.88,
-      "liquidity": 277078.01
-    },
-    {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.46,
-      "now": 0.9,
-      "delta": 0.44,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 108128.39,
-      "liquidity": 457.62
-    },
-    {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: GenOne (-3.5) vs Leo Team (+3.5)",
+      "market": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva \u2014 Dedura-Palomero vs. Silva: Set 1 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-dedurap-sil-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 108128.39,
-      "liquidity": 457.62
+      "volume24hr": 207389.03,
+      "liquidity": 5382.11
     },
     {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: GenOne (-6.5) vs Leo Team (+6.5)",
+      "market": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva \u2014 Dedura-Palomero vs. Silva: Set 1 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-dedurap-sil-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 108128.39,
-      "liquidity": 438.62
+      "volume24hr": 207389.03,
+      "liquidity": 5443.05
     },
     {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 18.5",
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 US Open, Qualification WTA: Completed Match: Rebecca Marino vs Fiona Ferro",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 108128.39,
-      "liquidity": 438.62
+      "volume24hr": 1612.0,
+      "liquidity": 6165.53
     },
     {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: GenOne (-12.5) vs Leo Team (+12.5)",
+      "market": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro \u2014 Marino vs. Ferro: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-marino-ferro-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 108128.39,
-      "liquidity": 438.62
+      "volume24hr": 95237.27,
+      "liquidity": 2703.26
     }
   ],
   "log": [
-    {
-      "ts": "08:45:01",
-      "text": " poll complete \u2014 1688 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:00:02",
       "text": " poll complete \u2014 1714 markets scanned, 10 flagged"
@@ -275,6 +258,10 @@
     {
       "ts": "16:00:01",
       "text": " poll complete \u2014 1782 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:15:01",
+      "text": " poll complete \u2014 1788 markets scanned, 10 flagged"
     }
   ]
 }
