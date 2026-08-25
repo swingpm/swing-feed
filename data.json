@@ -1,41 +1,25 @@
 {
-  "lastUpdate": "2026-08-25 20:00:01 UTC",
+  "lastUpdate": "2026-08-25 20:15:02 UTC",
   "swings": [
     {
-      "market": "FK Bod\u00f8/Glimt vs. NEC - More Markets \u2014 FK Bod\u00f8/Glimt vs. NEC: 1st Half O/U 1.5",
-      "prev": 0.075,
-      "now": 0.9995,
-      "delta": 0.9245,
-      "url": "https://polymarket.com/event/ucl-bog-nec-2026-08-25-more-markets",
+      "market": "Winston-Salem Open: Adam Walton vs Ignacio Buse",
+      "prev": 0.63,
+      "now": 0.04,
+      "delta": -0.59,
+      "url": "https://polymarket.com/event/atp-walton-buse-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
+        "Games"
       ],
-      "volume24hr": 4208.7,
-      "liquidity": 32775.28
+      "volume24hr": 211429.87,
+      "liquidity": 376642.85
     },
     {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club \u2014 Will Al Nassr Saudi Club win on 2026-08-25?",
-      "prev": 0.046,
-      "now": 0.872,
-      "delta": 0.826,
-      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Saudi Professional League"
-      ],
-      "volume24hr": 239825.81,
-      "liquidity": 172287.08
-    },
-    {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: O/U 4.5",
-      "prev": 0.22,
-      "now": 0.995,
-      "delta": 0.775,
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Ettifaq Saudi Club O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -43,61 +27,14 @@
         "Soccer",
         "Saudi Professional League"
       ],
-      "volume24hr": 17605.41,
-      "liquidity": 134617.91
+      "volume24hr": 1094.65,
+      "liquidity": 15925.77
     },
     {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club \u2014 Will Al Ettifaq Saudi Club win on 2026-08-25?",
-      "prev": 0.765,
-      "now": 0.015,
-      "delta": -0.75,
-      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Saudi Professional League"
-      ],
-      "volume24hr": 206287.47,
-      "liquidity": 103796.76
-    },
-    {
-      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Both Teams to Score",
-      "prev": 0.28,
-      "now": 0.995,
-      "delta": 0.715,
-      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
-      ],
-      "volume24hr": 660.54,
-      "liquidity": 8047.86
-    },
-    {
-      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Spread: Norwich City FC (-1.5)",
-      "prev": 0.78,
-      "now": 0.075,
-      "delta": -0.705,
-      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
-      ],
-      "volume24hr": 858.97,
-      "liquidity": 352.43
-    },
-    {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Nassr Saudi Club O/U 1.5",
-      "prev": 0.32,
-      "now": 0.995,
-      "delta": 0.675,
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -105,29 +42,59 @@
         "Soccer",
         "Saudi Professional League"
       ],
-      "volume24hr": 976.8,
-      "liquidity": 6167.24
+      "volume24hr": 4.87,
+      "liquidity": 3315.96
     },
     {
-      "market": "FK Bod\u00f8/Glimt vs. NEC - More Markets \u2014 FK Bod\u00f8/Glimt vs. NEC: 1st Half O/U 0.5",
-      "prev": 0.34,
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: 2nd Half O/U 2.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.6595,
-      "url": "https://polymarket.com/event/ucl-bog-nec-2026-08-25-more-markets",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "UCL"
+        "Saudi Professional League"
       ],
-      "volume24hr": 7706.39,
-      "liquidity": 161249.12
+      "volume24hr": 421925.66,
+      "liquidity": 3950.19
     },
     {
-      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: O/U 2.5",
-      "prev": 0.435,
-      "now": 0.995,
-      "delta": 0.56,
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Ettifaq Saudi Club 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 421925.66,
+      "liquidity": 3182.48
+    },
+    {
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Ettifaq Saudi Club 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 421925.66,
+      "liquidity": 3303.1
+    },
+    {
+      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Cardiff City FC O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -136,30 +103,59 @@
         "EFL Cup",
         "Carabao Cup"
       ],
-      "volume24hr": 25895.8,
-      "liquidity": 142624.83
+      "volume24hr": 1481.84,
+      "liquidity": 10996.21
     },
     {
-      "market": "Counter-Strike: K27 vs SPARTA (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map Handicap: K27 (-1.5) vs SPARTA (+1.5)",
-      "prev": 0.86,
-      "now": 0.335,
-      "delta": -0.525,
-      "url": "https://polymarket.com/event/cs2-k271-sparta-2026-08-25",
+      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Cardiff City FC O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "EFL Cup",
+        "Carabao Cup"
       ],
-      "volume24hr": 3920.47,
-      "liquidity": 75.25
+      "volume24hr": 5.0,
+      "liquidity": 11531.61
+    },
+    {
+      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Norwich City FC O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Cup",
+        "Carabao Cup"
+      ],
+      "volume24hr": 269.0,
+      "liquidity": 11661.7
+    },
+    {
+      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Norwich City FC 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Cup",
+        "Carabao Cup"
+      ],
+      "volume24hr": 133640.55,
+      "liquidity": 4786.41
     }
   ],
   "log": [
-    {
-      "ts": "12:45:01",
-      "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:00:01",
       "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
@@ -275,6 +271,10 @@
     {
       "ts": "20:00:01",
       "text": " poll complete \u2014 1865 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:15:02",
+      "text": " poll complete \u2014 1890 markets scanned, 10 flagged"
     }
   ]
 }
