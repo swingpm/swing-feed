@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-25 21:00:01 UTC",
+  "lastUpdate": "2026-08-25 21:15:02 UTC",
   "swings": [
     {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Real Betis Balompi\u00e9 O/U 0.5",
-      "prev": 0.235,
-      "now": 0.9995,
-      "delta": 0.7645,
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: 2nd Half O/U 1.5",
+      "prev": 0.56,
+      "now": 0.0005,
+      "delta": -0.5595,
       "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -13,44 +13,101 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 3047.99,
-      "liquidity": 22303.0
+      "volume24hr": 11.79,
+      "liquidity": 3128.54
     },
     {
-      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 Spread: LASK Linz (-2.5)",
-      "prev": 0.3185,
-      "now": 0.9995,
-      "delta": 0.681,
-      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 15897.64,
-      "liquidity": 154586.49
-    },
-    {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 \u2014 Will Real Betis Balompi\u00e9 win on 2026-08-25?",
-      "prev": 0.195,
-      "now": 0.87,
-      "delta": 0.675,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25",
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Valencia CF 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 877125.62,
-      "liquidity": 4173.28
+      "volume24hr": 18.77,
+      "liquidity": 3512.44
     },
     {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - Exact Score \u2014 Exact Score: Valencia CF 0 - 0 Real Betis Balompi\u00e9?",
-      "prev": 0.6,
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Valencia CF 2nd Half O/U 1.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.5995,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 939431.0,
+      "liquidity": 3163.19
+    },
+    {
+      "market": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova \u2014 US Open, Qualification WTA: Completed Match: Martyna Kubka vs Annika Penickova",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-kubka-penick-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 236050.81,
+      "liquidity": 1382.87
+    },
+    {
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Real Betis Balompi\u00e9 2nd Half O/U 1.5",
+      "prev": 0.4955,
+      "now": 0.0005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 182.13,
+      "liquidity": 3621.92
+    },
+    {
+      "market": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova \u2014 Game Spread: Kubka (-3.5) vs Penickova (+3.5)",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-kubka-penick-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 15.2,
+      "liquidity": 3213.62
+    },
+    {
+      "market": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova \u2014 Martyna Kubka vs. Annika Penickova: Total Sets O/U 2.5",
+      "prev": 0.505,
+      "now": 0.9995,
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/wta-kubka-penick-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 236050.81,
+      "liquidity": 5492.32
+    },
+    {
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - Exact Score \u2014 Exact Score: Valencia CF 0 - 1 Real Betis Balompi\u00e9?",
+      "prev": 0.535,
+      "now": 0.9995,
+      "delta": 0.4645,
       "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-exact-score",
       "tags": [
         "Sports",
@@ -58,14 +115,14 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 12227.68,
-      "liquidity": 174517.19
+      "volume24hr": 21904.95,
+      "liquidity": 50256.96
     },
     {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: O/U 0.5",
-      "prev": 0.405,
-      "now": 0.9995,
-      "delta": 0.5945,
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Valencia CF O/U 0.5",
+      "prev": 0.46,
+      "now": 0.0005,
+      "delta": -0.4595,
       "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -73,89 +130,26 @@
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 232398.45,
-      "liquidity": 248136.03
+      "volume24hr": 3519.24,
+      "liquidity": 37692.57
     },
     {
-      "market": "FK Bod\u00f8/Glimt vs. NEC - More Markets \u2014 FK Bod\u00f8/Glimt vs. NEC: O/U 3.5",
-      "prev": 0.555,
-      "now": 0.0005,
-      "delta": -0.5545,
-      "url": "https://polymarket.com/event/ucl-bog-nec-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 31920.67,
-      "liquidity": 248338.38
-    },
-    {
-      "market": "Will Valencia CF vs. Real Betis Balompi\u00e9 end in a draw?",
-      "prev": 0.635,
-      "now": 0.085,
-      "delta": -0.55,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25",
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - Exact Score \u2014 Exact Score: Any Other Score?",
+      "prev": 0.445,
+      "now": 0.0045,
+      "delta": -0.4405,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-exact-score",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "La Liga"
       ],
-      "volume24hr": 174067.62,
-      "liquidity": 12571.38
-    },
-    {
-      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 LASK Linz vs. Celtic FC: Celtic FC O/U 1.5",
-      "prev": 0.535,
-      "now": 0.005,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 106.71,
-      "liquidity": 6647.2
-    },
-    {
-      "market": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka \u2014 Martinez vs. Glinka: Match O/U 23.5",
-      "prev": 0.525,
-      "now": 0.0005,
-      "delta": -0.5245,
-      "url": "https://polymarket.com/event/atp-martine-glinka-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 868964.48,
-      "liquidity": 5955.64
-    },
-    {
-      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 LASK Linz vs. Celtic FC: O/U 4.5",
-      "prev": 0.485,
-      "now": 0.9995,
-      "delta": 0.5145,
-      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 71822.89,
-      "liquidity": 357290.07
+      "volume24hr": 426.55,
+      "liquidity": 1736.01
     }
   ],
   "log": [
-    {
-      "ts": "13:45:01",
-      "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:00:02",
       "text": " poll complete \u2014 1795 markets scanned, 10 flagged"
@@ -271,6 +265,10 @@
     {
       "ts": "21:00:01",
       "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:15:02",
+      "text": " poll complete \u2014 1885 markets scanned, 10 flagged"
     }
   ]
 }
