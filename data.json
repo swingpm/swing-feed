@@ -1,152 +1,151 @@
 {
-  "lastUpdate": "2026-08-25 21:30:02 UTC",
+  "lastUpdate": "2026-08-25 21:45:01 UTC",
   "swings": [
     {
-      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Set 2 Winner: Assche vs Kovacevic",
-      "prev": 0.675,
-      "now": 0.0005,
-      "delta": -0.6745,
-      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
+      "market": "Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh \u2014 Game Spread: Cerundolo (-3.5) vs Suresh (+3.5)",
+      "prev": 0.265,
+      "now": 0.835,
+      "delta": 0.57,
+      "url": "https://polymarket.com/event/atp-cerund-suresh-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 27.15,
-      "liquidity": 3755.34
+      "volume24hr": 102.12,
+      "liquidity": 170.28
     },
     {
-      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Assche vs. Kovacevic: Match O/U 22.5",
-      "prev": 0.51,
-      "now": 0.0005,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
+      "market": "Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh \u2014 Set 1 Winner: Cerundolo vs Suresh",
+      "prev": 0.435,
+      "now": 0.9945,
+      "delta": 0.5595,
+      "url": "https://polymarket.com/event/atp-cerund-suresh-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 338.69,
-      "liquidity": 6007.57
+      "volume24hr": 12664.06,
+      "liquidity": 723.96
     },
     {
-      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Winston-Salem Open: Completed Match: Luca Van Assche vs Aleksandar Kovacevic",
+      "market": "US Open, Qualification ATP: Maks Kasnikowski vs Nicolai Budkov Kjaer \u2014 US Open, Qualification ATP: Completed Match: Maks Kasnikowski vs Nicolai Budkov Kjaer",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
+      "url": "https://polymarket.com/event/atp-kasniko-kjaer-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 222918.54,
-      "liquidity": 1417.71
+      "volume24hr": 117807.48,
+      "liquidity": 1383.07
     },
     {
-      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Luca Van Assche vs. Aleksandar Kovacevic: Total Sets O/U 2.5",
+      "market": "US Open, Qualification ATP: Maks Kasnikowski vs Nicolai Budkov Kjaer \u2014 Set Handicap: Kasnikowski (-1.5) vs Kjaer (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
+      "url": "https://polymarket.com/event/atp-kasniko-kjaer-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 9.67,
-      "liquidity": 5600.97
+      "volume24hr": 15.09,
+      "liquidity": 4126.09
     },
     {
-      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Assche vs. Kovacevic: Match O/U 21.5",
+      "market": "US Open, Qualification ATP: Maks Kasnikowski vs Nicolai Budkov Kjaer \u2014 Set Handicap: Kjaer (-1.5) vs Kasnikowski (+1.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
+      "url": "https://polymarket.com/event/atp-kasniko-kjaer-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 141.7,
-      "liquidity": 5968.31
+      "volume24hr": 35.27,
+      "liquidity": 4934.92
     },
     {
-      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Set Handicap: Assche (-1.5) vs Kovacevic (+1.5)",
+      "market": "US Open, Qualification ATP: Maks Kasnikowski vs Nicolai Budkov Kjaer \u2014 Game Spread: Kjaer (-2.5) vs Kasnikowski (+2.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-kasniko-kjaer-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 8.08,
-      "liquidity": 5291.9
+      "volume24hr": 117807.48,
+      "liquidity": 3213.62
     },
     {
-      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Assche vs. Kovacevic: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 883.24,
-      "liquidity": 5633.49
-    },
-    {
-      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Set 1 Winner: Collignon vs Hijikata",
-      "prev": 0.5,
+      "market": "US Open, Qualification ATP: Maks Kasnikowski vs Nicolai Budkov Kjaer \u2014 Maks Kasnikowski vs. Nicolai Budkov Kjaer: Total Sets O/U 2.5",
+      "prev": 0.505,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
+      "delta": 0.4945,
+      "url": "https://polymarket.com/event/atp-kasniko-kjaer-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 250.01,
-      "liquidity": 8068.84
+      "volume24hr": 117807.48,
+      "liquidity": 5497.32
     },
     {
-      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Collignon vs. Hijikata: Set 1 Games O/U 8.5",
+      "market": "Counter-Strike: K27 vs SPARTA (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 3 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
+      "now": 0.98,
+      "delta": 0.48,
+      "url": "https://polymarket.com/event/cs2-k271-sparta-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 20.0,
-      "liquidity": 5748.55
+      "volume24hr": 315085.56,
+      "liquidity": 248.42
     },
     {
-      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Collignon vs. Hijikata: Set 1 Games O/U 9.5",
+      "market": "Counter-Strike: K27 vs SPARTA (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 3 Rounds Handicap: K27 (-3.5) vs SPARTA (+3.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-k271-sparta-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 172570.73,
-      "liquidity": 5752.04
+      "volume24hr": 5.0,
+      "liquidity": 100.37
+    },
+    {
+      "market": "Counter-Strike: K27 vs SPARTA (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 3 Rounds Handicap: K27 (-6.5) vs SPARTA (+6.5)",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-k271-sparta-2026-08-25",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 100.37
     }
   ],
   "log": [
-    {
-      "ts": "14:15:01",
-      "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:30:02",
       "text": " poll complete \u2014 1814 markets scanned, 10 flagged"
@@ -262,6 +261,10 @@
     {
       "ts": "21:30:02",
       "text": " poll complete \u2014 1922 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:45:01",
+      "text": " poll complete \u2014 1926 markets scanned, 10 flagged"
     }
   ]
 }
