@@ -1,113 +1,56 @@
 {
-  "lastUpdate": "2026-08-25 00:00:01 UTC",
+  "lastUpdate": "2026-08-25 00:15:01 UTC",
   "swings": [
     {
-      "market": "CA Tigre vs. CA Central C\u00f3rdoba - More Markets \u2014 CA Tigre vs. CA Central C\u00f3rdoba: 2nd Half O/U 1.5",
-      "prev": 0.64,
-      "now": 0.005,
-      "delta": -0.635,
-      "url": "https://polymarket.com/event/arg-tig-cac-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 155566.66,
-      "liquidity": 2845.5
-    },
-    {
-      "market": "CA Tigre vs. CA Central C\u00f3rdoba - More Markets \u2014 CA Tigre vs. CA Central C\u00f3rdoba: Both Teams to Score in Second Half",
-      "prev": 0.585,
-      "now": 0.005,
-      "delta": -0.58,
-      "url": "https://polymarket.com/event/arg-tig-cac-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 155566.66,
-      "liquidity": 2871.1
-    },
-    {
-      "market": "Monterrey Open: Alycia Parks vs Petra Marcinko \u2014 Set 2 Winner: Parks vs Marcinko",
-      "prev": 0.455,
-      "now": 0.995,
-      "delta": 0.54,
-      "url": "https://polymarket.com/event/wta-parks-marcink-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 40.31,
-      "liquidity": 10766.08
-    },
-    {
-      "market": "CA Tigre vs. CA Central C\u00f3rdoba - More Markets \u2014 CA Tigre vs. CA Central C\u00f3rdoba: O/U 3.5",
-      "prev": 0.535,
-      "now": 0.005,
-      "delta": -0.53,
-      "url": "https://polymarket.com/event/arg-tig-cac-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 11763.9,
-      "liquidity": 168573.55
-    },
-    {
-      "market": "Monterrey Open: Alycia Parks vs Petra Marcinko \u2014 Set Handicap: Marcinko (-1.5) vs Parks (+1.5)",
-      "prev": 0.56,
-      "now": 0.04,
-      "delta": -0.52,
-      "url": "https://polymarket.com/event/wta-parks-marcink-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 836.86,
-      "liquidity": 460.0
-    },
-    {
-      "market": "CA Tigre vs. CA Central C\u00f3rdoba - More Markets \u2014 CA Tigre vs. CA Central C\u00f3rdoba: CA Tigre O/U 2.5",
-      "prev": 0.52,
-      "now": 0.005,
-      "delta": -0.515,
-      "url": "https://polymarket.com/event/arg-tig-cac-2026-08-24-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 178.28,
-      "liquidity": 13394.53
-    },
-    {
-      "market": "Monterrey Open: Janice Tjen vs Dayana Yastremska \u2014 Set 2 Winner: Tjen vs Yastremska",
-      "prev": 0.49,
-      "now": 0.9995,
-      "delta": 0.5095,
-      "url": "https://polymarket.com/event/wta-tjen-yastrem-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 227.32,
-      "liquidity": 5074.16
-    },
-    {
-      "market": "Tampa Bay Rays vs. Detroit Tigers: 1st 5 Innings O/U 3.5",
+      "market": "Boston Red Sox vs. Miami Marlins \u2014 1st 5 Innings Spread: Miami Marlins (-1.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 336.89,
+      "liquidity": 2032.16
+    },
+    {
+      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 287.0,
+      "liquidity": 2216.3
+    },
+    {
+      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 1349.85,
+      "liquidity": 2308.46
+    },
+    {
+      "market": "Tampa Bay Rays vs. Detroit Tigers: 1st 5 Innings O/U 4.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
       "tags": [
         "Sports",
@@ -115,43 +58,101 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 23.59,
-      "liquidity": 1745.42
+      "volume24hr": 1129.65,
+      "liquidity": 2079.69
     },
     {
-      "market": "US Open, Qualification ATP: Coleman Wong vs Elmer Moeller \u2014 Wong vs. Moeller: Set 2 Games O/U 8.5",
+      "market": "Tampa Bay Rays vs. Detroit Tigers \u2014 1st 5 Innings Spread: Detroit Tigers (-1.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-wong-moeller-2026-08-24",
+      "now": 0.0035,
+      "delta": -0.4965,
+      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 89208.06,
-      "liquidity": 3206.68
+      "volume24hr": 13.6,
+      "liquidity": 2069.12
     },
     {
-      "market": "US Open, Qualification ATP: Coleman Wong vs Elmer Moeller \u2014 Wong vs. Moeller: Set 2 Games O/U 9.5",
+      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 2.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-wong-moeller-2026-08-24",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 89208.06,
-      "liquidity": 3196.12
+      "volume24hr": 9.0,
+      "liquidity": 1727.14
+    },
+    {
+      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 62.0,
+      "liquidity": 2040.69
+    },
+    {
+      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 20.0,
+      "liquidity": 2123.11
+    },
+    {
+      "market": "Tampa Bay Rays vs. Detroit Tigers: 1st 5 Innings O/U 5.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 2162.46
+    },
+    {
+      "market": "Tampa Bay Rays vs. Detroit Tigers: 1st 5 Innings O/U 6.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 11.0,
+      "liquidity": 1863.58
     }
   ],
   "log": [
-    {
-      "ts": "16:45:01",
-      "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:00:01",
       "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
@@ -267,6 +268,10 @@
     {
       "ts": "00:00:01",
       "text": " poll complete \u2014 1823 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:15:01",
+      "text": " poll complete \u2014 1831 markets scanned, 10 flagged"
     }
   ]
 }
