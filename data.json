@@ -1,131 +1,11 @@
 {
-  "lastUpdate": "2026-08-25 04:15:01 UTC",
+  "lastUpdate": "2026-08-25 04:30:01 UTC",
   "swings": [
     {
-      "market": "Cleveland Guardians vs. Los Angeles Angels \u2014 Spread: Cleveland Guardians (-2.5)",
-      "prev": 0.755,
-      "now": 0.005,
-      "delta": -0.75,
-      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4810.52,
-      "liquidity": 27616.38
-    },
-    {
-      "market": "Cleveland Guardians vs. Los Angeles Angels: O/U 5.5",
-      "prev": 0.265,
-      "now": 0.995,
-      "delta": 0.73,
-      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 2294.58,
-      "liquidity": 25932.95
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Spread: Atlanta Dream (-9.5)",
-      "prev": 0.68,
-      "now": 0.005,
-      "delta": -0.675,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 105092.91,
-      "liquidity": 165233.47
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics: O/U 10.5",
-      "prev": 0.385,
-      "now": 0.995,
-      "delta": 0.61,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 116440.7,
-      "liquidity": 144014.59
-    },
-    {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Spread: Atlanta Dream (-10.5)",
-      "prev": 0.555,
-      "now": 0.015,
-      "delta": -0.54,
-      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 104260.93,
-      "liquidity": 92517.14
-    },
-    {
-      "market": "Will the game go to extra innings?: Cleveland Guardians vs. Los Angeles Angels",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 24.19,
-      "liquidity": 2046.69
-    },
-    {
-      "market": "Will the game go to extra innings?: Cincinnati Reds vs. San Francisco Giants",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 637284.74,
-      "liquidity": 963.4
-    },
-    {
-      "market": "Cincinnati Reds vs. San Francisco Giants \u2014 Spread: San Francisco Giants (-4.5)",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4198.31,
-      "liquidity": 26480.49
-    },
-    {
-      "market": "Philadelphia Phillies vs. Seattle Mariners \u2014 Spread: Seattle Mariners (-3.5)",
-      "prev": 0.48,
-      "now": 0.967,
-      "delta": 0.487,
+      "market": "Philadelphia Phillies vs. Seattle Mariners: O/U 11.5",
+      "prev": 0.53,
+      "now": 0.004,
+      "delta": -0.526,
       "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
       "tags": [
         "Sports",
@@ -133,30 +13,146 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 29.0,
-      "liquidity": 22.22
+      "volume24hr": 163.97,
+      "liquidity": 3456.89
     },
     {
-      "market": "Cleveland Guardians vs. Los Angeles Angels: O/U 6.5",
-      "prev": 0.485,
-      "now": 0.005,
-      "delta": -0.48,
-      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-24",
+      "market": "Philadelphia Phillies vs. Seattle Mariners \u2014 Spread: Seattle Mariners (-7.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 219.79,
-      "liquidity": 2133.68
+      "volume24hr": 770449.28,
+      "liquidity": 2284.84
+    },
+    {
+      "market": "Philadelphia Phillies vs. Seattle Mariners: O/U 14.5",
+      "prev": 0.5,
+      "now": 0.0035,
+      "delta": -0.4965,
+      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 3250.19
+    },
+    {
+      "market": "Chicago Cubs vs. Arizona Diamondbacks \u2014 Spread: Chicago Cubs (-5.5)",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 362894.35,
+      "liquidity": 4911.68
+    },
+    {
+      "market": "Chicago Cubs vs. Arizona Diamondbacks \u2014 Spread: Chicago Cubs (-6.5)",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 362894.35,
+      "liquidity": 6826.38
+    },
+    {
+      "market": "Will the game go to extra innings?: Philadelphia Phillies vs. Seattle Mariners",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 770449.28,
+      "liquidity": 1418.53
+    },
+    {
+      "market": "Will the game go to extra innings?: Chicago Cubs vs. Arizona Diamondbacks",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 362894.35,
+      "liquidity": 1509.12
+    },
+    {
+      "market": "Philadelphia Phillies vs. Seattle Mariners \u2014 Spread: Seattle Mariners (-4.5)",
+      "prev": 0.505,
+      "now": 0.996,
+      "delta": 0.491,
+      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 63.54,
+      "liquidity": 7494.8
+    },
+    {
+      "market": "Philadelphia Phillies vs. Seattle Mariners: O/U 13.5",
+      "prev": 0.495,
+      "now": 0.004,
+      "delta": -0.491,
+      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 37.06,
+      "liquidity": 3341.79
+    },
+    {
+      "market": "Chicago Cubs vs. Arizona Diamondbacks: O/U 7.5",
+      "prev": 0.495,
+      "now": 0.0045,
+      "delta": -0.4905,
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 264.09,
+      "liquidity": 6614.39
     }
   ],
   "log": [
-    {
-      "ts": "21:00:01",
-      "text": " poll complete \u2014 1870 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:15:01",
       "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "04:15:01",
       "text": " poll complete \u2014 1803 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:30:01",
+      "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
     }
   ]
 }
