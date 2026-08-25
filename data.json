@@ -1,11 +1,86 @@
 {
-  "lastUpdate": "2026-08-25 10:15:01 UTC",
+  "lastUpdate": "2026-08-25 10:30:02 UTC",
   "swings": [
     {
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 2nd Half O/U 1.5",
+      "prev": 0.095,
+      "now": 0.5,
+      "delta": 0.405,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 118478.4,
+      "liquidity": 0.1
+    },
+    {
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 2nd Half O/U 0.5",
+      "prev": 0.81,
+      "now": 0.5,
+      "delta": -0.31,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 118478.4,
+      "liquidity": 0.1
+    },
+    {
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 2nd Half O/U 2.5",
+      "prev": 0.24,
+      "now": 0.5,
+      "delta": 0.26,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 118478.4,
+      "liquidity": 0.1
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 3 Winner",
+      "prev": 0.335,
+      "now": 0.575,
+      "delta": 0.24,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 138099.66,
+      "liquidity": 166565.53
+    },
+    {
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: FC Seoul 2nd Half O/U 0.5",
+      "prev": 0.715,
+      "now": 0.5,
+      "delta": -0.215,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 118478.4,
+      "liquidity": 0.1
+    },
+    {
       "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A",
-      "prev": 0.275,
-      "now": 0.79,
-      "delta": 0.515,
+      "prev": 0.79,
+      "now": 0.9995,
+      "delta": 0.2095,
       "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
@@ -13,44 +88,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 83776.59,
-      "liquidity": 199526.05
-    },
-    {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 O/U 2.5",
-      "prev": 0.04,
-      "now": 0.252,
-      "delta": 0.212,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 104744.22,
-      "liquidity": 755.62
-    },
-    {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 O/U 1.5",
-      "prev": 0.175,
-      "now": 0.365,
-      "delta": 0.19,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 104744.22,
-      "liquidity": 672.65
+      "volume24hr": 136475.37,
+      "liquidity": 361037.42
     },
     {
       "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 1st Half O/U 1.5",
-      "prev": 0.045,
-      "now": 0.1705,
-      "delta": 0.1255,
+      "prev": 0.1705,
+      "now": 0.355,
+      "delta": 0.1845,
       "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -59,41 +104,28 @@
         "K-league"
       ],
       "volume24hr": 143.45,
-      "liquidity": 598.32
+      "liquidity": 4.62
     },
     {
-      "market": "# of views of next MrBeast video on week 1? \u2014 Will MrBeast's next video get between 60 and 70 million views on week 1?",
-      "prev": 0.575,
-      "now": 0.69,
-      "delta": 0.115,
-      "url": "https://polymarket.com/event/of-views-of-next-mrbeast-video-on-week-1-20260822",
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: FC Seoul 2nd Half O/U 1.5",
+      "prev": 0.355,
+      "now": 0.5,
+      "delta": 0.145,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
-        "Culture",
-        "MrBeast",
-        "YouTube"
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 16538.19,
-      "liquidity": 618.96
+      "volume24hr": 118478.4,
+      "liquidity": 0.1
     },
     {
-      "market": "# of views of next MrBeast video on week 1? \u2014 Will MrBeast's next video get between 70 and 80 million views on week 1?",
-      "prev": 0.4,
-      "now": 0.295,
-      "delta": -0.105,
-      "url": "https://polymarket.com/event/of-views-of-next-mrbeast-video-on-week-1-20260822",
-      "tags": [
-        "Culture",
-        "MrBeast",
-        "YouTube"
-      ],
-      "volume24hr": 7784.79,
-      "liquidity": 1034.68
-    },
-    {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 4.5",
-      "prev": 0.455,
-      "now": 0.545,
-      "delta": 0.09,
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In",
+      "prev": 0.34,
+      "now": 0.475,
+      "delta": 0.135,
       "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
         "Esports",
@@ -101,60 +133,26 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 243.81,
-      "liquidity": 4.85
+      "volume24hr": 399945.41,
+      "liquidity": 265324.83
     },
     {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Real Betis Balompi\u00e9 1st Half O/U 1.5",
-      "prev": 0.105,
-      "now": 0.195,
-      "delta": 0.09,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 LASK Linz vs. Celtic FC: Celtic FC 1st Half O/U 1.5",
+      "prev": 0.12,
+      "now": 0.245,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "La Liga"
+        "UCL"
       ],
-      "volume24hr": 96908.21,
-      "liquidity": 1316.36
-    },
-    {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: FOX.Y (-1.5) vs Kiwoom DRX Challengers (+1.5)",
-      "prev": 0.375,
-      "now": 0.29,
-      "delta": -0.085,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 26510.04,
-      "liquidity": 2088.72
-    },
-    {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Valencia CF 1st Half O/U 1.5",
-      "prev": 0.095,
-      "now": 0.175,
-      "delta": 0.08,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 96908.21,
-      "liquidity": 1246.97
+      "volume24hr": 77169.49,
+      "liquidity": 2257.0
     }
   ],
   "log": [
-    {
-      "ts": "03:00:01",
-      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:15:02",
       "text": " poll complete \u2014 1812 markets scanned, 10 flagged"
@@ -270,6 +268,10 @@
     {
       "ts": "10:15:01",
       "text": " poll complete \u2014 1808 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:30:02",
+      "text": " poll complete \u2014 1849 markets scanned, 10 flagged"
     }
   ]
 }
