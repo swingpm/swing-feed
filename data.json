@@ -1,162 +1,157 @@
 {
-  "lastUpdate": "2026-08-25 04:30:01 UTC",
+  "lastUpdate": "2026-08-25 04:45:01 UTC",
   "swings": [
     {
-      "market": "Philadelphia Phillies vs. Seattle Mariners: O/U 11.5",
-      "prev": 0.53,
-      "now": 0.004,
-      "delta": -0.526,
-      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
+      "market": "Minnesota Twins vs. Athletics \u2014 Spread: Minnesota Twins (-3.5)",
+      "prev": 0.995,
+      "now": 0.0005,
+      "delta": -0.9945,
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 163.97,
-      "liquidity": 3456.89
+      "volume24hr": 105.0,
+      "liquidity": 3136.64
     },
     {
-      "market": "Philadelphia Phillies vs. Seattle Mariners \u2014 Spread: Seattle Mariners (-7.5)",
+      "market": "Minnesota Twins vs. Athletics: O/U 11.5",
+      "prev": 0.235,
+      "now": 0.9995,
+      "delta": 0.7645,
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 97070.75,
+      "liquidity": 129977.27
+    },
+    {
+      "market": "Minnesota Twins vs. Athletics: O/U 13.5",
+      "prev": 0.245,
+      "now": 0.9995,
+      "delta": 0.7545,
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 260.37,
+      "liquidity": 26086.27
+    },
+    {
+      "market": "Minnesota Twins vs. Athletics: O/U 12.5",
+      "prev": 0.245,
+      "now": 0.9995,
+      "delta": 0.7545,
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 835.2,
+      "liquidity": 41445.47
+    },
+    {
+      "market": "Minnesota Twins vs. Athletics \u2014 Spread: Minnesota Twins (-4.5)",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 770449.28,
-      "liquidity": 2284.84
+      "volume24hr": 360.0,
+      "liquidity": 3332.98
     },
     {
-      "market": "Philadelphia Phillies vs. Seattle Mariners: O/U 14.5",
+      "market": "Will the game go to extra innings?: Minnesota Twins vs. Athletics",
       "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 482823.44,
+      "liquidity": 1407.24
+    },
+    {
+      "market": "Minnesota Twins vs. Athletics \u2014 Spread: Minnesota Twins (-5.5)",
+      "prev": 0.495,
+      "now": 0.0005,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 4544.34,
+      "liquidity": 25716.63
+    },
+    {
+      "market": "Minnesota Twins vs. Athletics \u2014 Spread: Minnesota Twins (-6.5)",
+      "prev": 0.42,
       "now": 0.0035,
-      "delta": -0.4965,
-      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
+      "delta": -0.4165,
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 3250.19
+      "volume24hr": 10.0,
+      "liquidity": 3591.43
     },
     {
-      "market": "Chicago Cubs vs. Arizona Diamondbacks \u2014 Spread: Chicago Cubs (-5.5)",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Set 1 Winner: Parry vs Vekic",
+      "prev": 0.625,
+      "now": 0.275,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 362894.35,
-      "liquidity": 4911.68
+      "volume24hr": 712.12,
+      "liquidity": 593.1
     },
     {
-      "market": "Chicago Cubs vs. Arizona Diamondbacks \u2014 Spread: Chicago Cubs (-6.5)",
-      "prev": 0.5,
-      "now": 0.9955,
-      "delta": 0.4955,
-      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
+      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 4.5",
+      "prev": 0.74,
+      "now": 0.9995,
+      "delta": 0.2595,
+      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 362894.35,
-      "liquidity": 6826.38
-    },
-    {
-      "market": "Will the game go to extra innings?: Philadelphia Phillies vs. Seattle Mariners",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 770449.28,
-      "liquidity": 1418.53
-    },
-    {
-      "market": "Will the game go to extra innings?: Chicago Cubs vs. Arizona Diamondbacks",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 362894.35,
-      "liquidity": 1509.12
-    },
-    {
-      "market": "Philadelphia Phillies vs. Seattle Mariners \u2014 Spread: Seattle Mariners (-4.5)",
-      "prev": 0.505,
-      "now": 0.996,
-      "delta": 0.491,
-      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 63.54,
-      "liquidity": 7494.8
-    },
-    {
-      "market": "Philadelphia Phillies vs. Seattle Mariners: O/U 13.5",
-      "prev": 0.495,
-      "now": 0.004,
-      "delta": -0.491,
-      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 37.06,
-      "liquidity": 3341.79
-    },
-    {
-      "market": "Chicago Cubs vs. Arizona Diamondbacks: O/U 7.5",
-      "prev": 0.495,
-      "now": 0.0045,
-      "delta": -0.4905,
-      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 264.09,
-      "liquidity": 6614.39
+      "volume24hr": 4676.95,
+      "liquidity": 9387.71
     }
   ],
   "log": [
-    {
-      "ts": "21:15:01",
-      "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:30:01",
       "text": " poll complete \u2014 1869 markets scanned, 10 flagged"
@@ -272,6 +267,10 @@
     {
       "ts": "04:30:01",
       "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "04:45:01",
+      "text": " poll complete \u2014 1826 markets scanned, 10 flagged"
     }
   ]
 }
