@@ -1,162 +1,156 @@
 {
-  "lastUpdate": "2026-08-25 12:30:01 UTC",
+  "lastUpdate": "2026-08-25 12:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 1 Rounds Handicap: Leo Team (-6.5) vs UNiTY esports (+6.5)",
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: FC Seoul O/U 1.5",
+      "prev": 0.52,
+      "now": 0.0005,
+      "delta": -0.5195,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 1205.72,
+      "liquidity": 21827.6
+    },
+    {
+      "market": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd \u2014 Roehampton 2: Completed Match: Fabrizio Andaloro vs Emile Hudd",
       "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/cs2-leo2-unity-2026-08-25",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-andalor-hudd-2026-08-25",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 93467.73,
-      "liquidity": 0.0
+      "volume24hr": 291446.37,
+      "liquidity": 1780.05
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 4: Both Teams Slay Baron Nashor?",
+      "market": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd \u2014 Andaloro vs. Hudd: Match O/U 21.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-andalor-hudd-2026-08-25",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 2231553.11,
-      "liquidity": 100.92
+      "volume24hr": 8.64,
+      "liquidity": 5932.76
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 4: Both Teams Slay a Dragon?",
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 O/U 0.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 2231553.11,
-      "liquidity": 100.92
+      "volume24hr": 153.64,
+      "liquidity": 12416.1
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 4: Both Teams Destroy Inhibitors?",
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 O/U 1.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 2231553.11,
-      "liquidity": 100.92
+      "volume24hr": 16.66,
+      "liquidity": 11997.82
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 4: Any Player Quadra Kill?",
+      "market": "Jeju SK FC vs. Pohang Steelers FC - More Markets \u2014 Jeju SK FC vs. Pohang Steelers FC: Jeju SK FC O/U 1.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/kor-jej-poh-2026-08-25-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 2231553.11,
-      "liquidity": 100.92
+      "volume24hr": 39.49,
+      "liquidity": 14136.04
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 4: Odd/Even Total Kills?",
+      "market": "Jeju SK FC vs. Pohang Steelers FC - More Markets \u2014 Jeju SK FC vs. Pohang Steelers FC: Jeju SK FC O/U 2.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/kor-jej-poh-2026-08-25-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 2231553.11,
-      "liquidity": 100.92
+      "volume24hr": 2065.09,
+      "liquidity": 27015.77
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 4: Any Player Penta Kill?",
-      "prev": 0.51,
-      "now": 0.9,
-      "delta": 0.39,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "market": "Jeju SK FC vs. Pohang Steelers FC - More Markets \u2014 Jeju SK FC vs. Pohang Steelers FC: Pohang Steelers FC O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/kor-jej-poh-2026-08-25-more-markets",
       "tags": [
-        "Esports",
-        "league of legends",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 2231553.11,
-      "liquidity": 101.12
+      "volume24hr": 1637.53,
+      "liquidity": 28164.12
     },
     {
-      "market": "Counter-Strike: ex-RUBY vs Black Phoenix (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
-      "prev": 0.9,
-      "now": 0.53,
-      "delta": -0.37,
-      "url": "https://polymarket.com/event/cs2-ruby1-blackp-2026-08-25",
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 53695.2,
-      "liquidity": 24.35
+      "volume24hr": 30.45,
+      "liquidity": 2781.09
     },
     {
-      "market": "Counter-Strike: ex-RUBY vs Black Phoenix (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: ex-RUBY (-3.5) vs Black Phoenix (+3.5)",
-      "prev": 0.1,
-      "now": 0.47,
-      "delta": 0.37,
-      "url": "https://polymarket.com/event/cs2-ruby1-blackp-2026-08-25",
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.003,
+      "delta": -0.497,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
-        "Esports",
-        "counter strike 2",
+        "Sports",
         "Games",
-        "Sports"
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 53695.2,
-      "liquidity": 24.35
-    },
-    {
-      "market": "Counter-Strike: ex-RUBY vs Black Phoenix (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 2 Rounds Handicap: ex-RUBY (-6.5) vs Black Phoenix (+6.5)",
-      "prev": 0.1,
-      "now": 0.47,
-      "delta": 0.37,
-      "url": "https://polymarket.com/event/cs2-ruby1-blackp-2026-08-25",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 53695.2,
-      "liquidity": 24.35
+      "volume24hr": 183912.31,
+      "liquidity": 3078.87
     }
   ],
   "log": [
-    {
-      "ts": "05:15:01",
-      "text": " poll complete \u2014 1787 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:30:01",
       "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
@@ -272,6 +266,10 @@
     {
       "ts": "12:30:01",
       "text": " poll complete \u2014 1827 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:45:01",
+      "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
     }
   ]
 }
