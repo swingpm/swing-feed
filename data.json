@@ -1,159 +1,148 @@
 {
-  "lastUpdate": "2026-08-25 21:15:02 UTC",
+  "lastUpdate": "2026-08-25 21:30:02 UTC",
   "swings": [
     {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: 2nd Half O/U 1.5",
-      "prev": 0.56,
+      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Set 2 Winner: Assche vs Kovacevic",
+      "prev": 0.675,
       "now": 0.0005,
-      "delta": -0.5595,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "delta": -0.6745,
+      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 11.79,
-      "liquidity": 3128.54
+      "volume24hr": 27.15,
+      "liquidity": 3755.34
     },
     {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Valencia CF 2nd Half O/U 0.5",
-      "prev": 0.5,
+      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Assche vs. Kovacevic: Match O/U 22.5",
+      "prev": 0.51,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 18.77,
-      "liquidity": 3512.44
+      "volume24hr": 338.69,
+      "liquidity": 6007.57
     },
     {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Valencia CF 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 939431.0,
-      "liquidity": 3163.19
-    },
-    {
-      "market": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova \u2014 US Open, Qualification WTA: Completed Match: Martyna Kubka vs Annika Penickova",
+      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Winston-Salem Open: Completed Match: Luca Van Assche vs Aleksandar Kovacevic",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-kubka-penick-2026-08-25",
+      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 236050.81,
-      "liquidity": 1382.87
+      "volume24hr": 222918.54,
+      "liquidity": 1417.71
     },
     {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Real Betis Balompi\u00e9 2nd Half O/U 1.5",
-      "prev": 0.4955,
-      "now": 0.0005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 182.13,
-      "liquidity": 3621.92
-    },
-    {
-      "market": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova \u2014 Game Spread: Kubka (-3.5) vs Penickova (+3.5)",
+      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Luca Van Assche vs. Aleksandar Kovacevic: Total Sets O/U 2.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-kubka-penick-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 15.2,
-      "liquidity": 3213.62
-    },
-    {
-      "market": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova \u2014 Martyna Kubka vs. Annika Penickova: Total Sets O/U 2.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/wta-kubka-penick-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 236050.81,
-      "liquidity": 5492.32
-    },
-    {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - Exact Score \u2014 Exact Score: Valencia CF 0 - 1 Real Betis Balompi\u00e9?",
-      "prev": 0.535,
-      "now": 0.9995,
-      "delta": 0.4645,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-exact-score",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 21904.95,
-      "liquidity": 50256.96
-    },
-    {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Valencia CF O/U 0.5",
-      "prev": 0.46,
       "now": 0.0005,
-      "delta": -0.4595,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 3519.24,
-      "liquidity": 37692.57
+      "volume24hr": 9.67,
+      "liquidity": 5600.97
     },
     {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - Exact Score \u2014 Exact Score: Any Other Score?",
-      "prev": 0.445,
-      "now": 0.0045,
-      "delta": -0.4405,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-exact-score",
+      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Assche vs. Kovacevic: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
+        "Games"
       ],
-      "volume24hr": 426.55,
-      "liquidity": 1736.01
+      "volume24hr": 141.7,
+      "liquidity": 5968.31
+    },
+    {
+      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Set Handicap: Assche (-1.5) vs Kovacevic (+1.5)",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 8.08,
+      "liquidity": 5291.9
+    },
+    {
+      "market": "Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic \u2014 Assche vs. Kovacevic: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-assche-kovacev-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 883.24,
+      "liquidity": 5633.49
+    },
+    {
+      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Set 1 Winner: Collignon vs Hijikata",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 250.01,
+      "liquidity": 8068.84
+    },
+    {
+      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Collignon vs. Hijikata: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 20.0,
+      "liquidity": 5748.55
+    },
+    {
+      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Collignon vs. Hijikata: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 172570.73,
+      "liquidity": 5752.04
     }
   ],
   "log": [
-    {
-      "ts": "14:00:02",
-      "text": " poll complete \u2014 1795 markets scanned, 10 flagged"
-    },
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
@@ -269,6 +258,10 @@
     {
       "ts": "21:15:02",
       "text": " poll complete \u2014 1885 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:30:02",
+      "text": " poll complete \u2014 1922 markets scanned, 10 flagged"
     }
   ]
 }
