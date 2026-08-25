@@ -1,26 +1,11 @@
 {
-  "lastUpdate": "2026-08-25 09:15:01 UTC",
+  "lastUpdate": "2026-08-25 09:30:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Dota 2: PuckChamp vs Nemiga Gaming - Game 2 Winner",
-      "prev": 0.855,
-      "now": 0.265,
-      "delta": -0.59,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 67049.82,
-      "liquidity": 122307.99
-    },
-    {
       "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Games Total: O/U 2.5",
-      "prev": 0.145,
-      "now": 0.73,
-      "delta": 0.585,
+      "prev": 0.73,
+      "now": 0.9995,
+      "delta": 0.2695,
       "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
@@ -28,14 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 573.89,
-      "liquidity": 46.3
+      "volume24hr": 598.13,
+      "liquidity": 8205.19
     },
     {
       "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game Handicap: PckCp (-1.5) vs Nemiga Gaming (+1.5)",
-      "prev": 0.855,
-      "now": 0.27,
-      "delta": -0.585,
+      "prev": 0.27,
+      "now": 0.005,
+      "delta": -0.265,
       "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
@@ -44,27 +29,13 @@
         "Sports"
       ],
       "volume24hr": 15.0,
-      "liquidity": 42.65
+      "liquidity": 2262.84
     },
     {
-      "market": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo \u2014 Set 2 Winner: Gaston vs Justo",
-      "prev": 0.78,
-      "now": 0.43,
-      "delta": -0.35,
-      "url": "https://polymarket.com/event/atp-gaston-justo-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 168976.92,
-      "liquidity": 48.45
-    },
-    {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A",
-      "prev": 0.895,
-      "now": 0.56,
-      "delta": -0.335,
+      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Dota 2: PuckChamp vs Nemiga Gaming - Game 2 Winner",
+      "prev": 0.265,
+      "now": 0.0005,
+      "delta": -0.2645,
       "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
@@ -72,14 +43,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 40533.29,
-      "liquidity": 209037.7
+      "volume24hr": 97532.57,
+      "liquidity": 518691.45
     },
     {
       "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $65,000 by December 31, 2026?",
-      "prev": 0.39,
-      "now": 0.635,
-      "delta": 0.245,
+      "prev": 0.635,
+      "now": 0.39,
+      "delta": -0.245,
       "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
       "tags": [
         "Bitcoin",
@@ -89,78 +60,100 @@
         "Crypto"
       ],
       "volume24hr": 10.0,
-      "liquidity": 1690.93
+      "liquidity": 3447.72
     },
     {
-      "market": "Counter-Strike: Color vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Counter-Strike: Color vs CYBERSHOKE Prospects - Map 2 Winner",
-      "prev": 0.625,
-      "now": 0.46,
-      "delta": -0.165,
-      "url": "https://polymarket.com/event/cs2-color-cyb-2026-08-25",
+      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.26,
+      "delta": -0.24,
+      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 277.02,
-      "liquidity": 4.6
+      "volume24hr": 59998.85,
+      "liquidity": 619.21
     },
     {
-      "market": "Counter-Strike: Color vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map Handicap: Color (-1.5) vs CYBERSHOKE Prospects (+1.5)",
-      "prev": 0.375,
-      "now": 0.5,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/cs2-color-cyb-2026-08-25",
+      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.26,
+      "delta": -0.24,
+      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 2307.11,
-      "liquidity": 104851.61
+      "volume24hr": 59998.85,
+      "liquidity": 619.21
     },
     {
-      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 17\u00b0C on August 25?",
-      "prev": 0.2965,
-      "now": 0.2105,
-      "delta": -0.086,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
+      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 3: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.26,
+      "delta": -0.24,
+      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 6166.61,
-      "liquidity": 478.42
+      "volume24hr": 59998.85,
+      "liquidity": 619.21
     },
     {
-      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 19\u00b0C on August 25?",
-      "prev": 0.155,
-      "now": 0.22,
-      "delta": 0.065,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
+      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.265,
+      "delta": -0.235,
+      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 7274.31,
-      "liquidity": 843.24
+      "volume24hr": 59998.85,
+      "liquidity": 353.99
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.27,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 59998.85,
+      "liquidity": 357.29
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.27,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 59998.85,
+      "liquidity": 363.16
     }
   ],
   "log": [
-    {
-      "ts": "02:00:01",
-      "text": " poll complete \u2014 1790 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:15:02",
       "text": " poll complete \u2014 1824 markets scanned, 10 flagged"
@@ -276,6 +269,10 @@
     {
       "ts": "09:15:01",
       "text": " poll complete \u2014 1785 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:30:01",
+      "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
     }
   ]
 }
