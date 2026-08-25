@@ -1,91 +1,53 @@
 {
-  "lastUpdate": "2026-08-25 05:30:01 UTC",
+  "lastUpdate": "2026-08-25 05:45:01 UTC",
   "swings": [
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres",
-      "prev": 0.395,
-      "now": 0.175,
-      "delta": -0.22,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 763047.08,
-      "liquidity": 230729.82
+      "volume24hr": 405313.99,
+      "liquidity": 1838.35
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 6.5",
-      "prev": 0.45,
-      "now": 0.23,
-      "delta": -0.22,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 31006.29,
-      "liquidity": 43235.56
+      "volume24hr": 405313.99,
+      "liquidity": 1812.11
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 5.5",
-      "prev": 0.465,
-      "now": 0.275,
-      "delta": -0.19,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 2898.72,
-      "liquidity": 15337.6
-    },
-    {
-      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $100 on August 27?",
-      "prev": 0.655,
-      "now": 0.475,
-      "delta": -0.18,
-      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
-      "tags": [
-        "Solana",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 45543.38,
-      "liquidity": 19445.69
-    },
-    {
-      "market": "Highest temperature in Taipei on August 25? \u2014 Will the highest temperature in Taipei be 30\u00b0C on August 25?",
-      "prev": 0.81,
-      "now": 0.955,
-      "delta": 0.145,
-      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-25-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Taipei",
-        "Highest temperature"
-      ],
-      "volume24hr": 5069.82,
-      "liquidity": 195.92
+      "volume24hr": 405313.99,
+      "liquidity": 1986.21
     },
     {
       "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Diane Parry vs. Donna Vekic: Total Sets O/U 2.5",
-      "prev": 0.815,
-      "now": 0.925,
-      "delta": 0.11,
+      "prev": 0.925,
+      "now": 0.5,
+      "delta": -0.425,
       "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
       "tags": [
         "Tennis",
@@ -93,42 +55,57 @@
         "Games"
       ],
       "volume24hr": 7.63,
-      "liquidity": 212.5
+      "liquidity": 321262.82
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 7.5",
-      "prev": 0.22,
-      "now": 0.12,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "prev": 0.69,
+      "now": 0.275,
+      "delta": -0.415,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
       "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto"
       ],
-      "volume24hr": 79339.58,
-      "liquidity": 79127.18
+      "volume24hr": 891097.69,
+      "liquidity": 10.16
     },
     {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Set 2 Winner: Parry vs Vekic",
-      "prev": 0.84,
-      "now": 0.94,
-      "delta": 0.1,
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.895,
+      "delta": 0.395,
       "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1277.05,
-      "liquidity": 2984.07
+      "volume24hr": 19.55,
+      "liquidity": 98.75
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 8.5",
-      "prev": 0.1405,
-      "now": 0.0435,
-      "delta": -0.097,
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.895,
+      "delta": 0.395,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 405313.99,
+      "liquidity": 98.75
+    },
+    {
+      "market": "Pittsburgh Pirates vs. San Diego Padres",
+      "prev": 0.175,
+      "now": 0.555,
+      "delta": 0.38,
       "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
       "tags": [
         "Sports",
@@ -136,14 +113,14 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 7050.51,
-      "liquidity": 3371.04
+      "volume24hr": 890363.11,
+      "liquidity": 217569.59
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres \u2014 Spread: Pittsburgh Pirates (-1.5)",
-      "prev": 0.18,
-      "now": 0.085,
-      "delta": -0.095,
+      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 6.5",
+      "prev": 0.23,
+      "now": 0.575,
+      "delta": 0.345,
       "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
       "tags": [
         "Sports",
@@ -151,15 +128,26 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 50277.03,
-      "liquidity": 99229.04
+      "volume24hr": 33629.2,
+      "liquidity": 26980.7
+    },
+    {
+      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 5.5",
+      "prev": 0.275,
+      "now": 0.62,
+      "delta": 0.345,
+      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5906.53,
+      "liquidity": 74906.85
     }
   ],
   "log": [
-    {
-      "ts": "22:15:01",
-      "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:30:01",
       "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
@@ -275,6 +263,10 @@
     {
       "ts": "05:30:01",
       "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:45:01",
+      "text": " poll complete \u2014 1810 markets scanned, 10 flagged"
     }
   ]
 }
