@@ -1,25 +1,60 @@
 {
-  "lastUpdate": "2026-08-25 06:45:02 UTC",
+  "lastUpdate": "2026-08-25 07:00:01 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi \u2014 Set 2 Winner: Bu vs Noguchi",
-      "prev": 0.43,
-      "now": 0.635,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/atp-bu-noguchi-2026-08-25",
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $75,000 by December 31, 2026?",
+      "prev": 0.755,
+      "now": 0.645,
+      "delta": -0.11,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto"
       ],
-      "volume24hr": 59819.82,
-      "liquidity": 320.81
+      "volume24hr": 28.17,
+      "liquidity": 1169.68
+    },
+    {
+      "market": "Highest temperature in Beijing on August 25? \u2014 Will the highest temperature in Beijing be 31\u00b0C on August 25?",
+      "prev": 0.88,
+      "now": 0.98,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/highest-temperature-in-beijing-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Beijing",
+        "Highest temperature"
+      ],
+      "volume24hr": 4655.11,
+      "liquidity": 568.52
+    },
+    {
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "prev": 0.585,
+      "now": 0.495,
+      "delta": -0.09,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "tags": [
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 2537.25
     },
     {
       "market": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs \u2014 LoL: Top Esports vs LGD Gaming - Game 4 Winner",
-      "prev": 0.575,
-      "now": 0.455,
-      "delta": -0.12,
+      "prev": 0.455,
+      "now": 0.545,
+      "delta": 0.09,
       "url": "https://polymarket.com/event/lol-tes-lgd-2026-08-29",
       "tags": [
         "Esports",
@@ -28,16 +63,33 @@
         "Sports"
       ],
       "volume24hr": 36.08,
-      "liquidity": 12322.22
+      "liquidity": 11900.5
     },
     {
-      "market": "Bitcoin above ___ on August 28? \u2014 Will the price of Bitcoin be above $80,000 on August 28?",
-      "prev": 0.595,
-      "now": 0.51,
-      "delta": -0.085,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-28-2026",
+      "market": "Highest temperature in Beijing on August 25? \u2014 Will the highest temperature in Beijing be 32\u00b0C on August 25?",
+      "prev": 0.095,
+      "now": 0.005,
+      "delta": -0.09,
+      "url": "https://polymarket.com/event/highest-temperature-in-beijing-on-august-25-2026",
       "tags": [
-        "Bitcoin",
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Beijing",
+        "Highest temperature"
+      ],
+      "volume24hr": 3617.87,
+      "liquidity": 421.21
+    },
+    {
+      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $80 on August 27?",
+      "prev": 0.556,
+      "now": 0.6165,
+      "delta": 0.0605,
+      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
+      "tags": [
+        "Solana",
         "Weekly",
         "Multi Strikes",
         "Crypto",
@@ -45,17 +97,52 @@
         "Recurring",
         "Hide From New"
       ],
-      "volume24hr": 1885.72,
-      "liquidity": 1577.29
+      "volume24hr": 36590.8,
+      "liquidity": 56.94
     },
     {
-      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $80,000 on August 25?",
-      "prev": 0.74,
-      "now": 0.675,
-      "delta": -0.065,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
+      "market": "Highest temperature in Paris on August 25? \u2014 Will the highest temperature in Paris be 29\u00b0C on August 25?",
+      "prev": 0.385,
+      "now": 0.325,
+      "delta": -0.06,
+      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-25-2026",
       "tags": [
-        "Bitcoin",
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Paris",
+        "France",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 9209.9,
+      "liquidity": 1123.15
+    },
+    {
+      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 20\u00b0C on August 25?",
+      "prev": 0.2,
+      "now": 0.145,
+      "delta": -0.055,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 5973.13,
+      "liquidity": 1240.23
+    },
+    {
+      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $100 on August 27?",
+      "prev": 0.575,
+      "now": 0.525,
+      "delta": -0.05,
+      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
+      "tags": [
+        "Solana",
         "Weekly",
         "Multi Strikes",
         "Crypto",
@@ -63,14 +150,14 @@
         "Recurring",
         "Hide From New"
       ],
-      "volume24hr": 25355.36,
-      "liquidity": 23403.77
+      "volume24hr": 45682.22,
+      "liquidity": 5013.81
     },
     {
       "market": "Ethereum above ___ on August 25? \u2014 Will the price of Ethereum be above $2,500 on August 25?",
-      "prev": 0.59,
-      "now": 0.525,
-      "delta": -0.065,
+      "prev": 0.525,
+      "now": 0.475,
+      "delta": -0.05,
       "url": "https://polymarket.com/event/ethereum-above-on-august-25-2026",
       "tags": [
         "Ethereum",
@@ -82,104 +169,10 @@
         "Hide From New"
       ],
       "volume24hr": 4595.49,
-      "liquidity": 32359.49
-    },
-    {
-      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $82,000 on August 25?",
-      "prev": 0.2425,
-      "now": 0.1835,
-      "delta": -0.059,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 62697.53,
-      "liquidity": 26342.83
-    },
-    {
-      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $100 on August 27?",
-      "prev": 0.63,
-      "now": 0.575,
-      "delta": -0.055,
-      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
-      "tags": [
-        "Solana",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 45658.64,
-      "liquidity": 28062.79
-    },
-    {
-      "market": "What price will Bitcoin hit August 24-30? \u2014 Will Bitcoin reach $82,000 August 24-30?",
-      "prev": 0.79,
-      "now": 0.745,
-      "delta": -0.045,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-august-24-30-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Weekly",
-        "Hit Price"
-      ],
-      "volume24hr": 29563.03,
-      "liquidity": 29298.98
-    },
-    {
-      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 20\u00b0C on August 25?",
-      "prev": 0.245,
-      "now": 0.2,
-      "delta": -0.045,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 5860.5,
-      "liquidity": 1315.44
-    },
-    {
-      "market": "What will Gold (XAUUSD) hit in August 2026? \u2014 Will Gold (XAUUSD) hit (HIGH) $4,700 in August?",
-      "prev": 0.783,
-      "now": 0.741,
-      "delta": -0.042,
-      "url": "https://polymarket.com/event/what-price-will-xauusd-hit-in-august-2026",
-      "tags": [
-        "Finance",
-        "Monthly",
-        "Hit Price",
-        "Hide From New",
-        "Finance Updown",
-        "Pyth Finance",
-        "Commodities",
-        "Gold"
-      ],
-      "volume24hr": 19796.36,
-      "liquidity": 1715.43
+      "liquidity": 6069.31
     }
   ],
   "log": [
-    {
-      "ts": "23:30:01",
-      "text": " poll complete \u2014 1828 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:45:01",
       "text": " poll complete \u2014 1814 markets scanned, 10 flagged"
@@ -295,6 +288,10 @@
     {
       "ts": "06:45:02",
       "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:00:01",
+      "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
     }
   ]
 }
