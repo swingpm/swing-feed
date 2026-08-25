@@ -1,154 +1,148 @@
 {
-  "lastUpdate": "2026-08-25 16:45:01 UTC",
+  "lastUpdate": "2026-08-25 17:00:01 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic \u2014 Set 2 Winner: Kwon vs Lajovic",
-      "prev": 0.605,
+      "market": "US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany \u2014 Set 2 Winner: Burrage vs Maristany",
+      "prev": 0.565,
       "now": 0.0005,
-      "delta": -0.6045,
-      "url": "https://polymarket.com/event/atp-kwon-lajovic-2026-08-25",
+      "delta": -0.5645,
+      "url": "https://polymarket.com/event/wta-burrage-marista-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 230139.55,
-      "liquidity": 1442.19
+      "volume24hr": 44.88,
+      "liquidity": 4719.08
     },
     {
-      "market": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic \u2014 Kwon vs. Lajovic: Set 2 Games O/U 8.5",
+      "market": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori \u2014 Ofner vs. Nishikori: Match O/U 23.5",
+      "prev": 0.51,
+      "now": 0.0005,
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/atp-ofner-nishiko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 819078.16,
+      "liquidity": 5601.37
+    },
+    {
+      "market": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori \u2014 US Open, Qualification ATP: Completed Match: Sebastian Ofner vs Kei Nishikori",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kwon-lajovic-2026-08-25",
+      "url": "https://polymarket.com/event/atp-ofner-nishiko-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 230139.55,
-      "liquidity": 791.66
+      "volume24hr": 10.0,
+      "liquidity": 1588.59
     },
     {
-      "market": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic \u2014 Kwon vs. Lajovic: Set 2 Games O/U 9.5",
+      "market": "US Open, Qualification WTA: Laura Samson vs Tamara Zidansek \u2014 Samson vs. Zidansek: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kwon-lajovic-2026-08-25",
+      "url": "https://polymarket.com/event/wta-samson-zidanse-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 230139.55,
-      "liquidity": 798.7
+      "volume24hr": 159909.73,
+      "liquidity": 2984.02
     },
     {
-      "market": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic \u2014 Kwon vs. Lajovic: Set 2 Games O/U 10.5",
+      "market": "US Open, Qualification WTA: Laura Samson vs Tamara Zidansek \u2014 Samson vs. Zidansek: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kwon-lajovic-2026-08-25",
+      "url": "https://polymarket.com/event/wta-samson-zidanse-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 230139.55,
-      "liquidity": 798.19
+      "volume24hr": 159909.73,
+      "liquidity": 3011.31
     },
     {
-      "market": "US Open, Qualification WTA: Janae Preston vs Nao Hibino \u2014 Preston vs. Hibino: Set 1 Games O/U 8.5",
+      "market": "US Open, Qualification WTA: Laura Samson vs Tamara Zidansek \u2014 Samson vs. Zidansek: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-samson-zidanse-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 159909.73,
+      "liquidity": 2939.41
+    },
+    {
+      "market": "US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany \u2014 US Open, Qualification WTA: Completed Match: Jodie Burrage vs Guiomar Maristany",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-presto-hibino-2026-08-25",
+      "url": "https://polymarket.com/event/wta-burrage-marista-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 130642.78,
-      "liquidity": 384.68
+      "volume24hr": 149202.55,
+      "liquidity": 1279.22
     },
     {
-      "market": "US Open, Qualification WTA: Janae Preston vs Nao Hibino \u2014 Preston vs. Hibino: Set 1 Games O/U 9.5",
+      "market": "US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany \u2014 Burrage vs. Maristany: Set 2 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-presto-hibino-2026-08-25",
+      "url": "https://polymarket.com/event/wta-burrage-marista-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 130642.78,
-      "liquidity": 384.68
+      "volume24hr": 149202.55,
+      "liquidity": 3384.96
     },
     {
-      "market": "US Open, Qualification WTA: Janae Preston vs Nao Hibino \u2014 Preston vs. Hibino: Set 1 Games O/U 10.5",
+      "market": "US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany \u2014 Jodie Burrage vs. Guiomar Maristany: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-burrage-marista-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 149202.55,
+      "liquidity": 6041.31
+    },
+    {
+      "market": "US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany \u2014 Burrage vs. Maristany: Set 2 Games O/U 9.5",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-presto-hibino-2026-08-25",
+      "url": "https://polymarket.com/event/wta-burrage-marista-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 130642.78,
-      "liquidity": 318.74
-    },
-    {
-      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs \u2014 Game 3: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 236615.05,
-      "liquidity": 100.92
-    },
-    {
-      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 236615.05,
-      "liquidity": 100.92
-    },
-    {
-      "market": "ITF M25 Oviedo Men: Alejandro Garcia Carbajal vs Javier Barranco Cosano \u2014 Alejandro Garcia Carbajal vs. Javier Barranco Cosano: Total Sets O/U 2.5",
-      "prev": 0.605,
-      "now": 0.975,
-      "delta": 0.37,
-      "url": "https://polymarket.com/event/itf-carbaja-cosano-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 8004.89,
-      "liquidity": 5444.81
+      "volume24hr": 149202.55,
+      "liquidity": 2885.91
     }
   ],
   "log": [
-    {
-      "ts": "09:30:01",
-      "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
-    },
     {
       "ts": "09:45:01",
       "text": " poll complete \u2014 1805 markets scanned, 10 flagged"
@@ -264,6 +258,10 @@
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 1942 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:00:01",
+      "text": " poll complete \u2014 1939 markets scanned, 10 flagged"
     }
   ]
 }
