@@ -1,165 +1,151 @@
 {
-  "lastUpdate": "2026-08-25 20:15:02 UTC",
+  "lastUpdate": "2026-08-25 20:30:02 UTC",
   "swings": [
     {
-      "market": "Winston-Salem Open: Adam Walton vs Ignacio Buse",
-      "prev": 0.63,
-      "now": 0.04,
-      "delta": -0.59,
+      "market": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka \u2014 Martinez vs. Glinka: Set 1 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-martine-glinka-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 730556.16,
+      "liquidity": 5636.44
+    },
+    {
+      "market": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka \u2014 Martinez vs. Glinka: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-martine-glinka-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 730556.16,
+      "liquidity": 5580.12
+    },
+    {
+      "market": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka \u2014 Martinez vs. Glinka: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-martine-glinka-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 730556.16,
+      "liquidity": 5636.52
+    },
+    {
+      "market": "Winston-Salem Open: Adam Walton vs Ignacio Buse \u2014 Winston-Salem Open: Completed Match: Adam Walton vs Ignacio Buse",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-walton-buse-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 211429.87,
-      "liquidity": 376642.85
+      "volume24hr": 399030.68,
+      "liquidity": 1675.62
     },
     {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Ettifaq Saudi Club O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Saudi Professional League"
-      ],
-      "volume24hr": 1094.65,
-      "liquidity": 15925.77
-    },
-    {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Saudi Professional League"
-      ],
-      "volume24hr": 4.87,
-      "liquidity": 3315.96
-    },
-    {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: 2nd Half O/U 2.5",
+      "market": "Winston-Salem Open: Benjamin Bonzi vs Quentin Halys \u2014 Winston-Salem Open: Completed Match: Benjamin Bonzi vs Quentin Halys",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
+      "url": "https://polymarket.com/event/atp-bonzi-halys-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Saudi Professional League"
+        "Games"
       ],
-      "volume24hr": 421925.66,
-      "liquidity": 3950.19
+      "volume24hr": 319881.75,
+      "liquidity": 1279.22
     },
     {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Ettifaq Saudi Club 2nd Half O/U 0.5",
+      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 LASK Linz vs. Celtic FC: LASK Linz O/U 2.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "Saudi Professional League"
+        "UCL"
       ],
-      "volume24hr": 421925.66,
-      "liquidity": 3182.48
+      "volume24hr": 351.21,
+      "liquidity": 2692.24
     },
     {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Ettifaq Saudi Club 2nd Half O/U 1.5",
+      "market": "Winston-Salem Open: Adam Walton vs Ignacio Buse \u2014 Game Spread: Walton (-2.5) vs Buse (+2.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-walton-buse-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "Saudi Professional League"
+        "Games"
       ],
-      "volume24hr": 421925.66,
-      "liquidity": 3303.1
+      "volume24hr": 620.0,
+      "liquidity": 3219.17
     },
     {
-      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Cardiff City FC O/U 1.5",
+      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 LASK Linz vs. Celtic FC: 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
+        "UCL"
       ],
-      "volume24hr": 1481.84,
-      "liquidity": 10996.21
+      "volume24hr": 391145.7,
+      "liquidity": 999.21
     },
     {
-      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Cardiff City FC O/U 2.5",
+      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 LASK Linz vs. Celtic FC: LASK Linz 2nd Half O/U 1.5",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
+        "UCL"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 11531.61
+      "volume24hr": 391145.7,
+      "liquidity": 1010.59
     },
     {
-      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Norwich City FC O/U 2.5",
+      "market": "Winston-Salem Open: Benjamin Bonzi vs Quentin Halys \u2014 Game Spread: Halys (-1.5) vs Bonzi (+1.5)",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-bonzi-halys-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
+        "Games"
       ],
-      "volume24hr": 269.0,
-      "liquidity": 11661.7
-    },
-    {
-      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Norwich City FC 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
-      ],
-      "volume24hr": 133640.55,
-      "liquidity": 4786.41
+      "volume24hr": 319881.75,
+      "liquidity": 3237.98
     }
   ],
   "log": [
-    {
-      "ts": "13:00:01",
-      "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:15:01",
       "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
@@ -275,6 +261,10 @@
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 1890 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:30:02",
+      "text": " poll complete \u2014 1895 markets scanned, 10 flagged"
     }
   ]
 }
