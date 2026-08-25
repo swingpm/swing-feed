@@ -1,66 +1,38 @@
 {
-  "lastUpdate": "2026-08-25 03:30:01 UTC",
+  "lastUpdate": "2026-08-25 03:45:01 UTC",
   "swings": [
     {
-      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Monterrey Open: Completed Match: Clara Tauson vs Renata Zarazua",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 411053.51,
-      "liquidity": 1389.11
-    },
-    {
-      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Tauson vs. Zarazua: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 411053.51,
-      "liquidity": 6091.09
-    },
-    {
-      "market": "Cincinnati Reds vs. San Francisco Giants \u2014 1st 5 Innings Spread: San Francisco Giants (-1.5)",
+      "market": "Philadelphia Phillies vs. Seattle Mariners \u2014 1st 5 Innings Spread: Seattle Mariners (-1.5)",
       "prev": 0.5,
       "now": 0.996,
       "delta": 0.496,
-      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
+      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 10.63,
-      "liquidity": 1872.85
+      "volume24hr": 20.0,
+      "liquidity": 1688.98
     },
     {
-      "market": "Cincinnati Reds vs. San Francisco Giants \u2014 1st 5 Innings Spread: Cincinnati Reds (-1.5)",
+      "market": "Philadelphia Phillies vs. Seattle Mariners \u2014 1st 5 Innings Spread: Philadelphia Phillies (-1.5)",
       "prev": 0.5,
-      "now": 0.0045,
-      "delta": -0.4955,
-      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
+      "now": 0.004,
+      "delta": -0.496,
+      "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 586659.62,
-      "liquidity": 2042.36
+      "volume24hr": 5.0,
+      "liquidity": 1868.17
     },
     {
-      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Nneka Ogwumike: Points O/U 15.5",
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Dearica Hamby: Points O/U 13.5",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
@@ -71,89 +43,116 @@
         "WNBA",
         "Basketball"
       ],
-      "volume24hr": 632576.01,
-      "liquidity": 940.63
+      "volume24hr": 127.31,
+      "liquidity": 940.69
     },
     {
-      "market": "Cincinnati Reds vs. San Francisco Giants: 1st 5 Innings O/U 5.5",
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 3: Both Teams Slay Baron Nashor?",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 15.0,
-      "liquidity": 1823.23
+      "volume24hr": 301380.45,
+      "liquidity": 100.92
     },
     {
-      "market": "Cincinnati Reds vs. San Francisco Giants: 1st 5 Innings O/U 6.5",
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 3: Both Teams Slay a Dragon?",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 119.17,
-      "liquidity": 2445.39
+      "volume24hr": 301380.45,
+      "liquidity": 100.92
     },
     {
-      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Game Spread: Tauson (-4.5) vs Zarazua (+4.5)",
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 3: Both Teams Destroy Inhibitors?",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 411053.51,
-      "liquidity": 3408.62
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics \u2014 1st 5 Innings Spread: Athletics (-1.5)",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 358326.57,
-      "liquidity": 1966.02
+      "volume24hr": 301380.45,
+      "liquidity": 100.92
     },
     {
-      "market": "Minnesota Twins vs. Athletics \u2014 1st 5 Innings Spread: Minnesota Twins (-1.5)",
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 3: Odd/Even Total Kills?",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 358326.57,
-      "liquidity": 1792.14
+      "volume24hr": 301380.45,
+      "liquidity": 100.92
+    },
+    {
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 4: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 301380.45,
+      "liquidity": 100.92
+    },
+    {
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 4: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 301380.45,
+      "liquidity": 100.92
+    },
+    {
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 4: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 301380.45,
+      "liquidity": 100.92
     }
   ],
   "log": [
-    {
-      "ts": "20:15:02",
-      "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:30:01",
       "text": " poll complete \u2014 1898 markets scanned, 10 flagged"
@@ -269,6 +268,10 @@
     {
       "ts": "03:30:01",
       "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:45:01",
+      "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
     }
   ]
 }
