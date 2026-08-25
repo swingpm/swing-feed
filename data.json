@@ -1,160 +1,156 @@
 {
-  "lastUpdate": "2026-08-25 15:00:01 UTC",
+  "lastUpdate": "2026-08-25 15:15:02 UTC",
   "swings": [
     {
-      "market": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna \u2014 Augsburg: Completed Match: Benjamin Hassan vs Juan Manuel La Serna",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-hassan-serna-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 220.0,
-      "liquidity": 1096.14
-    },
-    {
-      "market": "Counter-Strike: G2 Ares vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: G2.A (-1.5) vs ex-RUSTEC (+1.5)",
+      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Set 1 Games O/U 8.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/cs2-g2a-rustec-2026-08-25",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 74680.24,
-      "liquidity": 2878.83
-    },
-    {
-      "market": "Counter-Strike: G2 Ares vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/cs2-g2a-rustec-2026-08-25",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 74680.24,
-      "liquidity": 254.12
-    },
-    {
-      "market": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
-      "prev": 0.45,
-      "now": 0.0005,
-      "delta": -0.4495,
-      "url": "https://polymarket.com/event/atp-hassan-serna-2026-08-25",
+      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 379622.56,
-      "liquidity": 902675.12
+      "volume24hr": 213.17,
+      "liquidity": 5740.65
     },
     {
-      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Rounds Handicap: 1WIN (-3.5) vs Nemiga (+3.5)",
+      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Set 1 Winner: Cretu vs McDonald",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 247720.32,
-      "liquidity": 100.92
+      "volume24hr": 20.0,
+      "liquidity": 6571.87
     },
     {
-      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Rounds Handicap: 1WIN (-6.5) vs Nemiga (+6.5)",
+      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Set 1 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 247720.32,
-      "liquidity": 100.92
+      "volume24hr": 113978.94,
+      "liquidity": 5718.53
     },
     {
-      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Total Rounds: Over/Under 24.5",
+      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Set 1 Games O/U 10.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 247720.32,
-      "liquidity": 149.92
+      "volume24hr": 113978.94,
+      "liquidity": 5692.75
     },
     {
-      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Rounds Handicap: 1WIN (-9.5) vs Nemiga (+9.5)",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
+      "market": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo \u2014 Set 2 Winner: Gaston vs Justo",
+      "prev": 0.76,
+      "now": 0.4,
+      "delta": -0.36,
+      "url": "https://polymarket.com/event/atp-gaston-justo-2026-08-25",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 247720.32,
-      "liquidity": 100.92
+      "volume24hr": 172715.37,
+      "liquidity": 486.42
     },
     {
-      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Total Rounds: Over/Under 18.5",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
+      "market": "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi \u2014 Set 2 Winner: Bu vs Noguchi",
+      "prev": 0.635,
+      "now": 0.335,
+      "delta": -0.3,
+      "url": "https://polymarket.com/event/atp-bu-noguchi-2026-08-25",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 247720.32,
-      "liquidity": 100.92
+      "volume24hr": 82238.19,
+      "liquidity": 770.18
     },
     {
-      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Rounds Handicap: 1WIN (-12.5) vs Nemiga (+12.5)",
+      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Set Handicap: McDonald (-1.5) vs Cretu (+1.5)",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
+      "now": 0.25,
+      "delta": -0.25,
+      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 247720.32,
-      "liquidity": 100.92
+      "volume24hr": 10.0,
+      "liquidity": 3485.5
+    },
+    {
+      "market": "Highest temperature in Paris on August 25? \u2014 Will the highest temperature in Paris be 29\u00b0C on August 25?",
+      "prev": 0.765,
+      "now": 0.97,
+      "delta": 0.205,
+      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Paris",
+        "France",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 8369.14,
+      "liquidity": 275.24
+    },
+    {
+      "market": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori \u2014 Ofner vs. Nishikori: Set 1 Games O/U 10.5",
+      "prev": 0.305,
+      "now": 0.5,
+      "delta": 0.195,
+      "url": "https://polymarket.com/event/atp-ofner-nishiko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 109345.67,
+      "liquidity": 459137.14
+    },
+    {
+      "market": "Highest temperature in Paris on August 25? \u2014 Will the highest temperature in Paris be 28\u00b0C on August 25?",
+      "prev": 0.16,
+      "now": 0.0005,
+      "delta": -0.1595,
+      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Paris",
+        "France",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 10626.73,
+      "liquidity": 11392.23
     }
   ],
   "log": [
-    {
-      "ts": "07:45:01",
-      "text": " poll complete \u2014 1787 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:00:01",
       "text": " poll complete \u2014 1781 markets scanned, 10 flagged"
@@ -270,6 +266,10 @@
     {
       "ts": "15:00:01",
       "text": " poll complete \u2014 1748 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:15:02",
+      "text": " poll complete \u2014 1805 markets scanned, 10 flagged"
     }
   ]
 }
