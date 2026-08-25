@@ -1,155 +1,153 @@
 {
-  "lastUpdate": "2026-08-24 23:45:01 UTC",
+  "lastUpdate": "2026-08-25 00:00:01 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez \u2014 Dolehide vs. Podrez: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 309245.92,
-      "liquidity": 2216.66
-    },
-    {
-      "market": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez \u2014 Dolehide vs. Podrez: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 309245.92,
-      "liquidity": 2155.72
-    },
-    {
-      "market": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez \u2014 Dolehide vs. Podrez: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 309245.92,
-      "liquidity": 2206.1
-    },
-    {
-      "market": "Colorado Rockies vs. Washington Nationals: 1st 5 Innings O/U 6.5",
-      "prev": 0.085,
-      "now": 0.5,
-      "delta": 0.415,
-      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
+      "market": "CA Tigre vs. CA Central C\u00f3rdoba - More Markets \u2014 CA Tigre vs. CA Central C\u00f3rdoba: 2nd Half O/U 1.5",
+      "prev": 0.64,
+      "now": 0.005,
+      "delta": -0.635,
+      "url": "https://polymarket.com/event/arg-tig-cac-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 40.34,
-      "liquidity": 284970.33
+      "volume24hr": 155566.66,
+      "liquidity": 2845.5
     },
     {
-      "market": "Will the game go to extra innings?: Texas Rangers vs. Chicago White Sox",
-      "prev": 0.085,
-      "now": 0.495,
-      "delta": 0.41,
-      "url": "https://polymarket.com/event/mlb-tex-cws-2026-08-24",
+      "market": "CA Tigre vs. CA Central C\u00f3rdoba - More Markets \u2014 CA Tigre vs. CA Central C\u00f3rdoba: Both Teams to Score in Second Half",
+      "prev": 0.585,
+      "now": 0.005,
+      "delta": -0.58,
+      "url": "https://polymarket.com/event/arg-tig-cac-2026-08-24-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 10.75,
-      "liquidity": 3.12
-    },
-    {
-      "market": "Colorado Rockies vs. Washington Nationals: 1st 5 Innings O/U 2.5",
-      "prev": 0.655,
-      "now": 0.285,
-      "delta": -0.37,
-      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 3646.44
-    },
-    {
-      "market": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez \u2014 Dolehide vs. Podrez: Match O/U 23.5",
-      "prev": 0.6,
-      "now": 0.23,
-      "delta": -0.37,
-      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 309245.92,
-      "liquidity": 1764.0
-    },
-    {
-      "market": "Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas \u2014 Set Handicap: Tsitsipas (-1.5) vs Brooksby (+1.5)",
-      "prev": 0.65,
-      "now": 0.305,
-      "delta": -0.345,
-      "url": "https://polymarket.com/event/atp-brooksb-tsitsip-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 1366.89,
-      "liquidity": 219.51
+      "volume24hr": 155566.66,
+      "liquidity": 2871.1
     },
     {
       "market": "Monterrey Open: Alycia Parks vs Petra Marcinko \u2014 Set 2 Winner: Parks vs Marcinko",
-      "prev": 0.115,
-      "now": 0.455,
-      "delta": 0.34,
+      "prev": 0.455,
+      "now": 0.995,
+      "delta": 0.54,
       "url": "https://polymarket.com/event/wta-parks-marcink-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 28.9,
-      "liquidity": 2207.74
+      "volume24hr": 40.31,
+      "liquidity": 10766.08
     },
     {
-      "market": "Winston-Salem Open: Roman Safiullin vs Hugo Grenier \u2014 Roman Safiullin vs. Hugo Grenier: Total Sets O/U 2.5",
-      "prev": 0.565,
-      "now": 0.895,
-      "delta": 0.33,
-      "url": "https://polymarket.com/event/atp-safiull-grenier-2026-08-24",
+      "market": "CA Tigre vs. CA Central C\u00f3rdoba - More Markets \u2014 CA Tigre vs. CA Central C\u00f3rdoba: O/U 3.5",
+      "prev": 0.535,
+      "now": 0.005,
+      "delta": -0.53,
+      "url": "https://polymarket.com/event/arg-tig-cac-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 11763.9,
+      "liquidity": 168573.55
+    },
+    {
+      "market": "Monterrey Open: Alycia Parks vs Petra Marcinko \u2014 Set Handicap: Marcinko (-1.5) vs Parks (+1.5)",
+      "prev": 0.56,
+      "now": 0.04,
+      "delta": -0.52,
+      "url": "https://polymarket.com/event/wta-parks-marcink-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 6.54,
-      "liquidity": 207.5
+      "volume24hr": 836.86,
+      "liquidity": 460.0
+    },
+    {
+      "market": "CA Tigre vs. CA Central C\u00f3rdoba - More Markets \u2014 CA Tigre vs. CA Central C\u00f3rdoba: CA Tigre O/U 2.5",
+      "prev": 0.52,
+      "now": 0.005,
+      "delta": -0.515,
+      "url": "https://polymarket.com/event/arg-tig-cac-2026-08-24-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 178.28,
+      "liquidity": 13394.53
+    },
+    {
+      "market": "Monterrey Open: Janice Tjen vs Dayana Yastremska \u2014 Set 2 Winner: Tjen vs Yastremska",
+      "prev": 0.49,
+      "now": 0.9995,
+      "delta": 0.5095,
+      "url": "https://polymarket.com/event/wta-tjen-yastrem-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 227.32,
+      "liquidity": 5074.16
+    },
+    {
+      "market": "Tampa Bay Rays vs. Detroit Tigers: 1st 5 Innings O/U 3.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 23.59,
+      "liquidity": 1745.42
+    },
+    {
+      "market": "US Open, Qualification ATP: Coleman Wong vs Elmer Moeller \u2014 Wong vs. Moeller: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-wong-moeller-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 89208.06,
+      "liquidity": 3206.68
+    },
+    {
+      "market": "US Open, Qualification ATP: Coleman Wong vs Elmer Moeller \u2014 Wong vs. Moeller: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-wong-moeller-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 89208.06,
+      "liquidity": 3196.12
     }
   ],
   "log": [
-    {
-      "ts": "16:30:02",
-      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
-    },
     {
       "ts": "16:45:01",
       "text": " poll complete \u2014 1868 markets scanned, 10 flagged"
@@ -265,6 +263,10 @@
     {
       "ts": "23:45:01",
       "text": " poll complete \u2014 1814 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:00:01",
+      "text": " poll complete \u2014 1823 markets scanned, 10 flagged"
     }
   ]
 }
