@@ -1,161 +1,148 @@
 {
-  "lastUpdate": "2026-08-25 19:00:01 UTC",
+  "lastUpdate": "2026-08-25 19:15:02 UTC",
   "swings": [
     {
-      "market": "Sabah FK vs. MH Hapoel Be'er Sheva \u2014 Will Sabah FK win on 2026-08-25?",
-      "prev": 0.065,
-      "now": 0.9995,
-      "delta": 0.9345,
-      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 269558.84,
-      "liquidity": 974761.15
-    },
-    {
-      "market": "Will Sabah FK vs. MH Hapoel Be'er Sheva end in a draw?",
-      "prev": 0.89,
-      "now": 0.0005,
-      "delta": -0.8895,
-      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 69306.71,
-      "liquidity": 401714.33
-    },
-    {
-      "market": "Sabah FK vs. MH Hapoel Be'er Sheva - More Markets \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: O/U 4.5",
-      "prev": 0.115,
-      "now": 0.9995,
-      "delta": 0.8845,
-      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
-      ],
-      "volume24hr": 173056.61,
-      "liquidity": 267909.53
-    },
-    {
-      "market": "LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs \u2014 Game Handicap: USE (-1.5) vs ROSSMANN Centaurs (+1.5)",
-      "prev": 0.17,
-      "now": 0.9995,
-      "delta": 0.8295,
-      "url": "https://polymarket.com/event/lol-use1-ross-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1392.73,
-      "liquidity": 10482.64
-    },
-    {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Ettifaq Saudi Club 1st Half O/U 1.5",
-      "prev": 0.165,
-      "now": 0.9945,
-      "delta": 0.8295,
-      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Saudi Professional League"
-      ],
-      "volume24hr": 28.63,
-      "liquidity": 8386.65
-    },
-    {
-      "market": "LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs \u2014 LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs - Game 4 Winner",
-      "prev": 0.32,
-      "now": 0.9995,
-      "delta": 0.6795,
-      "url": "https://polymarket.com/event/lol-use1-ross-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 112858.74,
-      "liquidity": 577344.35
-    },
-    {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: 1st Half O/U 1.5",
-      "prev": 0.35,
-      "now": 0.9995,
-      "delta": 0.6495,
-      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Saudi Professional League"
-      ],
-      "volume24hr": 25064.33,
-      "liquidity": 167356.15
-    },
-    {
-      "market": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi \u2014 Bellucci vs. Darderi: Set 1 Games O/U 8.5",
-      "prev": 0.63,
-      "now": 0.0005,
-      "delta": -0.6295,
-      "url": "https://polymarket.com/event/atp-bellucc-darderi-2026-08-25",
+      "market": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo \u2014 Zandschulp vs. Vallejo: Match O/U 23.5",
+      "prev": 0.595,
+      "now": 0.07,
+      "delta": -0.525,
+      "url": "https://polymarket.com/event/atp-zandsch-vallejo-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 26.0,
-      "liquidity": 5591.27
+      "volume24hr": 154.32,
+      "liquidity": 75.68
     },
     {
-      "market": "LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs \u2014 Games Total: O/U 4.5",
-      "prev": 0.61,
-      "now": 0.0005,
-      "delta": -0.6095,
-      "url": "https://polymarket.com/event/lol-use1-ross-2026-08-25",
+      "market": "US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz \u2014 Set Handicap: Ruiz (-1.5) vs Bolt (+1.5)",
+      "prev": 0.485,
+      "now": 0.9995,
+      "delta": 0.5145,
+      "url": "https://polymarket.com/event/atp-bolt-ruiz-2026-08-25",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1132.08,
-      "liquidity": 16352.63
-    },
-    {
-      "market": "Sabah FK vs. MH Hapoel Be'er Sheva - More Markets \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: Team to Advance",
-      "prev": 0.055,
-      "now": 0.6,
-      "delta": 0.545,
-      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25-more-markets",
-      "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "UCL"
+        "Games"
       ],
-      "volume24hr": 181346.08,
-      "liquidity": 7793.13
+      "volume24hr": 1874.54,
+      "liquidity": 14650.78
+    },
+    {
+      "market": "US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz \u2014 Game Spread: Ruiz (-1.5) vs Bolt (+1.5)",
+      "prev": 0.49,
+      "now": 0.9995,
+      "delta": 0.5095,
+      "url": "https://polymarket.com/event/atp-bolt-ruiz-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 3077.95,
+      "liquidity": 5230.13
+    },
+    {
+      "market": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy \u2014 Kouame vs. Basavareddy: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-kouame-basavar-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1733.09,
+      "liquidity": 14538.24
+    },
+    {
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 US Open, Qualification ATP: Completed Match: Gauthier Onclin vs Vitaliy Sachko",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 354.0,
+      "liquidity": 1297.49
+    },
+    {
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 Onclin vs. Sachko: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 311649.15,
+      "liquidity": 2867.24
+    },
+    {
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 Gauthier Onclin vs. Vitaliy Sachko: Total Sets O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 311649.15,
+      "liquidity": 5854.56
+    },
+    {
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 Onclin vs. Sachko: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 311649.15,
+      "liquidity": 2885.93
+    },
+    {
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 Onclin vs. Sachko: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 311649.15,
+      "liquidity": 3285.53
+    },
+    {
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 Onclin vs. Sachko: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 311649.15,
+      "liquidity": 4871.6
     }
   ],
   "log": [
-    {
-      "ts": "11:45:01",
-      "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:00:01",
       "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
@@ -271,6 +258,10 @@
     {
       "ts": "19:00:01",
       "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:15:02",
+      "text": " poll complete \u2014 1861 markets scanned, 10 flagged"
     }
   ]
 }
