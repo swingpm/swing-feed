@@ -1,26 +1,101 @@
 {
-  "lastUpdate": "2026-08-25 01:45:01 UTC",
+  "lastUpdate": "2026-08-25 02:00:01 UTC",
   "swings": [
     {
-      "market": "CA Talleres vs. CA Rosario Central \u2014 Will CA Talleres win on 2026-08-24?",
-      "prev": 0.845,
-      "now": 0.175,
-      "delta": -0.67,
-      "url": "https://polymarket.com/event/arg-tal-ros-2026-08-24",
+      "market": "Will there be a run scored in the first inning?: Cincinnati Reds vs. San Francisco Giants",
+      "prev": 0.43,
+      "now": 0.995,
+      "delta": 0.565,
+      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
       "tags": [
         "Sports",
         "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 46841.47,
-      "liquidity": 183558.29
+      "volume24hr": 40287.71,
+      "liquidity": 105494.77
     },
     {
-      "market": "Colorado Rockies vs. Washington Nationals: O/U 13.5",
+      "market": "Will there be a run scored in the first inning?: Cleveland Guardians vs. Los Angeles Angels",
+      "prev": 0.545,
+      "now": 0.0005,
+      "delta": -0.5445,
+      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 7773.08,
+      "liquidity": 97438.82
+    },
+    {
+      "market": "Will there be a run scored in the first inning?: Minnesota Twins vs. Athletics",
+      "prev": 0.475,
+      "now": 0.9955,
+      "delta": 0.5205,
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 904.89,
+      "liquidity": 158.52
+    },
+    {
+      "market": "Colorado Rockies vs. Washington Nationals \u2014 Spread: Washington Nationals (-6.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 21.28,
+      "liquidity": 8975.44
+    },
+    {
+      "market": "Colorado Rockies vs. Washington Nationals \u2014 Spread: Washington Nationals (-8.5)",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 748344.69,
+      "liquidity": 8606.41
+    },
+    {
+      "market": "Colorado Rockies vs. Washington Nationals \u2014 Spread: Washington Nationals (-9.5)",
+      "prev": 0.5,
+      "now": 0.9955,
+      "delta": 0.4955,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 748344.69,
+      "liquidity": 10504.82
+    },
+    {
+      "market": "Colorado Rockies vs. Washington Nationals: O/U 16.5",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
@@ -29,13 +104,13 @@
         "baseball"
       ],
       "volume24hr": 4.04,
-      "liquidity": 7011.07
+      "liquidity": 5840.33
     },
     {
-      "market": "Colorado Rockies vs. Washington Nationals: O/U 14.5",
+      "market": "Colorado Rockies vs. Washington Nationals: O/U 17.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
+      "now": 0.0045,
+      "delta": -0.4955,
       "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
@@ -43,120 +118,41 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 742492.92,
-      "liquidity": 7015.12
+      "volume24hr": 748344.69,
+      "liquidity": 5747.42
     },
     {
-      "market": "Texas Rangers vs. Chicago White Sox \u2014 1st 5 Innings Spread: Texas Rangers (-1.5)",
+      "market": "Will the game go to extra innings?: Boston Red Sox vs. Miami Marlins",
       "prev": 0.5,
-      "now": 0.996,
-      "delta": 0.496,
-      "url": "https://polymarket.com/event/mlb-tex-cws-2026-08-24",
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 21.0,
-      "liquidity": 1746.64
+      "volume24hr": 270.87,
+      "liquidity": 99.01
     },
     {
-      "market": "Golden State Valkyries vs. Minnesota Lynx \u2014 Kayla McBride: Rebounds O/U 2.5",
+      "market": "Colorado Rockies vs. Washington Nationals \u2014 Spread: Washington Nationals (-4.5)",
       "prev": 0.505,
-      "now": 0.9945,
-      "delta": 0.4895,
-      "url": "https://polymarket.com/event/wnba-gsv-min-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 197.16,
-      "liquidity": 819.55
-    },
-    {
-      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game Handicap: FUE (-1.5) vs Zeu5 Esports (+1.5)",
-      "prev": 0.445,
-      "now": 0.005,
-      "delta": -0.44,
-      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 659.41,
-      "liquidity": 868.83
-    },
-    {
-      "market": "Will the game go to extra innings?: Cleveland Guardians vs. Los Angeles Angels",
-      "prev": 0.085,
-      "now": 0.505,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-24",
+      "now": 0.9955,
+      "delta": 0.4905,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 17.47,
-      "liquidity": 0.07
-    },
-    {
-      "market": "Will the game go to extra innings?: Chicago Cubs vs. Arizona Diamondbacks",
-      "prev": 0.085,
-      "now": 0.5,
-      "delta": 0.415,
-      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 191887.75,
-      "liquidity": 1.12
-    },
-    {
-      "market": "Will the game go to extra innings?: Pittsburgh Pirates vs. San Diego Padres",
-      "prev": 0.095,
-      "now": 0.495,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 207583.99,
-      "liquidity": 0.56
-    },
-    {
-      "market": "Will CA Talleres vs. CA Rosario Central end in a draw?",
-      "prev": 0.12,
-      "now": 0.505,
-      "delta": 0.385,
-      "url": "https://polymarket.com/event/arg-tal-ros-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "Argentina Primera Divisi\u00f3n"
-      ],
-      "volume24hr": 3290.98,
-      "liquidity": 35797.1
+      "volume24hr": 5.0,
+      "liquidity": 6963.18
     }
   ],
   "log": [
-    {
-      "ts": "18:30:02",
-      "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:45:02",
       "text": " poll complete \u2014 1837 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "01:45:01",
       "text": " poll complete \u2014 1792 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:00:01",
+      "text": " poll complete \u2014 1790 markets scanned, 10 flagged"
     }
   ]
 }
