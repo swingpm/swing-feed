@@ -1,155 +1,158 @@
 {
-  "lastUpdate": "2026-08-25 01:30:01 UTC",
+  "lastUpdate": "2026-08-25 01:45:01 UTC",
   "swings": [
     {
-      "market": "Tampa Bay Rays vs. Detroit Tigers \u2014 Spread: Tampa Bay Rays (-2.5)",
-      "prev": 0.375,
+      "market": "CA Talleres vs. CA Rosario Central \u2014 Will CA Talleres win on 2026-08-24?",
+      "prev": 0.845,
+      "now": 0.175,
+      "delta": -0.67,
+      "url": "https://polymarket.com/event/arg-tal-ros-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
+      ],
+      "volume24hr": 46841.47,
+      "liquidity": 183558.29
+    },
+    {
+      "market": "Colorado Rockies vs. Washington Nationals: O/U 13.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.6245,
-      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 50721.01,
-      "liquidity": 56833.4
+      "volume24hr": 4.04,
+      "liquidity": 7011.07
     },
     {
-      "market": "Tampa Bay Rays vs. Detroit Tigers: O/U 5.5",
-      "prev": 0.615,
-      "now": 0.0035,
-      "delta": -0.6115,
-      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
+      "market": "Colorado Rockies vs. Washington Nationals: O/U 14.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 547.16,
-      "liquidity": 2932.01
+      "volume24hr": 742492.92,
+      "liquidity": 7015.12
     },
     {
-      "market": "Boston Red Sox vs. Miami Marlins \u2014 Spread: Boston Red Sox (-1.5)",
-      "prev": 0.265,
-      "now": 0.87,
-      "delta": 0.605,
-      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "market": "Texas Rangers vs. Chicago White Sox \u2014 1st 5 Innings Spread: Texas Rangers (-1.5)",
+      "prev": 0.5,
+      "now": 0.996,
+      "delta": 0.496,
+      "url": "https://polymarket.com/event/mlb-tex-cws-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 23075.76,
-      "liquidity": 85299.6
+      "volume24hr": 21.0,
+      "liquidity": 1746.64
     },
     {
-      "market": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana \u2014 Altmaier vs. Comesana: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-altmaie-comesan-2026-08-24",
+      "market": "Golden State Valkyries vs. Minnesota Lynx \u2014 Kayla McBride: Rebounds O/U 2.5",
+      "prev": 0.505,
+      "now": 0.9945,
+      "delta": 0.4895,
+      "url": "https://polymarket.com/event/wnba-gsv-min-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 100.0,
-      "liquidity": 5832.92
+      "volume24hr": 197.16,
+      "liquidity": 819.55
     },
     {
-      "market": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana \u2014 Altmaier vs. Comesana: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-altmaie-comesan-2026-08-24",
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game Handicap: FUE (-1.5) vs Zeu5 Esports (+1.5)",
+      "prev": 0.445,
+      "now": 0.005,
+      "delta": -0.44,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 166595.34,
-      "liquidity": 5789.68
+      "volume24hr": 659.41,
+      "liquidity": 868.83
     },
     {
-      "market": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana \u2014 Altmaier vs. Comesana: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-altmaie-comesan-2026-08-24",
+      "market": "Will the game go to extra innings?: Cleveland Guardians vs. Los Angeles Angels",
+      "prev": 0.085,
+      "now": 0.505,
+      "delta": 0.42,
+      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 166595.34,
-      "liquidity": 5796.72
+      "volume24hr": 17.47,
+      "liquidity": 0.07
     },
     {
-      "market": "US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda \u2014 Jones vs. Svajda: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-jones-svajd-2026-08-24",
+      "market": "Will the game go to extra innings?: Chicago Cubs vs. Arizona Diamondbacks",
+      "prev": 0.085,
+      "now": 0.5,
+      "delta": 0.415,
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 15.77,
-      "liquidity": 5640.81
+      "volume24hr": 191887.75,
+      "liquidity": 1.12
     },
     {
-      "market": "US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda \u2014 Jones vs. Svajda: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-jones-svajd-2026-08-24",
+      "market": "Will the game go to extra innings?: Pittsburgh Pirates vs. San Diego Padres",
+      "prev": 0.095,
+      "now": 0.495,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 68299.38,
-      "liquidity": 3066.81
+      "volume24hr": 207583.99,
+      "liquidity": 0.56
     },
     {
-      "market": "US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda \u2014 Jones vs. Svajda: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-jones-svajd-2026-08-24",
+      "market": "Will CA Talleres vs. CA Rosario Central end in a draw?",
+      "prev": 0.12,
+      "now": 0.505,
+      "delta": 0.385,
+      "url": "https://polymarket.com/event/arg-tal-ros-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Argentina Primera Divisi\u00f3n"
       ],
-      "volume24hr": 1.89,
-      "liquidity": 5640.81
-    },
-    {
-      "market": "US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda \u2014 Jones vs. Svajda: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-jones-svajd-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 68299.38,
-      "liquidity": 3066.81
+      "volume24hr": 3290.98,
+      "liquidity": 35797.1
     }
   ],
   "log": [
-    {
-      "ts": "18:15:02",
-      "text": " poll complete \u2014 1855 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:30:02",
       "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
@@ -265,6 +268,10 @@
     {
       "ts": "01:30:01",
       "text": " poll complete \u2014 1808 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:45:01",
+      "text": " poll complete \u2014 1792 markets scanned, 10 flagged"
     }
   ]
 }
