@@ -1,41 +1,26 @@
 {
-  "lastUpdate": "2026-08-25 09:00:01 UTC",
+  "lastUpdate": "2026-08-25 09:15:01 UTC",
   "swings": [
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner",
-      "prev": 0.44,
-      "now": 0.9995,
-      "delta": 0.5595,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Dota 2: PuckChamp vs Nemiga Gaming - Game 2 Winner",
+      "prev": 0.855,
+      "now": 0.265,
+      "delta": -0.59,
+      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
-        "league of legends",
+        "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 210120.58,
-      "liquidity": 1107808.35
-    },
-    {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: FOX.Y (-2.5) vs Kiwoom DRX Challengers (+2.5)",
-      "prev": 0.425,
-      "now": 0.0005,
-      "delta": -0.4245,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 657.31,
-      "liquidity": 5757.35
+      "volume24hr": 67049.82,
+      "liquidity": 122307.99
     },
     {
       "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Games Total: O/U 2.5",
-      "prev": 0.46,
-      "now": 0.145,
-      "delta": -0.315,
+      "prev": 0.145,
+      "now": 0.73,
+      "delta": 0.585,
       "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
@@ -44,13 +29,13 @@
         "Sports"
       ],
       "volume24hr": 573.89,
-      "liquidity": 48.75
+      "liquidity": 46.3
     },
     {
       "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game Handicap: PckCp (-1.5) vs Nemiga Gaming (+1.5)",
-      "prev": 0.54,
-      "now": 0.855,
-      "delta": 0.315,
+      "prev": 0.855,
+      "now": 0.27,
+      "delta": -0.585,
       "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
@@ -59,43 +44,27 @@
         "Sports"
       ],
       "volume24hr": 15.0,
-      "liquidity": 47.45
+      "liquidity": 42.65
     },
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Dota 2: PuckChamp vs Nemiga Gaming - Game 2 Winner",
-      "prev": 0.545,
-      "now": 0.855,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "market": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo \u2014 Set 2 Winner: Gaston vs Justo",
+      "prev": 0.78,
+      "now": 0.43,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/atp-gaston-justo-2026-08-25",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 41475.45,
-      "liquidity": 134960.52
-    },
-    {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: FOX.Y (-1.5) vs Kiwoom DRX Challengers (+1.5)",
-      "prev": 0.605,
-      "now": 0.36,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 26449.84,
-      "liquidity": 79154.68
+      "volume24hr": 168976.92,
+      "liquidity": 48.45
     },
     {
       "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A",
-      "prev": 0.72,
-      "now": 0.895,
-      "delta": 0.175,
+      "prev": 0.895,
+      "now": 0.56,
+      "delta": -0.335,
       "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
@@ -103,60 +72,91 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 38432.75,
-      "liquidity": 213344.57
+      "volume24hr": 40533.29,
+      "liquidity": 209037.7
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In",
-      "prev": 0.33,
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $65,000 by December 31, 2026?",
+      "prev": 0.39,
+      "now": 0.635,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "tags": [
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto"
+      ],
+      "volume24hr": 10.0,
+      "liquidity": 1690.93
+    },
+    {
+      "market": "Counter-Strike: Color vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Counter-Strike: Color vs CYBERSHOKE Prospects - Map 2 Winner",
+      "prev": 0.625,
+      "now": 0.46,
+      "delta": -0.165,
+      "url": "https://polymarket.com/event/cs2-color-cyb-2026-08-25",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 277.02,
+      "liquidity": 4.6
+    },
+    {
+      "market": "Counter-Strike: Color vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map Handicap: Color (-1.5) vs CYBERSHOKE Prospects (+1.5)",
+      "prev": 0.375,
       "now": 0.5,
-      "delta": 0.17,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/cs2-color-cyb-2026-08-25",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 215225.65,
-      "liquidity": 263776.27
+      "volume24hr": 2307.11,
+      "liquidity": 104851.61
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 3.5",
-      "prev": 0.685,
-      "now": 0.825,
-      "delta": 0.14,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 17\u00b0C on August 25?",
+      "prev": 0.2965,
+      "now": 0.2105,
+      "delta": -0.086,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
       ],
-      "volume24hr": 4958.94,
-      "liquidity": 16397.87
+      "volume24hr": 6166.61,
+      "liquidity": 478.42
     },
     {
-      "market": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs \u2014 LoL: Top Esports vs LGD Gaming - Game 2 Winner",
-      "prev": 0.5,
-      "now": 0.63,
-      "delta": 0.13,
-      "url": "https://polymarket.com/event/lol-tes-lgd-2026-08-29",
+      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 19\u00b0C on August 25?",
+      "prev": 0.155,
+      "now": 0.22,
+      "delta": 0.065,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
       ],
-      "volume24hr": 82260.73,
-      "liquidity": 5363.13
+      "volume24hr": 7274.31,
+      "liquidity": 843.24
     }
   ],
   "log": [
-    {
-      "ts": "01:45:01",
-      "text": " poll complete \u2014 1792 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:00:01",
       "text": " poll complete \u2014 1790 markets scanned, 10 flagged"
@@ -272,6 +272,10 @@
     {
       "ts": "09:00:01",
       "text": " poll complete \u2014 1791 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:15:01",
+      "text": " poll complete \u2014 1785 markets scanned, 10 flagged"
     }
   ]
 }
