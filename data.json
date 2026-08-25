@@ -1,116 +1,41 @@
 {
-  "lastUpdate": "2026-08-25 19:45:01 UTC",
+  "lastUpdate": "2026-08-25 20:00:01 UTC",
   "swings": [
     {
-      "market": "Winston-Salem Open: Adam Walton vs Ignacio Buse \u2014 Set 2 Winner: Walton vs Buse",
-      "prev": 0.115,
-      "now": 0.995,
-      "delta": 0.88,
-      "url": "https://polymarket.com/event/atp-walton-buse-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 4.5,
-      "liquidity": 10506.17
-    },
-    {
-      "market": "Winston-Salem Open: Adam Walton vs Ignacio Buse \u2014 Set Handicap: Buse (-1.5) vs Walton (+1.5)",
-      "prev": 0.86,
-      "now": 0.04,
-      "delta": -0.82,
-      "url": "https://polymarket.com/event/atp-walton-buse-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 7.6,
-      "liquidity": 882.06
-    },
-    {
-      "market": "Stoke City FC vs. Hull City AFC - More Markets \u2014 Stoke City FC vs. Hull City AFC: 1st Half O/U 1.5",
-      "prev": 0.3045,
+      "market": "FK Bod\u00f8/Glimt vs. NEC - More Markets \u2014 FK Bod\u00f8/Glimt vs. NEC: 1st Half O/U 1.5",
+      "prev": 0.075,
       "now": 0.9995,
-      "delta": 0.695,
-      "url": "https://polymarket.com/event/efl-sto-hul-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
-      ],
-      "volume24hr": 54.05,
-      "liquidity": 8063.21
-    },
-    {
-      "market": "Stoke City FC vs. Hull City AFC - More Markets \u2014 Stoke City FC vs. Hull City AFC: Both Teams to Score",
-      "prev": 0.36,
-      "now": 0.996,
-      "delta": 0.636,
-      "url": "https://polymarket.com/event/efl-sto-hul-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
-      ],
-      "volume24hr": 1124.25,
-      "liquidity": 9266.39
-    },
-    {
-      "market": "Stoke City FC vs. Hull City AFC - More Markets \u2014 Stoke City FC vs. Hull City AFC: Both Teams to Score in First Half",
-      "prev": 0.435,
-      "now": 0.9995,
-      "delta": 0.5645,
-      "url": "https://polymarket.com/event/efl-sto-hul-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
-      ],
-      "volume24hr": 6.0,
-      "liquidity": 9090.53
-    },
-    {
-      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 LASK Linz vs. Celtic FC: Both Teams to Score in First Half",
-      "prev": 0.45,
-      "now": 0.9995,
-      "delta": 0.5495,
-      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
+      "delta": 0.9245,
+      "url": "https://polymarket.com/event/ucl-bog-nec-2026-08-25-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 286.29,
-      "liquidity": 10974.76
+      "volume24hr": 4208.7,
+      "liquidity": 32775.28
     },
     {
-      "market": "Winston-Salem Open: Adam Walton vs Ignacio Buse",
-      "prev": 0.055,
-      "now": 0.595,
-      "delta": 0.54,
-      "url": "https://polymarket.com/event/atp-walton-buse-2026-08-25",
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club \u2014 Will Al Nassr Saudi Club win on 2026-08-25?",
+      "prev": 0.046,
+      "now": 0.872,
+      "delta": 0.826,
+      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
       ],
-      "volume24hr": 117088.84,
-      "liquidity": 560752.76
+      "volume24hr": 239825.81,
+      "liquidity": 172287.08
     },
     {
-      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Spread: Al Ettifaq Saudi Club (-1.5)",
-      "prev": 0.7915,
-      "now": 0.2915,
-      "delta": -0.5,
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: O/U 4.5",
+      "prev": 0.22,
+      "now": 0.995,
+      "delta": 0.775,
       "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -118,43 +43,119 @@
         "Soccer",
         "Saudi Professional League"
       ],
-      "volume24hr": 1453.35,
-      "liquidity": 7593.97
+      "volume24hr": 17605.41,
+      "liquidity": 134617.91
     },
     {
-      "market": "US Open, Qualification ATP: Henrique Rocha vs Michael Mmoh \u2014 US Open, Qualification ATP: Completed Match: Henrique Rocha vs Michael Mmoh",
-      "prev": 0.5,
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club \u2014 Will Al Ettifaq Saudi Club win on 2026-08-25?",
+      "prev": 0.765,
+      "now": 0.015,
+      "delta": -0.75,
+      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 206287.47,
+      "liquidity": 103796.76
+    },
+    {
+      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: Both Teams to Score",
+      "prev": 0.28,
+      "now": 0.995,
+      "delta": 0.715,
+      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Cup",
+        "Carabao Cup"
+      ],
+      "volume24hr": 660.54,
+      "liquidity": 8047.86
+    },
+    {
+      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Spread: Norwich City FC (-1.5)",
+      "prev": 0.78,
+      "now": 0.075,
+      "delta": -0.705,
+      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "EFL Cup",
+        "Carabao Cup"
+      ],
+      "volume24hr": 858.97,
+      "liquidity": 352.43
+    },
+    {
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Nassr Saudi Club O/U 1.5",
+      "prev": 0.32,
+      "now": 0.995,
+      "delta": 0.675,
+      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 976.8,
+      "liquidity": 6167.24
+    },
+    {
+      "market": "FK Bod\u00f8/Glimt vs. NEC - More Markets \u2014 FK Bod\u00f8/Glimt vs. NEC: 1st Half O/U 0.5",
+      "prev": 0.34,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-rocha-mmoh-2026-08-25",
+      "delta": 0.6595,
+      "url": "https://polymarket.com/event/ucl-bog-nec-2026-08-25-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 172615.87,
-      "liquidity": 1279.22
+      "volume24hr": 7706.39,
+      "liquidity": 161249.12
     },
     {
-      "market": "US Open, Qualification ATP: Henrique Rocha vs Michael Mmoh \u2014 Henrique Rocha vs. Michael Mmoh: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-rocha-mmoh-2026-08-25",
+      "market": "Cardiff City FC vs. Norwich City FC - More Markets \u2014 Cardiff City FC vs. Norwich City FC: O/U 2.5",
+      "prev": 0.435,
+      "now": 0.995,
+      "delta": 0.56,
+      "url": "https://polymarket.com/event/efl-car-nor-2026-08-25-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "EFL Cup",
+        "Carabao Cup"
       ],
-      "volume24hr": 2.27,
-      "liquidity": 5603.51
+      "volume24hr": 25895.8,
+      "liquidity": 142624.83
+    },
+    {
+      "market": "Counter-Strike: K27 vs SPARTA (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map Handicap: K27 (-1.5) vs SPARTA (+1.5)",
+      "prev": 0.86,
+      "now": 0.335,
+      "delta": -0.525,
+      "url": "https://polymarket.com/event/cs2-k271-sparta-2026-08-25",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 3920.47,
+      "liquidity": 75.25
     }
   ],
   "log": [
-    {
-      "ts": "12:30:01",
-      "text": " poll complete \u2014 1827 markets scanned, 10 flagged"
-    },
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
@@ -270,6 +271,10 @@
     {
       "ts": "19:45:01",
       "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "20:00:01",
+      "text": " poll complete \u2014 1865 markets scanned, 10 flagged"
     }
   ]
 }
