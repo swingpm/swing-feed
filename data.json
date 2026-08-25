@@ -1,110 +1,26 @@
 {
-  "lastUpdate": "2026-08-25 18:00:02 UTC",
+  "lastUpdate": "2026-08-25 18:15:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: Drip Too Hard vs Just Players (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: Drip Too Hard vs Just Players - Map 1 Winner",
-      "prev": 0.495,
-      "now": 0.9995,
-      "delta": 0.5045,
-      "url": "https://polymarket.com/event/cs2-dripto-justpl-2026-08-25",
+      "market": "LoL: PCIFIC  vs SU Esports (BO5) - TCL Playoffs \u2014 Game Handicap: SU (-1.5) vs PCIFIC  (+1.5)",
+      "prev": 0.425,
+      "now": 0.9955,
+      "delta": 0.5705,
+      "url": "https://polymarket.com/event/lol-pcific-su-2026-08-25",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 28508.23,
-      "liquidity": 327132.11
-    },
-    {
-      "market": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy \u2014 Kouame vs. Basavareddy: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-basavar-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 199848.03,
-      "liquidity": 5533.8
-    },
-    {
-      "market": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy \u2014 Kouame vs. Basavareddy: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-basavar-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 199848.03,
-      "liquidity": 5571.69
-    },
-    {
-      "market": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy \u2014 Kouame vs. Basavareddy: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-kouame-basavar-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 199848.03,
-      "liquidity": 5583.72
-    },
-    {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Mikrut vs. Izquierdo: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 109572.94,
-      "liquidity": 976.4
-    },
-    {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Mikrut vs. Izquierdo: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 109572.94,
-      "liquidity": 1140.19
-    },
-    {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Mikrut vs. Izquierdo: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 109572.94,
-      "liquidity": 1085.79
+      "volume24hr": 2371.77,
+      "liquidity": 7763.61
     },
     {
       "market": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy \u2014 Set Handicap: Basavareddy (-1.5) vs Kouame (+1.5)",
-      "prev": 0.34,
-      "now": 0.745,
-      "delta": 0.405,
+      "prev": 0.745,
+      "now": 0.18,
+      "delta": -0.565,
       "url": "https://polymarket.com/event/atp-kouame-basavar-2026-08-25",
       "tags": [
         "Tennis",
@@ -112,44 +28,126 @@
         "Games"
       ],
       "volume24hr": 294.32,
-      "liquidity": 98.0
+      "liquidity": 1121.28
     },
     {
-      "market": "Counter-Strike: Drip Too Hard vs Just Players (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 1 Total Rounds: Over/Under 21.5",
-      "prev": 0.4995,
-      "now": 0.9,
-      "delta": 0.4005,
-      "url": "https://polymarket.com/event/cs2-dripto-justpl-2026-08-25",
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 Set 1 Winner: Onclin vs Sachko",
+      "prev": 0.55,
+      "now": 0.0005,
+      "delta": -0.5495,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 244.22
+      "volume24hr": 1631.94,
+      "liquidity": 10576.23
     },
     {
-      "market": "Counter-Strike: Drip Too Hard vs Just Players (BO3) - CCT Europe Series #7 Group Stage \u2014 Map 1 Total Rounds: Over/Under 24.5",
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 Onclin vs. Sachko: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/cs2-dripto-justpl-2026-08-25",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 103221.13,
-      "liquidity": 100.92
+      "volume24hr": 194333.91,
+      "liquidity": 5735.93
+    },
+    {
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 Onclin vs. Sachko: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 5764.24
+    },
+    {
+      "market": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko \u2014 Onclin vs. Sachko: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-onclin-sachko-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 194333.91,
+      "liquidity": 5742.93
+    },
+    {
+      "market": "Al Taawoun Saudi Club vs. Al Fayha Saudi Club - More Markets \u2014 Al Taawoun Saudi Club vs. Al Fayha Saudi Club: Both Teams to Score in Second Half",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/spl-taa-fay-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 125112.5,
+      "liquidity": 3112.69
+    },
+    {
+      "market": "Al Taawoun Saudi Club vs. Al Fayha Saudi Club - More Markets \u2014 Al Taawoun Saudi Club vs. Al Fayha Saudi Club: 2nd Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/spl-taa-fay-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 125112.5,
+      "liquidity": 3084.81
+    },
+    {
+      "market": "Al Taawoun Saudi Club vs. Al Fayha Saudi Club - More Markets \u2014 Al Taawoun Saudi Club vs. Al Fayha Saudi Club: 2nd Half O/U 1.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/spl-taa-fay-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 125112.5,
+      "liquidity": 3084.81
+    },
+    {
+      "market": "Al Taawoun Saudi Club vs. Al Fayha Saudi Club - More Markets \u2014 Al Taawoun Saudi Club vs. Al Fayha Saudi Club: 2nd Half O/U 2.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/spl-taa-fay-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 125112.5,
+      "liquidity": 3131.59
     }
   ],
   "log": [
-    {
-      "ts": "10:45:01",
-      "text": " poll complete \u2014 1820 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:00:01",
       "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
@@ -265,6 +263,10 @@
     {
       "ts": "18:00:02",
       "text": " poll complete \u2014 1933 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "18:15:01",
+      "text": " poll complete \u2014 1904 markets scanned, 10 flagged"
     }
   ]
 }
