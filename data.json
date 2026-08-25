@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-25 08:15:01 UTC",
+  "lastUpdate": "2026-08-25 08:30:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 1: Ends in Daytime?",
+      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 1: Both Teams Beat Roshan?",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "now": 0.005,
+      "delta": -0.495,
       "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
@@ -13,118 +13,79 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 7.84,
+      "volume24hr": 109350.34,
       "liquidity": 442.22
     },
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 1: Both Teams Destroy Barracks?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $80 on August 27?",
+      "prev": 0.554,
+      "now": 0.976,
+      "delta": 0.422,
+      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Solana",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
       ],
-      "volume24hr": 87643.3,
-      "liquidity": 442.22
+      "volume24hr": 36590.8,
+      "liquidity": 10571.11
     },
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 1: Any Player Ultra Kill?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $65,000 by December 31, 2026?",
+      "prev": 0.62,
+      "now": 0.385,
+      "delta": -0.235,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto"
       ],
-      "volume24hr": 87643.3,
-      "liquidity": 19.8
+      "volume24hr": 10.0,
+      "liquidity": 3397.82
     },
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 1: Any Player Rampage?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 87643.3,
-      "liquidity": 19.8
-    },
-    {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.08,
+      "market": "Counter-Strike: Color vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 3 Total Rounds: Over/Under 21.5",
+      "prev": 0.73,
       "now": 0.5,
-      "delta": 0.42,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/cs2-color-cyb-2026-08-25",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 237214.11,
-      "liquidity": 654928.21
+      "volume24hr": 45138.31,
+      "liquidity": 38.4
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.105,
-      "now": 0.5,
-      "delta": 0.395,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "market": "What price will Ethereum hit in 2026? \u2014 Will Ethereum dip to $2,250 by December 31, 2026?",
+      "prev": 0.55,
+      "now": 0.735,
+      "delta": 0.185,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Ethereum",
+        "Hit Price",
+        "Crypto Prices",
+        "Yearly",
+        "Crypto"
       ],
-      "volume24hr": 156.98,
-      "liquidity": 654928.21
-    },
-    {
-      "market": "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi \u2014 Set 2 Winner: Bu vs Noguchi",
-      "prev": 0.675,
-      "now": 0.43,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/atp-bu-noguchi-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 75480.9,
-      "liquidity": 60.91
-    },
-    {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.26,
-      "now": 0.5,
-      "delta": 0.24,
-      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 1.96,
-      "liquidity": 654928.21
+      "volume24hr": 86188.69,
+      "liquidity": 2824.62
     },
     {
       "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: FOX.Y (-2.5) vs Kiwoom DRX Challengers (+2.5)",
-      "prev": 0.235,
-      "now": 0.445,
-      "delta": 0.21,
+      "prev": 0.445,
+      "now": 0.285,
+      "delta": -0.16,
       "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
         "Esports",
@@ -132,30 +93,79 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 380.61,
-      "liquidity": 82.44
+      "volume24hr": 387.4,
+      "liquidity": 463.63
     },
     {
-      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Games Total: O/U 3.5",
-      "prev": 0.695,
-      "now": 0.53,
-      "delta": -0.165,
-      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $75,000 by December 31, 2026?",
+      "prev": 0.645,
+      "now": 0.77,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "tags": [
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto"
+      ],
+      "volume24hr": 33.17,
+      "liquidity": 3643.95
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 4 Winner",
+      "prev": 0.565,
+      "now": 0.46,
+      "delta": -0.105,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 61469.12,
-      "liquidity": 6564.62
+      "volume24hr": 880.06,
+      "liquidity": 2889.95
+    },
+    {
+      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $80,000 on August 25?",
+      "prev": 0.475,
+      "now": 0.555,
+      "delta": 0.08,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
+      "tags": [
+        "Bitcoin",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 27060.72,
+      "liquidity": 29946.25
+    },
+    {
+      "market": "What will Gold (XAUUSD) hit in August 2026? \u2014 Will Gold (XAUUSD) hit (HIGH) $4,700 in August?",
+      "prev": 0.617,
+      "now": 0.692,
+      "delta": 0.075,
+      "url": "https://polymarket.com/event/what-price-will-xauusd-hit-in-august-2026",
+      "tags": [
+        "Finance",
+        "Monthly",
+        "Hit Price",
+        "Hide From New",
+        "Finance Updown",
+        "Pyth Finance",
+        "Commodities",
+        "Gold"
+      ],
+      "volume24hr": 19936.79,
+      "liquidity": 15068.06
     }
   ],
   "log": [
-    {
-      "ts": "01:00:01",
-      "text": " poll complete \u2014 1860 markets scanned, 10 flagged"
-    },
     {
       "ts": "01:15:01",
       "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
@@ -271,6 +281,10 @@
     {
       "ts": "08:15:01",
       "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "08:30:01",
+      "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
     }
   ]
 }
