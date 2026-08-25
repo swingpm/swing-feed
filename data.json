@@ -1,11 +1,26 @@
 {
-  "lastUpdate": "2026-08-25 17:15:02 UTC",
+  "lastUpdate": "2026-08-25 17:30:02 UTC",
   "swings": [
     {
-      "market": "Sabah FK vs. MH Hapoel Be'er Sheva - More Markets \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: MH Hapoel Be'er Sheva 1st Half O/U 0.5",
-      "prev": 0.39,
-      "now": 0.9995,
-      "delta": 0.6095,
+      "market": "LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs \u2014 LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs - Game 3 Winner",
+      "prev": 0.755,
+      "now": 0.05,
+      "delta": -0.705,
+      "url": "https://polymarket.com/event/lol-use1-ross-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 53040.36,
+      "liquidity": 187789.63
+    },
+    {
+      "market": "Sabah FK vs. MH Hapoel Be'er Sheva - More Markets \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: Sabah FK 1st Half O/U 0.5",
+      "prev": 0.375,
+      "now": 0.995,
+      "delta": 0.62,
       "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -13,141 +28,129 @@
         "Soccer",
         "UCL"
       ],
-      "volume24hr": 25.9,
-      "liquidity": 3060.01
+      "volume24hr": 1399.73,
+      "liquidity": 17.4
     },
     {
-      "market": "US Open, Qualification WTA: Janae Preston vs Nao Hibino \u2014 Preston vs. Hibino: Match O/U 21.5",
-      "prev": 0.6,
-      "now": 0.005,
-      "delta": -0.595,
-      "url": "https://polymarket.com/event/wta-presto-hibino-2026-08-25",
+      "market": "LoL: PCIFIC  vs SU Esports (BO5) - TCL Playoffs \u2014 LoL: PCIFIC  vs SU Esports - Game 3 Winner",
+      "prev": 0.42,
+      "now": 0.9995,
+      "delta": 0.5795,
+      "url": "https://polymarket.com/event/lol-pcific-su-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 319.56,
-      "liquidity": 613.42
+      "volume24hr": 19840.39,
+      "liquidity": 606356.79
     },
     {
-      "market": "US Open, Qualification ATP: Shintaro Mochizuki vs Daniel Milavsky \u2014 Mochizuki vs. Milavsky: Match O/U 23.5",
-      "prev": 0.55,
+      "market": "LoL: PCIFIC  vs SU Esports (BO5) - TCL Playoffs \u2014 Game Handicap: SU (-2.5) vs PCIFIC  (+2.5)",
+      "prev": 0.58,
       "now": 0.0005,
-      "delta": -0.5495,
-      "url": "https://polymarket.com/event/atp-mochizu-milavsk-2026-08-25",
+      "delta": -0.5795,
+      "url": "https://polymarket.com/event/lol-pcific-su-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 2.04,
-      "liquidity": 6608.17
+      "volume24hr": 654.23,
+      "liquidity": 132717.9
     },
     {
-      "market": "US Open, Qualification ATP: Braden Shick vs Clement Tabur \u2014 Shick vs. Tabur: Match O/U 22.5",
-      "prev": 0.51,
-      "now": 0.0005,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/atp-shick-tabur-2026-08-25",
+      "market": "LoL: PCIFIC  vs SU Esports (BO5) - TCL Playoffs \u2014 Games Total: O/U 3.5",
+      "prev": 0.425,
+      "now": 0.9995,
+      "delta": 0.5745,
+      "url": "https://polymarket.com/event/lol-pcific-su-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 19.68,
-      "liquidity": 6021.29
+      "volume24hr": 2773.43,
+      "liquidity": 142462.26
     },
     {
-      "market": "US Open, Qualification ATP: Henri Squire vs David Jorda Sanchis",
-      "prev": 0.505,
-      "now": 0.005,
-      "delta": -0.5,
+      "market": "US Open, Qualification ATP: Henri Squire vs David Jorda Sanchis \u2014 US Open, Qualification ATP: Completed Match: Henri Squire vs David Jorda Sanchis",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/atp-squire-sanchis-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 172624.47,
-      "liquidity": 524233.7
+      "volume24hr": 314620.01,
+      "liquidity": 1086.64
     },
     {
-      "market": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic \u2014 US Open, Qualification ATP: Completed Match: Soon-Woo Kwon vs Dusan Lajovic",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-kwon-lajovic-2026-08-25",
+      "market": "LoL: PCIFIC  vs SU Esports (BO5) - TCL Playoffs \u2014 Game Handicap: SU (-1.5) vs PCIFIC  (+1.5)",
+      "prev": 0.91,
+      "now": 0.425,
+      "delta": -0.485,
+      "url": "https://polymarket.com/event/lol-pcific-su-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2364.27,
+      "liquidity": 2.83
+    },
+    {
+      "market": "Sabah FK vs. MH Hapoel Be'er Sheva - More Markets \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: Both Teams to Score in First Half",
+      "prev": 0.38,
+      "now": 0.825,
+      "delta": 0.445,
+      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 64.45,
+      "liquidity": 235.04
+    },
+    {
+      "market": "Sabah FK vs. MH Hapoel Be'er Sheva - More Markets \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: Sabah FK 1st Half O/U 1.5",
+      "prev": 0.075,
+      "now": 0.504,
+      "delta": 0.429,
+      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 105.26,
+      "liquidity": 3.01
+    },
+    {
+      "market": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy \u2014 Set Handicap: Basavareddy (-1.5) vs Kouame (+1.5)",
+      "prev": 0.165,
+      "now": 0.575,
+      "delta": 0.41,
+      "url": "https://polymarket.com/event/atp-kouame-basavar-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 614717.56,
-      "liquidity": 203.85
-    },
-    {
-      "market": "US Open, Qualification ATP: Shintaro Mochizuki vs Daniel Milavsky \u2014 US Open, Qualification ATP: Completed Match: Shintaro Mochizuki vs Daniel Milavsky",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mochizu-milavsk-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 330.0,
-      "liquidity": 1792.09
-    },
-    {
-      "market": "US Open, Qualification ATP: Shintaro Mochizuki vs Daniel Milavsky \u2014 Shintaro Mochizuki vs. Daniel Milavsky: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mochizu-milavsk-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 223.02,
-      "liquidity": 6105.84
-    },
-    {
-      "market": "US Open, Qualification ATP: Shintaro Mochizuki vs Daniel Milavsky \u2014 Mochizuki vs. Milavsky: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mochizu-milavsk-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 265964.81,
-      "liquidity": 2992.4
-    },
-    {
-      "market": "US Open, Qualification ATP: Shintaro Mochizuki vs Daniel Milavsky \u2014 Mochizuki vs. Milavsky: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mochizu-milavsk-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 6.12,
-      "liquidity": 6070.89
+      "volume24hr": 300.72,
+      "liquidity": 207.9
     }
   ],
   "log": [
-    {
-      "ts": "10:00:01",
-      "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
-    },
     {
       "ts": "10:15:01",
       "text": " poll complete \u2014 1808 markets scanned, 10 flagged"
@@ -263,6 +266,10 @@
     {
       "ts": "17:15:02",
       "text": " poll complete \u2014 1930 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "17:30:02",
+      "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
     }
   ]
 }
