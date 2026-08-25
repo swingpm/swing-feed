@@ -1,152 +1,149 @@
 {
-  "lastUpdate": "2026-08-25 15:45:02 UTC",
+  "lastUpdate": "2026-08-25 16:00:01 UTC",
   "swings": [
     {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Augsburg: Completed Match: Cezar Cretu vs Niels McDonald",
+      "market": "LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs \u2014 Game Handicap: USE (-2.5) vs ROSSMANN Centaurs (+2.5)",
+      "prev": 0.505,
+      "now": 0.005,
+      "delta": -0.5,
+      "url": "https://polymarket.com/event/lol-use1-ross-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 205.65,
+      "liquidity": 1428.22
+    },
+    {
+      "market": "Augsburg: Facundo Mena vs Max Hans Rehberg \u2014 Augsburg: Completed Match: Facundo Mena vs Max Hans Rehberg",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
+      "url": "https://polymarket.com/event/atp-mena-rehberg-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 199366.71,
+      "volume24hr": 223059.27,
       "liquidity": 1780.05
     },
     {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cezar Cretu vs. Niels McDonald: Total Sets O/U 2.5",
+      "market": "Augsburg: Facundo Mena vs Max Hans Rehberg \u2014 Mena vs. Rehberg: Match O/U 21.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
+      "url": "https://polymarket.com/event/atp-mena-rehberg-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 75.53,
-      "liquidity": 5570.3
+      "volume24hr": 223059.27,
+      "liquidity": 4973.79
     },
     {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Set 2 Games O/U 8.5",
+      "market": "Augsburg: Facundo Mena vs Max Hans Rehberg \u2014 Facundo Mena vs. Max Hans Rehberg: Total Sets O/U 2.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
+      "url": "https://polymarket.com/event/atp-mena-rehberg-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 199366.71,
-      "liquidity": 2997.37
+      "volume24hr": 223059.27,
+      "liquidity": 4562.17
     },
     {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Set 2 Winner: Cretu vs McDonald",
+      "market": "Augsburg: Facundo Mena vs Max Hans Rehberg \u2014 Set Handicap: Mena (-1.5) vs Rehberg (+1.5)",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
+      "url": "https://polymarket.com/event/atp-mena-rehberg-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 199366.71,
-      "liquidity": 3317.08
+      "volume24hr": 223059.27,
+      "liquidity": 3581.1
     },
     {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 199366.71,
-      "liquidity": 5599.69
-    },
-    {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Set Handicap: Cretu (-1.5) vs McDonald (+1.5)",
+      "market": "Augsburg: Facundo Mena vs Max Hans Rehberg \u2014 Set 2 Winner: Mena vs Rehberg",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
+      "url": "https://polymarket.com/event/atp-mena-rehberg-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 199366.71,
-      "liquidity": 4211.64
+      "volume24hr": 223059.27,
+      "liquidity": 2703.56
     },
     {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Match O/U 22.5",
+      "market": "Augsburg: Facundo Mena vs Max Hans Rehberg \u2014 Mena vs. Rehberg: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-mena-rehberg-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 223059.27,
+      "liquidity": 2406.97
+    },
+    {
+      "market": "Augsburg: Facundo Mena vs Max Hans Rehberg \u2014 Mena vs. Rehberg: Match O/U 22.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
+      "url": "https://polymarket.com/event/atp-mena-rehberg-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 199366.71,
-      "liquidity": 5599.69
+      "volume24hr": 223059.27,
+      "liquidity": 4986.3
     },
     {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Set 2 Games O/U 9.5",
+      "market": "Augsburg: Facundo Mena vs Max Hans Rehberg \u2014 Mena vs. Rehberg: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-mena-rehberg-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 223059.27,
+      "liquidity": 2419.35
+    },
+    {
+      "market": "Augsburg: Facundo Mena vs Max Hans Rehberg \u2014 Mena vs. Rehberg: Match O/U 23.5",
       "prev": 0.5,
       "now": 0.0005,
       "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
+      "url": "https://polymarket.com/event/atp-mena-rehberg-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 199366.71,
-      "liquidity": 3014.75
-    },
-    {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 199366.71,
-      "liquidity": 5996.09
-    },
-    {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 199366.71,
-      "liquidity": 3009.75
+      "volume24hr": 223059.27,
+      "liquidity": 5004.14
     }
   ],
   "log": [
-    {
-      "ts": "08:30:01",
-      "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:45:02",
       "text": " poll complete \u2014 1772 markets scanned, 10 flagged"
@@ -262,6 +259,10 @@
     {
       "ts": "15:45:02",
       "text": " poll complete \u2014 1824 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "16:00:01",
+      "text": " poll complete \u2014 1838 markets scanned, 10 flagged"
     }
   ]
 }
