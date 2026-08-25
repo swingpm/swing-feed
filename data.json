@@ -1,102 +1,41 @@
 {
-  "lastUpdate": "2026-08-25 02:30:02 UTC",
+  "lastUpdate": "2026-08-25 02:45:01 UTC",
   "swings": [
     {
-      "market": "What price will Bitcoin hit on August 24? \u2014 Will Bitcoin reach $81,000 on August 24?",
-      "prev": 0.0725,
-      "now": 0.9995,
-      "delta": 0.927,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-24-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
-      ],
-      "volume24hr": 54870.43,
-      "liquidity": 122057.59
-    },
-    {
-      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Games Total: O/U 4.5",
-      "prev": 0.33,
-      "now": 0.93,
-      "delta": 0.6,
-      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 325.28,
-      "liquidity": 501.5
-    },
-    {
-      "market": "Cincinnati Reds vs. San Francisco Giants: 1st 5 Innings O/U 4.5",
-      "prev": 0.45,
-      "now": 0.9955,
-      "delta": 0.5455,
-      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
+      "market": "Texas Rangers vs. Chicago White Sox: O/U 12.5",
+      "prev": 0.385,
+      "now": 0.9975,
+      "delta": 0.6125,
+      "url": "https://polymarket.com/event/mlb-tex-cws-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 96.0,
-      "liquidity": 1331.44
+      "volume24hr": 91.5,
+      "liquidity": 33201.95
     },
     {
-      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Tauson vs. Zarazua: Set 1 Games O/U 8.5",
-      "prev": 0.5,
+      "market": "Texas Rangers vs. Chicago White Sox: O/U 11.5",
+      "prev": 0.61,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
+      "delta": 0.3895,
+      "url": "https://polymarket.com/event/mlb-tex-cws-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 25.0,
-      "liquidity": 5795.71
+      "volume24hr": 451.71,
+      "liquidity": 33577.81
     },
     {
-      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Tauson vs. Zarazua: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 163487.61,
-      "liquidity": 5792.75
-    },
-    {
-      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Tauson vs. Zarazua: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 163487.61,
-      "liquidity": 5797.11
-    },
-    {
-      "market": "Philadelphia Phillies vs. Seattle Mariners: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
+      "market": "Philadelphia Phillies vs. Seattle Mariners \u2014 Spread: Seattle Mariners (-4.5)",
+      "prev": 0.25,
+      "now": 0.605,
+      "delta": 0.355,
       "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-24",
       "tags": [
         "Sports",
@@ -104,14 +43,73 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 652066.0,
-      "liquidity": 1620.59
+      "volume24hr": 674393.71,
+      "liquidity": 63.22
     },
     {
-      "market": "Cincinnati Reds vs. San Francisco Giants: 1st 5 Innings O/U 6.5",
-      "prev": 0.2,
-      "now": 0.695,
-      "delta": 0.495,
+      "market": "Chicago Cubs vs. Arizona Diamondbacks: 1st 5 Innings O/U 6.5",
+      "prev": 0.145,
+      "now": 0.5,
+      "delta": 0.355,
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 476195.12
+    },
+    {
+      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Clara Tauson vs. Renata Zarazua: Total Sets O/U 2.5",
+      "prev": 0.445,
+      "now": 0.79,
+      "delta": 0.345,
+      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 323.06,
+      "liquidity": 215.0
+    },
+    {
+      "market": "Chicago Cubs vs. Arizona Diamondbacks \u2014 1st 5 Innings Spread: Arizona Diamondbacks (-1.5)",
+      "prev": 0.165,
+      "now": 0.5,
+      "delta": 0.335,
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 249012.72,
+      "liquidity": 476195.12
+    },
+    {
+      "market": "Texas Rangers vs. Chicago White Sox \u2014 Spread: Texas Rangers (-5.5)",
+      "prev": 0.805,
+      "now": 0.5,
+      "delta": -0.305,
+      "url": "https://polymarket.com/event/mlb-tex-cws-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 9.0,
+      "liquidity": 0.1
+    },
+    {
+      "market": "Cincinnati Reds vs. San Francisco Giants \u2014 Spread: San Francisco Giants (-2.5)",
+      "prev": 0.455,
+      "now": 0.755,
+      "delta": 0.3,
       "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
       "tags": [
         "Sports",
@@ -119,43 +117,41 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 119.17,
-      "liquidity": 195.0
+      "volume24hr": 1125.85,
+      "liquidity": 5113.39
     },
     {
-      "market": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana \u2014 Winston-Salem Open: Completed Match: Daniel Altmaier vs Francisco Comesana",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-altmaie-comesan-2026-08-24",
+      "market": "Minnesota Twins vs. Athletics: O/U 13.5",
+      "prev": 0.265,
+      "now": 0.56,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 358.0,
-      "liquidity": 1089.12
+      "volume24hr": 13.26,
+      "liquidity": 260.76
     },
     {
-      "market": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana \u2014 Altmaier vs. Comesana: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-altmaie-comesan-2026-08-24",
+      "market": "Chicago Cubs vs. Arizona Diamondbacks: 1st 5 Innings O/U 2.5",
+      "prev": 0.645,
+      "now": 0.355,
+      "delta": -0.29,
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 287771.81,
-      "liquidity": 2815.39
+      "volume24hr": 14.99,
+      "liquidity": 17.45
     }
   ],
   "log": [
-    {
-      "ts": "19:15:01",
-      "text": " poll complete \u2014 1863 markets scanned, 10 flagged"
-    },
     {
       "ts": "19:30:01",
       "text": " poll complete \u2014 1892 markets scanned, 10 flagged"
@@ -271,6 +267,10 @@
     {
       "ts": "02:30:02",
       "text": " poll complete \u2014 1826 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "02:45:01",
+      "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
     }
   ]
 }
