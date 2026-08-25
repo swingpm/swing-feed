@@ -1,162 +1,155 @@
 {
-  "lastUpdate": "2026-08-25 00:15:01 UTC",
+  "lastUpdate": "2026-08-25 00:30:01 UTC",
   "swings": [
     {
-      "market": "Boston Red Sox vs. Miami Marlins \u2014 1st 5 Innings Spread: Miami Marlins (-1.5)",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "market": "Monterrey Open: Janice Tjen vs Dayana Yastremska",
+      "prev": 0.205,
+      "now": 0.895,
+      "delta": 0.69,
+      "url": "https://polymarket.com/event/wta-tjen-yastrem-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 336.89,
-      "liquidity": 2032.16
+      "volume24hr": 98022.6,
+      "liquidity": 385674.52
     },
     {
-      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 3.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "market": "US Open, Qualification WTA: Dominika Salkova vs Akasha Urhobo",
+      "prev": 0.34,
+      "now": 0.995,
+      "delta": 0.655,
+      "url": "https://polymarket.com/event/wta-salkova-urhobo-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 287.0,
-      "liquidity": 2216.3
+      "volume24hr": 81312.84,
+      "liquidity": 285853.9
     },
     {
-      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "market": "Colorado Rockies vs. Washington Nationals \u2014 Spread: Washington Nationals (-1.5)",
+      "prev": 0.155,
+      "now": 0.805,
+      "delta": 0.65,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1349.85,
-      "liquidity": 2308.46
+      "volume24hr": 30797.0,
+      "liquidity": 5369.48
     },
     {
-      "market": "Tampa Bay Rays vs. Detroit Tigers: 1st 5 Innings O/U 4.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
+      "market": "Colorado Rockies vs. Washington Nationals",
+      "prev": 0.655,
+      "now": 0.08,
+      "delta": -0.575,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 1129.65,
-      "liquidity": 2079.69
+      "volume24hr": 338325.99,
+      "liquidity": 235642.05
     },
     {
-      "market": "Tampa Bay Rays vs. Detroit Tigers \u2014 1st 5 Innings Spread: Detroit Tigers (-1.5)",
-      "prev": 0.5,
-      "now": 0.0035,
-      "delta": -0.4965,
-      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
+      "market": "Colorado Rockies vs. Washington Nationals \u2014 Spread: Washington Nationals (-2.5)",
+      "prev": 0.085,
+      "now": 0.635,
+      "delta": 0.55,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 13.6,
-      "liquidity": 2069.12
+      "volume24hr": 2829.39,
+      "liquidity": 6134.89
     },
     {
-      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 2.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "market": "Colorado Rockies vs. Washington Nationals: O/U 6.5",
+      "prev": 0.45,
+      "now": 0.995,
+      "delta": 0.545,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 9.0,
-      "liquidity": 1727.14
+      "volume24hr": 157.9,
+      "liquidity": 2244.16
     },
     {
-      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "market": "Colorado Rockies vs. Washington Nationals: O/U 8.5",
+      "prev": 0.225,
+      "now": 0.765,
+      "delta": 0.54,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 62.0,
-      "liquidity": 2040.69
+      "volume24hr": 212737.64,
+      "liquidity": 41931.0
     },
     {
-      "market": "Boston Red Sox vs. Miami Marlins: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "market": "Winston-Salem Open: Roman Safiullin vs Hugo Grenier",
+      "prev": 0.705,
+      "now": 0.175,
+      "delta": -0.53,
+      "url": "https://polymarket.com/event/atp-safiull-grenier-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 20.0,
-      "liquidity": 2123.11
+      "volume24hr": 193947.94,
+      "liquidity": 248077.19
     },
     {
-      "market": "Tampa Bay Rays vs. Detroit Tigers: 1st 5 Innings O/U 5.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
+      "market": "Colorado Rockies vs. Washington Nationals: O/U 7.5",
+      "prev": 0.3,
+      "now": 0.81,
+      "delta": 0.51,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 2162.46
+      "volume24hr": 1709.86,
+      "liquidity": 1007.81
     },
     {
-      "market": "Tampa Bay Rays vs. Detroit Tigers: 1st 5 Innings O/U 6.5",
+      "market": "Colorado Rockies vs. Washington Nationals: 1st 5 Innings O/U 3.5",
       "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 11.0,
-      "liquidity": 1863.58
+      "volume24hr": 19.99,
+      "liquidity": 2397.22
     }
   ],
   "log": [
-    {
-      "ts": "17:00:01",
-      "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
-    },
     {
       "ts": "17:15:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
@@ -272,6 +265,10 @@
     {
       "ts": "00:15:01",
       "text": " poll complete \u2014 1831 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "00:30:01",
+      "text": " poll complete \u2014 1844 markets scanned, 10 flagged"
     }
   ]
 }
