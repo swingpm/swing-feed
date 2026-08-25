@@ -1,163 +1,159 @@
 {
-  "lastUpdate": "2026-08-25 09:30:01 UTC",
+  "lastUpdate": "2026-08-25 09:45:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Games Total: O/U 2.5",
-      "prev": 0.73,
-      "now": 0.9995,
-      "delta": 0.2695,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 598.13,
-      "liquidity": 8205.19
-    },
-    {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game Handicap: PckCp (-1.5) vs Nemiga Gaming (+1.5)",
-      "prev": 0.27,
+      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 2: Ends in Daytime?",
+      "prev": 0.5,
       "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263602.19,
+      "liquidity": 245.32
+    },
+    {
+      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 2: Both Teams Beat Roshan?",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263602.19,
+      "liquidity": 227.42
+    },
+    {
+      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 2: Both Teams Destroy Barracks?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263602.19,
+      "liquidity": 245.32
+    },
+    {
+      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263602.19,
+      "liquidity": 23.81
+    },
+    {
+      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.5,
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 263602.19,
+      "liquidity": 23.81
+    },
+    {
+      "market": "Counter-Strike: Color vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Counter-Strike: Color vs CYBERSHOKE Prospects - Map 1 Winner",
+      "prev": 0.62,
+      "now": 0.925,
+      "delta": 0.305,
+      "url": "https://polymarket.com/event/cs2-color-cyb-2026-08-25",
+      "tags": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 802.97,
+      "liquidity": 3735.82
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner",
+      "prev": 0.32,
+      "now": 0.055,
       "delta": -0.265,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
         "Esports",
-        "Dota 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 15.0,
-      "liquidity": 2262.84
+      "volume24hr": 203534.88,
+      "liquidity": 165420.27
     },
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Dota 2: PuckChamp vs Nemiga Gaming - Game 2 Winner",
-      "prev": 0.265,
-      "now": 0.0005,
-      "delta": -0.2645,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "market": "What price will Ethereum hit in 2026? \u2014 Will Ethereum dip to $2,000 by December 31, 2026?",
+      "prev": 0.49,
+      "now": 0.715,
+      "delta": 0.225,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
       "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 97532.57,
-      "liquidity": 518691.45
-    },
-    {
-      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $65,000 by December 31, 2026?",
-      "prev": 0.635,
-      "now": 0.39,
-      "delta": -0.245,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
-      "tags": [
-        "Bitcoin",
-        "Yearly",
+        "Ethereum",
         "Hit Price",
         "Crypto Prices",
+        "Yearly",
         "Crypto"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 3447.72
+      "volume24hr": 86082.67,
+      "liquidity": 1373.96
     },
     {
-      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 1: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.26,
-      "delta": -0.24,
-      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
+      "market": "Counter-Strike: Color vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage",
+      "prev": 0.635,
+      "now": 0.845,
+      "delta": 0.21,
+      "url": "https://polymarket.com/event/cs2-color-cyb-2026-08-25",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 59998.85,
-      "liquidity": 619.21
+      "volume24hr": 49331.97,
+      "liquidity": 95204.3
     },
     {
-      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.26,
-      "delta": -0.24,
-      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
+      "market": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: UNiTY (-1.5) vs Leo Team (+1.5)",
+      "prev": 0.51,
+      "now": 0.33,
+      "delta": -0.18,
+      "url": "https://polymarket.com/event/cs2-leo2-unity-2026-08-25",
       "tags": [
         "Esports",
-        "league of legends",
+        "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 59998.85,
-      "liquidity": 619.21
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 3: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.26,
-      "delta": -0.24,
-      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 59998.85,
-      "liquidity": 619.21
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 1: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.265,
-      "delta": -0.235,
-      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 59998.85,
-      "liquidity": 353.99
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 1: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.27,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 59998.85,
-      "liquidity": 357.29
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.27,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 59998.85,
-      "liquidity": 363.16
+      "volume24hr": 42909.1,
+      "liquidity": 356.17
     }
   ],
   "log": [
-    {
-      "ts": "02:15:02",
-      "text": " poll complete \u2014 1824 markets scanned, 10 flagged"
-    },
     {
       "ts": "02:30:02",
       "text": " poll complete \u2014 1826 markets scanned, 10 flagged"
@@ -273,6 +269,10 @@
     {
       "ts": "09:30:01",
       "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "09:45:01",
+      "text": " poll complete \u2014 1805 markets scanned, 10 flagged"
     }
   ]
 }
