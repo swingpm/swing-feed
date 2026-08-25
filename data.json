@@ -1,153 +1,157 @@
 {
-  "lastUpdate": "2026-08-25 18:45:01 UTC",
+  "lastUpdate": "2026-08-25 19:00:01 UTC",
   "swings": [
     {
-      "market": "Winston-Salem Open: Benjamin Bonzi vs Quentin Halys \u2014 Set 1 Winner: Bonzi vs Halys",
-      "prev": 0.78,
-      "now": 0.055,
-      "delta": -0.725,
-      "url": "https://polymarket.com/event/atp-bonzi-halys-2026-08-25",
+      "market": "Sabah FK vs. MH Hapoel Be'er Sheva \u2014 Will Sabah FK win on 2026-08-25?",
+      "prev": 0.065,
+      "now": 0.9995,
+      "delta": 0.9345,
+      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 143726.53,
-      "liquidity": 1357.39
+      "volume24hr": 269558.84,
+      "liquidity": 974761.15
     },
     {
-      "market": "Counter-Strike: Drip Too Hard vs Just Players (BO3) - CCT Europe Series #7 Group Stage \u2014 Map Handicap: Drip Too Hard (-1.5) vs Just Players (+1.5)",
-      "prev": 0.545,
-      "now": 0.005,
-      "delta": -0.54,
-      "url": "https://polymarket.com/event/cs2-dripto-justpl-2026-08-25",
+      "market": "Will Sabah FK vs. MH Hapoel Be'er Sheva end in a draw?",
+      "prev": 0.89,
+      "now": 0.0005,
+      "delta": -0.8895,
+      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 69306.71,
+      "liquidity": 401714.33
+    },
+    {
+      "market": "Sabah FK vs. MH Hapoel Be'er Sheva - More Markets \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: O/U 4.5",
+      "prev": 0.115,
+      "now": 0.9995,
+      "delta": 0.8845,
+      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 173056.61,
+      "liquidity": 267909.53
+    },
+    {
+      "market": "LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs \u2014 Game Handicap: USE (-1.5) vs ROSSMANN Centaurs (+1.5)",
+      "prev": 0.17,
+      "now": 0.9995,
+      "delta": 0.8295,
+      "url": "https://polymarket.com/event/lol-use1-ross-2026-08-25",
       "tags": [
         "Esports",
-        "counter strike 2",
+        "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 5.0,
-      "liquidity": 1818.73
+      "volume24hr": 1392.73,
+      "liquidity": 10482.64
     },
     {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Set Handicap: Mikrut (-1.5) vs Izquierdo (+1.5)",
-      "prev": 0.49,
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: Al Ettifaq Saudi Club 1st Half O/U 1.5",
+      "prev": 0.165,
+      "now": 0.9945,
+      "delta": 0.8295,
+      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
+      ],
+      "volume24hr": 28.63,
+      "liquidity": 8386.65
+    },
+    {
+      "market": "LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs \u2014 LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs - Game 4 Winner",
+      "prev": 0.32,
       "now": 0.9995,
-      "delta": 0.5095,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
+      "delta": 0.6795,
+      "url": "https://polymarket.com/event/lol-use1-ross-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 118361.84,
-      "liquidity": 4041.79
+      "volume24hr": 112858.74,
+      "liquidity": 577344.35
     },
     {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 US Open, Qualification ATP: Completed Match: Luka Mikrut vs Nikolas Sanchez Izquierdo",
-      "prev": 0.5,
+      "market": "Al Ettifaq Saudi Club vs. Al Nassr Saudi Club - More Markets \u2014 Al Ettifaq Saudi Club vs. Al Nassr Saudi Club: 1st Half O/U 1.5",
+      "prev": 0.35,
       "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
+      "delta": 0.6495,
+      "url": "https://polymarket.com/event/spl-ett-nsr-2026-08-25-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "Saudi Professional League"
       ],
-      "volume24hr": 118361.84,
-      "liquidity": 1081.22
+      "volume24hr": 25064.33,
+      "liquidity": 167356.15
     },
     {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Luka Mikrut vs. Nikolas Sanchez Izquierdo: Total Sets O/U 2.5",
-      "prev": 0.5,
+      "market": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi \u2014 Bellucci vs. Darderi: Set 1 Games O/U 8.5",
+      "prev": 0.63,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
+      "delta": -0.6295,
+      "url": "https://polymarket.com/event/atp-bellucc-darderi-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 118361.84,
-      "liquidity": 3099.54
+      "volume24hr": 26.0,
+      "liquidity": 5591.27
     },
     {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Mikrut vs. Izquierdo: Match O/U 21.5",
-      "prev": 0.5,
+      "market": "LoL: Unicorns Of Love Sexy Edition vs ROSSMANN Centaurs (BO5) - Prime League 1st Division Playoffs \u2014 Games Total: O/U 4.5",
+      "prev": 0.61,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
+      "delta": -0.6095,
+      "url": "https://polymarket.com/event/lol-use1-ross-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 118361.84,
-      "liquidity": 2989.76
+      "volume24hr": 1132.08,
+      "liquidity": 16352.63
     },
     {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Mikrut vs. Izquierdo: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
+      "market": "Sabah FK vs. MH Hapoel Be'er Sheva - More Markets \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: Team to Advance",
+      "prev": 0.055,
+      "now": 0.6,
+      "delta": 0.545,
+      "url": "https://polymarket.com/event/ucl-sf-hbs-2026-08-25-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 118361.84,
-      "liquidity": 2402.95
-    },
-    {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Mikrut vs. Izquierdo: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 118361.84,
-      "liquidity": 2897.5
-    },
-    {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Mikrut vs. Izquierdo: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 118361.84,
-      "liquidity": 2244.22
-    },
-    {
-      "market": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo \u2014 Mikrut vs. Izquierdo: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-mikrut-izquier-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 118361.84,
-      "liquidity": 3298.9
+      "volume24hr": 181346.08,
+      "liquidity": 7793.13
     }
   ],
   "log": [
-    {
-      "ts": "11:30:01",
-      "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
-    },
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
@@ -263,6 +267,10 @@
     {
       "ts": "18:45:01",
       "text": " poll complete \u2014 1873 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "19:00:01",
+      "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
     }
   ]
 }
