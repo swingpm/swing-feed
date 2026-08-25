@@ -1,127 +1,60 @@
 {
-  "lastUpdate": "2026-08-25 06:00:02 UTC",
+  "lastUpdate": "2026-08-25 06:15:02 UTC",
   "swings": [
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 5.5",
-      "prev": 0.62,
-      "now": 0.0005,
-      "delta": -0.6195,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "market": "Highest temperature in Hong Kong on August 25? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 25?",
+      "prev": 0.21,
+      "now": 0.08,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 14141.86,
+      "liquidity": 869.67
+    },
+    {
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: 2nd Half O/U 0.5",
+      "prev": 0.75,
+      "now": 0.62,
+      "delta": -0.13,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
       "tags": [
         "Sports",
         "Games",
-        "MLB",
-        "baseball"
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 7905.1,
-      "liquidity": 107031.43
+      "volume24hr": 44887.43,
+      "liquidity": 2076.98
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 6.5",
-      "prev": 0.575,
-      "now": 0.0005,
-      "delta": -0.5745,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "market": "Highest temperature in Hong Kong on August 25? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 25?",
+      "prev": 0.785,
+      "now": 0.91,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-25-2026",
       "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
       ],
-      "volume24hr": 39008.34,
-      "liquidity": 192021.19
+      "volume24hr": 17298.68,
+      "liquidity": 1167.46
     },
     {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Game Spread: Vekic (-1.5) vs Parry (+1.5)",
-      "prev": 0.51,
-      "now": 0.0005,
-      "delta": -0.5095,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 7874.79,
-      "liquidity": 18848.09
-    },
-    {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Monterrey Open: Completed Match: Diane Parry vs Donna Vekic",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 2240.0,
-      "liquidity": 8534.17
-    },
-    {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Diane Parry vs. Donna Vekic: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 7.63,
-      "liquidity": 10251.29
-    },
-    {
-      "market": "Pittsburgh Pirates vs. San Diego Padres",
-      "prev": 0.555,
-      "now": 0.9995,
-      "delta": 0.4445,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 1004051.84,
-      "liquidity": 859278.84
-    },
-    {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic",
-      "prev": 0.775,
-      "now": 0.9995,
-      "delta": 0.2245,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 490231.57,
-      "liquidity": 530199.61
-    },
-    {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 8.5",
-      "prev": 0.22,
-      "now": 0.0005,
-      "delta": -0.2195,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 8437.71,
-      "liquidity": 144907.97
-    },
-    {
-      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $65,000 by December 31, 2026?",
-      "prev": 0.485,
-      "now": 0.695,
-      "delta": 0.21,
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "prev": 0.405,
+      "now": 0.51,
+      "delta": 0.105,
       "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
       "tags": [
         "Bitcoin",
@@ -130,30 +63,104 @@
         "Crypto Prices",
         "Crypto"
       ],
-      "volume24hr": 907550.42,
-      "liquidity": 134.56
+      "volume24hr": 5.0,
+      "liquidity": 1.98
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 7.5",
-      "prev": 0.155,
-      "now": 0.0005,
-      "delta": -0.1545,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 4: Any Player Quadra Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "MLB",
-        "baseball"
+        "Sports"
       ],
-      "volume24hr": 80876.74,
-      "liquidity": 251314.57
+      "volume24hr": 318036.53,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 4: Any Player Penta Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 318036.53,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 5: Any Player Quadra Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 318036.53,
+      "liquidity": 0.0
+    },
+    {
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 5: Any Player Penta Kill?",
+      "prev": 0.1,
+      "now": 0.0,
+      "delta": -0.1,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 318036.53,
+      "liquidity": 0.0
+    },
+    {
+      "market": "What price will Solana hit in August? \u2014 Will Solana reach $110 in August?",
+      "prev": 0.521,
+      "now": 0.439,
+      "delta": -0.082,
+      "url": "https://polymarket.com/event/what-price-will-solana-hit-in-august-2026",
+      "tags": [
+        "Solana",
+        "Monthly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring"
+      ],
+      "volume24hr": 5073.27,
+      "liquidity": 27011.41
+    },
+    {
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $75,000 by December 31, 2026?",
+      "prev": 0.69,
+      "now": 0.61,
+      "delta": -0.08,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "tags": [
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto"
+      ],
+      "volume24hr": 28.17,
+      "liquidity": 49.13
     }
   ],
   "log": [
-    {
-      "ts": "22:45:01",
-      "text": " poll complete \u2014 1842 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:00:01",
       "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
@@ -269,6 +276,10 @@
     {
       "ts": "06:00:02",
       "text": " poll complete \u2014 1833 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:15:02",
+      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
     }
   ]
 }
