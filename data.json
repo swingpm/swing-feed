@@ -1,161 +1,154 @@
 {
-  "lastUpdate": "2026-08-25 04:45:01 UTC",
+  "lastUpdate": "2026-08-25 05:00:01 UTC",
   "swings": [
     {
-      "market": "Minnesota Twins vs. Athletics \u2014 Spread: Minnesota Twins (-3.5)",
-      "prev": 0.995,
-      "now": 0.0005,
-      "delta": -0.9945,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 105.0,
-      "liquidity": 3136.64
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics: O/U 11.5",
-      "prev": 0.235,
-      "now": 0.9995,
-      "delta": 0.7645,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 97070.75,
-      "liquidity": 129977.27
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics: O/U 13.5",
-      "prev": 0.245,
-      "now": 0.9995,
-      "delta": 0.7545,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 260.37,
-      "liquidity": 26086.27
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics: O/U 12.5",
-      "prev": 0.245,
-      "now": 0.9995,
-      "delta": 0.7545,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 835.2,
-      "liquidity": 41445.47
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics \u2014 Spread: Minnesota Twins (-4.5)",
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 360.0,
-      "liquidity": 3332.98
-    },
-    {
-      "market": "Will the game go to extra innings?: Minnesota Twins vs. Athletics",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 482823.44,
-      "liquidity": 1407.24
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics \u2014 Spread: Minnesota Twins (-5.5)",
-      "prev": 0.495,
-      "now": 0.0005,
-      "delta": -0.4945,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 4544.34,
-      "liquidity": 25716.63
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics \u2014 Spread: Minnesota Twins (-6.5)",
-      "prev": 0.42,
-      "now": 0.0035,
-      "delta": -0.4165,
-      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 3591.43
-    },
-    {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Set 1 Winner: Parry vs Vekic",
-      "prev": 0.625,
-      "now": 0.275,
-      "delta": -0.35,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 712.12,
-      "liquidity": 593.1
+      "volume24hr": 168.54,
+      "liquidity": 5574.9
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 4.5",
-      "prev": 0.74,
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Set 1 Games O/U 9.5",
+      "prev": 0.5,
       "now": 0.9995,
-      "delta": 0.2595,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 4676.95,
-      "liquidity": 9387.71
+      "volume24hr": 260914.92,
+      "liquidity": 5571.94
+    },
+    {
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 260914.92,
+      "liquidity": 5515.22
+    },
+    {
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Set 2 Winner: Parry vs Vekic",
+      "prev": 0.47,
+      "now": 0.785,
+      "delta": 0.315,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 260914.92,
+      "liquidity": 2112.63
+    },
+    {
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Diane Parry vs. Donna Vekic: Total Sets O/U 2.5",
+      "prev": 0.46,
+      "now": 0.77,
+      "delta": 0.31,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 7.63,
+      "liquidity": 402.56
+    },
+    {
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Set 1 Winner: Parry vs Vekic",
+      "prev": 0.275,
+      "now": 0.0005,
+      "delta": -0.2745,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 5416.66,
+      "liquidity": 17818.14
+    },
+    {
+      "market": "Highest temperature in Taipei on August 25? \u2014 Will the highest temperature in Taipei be 30\u00b0C on August 25?",
+      "prev": 0.85,
+      "now": 0.655,
+      "delta": -0.195,
+      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Taipei",
+        "Highest temperature"
+      ],
+      "volume24hr": 4377.2,
+      "liquidity": 89.88
+    },
+    {
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Match O/U 22.5",
+      "prev": 0.755,
+      "now": 0.9495,
+      "delta": 0.1945,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 844.22,
+      "liquidity": 63.0
+    },
+    {
+      "market": "Highest temperature in Taipei on August 25? \u2014 Will the highest temperature in Taipei be 31\u00b0C on August 25?",
+      "prev": 0.06,
+      "now": 0.245,
+      "delta": 0.185,
+      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Taipei",
+        "Highest temperature"
+      ],
+      "volume24hr": 3037.12,
+      "liquidity": 167.24
+    },
+    {
+      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Set Handicap: Vekic (-1.5) vs Parry (+1.5)",
+      "prev": 0.38,
+      "now": 0.22,
+      "delta": -0.16,
+      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 87.92,
+      "liquidity": 400.0
     }
   ],
   "log": [
-    {
-      "ts": "21:30:01",
-      "text": " poll complete \u2014 1869 markets scanned, 10 flagged"
-    },
     {
       "ts": "21:45:01",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
@@ -271,6 +264,10 @@
     {
       "ts": "04:45:01",
       "text": " poll complete \u2014 1826 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:00:01",
+      "text": " poll complete \u2014 1795 markets scanned, 10 flagged"
     }
   ]
 }
