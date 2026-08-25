@@ -1,157 +1,148 @@
 {
-  "lastUpdate": "2026-08-25 22:45:01 UTC",
+  "lastUpdate": "2026-08-25 23:00:02 UTC",
   "swings": [
     {
-      "market": "LoL: RMD Gaming vs paiN Gaming Academy (BO5) - Circuito Desafiante Playoffs \u2014 LoL: RMD Gaming vs paiN Gaming Academy - Game 3 Winner",
-      "prev": 0.165,
-      "now": 0.9995,
-      "delta": 0.8345,
-      "url": "https://polymarket.com/event/lol-rmd-pnga-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 50870.33,
-      "liquidity": 465730.61
-    },
-    {
-      "market": "Winston-Salem Open: Mees Rottgering vs Tomas Machac \u2014 Set 1 Winner: Rottgering vs Machac",
-      "prev": 0.42,
-      "now": 0.9695,
-      "delta": 0.5495,
-      "url": "https://polymarket.com/event/atp-rottger-machac-2026-08-25",
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Bucsa vs. Bondar: Match O/U 23.5",
+      "prev": 0.51,
+      "now": 0.0005,
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 39.0,
-      "liquidity": 2800.11
+      "volume24hr": 250.0,
+      "liquidity": 5576.18
     },
     {
-      "market": "Dota 2: summer bear vs Spirit Academy (BO3) - EPL Masters Play-In Group B \u2014 Game Handicap: TS.A (-1.5) vs summer bear (+1.5)",
+      "market": "Monterrey Open: Shuai Zhang vs Maria Timofeeva \u2014 Zhang vs. Timofeeva: Match O/U 22.5",
+      "prev": 0.51,
+      "now": 0.0005,
+      "delta": -0.5095,
+      "url": "https://polymarket.com/event/wta-zhang-timofee-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 207770.38,
+      "liquidity": 5477.6
+    },
+    {
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Set Handicap: Bucsa (-1.5) vs Bondar (+1.5)",
+      "prev": 0.495,
+      "now": 0.9995,
+      "delta": 0.5045,
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 2.6,
+      "liquidity": 4606.11
+    },
+    {
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Bucsa vs. Bondar: Match O/U 21.5",
+      "prev": 0.505,
+      "now": 0.0005,
+      "delta": -0.5045,
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 411.77,
+      "liquidity": 6125.14
+    },
+    {
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Monterrey Open: Completed Match: Cristina Bucsa vs Anna Bondar",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/dota2-sb5-spirit1-2026-08-25",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 192976.55,
-      "liquidity": 10035.29
-    },
-    {
-      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Collignon vs. Hijikata: Set 2 Games O/U 8.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 284779.25,
-      "liquidity": 2796.42
+      "volume24hr": 343445.37,
+      "liquidity": 1982.67
     },
     {
-      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Collignon vs. Hijikata: Set 2 Games O/U 9.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 284779.25,
-      "liquidity": 2843.77
-    },
-    {
-      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Collignon vs. Hijikata: Set 2 Games O/U 10.5",
-      "prev": 0.505,
-      "now": 0.9995,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 284779.25,
-      "liquidity": 2783.5
-    },
-    {
-      "market": "Counter-Strike: K27 vs SPARTA (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Total Rounds: Over/Under 27.5",
-      "prev": 0.445,
-      "now": 0.0,
-      "delta": -0.445,
-      "url": "https://polymarket.com/event/cs2-k271-sparta-2026-08-25",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 782123.73
-    },
-    {
-      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Set 2 Winner: Collignon vs Hijikata",
-      "prev": 0.43,
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Cristina Bucsa vs. Anna Bondar: Total Sets O/U 2.5",
+      "prev": 0.5,
       "now": 0.0005,
-      "delta": -0.4295,
-      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 1469.07,
-      "liquidity": 6144.7
+      "volume24hr": 343445.37,
+      "liquidity": 6522.82
     },
     {
-      "market": "LoL: RMD Gaming vs paiN Gaming Academy (BO5) - Circuito Desafiante Playoffs",
-      "prev": 0.18,
-      "now": 0.605,
-      "delta": 0.425,
-      "url": "https://polymarket.com/event/lol-rmd-pnga-2026-08-25",
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Bucsa vs. Bondar: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 52819.89,
-      "liquidity": 221022.22
+      "volume24hr": 343445.37,
+      "liquidity": 2989.56
     },
     {
-      "market": "LoL: RMD Gaming vs paiN Gaming Academy (BO5) - Circuito Desafiante Playoffs \u2014 Game Handicap: PNG.A (-1.5) vs RMD Gaming (+1.5)",
-      "prev": 0.535,
-      "now": 0.11,
-      "delta": -0.425,
-      "url": "https://polymarket.com/event/lol-rmd-pnga-2026-08-25",
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Bucsa vs. Bondar: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
       "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 1973.89,
-      "liquidity": 13.44
+      "volume24hr": 343445.37,
+      "liquidity": 2978.62
+    },
+    {
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Bucsa vs. Bondar: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 343445.37,
+      "liquidity": 2996.6
+    },
+    {
+      "market": "Monterrey Open: Shuai Zhang vs Maria Timofeeva \u2014 Monterrey Open: Completed Match: Shuai Zhang vs Maria Timofeeva",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-zhang-timofee-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 207770.38,
+      "liquidity": 1982.47
     }
   ],
   "log": [
-    {
-      "ts": "15:30:01",
-      "text": " poll complete \u2014 1815 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:45:02",
       "text": " poll complete \u2014 1824 markets scanned, 10 flagged"
@@ -267,6 +258,10 @@
     {
       "ts": "22:45:01",
       "text": " poll complete \u2014 1919 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "23:00:02",
+      "text": " poll complete \u2014 1904 markets scanned, 10 flagged"
     }
   ]
 }
