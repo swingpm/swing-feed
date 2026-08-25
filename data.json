@@ -1,153 +1,158 @@
 {
-  "lastUpdate": "2026-08-25 13:30:01 UTC",
+  "lastUpdate": "2026-08-25 13:45:01 UTC",
   "swings": [
     {
-      "market": "Counter-Strike: ex-RUBY vs Black Phoenix (BO3) - NODWIN Clutch Series Group Stage \u2014 Map 3 Rounds Handicap: Black Phoenix (-9.5) vs ex-RUBY (+9.5)",
-      "prev": 0.5,
-      "now": 0.0,
-      "delta": -0.5,
-      "url": "https://polymarket.com/event/cs2-ruby1-blackp-2026-08-25",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Counter-Strike: 1WIN vs Nemiga - Map 1 Winner",
+      "prev": 0.48,
+      "now": 0.9995,
+      "delta": 0.5195,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
         "Esports",
         "counter strike 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 53899.76,
-      "liquidity": 0.0
+      "volume24hr": 29742.24,
+      "liquidity": 202481.31
     },
     {
-      "market": "Roehampton 2: Alec Deckers vs Luca Potenza \u2014 Roehampton 2: Completed Match: Alec Deckers vs Luca Potenza",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 1 Rounds Handicap: 1WIN (-6.5) vs Nemiga (+6.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-deckers-potenza-2026-08-25",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 100991.51,
-      "liquidity": 1279.22
+      "volume24hr": 180639.94,
+      "liquidity": 244.78
     },
     {
-      "market": "Roehampton 2: Alec Deckers vs Luca Potenza \u2014 Set 2 Winner: Deckers vs Potenza",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 1 Total Rounds: Over/Under 24.5",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-deckers-potenza-2026-08-25",
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 100991.51,
-      "liquidity": 3244.46
+      "volume24hr": 180639.94,
+      "liquidity": 244.22
     },
     {
-      "market": "Roehampton 2: Alec Deckers vs Luca Potenza \u2014 Alec Deckers vs. Luca Potenza: Total Sets O/U 2.5",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 1 Rounds Handicap: Nemiga (-3.5) vs 1WIN (+3.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-deckers-potenza-2026-08-25",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 100991.51,
-      "liquidity": 5897.25
+      "volume24hr": 180639.94,
+      "liquidity": 244.78
     },
     {
-      "market": "Roehampton 2: Alec Deckers vs Luca Potenza \u2014 Deckers vs. Potenza: Set 2 Games O/U 8.5",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map Handicap: NEMI (-1.5) vs 1WIN (+1.5)",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-deckers-potenza-2026-08-25",
+      "now": 0.0055,
+      "delta": -0.4945,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 100991.51,
-      "liquidity": 2885.91
+      "volume24hr": 10.0,
+      "liquidity": 1761.34
     },
     {
-      "market": "Roehampton 2: Alec Deckers vs Luca Potenza \u2014 Deckers vs. Potenza: Match O/U 21.5",
+      "market": "Dota 2: FTS vs PuckChamp (BO3) - EPL Masters Play-In Group A \u2014 Game 2: Both Teams Beat Roshan?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-deckers-potenza-2026-08-25",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/dota2-fts-pckcp-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 100991.51,
-      "liquidity": 5887.49
+      "volume24hr": 269749.28,
+      "liquidity": 100.92
     },
     {
-      "market": "Roehampton 2: Alec Deckers vs Luca Potenza \u2014 Set Handicap: Deckers (-1.5) vs Potenza (+1.5)",
+      "market": "Dota 2: FTS vs PuckChamp (BO3) - EPL Masters Play-In Group A \u2014 Game 2: Any Player Ultra Kill?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-deckers-potenza-2026-08-25",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/dota2-fts-pckcp-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 16.11,
-      "liquidity": 4512.26
+      "volume24hr": 269749.28,
+      "liquidity": 100.92
     },
     {
-      "market": "Roehampton 2: Alec Deckers vs Luca Potenza \u2014 Deckers vs. Potenza: Set 2 Games O/U 9.5",
+      "market": "Dota 2: FTS vs PuckChamp (BO3) - EPL Masters Play-In Group A \u2014 Game 2: Any Player Rampage?",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-deckers-potenza-2026-08-25",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/dota2-fts-pckcp-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 100991.51,
-      "liquidity": 2909.19
+      "volume24hr": 269749.28,
+      "liquidity": 101.92
     },
     {
-      "market": "Roehampton 2: Alec Deckers vs Luca Potenza \u2014 Deckers vs. Potenza: Match O/U 22.5",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 1 Total Rounds: Over/Under 21.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-deckers-potenza-2026-08-25",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 100991.51,
-      "liquidity": 5480.85
+      "volume24hr": 180639.94,
+      "liquidity": 244.22
     },
     {
-      "market": "Roehampton 2: Alec Deckers vs Luca Potenza \u2014 Deckers vs. Potenza: Set 2 Games O/U 10.5",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 1 Rounds Handicap: 1WIN (-3.5) vs Nemiga (+3.5)",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-deckers-potenza-2026-08-25",
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 100991.51,
-      "liquidity": 2892.95
+      "volume24hr": 180639.94,
+      "liquidity": 244.78
     }
   ],
   "log": [
-    {
-      "ts": "06:15:02",
-      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
-    },
     {
       "ts": "06:30:02",
       "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
@@ -263,6 +268,10 @@
     {
       "ts": "13:30:01",
       "text": " poll complete \u2014 1840 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:45:01",
+      "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
     }
   ]
 }
