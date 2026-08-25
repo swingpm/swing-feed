@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-25 11:15:01 UTC",
+  "lastUpdate": "2026-08-25 11:30:01 UTC",
   "swings": [
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 1st Half O/U 0.5",
-      "prev": 0.695,
-      "now": 0.185,
-      "delta": -0.51,
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Both Teams to Score in First Half",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
       "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -13,44 +13,70 @@
         "Soccer",
         "K-league"
       ],
-      "volume24hr": 696.89,
-      "liquidity": 163.84
+      "volume24hr": 182.01,
+      "liquidity": 19897.24
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 1st Half O/U 0.5",
-      "prev": 0.14,
-      "now": 0.5,
-      "delta": 0.36,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine \u2014 Set 2 Winner: Matusevich vs Kouzmine",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-matusev-kouzmin-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
+        "Games"
       ],
-      "volume24hr": 137667.92,
-      "liquidity": 262571.63
+      "volume24hr": 102057.02,
+      "liquidity": 1362.46
     },
     {
-      "market": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: Leo Team vs UNiTY esports - Map 1 Winner",
-      "prev": 0.56,
-      "now": 0.275,
-      "delta": -0.285,
-      "url": "https://polymarket.com/event/cs2-leo2-unity-2026-08-25",
+      "market": "Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine \u2014 Matusevich vs. Kouzmine: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-matusev-kouzmin-2026-08-25",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 200.99,
-      "liquidity": 1175.03
+      "volume24hr": 102057.02,
+      "liquidity": 1040.71
+    },
+    {
+      "market": "Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine \u2014 Matusevich vs. Kouzmine: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-matusev-kouzmin-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 102057.02,
+      "liquidity": 1047.75
+    },
+    {
+      "market": "Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine \u2014 Matusevich vs. Kouzmine: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-matusev-kouzmin-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 102057.02,
+      "liquidity": 1040.71
     },
     {
       "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 1st Half O/U 1.5",
-      "prev": 0.2375,
-      "now": 0.5,
-      "delta": 0.2625,
+      "prev": 0.5,
+      "now": 0.002,
+      "delta": -0.498,
       "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -59,88 +85,13 @@
         "K-league"
       ],
       "volume24hr": 143.45,
-      "liquidity": 262571.63
-    },
-    {
-      "market": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
-      "prev": 0.72,
-      "now": 0.5,
-      "delta": -0.22,
-      "url": "https://polymarket.com/event/cs2-leo2-unity-2026-08-25",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 3.62,
-      "liquidity": 34048.69
-    },
-    {
-      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map Handicap: 1WIN (-1.5) vs Nemiga (+1.5)",
-      "prev": 0.285,
-      "now": 0.495,
-      "delta": 0.21,
-      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 317.07,
-      "liquidity": 98.3
-    },
-    {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 2nd Half O/U 1.5",
-      "prev": 0.69,
-      "now": 0.5,
-      "delta": -0.19,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 137667.92,
-      "liquidity": 262571.63
-    },
-    {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 2nd Half O/U 0.5",
-      "prev": 0.685,
-      "now": 0.51,
-      "delta": -0.175,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 137667.92,
-      "liquidity": 2.56
-    },
-    {
-      "market": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage",
-      "prev": 0.47,
-      "now": 0.305,
-      "delta": -0.165,
-      "url": "https://polymarket.com/event/cs2-leo2-unity-2026-08-25",
-      "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 54825.1,
-      "liquidity": 13311.35
+      "liquidity": 4625.75
     },
     {
       "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: FC Seoul 1st Half O/U 0.5",
-      "prev": 0.66,
-      "now": 0.5,
-      "delta": -0.16,
+      "prev": 0.5,
+      "now": 0.0035,
+      "delta": -0.4965,
       "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -148,15 +99,56 @@
         "Soccer",
         "K-league"
       ],
-      "volume24hr": 137667.92,
-      "liquidity": 262571.63
+      "volume24hr": 142767.78,
+      "liquidity": 4651.4
+    },
+    {
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 1st Half O/U 0.5",
+      "prev": 0.5,
+      "now": 0.0035,
+      "delta": -0.4965,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 142767.78,
+      "liquidity": 4651.41
+    },
+    {
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 1st Half O/U 1.5",
+      "prev": 0.485,
+      "now": 0.0005,
+      "delta": -0.4845,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
+      ],
+      "volume24hr": 1130.99,
+      "liquidity": 38961.04
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 4.5",
+      "prev": 0.555,
+      "now": 0.1,
+      "delta": -0.455,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 432.16,
+      "liquidity": 101.64
     }
   ],
   "log": [
-    {
-      "ts": "04:00:01",
-      "text": " poll complete \u2014 1812 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:15:01",
       "text": " poll complete \u2014 1803 markets scanned, 10 flagged"
@@ -272,6 +264,10 @@
     {
       "ts": "11:15:01",
       "text": " poll complete \u2014 1797 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:30:01",
+      "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
     }
   ]
 }
