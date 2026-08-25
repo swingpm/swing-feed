@@ -1,81 +1,11 @@
 {
-  "lastUpdate": "2026-08-25 15:15:02 UTC",
+  "lastUpdate": "2026-08-25 15:30:01 UTC",
   "swings": [
     {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 213.17,
-      "liquidity": 5740.65
-    },
-    {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Set 1 Winner: Cretu vs McDonald",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 20.0,
-      "liquidity": 6571.87
-    },
-    {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 113978.94,
-      "liquidity": 5718.53
-    },
-    {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Cretu vs. McDonald: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 113978.94,
-      "liquidity": 5692.75
-    },
-    {
-      "market": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo \u2014 Set 2 Winner: Gaston vs Justo",
-      "prev": 0.76,
-      "now": 0.4,
-      "delta": -0.36,
-      "url": "https://polymarket.com/event/atp-gaston-justo-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 172715.37,
-      "liquidity": 486.42
-    },
-    {
       "market": "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi \u2014 Set 2 Winner: Bu vs Noguchi",
-      "prev": 0.635,
-      "now": 0.335,
-      "delta": -0.3,
+      "prev": 0.335,
+      "now": 0.63,
+      "delta": 0.295,
       "url": "https://polymarket.com/event/atp-bu-noguchi-2026-08-25",
       "tags": [
         "Tennis",
@@ -83,78 +13,144 @@
         "Games"
       ],
       "volume24hr": 82238.19,
-      "liquidity": 770.18
+      "liquidity": 808.09
     },
     {
-      "market": "Augsburg: Cezar Cretu vs Niels McDonald \u2014 Set Handicap: McDonald (-1.5) vs Cretu (+1.5)",
-      "prev": 0.5,
-      "now": 0.25,
-      "delta": -0.25,
-      "url": "https://polymarket.com/event/atp-cretu-mcdona-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 10.0,
-      "liquidity": 3485.5
-    },
-    {
-      "market": "Highest temperature in Paris on August 25? \u2014 Will the highest temperature in Paris be 29\u00b0C on August 25?",
-      "prev": 0.765,
-      "now": 0.97,
-      "delta": 0.205,
-      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-25-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Paris",
-        "France",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 8369.14,
-      "liquidity": 275.24
-    },
-    {
-      "market": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori \u2014 Ofner vs. Nishikori: Set 1 Games O/U 10.5",
-      "prev": 0.305,
-      "now": 0.5,
-      "delta": 0.195,
+      "market": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori \u2014 Set 1 Winner: Ofner vs Nishikori",
+      "prev": 0.495,
+      "now": 0.23,
+      "delta": -0.265,
       "url": "https://polymarket.com/event/atp-ofner-nishiko-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 109345.67,
-      "liquidity": 459137.14
+      "volume24hr": 189.75,
+      "liquidity": 633.59
     },
     {
-      "market": "Highest temperature in Paris on August 25? \u2014 Will the highest temperature in Paris be 28\u00b0C on August 25?",
-      "prev": 0.16,
-      "now": 0.0005,
-      "delta": -0.1595,
-      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-25-2026",
+      "market": "Dota 2: Inner Circle vs FTS (BO3) - EPL Masters Play-In Group A \u2014 Dota 2: Inner Circle vs FTS - Game 2 Winner",
+      "prev": 0.725,
+      "now": 0.984,
+      "delta": 0.259,
+      "url": "https://polymarket.com/event/dota2-ic-fts-2026-08-25",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Paris",
-        "France",
-        "Daily Temperature",
-        "Highest temperature"
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 10626.73,
-      "liquidity": 11392.23
+      "volume24hr": 70175.0,
+      "liquidity": 63187.94
+    },
+    {
+      "market": "LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.26,
+      "delta": -0.24,
+      "url": "https://polymarket.com/event/lol-shft-th-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 99394.25,
+      "liquidity": 352.6
+    },
+    {
+      "market": "LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 2: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.26,
+      "delta": -0.24,
+      "url": "https://polymarket.com/event/lol-shft-th-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 99394.25,
+      "liquidity": 352.6
+    },
+    {
+      "market": "LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.27,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/lol-shft-th-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 99394.25,
+      "liquidity": 352.6
+    },
+    {
+      "market": "LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.27,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/lol-shft-th-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 99394.25,
+      "liquidity": 355.0
+    },
+    {
+      "market": "LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.27,
+      "delta": -0.23,
+      "url": "https://polymarket.com/event/lol-shft-th-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 99394.25,
+      "liquidity": 352.6
+    },
+    {
+      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs",
+      "prev": 0.639,
+      "now": 0.8655,
+      "delta": 0.2265,
+      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 55531.4,
+      "liquidity": 125590.6
+    },
+    {
+      "market": "LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.275,
+      "delta": -0.225,
+      "url": "https://polymarket.com/event/lol-shft-th-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 99394.25,
+      "liquidity": 355.9
     }
   ],
   "log": [
-    {
-      "ts": "08:00:01",
-      "text": " poll complete \u2014 1781 markets scanned, 10 flagged"
-    },
     {
       "ts": "08:15:01",
       "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
@@ -270,6 +266,10 @@
     {
       "ts": "15:15:02",
       "text": " poll complete \u2014 1805 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "15:30:01",
+      "text": " poll complete \u2014 1815 markets scanned, 10 flagged"
     }
   ]
 }
