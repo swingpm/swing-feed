@@ -1,182 +1,158 @@
 {
-  "lastUpdate": "2026-08-25 07:00:01 UTC",
+  "lastUpdate": "2026-08-25 07:15:02 UTC",
   "swings": [
     {
-      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $75,000 by December 31, 2026?",
-      "prev": 0.755,
-      "now": 0.645,
-      "delta": -0.11,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
-      "tags": [
-        "Bitcoin",
-        "Yearly",
-        "Hit Price",
-        "Crypto Prices",
-        "Crypto"
-      ],
-      "volume24hr": 28.17,
-      "liquidity": 1169.68
-    },
-    {
-      "market": "Highest temperature in Beijing on August 25? \u2014 Will the highest temperature in Beijing be 31\u00b0C on August 25?",
-      "prev": 0.88,
-      "now": 0.98,
-      "delta": 0.1,
-      "url": "https://polymarket.com/event/highest-temperature-in-beijing-on-august-25-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Beijing",
-        "Highest temperature"
-      ],
-      "volume24hr": 4655.11,
-      "liquidity": 568.52
-    },
-    {
-      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "prev": 0.585,
-      "now": 0.495,
-      "delta": -0.09,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
-      "tags": [
-        "Bitcoin",
-        "Yearly",
-        "Hit Price",
-        "Crypto Prices",
-        "Crypto"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 2537.25
-    },
-    {
-      "market": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs \u2014 LoL: Top Esports vs LGD Gaming - Game 4 Winner",
-      "prev": 0.455,
-      "now": 0.545,
-      "delta": 0.09,
-      "url": "https://polymarket.com/event/lol-tes-lgd-2026-08-29",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.27,
+      "now": 0.5,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
         "Esports",
         "league of legends",
         "Games",
         "Sports"
       ],
-      "volume24hr": 36.08,
-      "liquidity": 11900.5
+      "volume24hr": 152239.89,
+      "liquidity": 2.0
     },
     {
-      "market": "Highest temperature in Beijing on August 25? \u2014 Will the highest temperature in Beijing be 32\u00b0C on August 25?",
-      "prev": 0.095,
-      "now": 0.005,
-      "delta": -0.09,
-      "url": "https://polymarket.com/event/highest-temperature-in-beijing-on-august-25-2026",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Destroy Inhibitors?",
+      "prev": 0.27,
+      "now": 0.5,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Beijing",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 3617.87,
-      "liquidity": 421.21
+      "volume24hr": 152239.89,
+      "liquidity": 2.0
     },
     {
-      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $80 on August 27?",
-      "prev": 0.556,
-      "now": 0.6165,
-      "delta": 0.0605,
-      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.275,
+      "now": 0.5,
+      "delta": 0.225,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Solana",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 36590.8,
-      "liquidity": 56.94
+      "volume24hr": 152239.89,
+      "liquidity": 2.0
     },
     {
-      "market": "Highest temperature in Paris on August 25? \u2014 Will the highest temperature in Paris be 29\u00b0C on August 25?",
-      "prev": 0.385,
-      "now": 0.325,
-      "delta": -0.06,
-      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-25-2026",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.28,
+      "now": 0.5,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Paris",
-        "France",
-        "Daily Temperature",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 9209.9,
-      "liquidity": 1123.15
+      "volume24hr": 152239.89,
+      "liquidity": 1.96
     },
     {
-      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 20\u00b0C on August 25?",
-      "prev": 0.2,
-      "now": 0.145,
-      "delta": -0.055,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.28,
+      "now": 0.5,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 5973.13,
-      "liquidity": 1240.23
+      "volume24hr": 152239.89,
+      "liquidity": 2.02
     },
     {
-      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $100 on August 27?",
-      "prev": 0.575,
-      "now": 0.525,
-      "delta": -0.05,
-      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 3: Both Teams Slay Baron Nashor?",
+      "prev": 0.28,
+      "now": 0.5,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Solana",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 45682.22,
-      "liquidity": 5013.81
+      "volume24hr": 152239.89,
+      "liquidity": 2.02
     },
     {
-      "market": "Ethereum above ___ on August 25? \u2014 Will the price of Ethereum be above $2,500 on August 25?",
-      "prev": 0.525,
-      "now": 0.475,
-      "delta": -0.05,
-      "url": "https://polymarket.com/event/ethereum-above-on-august-25-2026",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.285,
+      "now": 0.5,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Ethereum",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 4595.49,
-      "liquidity": 6069.31
+      "volume24hr": 152239.89,
+      "liquidity": 0.1
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.285,
+      "now": 0.5,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 152239.89,
+      "liquidity": 0.1
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 3: Any Player Quadra Kill?",
+      "prev": 0.285,
+      "now": 0.5,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 152239.89,
+      "liquidity": 0.1
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay a Dragon?",
+      "prev": 0.645,
+      "now": 0.5,
+      "delta": -0.145,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 152239.89,
+      "liquidity": 2.02
     }
   ],
   "log": [
-    {
-      "ts": "23:45:01",
-      "text": " poll complete \u2014 1814 markets scanned, 10 flagged"
-    },
     {
       "ts": "00:00:01",
       "text": " poll complete \u2014 1823 markets scanned, 10 flagged"
@@ -292,6 +268,10 @@
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "07:15:02",
+      "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
     }
   ]
 }
