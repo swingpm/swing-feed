@@ -1,152 +1,151 @@
 {
-  "lastUpdate": "2026-08-25 22:15:01 UTC",
+  "lastUpdate": "2026-08-25 22:30:01 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification ATP: Luca Nardi vs Federico Cina \u2014 Set 2 Winner: Nardi vs Cina",
-      "prev": 0.165,
-      "now": 0.72,
-      "delta": 0.555,
-      "url": "https://polymarket.com/event/atp-nardi-cina-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 465.64,
-      "liquidity": 2670.5
-    },
-    {
-      "market": "Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh \u2014 Winston-Salem Open: Completed Match: Juan Manuel Cerundolo vs Dhakshineswar Suresh",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cerund-suresh-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 530.0,
-      "liquidity": 987.76
-    },
-    {
-      "market": "Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh \u2014 Cerundolo vs. Suresh: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-cerund-suresh-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 395440.13,
-      "liquidity": 2607.07
-    },
-    {
-      "market": "Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh \u2014 Cerundolo vs. Suresh: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cerund-suresh-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 395440.13,
-      "liquidity": 2616.97
-    },
-    {
-      "market": "Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh \u2014 Cerundolo vs. Suresh: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-cerund-suresh-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 395440.13,
-      "liquidity": 2609.93
-    },
-    {
-      "market": "US Open, Qualification ATP: Luca Nardi vs Federico Cina \u2014 US Open, Qualification ATP: Completed Match: Luca Nardi vs Federico Cina",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-nardi-cina-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 256898.94,
-      "liquidity": 203.85
-    },
-    {
-      "market": "Monterrey Open: Shuai Zhang vs Maria Timofeeva \u2014 Zhang vs. Timofeeva: Set 1 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "market": "Monterrey Open: Shuai Zhang vs Maria Timofeeva \u2014 Set Handicap: Timofeeva (-1.5) vs Zhang (+1.5)",
+      "prev": 0.385,
+      "now": 0.87,
+      "delta": 0.485,
       "url": "https://polymarket.com/event/wta-zhang-timofee-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 120883.38,
-      "liquidity": 5754.46
+      "volume24hr": 320.24,
+      "liquidity": 370.0
     },
     {
-      "market": "Monterrey Open: Shuai Zhang vs Maria Timofeeva \u2014 Zhang vs. Timofeeva: Set 1 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
+      "market": "Monterrey Open: Shuai Zhang vs Maria Timofeeva \u2014 Set Handicap: Zhang (-1.5) vs Timofeeva (+1.5)",
+      "prev": 0.48,
+      "now": 0.045,
+      "delta": -0.435,
       "url": "https://polymarket.com/event/wta-zhang-timofee-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 120883.38,
-      "liquidity": 5647.35
+      "volume24hr": 13.08,
+      "liquidity": 460.0
     },
     {
-      "market": "Monterrey Open: Shuai Zhang vs Maria Timofeeva \u2014 Zhang vs. Timofeeva: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/wta-zhang-timofee-2026-08-25",
+      "market": "Dota 2: summer bear vs Spirit Academy (BO3) - EPL Masters Play-In Group B \u2014 Dota 2: summer bear vs Spirit Academy - Game 2 Winner",
+      "prev": 0.366,
+      "now": 0.007,
+      "delta": -0.359,
+      "url": "https://polymarket.com/event/dota2-sb5-spirit1-2026-08-25",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 50771.73,
+      "liquidity": 238422.35
+    },
+    {
+      "market": "Dota 2: summer bear vs Spirit Academy (BO3) - EPL Masters Play-In Group B \u2014 Games Total: O/U 2.5",
+      "prev": 0.425,
+      "now": 0.165,
+      "delta": -0.26,
+      "url": "https://polymarket.com/event/dota2-sb5-spirit1-2026-08-25",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 164845.39,
+      "liquidity": 65.86
+    },
+    {
+      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Set Handicap: Collignon (-1.5) vs Hijikata (+1.5)",
+      "prev": 0.46,
+      "now": 0.21,
+      "delta": -0.25,
+      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 120883.38,
-      "liquidity": 5647.35
+      "volume24hr": 272903.55,
+      "liquidity": 290.0
     },
     {
-      "market": "US Open, Qualification ATP: Luca Nardi vs Federico Cina \u2014 Nardi vs. Cina: Match O/U 22.5",
-      "prev": 0.205,
-      "now": 0.7,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-nardi-cina-2026-08-25",
+      "market": "ITF M25 Oviedo Men: Alejandro Garcia Carbajal vs Javier Barranco Cosano \u2014 Set Handicap: Cosano (-1.5) vs Carbajal (+1.5)",
+      "prev": 0.265,
+      "now": 0.51,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/itf-carbaja-cosano-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 714.54,
-      "liquidity": 800.0
+      "volume24hr": 1.64,
+      "liquidity": 103.1
+    },
+    {
+      "market": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata \u2014 Raphael Collignon vs. Rinky Hijikata: Total Sets O/U 2.5",
+      "prev": 0.54,
+      "now": 0.785,
+      "delta": 0.245,
+      "url": "https://polymarket.com/event/atp-collign-hijikat-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 272903.55,
+      "liquidity": 285.0
+    },
+    {
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Bucsa vs. Bondar: Match O/U 22.5",
+      "prev": 0.485,
+      "now": 0.25,
+      "delta": -0.235,
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 251595.54,
+      "liquidity": 275.75
+    },
+    {
+      "market": "Chicago Sky vs. Connecticut Sun \u2014 Kamilla Cardoso: Points O/U 15.5",
+      "prev": 0.44,
+      "now": 0.66,
+      "delta": 0.22,
+      "url": "https://polymarket.com/event/wnba-chi-conn-2026-08-25",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 164274.19,
+      "liquidity": 43.96
+    },
+    {
+      "market": "Monterrey Open: Cristina Bucsa vs Anna Bondar \u2014 Set 2 Winner: Bucsa vs Bondar",
+      "prev": 0.605,
+      "now": 0.82,
+      "delta": 0.215,
+      "url": "https://polymarket.com/event/wta-bucsa-bondar-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 251595.54,
+      "liquidity": 1101.25
     }
   ],
   "log": [
-    {
-      "ts": "15:00:01",
-      "text": " poll complete \u2014 1748 markets scanned, 10 flagged"
-    },
     {
       "ts": "15:15:02",
       "text": " poll complete \u2014 1805 markets scanned, 10 flagged"
@@ -262,6 +261,10 @@
     {
       "ts": "22:15:01",
       "text": " poll complete \u2014 1970 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "22:30:01",
+      "text": " poll complete \u2014 1914 markets scanned, 10 flagged"
     }
   ]
 }
