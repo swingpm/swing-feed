@@ -1,152 +1,165 @@
 {
-  "lastUpdate": "2026-08-25 14:15:01 UTC",
+  "lastUpdate": "2026-08-25 14:30:02 UTC",
   "swings": [
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Augsburg: Completed Match: Petr Brunclik vs Daniel Masur",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs \u2014 LoL: Gamespace Mediterranean College Esports vs Spartans EU - Game 2 Winner",
+      "prev": 0.77,
+      "now": 0.515,
+      "delta": -0.255,
+      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 220.0,
-      "liquidity": 1294.12
+      "volume24hr": 35072.3,
+      "liquidity": 147152.42
     },
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Petr Brunclik vs. Daniel Masur: Total Sets O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.23,
+      "now": 0.46,
+      "delta": 0.23,
+      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 149612.9,
-      "liquidity": 5419.9
+      "volume24hr": 19124.96,
+      "liquidity": 122.22
     },
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Match O/U 21.5",
+      "market": "Portland Fire vs. Dallas Wings \u2014 Paige Bueckers: Points O/U 20.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "now": 0.305,
+      "delta": -0.195,
+      "url": "https://polymarket.com/event/wnba-por-dal-2026-08-25",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 149612.9,
-      "liquidity": 5449.73
+      "volume24hr": 64525.73,
+      "liquidity": 40.02
     },
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Set 2 Winner: Brunclik vs Masur",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "market": "Highest temperature in London on August 25? \u2014 Will the highest temperature in London be 25\u00b0C on August 25?",
+      "prev": 0.32,
+      "now": 0.155,
+      "delta": -0.165,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-25-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 149612.9,
-      "liquidity": 3168.72
+      "volume24hr": 10486.85,
+      "liquidity": 291.99
     },
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Set 2 Games O/U 8.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "market": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
+      "prev": 0.785,
+      "now": 0.68,
+      "delta": -0.105,
+      "url": "https://polymarket.com/event/atp-hassan-serna-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 149612.9,
-      "liquidity": 2880.94
+      "volume24hr": 282873.97,
+      "liquidity": 231556.55
     },
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Match O/U 22.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "market": "Highest temperature in London on August 25? \u2014 Will the highest temperature in London be 24\u00b0C on August 25?",
+      "prev": 0.69,
+      "now": 0.795,
+      "delta": 0.105,
+      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-25-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "London",
+        "Daily Temperature",
+        "Highest temperature"
       ],
-      "volume24hr": 34.55,
-      "liquidity": 5465.88
+      "volume24hr": 12082.85,
+      "liquidity": 206.15
     },
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Set Handicap: Masur (-1.5) vs Brunclik (+1.5)",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "market": "Washington Mystics vs. Phoenix Mercury \u2014 Kahleah Copper: Assists O/U 1.5",
+      "prev": 0.345,
+      "now": 0.435,
+      "delta": 0.09,
+      "url": "https://polymarket.com/event/wnba-wsh-phx-2026-08-25",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 114.12,
-      "liquidity": 4847.95
+      "volume24hr": 60894.23,
+      "liquidity": 503.64
     },
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 17\u00b0C on August 25?",
+      "prev": 0.36,
+      "now": 0.445,
+      "delta": 0.085,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
       ],
-      "volume24hr": 149612.9,
-      "liquidity": 5482.86
+      "volume24hr": 7811.3,
+      "liquidity": 217.12
     },
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "market": "Portland Fire vs. Dallas Wings \u2014 Jessica Shepard: Rebounds O/U 11.5",
+      "prev": 0.465,
+      "now": 0.395,
+      "delta": -0.07,
+      "url": "https://polymarket.com/event/wnba-por-dal-2026-08-25",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "WNBA",
+        "Basketball"
       ],
-      "volume24hr": 149612.9,
-      "liquidity": 2873.9
+      "volume24hr": 108.7,
+      "liquidity": 1436.42
     },
     {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 16\u00b0C on August 25?",
+      "prev": 0.331,
+      "now": 0.265,
+      "delta": -0.066,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
       ],
-      "volume24hr": 149612.9,
-      "liquidity": 2873.9
+      "volume24hr": 13226.84,
+      "liquidity": 257.4
     }
   ],
   "log": [
-    {
-      "ts": "07:00:01",
-      "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:15:02",
       "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
@@ -262,6 +275,10 @@
     {
       "ts": "14:15:01",
       "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:30:02",
+      "text": " poll complete \u2014 1814 markets scanned, 10 flagged"
     }
   ]
 }
