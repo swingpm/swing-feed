@@ -1,101 +1,86 @@
 {
-  "lastUpdate": "2026-08-25 10:45:01 UTC",
+  "lastUpdate": "2026-08-25 11:00:01 UTC",
   "swings": [
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 3: Ends in Daytime?",
+      "market": "Dota 2: Team Syntax vs Klim Sani4 (BO3) - EPL Masters Play-In Group B \u2014 Game 2: Ends in Daytime?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "url": "https://polymarket.com/event/dota2-stx-ks-2026-08-25",
       "tags": [
         "Esports",
         "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 7.84,
-      "liquidity": 495.52
-    },
-    {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 3: Both Teams Beat Roshan?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 401730.1,
-      "liquidity": 298.92
-    },
-    {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 3: Both Teams Destroy Barracks?",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
-      "tags": [
-        "Esports",
-        "Dota 2",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 401730.1,
+      "volume24hr": 60799.76,
       "liquidity": 494.71
     },
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 3: Any Player Ultra Kill?",
+      "market": "Dota 2: Team Syntax vs Klim Sani4 (BO3) - EPL Masters Play-In Group B \u2014 Game 2: Both Teams Beat Roshan?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "url": "https://polymarket.com/event/dota2-stx-ks-2026-08-25",
       "tags": [
         "Esports",
         "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 401730.1,
-      "liquidity": 298.92
+      "volume24hr": 60799.76,
+      "liquidity": 494.71
     },
     {
-      "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A \u2014 Game 3: Any Player Rampage?",
+      "market": "Dota 2: Team Syntax vs Klim Sani4 (BO3) - EPL Masters Play-In Group B \u2014 Game 2: Both Teams Destroy Barracks?",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
+      "url": "https://polymarket.com/event/dota2-stx-ks-2026-08-25",
       "tags": [
         "Esports",
         "Dota 2",
         "Games",
         "Sports"
       ],
-      "volume24hr": 401730.1,
-      "liquidity": 298.92
+      "volume24hr": 60799.76,
+      "liquidity": 494.71
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Both Teams to Score in Second Half",
-      "prev": 0.155,
-      "now": 0.58,
-      "delta": 0.425,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "Dota 2: Team Syntax vs Klim Sani4 (BO3) - EPL Masters Play-In Group B \u2014 Game 2: Any Player Ultra Kill?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-stx-ks-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 30.45,
-      "liquidity": 4.39
+      "volume24hr": 60799.76,
+      "liquidity": 494.71
     },
     {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 3 Winner",
-      "prev": 0.575,
-      "now": 0.9995,
-      "delta": 0.4245,
+      "market": "Dota 2: Team Syntax vs Klim Sani4 (BO3) - EPL Masters Play-In Group B \u2014 Game 2: Any Player Rampage?",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/dota2-stx-ks-2026-08-25",
+      "tags": [
+        "Esports",
+        "Dota 2",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 60799.76,
+      "liquidity": 494.71
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
       "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
         "Esports",
@@ -103,60 +88,71 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 257994.64,
-      "liquidity": 961170.96
+      "volume24hr": 1541061.07,
+      "liquidity": 100.92
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Both Teams to Score in First Half",
-      "prev": 0.185,
-      "now": 0.545,
-      "delta": 0.36,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
-      ],
-      "volume24hr": 162.01,
-      "liquidity": 349.44
-    },
-    {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 2nd Half O/U 2.5",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Slay a Dragon?",
       "prev": 0.5,
-      "now": 0.205,
-      "delta": -0.295,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 124235.02,
-      "liquidity": 52.26
+      "volume24hr": 1541061.07,
+      "liquidity": 100.92
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: FC Seoul 1st Half O/U 1.5",
-      "prev": 0.155,
-      "now": 0.4,
-      "delta": 0.245,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 330.31,
-      "liquidity": 349.47
+      "volume24hr": 1541061.07,
+      "liquidity": 100.92
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1541061.07,
+      "liquidity": 100.92
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 1: Any Player Penta Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 1541061.07,
+      "liquidity": 100.92
     }
   ],
   "log": [
-    {
-      "ts": "03:30:01",
-      "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:45:01",
       "text": " poll complete \u2014 1809 markets scanned, 10 flagged"
@@ -272,6 +268,10 @@
     {
       "ts": "10:45:01",
       "text": " poll complete \u2014 1820 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "11:00:01",
+      "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
     }
   ]
 }
