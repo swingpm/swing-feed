@@ -1,116 +1,11 @@
 {
-  "lastUpdate": "2026-08-25 01:15:01 UTC",
+  "lastUpdate": "2026-08-25 01:30:01 UTC",
   "swings": [
     {
-      "market": "Colorado Rockies vs. Washington Nationals: O/U 11.5",
-      "prev": 0.49,
-      "now": 0.995,
-      "delta": 0.505,
-      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 706765.76,
-      "liquidity": 834.27
-    },
-    {
-      "market": "LoL: INTZ e-Sports vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Both Teams Slay Baron Nashor?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-itz-vksa-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 206194.98,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: INTZ e-Sports vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Both Teams Slay a Dragon?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-itz-vksa-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 206194.98,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: INTZ e-Sports vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Both Teams Destroy Inhibitors?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-itz-vksa-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 206194.98,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: INTZ e-Sports vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Any Player Quadra Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-itz-vksa-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 206194.98,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: INTZ e-Sports vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Any Player Penta Kill?",
-      "prev": 0.5,
-      "now": 0.1,
-      "delta": -0.4,
-      "url": "https://polymarket.com/event/lol-itz-vksa-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 206194.98,
-      "liquidity": 109.02
-    },
-    {
-      "market": "LoL: INTZ e-Sports vs Vivo Keyd Stars Academy (BO3) - Circuito Desafiante Playoffs \u2014 Game 2: Odd/Even Total Kills?",
-      "prev": 0.5,
-      "now": 0.9,
-      "delta": 0.4,
-      "url": "https://polymarket.com/event/lol-itz-vksa-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 206194.98,
-      "liquidity": 109.02
-    },
-    {
       "market": "Tampa Bay Rays vs. Detroit Tigers \u2014 Spread: Tampa Bay Rays (-2.5)",
-      "prev": 0.685,
-      "now": 0.375,
-      "delta": -0.31,
+      "prev": 0.375,
+      "now": 0.9995,
+      "delta": 0.6245,
       "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
       "tags": [
         "Sports",
@@ -118,45 +13,139 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 48742.9,
-      "liquidity": 13383.36
+      "volume24hr": 50721.01,
+      "liquidity": 56833.4
     },
     {
-      "market": "Colorado Rockies vs. Washington Nationals \u2014 Spread: Washington Nationals (-3.5)",
-      "prev": 0.795,
-      "now": 0.5,
-      "delta": -0.295,
-      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
+      "market": "Tampa Bay Rays vs. Detroit Tigers: O/U 5.5",
+      "prev": 0.615,
+      "now": 0.0035,
+      "delta": -0.6115,
+      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 36.41,
-      "liquidity": 0.1
+      "volume24hr": 547.16,
+      "liquidity": 2932.01
     },
     {
-      "market": "Will the game go to extra innings?: Colorado Rockies vs. Washington Nationals",
+      "market": "Boston Red Sox vs. Miami Marlins \u2014 Spread: Boston Red Sox (-1.5)",
+      "prev": 0.265,
+      "now": 0.87,
+      "delta": 0.605,
+      "url": "https://polymarket.com/event/mlb-bos-mia-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 23075.76,
+      "liquidity": 85299.6
+    },
+    {
+      "market": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana \u2014 Altmaier vs. Comesana: Set 1 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.225,
-      "delta": -0.275,
-      "url": "https://polymarket.com/event/mlb-col-wsh-2026-08-24",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-altmaie-comesan-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 10.75,
-      "liquidity": 195.81
+      "volume24hr": 100.0,
+      "liquidity": 5832.92
+    },
+    {
+      "market": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana \u2014 Altmaier vs. Comesana: Set 1 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-altmaie-comesan-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 166595.34,
+      "liquidity": 5789.68
+    },
+    {
+      "market": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana \u2014 Altmaier vs. Comesana: Set 1 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-altmaie-comesan-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 166595.34,
+      "liquidity": 5796.72
+    },
+    {
+      "market": "US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda \u2014 Jones vs. Svajda: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-jones-svajd-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 15.77,
+      "liquidity": 5640.81
+    },
+    {
+      "market": "US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda \u2014 Jones vs. Svajda: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-jones-svajd-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 68299.38,
+      "liquidity": 3066.81
+    },
+    {
+      "market": "US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda \u2014 Jones vs. Svajda: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-jones-svajd-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 1.89,
+      "liquidity": 5640.81
+    },
+    {
+      "market": "US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda \u2014 Jones vs. Svajda: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-jones-svajd-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 68299.38,
+      "liquidity": 3066.81
     }
   ],
   "log": [
-    {
-      "ts": "18:00:01",
-      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
-    },
     {
       "ts": "18:15:02",
       "text": " poll complete \u2014 1855 markets scanned, 10 flagged"
@@ -272,6 +261,10 @@
     {
       "ts": "01:15:01",
       "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "01:30:01",
+      "text": " poll complete \u2014 1808 markets scanned, 10 flagged"
     }
   ]
 }
