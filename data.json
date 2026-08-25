@@ -1,154 +1,157 @@
 {
-  "lastUpdate": "2026-08-25 20:45:01 UTC",
+  "lastUpdate": "2026-08-25 21:00:01 UTC",
   "swings": [
     {
-      "market": "US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova \u2014 Set 2 Winner: Liutova vs Prozorova",
-      "prev": 0.82,
-      "now": 0.005,
-      "delta": -0.815,
-      "url": "https://polymarket.com/event/wta-liutova-prozoro-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 58.97,
-      "liquidity": 10995.03
-    },
-    {
-      "market": "US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova \u2014 Set Handicap: Liutova (-1.5) vs Prozorova (+1.5)",
-      "prev": 0.79,
-      "now": 0.04,
-      "delta": -0.75,
-      "url": "https://polymarket.com/event/wta-liutova-prozoro-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 21.73,
-      "liquidity": 230.0
-    },
-    {
-      "market": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo \u2014 Gaston vs. Justo: Match O/U 23.5",
-      "prev": 0.63,
-      "now": 0.005,
-      "delta": -0.625,
-      "url": "https://polymarket.com/event/atp-gaston-justo-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 205990.72,
-      "liquidity": 5318.71
-    },
-    {
-      "market": "Ipswich Town FC vs. Leicester City FC - More Markets \u2014 Ipswich Town FC vs. Leicester City FC: Ipswich Town FC O/U 2.5",
-      "prev": 0.39,
-      "now": 0.995,
-      "delta": 0.605,
-      "url": "https://polymarket.com/event/efl-ips-lei-2026-08-25-more-markets",
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Real Betis Balompi\u00e9 O/U 0.5",
+      "prev": 0.235,
+      "now": 0.9995,
+      "delta": 0.7645,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
       "tags": [
         "Sports",
         "Games",
         "Soccer",
-        "EFL Cup",
-        "Carabao Cup"
+        "La Liga"
       ],
-      "volume24hr": 115627.41,
-      "liquidity": 7132.55
+      "volume24hr": 3047.99,
+      "liquidity": 22303.0
     },
     {
-      "market": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo \u2014 Set Handicap: Gaston (-1.5) vs Justo (+1.5)",
-      "prev": 0.48,
-      "now": 0.995,
-      "delta": 0.515,
-      "url": "https://polymarket.com/event/atp-gaston-justo-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 6271.96,
-      "liquidity": 222758.0
-    },
-    {
-      "market": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi \u2014 Game Spread: Darderi (-1.5) vs Bellucci (+1.5)",
-      "prev": 0.49,
+      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 Spread: LASK Linz (-2.5)",
+      "prev": 0.3185,
       "now": 0.9995,
-      "delta": 0.5095,
-      "url": "https://polymarket.com/event/atp-bellucc-darderi-2026-08-25",
+      "delta": 0.681,
+      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "UCL"
       ],
-      "volume24hr": 5699.64,
-      "liquidity": 15774.87
+      "volume24hr": 15897.64,
+      "liquidity": 154586.49
     },
     {
-      "market": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi \u2014 Winston-Salem Open: Completed Match: Mattia Bellucci vs Luciano Darderi",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-bellucc-darderi-2026-08-25",
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 \u2014 Will Real Betis Balompi\u00e9 win on 2026-08-25?",
+      "prev": 0.195,
+      "now": 0.87,
+      "delta": 0.675,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "Soccer",
+        "La Liga"
       ],
-      "volume24hr": 822452.68,
-      "liquidity": 1278.62
+      "volume24hr": 877125.62,
+      "liquidity": 4173.28
     },
     {
-      "market": "Kingston 2: Keshav Chopra vs Kaylan Bigun \u2014 Chopra vs. Bigun: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-chopra-bigun-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 209.39,
-      "liquidity": 5470.26
-    },
-    {
-      "market": "Kingston 2: Keshav Chopra vs Kaylan Bigun \u2014 Chopra vs. Bigun: Match O/U 23.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-chopra-bigun-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 208317.0,
-      "liquidity": 5470.26
-    },
-    {
-      "market": "Kingston 2: Keshav Chopra vs Kaylan Bigun \u2014 Set Handicap: Bigun (-1.5) vs Chopra (+1.5)",
-      "prev": 0.5,
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - Exact Score \u2014 Exact Score: Valencia CF 0 - 0 Real Betis Balompi\u00e9?",
+      "prev": 0.6,
       "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-chopra-bigun-2026-08-25",
+      "delta": -0.5995,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-exact-score",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 12227.68,
+      "liquidity": 174517.19
+    },
+    {
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: O/U 0.5",
+      "prev": 0.405,
+      "now": 0.9995,
+      "delta": 0.5945,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 232398.45,
+      "liquidity": 248136.03
+    },
+    {
+      "market": "FK Bod\u00f8/Glimt vs. NEC - More Markets \u2014 FK Bod\u00f8/Glimt vs. NEC: O/U 3.5",
+      "prev": 0.555,
+      "now": 0.0005,
+      "delta": -0.5545,
+      "url": "https://polymarket.com/event/ucl-bog-nec-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 31920.67,
+      "liquidity": 248338.38
+    },
+    {
+      "market": "Will Valencia CF vs. Real Betis Balompi\u00e9 end in a draw?",
+      "prev": 0.635,
+      "now": 0.085,
+      "delta": -0.55,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 174067.62,
+      "liquidity": 12571.38
+    },
+    {
+      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 LASK Linz vs. Celtic FC: Celtic FC O/U 1.5",
+      "prev": 0.535,
+      "now": 0.005,
+      "delta": -0.53,
+      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 106.71,
+      "liquidity": 6647.2
+    },
+    {
+      "market": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka \u2014 Martinez vs. Glinka: Match O/U 23.5",
+      "prev": 0.525,
+      "now": 0.0005,
+      "delta": -0.5245,
+      "url": "https://polymarket.com/event/atp-martine-glinka-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 208317.0,
-      "liquidity": 4922.27
+      "volume24hr": 868964.48,
+      "liquidity": 5955.64
+    },
+    {
+      "market": "LASK Linz vs. Celtic FC - More Markets \u2014 LASK Linz vs. Celtic FC: O/U 4.5",
+      "prev": 0.485,
+      "now": 0.9995,
+      "delta": 0.5145,
+      "url": "https://polymarket.com/event/ucl-lin2-cel-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "UCL"
+      ],
+      "volume24hr": 71822.89,
+      "liquidity": 357290.07
     }
   ],
   "log": [
-    {
-      "ts": "13:30:01",
-      "text": " poll complete \u2014 1840 markets scanned, 10 flagged"
-    },
     {
       "ts": "13:45:01",
       "text": " poll complete \u2014 1780 markets scanned, 10 flagged"
@@ -264,6 +267,10 @@
     {
       "ts": "20:45:01",
       "text": " poll complete \u2014 1940 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "21:00:01",
+      "text": " poll complete \u2014 1882 markets scanned, 10 flagged"
     }
   ]
 }
