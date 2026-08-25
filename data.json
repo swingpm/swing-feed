@@ -1,160 +1,165 @@
 {
-  "lastUpdate": "2026-08-25 12:45:01 UTC",
+  "lastUpdate": "2026-08-25 13:00:01 UTC",
   "swings": [
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: FC Seoul O/U 1.5",
-      "prev": 0.52,
-      "now": 0.0005,
-      "delta": -0.5195,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: Leo Team vs UNiTY esports - Map 2 Winner",
+      "prev": 0.385,
+      "now": 0.035,
+      "delta": -0.35,
+      "url": "https://polymarket.com/event/cs2-leo2-unity-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 1205.72,
-      "liquidity": 21827.6
+      "volume24hr": 22666.29,
+      "liquidity": 10435.99
     },
     {
-      "market": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd \u2014 Roehampton 2: Completed Match: Fabrizio Andaloro vs Emile Hudd",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-andalor-hudd-2026-08-25",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Counter-Strike: 1WIN vs Nemiga - Map 1 Winner",
+      "prev": 0.42,
+      "now": 0.75,
+      "delta": 0.33,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 291446.37,
-      "liquidity": 1780.05
-    },
-    {
-      "market": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd \u2014 Andaloro vs. Hudd: Match O/U 21.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-andalor-hudd-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 8.64,
-      "liquidity": 5932.76
-    },
-    {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 O/U 0.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 153.64,
-      "liquidity": 12416.1
+      "volume24hr": 7308.71,
+      "liquidity": 46064.35
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage \u2014 Games Total: O/U 2.5",
+      "prev": 0.665,
+      "now": 0.935,
+      "delta": 0.27,
+      "url": "https://polymarket.com/event/cs2-leo2-unity-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 16.66,
-      "liquidity": 11997.82
+      "volume24hr": 10.79,
+      "liquidity": 449.21
     },
     {
-      "market": "Jeju SK FC vs. Pohang Steelers FC - More Markets \u2014 Jeju SK FC vs. Pohang Steelers FC: Jeju SK FC O/U 1.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/kor-jej-poh-2026-08-25-more-markets",
+      "market": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage",
+      "prev": 0.655,
+      "now": 0.405,
+      "delta": -0.25,
+      "url": "https://polymarket.com/event/cs2-leo2-unity-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 39.49,
-      "liquidity": 14136.04
+      "volume24hr": 83380.34,
+      "liquidity": 97621.02
     },
     {
-      "market": "Jeju SK FC vs. Pohang Steelers FC - More Markets \u2014 Jeju SK FC vs. Pohang Steelers FC: Jeju SK FC O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/kor-jej-poh-2026-08-25-more-markets",
+      "market": "What price will Bitcoin hit on August 25? \u2014 Will Bitcoin dip to $77,000 on August 25?",
+      "prev": 0.36,
+      "now": 0.18,
+      "delta": -0.18,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-25-2026",
       "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New",
+        "Bitcoin",
+        "Daily",
+        "Today \ud83d\ude80",
+        "Hit Price"
       ],
-      "volume24hr": 2065.09,
-      "liquidity": 27015.77
+      "volume24hr": 3719.32,
+      "liquidity": 6084.4
     },
     {
-      "market": "Jeju SK FC vs. Pohang Steelers FC - More Markets \u2014 Jeju SK FC vs. Pohang Steelers FC: Pohang Steelers FC O/U 2.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/kor-jej-poh-2026-08-25-more-markets",
+      "market": "Dota 2: FTS vs PuckChamp (BO3) - EPL Masters Play-In Group A \u2014 Game 2: Both Teams Beat Roshan?",
+      "prev": 0.335,
+      "now": 0.5,
+      "delta": 0.165,
+      "url": "https://polymarket.com/event/dota2-fts-pckcp-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 1637.53,
-      "liquidity": 28164.12
+      "volume24hr": 211957.09,
+      "liquidity": 662153.59
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Both Teams to Score in Second Half",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage",
+      "prev": 0.555,
+      "now": 0.68,
+      "delta": 0.125,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "counter strike 2",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 30.45,
-      "liquidity": 2781.09
+      "volume24hr": 114203.9,
+      "liquidity": 26065.58
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 2nd Half O/U 1.5",
-      "prev": 0.5,
-      "now": 0.003,
-      "delta": -0.497,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "Dota 2: FTS vs PuckChamp (BO3) - EPL Masters Play-In Group A \u2014 Game Handicap: PckCp (-1.5) vs FTS (+1.5)",
+      "prev": 0.625,
+      "now": 0.745,
+      "delta": 0.12,
+      "url": "https://polymarket.com/event/dota2-fts-pckcp-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "Dota 2",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 183912.31,
-      "liquidity": 3078.87
+      "volume24hr": 2449.45,
+      "liquidity": 41.5
+    },
+    {
+      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $100 on August 27?",
+      "prev": 0.315,
+      "now": 0.425,
+      "delta": 0.11,
+      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
+      "tags": [
+        "Solana",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 48300.61,
+      "liquidity": 14171.07
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.9,
+      "now": 1.0,
+      "delta": 0.1,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 2232170.9,
+      "liquidity": 0.0
     }
   ],
   "log": [
-    {
-      "ts": "05:30:01",
-      "text": " poll complete \u2014 1794 markets scanned, 10 flagged"
-    },
     {
       "ts": "05:45:01",
       "text": " poll complete \u2014 1810 markets scanned, 10 flagged"
@@ -270,6 +275,10 @@
     {
       "ts": "12:45:01",
       "text": " poll complete \u2014 1835 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "13:00:01",
+      "text": " poll complete \u2014 1850 markets scanned, 10 flagged"
     }
   ]
 }
