@@ -1,65 +1,11 @@
 {
-  "lastUpdate": "2026-08-25 10:00:01 UTC",
+  "lastUpdate": "2026-08-25 10:15:01 UTC",
   "swings": [
     {
-      "market": "Bitcoin Up or Down on August 25?",
-      "prev": 0.745,
-      "now": 0.515,
-      "delta": -0.23,
-      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-25-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Up or Down",
-        "Today \ud83d\ude80",
-        "Daily",
-        "Daily-Close"
-      ],
-      "volume24hr": 176467.7,
-      "liquidity": 34876.33
-    },
-    {
-      "market": "What price will Ethereum hit in 2026? \u2014 Will Ethereum dip to $2,000 by December 31, 2026?",
-      "prev": 0.715,
-      "now": 0.495,
-      "delta": -0.22,
-      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
-      "tags": [
-        "Ethereum",
-        "Hit Price",
-        "Crypto Prices",
-        "Yearly",
-        "Crypto"
-      ],
-      "volume24hr": 86235.44,
-      "liquidity": 2806.46
-    },
-    {
-      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $80,000 on August 25?",
-      "prev": 0.435,
-      "now": 0.24,
-      "delta": -0.195,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 29104.51,
-      "liquidity": 26159.91
-    },
-    {
       "market": "Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A",
-      "prev": 0.445,
-      "now": 0.275,
-      "delta": -0.17,
+      "prev": 0.275,
+      "now": 0.79,
+      "delta": 0.515,
       "url": "https://polymarket.com/event/dota2-pckcp-nemiga-2026-08-25",
       "tags": [
         "Esports",
@@ -67,14 +13,14 @@
         "Games",
         "Sports"
       ],
-      "volume24hr": 52132.02,
-      "liquidity": 178812.22
+      "volume24hr": 83776.59,
+      "liquidity": 199526.05
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 2nd Half O/U 0.5",
-      "prev": 0.225,
-      "now": 0.385,
-      "delta": 0.16,
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 O/U 2.5",
+      "prev": 0.04,
+      "now": 0.252,
+      "delta": 0.212,
       "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -82,14 +28,14 @@
         "Soccer",
         "K-league"
       ],
-      "volume24hr": 96087.4,
-      "liquidity": 91.02
+      "volume24hr": 104744.22,
+      "liquidity": 755.62
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: FC Seoul 2nd Half O/U 1.5",
-      "prev": 0.205,
-      "now": 0.35,
-      "delta": 0.145,
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 O/U 1.5",
+      "prev": 0.175,
+      "now": 0.365,
+      "delta": 0.19,
       "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
         "Sports",
@@ -97,88 +43,114 @@
         "Soccer",
         "K-league"
       ],
-      "volume24hr": 96087.4,
-      "liquidity": 102.38
+      "volume24hr": 104744.22,
+      "liquidity": 672.65
     },
     {
-      "market": "Ethereum Up or Down on August 25?",
-      "prev": 0.5,
-      "now": 0.36,
-      "delta": -0.14,
-      "url": "https://polymarket.com/event/ethereum-up-or-down-on-august-25-2026",
+      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: Bucheon FC 1995 1st Half O/U 1.5",
+      "prev": 0.045,
+      "now": 0.1705,
+      "delta": 0.1255,
+      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
       "tags": [
-        "Ethereum",
-        "Up or Down",
-        "Today \ud83d\ude80",
-        "Daily",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Daily-Close"
+        "Sports",
+        "Games",
+        "Soccer",
+        "K-league"
       ],
-      "volume24hr": 41638.86,
-      "liquidity": 28100.6
+      "volume24hr": 143.45,
+      "liquidity": 598.32
     },
     {
-      "market": "What price will Bitcoin hit in August? \u2014 Will Bitcoin dip to $77,500 in August?",
-      "prev": 0.61,
-      "now": 0.735,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-august-2026",
+      "market": "# of views of next MrBeast video on week 1? \u2014 Will MrBeast's next video get between 60 and 70 million views on week 1?",
+      "prev": 0.575,
+      "now": 0.69,
+      "delta": 0.115,
+      "url": "https://polymarket.com/event/of-views-of-next-mrbeast-video-on-week-1-20260822",
       "tags": [
-        "Bitcoin",
-        "Monthly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring"
+        "Culture",
+        "MrBeast",
+        "YouTube"
       ],
-      "volume24hr": 15409.56,
-      "liquidity": 47934.91
+      "volume24hr": 16538.19,
+      "liquidity": 618.96
     },
     {
-      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $78,000 on August 25?",
-      "prev": 0.948,
-      "now": 0.824,
-      "delta": -0.124,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
+      "market": "# of views of next MrBeast video on week 1? \u2014 Will MrBeast's next video get between 70 and 80 million views on week 1?",
+      "prev": 0.4,
+      "now": 0.295,
+      "delta": -0.105,
+      "url": "https://polymarket.com/event/of-views-of-next-mrbeast-video-on-week-1-20260822",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Culture",
+        "MrBeast",
+        "YouTube"
       ],
-      "volume24hr": 87983.79,
-      "liquidity": 34484.41
+      "volume24hr": 7784.79,
+      "liquidity": 1034.68
     },
     {
-      "market": "Bitcoin above ___ on August 26? \u2014 Will the price of Bitcoin be above $80,000 on August 26?",
-      "prev": 0.465,
-      "now": 0.345,
-      "delta": -0.12,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-26-2026",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Games Total: O/U 4.5",
+      "prev": 0.455,
+      "now": 0.545,
+      "delta": 0.09,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 4885.65,
-      "liquidity": 36547.51
+      "volume24hr": 243.81,
+      "liquidity": 4.85
+    },
+    {
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Real Betis Balompi\u00e9 1st Half O/U 1.5",
+      "prev": 0.105,
+      "now": 0.195,
+      "delta": 0.09,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 96908.21,
+      "liquidity": 1316.36
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game Handicap: FOX.Y (-1.5) vs Kiwoom DRX Challengers (+1.5)",
+      "prev": 0.375,
+      "now": 0.29,
+      "delta": -0.085,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 26510.04,
+      "liquidity": 2088.72
+    },
+    {
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: Valencia CF 1st Half O/U 1.5",
+      "prev": 0.095,
+      "now": 0.175,
+      "delta": 0.08,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 96908.21,
+      "liquidity": 1246.97
     }
   ],
   "log": [
-    {
-      "ts": "02:45:01",
-      "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
-    },
     {
       "ts": "03:00:01",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
@@ -294,6 +266,10 @@
     {
       "ts": "10:00:01",
       "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "10:15:01",
+      "text": " poll complete \u2014 1808 markets scanned, 10 flagged"
     }
   ]
 }
