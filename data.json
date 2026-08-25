@@ -1,153 +1,11 @@
 {
-  "lastUpdate": "2026-08-25 06:15:02 UTC",
+  "lastUpdate": "2026-08-25 06:30:02 UTC",
   "swings": [
     {
-      "market": "Highest temperature in Hong Kong on August 25? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 25?",
-      "prev": 0.21,
-      "now": 0.08,
-      "delta": -0.13,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-25-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 14141.86,
-      "liquidity": 869.67
-    },
-    {
-      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: 2nd Half O/U 0.5",
-      "prev": 0.75,
-      "now": 0.62,
-      "delta": -0.13,
-      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
-      "tags": [
-        "Sports",
-        "Games",
-        "Soccer",
-        "La Liga"
-      ],
-      "volume24hr": 44887.43,
-      "liquidity": 2076.98
-    },
-    {
-      "market": "Highest temperature in Hong Kong on August 25? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 25?",
-      "prev": 0.785,
-      "now": 0.91,
-      "delta": 0.125,
-      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-25-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Hong Kong",
-        "Highest temperature"
-      ],
-      "volume24hr": 17298.68,
-      "liquidity": 1167.46
-    },
-    {
-      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "prev": 0.405,
-      "now": 0.51,
-      "delta": 0.105,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
-      "tags": [
-        "Bitcoin",
-        "Yearly",
-        "Hit Price",
-        "Crypto Prices",
-        "Crypto"
-      ],
-      "volume24hr": 5.0,
-      "liquidity": 1.98
-    },
-    {
-      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 4: Any Player Quadra Kill?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 318036.53,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 4: Any Player Penta Kill?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 318036.53,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 5: Any Player Quadra Kill?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 318036.53,
-      "liquidity": 0.0
-    },
-    {
-      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 5: Any Player Penta Kill?",
-      "prev": 0.1,
-      "now": 0.0,
-      "delta": -0.1,
-      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 318036.53,
-      "liquidity": 0.0
-    },
-    {
-      "market": "What price will Solana hit in August? \u2014 Will Solana reach $110 in August?",
-      "prev": 0.521,
-      "now": 0.439,
-      "delta": -0.082,
-      "url": "https://polymarket.com/event/what-price-will-solana-hit-in-august-2026",
-      "tags": [
-        "Solana",
-        "Monthly",
-        "Hit Price",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring"
-      ],
-      "volume24hr": 5073.27,
-      "liquidity": 27011.41
-    },
-    {
       "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $75,000 by December 31, 2026?",
-      "prev": 0.69,
-      "now": 0.61,
-      "delta": -0.08,
+      "prev": 0.61,
+      "now": 0.775,
+      "delta": 0.165,
       "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
       "tags": [
         "Bitcoin",
@@ -157,14 +15,161 @@
         "Crypto"
       ],
       "volume24hr": 28.17,
-      "liquidity": 49.13
+      "liquidity": 169.71
+    },
+    {
+      "market": "Valencia CF vs. Real Betis Balompi\u00e9 - More Markets \u2014 Valencia CF vs. Real Betis Balompi\u00e9: 2nd Half O/U 0.5",
+      "prev": 0.62,
+      "now": 0.755,
+      "delta": 0.135,
+      "url": "https://polymarket.com/event/lal-val-bet-2026-08-25-more-markets",
+      "tags": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "La Liga"
+      ],
+      "volume24hr": 44900.78,
+      "liquidity": 4003.18
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Games Total: O/U 4.5",
+      "prev": 0.245,
+      "now": 0.355,
+      "delta": 0.11,
+      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 64526.82,
+      "liquidity": 9083.44
+    },
+    {
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "prev": 0.51,
+      "now": 0.59,
+      "delta": 0.08,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "tags": [
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto"
+      ],
+      "volume24hr": 5.0,
+      "liquidity": 295.68
+    },
+    {
+      "market": "Highest temperature in Hong Kong on August 25? \u2014 Will the highest temperature in Hong Kong be 31\u00b0C on August 25?",
+      "prev": 0.91,
+      "now": 0.965,
+      "delta": 0.055,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 19521.51,
+      "liquidity": 2007.85
+    },
+    {
+      "market": "Highest temperature in Paris on August 25? \u2014 Will the highest temperature in Paris be 27\u00b0C on August 25?",
+      "prev": 0.18,
+      "now": 0.13,
+      "delta": -0.05,
+      "url": "https://polymarket.com/event/highest-temperature-in-paris-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Paris",
+        "France",
+        "Daily Temperature",
+        "Highest temperature"
+      ],
+      "volume24hr": 6502.15,
+      "liquidity": 1134.98
+    },
+    {
+      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 18\u00b0C on August 25?",
+      "prev": 0.229,
+      "now": 0.1835,
+      "delta": -0.0455,
+      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Munich",
+        "Highest temperature"
+      ],
+      "volume24hr": 4298.57,
+      "liquidity": 1155.82
+    },
+    {
+      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $100 on August 27?",
+      "prev": 0.59,
+      "now": 0.63,
+      "delta": 0.04,
+      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
+      "tags": [
+        "Solana",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 45653.64,
+      "liquidity": 28020.53
+    },
+    {
+      "market": "Highest temperature in Hong Kong on August 25? \u2014 Will the highest temperature in Hong Kong be 32\u00b0C on August 25?",
+      "prev": 0.08,
+      "now": 0.04,
+      "delta": -0.04,
+      "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Hong Kong",
+        "Highest temperature"
+      ],
+      "volume24hr": 15541.0,
+      "liquidity": 1845.16
+    },
+    {
+      "market": "Ethereum above ___ on August 25? \u2014 Will the price of Ethereum be above $2,500 on August 25?",
+      "prev": 0.55,
+      "now": 0.59,
+      "delta": 0.04,
+      "url": "https://polymarket.com/event/ethereum-above-on-august-25-2026",
+      "tags": [
+        "Ethereum",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 4547.72,
+      "liquidity": 24501.03
     }
   ],
   "log": [
-    {
-      "ts": "23:00:01",
-      "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
-    },
     {
       "ts": "23:15:01",
       "text": " poll complete \u2014 1823 markets scanned, 10 flagged"
@@ -280,6 +285,10 @@
     {
       "ts": "06:15:02",
       "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "06:30:02",
+      "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
     }
   ]
 }
