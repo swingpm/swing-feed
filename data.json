@@ -1,126 +1,41 @@
 {
-  "lastUpdate": "2026-08-25 05:00:01 UTC",
+  "lastUpdate": "2026-08-25 05:15:01 UTC",
   "swings": [
     {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Set 1 Games O/U 8.5",
+      "market": "Will the game go to extra innings?: Pittsburgh Pirates vs. San Diego Padres",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
       "tags": [
-        "Tennis",
         "Sports",
-        "Games"
+        "Games",
+        "MLB",
+        "baseball"
       ],
-      "volume24hr": 168.54,
-      "liquidity": 5574.9
+      "volume24hr": 855211.11,
+      "liquidity": 258.67
     },
     {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Set 1 Games O/U 9.5",
+      "market": "LoL: Fuego vs Zeu5 Esports (BO5) - LRN Playoffs \u2014 Game 2: Any Player Quadra Kill?",
       "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/lol-fue-z5-2026-08-24",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 260914.92,
-      "liquidity": 5571.94
-    },
-    {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Set 1 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.9995,
-      "delta": 0.4995,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 260914.92,
-      "liquidity": 5515.22
-    },
-    {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Set 2 Winner: Parry vs Vekic",
-      "prev": 0.47,
-      "now": 0.785,
-      "delta": 0.315,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 260914.92,
-      "liquidity": 2112.63
-    },
-    {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Diane Parry vs. Donna Vekic: Total Sets O/U 2.5",
-      "prev": 0.46,
-      "now": 0.77,
-      "delta": 0.31,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 7.63,
-      "liquidity": 402.56
-    },
-    {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Set 1 Winner: Parry vs Vekic",
-      "prev": 0.275,
-      "now": 0.0005,
-      "delta": -0.2745,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 5416.66,
-      "liquidity": 17818.14
-    },
-    {
-      "market": "Highest temperature in Taipei on August 25? \u2014 Will the highest temperature in Taipei be 30\u00b0C on August 25?",
-      "prev": 0.85,
-      "now": 0.655,
-      "delta": -0.195,
-      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-25-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Taipei",
-        "Highest temperature"
-      ],
-      "volume24hr": 4377.2,
-      "liquidity": 89.88
-    },
-    {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Parry vs. Vekic: Match O/U 22.5",
-      "prev": 0.755,
-      "now": 0.9495,
-      "delta": 0.1945,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 844.22,
-      "liquidity": 63.0
+      "volume24hr": 317049.07,
+      "liquidity": 673.48
     },
     {
       "market": "Highest temperature in Taipei on August 25? \u2014 Will the highest temperature in Taipei be 31\u00b0C on August 25?",
-      "prev": 0.06,
-      "now": 0.245,
-      "delta": 0.185,
+      "prev": 0.245,
+      "now": 0.06,
+      "delta": -0.185,
       "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-25-2026",
       "tags": [
         "Weather",
@@ -130,29 +45,125 @@
         "Taipei",
         "Highest temperature"
       ],
-      "volume24hr": 3037.12,
-      "liquidity": 167.24
+      "volume24hr": 2996.95,
+      "liquidity": 279.36
     },
     {
-      "market": "Monterrey Open: Diane Parry vs Donna Vekic \u2014 Set Handicap: Vekic (-1.5) vs Parry (+1.5)",
-      "prev": 0.38,
-      "now": 0.22,
-      "delta": -0.16,
-      "url": "https://polymarket.com/event/wta-parry-vekic-2026-08-24",
+      "market": "What price will Bitcoin hit in 2026? \u2014 Will Bitcoin dip to $65,000 by December 31, 2026?",
+      "prev": 0.235,
+      "now": 0.415,
+      "delta": 0.18,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
       "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto"
       ],
-      "volume24hr": 87.92,
-      "liquidity": 400.0
+      "volume24hr": 858663.8,
+      "liquidity": 7.11
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs Invictus Gaming (BO5) - LPL Knights Rivals \u2014 Games Total: O/U 3.5",
+      "prev": 0.525,
+      "now": 0.7,
+      "delta": 0.175,
+      "url": "https://polymarket.com/event/lol-tt-ig1-2026-08-28",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 64315.5,
+      "liquidity": 6485.13
+    },
+    {
+      "market": "Highest temperature in Taipei on August 25? \u2014 Will the highest temperature in Taipei be 30\u00b0C on August 25?",
+      "prev": 0.655,
+      "now": 0.81,
+      "delta": 0.155,
+      "url": "https://polymarket.com/event/highest-temperature-in-taipei-on-august-25-2026",
+      "tags": [
+        "Weather",
+        "Recurring",
+        "Hide From New",
+        "Daily Temperature",
+        "Taipei",
+        "Highest temperature"
+      ],
+      "volume24hr": 4395.64,
+      "liquidity": 268.17
+    },
+    {
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 4 Winner",
+      "prev": 0.585,
+      "now": 0.445,
+      "delta": -0.14,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 93927.7,
+      "liquidity": 3591.74
+    },
+    {
+      "market": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs \u2014 LoL: Top Esports vs LGD Gaming - Game 4 Winner",
+      "prev": 0.575,
+      "now": 0.455,
+      "delta": -0.12,
+      "url": "https://polymarket.com/event/lol-tes-lgd-2026-08-29",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 36.08,
+      "liquidity": 12695.81
+    },
+    {
+      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $80 on August 27?",
+      "prev": 0.8025,
+      "now": 0.684,
+      "delta": -0.1185,
+      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
+      "tags": [
+        "Solana",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 36590.8,
+      "liquidity": 1390.33
+    },
+    {
+      "market": "Solana above ___ on August 27? \u2014 Will the price of Solana be above $100 on August 27?",
+      "prev": 0.545,
+      "now": 0.655,
+      "delta": 0.11,
+      "url": "https://polymarket.com/event/solana-above-on-august-27-2026",
+      "tags": [
+        "Solana",
+        "Weekly",
+        "Multi Strikes",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring",
+        "Hide From New"
+      ],
+      "volume24hr": 45543.38,
+      "liquidity": 24023.91
     }
   ],
   "log": [
-    {
-      "ts": "21:45:01",
-      "text": " poll complete \u2014 1841 markets scanned, 10 flagged"
-    },
     {
       "ts": "22:00:01",
       "text": " poll complete \u2014 1879 markets scanned, 10 flagged"
@@ -268,6 +279,10 @@
     {
       "ts": "05:00:01",
       "text": " poll complete \u2014 1795 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "05:15:01",
+      "text": " poll complete \u2014 1787 markets scanned, 10 flagged"
     }
   ]
 }
