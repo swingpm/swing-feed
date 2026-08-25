@@ -1,143 +1,140 @@
 {
-  "lastUpdate": "2026-08-25 03:15:02 UTC",
+  "lastUpdate": "2026-08-25 03:30:01 UTC",
   "swings": [
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: 1st 5 Innings O/U 4.5",
+      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Monterrey Open: Completed Match: Clara Tauson vs Renata Zarazua",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 5654.47,
-      "liquidity": 22348.45
+      "volume24hr": 411053.51,
+      "liquidity": 1389.11
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: 1st 5 Innings O/U 5.5",
+      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Tauson vs. Zarazua: Match O/U 23.5",
       "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "MLB",
-        "baseball"
+        "Games"
       ],
-      "volume24hr": 605.0,
-      "liquidity": 2818.46
+      "volume24hr": 411053.51,
+      "liquidity": 6091.09
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres \u2014 1st 5 Innings Spread: Pittsburgh Pirates (-1.5)",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 35.0,
-      "liquidity": 1659.17
-    },
-    {
-      "market": "Cleveland Guardians vs. Los Angeles Angels \u2014 1st 5 Innings Spread: Los Angeles Angels (-1.5)",
-      "prev": 0.5,
-      "now": 0.004,
-      "delta": -0.496,
-      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 6.0,
-      "liquidity": 1803.44
-    },
-    {
-      "market": "Chicago Cubs vs. Arizona Diamondbacks \u2014 1st 5 Innings Spread: Chicago Cubs (-1.5)",
+      "market": "Cincinnati Reds vs. San Francisco Giants \u2014 1st 5 Innings Spread: San Francisco Giants (-1.5)",
       "prev": 0.5,
       "now": 0.996,
       "delta": 0.496,
-      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-24",
+      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 10.0,
-      "liquidity": 1821.45
+      "volume24hr": 10.63,
+      "liquidity": 1872.85
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres \u2014 1st 5 Innings Spread: San Diego Padres (-1.5)",
+      "market": "Cincinnati Reds vs. San Francisco Giants \u2014 1st 5 Innings Spread: Cincinnati Reds (-1.5)",
+      "prev": 0.5,
+      "now": 0.0045,
+      "delta": -0.4955,
+      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "MLB",
+        "baseball"
+      ],
+      "volume24hr": 586659.62,
+      "liquidity": 2042.36
+    },
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks \u2014 Nneka Ogwumike: Points O/U 15.5",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wnba-atl-la-2026-08-24",
+      "tags": [
+        "Sports",
+        "Games",
+        "WNBA",
+        "Basketball"
+      ],
+      "volume24hr": 632576.01,
+      "liquidity": 940.63
+    },
+    {
+      "market": "Cincinnati Reds vs. San Francisco Giants: 1st 5 Innings O/U 5.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 458219.09,
-      "liquidity": 1747.68
+      "volume24hr": 15.0,
+      "liquidity": 1823.23
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: 1st 5 Innings O/U 2.5",
+      "market": "Cincinnati Reds vs. San Francisco Giants: 1st 5 Innings O/U 6.5",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 125.02,
-      "liquidity": 1759.61
+      "volume24hr": 119.17,
+      "liquidity": 2445.39
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: 1st 5 Innings O/U 3.5",
+      "market": "Monterrey Open: Clara Tauson vs Renata Zarazua \u2014 Game Spread: Tauson (-4.5) vs Zarazua (+4.5)",
+      "prev": 0.5,
+      "now": 0.995,
+      "delta": 0.495,
+      "url": "https://polymarket.com/event/wta-tauson-zarazua-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 411053.51,
+      "liquidity": 3408.62
+    },
+    {
+      "market": "Minnesota Twins vs. Athletics \u2014 1st 5 Innings Spread: Athletics (-1.5)",
       "prev": 0.5,
       "now": 0.005,
       "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
+      "url": "https://polymarket.com/event/mlb-min-oak-2026-08-24",
       "tags": [
         "Sports",
         "Games",
         "MLB",
         "baseball"
       ],
-      "volume24hr": 174.86,
-      "liquidity": 1959.85
+      "volume24hr": 358326.57,
+      "liquidity": 1966.02
     },
     {
-      "market": "Pittsburgh Pirates vs. San Diego Padres: 1st 5 Innings O/U 6.5",
-      "prev": 0.5,
-      "now": 0.005,
-      "delta": -0.495,
-      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-24",
-      "tags": [
-        "Sports",
-        "Games",
-        "MLB",
-        "baseball"
-      ],
-      "volume24hr": 458219.09,
-      "liquidity": 2245.15
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics: 1st 5 Innings O/U 4.5",
+      "market": "Minnesota Twins vs. Athletics \u2014 1st 5 Innings Spread: Minnesota Twins (-1.5)",
       "prev": 0.5,
       "now": 0.995,
       "delta": 0.495,
@@ -148,15 +145,11 @@
         "MLB",
         "baseball"
       ],
-      "volume24hr": 25.0,
-      "liquidity": 1249.72
+      "volume24hr": 358326.57,
+      "liquidity": 1792.14
     }
   ],
   "log": [
-    {
-      "ts": "20:00:01",
-      "text": " poll complete \u2014 1899 markets scanned, 10 flagged"
-    },
     {
       "ts": "20:15:02",
       "text": " poll complete \u2014 1862 markets scanned, 10 flagged"
@@ -272,6 +265,10 @@
     {
       "ts": "03:15:02",
       "text": " poll complete \u2014 1812 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "03:30:01",
+      "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
     }
   ]
 }
