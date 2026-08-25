@@ -1,169 +1,151 @@
 {
-  "lastUpdate": "2026-08-25 14:30:02 UTC",
+  "lastUpdate": "2026-08-25 14:45:01 UTC",
   "swings": [
     {
-      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs \u2014 LoL: Gamespace Mediterranean College Esports vs Spartans EU - Game 2 Winner",
-      "prev": 0.77,
-      "now": 0.515,
-      "delta": -0.255,
-      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 35072.3,
-      "liquidity": 147152.42
-    },
-    {
-      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.23,
-      "now": 0.46,
-      "delta": 0.23,
-      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 19124.96,
-      "liquidity": 122.22
-    },
-    {
-      "market": "Portland Fire vs. Dallas Wings \u2014 Paige Bueckers: Points O/U 20.5",
+      "market": "Augsburg: Kai Wehnelt vs Nick Hardt \u2014 Augsburg: Completed Match: Kai Wehnelt vs Nick Hardt",
       "prev": 0.5,
-      "now": 0.305,
-      "delta": -0.195,
-      "url": "https://polymarket.com/event/wnba-por-dal-2026-08-25",
-      "tags": [
-        "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
-      ],
-      "volume24hr": 64525.73,
-      "liquidity": 40.02
-    },
-    {
-      "market": "Highest temperature in London on August 25? \u2014 Will the highest temperature in London be 25\u00b0C on August 25?",
-      "prev": 0.32,
-      "now": 0.155,
-      "delta": -0.165,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-25-2026",
-      "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
-      ],
-      "volume24hr": 10486.85,
-      "liquidity": 291.99
-    },
-    {
-      "market": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
-      "prev": 0.785,
-      "now": 0.68,
-      "delta": -0.105,
-      "url": "https://polymarket.com/event/atp-hassan-serna-2026-08-25",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-wehnelt-hardt-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 282873.97,
-      "liquidity": 231556.55
+      "volume24hr": 90084.58,
+      "liquidity": 1484.19
     },
     {
-      "market": "Highest temperature in London on August 25? \u2014 Will the highest temperature in London be 24\u00b0C on August 25?",
-      "prev": 0.69,
-      "now": 0.795,
-      "delta": 0.105,
-      "url": "https://polymarket.com/event/highest-temperature-in-london-on-august-25-2026",
+      "market": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map 2 Total Rounds: Over/Under 21.5",
+      "prev": 0.5,
+      "now": 0.005,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/cs2-1win-nemi1-2026-08-25",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "London",
-        "Daily Temperature",
-        "Highest temperature"
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
       ],
-      "volume24hr": 12082.85,
-      "liquidity": 206.15
+      "volume24hr": 227066.04,
+      "liquidity": 118.8
     },
     {
-      "market": "Washington Mystics vs. Phoenix Mercury \u2014 Kahleah Copper: Assists O/U 1.5",
+      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs \u2014 Games Total: O/U 2.5",
+      "prev": 0.46,
+      "now": 0.885,
+      "delta": 0.425,
+      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 19268.1,
+      "liquidity": 170.56
+    },
+    {
+      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs \u2014 LoL: Gamespace Mediterranean College Esports vs Spartans EU - Game 2 Winner",
+      "prev": 0.515,
+      "now": 0.1,
+      "delta": -0.415,
+      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
+      "tags": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "volume24hr": 43132.42,
+      "liquidity": 120250.44
+    },
+    {
+      "market": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo \u2014 Set 2 Winner: Gaston vs Justo",
+      "prev": 0.405,
+      "now": 0.76,
+      "delta": 0.355,
+      "url": "https://polymarket.com/event/atp-gaston-justo-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 172620.37,
+      "liquidity": 489.47
+    },
+    {
+      "market": "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi \u2014 Set 2 Winner: Bu vs Noguchi",
       "prev": 0.345,
-      "now": 0.435,
-      "delta": 0.09,
-      "url": "https://polymarket.com/event/wnba-wsh-phx-2026-08-25",
+      "now": 0.64,
+      "delta": 0.295,
+      "url": "https://polymarket.com/event/atp-bu-noguchi-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
+        "Games"
       ],
-      "volume24hr": 60894.23,
-      "liquidity": 503.64
+      "volume24hr": 82020.22,
+      "liquidity": 1340.19
     },
     {
-      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 17\u00b0C on August 25?",
-      "prev": 0.36,
-      "now": 0.445,
-      "delta": 0.085,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
+      "market": "Augsburg: Kai Wehnelt vs Nick Hardt \u2014 Kai Wehnelt vs. Nick Hardt: Total Sets O/U 2.5",
+      "prev": 0.75,
+      "now": 0.9995,
+      "delta": 0.2495,
+      "url": "https://polymarket.com/event/atp-wehnelt-hardt-2026-08-25",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
-      ],
-      "volume24hr": 7811.3,
-      "liquidity": 217.12
-    },
-    {
-      "market": "Portland Fire vs. Dallas Wings \u2014 Jessica Shepard: Rebounds O/U 11.5",
-      "prev": 0.465,
-      "now": 0.395,
-      "delta": -0.07,
-      "url": "https://polymarket.com/event/wnba-por-dal-2026-08-25",
-      "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "WNBA",
-        "Basketball"
+        "Games"
       ],
-      "volume24hr": 108.7,
-      "liquidity": 1436.42
+      "volume24hr": 90084.58,
+      "liquidity": 8981.32
     },
     {
-      "market": "Highest temperature in Munich on August 25? \u2014 Will the highest temperature in Munich be 16\u00b0C on August 25?",
-      "prev": 0.331,
-      "now": 0.265,
-      "delta": -0.066,
-      "url": "https://polymarket.com/event/highest-temperature-in-munich-on-august-25-2026",
+      "market": "Augsburg: Kai Wehnelt vs Nick Hardt \u2014 Wehnelt vs. Hardt: Match O/U 21.5",
+      "prev": 0.75,
+      "now": 0.9995,
+      "delta": 0.2495,
+      "url": "https://polymarket.com/event/atp-wehnelt-hardt-2026-08-25",
       "tags": [
-        "Weather",
-        "Recurring",
-        "Hide From New",
-        "Daily Temperature",
-        "Munich",
-        "Highest temperature"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 13226.84,
-      "liquidity": 257.4
+      "volume24hr": 3.57,
+      "liquidity": 8862.59
+    },
+    {
+      "market": "Augsburg: Kai Wehnelt vs Nick Hardt \u2014 Set Handicap: Wehnelt (-1.5) vs Hardt (+1.5)",
+      "prev": 0.25,
+      "now": 0.0005,
+      "delta": -0.2495,
+      "url": "https://polymarket.com/event/atp-wehnelt-hardt-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 13.97,
+      "liquidity": 8378.11
+    },
+    {
+      "market": "Augsburg: Kai Wehnelt vs Nick Hardt \u2014 Wehnelt vs. Hardt: Match O/U 22.5",
+      "prev": 0.75,
+      "now": 0.9995,
+      "delta": 0.2495,
+      "url": "https://polymarket.com/event/atp-wehnelt-hardt-2026-08-25",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 10.82,
+      "liquidity": 8991.3
     }
   ],
   "log": [
-    {
-      "ts": "07:15:02",
-      "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:30:02",
       "text": " poll complete \u2014 1813 markets scanned, 10 flagged"
@@ -279,6 +261,10 @@
     {
       "ts": "14:30:02",
       "text": " poll complete \u2014 1814 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:45:01",
+      "text": " poll complete \u2014 1752 markets scanned, 10 flagged"
     }
   ]
 }
