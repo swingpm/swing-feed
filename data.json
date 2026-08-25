@@ -1,70 +1,67 @@
 {
-  "lastUpdate": "2026-08-25 11:45:01 UTC",
+  "lastUpdate": "2026-08-25 12:00:01 UTC",
   "swings": [
     {
-      "market": "Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine \u2014 Matusevich vs. Kouzmine: Match O/U 21.5",
+      "market": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd \u2014 Andaloro vs. Hudd: Set 2 Games O/U 8.5",
       "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-matusev-kouzmin-2026-08-25",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-andalor-hudd-2026-08-25",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 114892.64,
-      "liquidity": 5.94
+      "volume24hr": 144783.04,
+      "liquidity": 3006.87
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: 2nd Half O/U 0.5",
+      "market": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd \u2014 Set 2 Winner: Andaloro vs Hudd",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-andalor-hudd-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
+        "Games"
       ],
-      "volume24hr": 153105.46,
-      "liquidity": 703.31
+      "volume24hr": 144783.04,
+      "liquidity": 3377.52
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: FC Seoul 2nd Half O/U 0.5",
+      "market": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd \u2014 Andaloro vs. Hudd: Set 2 Games O/U 9.5",
       "prev": 0.5,
-      "now": 0.9945,
-      "delta": 0.4945,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-andalor-hudd-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
+        "Games"
       ],
-      "volume24hr": 153105.46,
-      "liquidity": 107.01
+      "volume24hr": 144783.04,
+      "liquidity": 3006.87
     },
     {
-      "market": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage \u2014 Counter-Strike: Leo Team vs UNiTY esports - Map 1 Winner",
-      "prev": 0.49,
-      "now": 0.92,
-      "delta": 0.43,
-      "url": "https://polymarket.com/event/cs2-leo2-unity-2026-08-25",
+      "market": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd \u2014 Andaloro vs. Hudd: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-andalor-hudd-2026-08-25",
       "tags": [
-        "Esports",
-        "counter strike 2",
-        "Games",
-        "Sports"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 5660.92,
-      "liquidity": 11908.28
+      "volume24hr": 144783.04,
+      "liquidity": 2994.83
     },
     {
       "market": "Counter-Strike: Color vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage \u2014 Map Handicap: Color (-1.5) vs CYBERSHOKE Prospects (+1.5)",
-      "prev": 0.855,
-      "now": 0.5,
-      "delta": -0.355,
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
       "url": "https://polymarket.com/event/cs2-color-cyb-2026-08-25",
       "tags": [
         "Esports",
@@ -73,89 +70,84 @@
         "Sports"
       ],
       "volume24hr": 2322.81,
-      "liquidity": 0.1
+      "liquidity": 43802.6
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: FC Seoul O/U 1.5",
-      "prev": 0.35,
-      "now": 0.685,
-      "delta": 0.335,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine \u2014 Matusevich vs. Kouzmine: Match O/U 21.5",
+      "prev": 0.995,
+      "now": 0.5,
+      "delta": -0.495,
+      "url": "https://polymarket.com/event/atp-matusev-kouzmin-2026-08-25",
       "tags": [
+        "Tennis",
         "Sports",
-        "Games",
-        "Soccer",
-        "K-league"
+        "Games"
       ],
-      "volume24hr": 1000.81,
-      "liquidity": 1932.5
+      "volume24hr": 136675.34,
+      "liquidity": 0.01
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 \u2014 Will FC Seoul win on 2026-08-25?",
-      "prev": 0.605,
-      "now": 0.885,
-      "delta": 0.28,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay Baron Nashor?",
+      "prev": 0.5,
+      "now": 0.9,
+      "delta": 0.4,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 60113.63,
-      "liquidity": 121675.33
+      "volume24hr": 2215187.42,
+      "liquidity": 100.92
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 Spread: FC Seoul (-1.5)",
-      "prev": 0.265,
-      "now": 0.54,
-      "delta": 0.275,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Slay a Dragon?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 68052.41,
-      "liquidity": 44788.92
+      "volume24hr": 2215187.42,
+      "liquidity": 100.92
     },
     {
-      "market": "FC Seoul vs. Bucheon FC 1995 - More Markets \u2014 FC Seoul vs. Bucheon FC 1995: O/U 1.5",
-      "prev": 0.485,
-      "now": 0.755,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/kor-seo-bch-2026-08-25-more-markets",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Both Teams Destroy Inhibitors?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 10323.29,
-      "liquidity": 40614.89
+      "volume24hr": 2215187.42,
+      "liquidity": 100.92
     },
     {
-      "market": "Jeju SK FC vs. Pohang Steelers FC \u2014 Will Pohang Steelers FC win on 2026-08-25?",
-      "prev": 0.625,
-      "now": 0.895,
-      "delta": 0.27,
-      "url": "https://polymarket.com/event/kor-jej-poh-2026-08-25",
+      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In \u2014 Game 2: Any Player Quadra Kill?",
+      "prev": 0.5,
+      "now": 0.1,
+      "delta": -0.4,
+      "url": "https://polymarket.com/event/lol-drxc-foxy-2026-08-25",
       "tags": [
-        "Sports",
+        "Esports",
+        "league of legends",
         "Games",
-        "Soccer",
-        "K-league"
+        "Sports"
       ],
-      "volume24hr": 8875.75,
-      "liquidity": 114250.99
+      "volume24hr": 2215187.42,
+      "liquidity": 100.92
     }
   ],
   "log": [
-    {
-      "ts": "04:30:01",
-      "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
-    },
     {
       "ts": "04:45:01",
       "text": " poll complete \u2014 1826 markets scanned, 10 flagged"
@@ -271,6 +263,10 @@
     {
       "ts": "11:45:01",
       "text": " poll complete \u2014 1821 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "12:00:01",
+      "text": " poll complete \u2014 1807 markets scanned, 10 flagged"
     }
   ]
 }
