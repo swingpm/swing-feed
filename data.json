@@ -1,168 +1,148 @@
 {
-  "lastUpdate": "2026-08-25 14:00:02 UTC",
+  "lastUpdate": "2026-08-25 14:15:01 UTC",
   "swings": [
     {
-      "market": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna \u2014 Hassan vs. Serna: Set 2 Games O/U 8.5",
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Augsburg: Completed Match: Petr Brunclik vs Daniel Masur",
       "prev": 0.5,
       "now": 0.9995,
       "delta": 0.4995,
-      "url": "https://polymarket.com/event/atp-hassan-serna-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 186976.23,
-      "liquidity": 1045.53
-    },
-    {
-      "market": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna \u2014 Hassan vs. Serna: Set 2 Games O/U 9.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-hassan-serna-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 186976.23,
-      "liquidity": 1040.69
-    },
-    {
-      "market": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna \u2014 Hassan vs. Serna: Set 2 Games O/U 10.5",
-      "prev": 0.5,
-      "now": 0.0005,
-      "delta": -0.4995,
-      "url": "https://polymarket.com/event/atp-hassan-serna-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 186976.23,
-      "liquidity": 1040.69
-    },
-    {
-      "market": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna \u2014 Set 2 Winner: Hassan vs Serna",
-      "prev": 0.5,
-      "now": 0.995,
-      "delta": 0.495,
-      "url": "https://polymarket.com/event/atp-hassan-serna-2026-08-25",
-      "tags": [
-        "Tennis",
-        "Sports",
-        "Games"
-      ],
-      "volume24hr": 186976.23,
-      "liquidity": 1251.58
-    },
-    {
-      "market": "Augsburg: Petr Brunclik vs Daniel Masur",
-      "prev": 0.415,
-      "now": 0.015,
-      "delta": -0.4,
       "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 82711.17,
-      "liquidity": 269757.7
+      "volume24hr": 220.0,
+      "liquidity": 1294.12
     },
     {
-      "market": "LoL: Gamespace Mediterranean College Esports vs Spartans EU (BO3) - HLL Playoffs \u2014 Games Total: O/U 2.5",
-      "prev": 0.505,
-      "now": 0.145,
-      "delta": -0.36,
-      "url": "https://polymarket.com/event/lol-gsmc-spar-2026-08-25",
-      "tags": [
-        "Esports",
-        "league of legends",
-        "Games",
-        "Sports"
-      ],
-      "volume24hr": 19108.65,
-      "liquidity": 211.44
-    },
-    {
-      "market": "Bitcoin Up or Down on August 25?",
-      "prev": 0.48,
-      "now": 0.135,
-      "delta": -0.345,
-      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-25-2026",
-      "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Up or Down",
-        "Today \ud83d\ude80",
-        "Daily",
-        "Daily-Close"
-      ],
-      "volume24hr": 230110.31,
-      "liquidity": 26723.34
-    },
-    {
-      "market": "Bitcoin above ___ on August 25? \u2014 Will the price of Bitcoin be above $78,000 on August 25?",
-      "prev": 0.881,
-      "now": 0.6195,
-      "delta": -0.2615,
-      "url": "https://polymarket.com/event/bitcoin-above-on-august-25-2026",
-      "tags": [
-        "Bitcoin",
-        "Weekly",
-        "Multi Strikes",
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New"
-      ],
-      "volume24hr": 110439.19,
-      "liquidity": 38420.19
-    },
-    {
-      "market": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna \u2014 Benjamin Hassan vs. Juan Manuel La Serna: Total Sets O/U 2.5",
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Petr Brunclik vs. Daniel Masur: Total Sets O/U 2.5",
       "prev": 0.5,
-      "now": 0.735,
-      "delta": 0.235,
-      "url": "https://polymarket.com/event/atp-hassan-serna-2026-08-25",
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
       "tags": [
         "Tennis",
         "Sports",
         "Games"
       ],
-      "volume24hr": 186976.23,
-      "liquidity": 50.76
+      "volume24hr": 149612.9,
+      "liquidity": 5419.9
     },
     {
-      "market": "What price will Bitcoin hit on August 25? \u2014 Will Bitcoin dip to $77,000 on August 25?",
-      "prev": 0.205,
-      "now": 0.435,
-      "delta": 0.23,
-      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-august-25-2026",
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Match O/U 21.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
       "tags": [
-        "Crypto",
-        "Crypto Prices",
-        "Recurring",
-        "Hide From New",
-        "Bitcoin",
-        "Daily",
-        "Today \ud83d\ude80",
-        "Hit Price"
+        "Tennis",
+        "Sports",
+        "Games"
       ],
-      "volume24hr": 3720.53,
-      "liquidity": 3342.34
+      "volume24hr": 149612.9,
+      "liquidity": 5449.73
+    },
+    {
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Set 2 Winner: Brunclik vs Masur",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 149612.9,
+      "liquidity": 3168.72
+    },
+    {
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Set 2 Games O/U 8.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 149612.9,
+      "liquidity": 2880.94
+    },
+    {
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Match O/U 22.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 34.55,
+      "liquidity": 5465.88
+    },
+    {
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Set Handicap: Masur (-1.5) vs Brunclik (+1.5)",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 114.12,
+      "liquidity": 4847.95
+    },
+    {
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Match O/U 23.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 149612.9,
+      "liquidity": 5482.86
+    },
+    {
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Set 2 Games O/U 9.5",
+      "prev": 0.5,
+      "now": 0.9995,
+      "delta": 0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 149612.9,
+      "liquidity": 2873.9
+    },
+    {
+      "market": "Augsburg: Petr Brunclik vs Daniel Masur \u2014 Brunclik vs. Masur: Set 2 Games O/U 10.5",
+      "prev": 0.5,
+      "now": 0.0005,
+      "delta": -0.4995,
+      "url": "https://polymarket.com/event/atp-bruncli-masur-2026-08-24",
+      "tags": [
+        "Tennis",
+        "Sports",
+        "Games"
+      ],
+      "volume24hr": 149612.9,
+      "liquidity": 2873.9
     }
   ],
   "log": [
-    {
-      "ts": "06:45:02",
-      "text": " poll complete \u2014 1836 markets scanned, 10 flagged"
-    },
     {
       "ts": "07:00:01",
       "text": " poll complete \u2014 1852 markets scanned, 10 flagged"
@@ -278,6 +258,10 @@
     {
       "ts": "14:00:02",
       "text": " poll complete \u2014 1795 markets scanned, 10 flagged"
+    },
+    {
+      "ts": "14:15:01",
+      "text": " poll complete \u2014 1801 markets scanned, 10 flagged"
     }
   ]
 }
